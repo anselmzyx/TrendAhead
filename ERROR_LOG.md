@@ -39,3 +39,6 @@ will likely recur while the project stays inside an iCloud-synced folder.
 Options if it keeps happening: move the project out of Desktop (e.g.
 `~/Projects/TrendAhead`), or disable "Desktop & Documents" iCloud sync.
 GitHub is the real backup either way.
+**Resolved 2026-10-08:** project moved to `~/Developer/TrendAhead`
+(outside iCloud sync); Git history, remote and local server verified
+working from the new location.

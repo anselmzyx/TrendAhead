@@ -37,7 +37,7 @@ and refuses to write a broken dataset.
 
 1. Open Terminal and go to the project folder:
    ```bash
-   cd ~/Desktop/TrendAhead
+   cd ~/Developer/TrendAhead
    ```
 2. Start the development server:
    ```bash
