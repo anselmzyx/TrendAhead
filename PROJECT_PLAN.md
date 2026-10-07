@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 4 — Candidate discovery** (complete: awaiting review of results)
+**Phase 5 — TrendAhead scoring engine** (complete: awaiting review)
 
 ## Completed phases
 
@@ -15,26 +15,29 @@
   Nav, hero, 10 labelled mock trend cards, Score meter, sparklines,
   Recharts topic chart, /topic/[slug] + 404, /methodology, /about.
   Dark-mode colour fix + restrained accent hierarchy confirmed in browser.
+- **Phase 3 — Wikimedia API PoC** (2026-10-07) real pageviews fetched,
+  recent-vs-baseline signal verified; public repo + compliant User-Agent.
+- **Phase 4 — Candidate discovery** (2026-10-07) automatic new-entrant
+  discovery from top-1000 lists, noise filter, provisional ranking.
 
 ## Current checkpoint
 
-Phase 4 done pending review: discover_candidates.py samples 6 days of
-top-1000 lists, dedupes (6,000 raw → 2,288 unique), filters namespace/nav
-noise (17 removed), selects 30 "new entrant" pages, fetches 40-day
-histories (30/30 ok), and prints a provisional ranking (volume floor
-5,000/day; ratio with baseline floored at 100). First real run dominated
-by news/death spikes, NFL players, Nobel-season scientists, plus genuinely
-curious entries (Fallstreak hole, Cleo (mathematician)). 28 unit tests
-pass. Output saved to pipeline/output/ (gitignored).
+Phase 5 done pending review: TrendAhead Score V1 implemented in
+pipeline/scoring.py (acceleration 0.35 + anomaly 0.25 + persistence 0.40,
+x sqrt(volume) gate x spike-quality damp; full formula in
+pipeline/SCORING.md). 3 formulations compared on 38 real histories (30 new
+entrants + 8 evaluation-only "improvers"); F1 chosen. 7 synthetic
+benchmarks pass as tests; weight sensitivity: 9-10/10 top-10 overlap.
+Real V1 ranking: sustained climber (2026 Quebec general election) is #1;
+collapsed spikes (Fallstreak hole, Bryce Young) fell out of the top 20.
 
 ## Next checkpoint
 
-**Phase 5 — TrendAhead scoring engine**: design + document the real 0–100
-score (growth, baseline deviation, volume, persistence), with tests for
-normal/rising/falling/low-volume/missing-day/zero-baseline/outlier cases;
-generate data/trending.json. Signal-quality lessons from Phase 4: damp
-one-day spikes, consider multi-day persistence, watch Wikimedia-internal
-artefacts (e.g. Wikimedia Foundation banner traffic).
+**Phase 6 — Connect real data to the website**: generate data/trending.json
+from the pipeline, replace homepage mock data, wire topic routes/charts/
+timestamps, full build. (Then Phase 7 signal quality: Wikimedia-internal
+artefacts like the Foundation banner page, 2-day plateau ambiguity,
+discovery of slower climbers.)
 
 ## Outstanding phases (summary)
 

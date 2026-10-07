@@ -104,3 +104,18 @@ flagged. Provisional ranking: require recent 3-day avg >= 5,000 views/day,
 rank by recent_avg / max(baseline_avg, 100) — the floor stops tiny-baseline
 ratio explosions. This ranking exists only to choose what humans inspect;
 the real TrendAhead Score is designed separately in Phase 5.
+
+## 2026-10-07 — TrendAhead Score V1 formula (Phase 5)
+
+score = 100 x (0.35 acceleration + 0.25 anomaly + 0.40 persistence)
+x volume^0.5 x (0.25 + 0.75 spike_quality), integers 0-100. Persistence
+carries the largest weight by design: the product decision is that
+sustained multi-day climbers outrank one-day explosions. Volume is a
+multiplicative log-ramp gate (sqrt-softened) so tiny pages score 0 while
+mid-volume climbers aren't crushed; spike quality (traffic concentration +
+collapse-from-peak) damps spikes to as little as 25% rather than deleting
+them. No semantic rules (no celebrity/sports/death classification) — shape
+only. Chosen over an additive-volume variant (let popular-but-flat pages
+creep up) and a geometric-mean variant (same ranking, harder to explain).
+Full documentation: pipeline/SCORING.md. Status labels are provisional and
+momentum-aware; secondary to the score.

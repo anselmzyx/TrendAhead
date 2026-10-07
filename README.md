@@ -47,6 +47,12 @@ a 0–100 **TrendAhead Score**.
   prints a PROVISIONAL ranking (not the TrendAhead Score):
   `python3 pipeline/discover_candidates.py` (writes debug JSON to
   `pipeline/output/`, which is gitignored)
+- `scoring.py` — the TrendAhead Score V1 (0–100): pure, deterministic,
+  documented in full in `pipeline/SCORING.md`
+- `collect_histories.py` — fetches + caches 40-day histories for score
+  evaluation (new entrants + an evaluation-only "improver" sample)
+- `evaluate_scoring.py` — compares scoring formulations on real cached
+  histories, checks weight sensitivity, prints the experimental V1 ranking
 
 ## Project documentation
 
