@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 5 — TrendAhead scoring engine** (complete: awaiting review)
+**Phase 5.5 — Discovery alignment & source hygiene** (complete: awaiting review)
 
 ## Completed phases
 
@@ -19,25 +19,26 @@
   recent-vs-baseline signal verified; public repo + compliant User-Agent.
 - **Phase 4 — Candidate discovery** (2026-10-07) automatic new-entrant
   discovery from top-1000 lists, noise filter, provisional ranking.
+- **Phase 5 — Scoring engine V1** (2026-10-07) 0-100 shape-based score
+  (pipeline/SCORING.md), benchmarked + tested, pushed to GitHub.
 
 ## Current checkpoint
 
-Phase 5 done pending review: TrendAhead Score V1 implemented in
-pipeline/scoring.py (acceleration 0.35 + anomaly 0.25 + persistence 0.40,
-x sqrt(volume) gate x spike-quality damp; full formula in
-pipeline/SCORING.md). 3 formulations compared on 38 real histories (30 new
-entrants + 8 evaluation-only "improvers"); F1 chosen. 7 synthetic
-benchmarks pass as tests; weight sensitivity: 9-10/10 top-10 overlap.
-Real V1 ranking: sustained climber (2026 Quebec general election) is #1;
-collapsed spikes (Fallstreak hole, Bryce Young) fell out of the top 20.
+Phase 5.5 done pending review: discovery now has two paths — new entrants
+(cap 25) + improvers (>= 2 days in each window half, late avg >= 1.4x
+early avg, cap 15) — combined/deduped with discovery reasons tracked.
+Tiny exact-match infrastructure filter (Wikimedia_Foundation, MediaWiki,
+Wiki) documented in DECISIONS.md. Combined run (2026-10-06): 25 + 15,
+0 overlap, 0 failures, only 7 new API fetches thanks to history cache.
+Improver path surfaced sustained climbers invisible to Phase 4 (Quebec
+election #1, Neha Bora #5, Michael Douglas #8, UEFA Nations League #10,
+John Steinbeck #13); Wikimedia Foundation artefact gone. 53 tests pass.
 
 ## Next checkpoint
 
-**Phase 6 — Connect real data to the website**: generate data/trending.json
-from the pipeline, replace homepage mock data, wire topic routes/charts/
-timestamps, full build. (Then Phase 7 signal quality: Wikimedia-internal
-artefacts like the Foundation banner page, 2-day plateau ambiguity,
-discovery of slower climbers.)
+**Phase 6 — Connect real data to the website**: pipeline writes
+data/trending.json + per-topic files; replace homepage mock data; wire
+topic routes, charts, timestamps; full build and manual inspection.
 
 ## Outstanding phases (summary)
 

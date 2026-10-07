@@ -38,6 +38,16 @@ NOISE_EXACT = {
     "Wikipedia",  # the article about Wikipedia itself tops lists via UI links
 }
 
+# Source hygiene (Phase 5.5): pages whose top-list surges are driven by
+# Wikimedia's own site/banner infrastructure rather than public interest in
+# a topic (observed: fundraising banners linking "Wikimedia Foundation").
+# Deliberately TINY and exact-match only — this is not keyword censorship.
+INFRASTRUCTURE_EXACT = {
+    "Wikimedia_Foundation",
+    "MediaWiki",
+    "Wiki",
+}
+
 
 def noise_reason(title: str) -> str | None:
     """Why a title is obvious noise, or None if it looks like a real topic."""
@@ -48,6 +58,8 @@ def noise_reason(title: str) -> str | None:
             return f"internal namespace ({prefix[:-1]})"
     if title in NOISE_EXACT:
         return "site navigation page"
+    if title in INFRASTRUCTURE_EXACT:
+        return "Wikimedia infrastructure page (site/banner-driven attention)"
     return None
 
 
@@ -59,8 +71,8 @@ def noise_reason(title: str) -> str | None:
 def build_pool(day_lists: dict[date, list[dict]]) -> dict[str, dict]:
     """Merge per-day top lists into {title: info} with dedup.
 
-    info: days (sorted list of dates seen), best_rank, max_views
-    (highest single-day views seen in any sampled top list).
+    info: days (sorted list of dates seen), views_by_day ({date: views}),
+    best_rank, max_views (highest single-day views in any sampled list).
     """
     pool: dict[str, dict] = {}
     for day in sorted(day_lists):
@@ -71,9 +83,11 @@ def build_pool(day_lists: dict[date, list[dict]]) -> dict[str, dict]:
             if not isinstance(title, str) or not isinstance(views, int):
                 continue  # malformed entry — top lists occasionally have junk
             info = pool.setdefault(
-                title, {"days": [], "best_rank": rank, "max_views": 0}
+                title,
+                {"days": [], "views_by_day": {}, "best_rank": rank, "max_views": 0},
             )
             info["days"].append(day)
+            info["views_by_day"][day] = views
             info["max_views"] = max(info["max_views"], views)
             if isinstance(rank, int) and (
                 info["best_rank"] is None or rank < info["best_rank"]
@@ -103,6 +117,53 @@ def select_new_entrants(
             entrants.append(title)
     entrants.sort(key=lambda t: pool[t]["max_views"], reverse=True)
     return entrants[:limit]
+
+
+IMPROVER_GROWTH = 1.4  # late-period avg views must be >= 1.4x early-period avg
+IMPROVER_MIN_DAYS = 2  # must appear on >= 2 days in EACH half of the window
+
+
+def select_improvers(
+    pool: dict[str, dict],
+    early_days: set[date],
+    late_days: set[date],
+    limit: int,
+) -> list[str]:
+    """Pick candidates already IN the top lists whose attention is climbing.
+
+    The Phase 4 new-entrant path misses pages that were visible early and
+    grew — exactly the sustained climbers TrendAhead prioritises. A title
+    qualifies when it appears on >= IMPROVER_MIN_DAYS days in BOTH halves of
+    the window and its late-half average top-list views are at least
+    IMPROVER_GROWTH x its early-half average. Ordered by late-half average
+    (most attention first), capped at `limit`."""
+    out = []
+    for title, info in pool.items():
+        vbd = info["views_by_day"]
+        early_views = [vbd[d] for d in vbd if d in early_days]
+        late_views = [vbd[d] for d in vbd if d in late_days]
+        if len(early_views) < IMPROVER_MIN_DAYS or len(late_views) < IMPROVER_MIN_DAYS:
+            continue
+        early_avg = sum(early_views) / len(early_views)
+        late_avg = sum(late_views) / len(late_views)
+        if early_avg > 0 and late_avg >= IMPROVER_GROWTH * early_avg:
+            out.append((title, late_avg))
+    out.sort(key=lambda pair: pair[1], reverse=True)
+    return [title for title, _ in out[:limit]]
+
+
+def combine_candidates(
+    entrants: list[str], improvers: list[str]
+) -> dict[str, list[str]]:
+    """One deduplicated pool: {title: discovery reasons}. A title found by
+    both paths keeps both reasons. Reasons are metadata only — they do not
+    feed the TrendAhead Score."""
+    combined: dict[str, list[str]] = {}
+    for title in entrants:
+        combined.setdefault(title, []).append("new entrant")
+    for title in improvers:
+        combined.setdefault(title, []).append("improver")
+    return combined
 
 
 # ---------------------------------------------------------------------------

@@ -20,40 +20,21 @@ import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-from discovery import build_pool, fill_gaps, noise_reason, select_new_entrants
+from discovery import (
+    build_pool,
+    fill_gaps,
+    noise_reason,
+    select_improvers,
+    select_new_entrants,
+)
 from wikimedia import FetchError, fetch_daily_views, fetch_top_articles
 
 SAMPLE_DAYS = 6
 NEW_ENTRANT_LIMIT = 30
 IMPROVER_LIMIT = 8
-IMPROVER_GROWTH = 1.4  # late max views must be >= this x early max views
 HISTORY_DAYS = 40
 
 OUTPUT_DIR = Path(__file__).parent / "output"
-
-
-def select_improvers(pool: dict, early: set, late: set, limit: int) -> list[str]:
-    """Pages seen in BOTH halves of the window whose attention grew.
-
-    Needs >= 2 appearances in each half; growth measured as max late-day
-    views vs max early-day views. Evaluation-only sample."""
-    out = []
-    for title, info in pool.items():
-        seen = set(info["days"])
-        if len(seen & early) < 2 or len(seen & late) < 2:
-            continue
-        early_max = max(
-            (v for d, v in zip(info["days"], info["views_by_day"]) if d in early),
-            default=0,
-        )
-        late_max = max(
-            (v for d, v in zip(info["days"], info["views_by_day"]) if d in late),
-            default=0,
-        )
-        if early_max > 0 and late_max >= IMPROVER_GROWTH * early_max:
-            out.append((title, late_max))
-    out.sort(key=lambda t: t[1], reverse=True)
-    return [t for t, _ in out[:limit]]
 
 
 def collect() -> dict:
@@ -73,15 +54,6 @@ def collect() -> dict:
         print(f"  top list {day}: {len(day_lists[day])} entries")
 
     pool = build_pool(day_lists)
-    # build_pool tracks max_views; improver selection also needs per-day views
-    for title in pool:
-        pool[title]["views_by_day"] = []
-    for day in sorted(day_lists):
-        by_title = {e["article"]: e["views"] for e in day_lists[day]
-                    if isinstance(e.get("article"), str) and isinstance(e.get("views"), int)}
-        for title, info in pool.items():
-            if day in info["days"]:
-                info["views_by_day"].append(by_title.get(title, 0))
     for title in list(pool):
         if noise_reason(title):
             del pool[title]

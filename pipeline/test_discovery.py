@@ -5,9 +5,11 @@ from datetime import date, timedelta
 
 from discovery import (
     build_pool,
+    combine_candidates,
     fill_gaps,
     noise_reason,
     provisional_rank,
+    select_improvers,
     select_new_entrants,
 )
 
@@ -34,6 +36,15 @@ class TestNoiseReason(unittest.TestCase):
     def test_colon_inside_title_is_not_noise(self):
         # Titles merely CONTAINING a colon are legitimate articles.
         self.assertIsNone(noise_reason("Star_Wars:_The_Rise_of_Skywalker"))
+
+    def test_infrastructure_pages_filtered_with_reason(self):
+        self.assertIn("infrastructure", noise_reason("Wikimedia_Foundation"))
+        self.assertIn("infrastructure", noise_reason("MediaWiki"))
+
+    def test_infrastructure_filter_is_exact_match_only(self):
+        # No keyword censorship: titles containing these words stay.
+        self.assertIsNone(noise_reason("History_of_Wikipedia_(book)"))
+        self.assertIsNone(noise_reason("Wiki_(disambiguation)"))
 
 
 class TestBuildPool(unittest.TestCase):
@@ -70,6 +81,56 @@ class TestSelectNewEntrants(unittest.TestCase):
     def test_limit_respected(self):
         pool = {f"T{i}": {"days": [D4], "max_views": i, "best_rank": 1} for i in range(10)}
         self.assertEqual(len(select_new_entrants(pool, {D1}, {D4}, limit=3)), 3)
+
+
+def pool_entry(day_views: dict, rank: int = 1) -> dict:
+    return {
+        "days": sorted(day_views),
+        "views_by_day": day_views,
+        "best_rank": rank,
+        "max_views": max(day_views.values()),
+    }
+
+
+class TestSelectImprovers(unittest.TestCase):
+    EARLY, LATE = {D1, D2}, {D3, D4}
+
+    def test_climber_in_both_halves_is_selected(self):
+        pool = {"Climber": pool_entry({D1: 1000, D2: 1200, D3: 2500, D4: 4000})}
+        self.assertEqual(select_improvers(pool, self.EARLY, self.LATE, 10), ["Climber"])
+
+    def test_flat_page_not_selected(self):
+        pool = {"Flat": pool_entry({D1: 1000, D2: 1000, D3: 1100, D4: 1050})}
+        self.assertEqual(select_improvers(pool, self.EARLY, self.LATE, 10), [])
+
+    def test_needs_two_days_in_each_half(self):
+        pool = {"OneEarlyDay": pool_entry({D1: 100, D3: 500, D4: 900})}
+        self.assertEqual(select_improvers(pool, self.EARLY, self.LATE, 10), [])
+
+    def test_new_entrant_not_selected_as_improver(self):
+        pool = {"Entrant": pool_entry({D3: 5000, D4: 9000})}
+        self.assertEqual(select_improvers(pool, self.EARLY, self.LATE, 10), [])
+
+    def test_ordered_by_late_average_and_capped(self):
+        pool = {
+            "Small": pool_entry({D1: 100, D2: 100, D3: 200, D4: 220}),
+            "Big": pool_entry({D1: 1000, D2: 1000, D3: 3000, D4: 5000}),
+        }
+        got = select_improvers(pool, self.EARLY, self.LATE, 10)
+        self.assertEqual(got, ["Big", "Small"])
+        self.assertEqual(select_improvers(pool, self.EARLY, self.LATE, 1), ["Big"])
+
+
+class TestCombineCandidates(unittest.TestCase):
+    def test_dedup_keeps_both_reasons(self):
+        combined = combine_candidates(["A", "B"], ["B", "C"])
+        self.assertEqual(set(combined), {"A", "B", "C"})
+        self.assertEqual(combined["A"], ["new entrant"])
+        self.assertEqual(combined["B"], ["new entrant", "improver"])
+        self.assertEqual(combined["C"], ["improver"])
+
+    def test_empty_sources(self):
+        self.assertEqual(combine_candidates([], []), {})
 
 
 class TestFillGaps(unittest.TestCase):

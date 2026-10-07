@@ -119,3 +119,18 @@ only. Chosen over an additive-volume variant (let popular-but-flat pages
 creep up) and a geometric-mean variant (same ranking, harder to explain).
 Full documentation: pipeline/SCORING.md. Status labels are provisional and
 momentum-aware; secondary to the score.
+
+## 2026-10-07 — Two-path candidate discovery + infrastructure filter (Phase 5.5)
+
+Discovery now combines (a) new entrants — in a late-day top list, absent
+from all early days (Phase 4 path, cap 25) — and (b) improvers — present
+on >= 2 days in BOTH halves of the 6-day window with late-half average
+top-list views >= 1.4x the early-half average (cap 15). Separate caps keep
+both paths represented; discovery reason is tracked as metadata only and
+does not feed the Score. Rationale: Phase 5 proved the best sustained
+climber (2026 Quebec general election) was invisible to the entrant-only
+path. Source hygiene: a deliberately tiny exact-match blocklist
+(Wikimedia_Foundation, MediaWiki, Wiki) for pages whose surges come from
+Wikimedia's own site/banner infrastructure — explicitly NOT keyword or
+topic censorship; no semantic rules (celebrity/sports/death/election all
+stay eligible).

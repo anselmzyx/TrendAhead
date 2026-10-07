@@ -53,6 +53,9 @@ a 0–100 **TrendAhead Score**.
   evaluation (new entrants + an evaluation-only "improver" sample)
 - `evaluate_scoring.py` — compares scoring formulations on real cached
   histories, checks weight sensitivity, prints the experimental V1 ranking
+- `discover_and_score.py` — the combined pipeline: two-path discovery
+  (new entrants + improvers), source-hygiene filtering, V1 scoring:
+  `python3 pipeline/discover_and_score.py`
 
 ## Project documentation
 
