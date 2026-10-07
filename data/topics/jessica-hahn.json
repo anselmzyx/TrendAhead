@@ -1,0 +1,195 @@
+{
+ "title": "Jessica Hahn",
+ "slug": "jessica-hahn",
+ "score": 46,
+ "status": "Emerging signal",
+ "change_percent": 5419,
+ "growth_ratio": 55.17,
+ "recent_avg": 22572,
+ "baseline_avg": 409,
+ "explanation": "Attention is 55\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 22163,
+ "latest": 65913,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.68,
+  "volume": 0.677,
+  "spike_quality": 0.53
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 22,572 views/day over the last 3 days (30-day baseline: 409)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 354
+  },
+  {
+   "date": "2026-08-29",
+   "views": 554
+  },
+  {
+   "date": "2026-08-30",
+   "views": 669
+  },
+  {
+   "date": "2026-08-31",
+   "views": 504
+  },
+  {
+   "date": "2026-09-01",
+   "views": 437
+  },
+  {
+   "date": "2026-09-02",
+   "views": 593
+  },
+  {
+   "date": "2026-09-03",
+   "views": 564
+  },
+  {
+   "date": "2026-09-04",
+   "views": 466
+  },
+  {
+   "date": "2026-09-05",
+   "views": 515
+  },
+  {
+   "date": "2026-09-06",
+   "views": 436
+  },
+  {
+   "date": "2026-09-07",
+   "views": 492
+  },
+  {
+   "date": "2026-09-08",
+   "views": 483
+  },
+  {
+   "date": "2026-09-09",
+   "views": 362
+  },
+  {
+   "date": "2026-09-10",
+   "views": 354
+  },
+  {
+   "date": "2026-09-11",
+   "views": 442
+  },
+  {
+   "date": "2026-09-12",
+   "views": 488
+  },
+  {
+   "date": "2026-09-13",
+   "views": 588
+  },
+  {
+   "date": "2026-09-14",
+   "views": 400
+  },
+  {
+   "date": "2026-09-15",
+   "views": 385
+  },
+  {
+   "date": "2026-09-16",
+   "views": 327
+  },
+  {
+   "date": "2026-09-17",
+   "views": 423
+  },
+  {
+   "date": "2026-09-18",
+   "views": 309
+  },
+  {
+   "date": "2026-09-19",
+   "views": 379
+  },
+  {
+   "date": "2026-09-20",
+   "views": 360
+  },
+  {
+   "date": "2026-09-21",
+   "views": 350
+  },
+  {
+   "date": "2026-09-22",
+   "views": 350
+  },
+  {
+   "date": "2026-09-23",
+   "views": 357
+  },
+  {
+   "date": "2026-09-24",
+   "views": 364
+  },
+  {
+   "date": "2026-09-25",
+   "views": 394
+  },
+  {
+   "date": "2026-09-26",
+   "views": 386
+  },
+  {
+   "date": "2026-09-27",
+   "views": 370
+  },
+  {
+   "date": "2026-09-28",
+   "views": 377
+  },
+  {
+   "date": "2026-09-29",
+   "views": 336
+  },
+  {
+   "date": "2026-09-30",
+   "views": 384
+  },
+  {
+   "date": "2026-10-01",
+   "views": 348
+  },
+  {
+   "date": "2026-10-02",
+   "views": 362
+  },
+  {
+   "date": "2026-10-03",
+   "views": 686
+  },
+  {
+   "date": "2026-10-04",
+   "views": 580
+  },
+  {
+   "date": "2026-10-05",
+   "views": 1223
+  },
+  {
+   "date": "2026-10-06",
+   "views": 65913
+  }
+ ],
+ "wikipedia_title": "Jessica_Hahn",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

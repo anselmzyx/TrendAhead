@@ -1,0 +1,195 @@
+{
+ "title": "Jim Bakker",
+ "slug": "jim-bakker",
+ "score": 56,
+ "status": "Emerging signal",
+ "change_percent": 8589,
+ "growth_ratio": 86.88,
+ "recent_avg": 85501,
+ "baseline_avg": 984,
+ "explanation": "Attention is 87\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 84517,
+ "latest": 250833,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "volume": 0.966,
+  "spike_quality": 0.523
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 85,501 views/day over the last 3 days (30-day baseline: 984)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 839
+  },
+  {
+   "date": "2026-08-29",
+   "views": 1013
+  },
+  {
+   "date": "2026-08-30",
+   "views": 1263
+  },
+  {
+   "date": "2026-08-31",
+   "views": 1011
+  },
+  {
+   "date": "2026-09-01",
+   "views": 1066
+  },
+  {
+   "date": "2026-09-02",
+   "views": 1299
+  },
+  {
+   "date": "2026-09-03",
+   "views": 1150
+  },
+  {
+   "date": "2026-09-04",
+   "views": 991
+  },
+  {
+   "date": "2026-09-05",
+   "views": 1121
+  },
+  {
+   "date": "2026-09-06",
+   "views": 1123
+  },
+  {
+   "date": "2026-09-07",
+   "views": 1147
+  },
+  {
+   "date": "2026-09-08",
+   "views": 970
+  },
+  {
+   "date": "2026-09-09",
+   "views": 967
+  },
+  {
+   "date": "2026-09-10",
+   "views": 849
+  },
+  {
+   "date": "2026-09-11",
+   "views": 915
+  },
+  {
+   "date": "2026-09-12",
+   "views": 1859
+  },
+  {
+   "date": "2026-09-13",
+   "views": 1237
+  },
+  {
+   "date": "2026-09-14",
+   "views": 1125
+  },
+  {
+   "date": "2026-09-15",
+   "views": 930
+  },
+  {
+   "date": "2026-09-16",
+   "views": 864
+  },
+  {
+   "date": "2026-09-17",
+   "views": 850
+  },
+  {
+   "date": "2026-09-18",
+   "views": 860
+  },
+  {
+   "date": "2026-09-19",
+   "views": 812
+  },
+  {
+   "date": "2026-09-20",
+   "views": 981
+  },
+  {
+   "date": "2026-09-21",
+   "views": 877
+  },
+  {
+   "date": "2026-09-22",
+   "views": 831
+  },
+  {
+   "date": "2026-09-23",
+   "views": 821
+  },
+  {
+   "date": "2026-09-24",
+   "views": 818
+  },
+  {
+   "date": "2026-09-25",
+   "views": 715
+  },
+  {
+   "date": "2026-09-26",
+   "views": 776
+  },
+  {
+   "date": "2026-09-27",
+   "views": 969
+  },
+  {
+   "date": "2026-09-28",
+   "views": 834
+  },
+  {
+   "date": "2026-09-29",
+   "views": 838
+  },
+  {
+   "date": "2026-09-30",
+   "views": 905
+  },
+  {
+   "date": "2026-10-01",
+   "views": 893
+  },
+  {
+   "date": "2026-10-02",
+   "views": 857
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1789
+  },
+  {
+   "date": "2026-10-04",
+   "views": 1527
+  },
+  {
+   "date": "2026-10-05",
+   "views": 4142
+  },
+  {
+   "date": "2026-10-06",
+   "views": 250833
+  }
+ ],
+ "wikipedia_title": "Jim_Bakker",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

@@ -1,0 +1,381 @@
+{
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "experimental": true,
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00",
+ "topics": [
+  {
+   "rank": 1,
+   "title": "2026 Quebec general election",
+   "slug": "2026-quebec-general-election",
+   "score": 68,
+   "status": "Strong emerging signal",
+   "change_percent": 1619,
+   "growth_ratio": 17.19,
+   "recent_avg": 69255,
+   "baseline_avg": 4028,
+   "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    4196,
+    4461,
+    4306,
+    3907,
+    4560,
+    7798,
+    8283,
+    7377,
+    7737,
+    9056,
+    10091,
+    14657,
+    39301,
+    153808
+   ]
+  },
+  {
+   "rank": 2,
+   "title": "Karl Deisseroth",
+   "slug": "karl-deisseroth",
+   "score": 67,
+   "status": "Strong emerging signal",
+   "change_percent": 110497,
+   "growth_ratio": 807.36,
+   "recent_avg": 80736,
+   "baseline_avg": 73,
+   "explanation": "Attention is 807\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    96,
+    112,
+    89,
+    79,
+    89,
+    65,
+    107,
+    130,
+    87,
+    61,
+    71,
+    92,
+    112054,
+    130061
+   ]
+  },
+  {
+   "rank": 3,
+   "title": "Robert Kelker-Kelly",
+   "slug": "robert-kelker-kelly",
+   "score": 64,
+   "status": "Strong emerging signal",
+   "change_percent": 183707,
+   "growth_ratio": 827.13,
+   "recent_avg": 82713,
+   "baseline_avg": 45,
+   "explanation": "Attention is 827\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    39,
+    31,
+    46,
+    37,
+    53,
+    120,
+    161,
+    71,
+    40,
+    36,
+    59,
+    146,
+    126211,
+    121783
+   ]
+  },
+  {
+   "rank": 4,
+   "title": "Jeffrey Archer",
+   "slug": "jeffrey-archer",
+   "score": 63,
+   "status": "Strong emerging signal",
+   "change_percent": 7464,
+   "growth_ratio": 75.64,
+   "recent_avg": 131545,
+   "baseline_avg": 1739,
+   "explanation": "Attention is 76\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    799,
+    757,
+    749,
+    1477,
+    985,
+    917,
+    23479,
+    1884,
+    1726,
+    1244,
+    1116,
+    3755,
+    106298,
+    284581
+   ]
+  },
+  {
+   "rank": 5,
+   "title": "Neha Bora",
+   "slug": "neha-bora",
+   "score": 59,
+   "status": "Emerging signal",
+   "change_percent": 968,
+   "growth_ratio": 10.68,
+   "recent_avg": 38112,
+   "baseline_avg": 3568,
+   "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    925,
+    836,
+    3457,
+    5150,
+    2980,
+    2472,
+    2359,
+    2444,
+    4674,
+    12382,
+    24120,
+    35902,
+    43738,
+    34695
+   ]
+  },
+  {
+   "rank": 6,
+   "title": "Jim Bakker",
+   "slug": "jim-bakker",
+   "score": 56,
+   "status": "Emerging signal",
+   "change_percent": 8589,
+   "growth_ratio": 86.88,
+   "recent_avg": 85501,
+   "baseline_avg": 984,
+   "explanation": "Attention is 87\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    821,
+    818,
+    715,
+    776,
+    969,
+    834,
+    838,
+    905,
+    893,
+    857,
+    1789,
+    1527,
+    4142,
+    250833
+   ]
+  },
+  {
+   "rank": 7,
+   "title": "2026 Brazilian general election",
+   "slug": "2026-brazilian-general-election",
+   "score": 55,
+   "status": "Fading / collapsing",
+   "change_percent": 2200,
+   "growth_ratio": 23.0,
+   "recent_avg": 182794,
+   "baseline_avg": 7948,
+   "explanation": "Attention surged to 23\u00d7 its 30-day baseline but has fallen back from its peak.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    5785,
+    5899,
+    6840,
+    8940,
+    10695,
+    19044,
+    13848,
+    13723,
+    15037,
+    22723,
+    31850,
+    236023,
+    247828,
+    64532
+   ]
+  },
+  {
+   "rank": 8,
+   "title": "Michael Douglas",
+   "slug": "michael-douglas",
+   "score": 55,
+   "status": "Emerging signal",
+   "change_percent": 396,
+   "growth_ratio": 4.96,
+   "recent_avg": 47835,
+   "baseline_avg": 9643,
+   "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    7527,
+    9658,
+    16874,
+    13152,
+    11001,
+    8246,
+    7485,
+    7070,
+    6357,
+    29303,
+    37611,
+    26049,
+    45747,
+    71709
+   ]
+  },
+  {
+   "rank": 9,
+   "title": "Tammy Faye Messner",
+   "slug": "tammy-faye-messner",
+   "score": 54,
+   "status": "Emerging signal",
+   "change_percent": 4666,
+   "growth_ratio": 47.65,
+   "recent_avg": 42230,
+   "baseline_avg": 886,
+   "explanation": "Attention is 48\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    706,
+    677,
+    642,
+    734,
+    770,
+    650,
+    706,
+    750,
+    755,
+    762,
+    1582,
+    1371,
+    2316,
+    123002
+   ]
+  },
+  {
+   "rank": 10,
+   "title": "2026\u201327 UEFA Nations League",
+   "slug": "202627-uefa-nations-league",
+   "score": 50,
+   "status": "Emerging signal",
+   "change_percent": 228,
+   "growth_ratio": 3.28,
+   "recent_avg": 43041,
+   "baseline_avg": 13142,
+   "explanation": "Attention is 3.3\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    12775,
+    25923,
+    29223,
+    33727,
+    37770,
+    35751,
+    32113,
+    20905,
+    23359,
+    30478,
+    37101,
+    41064,
+    43101,
+    44959
+   ]
+  },
+  {
+   "rank": 11,
+   "title": "Nidal Hasan",
+   "slug": "nidal-hasan",
+   "score": 48,
+   "status": "Emerging signal",
+   "change_percent": 3703,
+   "growth_ratio": 38.02,
+   "recent_avg": 76739,
+   "baseline_avg": 2018,
+   "explanation": "Attention is 38\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    611,
+    696,
+    529,
+    474,
+    4706,
+    9290,
+    7281,
+    7875,
+    4249,
+    2886,
+    4529,
+    2440,
+    2419,
+    225359
+   ]
+  },
+  {
+   "rank": 12,
+   "title": "Freddie Jackson",
+   "slug": "freddie-jackson",
+   "score": 48,
+   "status": "Emerging signal",
+   "change_percent": 20840,
+   "growth_ratio": 209.68,
+   "recent_avg": 56118,
+   "baseline_avg": 268,
+   "explanation": "Attention is 210\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    262,
+    233,
+    231,
+    254,
+    250,
+    214,
+    225,
+    221,
+    337,
+    582,
+    495,
+    250,
+    180,
+    167925
+   ]
+  }
+ ]
+}

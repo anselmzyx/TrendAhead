@@ -1,26 +1,24 @@
-import type { DailyViews } from "@/lib/mock-trends";
-
 /**
  * Tiny server-rendered SVG sparkline for trend cards: 2px accent line,
  * ~10% area wash, end-dot with a surface-colored ring. Decorative summary
  * only — the full interactive chart lives on the topic page.
  */
-export default function Sparkline({ series }: { series: DailyViews[] }) {
+export default function Sparkline({ values }: { values: number[] }) {
   const W = 120;
   const H = 36;
   const PAD = 4;
-  const views = series.map((d) => d.views);
-  const min = Math.min(...views);
-  const max = Math.max(...views);
+  if (values.length < 2) return null;
+  const min = Math.min(...values);
+  const max = Math.max(...values);
   const span = max - min || 1;
 
-  const x = (i: number) => PAD + (i / (views.length - 1)) * (W - PAD * 2);
+  const x = (i: number) => PAD + (i / (values.length - 1)) * (W - PAD * 2);
   const y = (v: number) => H - PAD - ((v - min) / span) * (H - PAD * 2);
-  const points = views.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`);
+  const points = values.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`);
   const line = `M${points.join(" L")}`;
-  const area = `${line} L${x(views.length - 1).toFixed(1)},${H - 1} L${x(0).toFixed(1)},${H - 1} Z`;
-  const endX = x(views.length - 1);
-  const endY = y(views[views.length - 1]);
+  const area = `${line} L${x(values.length - 1).toFixed(1)},${H - 1} L${x(0).toFixed(1)},${H - 1} Z`;
+  const endX = x(values.length - 1);
+  const endY = y(values[values.length - 1]);
 
   return (
     <svg
@@ -28,7 +26,7 @@ export default function Sparkline({ series }: { series: DailyViews[] }) {
       height={H}
       viewBox={`0 0 ${W} ${H}`}
       role="img"
-      aria-label="30-day attention trend"
+      aria-label="14-day attention trend"
       className="shrink-0"
     >
       <path d={area} fill="var(--accent)" opacity={0.1} />

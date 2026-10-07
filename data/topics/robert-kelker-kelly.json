@@ -1,0 +1,196 @@
+{
+ "title": "Robert Kelker-Kelly",
+ "slug": "robert-kelker-kelly",
+ "score": 64,
+ "status": "Strong emerging signal",
+ "change_percent": 183707,
+ "growth_ratio": 827.13,
+ "recent_avg": 82713,
+ "baseline_avg": 45,
+ "explanation": "Attention is 827\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 82668,
+ "latest": 121783,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.48,
+  "volume": 0.959,
+  "spike_quality": 0.769
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 82,713 views/day over the last 3 days (30-day baseline: 45)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 101
+  },
+  {
+   "date": "2026-08-29",
+   "views": 84
+  },
+  {
+   "date": "2026-08-30",
+   "views": 53
+  },
+  {
+   "date": "2026-08-31",
+   "views": 55
+  },
+  {
+   "date": "2026-09-01",
+   "views": 37
+  },
+  {
+   "date": "2026-09-02",
+   "views": 40
+  },
+  {
+   "date": "2026-09-03",
+   "views": 51
+  },
+  {
+   "date": "2026-09-04",
+   "views": 27
+  },
+  {
+   "date": "2026-09-05",
+   "views": 41
+  },
+  {
+   "date": "2026-09-06",
+   "views": 41
+  },
+  {
+   "date": "2026-09-07",
+   "views": 38
+  },
+  {
+   "date": "2026-09-08",
+   "views": 33
+  },
+  {
+   "date": "2026-09-09",
+   "views": 40
+  },
+  {
+   "date": "2026-09-10",
+   "views": 35
+  },
+  {
+   "date": "2026-09-11",
+   "views": 31
+  },
+  {
+   "date": "2026-09-12",
+   "views": 45
+  },
+  {
+   "date": "2026-09-13",
+   "views": 33
+  },
+  {
+   "date": "2026-09-14",
+   "views": 30
+  },
+  {
+   "date": "2026-09-15",
+   "views": 37
+  },
+  {
+   "date": "2026-09-16",
+   "views": 39
+  },
+  {
+   "date": "2026-09-17",
+   "views": 27
+  },
+  {
+   "date": "2026-09-18",
+   "views": 41
+  },
+  {
+   "date": "2026-09-19",
+   "views": 29
+  },
+  {
+   "date": "2026-09-20",
+   "views": 34
+  },
+  {
+   "date": "2026-09-21",
+   "views": 27
+  },
+  {
+   "date": "2026-09-22",
+   "views": 43
+  },
+  {
+   "date": "2026-09-23",
+   "views": 39
+  },
+  {
+   "date": "2026-09-24",
+   "views": 31
+  },
+  {
+   "date": "2026-09-25",
+   "views": 46
+  },
+  {
+   "date": "2026-09-26",
+   "views": 37
+  },
+  {
+   "date": "2026-09-27",
+   "views": 53
+  },
+  {
+   "date": "2026-09-28",
+   "views": 120
+  },
+  {
+   "date": "2026-09-29",
+   "views": 161
+  },
+  {
+   "date": "2026-09-30",
+   "views": 71
+  },
+  {
+   "date": "2026-10-01",
+   "views": 40
+  },
+  {
+   "date": "2026-10-02",
+   "views": 36
+  },
+  {
+   "date": "2026-10-03",
+   "views": 59
+  },
+  {
+   "date": "2026-10-04",
+   "views": 146
+  },
+  {
+   "date": "2026-10-05",
+   "views": 126211
+  },
+  {
+   "date": "2026-10-06",
+   "views": 121783
+  }
+ ],
+ "wikipedia_title": "Robert_Kelker-Kelly",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

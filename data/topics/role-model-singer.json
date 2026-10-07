@@ -1,0 +1,197 @@
+{
+ "title": "Role Model (singer)",
+ "slug": "role-model-singer",
+ "score": 39,
+ "status": "Fading / collapsing",
+ "change_percent": 781,
+ "growth_ratio": 8.81,
+ "recent_avg": 38049,
+ "baseline_avg": 4319,
+ "explanation": "Attention surged to 8.8\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 33730,
+ "latest": 13405,
+ "components": {
+  "acceleration": 0.556,
+  "anomaly": 1.0,
+  "persistence": 0.84,
+  "volume": 0.79,
+  "spike_quality": 0.422
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 38,049 views/day over the last 3 days (30-day baseline: 4,319)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 2670
+  },
+  {
+   "date": "2026-08-29",
+   "views": 3651
+  },
+  {
+   "date": "2026-08-30",
+   "views": 8237
+  },
+  {
+   "date": "2026-08-31",
+   "views": 5630
+  },
+  {
+   "date": "2026-09-01",
+   "views": 3534
+  },
+  {
+   "date": "2026-09-02",
+   "views": 3849
+  },
+  {
+   "date": "2026-09-03",
+   "views": 2577
+  },
+  {
+   "date": "2026-09-04",
+   "views": 2587
+  },
+  {
+   "date": "2026-09-05",
+   "views": 2551
+  },
+  {
+   "date": "2026-09-06",
+   "views": 2526
+  },
+  {
+   "date": "2026-09-07",
+   "views": 2426
+  },
+  {
+   "date": "2026-09-08",
+   "views": 2253
+  },
+  {
+   "date": "2026-09-09",
+   "views": 2326
+  },
+  {
+   "date": "2026-09-10",
+   "views": 2911
+  },
+  {
+   "date": "2026-09-11",
+   "views": 3205
+  },
+  {
+   "date": "2026-09-12",
+   "views": 3082
+  },
+  {
+   "date": "2026-09-13",
+   "views": 7578
+  },
+  {
+   "date": "2026-09-14",
+   "views": 5036
+  },
+  {
+   "date": "2026-09-15",
+   "views": 2779
+  },
+  {
+   "date": "2026-09-16",
+   "views": 2945
+  },
+  {
+   "date": "2026-09-17",
+   "views": 2946
+  },
+  {
+   "date": "2026-09-18",
+   "views": 3203
+  },
+  {
+   "date": "2026-09-19",
+   "views": 4027
+  },
+  {
+   "date": "2026-09-20",
+   "views": 3587
+  },
+  {
+   "date": "2026-09-21",
+   "views": 3248
+  },
+  {
+   "date": "2026-09-22",
+   "views": 2916
+  },
+  {
+   "date": "2026-09-23",
+   "views": 3005
+  },
+  {
+   "date": "2026-09-24",
+   "views": 3100
+  },
+  {
+   "date": "2026-09-25",
+   "views": 3380
+  },
+  {
+   "date": "2026-09-26",
+   "views": 5267
+  },
+  {
+   "date": "2026-09-27",
+   "views": 3911
+  },
+  {
+   "date": "2026-09-28",
+   "views": 4950
+  },
+  {
+   "date": "2026-09-29",
+   "views": 3795
+  },
+  {
+   "date": "2026-09-30",
+   "views": 4982
+  },
+  {
+   "date": "2026-10-01",
+   "views": 5342
+  },
+  {
+   "date": "2026-10-02",
+   "views": 13070
+  },
+  {
+   "date": "2026-10-03",
+   "views": 16623
+  },
+  {
+   "date": "2026-10-04",
+   "views": 68472
+  },
+  {
+   "date": "2026-10-05",
+   "views": 32271
+  },
+  {
+   "date": "2026-10-06",
+   "views": 13405
+  }
+ ],
+ "wikipedia_title": "Role_Model_(singer)",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

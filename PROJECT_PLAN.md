@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 5.5 — Discovery alignment & source hygiene** (complete: awaiting review)
+**Phase 6 — Real data connected to the website** (complete: awaiting visual verification)
 
 ## Completed phases
 
@@ -21,24 +21,25 @@
   discovery from top-1000 lists, noise filter, provisional ranking.
 - **Phase 5 — Scoring engine V1** (2026-10-07) 0-100 shape-based score
   (pipeline/SCORING.md), benchmarked + tested, pushed to GitHub.
+- **Phase 5.5 — Discovery alignment** (2026-10-07) two-path discovery
+  (new entrants + improvers), infrastructure filter, healthier mix.
 
 ## Current checkpoint
 
-Phase 5.5 done pending review: discovery now has two paths — new entrants
-(cap 25) + improvers (>= 2 days in each window half, late avg >= 1.4x
-early avg, cap 15) — combined/deduped with discovery reasons tracked.
-Tiny exact-match infrastructure filter (Wikimedia_Foundation, MediaWiki,
-Wiki) documented in DECISIONS.md. Combined run (2026-10-06): 25 + 15,
-0 overlap, 0 failures, only 7 new API fetches thanks to history cache.
-Improver path surfaced sustained climbers invisible to Phase 4 (Quebec
-election #1, Neha Bora #5, Michael Douglas #8, UEFA Nations League #10,
-John Steinbeck #13); Wikimedia Foundation artefact gone. 53 tests pass.
+Phase 6 done pending visual check: generate_site_data.py produces
+data/trending.json (top 12) + data/topics/<slug>.json (top 24) with
+validation; slugs are unique/ASCII-safe with collision suffixes; homepage,
+topic pages, methodology and about now use ONLY real generated data (mock
+module deleted). Truthful labelling: "Wikipedia attention · Experimental"
++ "Data through <date>"; fading topics say "falling from its peak".
+Topic pages show component meters + deterministic "why" bullets from the
+pipeline. Site never calls Wikimedia at page load. 68 Python tests, lint,
+tsc, production build (31 routes) all pass; 3 topics' displayed values
+verified identical to pipeline JSON.
 
 ## Next checkpoint
 
-**Phase 6 — Connect real data to the website**: pipeline writes
-data/trending.json + per-topic files; replace homepage mock data; wire
-topic routes, charts, timestamps; full build and manual inspection.
+**Phase 7 — Improve signal quality** after the user reviews real pages.
 
 ## Outstanding phases (summary)
 

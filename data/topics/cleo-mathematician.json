@@ -1,0 +1,195 @@
+{
+ "title": "Cleo (mathematician)",
+ "slug": "cleo-mathematician",
+ "score": 40,
+ "status": "Emerging signal",
+ "change_percent": 29600,
+ "growth_ratio": 249.48,
+ "recent_avg": 24948,
+ "baseline_avg": 84,
+ "explanation": "Attention is 249\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 24864,
+ "latest": 74695,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "volume": 0.699,
+  "spike_quality": 0.506
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 24,948 views/day over the last 3 days (30-day baseline: 84)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 72
+  },
+  {
+   "date": "2026-08-29",
+   "views": 35
+  },
+  {
+   "date": "2026-08-30",
+   "views": 34
+  },
+  {
+   "date": "2026-08-31",
+   "views": 137
+  },
+  {
+   "date": "2026-09-01",
+   "views": 70
+  },
+  {
+   "date": "2026-09-02",
+   "views": 57
+  },
+  {
+   "date": "2026-09-03",
+   "views": 58
+  },
+  {
+   "date": "2026-09-04",
+   "views": 83
+  },
+  {
+   "date": "2026-09-05",
+   "views": 68
+  },
+  {
+   "date": "2026-09-06",
+   "views": 75
+  },
+  {
+   "date": "2026-09-07",
+   "views": 68
+  },
+  {
+   "date": "2026-09-08",
+   "views": 62
+  },
+  {
+   "date": "2026-09-09",
+   "views": 138
+  },
+  {
+   "date": "2026-09-10",
+   "views": 64
+  },
+  {
+   "date": "2026-09-11",
+   "views": 48
+  },
+  {
+   "date": "2026-09-12",
+   "views": 86
+  },
+  {
+   "date": "2026-09-13",
+   "views": 76
+  },
+  {
+   "date": "2026-09-14",
+   "views": 83
+  },
+  {
+   "date": "2026-09-15",
+   "views": 70
+  },
+  {
+   "date": "2026-09-16",
+   "views": 92
+  },
+  {
+   "date": "2026-09-17",
+   "views": 65
+  },
+  {
+   "date": "2026-09-18",
+   "views": 56
+  },
+  {
+   "date": "2026-09-19",
+   "views": 58
+  },
+  {
+   "date": "2026-09-20",
+   "views": 65
+  },
+  {
+   "date": "2026-09-21",
+   "views": 57
+  },
+  {
+   "date": "2026-09-22",
+   "views": 48
+  },
+  {
+   "date": "2026-09-23",
+   "views": 81
+  },
+  {
+   "date": "2026-09-24",
+   "views": 95
+  },
+  {
+   "date": "2026-09-25",
+   "views": 105
+  },
+  {
+   "date": "2026-09-26",
+   "views": 59
+  },
+  {
+   "date": "2026-09-27",
+   "views": 66
+  },
+  {
+   "date": "2026-09-28",
+   "views": 56
+  },
+  {
+   "date": "2026-09-29",
+   "views": 84
+  },
+  {
+   "date": "2026-09-30",
+   "views": 103
+  },
+  {
+   "date": "2026-10-01",
+   "views": 239
+  },
+  {
+   "date": "2026-10-02",
+   "views": 158
+  },
+  {
+   "date": "2026-10-03",
+   "views": 107
+  },
+  {
+   "date": "2026-10-04",
+   "views": 73
+  },
+  {
+   "date": "2026-10-05",
+   "views": 76
+  },
+  {
+   "date": "2026-10-06",
+   "views": 74695
+  }
+ ],
+ "wikipedia_title": "Cleo_(mathematician)",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

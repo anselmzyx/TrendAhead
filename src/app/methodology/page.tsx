@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Methodology",
   description:
-    "How TrendAhead measures unusual online attention and computes the 0–100 TrendAhead Score.",
+    "How TrendAhead discovers topics and computes the 0–100 TrendAhead Score from Wikipedia attention data.",
 };
 
 function Section({
@@ -31,85 +31,133 @@ export default function MethodologyPage() {
       </h1>
       <p className="mt-3 max-w-2xl text-ink-secondary">
         TrendAhead is a statistical indicator, not a crystal ball. This page
-        explains exactly what it measures, in plain language.
+        explains exactly what it measures, in plain language. The scoring
+        engine is <strong className="text-foreground">V1 and experimental</strong>.
       </p>
 
       <Section title="What TrendAhead measures">
         <p>
           TrendAhead looks for topics whose public attention is growing
           unusually fast <em>relative to their own normal</em>. We care about
-          the rate of change, not absolute popularity: a topic going from 1,000
-          to 8,000 daily views is often more interesting than one sitting
-          steadily at a million.
+          the rate of change, not absolute popularity: a topic going from 3,000
+          to 60,000 daily views is more interesting to us than one sitting
+          steadily at a million. Sustained multi-day climbs are deliberately
+          rewarded over one-day spikes.
         </p>
       </Section>
 
-      <Section title="What data we use">
+      <Section title="The data: Wikipedia attention">
         <p>
-          The first data source will be public Wikipedia pageview statistics,
-          published by the Wikimedia Foundation — a good proxy for &quot;people
-          actively looking something up.&quot; Later phases may add independent
-          confirmation sources such as news coverage volume.
+          Every number currently comes from one source: daily pageview
+          statistics for English Wikipedia, published openly by the Wikimedia
+          Foundation (CC0 licensed). Pageviews are a good proxy for &quot;people
+          actively looking something up&quot; — but they are one lens on online
+          attention, not the whole internet. Independent confirmation sources
+          (such as news coverage volume) are planned for later versions.
         </p>
-        <p className="rounded-xl border border-amber-500/40 bg-amber-500/10 p-3 font-medium text-amber-700 dark:text-amber-400">
-          Right now the site shows demo data only, while the product is under
-          construction. No numbers on this site are real yet.
+        <p>
+          We count human visits only (Wikimedia&apos;s bot-filtered
+          &quot;user&quot; traffic), and data is precomputed daily — your visit
+          to this site triggers no API calls.
         </p>
       </Section>
 
-      <Section title="How baselines work">
+      <Section title="How topics are discovered">
         <p>
-          Every topic is compared against itself. We average its attention over
-          roughly the previous 30 days to establish a personal
-          &quot;normal&quot; — the baseline — then measure how far the last few
-          days sit above it. This is why a niche topic can outrank a famous one:
-          fame is already in its baseline.
+          Nobody types topic lists in by hand. Each day we examine the 1,000
+          most-viewed Wikipedia articles for the last six complete days and
+          select candidates by two paths:
+        </p>
+        <ul className="list-disc space-y-1 pl-5">
+          <li>
+            <strong className="text-foreground">New entrants</strong> — pages
+            that appear in recent days&apos; top lists but were absent earlier
+            in the window (sudden arrivals).
+          </li>
+          <li>
+            <strong className="text-foreground">Improvers</strong> — pages
+            present throughout, whose recent attention is at least 1.4× their
+            earlier level (steady climbers).
+          </li>
+        </ul>
+        <p>
+          Obvious non-topics are filtered transparently: Wikipedia&apos;s
+          internal pages (Special:, Portal:, File:, …), navigation pages like
+          the Main Page, and a tiny explicit list of pages whose traffic is
+          driven by Wikimedia&apos;s own site banners rather than public
+          interest. There is no filtering by subject matter — sports, politics
+          and celebrities are all eligible.
         </p>
       </Section>
 
       <Section title="How the TrendAhead Score works">
-        <p>A topic&apos;s 0–100 score combines four simple ingredients:</p>
+        <p>
+          Each candidate&apos;s last 3 days are compared against the 30 days
+          before them. Five transparent components combine into one 0–100
+          score:
+        </p>
         <ul className="list-disc space-y-1 pl-5">
           <li>
-            <strong className="text-foreground">Recent growth</strong> — how much
-            attention increased over the last few days.
+            <strong className="text-foreground">Acceleration (35%)</strong> —
+            how many times above its own baseline the topic now sits, on a
+            log scale so freak ratios can&apos;t dominate.
           </li>
           <li>
-            <strong className="text-foreground">Deviation from baseline</strong>{" "}
-            — how statistically unusual current attention is versus the
-            topic&apos;s own history (a z-score).
+            <strong className="text-foreground">Anomaly (25%)</strong> — how
+            statistically unusual the recent level is versus the topic&apos;s
+            own history (a capped z-score).
           </li>
           <li>
-            <strong className="text-foreground">Volume</strong> — a minimum
-            amount of real attention, so 2 → 10 views can&apos;t outrank a
-            genuine trend.
+            <strong className="text-foreground">Persistence (40%)</strong> —
+            the largest weight, deliberately: how many recent days stayed
+            elevated and kept rising. This is what makes a five-day climber
+            outrank a one-day explosion.
           </li>
           <li>
-            <strong className="text-foreground">Persistence</strong> — growth
-            sustained across multiple days counts more than a single spike.
+            <strong className="text-foreground">Volume (gate)</strong> — a
+            topic needs real attention (roughly 1,000+ daily views to count at
+            all). 2 → 20 views is 10× growth and still means nothing.
+          </li>
+          <li>
+            <strong className="text-foreground">Signal quality (damp)</strong>{" "}
+            — traffic concentrated in a single day, or already collapsing from
+            its peak, is scored down (to as little as a quarter) but never
+            deleted.
           </li>
         </ul>
         <p>
-          The exact formula will be published on this page once the real scoring
-          engine is built, and kept up to date whenever it changes.
+          Status labels follow the same data: a topic whose latest day has
+          fallen well below its recent peak is marked{" "}
+          <strong className="text-foreground">Fading / collapsing</strong> even
+          when its score is still elevated.
         </p>
       </Section>
 
       <Section title="Limitations — please read">
         <ul className="list-disc space-y-1 pl-5">
           <li>
-            The score is a derived statistical indicator. It is not
-            scientifically validated and does not predict the future.
+            <strong className="text-foreground">Wikipedia-only signal.</strong>{" "}
+            Trends that don&apos;t drive Wikipedia lookups are invisible to us
+            today.
           </li>
           <li>
-            Attention data is noisy: news events, celebrity mentions and even
-            bots can cause spikes that mean little.
+            <strong className="text-foreground">Top-1000 discovery.</strong>{" "}
+            Candidates must reach Wikipedia&apos;s daily top-1000 at least once
+            during the window, so genuinely niche long-tail topics can be
+            missed.
           </li>
           <li>
-            Early signals are early — many emerging topics fade again. Treat
-            TrendAhead as one research input, never as the sole basis for
-            decisions (especially financial ones).
+            News events create reactive attention spikes. We down-rank spike
+            shapes, but a two-day-old story can look identical to day two of a
+            lasting trend — only more days of data distinguish them.
           </li>
+          <li>
+            The score describes attention <em>shape</em>, never cause, and{" "}
+            <strong className="text-foreground">does not predict future
+            popularity</strong>. Treat it as one research input — never the
+            sole basis for decisions (especially financial ones).
+          </li>
+          <li>Score V1 is experimental and its parameters will evolve.</li>
         </ul>
       </Section>
     </main>

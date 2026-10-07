@@ -11,7 +11,11 @@ import {
   YAxis,
   type TooltipContentProps,
 } from "recharts";
-import type { DailyViews } from "@/lib/mock-trends";
+
+interface DailyViews {
+  date: string; // YYYY-MM-DD
+  views: number;
+}
 
 const compact = new Intl.NumberFormat("en", { notation: "compact" });
 const full = new Intl.NumberFormat("en");

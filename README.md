@@ -7,7 +7,31 @@ before they become obviously mainstream. It measures the *rate of change* of
 public attention (not just absolute popularity) and ranks emerging topics with
 a 0–100 **TrendAhead Score**.
 
-> Status: early development (Phase 1 — project foundation).
+> Status: experimental — real Wikipedia data, local only (not yet deployed).
+
+## How the data flows (end to end)
+
+```
+Wikimedia Analytics API  (official, CC0, no key)
+   │  daily top-1000 lists + per-article histories
+   ▼
+pipeline/  (Python, stdlib only)
+   discovery (new entrants + improvers) → noise/infrastructure filters
+   → 40-day histories (cached) → TrendAhead Score V1
+   ▼
+data/trending.json + data/topics/<slug>.json   (generated, committed)
+   ▼
+Next.js website  (reads the JSON — never calls Wikimedia at page load)
+```
+
+To regenerate the site's data (one command, ~1–3 min):
+
+```bash
+python3 pipeline/generate_site_data.py
+```
+
+It validates everything (score ranges, slug uniqueness, history integrity)
+and refuses to write a broken dataset.
 
 ## How to run it locally
 

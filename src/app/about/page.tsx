@@ -22,8 +22,16 @@ export default function AboutPage() {
         <p>
           Most trend tools show you what is already popular. By then, everyone
           knows. TrendAhead instead watches for topics whose attention is
-          unusually far above their own normal level — the moment a trend starts
-          moving, not the moment it peaks.
+          unusually far above their own normal level — and prefers interest
+          that keeps building across days over one-day spikes.
+        </p>
+        <p>
+          <strong className="text-foreground">What it is today:</strong> an
+          experimental attention-discovery system built entirely from public
+          Wikimedia data — daily Wikipedia pageview statistics, processed into
+          a transparent 0–100 TrendAhead Score. It measures one meaningful lens
+          on online attention, not the whole internet; additional independent
+          sources (like news coverage volume) are planned next.
         </p>
         <p>
           It&apos;s built for people who benefit from being early: content
@@ -32,7 +40,7 @@ export default function AboutPage() {
         </p>
         <p>
           Every ranking is driven by transparent statistics on public data — no
-          black boxes. You can read exactly how it works on the{" "}
+          black boxes, no AI guessing. You can read exactly how it works on the{" "}
           <Link href="/methodology" className="font-medium text-accent hover:underline">
             methodology page
           </Link>

@@ -1,0 +1,195 @@
+{
+ "title": "Freddie Jackson",
+ "slug": "freddie-jackson",
+ "score": 48,
+ "status": "Emerging signal",
+ "change_percent": 20840,
+ "growth_ratio": 209.68,
+ "recent_avg": 56118,
+ "baseline_avg": 268,
+ "explanation": "Attention is 210\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 55850,
+ "latest": 167925,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "volume": 0.875,
+  "spike_quality": 0.507
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 56,118 views/day over the last 3 days (30-day baseline: 268)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 214
+  },
+  {
+   "date": "2026-08-29",
+   "views": 266
+  },
+  {
+   "date": "2026-08-30",
+   "views": 263
+  },
+  {
+   "date": "2026-08-31",
+   "views": 187
+  },
+  {
+   "date": "2026-09-01",
+   "views": 170
+  },
+  {
+   "date": "2026-09-02",
+   "views": 201
+  },
+  {
+   "date": "2026-09-03",
+   "views": 193
+  },
+  {
+   "date": "2026-09-04",
+   "views": 227
+  },
+  {
+   "date": "2026-09-05",
+   "views": 220
+  },
+  {
+   "date": "2026-09-06",
+   "views": 256
+  },
+  {
+   "date": "2026-09-07",
+   "views": 253
+  },
+  {
+   "date": "2026-09-08",
+   "views": 215
+  },
+  {
+   "date": "2026-09-09",
+   "views": 363
+  },
+  {
+   "date": "2026-09-10",
+   "views": 221
+  },
+  {
+   "date": "2026-09-11",
+   "views": 256
+  },
+  {
+   "date": "2026-09-12",
+   "views": 217
+  },
+  {
+   "date": "2026-09-13",
+   "views": 200
+  },
+  {
+   "date": "2026-09-14",
+   "views": 176
+  },
+  {
+   "date": "2026-09-15",
+   "views": 182
+  },
+  {
+   "date": "2026-09-16",
+   "views": 182
+  },
+  {
+   "date": "2026-09-17",
+   "views": 217
+  },
+  {
+   "date": "2026-09-18",
+   "views": 218
+  },
+  {
+   "date": "2026-09-19",
+   "views": 258
+  },
+  {
+   "date": "2026-09-20",
+   "views": 232
+  },
+  {
+   "date": "2026-09-21",
+   "views": 316
+  },
+  {
+   "date": "2026-09-22",
+   "views": 516
+  },
+  {
+   "date": "2026-09-23",
+   "views": 262
+  },
+  {
+   "date": "2026-09-24",
+   "views": 233
+  },
+  {
+   "date": "2026-09-25",
+   "views": 231
+  },
+  {
+   "date": "2026-09-26",
+   "views": 254
+  },
+  {
+   "date": "2026-09-27",
+   "views": 250
+  },
+  {
+   "date": "2026-09-28",
+   "views": 214
+  },
+  {
+   "date": "2026-09-29",
+   "views": 225
+  },
+  {
+   "date": "2026-09-30",
+   "views": 221
+  },
+  {
+   "date": "2026-10-01",
+   "views": 337
+  },
+  {
+   "date": "2026-10-02",
+   "views": 582
+  },
+  {
+   "date": "2026-10-03",
+   "views": 495
+  },
+  {
+   "date": "2026-10-04",
+   "views": 250
+  },
+  {
+   "date": "2026-10-05",
+   "views": 180
+  },
+  {
+   "date": "2026-10-06",
+   "views": 167925
+  }
+ ],
+ "wikipedia_title": "Freddie_Jackson",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

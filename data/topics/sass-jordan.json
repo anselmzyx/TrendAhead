@@ -1,0 +1,197 @@
+{
+ "title": "Sass Jordan",
+ "slug": "sass-jordan",
+ "score": 39,
+ "status": "Fading / collapsing",
+ "change_percent": 69443,
+ "growth_ratio": 696.91,
+ "recent_avg": 109182,
+ "baseline_avg": 157,
+ "explanation": "Attention surged to 697\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 109025,
+ "latest": 31032,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "volume": 1.0,
+  "spike_quality": 0.255
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 109,182 views/day over the last 3 days (30-day baseline: 157)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 94
+  },
+  {
+   "date": "2026-08-29",
+   "views": 89
+  },
+  {
+   "date": "2026-08-30",
+   "views": 126
+  },
+  {
+   "date": "2026-08-31",
+   "views": 91
+  },
+  {
+   "date": "2026-09-01",
+   "views": 215
+  },
+  {
+   "date": "2026-09-02",
+   "views": 809
+  },
+  {
+   "date": "2026-09-03",
+   "views": 438
+  },
+  {
+   "date": "2026-09-04",
+   "views": 179
+  },
+  {
+   "date": "2026-09-05",
+   "views": 166
+  },
+  {
+   "date": "2026-09-06",
+   "views": 142
+  },
+  {
+   "date": "2026-09-07",
+   "views": 121
+  },
+  {
+   "date": "2026-09-08",
+   "views": 102
+  },
+  {
+   "date": "2026-09-09",
+   "views": 97
+  },
+  {
+   "date": "2026-09-10",
+   "views": 72
+  },
+  {
+   "date": "2026-09-11",
+   "views": 99
+  },
+  {
+   "date": "2026-09-12",
+   "views": 107
+  },
+  {
+   "date": "2026-09-13",
+   "views": 84
+  },
+  {
+   "date": "2026-09-14",
+   "views": 96
+  },
+  {
+   "date": "2026-09-15",
+   "views": 82
+  },
+  {
+   "date": "2026-09-16",
+   "views": 96
+  },
+  {
+   "date": "2026-09-17",
+   "views": 90
+  },
+  {
+   "date": "2026-09-18",
+   "views": 78
+  },
+  {
+   "date": "2026-09-19",
+   "views": 109
+  },
+  {
+   "date": "2026-09-20",
+   "views": 91
+  },
+  {
+   "date": "2026-09-21",
+   "views": 103
+  },
+  {
+   "date": "2026-09-22",
+   "views": 83
+  },
+  {
+   "date": "2026-09-23",
+   "views": 69
+  },
+  {
+   "date": "2026-09-24",
+   "views": 74
+  },
+  {
+   "date": "2026-09-25",
+   "views": 107
+  },
+  {
+   "date": "2026-09-26",
+   "views": 115
+  },
+  {
+   "date": "2026-09-27",
+   "views": 74
+  },
+  {
+   "date": "2026-09-28",
+   "views": 100
+  },
+  {
+   "date": "2026-09-29",
+   "views": 100
+  },
+  {
+   "date": "2026-09-30",
+   "views": 96
+  },
+  {
+   "date": "2026-10-01",
+   "views": 92
+  },
+  {
+   "date": "2026-10-02",
+   "views": 99
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1777
+  },
+  {
+   "date": "2026-10-04",
+   "views": 224485
+  },
+  {
+   "date": "2026-10-05",
+   "views": 72030
+  },
+  {
+   "date": "2026-10-06",
+   "views": 31032
+  }
+ ],
+ "wikipedia_title": "Sass_Jordan",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

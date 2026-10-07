@@ -7,6 +7,9 @@ export default function SiteFooter() {
         <p>
           <span className="font-medium text-ink-secondary">TrendAhead</span> — see
           what&apos;s gaining momentum before everyone else does.
+          <span className="block text-xs">
+            Experimental · data: Wikipedia pageviews (Wikimedia Analytics API, CC0)
+          </span>
         </p>
         <p className="flex gap-4">
           <Link href="/methodology" className="hover:text-foreground">

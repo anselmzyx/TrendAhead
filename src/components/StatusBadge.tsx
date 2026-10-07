@@ -1,32 +1,32 @@
-import type { TrendStatus } from "@/lib/mock-trends";
+import type { TrendStatus } from "@/lib/trends";
 
 /**
  * Status is always carried by the text label; the glyph and tint are
  * reinforcement, never the only signal.
- * Emerging → accent (new signal) · Rising → green (positive movement) ·
- * Stable/Fading → neutral until real data justifies more states.
+ * Blue = emerging TrendAhead signal · amber = attention receding.
  */
 const styles: Record<TrendStatus, { glyph: string; className: string }> = {
-  Emerging: {
+  "Strong emerging signal": {
     glyph: "●",
-    className: "border-accent/30 bg-accent/10 text-accent",
+    className: "border-accent/40 bg-accent/15 text-accent",
   },
-  Rising: {
-    glyph: "▲",
-    className: "border-delta-up/30 bg-delta-up/10 text-delta-up",
+  "Emerging signal": {
+    glyph: "●",
+    className: "border-accent/25 bg-accent/5 text-accent",
   },
-  Stable: {
+  "Weak signal": {
     glyph: "■",
     className: "border-hairline text-ink-secondary",
   },
-  Fading: {
+  "Fading / collapsing": {
     glyph: "▼",
-    className: "border-hairline text-ink-muted",
+    className:
+      "border-amber-500/40 bg-amber-500/10 text-amber-700 dark:text-amber-400",
   },
 };
 
 export default function StatusBadge({ status }: { status: TrendStatus }) {
-  const s = styles[status];
+  const s = styles[status] ?? styles["Weak signal"];
   return (
     <span
       className={`inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-xs font-medium ${s.className}`}

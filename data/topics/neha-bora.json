@@ -1,0 +1,196 @@
+{
+ "title": "Neha Bora",
+ "slug": "neha-bora",
+ "score": 59,
+ "status": "Emerging signal",
+ "change_percent": 968,
+ "growth_ratio": 10.68,
+ "recent_avg": 38112,
+ "baseline_avg": 3568,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 34544,
+ "latest": 34695,
+ "components": {
+  "acceleration": 0.605,
+  "anomaly": 0.763,
+  "persistence": 0.92,
+  "volume": 0.791,
+  "spike_quality": 0.818
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 38,112 views/day over the last 3 days (30-day baseline: 3,568)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 2296
+  },
+  {
+   "date": "2026-08-29",
+   "views": 1951
+  },
+  {
+   "date": "2026-08-30",
+   "views": 1422
+  },
+  {
+   "date": "2026-08-31",
+   "views": 1097
+  },
+  {
+   "date": "2026-09-01",
+   "views": 1173
+  },
+  {
+   "date": "2026-09-02",
+   "views": 1030
+  },
+  {
+   "date": "2026-09-03",
+   "views": 990
+  },
+  {
+   "date": "2026-09-04",
+   "views": 1063
+  },
+  {
+   "date": "2026-09-05",
+   "views": 911
+  },
+  {
+   "date": "2026-09-06",
+   "views": 1474
+  },
+  {
+   "date": "2026-09-07",
+   "views": 1509
+  },
+  {
+   "date": "2026-09-08",
+   "views": 1060
+  },
+  {
+   "date": "2026-09-09",
+   "views": 1012
+  },
+  {
+   "date": "2026-09-10",
+   "views": 1453
+  },
+  {
+   "date": "2026-09-11",
+   "views": 1356
+  },
+  {
+   "date": "2026-09-12",
+   "views": 1047
+  },
+  {
+   "date": "2026-09-13",
+   "views": 1249
+  },
+  {
+   "date": "2026-09-14",
+   "views": 1712
+  },
+  {
+   "date": "2026-09-15",
+   "views": 5112
+  },
+  {
+   "date": "2026-09-16",
+   "views": 7552
+  },
+  {
+   "date": "2026-09-17",
+   "views": 5798
+  },
+  {
+   "date": "2026-09-18",
+   "views": 4046
+  },
+  {
+   "date": "2026-09-19",
+   "views": 3515
+  },
+  {
+   "date": "2026-09-20",
+   "views": 2487
+  },
+  {
+   "date": "2026-09-21",
+   "views": 1631
+  },
+  {
+   "date": "2026-09-22",
+   "views": 1239
+  },
+  {
+   "date": "2026-09-23",
+   "views": 925
+  },
+  {
+   "date": "2026-09-24",
+   "views": 836
+  },
+  {
+   "date": "2026-09-25",
+   "views": 3457
+  },
+  {
+   "date": "2026-09-26",
+   "views": 5150
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2980
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2472
+  },
+  {
+   "date": "2026-09-29",
+   "views": 2359
+  },
+  {
+   "date": "2026-09-30",
+   "views": 2444
+  },
+  {
+   "date": "2026-10-01",
+   "views": 4674
+  },
+  {
+   "date": "2026-10-02",
+   "views": 12382
+  },
+  {
+   "date": "2026-10-03",
+   "views": 24120
+  },
+  {
+   "date": "2026-10-04",
+   "views": 35902
+  },
+  {
+   "date": "2026-10-05",
+   "views": 43738
+  },
+  {
+   "date": "2026-10-06",
+   "views": 34695
+  }
+ ],
+ "wikipedia_title": "Neha_Bora",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:21:41+00:00"
+}

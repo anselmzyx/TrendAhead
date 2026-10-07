@@ -134,3 +134,21 @@ path. Source hygiene: a deliberately tiny exact-match blocklist
 Wikimedia's own site/banner infrastructure — explicitly NOT keyword or
 topic censorship; no semantic rules (celebrity/sports/death/election all
 stay eligible).
+
+## 2026-10-08 — Website reads committed generated JSON (Phase 6)
+
+The pipeline writes data/trending.json (12 homepage topics) and
+data/topics/<slug>.json (24 pages); the Next.js site reads these at build
+time and never calls Wikimedia per visit. Generated data is COMMITTED to
+Git deliberately: it is the deployable artifact, inspectable in history.
+Validation in generate_site_data.py refuses to write datasets with bad
+scores, duplicate slugs, or malformed histories. Slugs: ASCII-transliterated
+(Québécois → quebecois), hash fallback for non-Latin titles, -2/-3
+suffixes on collisions. Frontend never recalculates scores — Python is the
+single source of truth; it only formats (e.g. ratios >= 10 render as "N×
+baseline" instead of absurd percentages, fading topics say "falling from
+its peak"). Honest coverage labelling: "Wikipedia attention ·
+Experimental" — we do not claim to measure the whole internet. Next 16
+Cache Components required "use cache" on the fs-reading loaders (build
+error otherwise; fixed, noted here instead of ERROR_LOG as it was a
+15-minute framework behaviour, not a bug).
