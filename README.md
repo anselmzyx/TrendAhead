@@ -28,6 +28,17 @@ a 0–100 **TrendAhead Score**.
 - [Next.js](https://nextjs.org) 16 (React framework for the website)
 - TypeScript (JavaScript with type checking)
 - Tailwind CSS (styling)
+- Python 3.12, standard library only (data pipeline in `pipeline/`)
+
+## Data pipeline (`pipeline/`)
+
+- `trend_math.py` — pure calculation helpers (averages, baseline split,
+  percent change, missing-date detection)
+- `test_trend_math.py` — unit tests: `cd pipeline && python3 -m unittest discover .`
+- `poc_wikipedia.py` — Phase 3 proof of concept; fetches real daily
+  pageviews for one article from the official Wikimedia Analytics API
+  (CC0-licensed data, no API key) and prints a recent-vs-baseline signal:
+  `python3 pipeline/poc_wikipedia.py`
 
 ## Project documentation
 

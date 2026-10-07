@@ -49,3 +49,33 @@ notices, red reserved for future negative signals. Everything else stays
 neutral so topic name → score → trend direction → chart remains the eye's
 path. The chart's 30-day baseline is a dashed muted grey reference line,
 distinct from the solid accent data line.
+
+## 2026-10-07 — Wikimedia Analytics API (AQS) as data source 1
+
+Per-article endpoint `wikimedia.org/api/rest_v1/metrics/pageviews/per-article/
+{project}/{access}/{agent}/{article}/daily/{start}/{end}` and, for later
+candidate discovery, the `pageviews/top/{project}/{access}/{y}/{m}/{d}`
+endpoint. Verified against official docs (doc.wikimedia.org AQS reference +
+access policy): no API key; pageview data is CC0 1.0 (public domain —
+commercial use permitted, no attribution legally required); a descriptive
+User-Agent is mandatory. Under the 2026 Wikimedia rate rules, a UA without
+contact info is "Unidentified" (10 req/min) while one with contact info
+gets ~200 req/min. Requests must be sequential, not parallel. Our use
+(low-volume scheduled fetches of public statistics) is compatible with the
+published API usage guidelines. We query agent=user to count humans and
+exclude bot/spider traffic.
+
+## 2026-10-07 — Python (stdlib only) for the data pipeline
+
+The pipeline lives in `pipeline/` as plain Python 3.12 using only the
+standard library (urllib/json/datetime/unittest): zero dependencies to
+install, calculation logic (`trend_math.py`) kept pure and unit-tested
+separately from network code. TypeScript stays for the website only.
+
+## 2026-10-07 — Temporary User-Agent contact placeholder
+
+The PoC User-Agent identifies TrendAhead and states that contact info will
+be added before deployment, rather than inventing a fake URL/email. Before
+Phase 4 scales up requests (and certainly before any scheduled production
+use), we must add real contact info — the public GitHub repo URL and/or an
+email the owner approves — to qualify as an identified client.

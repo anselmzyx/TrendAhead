@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 2 — Visual MVP with mock data** (built: awaiting visual verification)
+**Phase 3 — Wikimedia API proof of concept** (complete: awaiting confirmation)
 
 ## Completed phases
 
@@ -11,20 +11,27 @@
 - **Phase 1 — Project Foundation** (2026-10-07)
   Next.js 16.4.0 + TypeScript + Tailwind, Git initialised, docs files,
   basic homepage confirmed working in browser.
+- **Phase 2 — Visual MVP with mock data** (2026-10-07)
+  Nav, hero, 10 labelled mock trend cards, Score meter, sparklines,
+  Recharts topic chart, /topic/[slug] + 404, /methodology, /about.
+  Dark-mode colour fix + restrained accent hierarchy confirmed in browser.
 
 ## Current checkpoint
 
-Phase 2 complete pending user review: header/footer navigation, hero,
-10 mock trend cards (reusable TrendCard), Score meter component, SVG
-sparklines, Recharts topic chart, /topic/[slug] with 404 handling,
-/methodology, /about. Mock data clearly labelled on homepage, topic pages
-and methodology. Lint ✓, tsc ✓, production build ✓ (17 static pages).
+Phase 3 done pending confirmation: official Wikimedia AQS pageviews API
+researched (no key, CC0 data, User-Agent policy noted in DECISIONS.md).
+`pipeline/` created (Python stdlib only): poc_wikipedia.py fetched 40 real
+days for "Artificial intelligence" with retries/validation; trend_math.py
+computes recent-3-day vs prior-30-day baseline (non-overlapping) with
+sanity checks; 14 unit tests pass. Real result: −10.6% vs baseline.
 
 ## Next checkpoint
 
-**Phase 3 — Wikimedia API proof of concept**: research official pageview
-endpoints, rate limits and licensing; fetch real data for one page in a
-standalone script; compute recent average vs baseline and show the results.
+**Phase 4 — Candidate discovery**: use the pageviews/top endpoint to
+automatically discover candidate pages, filter obvious noise (Main Page,
+Special:, etc.), fetch histories sequentially, rank by simple statistics,
+and inspect the top ~10–20 in the terminal. Add real User-Agent contact
+info first.
 
 ## Outstanding phases (summary)
 
