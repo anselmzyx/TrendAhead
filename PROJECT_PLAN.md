@@ -2,24 +2,29 @@
 
 ## Current phase
 
-**Phase 1 — Project Foundation** (in progress: awaiting browser verification)
+**Phase 2 — Visual MVP with mock data** (built: awaiting visual verification)
 
 ## Completed phases
 
 - **Phase 0 — Environment Check** (2026-10-07)
   macOS, Git 2.39.5, Node v20.12.2, npm 10.5.0, Python 3.12.4 all present.
+- **Phase 1 — Project Foundation** (2026-10-07)
+  Next.js 16.4.0 + TypeScript + Tailwind, Git initialised, docs files,
+  basic homepage confirmed working in browser.
 
 ## Current checkpoint
 
-Phase 1: Next.js 16.4.0 app created with TypeScript + Tailwind, Git
-initialised, docs files created, basic TrendAhead homepage in place.
-Waiting for user to confirm the page renders at http://localhost:3000.
+Phase 2 complete pending user review: header/footer navigation, hero,
+10 mock trend cards (reusable TrendCard), Score meter component, SVG
+sparklines, Recharts topic chart, /topic/[slug] with 404 handling,
+/methodology, /about. Mock data clearly labelled on homepage, topic pages
+and methodology. Lint ✓, tsc ✓, production build ✓ (17 static pages).
 
 ## Next checkpoint
 
-**Phase 2 — Visual MVP with mock data**: navigation, hero, trend cards,
-TrendAhead Score visual treatment, basic topic page, methodology page,
-small chart. Clearly labelled mock data. Lint + type check + production build.
+**Phase 3 — Wikimedia API proof of concept**: research official pageview
+endpoints, rate limits and licensing; fetch real data for one page in a
+standalone script; compute recent average vs baseline and show the results.
 
 ## Outstanding phases (summary)
 

@@ -20,3 +20,19 @@ revisit when eslint-config-next updates its dependencies.
 Trend data will be precomputed into files like `data/trending.json`. Reason:
 free, inspectable, debuggable, deployable anywhere, and the MVP has no
 user-generated data. A database will only be added if a feature requires it.
+
+## 2026-10-07 — Recharts 3.10.1 for charts, hand-rolled SVG for sparklines
+
+Recharts chosen for the topic-page chart: officially supports React 19,
+actively maintained, small composable API — far lighter than D3/ECharts.
+Card sparklines are ~30 lines of plain server-rendered SVG instead, so the
+homepage ships no client-side chart code and stays fast.
+
+## 2026-10-07 — Mock data lives in one module shaped like the future pipeline
+
+All Phase 2 demo content sits in `src/lib/mock-trends.ts`, flagged
+`IS_MOCK_DATA`, with deterministic generated series (no randomness, so
+server and client always render identically). Its types mirror what the
+real pipeline will emit into `data/trending.json`, making the Phase 6 swap
+a data-source change rather than a rewrite. Mock status is visibly
+labelled in the UI (homepage pill, topic-page source box, methodology).

@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import SiteHeader from "@/components/SiteHeader";
+import SiteFooter from "@/components/SiteFooter";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,7 +15,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TrendAhead — See what's gaining momentum before everyone else does",
+  title: {
+    default: "TrendAhead — See what's gaining momentum before everyone else does",
+    template: "%s — TrendAhead",
+  },
   description:
     "TrendAhead detects topics that are beginning to gain unusual attention online, before they become obviously mainstream.",
 };
@@ -24,7 +29,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <SiteHeader />
+        <div className="flex flex-1 flex-col">{children}</div>
+        <SiteFooter />
+      </body>
     </html>
   );
 }
