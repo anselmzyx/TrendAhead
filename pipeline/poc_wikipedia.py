@@ -26,11 +26,9 @@ DAYS_WANTED = 40  # complete days to request (>= 33 needed: 3 recent + 30 baseli
 RECENT_DAYS = 3
 BASELINE_DAYS = 30
 
-# Wikimedia User-Agent policy requires a descriptive UA. We are in local
-# development with no public URL yet; before any deployed/scheduled use this
-# MUST gain real contact info (public repo URL or email) to qualify for the
-# higher "identified client" rate limit.
-USER_AGENT = "TrendAhead/0.1 (local development proof-of-concept; contact info to be added before deployment)"
+# Wikimedia User-Agent policy: descriptive client name + contact info.
+# The public repository is the project's permanent contact URL.
+USER_AGENT = "TrendAhead/0.1 (https://github.com/anselmzyx/TrendAhead)"
 
 API_BASE = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article"
 

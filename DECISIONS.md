@@ -79,3 +79,13 @@ be added before deployment, rather than inventing a fake URL/email. Before
 Phase 4 scales up requests (and certainly before any scheduled production
 use), we must add real contact info — the public GitHub repo URL and/or an
 email the owner approves — to qualify as an identified client.
+
+## 2026-10-07 — Public GitHub repo created early for the User-Agent contact URL
+
+github.com/anselmzyx/TrendAhead created ahead of the full GitHub phase,
+solely to provide a legitimate permanent contact URL for the Wikimedia
+User-Agent (owner chose the repo URL over a personal email) and an early
+remote backup. User-Agent is now `TrendAhead/0.1
+(https://github.com/anselmzyx/TrendAhead)`. gh CLI was installed from the
+official GitHub release binary because Homebrew is blocked by outdated
+Apple Command Line Tools on this machine.
