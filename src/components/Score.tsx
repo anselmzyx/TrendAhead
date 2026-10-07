@@ -17,7 +17,7 @@ export default function Score({
         <span
           className={
             (isHero ? "text-6xl" : "text-3xl") +
-            " font-semibold tracking-tight leading-none"
+            " font-semibold tracking-tight leading-none text-accent"
           }
         >
           {value}

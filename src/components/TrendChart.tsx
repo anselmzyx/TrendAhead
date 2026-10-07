@@ -86,6 +86,7 @@ export default function TrendChart({
             y={baseline}
             stroke="var(--ink-muted)"
             strokeWidth={1}
+            strokeDasharray="4 4"
             label={{
               value: "30-day baseline",
               position: "insideBottomLeft",

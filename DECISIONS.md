@@ -36,3 +36,16 @@ server and client always render identically). Its types mirror what the
 real pipeline will emit into `data/trending.json`, making the Phase 6 swap
 a data-source change rather than a rewrite. Mock status is visibly
 labelled in the UI (homepage pill, topic-page source box, methodology).
+
+## 2026-10-07 — Restrained accent hierarchy for dark mode
+
+Dark mode now uses a brighter cyan-blue accent (#38bdf8) and a brighter
+positive green (#34d399) because the earlier mid-tone values read too dim
+on the near-black background; light mode keeps the validated #2a78d6 /
+#006300 pair. Semantic colour rules: cyan-blue = TrendAhead data/score
+(line, sparkline, score number, meter, Emerging badge), green = positive
+movement only (+% change, Rising badge), amber = warnings/demo-data
+notices, red reserved for future negative signals. Everything else stays
+neutral so topic name → score → trend direction → chart remains the eye's
+path. The chart's 30-day baseline is a dashed muted grey reference line,
+distinct from the solid accent data line.
