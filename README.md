@@ -35,10 +35,18 @@ a 0–100 **TrendAhead Score**.
 - `trend_math.py` — pure calculation helpers (averages, baseline split,
   percent change, missing-date detection)
 - `test_trend_math.py` — unit tests: `cd pipeline && python3 -m unittest discover .`
+- `wikimedia.py` — shared API client for the official Wikimedia Analytics
+  API (CC0-licensed data, no API key; polite sequential requests)
 - `poc_wikipedia.py` — Phase 3 proof of concept; fetches real daily
-  pageviews for one article from the official Wikimedia Analytics API
-  (CC0-licensed data, no API key) and prints a recent-vs-baseline signal:
+  pageviews for one article and prints a recent-vs-baseline signal:
   `python3 pipeline/poc_wikipedia.py`
+- `discovery.py` — pure candidate-discovery logic (noise filters, pooling,
+  new-entrant selection, provisional volume-floored ranking)
+- `discover_candidates.py` — Phase 4 experiment; automatically discovers
+  ~30 newly-trending candidate pages from 6 days of top-viewed lists and
+  prints a PROVISIONAL ranking (not the TrendAhead Score):
+  `python3 pipeline/discover_candidates.py` (writes debug JSON to
+  `pipeline/output/`, which is gitignored)
 
 ## Project documentation
 

@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 3 — Wikimedia API proof of concept** (complete: awaiting confirmation)
+**Phase 4 — Candidate discovery** (complete: awaiting review of results)
 
 ## Completed phases
 
@@ -18,25 +18,26 @@
 
 ## Current checkpoint
 
-Phase 3 done pending confirmation: official Wikimedia AQS pageviews API
-researched (no key, CC0 data, User-Agent policy noted in DECISIONS.md).
-`pipeline/` created (Python stdlib only): poc_wikipedia.py fetched 40 real
-days for "Artificial intelligence" with retries/validation; trend_math.py
-computes recent-3-day vs prior-30-day baseline (non-overlapping) with
-sanity checks; 14 unit tests pass. Real result: −10.6% vs baseline.
+Phase 4 done pending review: discover_candidates.py samples 6 days of
+top-1000 lists, dedupes (6,000 raw → 2,288 unique), filters namespace/nav
+noise (17 removed), selects 30 "new entrant" pages, fetches 40-day
+histories (30/30 ok), and prints a provisional ranking (volume floor
+5,000/day; ratio with baseline floored at 100). First real run dominated
+by news/death spikes, NFL players, Nobel-season scientists, plus genuinely
+curious entries (Fallstreak hole, Cleo (mathematician)). 28 unit tests
+pass. Output saved to pipeline/output/ (gitignored).
 
 ## Next checkpoint
 
-**Phase 4 — Candidate discovery**: use the pageviews/top endpoint to
-automatically discover candidate pages, filter obvious noise (Main Page,
-Special:, etc.), fetch histories sequentially, rank by simple statistics,
-and inspect the top ~10–20 in the terminal. Add real User-Agent contact
-info first.
+**Phase 5 — TrendAhead scoring engine**: design + document the real 0–100
+score (growth, baseline deviation, volume, persistence), with tests for
+normal/rising/falling/low-volume/missing-day/zero-baseline/outlier cases;
+generate data/trending.json. Signal-quality lessons from Phase 4: damp
+one-day spikes, consider multi-day persistence, watch Wikimedia-internal
+artefacts (e.g. Wikimedia Foundation banner traffic).
 
 ## Outstanding phases (summary)
 
-3. Wikimedia API proof of concept (one page, real pageview data)
-4. Automated candidate topic discovery
 5. TrendAhead scoring engine + tests → `data/trending.json`
 6. Connect real data to the website
 7. Improve signal quality (noise filtering)

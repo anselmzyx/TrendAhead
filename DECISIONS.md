@@ -89,3 +89,18 @@ remote backup. User-Agent is now `TrendAhead/0.1
 (https://github.com/anselmzyx/TrendAhead)`. gh CLI was installed from the
 official GitHub release binary because Homebrew is blocked by outdated
 Apple Command Line Tools on this machine.
+
+## 2026-10-07 — Phase 4 candidate discovery design (provisional, NOT the Score)
+
+Discovery samples the official top-1000 most-viewed lists for the last 6
+complete days (6 requests), split into early 3 / late 3 days. Candidates =
+pages appearing in a late-day list but NO early-day list ("new entrants"),
+ordered by observed top-list views, capped at 30 histories per run (~36
+total requests, sequential with 0.35s delay). Noise filter: internal
+namespaces (Special:, Wikipedia:, File:, …) and navigation pages
+(Main_Page), kept in one inspectable function (discovery.noise_reason).
+Missing history days are filled as 0 views (page likely didn't exist) and
+flagged. Provisional ranking: require recent 3-day avg >= 5,000 views/day,
+rank by recent_avg / max(baseline_avg, 100) — the floor stops tiny-baseline
+ratio explosions. This ranking exists only to choose what humans inspect;
+the real TrendAhead Score is designed separately in Phase 5.

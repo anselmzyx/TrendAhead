@@ -1,86 +1,27 @@
 """Phase 3 proof of concept: fetch real daily pageviews for ONE Wikipedia
-article from the official Wikimedia Analytics API and compute a first
-recent-vs-baseline signal.
+article and compute a first recent-vs-baseline signal.
 
-Standard library only. Run:  python3 pipeline/poc_wikipedia.py
-
-API: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/...
-Data license: CC0 1.0 (public domain). No API key required.
+Run:  python3 pipeline/poc_wikipedia.py
+Network code lives in wikimedia.py; calculations in trend_math.py.
 """
 
 from __future__ import annotations
 
-import json
 import sys
-import time
-import urllib.error
-import urllib.parse
-import urllib.request
-from datetime import date, datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone
 
 from trend_math import mean, missing_dates, percent_change, split_recent_baseline
+from wikimedia import FetchError, fetch_daily_views
 
 ARTICLE = "Artificial intelligence"
 PROJECT = "en.wikipedia.org"
-DAYS_WANTED = 40  # complete days to request (>= 33 needed: 3 recent + 30 baseline)
+DAYS_WANTED = 40  # >= 33 needed: 3 recent + 30 baseline
 RECENT_DAYS = 3
 BASELINE_DAYS = 30
 
-# Wikimedia User-Agent policy: descriptive client name + contact info.
-# The public repository is the project's permanent contact URL.
-USER_AGENT = "TrendAhead/0.1 (https://github.com/anselmzyx/TrendAhead)"
-
-API_BASE = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article"
-
-
-def fetch_daily_views(
-    article: str, start: date, end: date, retries: int = 3
-) -> list[dict]:
-    """Fetch daily pageviews (human users only), with retry + backoff."""
-    quoted = urllib.parse.quote(article.replace(" ", "_"), safe="")
-    url = (
-        f"{API_BASE}/{PROJECT}/all-access/user/{quoted}/daily/"
-        f"{start:%Y%m%d}/{end:%Y%m%d}"
-    )
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    last_error: Exception | None = None
-    for attempt in range(1, retries + 1):
-        try:
-            with urllib.request.urlopen(request, timeout=15) as resp:
-                body = resp.read()
-            payload = json.loads(body)
-            items = payload.get("items")
-            if not isinstance(items, list) or not items:
-                raise ValueError(f"API response contained no items: {payload!r:.200}")
-            return items
-        except (urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as e:
-            last_error = e
-            if attempt < retries:
-                wait = 2**attempt
-                print(f"  attempt {attempt} failed ({e}); retrying in {wait}s...")
-                time.sleep(wait)
-    raise SystemExit(f"ERROR: could not fetch pageviews after {retries} attempts: {last_error}")
-
-
-def parse_items(items: list[dict]) -> list[tuple[date, int]]:
-    """Validate and convert API items to a date-ascending (date, views) list."""
-    series = []
-    for item in items:
-        ts = item.get("timestamp")
-        views = item.get("views")
-        if not isinstance(ts, str) or len(ts) < 8:
-            raise SystemExit(f"ERROR: malformed timestamp in API item: {item!r}")
-        if not isinstance(views, int) or views < 0:
-            raise SystemExit(f"ERROR: malformed views value in API item: {item!r}")
-        series.append((datetime.strptime(ts[:8], "%Y%m%d").date(), views))
-    series.sort(key=lambda pair: pair[0])
-    return series
-
 
 def main() -> None:
-    # The current (UTC) day is always incomplete, and yesterday's data can
-    # lag by a few hours — so request up to yesterday and simply use whatever
-    # complete days come back.
+    # The current (UTC) day is always incomplete — request up to yesterday.
     today_utc = datetime.now(timezone.utc).date()
     end = today_utc - timedelta(days=1)
     start = end - timedelta(days=DAYS_WANTED - 1)
@@ -88,7 +29,10 @@ def main() -> None:
     print(f"Fetching daily pageviews for: {ARTICLE}")
     print(f"Project: {PROJECT}  |  agent=user (humans only)  |  {start} → {end}\n")
 
-    series = parse_items(fetch_daily_views(ARTICLE, start, end))
+    try:
+        series = fetch_daily_views(ARTICLE, start, end, project=PROJECT)
+    except FetchError as e:
+        raise SystemExit(f"ERROR: {e}")
     dates = [d for d, _ in series]
 
     gaps = missing_dates(dates)
