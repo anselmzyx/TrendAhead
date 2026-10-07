@@ -192,3 +192,32 @@ must be dropped; (3) naive Wikipedia-title queries can fail completely —
 election" matched highly relevant coverage; title→news-query mapping is
 the main Phase 9 problem. GDELT remains proof-of-concept ONLY: the
 TrendAhead Score and website are untouched and Wikimedia-only.
+
+## 2026-10-08 — Cross-source confirmation built, GDELT kept OFFLINE (Phase 9)
+
+Built the full lag-aware confirmation layer (news_query.py, cross_source.py):
+deterministic query variants (exact title → parenthetical removed → leading
+year removed → "general election"→"election"; max 3, generic rules only),
+a conservative relevance gate (0.7 x phrase-in-title share + 0.3 x
+distinctive-token share over >= 3 sampled articles; < 0.30 → unavailable),
+syndication ratio (unique domains / articles) as a reliability note, and a
+bounded confirmation value = log-capped news growth x volume ramp
+(2→20 articles/day) x relevance, with three distinct states: confirmed /
+not_confirmed / unavailable — a fresh Wikipedia breakout with lagged GDELT
+is "unavailable", never a failed signal. Approach A (display-only) chosen
+over a score bonus: in live evaluation only 1 of 8 topics produced a
+usable confirmation (Michael Douglas: news +48%, value 0.017,
+not_confirmed; aligned wiki +80% — both rising, Wikipedia more sharply),
+so any bonus would reward "famous + lucky with the rate limiter", not
+signal quality.
+
+PRODUCTION DECISION: GDELT stays experimental/offline. Reasons: (a) its
+raw timelines lag 3-4 days; (b) its rate limiter repeatedly blocked us for
+minutes-long windows (6/8 topics unavailable in the live run) — a new
+circuit breaker in gdelt.py stops live calls after 2 consecutive 429
+failures so a stuck limiter can never hang or hammer; (c) measured
+coverage is too sparse to justify a topic-page section that would read
+"unavailable" for most topics. Revisit with a clean request budget,
+and consider GDELT's ngrams dataset (which its own 429 message recommends
+for high-traffic use). The website and Score remain 100% Wikimedia-only;
+no GDELT imports exist in the production path (verified).

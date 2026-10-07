@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 8 — GDELT proof of concept** (complete: awaiting review)
+**Phase 9 — Cross-source confirmation** (complete: GDELT kept offline)
 
 ## Completed phases
 
@@ -27,24 +27,27 @@
   truthful Wikipedia-only labelling, 31 routes.
 - **Phase 7 — Score V1.1** (2026-10-08) momentum damp, refined
   persistence, shape-based statuses.
+- **Phase 8 — GDELT PoC** (2026-10-08) news timelines verified; lag,
+  rate-limit and query-ambiguity constraints documented.
 
 ## Current checkpoint
 
-Phase 8 done pending review: isolated GDELT DOC 2.0 client
-(pipeline/gdelt.py) + PoC (pipeline/poc_gdelt.py), 11 new fixture-based
-tests. Verified: timelinevolraw returns raw daily article counts (UTC);
-no API key; ~1 req/5s enforced via 429 with minutes-long penalty after a
-burst; data free for commercial use with citation. Key findings: raw
-timelines lag ~3-4 days (can't confirm fresh breakouts), final bucket can
-be partially backfilled (dropped via norm check), and naive Wikipedia
-titles can match zero news ("2026 Quebec general election" vs "Quebec
-election"). Production untouched — Score and site remain Wikimedia-only.
+Phase 9 done: lag-aware cross-source layer built and tested (17 new
+fixture tests; 106 total). Query mapping + relevance gate + aligned
+windows + bounded confirmation value with confirmed/not_confirmed/
+unavailable states. Live evaluation on 8 topics: 1 usable result
+(Michael Douglas not_confirmed, news +48% vs aligned wiki +80%), rest
+unavailable (relevance gate or GDELT 429 rate limiting; circuit breaker
+added). DECISION: Approach A semantics kept but GDELT NOT integrated into
+production — stays experimental until coverage/reliability improve.
+Baseline V1.1 ranking frozen in pipeline/output/baseline_phase9.json and
+confirmed unchanged.
 
 ## Next checkpoint
 
-**Phase 9 — Cross-source confirmation**: design the Wikipedia+GDELT
-combination around the discovered constraints (multi-day confirmation
-only, title→query mapping, lag-aware alignment).
+**Phase 10 — Production hardening**: remove debug paths, verify error/
+loading/empty states, mobile/desktop pass, tests, lint, build,
+accessibility basics, metadata, no secrets. (GDELT revisit deferred.)
 
 ## Outstanding phases (summary)
 

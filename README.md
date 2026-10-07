@@ -83,6 +83,10 @@ and refuses to write a broken dataset.
 - `gdelt.py` + `poc_gdelt.py` — EXPERIMENTAL Phase 8 proof of concept for
   GDELT news-attention data; not connected to production (the site and
   TrendAhead Score use Wikipedia data only)
+- `news_query.py`, `cross_source.py`, `poc_cross_source.py` — EXPERIMENTAL
+  Phase 9 cross-source confirmation layer (query mapping, relevance gate,
+  lag-aware aligned windows, bounded confirmation value). Deliberately NOT
+  integrated into production — see DECISIONS.md (2026-10-08)
 
 ## Project documentation
 

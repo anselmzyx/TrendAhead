@@ -32,6 +32,13 @@ class GdeltError(Exception):
     """A GDELT request ultimately failed after retries."""
 
 
+# Circuit breaker: once the rate limiter rejects us repeatedly, STOP making
+# live calls for the rest of the run instead of hammering the service —
+# cached responses keep working, everything else becomes "unavailable".
+_consecutive_429_failures = 0
+CIRCUIT_LIMIT = 2
+
+
 def _load_cache() -> dict:
     if CACHE_PATH.exists():
         return json.loads(CACHE_PATH.read_text())
@@ -46,11 +53,15 @@ def _save_cache(cache: dict) -> None:
 def _get_json(params: dict, retries: int = 3) -> dict:
     """GET with pacing; retries on 429/non-JSON/HTTP errors with backoff.
     Responses are cached on disk so PoC re-runs create no traffic."""
+    global _consecutive_429_failures
     url = f"{API}?{urllib.parse.urlencode(params)}"
     cache = _load_cache()
     if url in cache:
         return cache[url]
+    if _consecutive_429_failures >= CIRCUIT_LIMIT:
+        raise GdeltError("circuit open: GDELT rate limiter active, skipping live calls")
     last_error: Exception | None = None
+    rate_limited = False
     for attempt in range(1, retries + 1):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -60,10 +71,12 @@ def _get_json(params: dict, retries: int = 3) -> dict:
             cache = _load_cache()
             cache[url] = payload
             _save_cache(cache)
+            _consecutive_429_failures = 0
             time.sleep(REQUEST_DELAY)
             return payload
         except urllib.error.HTTPError as e:
             last_error = e
+            rate_limited = e.code == 429
             # Empirically, a tripped 429 limiter stays tripped for minutes.
             wait = 60 * attempt if e.code == 429 else 5 * attempt
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
@@ -71,6 +84,8 @@ def _get_json(params: dict, retries: int = 3) -> dict:
             wait = 6 * attempt
         if attempt < retries:
             time.sleep(wait)
+    if rate_limited:
+        _consecutive_429_failures += 1
     raise GdeltError(f"failed after {retries} attempts: {url} ({last_error})")
 
 
