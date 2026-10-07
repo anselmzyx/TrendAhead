@@ -1,8 +1,8 @@
 {
  "title": "2026 Brazilian general election",
  "slug": "2026-brazilian-general-election",
- "score": 55,
- "status": "Fading / collapsing",
+ "score": 34,
+ "status": "Peaked / fading",
  "change_percent": 2200,
  "growth_ratio": 23.0,
  "recent_avg": 182794,
@@ -17,6 +17,7 @@
   "acceleration": 0.801,
   "anomaly": 1.0,
   "persistence": 0.92,
+  "momentum": 0.356,
   "volume": 1.0,
   "spike_quality": 0.485
  },
@@ -190,7 +191,7 @@
  ],
  "wikipedia_title": "2026_Brazilian_general_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

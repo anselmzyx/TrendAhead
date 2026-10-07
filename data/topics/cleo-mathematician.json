@@ -1,8 +1,8 @@
 {
  "title": "Cleo (mathematician)",
  "slug": "cleo-mathematician",
- "score": 40,
- "status": "Emerging signal",
+ "score": 37,
+ "status": "Breaking out",
  "change_percent": 29600,
  "growth_ratio": 249.48,
  "recent_avg": 24948,
@@ -16,13 +16,15 @@
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.32,
+  "momentum": 0.933,
   "volume": 0.699,
   "spike_quality": 0.506
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 24,948 views/day over the last 3 days (30-day baseline: 84)."
  ],
  "history": [
@@ -189,7 +191,7 @@
  ],
  "wikipedia_title": "Cleo_(mathematician)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

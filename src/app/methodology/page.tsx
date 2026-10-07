@@ -120,16 +120,29 @@ export default function MethodologyPage() {
           </li>
           <li>
             <strong className="text-foreground">Signal quality (damp)</strong>{" "}
-            — traffic concentrated in a single day, or already collapsing from
-            its peak, is scored down (to as little as a quarter) but never
-            deleted.
+            — traffic concentrated in a single day is scored down (to as
+            little as a quarter) but never deleted.
+          </li>
+          <li>
+            <strong className="text-foreground">Momentum (damp)</strong> —
+            whether the signal appears to have momentum remaining: the latest
+            day&apos;s distance from the recent peak plus the direction of the
+            last few days. A topic whose peak has clearly passed keeps at
+            most 40% of its score.
           </li>
         </ul>
         <p>
-          Status labels follow the same data: a topic whose latest day has
-          fallen well below its recent peak is marked{" "}
-          <strong className="text-foreground">Fading / collapsing</strong> even
-          when its score is still elevated.
+          Each topic also gets a status describing{" "}
+          <em>what the attention is doing right now</em>, derived purely from
+          the time-series shape:{" "}
+          <strong className="text-foreground">Building</strong> (elevated for
+          several days and still rising),{" "}
+          <strong className="text-foreground">Breaking out</strong> (at its
+          peak, but the surge is only a day or two old — too new to call
+          sustained), <strong className="text-foreground">Elevated</strong> (a
+          high plateau), <strong className="text-foreground">Peaked /
+          fading</strong> (the latest day is well below the recent peak), and{" "}
+          <strong className="text-foreground">Weak signal</strong>.
         </p>
       </Section>
 

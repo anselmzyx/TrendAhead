@@ -1,8 +1,8 @@
 {
  "title": "2009 Fort Hood shooting",
  "slug": "2009-fort-hood-shooting",
- "score": 44,
- "status": "Emerging signal",
+ "score": 40,
+ "status": "Breaking out",
  "change_percent": 4126,
  "growth_ratio": 42.25,
  "recent_avg": 30429,
@@ -16,13 +16,15 @@
  "components": {
   "acceleration": 0.957,
   "anomaly": 1.0,
-  "persistence": 0.48,
+  "persistence": 0.4,
+  "momentum": 0.933,
   "volume": 0.742,
   "spike_quality": 0.539
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 30,429 views/day over the last 3 days (30-day baseline: 720)."
  ],
  "history": [
@@ -189,7 +191,7 @@
  ],
  "wikipedia_title": "2009_Fort_Hood_shooting",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

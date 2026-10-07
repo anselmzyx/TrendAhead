@@ -1,8 +1,8 @@
 {
  "title": "Dakota Johnson",
  "slug": "dakota-johnson",
- "score": 46,
- "status": "Fading / collapsing",
+ "score": 24,
+ "status": "Peaked / fading",
  "change_percent": 748,
  "growth_ratio": 8.48,
  "recent_avg": 167546,
@@ -17,6 +17,7 @@
   "acceleration": 0.546,
   "anomaly": 1.0,
   "persistence": 0.84,
+  "momentum": 0.204,
   "volume": 1.0,
   "spike_quality": 0.449
  },
@@ -191,7 +192,7 @@
  ],
  "wikipedia_title": "Dakota_Johnson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

@@ -12,7 +12,7 @@ from site_data import (
 )
 
 
-def make_row(title="Test Topic", score=50, status="Emerging signal",
+def make_row(title="Test Topic", score=50, status="Building",
              ratio=3.0, recent=30_000, baseline=10_000, days=40):
     history = [[f"2026-09-{i + 1:02d}" if i < 30 else f"2026-10-{i - 29:02d}", baseline]
                for i in range(days - 3)]
@@ -23,7 +23,7 @@ def make_row(title="Test Topic", score=50, status="Emerging signal",
         "score": score,
         "status": status,
         "components": {"acceleration": 0.7, "anomaly": 1.0, "persistence": 0.8,
-                       "volume": 0.7, "spike_quality": 0.8},
+                       "momentum": 0.9, "volume": 0.7, "spike_quality": 0.8},
         "stats": {"recent_avg": recent, "baseline_avg": baseline,
                   "baseline_std": 50.0, "latest": recent, "growth_ratio": ratio},
         "history": [(d, v) for d, v in history],
@@ -40,6 +40,9 @@ class TestSlugify(unittest.TestCase):
     def test_accents_transliterated(self):
         self.assertEqual(slugify("Parti_Québécois"), "parti-quebecois")
         self.assertEqual(slugify("Goiânia_accident"), "goiania-accident")
+
+    def test_en_dash_becomes_hyphen(self):
+        self.assertEqual(slugify("2026–27_UEFA_Nations_League"), "2026-27-uefa-nations-league")
 
     def test_apostrophes_and_punctuation(self):
         self.assertEqual(slugify("O'Connor & Sons: Rise!"), "o-connor-sons-rise")
@@ -69,11 +72,11 @@ class TestExplanation(unittest.TestCase):
         self.assertIn("%", explanation(make_row(ratio=1.4)))
 
     def test_fading_wording_does_not_imply_acceleration(self):
-        text = explanation(make_row(status="Fading / collapsing", ratio=12.0))
+        text = explanation(make_row(status="Peaked / fading", ratio=12.0))
         self.assertIn("fallen back", text)
 
     def test_why_bullets_mention_fading(self):
-        bullets = why_bullets(make_row(status="Fading / collapsing"))
+        bullets = why_bullets(make_row(status="Peaked / fading"))
         self.assertTrue(any("receding" in b for b in bullets))
 
 

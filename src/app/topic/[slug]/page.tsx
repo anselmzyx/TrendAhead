@@ -87,6 +87,11 @@ function componentMeters(topic: TopicData) {
       description: "Whether interest has stayed elevated and kept rising across recent days.",
     },
     {
+      label: "Momentum",
+      value: c.momentum,
+      description: "Whether the latest days are still at or pushing past the recent peak.",
+    },
+    {
       label: "Anomaly",
       value: c.anomaly,
       description: "How statistically unusual the recent level is for this topic.",

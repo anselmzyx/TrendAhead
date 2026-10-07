@@ -1,8 +1,8 @@
 {
  "title": "Francis Halzen",
  "slug": "francis-halzen",
- "score": 44,
- "status": "Emerging signal",
+ "score": 38,
+ "status": "Breaking out",
  "change_percent": 607600,
  "growth_ratio": 425.39,
  "recent_avg": 42539,
@@ -16,13 +16,15 @@
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
+  "persistence": 0.2,
+  "momentum": 1.0,
   "volume": 0.814,
   "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 42,539 views/day over the last 3 days (30-day baseline: 7)."
  ],
  "history": [
@@ -189,7 +191,7 @@
  ],
  "wikipedia_title": "Francis_Halzen",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

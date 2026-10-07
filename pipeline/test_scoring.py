@@ -28,6 +28,14 @@ RISE_THEN_COLLAPSE = flat(1_000, 28) + [4_000, 15_000, 30_000, 6_000, 2_500]  # 
 MODERATE_PERSISTENT = flat(2_000, 27) + [2_600, 3_400, 4_400, 5_700, 7_000, 9_000]  # case 6
 HUGE_FLAT = wobble(1_000_000, amp=0.01)  # case 7
 
+# --- Phase 7 (V1.1) benchmark shapes ---------------------------------------
+STILL_ACCELERATING = flat(1_000, 27) + [1_500, 2_500, 4_000, 7_000, 12_000, 20_000]
+TWO_DAY_PLATEAU = flat(1_000, 31) + [30_000, 29_000]
+POST_PEAK_DECLINE = flat(1_000, 28) + [20_000, 30_000, 15_000, 6_000, 2_500]
+SLOW_STEADY_BUILD = flat(3_000, 27) + [3_300, 3_700, 4_200, 4_800, 5_400, 6_100]
+FRESH_BREAKOUT = flat(1_000, 32) + [40_000]
+COLLAPSED_SPIKE = flat(1_000, 30) + [40_000, 3_000, 1_200]
+
 
 def s(views):
     return score_series(views)["score"]
@@ -67,19 +75,59 @@ class TestSyntheticBenchmarks(unittest.TestCase):
         self.assertGreater(s(meaningful), s(TINY_EXPLOSION))
 
 
-class TestStatus(unittest.TestCase):
-    def test_sustained_climber_is_strong(self):
-        self.assertEqual(
-            score_series(SUSTAINED_CLIMBER)["status"], "Strong emerging signal"
-        )
+class TestV11Benchmarks(unittest.TestCase):
+    def test_still_accelerating_scores_high(self):
+        self.assertGreaterEqual(s(STILL_ACCELERATING), 50)
 
-    def test_collapsed_spike_is_fading(self):
-        collapsed = flat(1_000, 29) + [80_000, 30_000, 5_000, 1_500]
-        self.assertEqual(score_series(collapsed)["status"], "Fading / collapsing")
+    def test_two_day_plateau_moderate_but_below_sustained(self):
+        plateau = s(TWO_DAY_PLATEAU)
+        self.assertGreaterEqual(plateau, 25)
+        self.assertLess(plateau, s(SUSTAINED_CLIMBER))
+
+    def test_post_peak_decline_substantially_penalised(self):
+        self.assertLessEqual(s(POST_PEAK_DECLINE), 15)
+        self.assertLess(s(POST_PEAK_DECLINE), s(TWO_DAY_PLATEAU))
+
+    def test_slow_steady_build_respectable(self):
+        self.assertGreaterEqual(s(SLOW_STEADY_BUILD), 25)
+
+    def test_fresh_breakout_beats_already_collapsed_spike(self):
+        # A huge latest-day jump with no collapse evidence must NOT be
+        # treated like a spike that has already collapsed.
+        self.assertGreaterEqual(s(FRESH_BREAKOUT), 20)
+        self.assertLessEqual(s(COLLAPSED_SPIKE), 15)
+        self.assertGreater(s(FRESH_BREAKOUT), s(COLLAPSED_SPIKE) + 10)
+
+
+class TestStatus(unittest.TestCase):
+    def status(self, views):
+        return score_series(views)["status"]
+
+    def test_sustained_climber_is_building(self):
+        self.assertEqual(self.status(SUSTAINED_CLIMBER), "Building")
+
+    def test_slow_steady_build_is_building(self):
+        self.assertEqual(self.status(SLOW_STEADY_BUILD), "Building")
+
+    def test_fresh_breakout_is_breaking_out(self):
+        self.assertEqual(self.status(FRESH_BREAKOUT), "Breaking out")
+
+    def test_two_day_plateau_is_breaking_out(self):
+        # 2-day-old surge still at peak: too new to call sustained.
+        self.assertEqual(self.status(TWO_DAY_PLATEAU), "Breaking out")
+
+    def test_high_plateau_is_elevated(self):
+        plateau = flat(100, 27) + [150, 250, 5_000, 4_900, 4_800, 4_700]
+        self.assertEqual(self.status(plateau), "Elevated")
+
+    def test_collapsed_spike_is_peaked_fading(self):
+        self.assertEqual(self.status(COLLAPSED_SPIKE), "Peaked / fading")
+        self.assertEqual(self.status(POST_PEAK_DECLINE), "Peaked / fading")
 
     def test_flat_topic_is_weak_not_fading(self):
-        # No spike ever happened — must not be labelled collapsing.
-        self.assertEqual(score_series(STABLE_POPULAR)["status"], "Weak signal")
+        # No spike ever happened — must not be labelled fading.
+        self.assertEqual(self.status(STABLE_POPULAR), "Weak signal")
+        self.assertEqual(self.status(HUGE_FLAT), "Weak signal")
 
 
 class TestPathologicalInputs(unittest.TestCase):

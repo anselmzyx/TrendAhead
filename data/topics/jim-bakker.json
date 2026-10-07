@@ -1,8 +1,8 @@
 {
  "title": "Jim Bakker",
  "slug": "jim-bakker",
- "score": 56,
- "status": "Emerging signal",
+ "score": 54,
+ "status": "Breaking out",
  "change_percent": 8589,
  "growth_ratio": 86.88,
  "recent_avg": 85501,
@@ -17,12 +17,14 @@
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.72,
+  "momentum": 0.933,
   "volume": 0.966,
   "spike_quality": 0.523
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 85,501 views/day over the last 3 days (30-day baseline: 984)."
  ],
  "history": [
@@ -189,7 +191,7 @@
  ],
  "wikipedia_title": "Jim_Bakker",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

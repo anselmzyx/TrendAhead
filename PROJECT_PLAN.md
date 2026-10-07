@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 6 — Real data connected to the website** (complete: awaiting visual verification)
+**Phase 7 — Signal quality (Score V1.1)** (complete: awaiting review)
 
 ## Completed phases
 
@@ -26,26 +26,29 @@
 
 ## Current checkpoint
 
-Phase 6 done pending visual check: generate_site_data.py produces
-data/trending.json (top 12) + data/topics/<slug>.json (top 24) with
-validation; slugs are unique/ASCII-safe with collision suffixes; homepage,
-topic pages, methodology and about now use ONLY real generated data (mock
-module deleted). Truthful labelling: "Wikipedia attention · Experimental"
-+ "Data through <date>"; fading topics say "falling from its peak".
-Topic pages show component meters + deterministic "why" bullets from the
-pipeline. Site never calls Wikimedia at page load. 68 Python tests, lint,
-tsc, production build (31 routes) all pass; 3 topics' displayed values
-verified identical to pipeline JSON.
+Phase 7 done pending review: diagnostics revealed (a) persistence was
+crediting sub-baseline noise rises, (b) a post-peak cluster (latest day at
+23-31% of peak, declining) still scored 45-55, (c) several "5-day
+climbers" were really 1-2-day event jumps. Score V1.1 adopted: refined
+persistence (rises only count to elevated days) + momentum damp
+(0.4 + 0.6 x [0.6 latest/peak + 0.4 recency-weighted rising direction]).
+Chosen over momentum-as-additive-component (leaked points to flat topics)
+and persistence-blend (inflated spikes). New shape-based statuses:
+Building / Breaking out / Elevated / Peaked, fading / Weak signal.
+Post-peak cluster fell out of the top 12; climbers (Michael Douglas,
+UEFA Nations League) labelled Building; breakouts clearly labelled.
+En-dash slug fix (2026-27-uefa-nations-league). 78 Python tests, lint,
+tsc, build (31 routes) pass; site regenerated and verified.
 
 ## Next checkpoint
 
-**Phase 7 — Improve signal quality** after the user reviews real pages.
+**Phase 8 — GDELT proof of concept** (news-attention second source), after
+user reviews the V1.1 rankings and statuses.
 
 ## Outstanding phases (summary)
 
 5. TrendAhead scoring engine + tests → `data/trending.json`
 6. Connect real data to the website
-7. Improve signal quality (noise filtering)
 8. GDELT proof of concept (news attention)
 9. Cross-source confirmation
 10. Production hardening

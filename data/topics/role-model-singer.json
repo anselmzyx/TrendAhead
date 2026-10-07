@@ -1,8 +1,8 @@
 {
  "title": "Role Model (singer)",
  "slug": "role-model-singer",
- "score": 39,
- "status": "Fading / collapsing",
+ "score": 20,
+ "status": "Peaked / fading",
  "change_percent": 781,
  "growth_ratio": 8.81,
  "recent_avg": 38049,
@@ -17,6 +17,7 @@
   "acceleration": 0.556,
   "anomaly": 1.0,
   "persistence": 0.84,
+  "momentum": 0.184,
   "volume": 0.79,
   "spike_quality": 0.422
  },
@@ -191,7 +192,7 @@
  ],
  "wikipedia_title": "Role_Model_(singer)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

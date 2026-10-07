@@ -152,3 +152,21 @@ Experimental" — we do not claim to measure the whole internet. Next 16
 Cache Components required "use cache" on the fs-reading loaders (build
 error otherwise; fixed, noted here instead of ERROR_LOG as it was a
 15-minute framework behaviour, not a bug).
+
+## 2026-10-08 — Score V1.1: momentum damp + refined persistence (Phase 7)
+
+Phase 7 diagnostics on real shapes showed post-peak topics (latest day
+23-31% of peak, declining) still scoring 45-55, and persistence crediting
+sub-baseline noise rises (61→71→92 views). V1.1 keeps the V1 core and adds
+a momentum damp: score x= 0.4 + 0.6 x momentum, where momentum = 0.6 x
+(latest/7-day peak) + 0.4 x recency-weighted rising share of the last 3
+changes. Persistence now only counts rises that land on an elevated day.
+Momentum-as-additive-component was rejected (a flat line trivially sits at
+its own "peak" and gained points); a persistence/momentum blend was
+rejected (inflated fresh spikes). Fresh breakouts stay meaningful (26 vs 7
+for an already-collapsed spike) — TrendAhead does not wait days to show a
+breakout, it labels it. Statuses are now shape-based and score-independent:
+Building / Breaking out / Elevated / Peaked, fading / Weak signal.
+Known instability documented: candidates at the top-1000 list boundary can
+flap between runs because Wikimedia finalises counts late (Parti Québécois
+dropped out of the pool between two same-window runs).

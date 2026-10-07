@@ -1,4 +1,4 @@
-"""TrendAhead Score V1 — pure, deterministic scoring logic.
+"""TrendAhead Score V1.1 — pure, deterministic scoring logic.
 
 Input: a COMPLETE daily views series (oldest first, gaps already filled).
 Output: 0–100 integer score + inspectable component subscores + status.
@@ -27,12 +27,14 @@ VOL_HI = 100_000  # recent views/day at (or above) which volume factor = 1
 ELEVATED_MULT = 1.5  # a day is "elevated" at >= 1.5x baseline
 PERSISTENCE_WINDOW = 5  # days examined for elevation/rising streaks
 QUALITY_WINDOW = 7  # days examined for concentration/collapse
-COLLAPSE_RATIO = 0.4  # latest below 40% of recent peak => fading status
+FADING_RATIO = 0.55  # latest below 55% of recent peak => peaked/fading status
 
 WEIGHTS = {"acceleration": 0.35, "anomaly": 0.25, "persistence": 0.40}
 QUALITY_FLOOR = 0.25  # worst spike keeps 25% of its score (damped, not deleted)
 VOLUME_EXPONENT = 0.5  # sqrt softens the gate: volume qualifies a topic, it
 # shouldn't dominate the score (it's already log-scaled; tiny pages still = 0)
+MOMENTUM_FLOOR = 0.4  # a fully post-peak signal keeps 40% of its score —
+# penalised substantially, but a huge recent event never vanishes entirely
 
 
 def _clamp01(x: float) -> float:
@@ -72,13 +74,32 @@ def persistence(views: list[int], baseline_avg: float) -> float:
     PERSISTENCE_WINDOW days — the heart of "sustained climber > spike".
 
     0.6 x fraction of recent days elevated above baseline
-    + 0.4 x fraction of recent day-over-day changes that are increases."""
+    + 0.4 x fraction of recent day-over-day INCREASES TO AN ELEVATED LEVEL.
+    (V1.1: a rise only counts when the day it rises to is itself elevated —
+    sub-baseline noise like 61 → 71 → 92 views earns nothing.)"""
     window = views[-PERSISTENCE_WINDOW:]
     threshold = max(ELEVATED_MULT * baseline_avg, ELEVATED_MULT * BASELINE_FLOOR)
     elevated = sum(1 for v in window if v >= threshold) / len(window)
     deltas = list(zip(views[-(PERSISTENCE_WINDOW + 1) :], views[-PERSISTENCE_WINDOW:]))
-    rising = sum(1 for a, b in deltas if b > a) / len(deltas)
+    rising = sum(1 for a, b in deltas if b > a and b >= threshold) / len(deltas)
     return 0.6 * elevated + 0.4 * rising
+
+
+def momentum(views: list[int]) -> float:
+    """Does the signal appear to have momentum remaining? (V1.1)
+
+    0.6 x (latest day / 7-day peak)  — proximity to the peak
+    + 0.4 x recency-weighted rising share of the last 3 day-over-day
+      changes (weights 1,2,3 — yesterday's direction matters most).
+
+    Still-climbing series score ~1; a high plateau scores ~0.6–0.8; a
+    collapsed spike scores near 0."""
+    window = views[-QUALITY_WINDOW:]
+    peak = max(window)
+    near_peak = _clamp01(views[-1] / peak) if peak else 0.0
+    deltas = [b - a for a, b in zip(views[-4:-1], views[-3:])]
+    weighted_rising = sum(w for w, d in zip((1, 2, 3), deltas) if d > 0) / 6
+    return 0.6 * near_peak + 0.4 * weighted_rising
 
 
 def volume_factor(recent_avg: float) -> float:
@@ -142,17 +163,25 @@ def score_series(views: list[int]) -> dict:
         "acceleration": acceleration(recent_avg, baseline_avg),
         "anomaly": anomaly(recent_avg, baseline_avg, baseline_std),
         "persistence": persistence(views, baseline_avg),
+        "momentum": momentum(views),
         "volume": volume_factor(recent_avg),
         "spike_quality": spike_quality(views),
     }
     core = sum(WEIGHTS[k] * components[k] for k in WEIGHTS)
     quality_factor = QUALITY_FLOOR + (1 - QUALITY_FLOOR) * components["spike_quality"]
-    raw = 100 * core * components["volume"] ** VOLUME_EXPONENT * quality_factor
+    momentum_factor = MOMENTUM_FLOOR + (1 - MOMENTUM_FLOOR) * components["momentum"]
+    raw = (
+        100
+        * core
+        * components["volume"] ** VOLUME_EXPONENT
+        * quality_factor
+        * momentum_factor
+    )
     score = int(round(max(0.0, min(100.0, raw))))
 
     return {
         "score": score,
-        "status": _status(score, views, baseline_avg),
+        "status": _status(views, baseline_avg),
         "components": {k: round(v, 3) for k, v in components.items()},
         "stats": {
             "recent_avg": round(recent_avg),
@@ -164,15 +193,36 @@ def score_series(views: list[int]) -> dict:
     }
 
 
-def _status(score: int, views: list[int], baseline_avg: float) -> str:
-    """Provisional, momentum-aware label — secondary to the score."""
+def _status(views: list[int], baseline_avg: float) -> str:
+    """Shape-based status: answers "what is the attention doing NOW?"
+    (V1.1). Derived purely from the time series, never from the score:
+
+    - Weak signal     — no meaningful elevation above baseline
+    - Peaked / fading — latest day well below the recent peak
+    - Building        — multiple elevated days, still rising near the peak,
+                        traffic spread across days (not one burst)
+    - Breaking out    — at/near peak but the surge is 1–2 days old or
+                        concentrated in a burst — too new to call sustained
+    - Elevated        — holding well above baseline without clear rising
+                        direction (a plateau)
+    """
     window = views[-QUALITY_WINDOW:]
     peak = max(window)
-    spiked = peak >= 3 * max(baseline_avg, BASELINE_FLOOR)
-    if spiked and views[-1] < COLLAPSE_RATIO * peak:
-        return "Fading / collapsing"
-    if score >= 60:
-        return "Strong emerging signal"
-    if score >= 35:
-        return "Emerging signal"
-    return "Weak signal"
+    latest = views[-1]
+    base = max(baseline_avg, BASELINE_FLOOR)
+    spiked = peak >= 3 * base
+    elevated_days = sum(1 for v in window if v >= ELEVATED_MULT * base)
+    if elevated_days == 0 and not spiked:
+        return "Weak signal"
+    if latest < FADING_RATIO * peak:
+        return "Peaked / fading"
+    rising_last3 = sum(1 for a, b in zip(views[-4:-1], views[-3:]) if b > a)
+    concentration = peak / sum(window) if sum(window) else 1.0
+    near_peak = latest >= 0.85 * peak
+    if rising_last3 >= 2 and near_peak and elevated_days >= 3 and concentration <= 0.5:
+        return "Building"
+    if near_peak and (elevated_days <= 2 or concentration > 0.5):
+        return "Breaking out"
+    if elevated_days >= 2:
+        return "Elevated"
+    return "Elevated" if spiked else "Weak signal"

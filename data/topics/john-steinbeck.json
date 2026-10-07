@@ -1,8 +1,8 @@
 {
  "title": "John Steinbeck",
  "slug": "john-steinbeck",
- "score": 47,
- "status": "Emerging signal",
+ "score": 33,
+ "status": "Elevated",
  "change_percent": 472,
  "growth_ratio": 5.72,
  "recent_avg": 35617,
@@ -17,6 +17,7 @@
   "acceleration": 0.446,
   "anomaly": 0.457,
   "persistence": 0.84,
+  "momentum": 0.514,
   "volume": 0.776,
   "spike_quality": 0.828
  },
@@ -190,7 +191,7 @@
  ],
  "wikipedia_title": "John_Steinbeck",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

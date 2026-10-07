@@ -1,8 +1,8 @@
 {
  "title": "Karl Deisseroth",
  "slug": "karl-deisseroth",
- "score": 67,
- "status": "Strong emerging signal",
+ "score": 61,
+ "status": "Breaking out",
  "change_percent": 110497,
  "growth_ratio": 807.36,
  "recent_avg": 80736,
@@ -16,14 +16,16 @@
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.56,
+  "persistence": 0.4,
+  "momentum": 1.0,
   "volume": 0.954,
   "spike_quality": 0.771
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 80,736 views/day over the last 3 days (30-day baseline: 73)."
  ],
  "history": [
@@ -190,7 +192,7 @@
  ],
  "wikipedia_title": "Karl_Deisseroth",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

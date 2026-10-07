@@ -1,8 +1,8 @@
 {
  "title": "Nidal Hasan",
  "slug": "nidal-hasan",
- "score": 48,
- "status": "Emerging signal",
+ "score": 42,
+ "status": "Breaking out",
  "change_percent": 3703,
  "growth_ratio": 38.02,
  "recent_avg": 76739,
@@ -17,6 +17,7 @@
   "acceleration": 0.93,
   "anomaly": 1.0,
   "persistence": 0.4,
+  "momentum": 0.8,
   "volume": 0.943,
   "spike_quality": 0.557
  },
@@ -189,7 +190,7 @@
  ],
  "wikipedia_title": "Nidal_Hasan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

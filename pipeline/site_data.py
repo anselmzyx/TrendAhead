@@ -12,7 +12,7 @@ import re
 import unicodedata
 
 SOURCE = "Wikipedia pageviews (Wikimedia Analytics API, CC0)"
-SCORE_VERSION = "v1"
+SCORE_VERSION = "v1.1"
 HOMEPAGE_TOPICS = 12
 TOPIC_PAGES = 24
 SPARKLINE_DAYS = 14
@@ -30,6 +30,9 @@ def slugify(title: str) -> str:
     hyphens, and a title with no Latin characters at all falls back to a
     stable short hash so it still gets a valid, deterministic URL."""
     text = title.replace("_", " ")
+    # dash-like punctuation has no ASCII decomposition — map to hyphen first
+    # so "2026–27" becomes "2026-27" rather than "202627"
+    text = re.sub(r"[–—‐‑‒−]", "-", text)
     text = unicodedata.normalize("NFKD", text)
     text = text.encode("ascii", "ignore").decode("ascii")
     text = re.sub(r"[^a-zA-Z0-9]+", "-", text).strip("-").lower()
@@ -63,7 +66,7 @@ def display_title(title: str) -> str:
 def explanation(row: dict) -> str:
     """One factual sentence for the trend card."""
     ratio = row["stats"]["growth_ratio"]
-    fading = row["status"] == "Fading / collapsing"
+    fading = row["status"] == "Peaked / fading"
     if fading:
         if ratio >= 2:
             return (
@@ -106,8 +109,10 @@ def why_bullets(row: dict) -> list[str]:
         )
     elif c["spike_quality"] >= 0.7:
         bullets.append("Recent traffic is spread across several days rather than one spike.")
-    if row["status"] == "Fading / collapsing":
+    if row["status"] == "Peaked / fading":
         bullets.append("The latest day is well below the recent peak — attention is receding.")
+    elif c["momentum"] >= 0.85:
+        bullets.append("The latest day is at or near the recent peak and still rising.")
     bullets.append(
         f"Averaging {s['recent_avg']:,} views/day over the last 3 days "
         f"(30-day baseline: {s['baseline_avg']:,})."

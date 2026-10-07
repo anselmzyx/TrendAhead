@@ -1,27 +1,31 @@
 import type { TrendStatus } from "@/lib/trends";
 
 /**
- * Status is always carried by the text label; the glyph and tint are
- * reinforcement, never the only signal.
- * Blue = emerging TrendAhead signal · amber = attention receding.
+ * Status answers "what is the attention doing now?" — derived purely from
+ * the time-series shape by the pipeline. The text label always carries the
+ * meaning; glyph and tint are reinforcement, never the only signal.
  */
 const styles: Record<TrendStatus, { glyph: string; className: string }> = {
-  "Strong emerging signal": {
+  Building: {
     glyph: "●",
     className: "border-accent/40 bg-accent/15 text-accent",
   },
-  "Emerging signal": {
-    glyph: "●",
+  "Breaking out": {
+    glyph: "▲",
     className: "border-accent/25 bg-accent/5 text-accent",
   },
-  "Weak signal": {
+  Elevated: {
     glyph: "■",
-    className: "border-hairline text-ink-secondary",
+    className: "border-hairline bg-surface text-ink-secondary",
   },
-  "Fading / collapsing": {
+  "Peaked / fading": {
     glyph: "▼",
     className:
       "border-amber-500/40 bg-amber-500/10 text-amber-700 dark:text-amber-400",
+  },
+  "Weak signal": {
+    glyph: "■",
+    className: "border-hairline text-ink-muted",
   },
 };
 

@@ -1,13 +1,13 @@
 {
  "title": "Dennis Hastert",
  "slug": "dennis-hastert",
- "score": 38,
- "status": "Emerging signal",
+ "score": 24,
+ "status": "Peaked / fading",
  "change_percent": 8005,
  "growth_ratio": 81.06,
  "recent_avg": 58274,
  "baseline_avg": 719,
- "explanation": "Attention is 81\u00d7 its 30-day baseline.",
+ "explanation": "Attention surged to 81\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
@@ -17,6 +17,7 @@
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.32,
+  "momentum": 0.399,
   "volume": 0.883,
   "spike_quality": 0.407
  },
@@ -24,6 +25,7 @@
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
   "Averaging 58,274 views/day over the last 3 days (30-day baseline: 719)."
  ],
  "history": [
@@ -190,7 +192,7 @@
  ],
  "wikipedia_title": "Dennis_Hastert",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

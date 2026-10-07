@@ -1,4 +1,4 @@
-# TrendAhead Score V1 — Methodology
+# TrendAhead Score V1.1 — Methodology
 
 > Status: **experimental**. This documents the exact formula implemented in
 > `pipeline/scoring.py`. Keep the two in sync. The score is a derived
@@ -40,10 +40,12 @@ topic must climb further before it counts as unusual.
 ### C. Persistence — weight 0.40 (the largest, deliberately)
 Over the last 5 days:
 `0.6 × (fraction of days ≥ 1.5× baseline) + 0.4 × (fraction of
-day-over-day changes that are increases)`.
+day-over-day increases TO AN ELEVATED DAY)`.
 *Why:* this is what separates `100,100,100,8000,120` from
 `100,300,700,1500,3000`. Elevation share rewards staying up; rising share
-rewards still climbing.
+rewards still climbing. (V1.1: a rise only counts when the destination day
+is itself elevated — Phase 7 diagnostics showed sub-baseline noise like
+61 → 71 → 92 views was earning "rising" credit.)
 
 ### D. Volume — multiplicative gate, exponent 0.5
 `(log10(recent_avg) − log10(1,000)) / (log10(100,000) − log10(1,000))`,
@@ -64,23 +66,45 @@ week = 0), and collapse quality = latest day ÷ window peak (capped at 1).
 Applied as `0.25 + 0.75 × quality`, so the worst spike keeps 25% of its
 score — **down-ranked, not deleted**, per the product decision.
 
+### F. Momentum — multiplicative damp, floor 0.40 (new in V1.1)
+`0.6 × (latest day ÷ 7-day peak) + 0.4 × (recency-weighted rising share of
+the last 3 day-over-day changes, weights 1,2,3)`.
+Applied as `0.4 + 0.6 × momentum`.
+*Why:* Phase 7 diagnostics showed a post-peak cluster (latest day at only
+23–31% of the recent peak and declining) still scoring 45–55. Momentum
+asks "does this signal appear to have momentum remaining?" — a
+still-climbing series keeps its full score, a high plateau keeps most of
+it, and a clearly post-peak series keeps at most 40%. A fresh breakout
+(huge latest day, no collapse evidence yet) is *not* punished — it sits at
+its peak, so momentum stays high. *Why a damp and not a core component:*
+tested as an additive component it leaked points to flat topics ("latest ≈
+peak" is trivially true for a flat line); as a damp, flat topics stay at
+zero and only elevated signals are modulated.
+
 ## Final formula
 
 ```
 core  = 0.35·acceleration + 0.25·anomaly + 0.40·persistence
-score = round( 100 · core · volume^0.5 · (0.25 + 0.75·spike_quality) )
+score = round( 100 · core · volume^0.5
+               · (0.25 + 0.75·spike_quality)
+               · (0.40 + 0.60·momentum) )
 ```
 
 Clamped to [0, 100]. Integer output — more precision would be fake.
 
-## Status labels (provisional, secondary to the score)
+## Status labels (V1.1 — shape-based, independent of the score)
 
-- **Fading / collapsing** — the last 7 days contain a spike ≥ 3× baseline
-  AND the latest day is below 40% of that peak (momentum check, applied
-  regardless of score)
-- **Strong emerging signal** — score ≥ 60
-- **Emerging signal** — score 35–59
-- **Weak signal** — score < 35
+Each answers "what is the attention doing NOW?", computed only from the
+last 7 days' shape (thresholds in `scoring.py`):
+
+- **Peaked / fading** — the latest day is below 55% of the recent peak
+- **Building** — still rising, at/near the peak, elevated for ≥ 3 days,
+  traffic spread across days (peak day ≤ 50% of the week's traffic)
+- **Breaking out** — at/near the peak, but the surge is only 1–2 days old
+  or concentrated in a burst — too new to call sustained
+- **Elevated** — holding well above baseline without a clear rising
+  direction (a plateau)
+- **Weak signal** — no meaningful elevation above baseline
 
 ## Why this formulation won (vs. 2 alternatives)
 
@@ -98,15 +122,20 @@ Tested on 38 real candidate histories (2026-10-06) + 7 synthetic shapes:
 
 ## Validated benchmark behaviour (tests in test_scoring.py)
 
-| Shape | Score | Expectation met |
-|---|---|---|
-| Stable popular (60k/day flat) | 3 | LOW ✓ |
-| Tiny explosion (2 → 20) | 0 | VERY LOW ✓ |
-| One-day spike + collapse | 14 | LOW-MODERATE, not deleted ✓ |
-| Sustained 5-day climber | 60 | HIGH ✓ |
-| Rise then collapse | 24 | below sustained ✓ |
-| Moderate persistent growth | 47 | meaningfully high ✓ |
-| Huge flat (1M/day) | 3 | LOW ✓ |
+| Shape | V1.1 score | Status | Expectation met |
+|---|---|---|---|
+| Stable popular (60k/day flat) | 0 | Weak signal | LOW ✓ |
+| Tiny explosion (2 → 20) | 0 | Weak signal | VERY LOW ✓ |
+| One-day spike, collapsed | 6 | Peaked / fading | heavily penalised, not deleted ✓ |
+| Sustained 5-day climber | 60 | Building | HIGH ✓ |
+| Still accelerating (6 rising days) | 57 | Building | HIGH ✓ |
+| Moderate persistent growth | 47 | Building | meaningfully high ✓ |
+| Two-day high plateau | 36 | Breaking out | moderate, below sustained ✓ |
+| Slow steady build (+13%/day) | 31 | Building | respectable ✓ |
+| Fresh breakout (no collapse yet) | 26 | Breaking out | meaningful, ≫ collapsed spike ✓ |
+| Rise then collapse | 11 | Peaked / fading | strongly below sustained ✓ |
+| Post-peak decline | 6 | Peaked / fading | substantially penalised ✓ |
+| Huge flat (1M/day) | 0 | Weak signal | LOW ✓ |
 
 ## Known limitations (V1, honest)
 
@@ -116,10 +145,13 @@ Tested on 38 real candidate histories (2026-10-06) + 7 synthetic shapes:
    More days of data resolve it; the score alone cannot.
 2. **Wikimedia-internal artefacts score well** (e.g. a fundraising banner
    driving "Wikimedia Foundation" views in a multi-day climb shape).
-   Needs source-aware filtering in Phase 7 — not a shape problem.
-3. **The "Fading / collapsing" label can co-exist with a high score**
-   (spiked hugely, still elevated, but off its peak). Arguably correct,
-   but the UI copy will need care.
+   Resolved in Phase 5.5 by the tiny exact-match infrastructure filter —
+   not a shape problem.
+3. **V1.1 resolved the worst of this** (2026-10-08): the momentum damp cut
+   the post-peak cluster by ~40% of its score, and the shape-based labels
+   (Building / Breaking out / Elevated / Peaked / fading) now communicate
+   signal maturity directly. Fresh 1–2-day breakouts still rank near the
+   top while at their peak — by design, clearly labelled "Breaking out".
 4. Candidate discovery (Phase 4) still over-samples sudden entrants and
    misses slower climbers — the evaluation-only "improver" sample proved
    such topics exist (the #1 topic came from it). Discovery improvement

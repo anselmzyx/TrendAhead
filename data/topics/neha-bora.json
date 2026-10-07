@@ -1,8 +1,8 @@
 {
  "title": "Neha Bora",
  "slug": "neha-bora",
- "score": 59,
- "status": "Emerging signal",
+ "score": 48,
+ "status": "Elevated",
  "change_percent": 968,
  "growth_ratio": 10.68,
  "recent_avg": 38112,
@@ -17,6 +17,7 @@
   "acceleration": 0.605,
   "anomaly": 0.763,
   "persistence": 0.92,
+  "momentum": 0.676,
   "volume": 0.791,
   "spike_quality": 0.818
  },
@@ -190,7 +191,7 @@
  ],
  "wikipedia_title": "Neha_Bora",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

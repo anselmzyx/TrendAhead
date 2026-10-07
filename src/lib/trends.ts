@@ -10,10 +10,11 @@ import { promises as fs } from "fs";
 import path from "path";
 
 export type TrendStatus =
-  | "Strong emerging signal"
-  | "Emerging signal"
-  | "Weak signal"
-  | "Fading / collapsing";
+  | "Building"
+  | "Breaking out"
+  | "Elevated"
+  | "Peaked / fading"
+  | "Weak signal";
 
 export interface TrendCore {
   title: string;
@@ -46,6 +47,7 @@ export interface TopicComponents {
   acceleration: number;
   anomaly: number;
   persistence: number;
+  momentum: number;
   volume: number;
   spike_quality: number;
 }

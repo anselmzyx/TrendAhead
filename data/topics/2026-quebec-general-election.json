@@ -2,7 +2,7 @@
  "title": "2026 Quebec general election",
  "slug": "2026-quebec-general-election",
  "score": 68,
- "status": "Strong emerging signal",
+ "status": "Breaking out",
  "change_percent": 1619,
  "growth_ratio": 17.19,
  "recent_avg": 69255,
@@ -17,6 +17,7 @@
   "acceleration": 0.727,
   "anomaly": 1.0,
   "persistence": 1.0,
+  "momentum": 1.0,
   "volume": 0.92,
   "spike_quality": 0.713
  },
@@ -24,6 +25,7 @@
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 69,255 views/day over the last 3 days (30-day baseline: 4,028)."
  ],
  "history": [
@@ -190,7 +192,7 @@
  ],
  "wikipedia_title": "2026_Quebec_general_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

@@ -1,8 +1,8 @@
 {
  "title": "2026\u201327 UEFA Nations League",
- "slug": "202627-uefa-nations-league",
+ "slug": "2026-27-uefa-nations-league",
  "score": 50,
- "status": "Emerging signal",
+ "status": "Building",
  "change_percent": 228,
  "growth_ratio": 3.28,
  "recent_avg": 43041,
@@ -17,6 +17,7 @@
   "acceleration": 0.303,
   "anomaly": 0.229,
   "persistence": 1.0,
+  "momentum": 1.0,
   "volume": 0.817,
   "spike_quality": 0.974
  },
@@ -24,6 +25,7 @@
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 43,041 views/day over the last 3 days (30-day baseline: 13,142)."
  ],
  "history": [
@@ -190,7 +192,7 @@
  ],
  "wikipedia_title": "2026\u201327_UEFA_Nations_League",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

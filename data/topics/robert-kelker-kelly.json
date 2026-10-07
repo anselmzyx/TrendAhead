@@ -1,8 +1,8 @@
 {
  "title": "Robert Kelker-Kelly",
  "slug": "robert-kelker-kelly",
- "score": 64,
- "status": "Strong emerging signal",
+ "score": 51,
+ "status": "Breaking out",
  "change_percent": 183707,
  "growth_ratio": 827.13,
  "recent_avg": 82713,
@@ -16,13 +16,14 @@
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.48,
+  "persistence": 0.32,
+  "momentum": 0.779,
   "volume": 0.959,
   "spike_quality": 0.769
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "Averaging 82,713 views/day over the last 3 days (30-day baseline: 45)."
  ],
@@ -190,7 +191,7 @@
  ],
  "wikipedia_title": "Robert_Kelker-Kelly",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

@@ -1,8 +1,8 @@
 {
  "title": "Freddie Jackson",
  "slug": "freddie-jackson",
- "score": 48,
- "status": "Emerging signal",
+ "score": 42,
+ "status": "Breaking out",
  "change_percent": 20840,
  "growth_ratio": 209.68,
  "recent_avg": 56118,
@@ -17,6 +17,7 @@
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.52,
+  "momentum": 0.8,
   "volume": 0.875,
   "spike_quality": 0.507
  },
@@ -189,7 +190,7 @@
  ],
  "wikipedia_title": "Freddie_Jackson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

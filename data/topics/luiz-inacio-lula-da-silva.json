@@ -1,8 +1,8 @@
 {
  "title": "Luiz In\u00e1cio Lula da Silva",
  "slug": "luiz-inacio-lula-da-silva",
- "score": 45,
- "status": "Fading / collapsing",
+ "score": 29,
+ "status": "Peaked / fading",
  "change_percent": 872,
  "growth_ratio": 9.72,
  "recent_avg": 38118,
@@ -17,6 +17,7 @@
   "acceleration": 0.581,
   "anomaly": 1.0,
   "persistence": 0.92,
+  "momentum": 0.385,
   "volume": 0.791,
   "spike_quality": 0.492
  },
@@ -190,7 +191,7 @@
  ],
  "wikipedia_title": "Luiz_In\u00e1cio_Lula_da_Silva",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }

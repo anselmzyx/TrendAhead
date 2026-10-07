@@ -1,8 +1,8 @@
 {
  "title": "Michael Douglas",
  "slug": "michael-douglas",
- "score": 55,
- "status": "Emerging signal",
+ "score": 53,
+ "status": "Building",
  "change_percent": 396,
  "growth_ratio": 4.96,
  "recent_avg": 47835,
@@ -17,6 +17,7 @@
   "acceleration": 0.409,
   "anomaly": 0.557,
   "persistence": 0.92,
+  "momentum": 0.933,
   "volume": 0.84,
   "spike_quality": 0.896
  },
@@ -24,6 +25,7 @@
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
   "Averaging 47,835 views/day over the last 3 days (30-day baseline: 9,643)."
  ],
  "history": [
@@ -190,7 +192,7 @@
  ],
  "wikipedia_title": "Michael_Douglas",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
- "score_version": "v1",
+ "score_version": "v1.1",
  "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:21:41+00:00"
+ "generated_at_utc": "2026-10-07T16:49:28+00:00"
 }
