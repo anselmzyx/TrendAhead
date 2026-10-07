@@ -1,0 +1,198 @@
+{
+ "title": "2026 Quebec general election",
+ "slug": "2026-quebec-general-election",
+ "score": 68,
+ "status": "Breaking out",
+ "change_percent": 1619,
+ "growth_ratio": 17.19,
+ "recent_avg": 69255,
+ "baseline_avg": 4028,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 65227,
+ "latest": 153808,
+ "components": {
+  "acceleration": 0.727,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.92,
+  "spike_quality": 0.713
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 69,255 views/day over the last 3 days (30-day baseline: 4,028)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 4128
+  },
+  {
+   "date": "2026-08-29",
+   "views": 2953
+  },
+  {
+   "date": "2026-08-30",
+   "views": 2542
+  },
+  {
+   "date": "2026-08-31",
+   "views": 2993
+  },
+  {
+   "date": "2026-09-01",
+   "views": 3740
+  },
+  {
+   "date": "2026-09-02",
+   "views": 2765
+  },
+  {
+   "date": "2026-09-03",
+   "views": 2838
+  },
+  {
+   "date": "2026-09-04",
+   "views": 2370
+  },
+  {
+   "date": "2026-09-05",
+   "views": 2335
+  },
+  {
+   "date": "2026-09-06",
+   "views": 2144
+  },
+  {
+   "date": "2026-09-07",
+   "views": 2415
+  },
+  {
+   "date": "2026-09-08",
+   "views": 2781
+  },
+  {
+   "date": "2026-09-09",
+   "views": 2398
+  },
+  {
+   "date": "2026-09-10",
+   "views": 2268
+  },
+  {
+   "date": "2026-09-11",
+   "views": 2024
+  },
+  {
+   "date": "2026-09-12",
+   "views": 1700
+  },
+  {
+   "date": "2026-09-13",
+   "views": 1949
+  },
+  {
+   "date": "2026-09-14",
+   "views": 2709
+  },
+  {
+   "date": "2026-09-15",
+   "views": 2799
+  },
+  {
+   "date": "2026-09-16",
+   "views": 3087
+  },
+  {
+   "date": "2026-09-17",
+   "views": 2934
+  },
+  {
+   "date": "2026-09-18",
+   "views": 2528
+  },
+  {
+   "date": "2026-09-19",
+   "views": 2246
+  },
+  {
+   "date": "2026-09-20",
+   "views": 2691
+  },
+  {
+   "date": "2026-09-21",
+   "views": 3797
+  },
+  {
+   "date": "2026-09-22",
+   "views": 3898
+  },
+  {
+   "date": "2026-09-23",
+   "views": 4196
+  },
+  {
+   "date": "2026-09-24",
+   "views": 4461
+  },
+  {
+   "date": "2026-09-25",
+   "views": 4306
+  },
+  {
+   "date": "2026-09-26",
+   "views": 3907
+  },
+  {
+   "date": "2026-09-27",
+   "views": 4560
+  },
+  {
+   "date": "2026-09-28",
+   "views": 7798
+  },
+  {
+   "date": "2026-09-29",
+   "views": 8283
+  },
+  {
+   "date": "2026-09-30",
+   "views": 7377
+  },
+  {
+   "date": "2026-10-01",
+   "views": 7737
+  },
+  {
+   "date": "2026-10-02",
+   "views": 9056
+  },
+  {
+   "date": "2026-10-03",
+   "views": 10091
+  },
+  {
+   "date": "2026-10-04",
+   "views": 14657
+  },
+  {
+   "date": "2026-10-05",
+   "views": 39301
+  },
+  {
+   "date": "2026-10-06",
+   "views": 153808
+  }
+ ],
+ "wikipedia_title": "2026_Quebec_general_election",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:47:30+00:00"
+}

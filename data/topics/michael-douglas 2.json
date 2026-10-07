@@ -1,0 +1,198 @@
+{
+ "title": "Michael Douglas",
+ "slug": "michael-douglas",
+ "score": 53,
+ "status": "Building",
+ "change_percent": 396,
+ "growth_ratio": 4.96,
+ "recent_avg": 47835,
+ "baseline_avg": 9643,
+ "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 38192,
+ "latest": 71709,
+ "components": {
+  "acceleration": 0.409,
+  "anomaly": 0.557,
+  "persistence": 0.92,
+  "momentum": 0.933,
+  "volume": 0.84,
+  "spike_quality": 0.896
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 47,835 views/day over the last 3 days (30-day baseline: 9,643)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 5999
+  },
+  {
+   "date": "2026-08-29",
+   "views": 8584
+  },
+  {
+   "date": "2026-08-30",
+   "views": 8848
+  },
+  {
+   "date": "2026-08-31",
+   "views": 7276
+  },
+  {
+   "date": "2026-09-01",
+   "views": 5842
+  },
+  {
+   "date": "2026-09-02",
+   "views": 5944
+  },
+  {
+   "date": "2026-09-03",
+   "views": 9877
+  },
+  {
+   "date": "2026-09-04",
+   "views": 6631
+  },
+  {
+   "date": "2026-09-05",
+   "views": 7072
+  },
+  {
+   "date": "2026-09-06",
+   "views": 8247
+  },
+  {
+   "date": "2026-09-07",
+   "views": 6681
+  },
+  {
+   "date": "2026-09-08",
+   "views": 6039
+  },
+  {
+   "date": "2026-09-09",
+   "views": 5058
+  },
+  {
+   "date": "2026-09-10",
+   "views": 4944
+  },
+  {
+   "date": "2026-09-11",
+   "views": 6778
+  },
+  {
+   "date": "2026-09-12",
+   "views": 7458
+  },
+  {
+   "date": "2026-09-13",
+   "views": 9094
+  },
+  {
+   "date": "2026-09-14",
+   "views": 8264
+  },
+  {
+   "date": "2026-09-15",
+   "views": 6520
+  },
+  {
+   "date": "2026-09-16",
+   "views": 6801
+  },
+  {
+   "date": "2026-09-17",
+   "views": 7164
+  },
+  {
+   "date": "2026-09-18",
+   "views": 8036
+  },
+  {
+   "date": "2026-09-19",
+   "views": 9545
+  },
+  {
+   "date": "2026-09-20",
+   "views": 7895
+  },
+  {
+   "date": "2026-09-21",
+   "views": 6965
+  },
+  {
+   "date": "2026-09-22",
+   "views": 5827
+  },
+  {
+   "date": "2026-09-23",
+   "views": 7527
+  },
+  {
+   "date": "2026-09-24",
+   "views": 9658
+  },
+  {
+   "date": "2026-09-25",
+   "views": 16874
+  },
+  {
+   "date": "2026-09-26",
+   "views": 13152
+  },
+  {
+   "date": "2026-09-27",
+   "views": 11001
+  },
+  {
+   "date": "2026-09-28",
+   "views": 8246
+  },
+  {
+   "date": "2026-09-29",
+   "views": 7485
+  },
+  {
+   "date": "2026-09-30",
+   "views": 7070
+  },
+  {
+   "date": "2026-10-01",
+   "views": 6357
+  },
+  {
+   "date": "2026-10-02",
+   "views": 29303
+  },
+  {
+   "date": "2026-10-03",
+   "views": 37611
+  },
+  {
+   "date": "2026-10-04",
+   "views": 26049
+  },
+  {
+   "date": "2026-10-05",
+   "views": 45747
+  },
+  {
+   "date": "2026-10-06",
+   "views": 71709
+  }
+ ],
+ "wikipedia_title": "Michael_Douglas",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:47:30+00:00"
+}

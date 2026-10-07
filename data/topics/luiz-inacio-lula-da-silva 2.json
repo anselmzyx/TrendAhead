@@ -1,0 +1,197 @@
+{
+ "title": "Luiz In\u00e1cio Lula da Silva",
+ "slug": "luiz-inacio-lula-da-silva",
+ "score": 29,
+ "status": "Peaked / fading",
+ "change_percent": 872,
+ "growth_ratio": 9.72,
+ "recent_avg": 38118,
+ "baseline_avg": 3922,
+ "explanation": "Attention surged to 9.7\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 34196,
+ "latest": 18588,
+ "components": {
+  "acceleration": 0.581,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.385,
+  "volume": 0.791,
+  "spike_quality": 0.492
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 38,118 views/day over the last 3 days (30-day baseline: 3,922)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 2183
+  },
+  {
+   "date": "2026-08-29",
+   "views": 2158
+  },
+  {
+   "date": "2026-08-30",
+   "views": 2101
+  },
+  {
+   "date": "2026-08-31",
+   "views": 2321
+  },
+  {
+   "date": "2026-09-01",
+   "views": 2232
+  },
+  {
+   "date": "2026-09-02",
+   "views": 2096
+  },
+  {
+   "date": "2026-09-03",
+   "views": 2104
+  },
+  {
+   "date": "2026-09-04",
+   "views": 1976
+  },
+  {
+   "date": "2026-09-05",
+   "views": 1755
+  },
+  {
+   "date": "2026-09-06",
+   "views": 1818
+  },
+  {
+   "date": "2026-09-07",
+   "views": 2189
+  },
+  {
+   "date": "2026-09-08",
+   "views": 2583
+  },
+  {
+   "date": "2026-09-09",
+   "views": 2485
+  },
+  {
+   "date": "2026-09-10",
+   "views": 2735
+  },
+  {
+   "date": "2026-09-11",
+   "views": 4098
+  },
+  {
+   "date": "2026-09-12",
+   "views": 3964
+  },
+  {
+   "date": "2026-09-13",
+   "views": 3856
+  },
+  {
+   "date": "2026-09-14",
+   "views": 2700
+  },
+  {
+   "date": "2026-09-15",
+   "views": 2499
+  },
+  {
+   "date": "2026-09-16",
+   "views": 2255
+  },
+  {
+   "date": "2026-09-17",
+   "views": 2450
+  },
+  {
+   "date": "2026-09-18",
+   "views": 2401
+  },
+  {
+   "date": "2026-09-19",
+   "views": 2079
+  },
+  {
+   "date": "2026-09-20",
+   "views": 2413
+  },
+  {
+   "date": "2026-09-21",
+   "views": 3368
+  },
+  {
+   "date": "2026-09-22",
+   "views": 5944
+  },
+  {
+   "date": "2026-09-23",
+   "views": 3890
+  },
+  {
+   "date": "2026-09-24",
+   "views": 3384
+  },
+  {
+   "date": "2026-09-25",
+   "views": 3950
+  },
+  {
+   "date": "2026-09-26",
+   "views": 5075
+  },
+  {
+   "date": "2026-09-27",
+   "views": 5336
+  },
+  {
+   "date": "2026-09-28",
+   "views": 7891
+  },
+  {
+   "date": "2026-09-29",
+   "views": 6174
+  },
+  {
+   "date": "2026-09-30",
+   "views": 5390
+  },
+  {
+   "date": "2026-10-01",
+   "views": 5306
+  },
+  {
+   "date": "2026-10-02",
+   "views": 7753
+  },
+  {
+   "date": "2026-10-03",
+   "views": 9935
+  },
+  {
+   "date": "2026-10-04",
+   "views": 35616
+  },
+  {
+   "date": "2026-10-05",
+   "views": 60151
+  },
+  {
+   "date": "2026-10-06",
+   "views": 18588
+  }
+ ],
+ "wikipedia_title": "Luiz_In\u00e1cio_Lula_da_Silva",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:47:30+00:00"
+}

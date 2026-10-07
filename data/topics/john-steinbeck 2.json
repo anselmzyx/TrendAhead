@@ -1,0 +1,197 @@
+{
+ "title": "John Steinbeck",
+ "slug": "john-steinbeck",
+ "score": 33,
+ "status": "Elevated",
+ "change_percent": 472,
+ "growth_ratio": 5.72,
+ "recent_avg": 35617,
+ "baseline_avg": 6224,
+ "explanation": "Attention is 5.7\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 29393,
+ "latest": 30288,
+ "components": {
+  "acceleration": 0.446,
+  "anomaly": 0.457,
+  "persistence": 0.84,
+  "momentum": 0.514,
+  "volume": 0.776,
+  "spike_quality": 0.828
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 35,617 views/day over the last 3 days (30-day baseline: 6,224)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 2993
+  },
+  {
+   "date": "2026-08-29",
+   "views": 2922
+  },
+  {
+   "date": "2026-08-30",
+   "views": 3199
+  },
+  {
+   "date": "2026-08-31",
+   "views": 4574
+  },
+  {
+   "date": "2026-09-01",
+   "views": 4739
+  },
+  {
+   "date": "2026-09-02",
+   "views": 6475
+  },
+  {
+   "date": "2026-09-03",
+   "views": 6534
+  },
+  {
+   "date": "2026-09-04",
+   "views": 6595
+  },
+  {
+   "date": "2026-09-05",
+   "views": 5017
+  },
+  {
+   "date": "2026-09-06",
+   "views": 4320
+  },
+  {
+   "date": "2026-09-07",
+   "views": 4681
+  },
+  {
+   "date": "2026-09-08",
+   "views": 4624
+  },
+  {
+   "date": "2026-09-09",
+   "views": 4522
+  },
+  {
+   "date": "2026-09-10",
+   "views": 3996
+  },
+  {
+   "date": "2026-09-11",
+   "views": 3663
+  },
+  {
+   "date": "2026-09-12",
+   "views": 3376
+  },
+  {
+   "date": "2026-09-13",
+   "views": 3776
+  },
+  {
+   "date": "2026-09-14",
+   "views": 3931
+  },
+  {
+   "date": "2026-09-15",
+   "views": 3768
+  },
+  {
+   "date": "2026-09-16",
+   "views": 3754
+  },
+  {
+   "date": "2026-09-17",
+   "views": 3797
+  },
+  {
+   "date": "2026-09-18",
+   "views": 4092
+  },
+  {
+   "date": "2026-09-19",
+   "views": 3783
+  },
+  {
+   "date": "2026-09-20",
+   "views": 3721
+  },
+  {
+   "date": "2026-09-21",
+   "views": 4157
+  },
+  {
+   "date": "2026-09-22",
+   "views": 3772
+  },
+  {
+   "date": "2026-09-23",
+   "views": 3824
+  },
+  {
+   "date": "2026-09-24",
+   "views": 3707
+  },
+  {
+   "date": "2026-09-25",
+   "views": 4262
+  },
+  {
+   "date": "2026-09-26",
+   "views": 4292
+  },
+  {
+   "date": "2026-09-27",
+   "views": 4651
+  },
+  {
+   "date": "2026-09-28",
+   "views": 4823
+  },
+  {
+   "date": "2026-09-29",
+   "views": 4654
+  },
+  {
+   "date": "2026-09-30",
+   "views": 5010
+  },
+  {
+   "date": "2026-10-01",
+   "views": 14338
+  },
+  {
+   "date": "2026-10-02",
+   "views": 25026
+  },
+  {
+   "date": "2026-10-03",
+   "views": 32776
+  },
+  {
+   "date": "2026-10-04",
+   "views": 40598
+  },
+  {
+   "date": "2026-10-05",
+   "views": 35964
+  },
+  {
+   "date": "2026-10-06",
+   "views": 30288
+  }
+ ],
+ "wikipedia_title": "John_Steinbeck",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:47:30+00:00"
+}

@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 7 — Signal quality (Score V1.1)** (complete: awaiting review)
+**Phase 8 — GDELT proof of concept** (complete: awaiting review)
 
 ## Completed phases
 
@@ -23,27 +23,28 @@
   (pipeline/SCORING.md), benchmarked + tested, pushed to GitHub.
 - **Phase 5.5 — Discovery alignment** (2026-10-07) two-path discovery
   (new entrants + improvers), infrastructure filter, healthier mix.
+- **Phase 6 — Real data on the website** (2026-10-08) generated JSON,
+  truthful Wikipedia-only labelling, 31 routes.
+- **Phase 7 — Score V1.1** (2026-10-08) momentum damp, refined
+  persistence, shape-based statuses.
 
 ## Current checkpoint
 
-Phase 7 done pending review: diagnostics revealed (a) persistence was
-crediting sub-baseline noise rises, (b) a post-peak cluster (latest day at
-23-31% of peak, declining) still scored 45-55, (c) several "5-day
-climbers" were really 1-2-day event jumps. Score V1.1 adopted: refined
-persistence (rises only count to elevated days) + momentum damp
-(0.4 + 0.6 x [0.6 latest/peak + 0.4 recency-weighted rising direction]).
-Chosen over momentum-as-additive-component (leaked points to flat topics)
-and persistence-blend (inflated spikes). New shape-based statuses:
-Building / Breaking out / Elevated / Peaked, fading / Weak signal.
-Post-peak cluster fell out of the top 12; climbers (Michael Douglas,
-UEFA Nations League) labelled Building; breakouts clearly labelled.
-En-dash slug fix (2026-27-uefa-nations-league). 78 Python tests, lint,
-tsc, build (31 routes) pass; site regenerated and verified.
+Phase 8 done pending review: isolated GDELT DOC 2.0 client
+(pipeline/gdelt.py) + PoC (pipeline/poc_gdelt.py), 11 new fixture-based
+tests. Verified: timelinevolraw returns raw daily article counts (UTC);
+no API key; ~1 req/5s enforced via 429 with minutes-long penalty after a
+burst; data free for commercial use with citation. Key findings: raw
+timelines lag ~3-4 days (can't confirm fresh breakouts), final bucket can
+be partially backfilled (dropped via norm check), and naive Wikipedia
+titles can match zero news ("2026 Quebec general election" vs "Quebec
+election"). Production untouched — Score and site remain Wikimedia-only.
 
 ## Next checkpoint
 
-**Phase 8 — GDELT proof of concept** (news-attention second source), after
-user reviews the V1.1 rankings and statuses.
+**Phase 9 — Cross-source confirmation**: design the Wikipedia+GDELT
+combination around the discovered constraints (multi-day confirmation
+only, title→query mapping, lag-aware alignment).
 
 ## Outstanding phases (summary)
 

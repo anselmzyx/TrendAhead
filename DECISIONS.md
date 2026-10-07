@@ -170,3 +170,25 @@ Building / Breaking out / Elevated / Peaked, fading / Weak signal.
 Known instability documented: candidates at the top-1000 list boundary can
 flap between runs because Wikimedia finalises counts late (Parti Québécois
 dropped out of the pool between two same-window runs).
+
+## 2026-10-08 — GDELT DOC 2.0 proof of concept (Phase 8, experimental only)
+
+GDELT chosen modes: timelinevolraw (TRUE raw matching-article counts per
+day, plus "norm" = total articles GDELT monitored that day) and artlist
+(headline samples for relevance checks). No API key. Searchable window:
+rolling 3 months; timestamps UTC. Terms: free for unlimited use including
+commercial, with required citation + link to gdeltproject.org (will be
+added to the site when/if GDELT ships in production). Rate limits are NOT
+in the docs but ARE enforced by the API: HTTP 429 says "limit requests to
+one every 5 seconds", and empirically a tripped limiter stays tripped for
+minutes — client paces at 6s and backs off 60s+/attempt on 429, with disk
+caching so re-runs create zero traffic. CRITICAL findings for Phase 9:
+(1) raw daily timelines LAG several days behind (requests on Oct 7 UTC
+returned usable data only through ~Oct 2-3), so GDELT cannot confirm
+fresh 1-2-day breakouts, only multi-day trends; (2) the final returned
+bucket can be partially backfilled (norm a fraction of a normal day) and
+must be dropped; (3) naive Wikipedia-title queries can fail completely —
+"2026 Quebec general election" matched ~zero articles while "Quebec
+election" matched highly relevant coverage; title→news-query mapping is
+the main Phase 9 problem. GDELT remains proof-of-concept ONLY: the
+TrendAhead Score and website are untouched and Wikimedia-only.

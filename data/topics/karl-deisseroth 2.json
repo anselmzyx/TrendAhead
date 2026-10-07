@@ -1,0 +1,198 @@
+{
+ "title": "Karl Deisseroth",
+ "slug": "karl-deisseroth",
+ "score": 61,
+ "status": "Breaking out",
+ "change_percent": 110497,
+ "growth_ratio": 807.36,
+ "recent_avg": 80736,
+ "baseline_avg": 73,
+ "explanation": "Attention is 807\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 80663,
+ "latest": 130061,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.954,
+  "spike_quality": 0.771
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 80,736 views/day over the last 3 days (30-day baseline: 73)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 34
+  },
+  {
+   "date": "2026-08-29",
+   "views": 55
+  },
+  {
+   "date": "2026-08-30",
+   "views": 71
+  },
+  {
+   "date": "2026-08-31",
+   "views": 87
+  },
+  {
+   "date": "2026-09-01",
+   "views": 71
+  },
+  {
+   "date": "2026-09-02",
+   "views": 65
+  },
+  {
+   "date": "2026-09-03",
+   "views": 54
+  },
+  {
+   "date": "2026-09-04",
+   "views": 65
+  },
+  {
+   "date": "2026-09-05",
+   "views": 39
+  },
+  {
+   "date": "2026-09-06",
+   "views": 34
+  },
+  {
+   "date": "2026-09-07",
+   "views": 52
+  },
+  {
+   "date": "2026-09-08",
+   "views": 52
+  },
+  {
+   "date": "2026-09-09",
+   "views": 66
+  },
+  {
+   "date": "2026-09-10",
+   "views": 53
+  },
+  {
+   "date": "2026-09-11",
+   "views": 47
+  },
+  {
+   "date": "2026-09-12",
+   "views": 29
+  },
+  {
+   "date": "2026-09-13",
+   "views": 36
+  },
+  {
+   "date": "2026-09-14",
+   "views": 43
+  },
+  {
+   "date": "2026-09-15",
+   "views": 67
+  },
+  {
+   "date": "2026-09-16",
+   "views": 69
+  },
+  {
+   "date": "2026-09-17",
+   "views": 106
+  },
+  {
+   "date": "2026-09-18",
+   "views": 77
+  },
+  {
+   "date": "2026-09-19",
+   "views": 66
+  },
+  {
+   "date": "2026-09-20",
+   "views": 84
+  },
+  {
+   "date": "2026-09-21",
+   "views": 91
+  },
+  {
+   "date": "2026-09-22",
+   "views": 133
+  },
+  {
+   "date": "2026-09-23",
+   "views": 96
+  },
+  {
+   "date": "2026-09-24",
+   "views": 112
+  },
+  {
+   "date": "2026-09-25",
+   "views": 89
+  },
+  {
+   "date": "2026-09-26",
+   "views": 79
+  },
+  {
+   "date": "2026-09-27",
+   "views": 89
+  },
+  {
+   "date": "2026-09-28",
+   "views": 65
+  },
+  {
+   "date": "2026-09-29",
+   "views": 107
+  },
+  {
+   "date": "2026-09-30",
+   "views": 130
+  },
+  {
+   "date": "2026-10-01",
+   "views": 87
+  },
+  {
+   "date": "2026-10-02",
+   "views": 61
+  },
+  {
+   "date": "2026-10-03",
+   "views": 71
+  },
+  {
+   "date": "2026-10-04",
+   "views": 92
+  },
+  {
+   "date": "2026-10-05",
+   "views": 112054
+  },
+  {
+   "date": "2026-10-06",
+   "views": 130061
+  }
+ ],
+ "wikipedia_title": "Karl_Deisseroth",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:47:30+00:00"
+}

@@ -1,0 +1,197 @@
+{
+ "title": "Tammy Faye Messner",
+ "slug": "tammy-faye-messner",
+ "score": 50,
+ "status": "Breaking out",
+ "change_percent": 4666,
+ "growth_ratio": 47.65,
+ "recent_avg": 42230,
+ "baseline_avg": 886,
+ "explanation": "Attention is 48\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 41344,
+ "latest": 123002,
+ "components": {
+  "acceleration": 0.988,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "momentum": 0.933,
+  "volume": 0.813,
+  "spike_quality": 0.534
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 42,230 views/day over the last 3 days (30-day baseline: 886)."
+ ],
+ "history": [
+  {
+   "date": "2026-08-28",
+   "views": 752
+  },
+  {
+   "date": "2026-08-29",
+   "views": 823
+  },
+  {
+   "date": "2026-08-30",
+   "views": 1001
+  },
+  {
+   "date": "2026-08-31",
+   "views": 795
+  },
+  {
+   "date": "2026-09-01",
+   "views": 752
+  },
+  {
+   "date": "2026-09-02",
+   "views": 995
+  },
+  {
+   "date": "2026-09-03",
+   "views": 785
+  },
+  {
+   "date": "2026-09-04",
+   "views": 699
+  },
+  {
+   "date": "2026-09-05",
+   "views": 841
+  },
+  {
+   "date": "2026-09-06",
+   "views": 1011
+  },
+  {
+   "date": "2026-09-07",
+   "views": 901
+  },
+  {
+   "date": "2026-09-08",
+   "views": 858
+  },
+  {
+   "date": "2026-09-09",
+   "views": 790
+  },
+  {
+   "date": "2026-09-10",
+   "views": 773
+  },
+  {
+   "date": "2026-09-11",
+   "views": 884
+  },
+  {
+   "date": "2026-09-12",
+   "views": 2928
+  },
+  {
+   "date": "2026-09-13",
+   "views": 1371
+  },
+  {
+   "date": "2026-09-14",
+   "views": 975
+  },
+  {
+   "date": "2026-09-15",
+   "views": 843
+  },
+  {
+   "date": "2026-09-16",
+   "views": 776
+  },
+  {
+   "date": "2026-09-17",
+   "views": 689
+  },
+  {
+   "date": "2026-09-18",
+   "views": 693
+  },
+  {
+   "date": "2026-09-19",
+   "views": 724
+  },
+  {
+   "date": "2026-09-20",
+   "views": 783
+  },
+  {
+   "date": "2026-09-21",
+   "views": 669
+  },
+  {
+   "date": "2026-09-22",
+   "views": 643
+  },
+  {
+   "date": "2026-09-23",
+   "views": 706
+  },
+  {
+   "date": "2026-09-24",
+   "views": 677
+  },
+  {
+   "date": "2026-09-25",
+   "views": 642
+  },
+  {
+   "date": "2026-09-26",
+   "views": 734
+  },
+  {
+   "date": "2026-09-27",
+   "views": 770
+  },
+  {
+   "date": "2026-09-28",
+   "views": 650
+  },
+  {
+   "date": "2026-09-29",
+   "views": 706
+  },
+  {
+   "date": "2026-09-30",
+   "views": 750
+  },
+  {
+   "date": "2026-10-01",
+   "views": 755
+  },
+  {
+   "date": "2026-10-02",
+   "views": 762
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1582
+  },
+  {
+   "date": "2026-10-04",
+   "views": 1371
+  },
+  {
+   "date": "2026-10-05",
+   "views": 2316
+  },
+  {
+   "date": "2026-10-06",
+   "views": 123002
+  }
+ ],
+ "wikipedia_title": "Tammy_Faye_Messner",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-06",
+ "generated_at_utc": "2026-10-07T16:47:30+00:00"
+}

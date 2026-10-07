@@ -80,6 +80,9 @@ and refuses to write a broken dataset.
 - `discover_and_score.py` — the combined pipeline: two-path discovery
   (new entrants + improvers), source-hygiene filtering, V1 scoring:
   `python3 pipeline/discover_and_score.py`
+- `gdelt.py` + `poc_gdelt.py` — EXPERIMENTAL Phase 8 proof of concept for
+  GDELT news-attention data; not connected to production (the site and
+  TrendAhead Score use Wikipedia data only)
 
 ## Project documentation
 
