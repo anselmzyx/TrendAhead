@@ -21,3 +21,21 @@ production build contained the right CSS.
 contains both light- and dark-mode variable sets and the accent utilities.
 Lesson: after large stylesheet rewrites, restart `npm run dev` and re-check
 rather than trusting hot reload.
+
+## 2026-10-08 — iCloud Desktop sync creates " 2" duplicate files
+
+**Error:** Files named like `routes.d 2.ts` and `karl-deisseroth 2.json`
+appeared throughout the project (70+ found), breaking `tsc` once and
+polluting a Git commit with junk topic files.
+
+**Cause:** The project lives in `~/Desktop/TrendAhead`, and macOS
+Desktop folders are synced by iCloud Drive. When iCloud hits a sync
+conflict (frequent while builds rewrite many files), it keeps both
+versions, naming the duplicate "<name> 2.<ext>".
+
+**Fix:** Deleted all duplicates (`find . -name "* 2.*" -delete`), removed
+the committed ones from Git, verified the build. **Ongoing risk:** this
+will likely recur while the project stays inside an iCloud-synced folder.
+Options if it keeps happening: move the project out of Desktop (e.g.
+`~/Projects/TrendAhead`), or disable "Desktop & Documents" iCloud sync.
+GitHub is the real backup either way.
