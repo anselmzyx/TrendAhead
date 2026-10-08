@@ -238,3 +238,22 @@ before notFound() runs and is incompatible with dynamicParams=false;
 users and crawlers are handled correctly, only the raw status code is
 imperfect (revisit in Phase 14/SEO). Deployment needs: Node >= 20.9, zero
 env vars, no Python at runtime.
+
+## 2026-10-08 — Deployed to Netlify Free (Phase 12)
+
+Netlify chosen over Vercel because Vercel's Hobby plan forbids commercial
+use while Netlify's Free plan allows it, with a HARD 300-credit/month cap
+(sites pause when exceeded; auto-recharge impossible on Free; no card on
+file). Verified against current docs: Next.js supported via the
+auto-installed OpenNext adapter incl. App Router, Cache Components and
+PPR — zero config, defaults accepted (build `npm run build`, publish
+`.next`). Production URL: https://trendahead.netlify.app, continuous
+deployment from GitHub main (verified working twice). Two deploy-time
+fixes: (1) new Netlify projects default to team-only "site protection" —
+turned off in the dashboard to make the site public; (2) unknown
+/topic/<slug> URLs 500ed in the serverless fallback because Cache
+Components forbids awaiting params outside <Suspense> — the page now
+wraps its dynamic content in a Suspense boundary, and invalid slugs render
+the styled 404 UI (status 200 + noindex, the Phase 10 known quirk,
+unchanged). data/ JSON is also explicitly traced into serverless bundles
+(outputFileTracingIncludes) as a correctness guarantee.

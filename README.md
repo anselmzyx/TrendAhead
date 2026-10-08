@@ -7,7 +7,9 @@ before they become obviously mainstream. It measures the *rate of change* of
 public attention (not just absolute popularity) and ranks emerging topics with
 a 0–100 **TrendAhead Score**.
 
-> Status: experimental — real Wikipedia data, local only (not yet deployed).
+> Status: experimental — live at **https://trendahead.netlify.app**
+> (Netlify Free, deployed automatically from this repository's `main`
+> branch; data is a static snapshot until scheduled refresh arrives).
 
 ## How the data flows (end to end)
 

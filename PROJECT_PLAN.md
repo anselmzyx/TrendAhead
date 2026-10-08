@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 10 — Production hardening** (complete: READY FOR DEPLOYMENT)
+**Phase 12 — Public deployment** (complete: LIVE on Netlify)
 
 ## Completed phases
 
@@ -31,26 +31,23 @@
   rate-limit and query-ambiguity constraints documented.
 - **Phase 9 — Cross-source confirmation** (2026-10-08) full lag-aware
   layer built + tested; GDELT deliberately kept offline.
+- **Phase 10 — Production hardening** (2026-10-08) audits, crash-safe
+  writes, security headers, production-server verification.
 
 ## Current checkpoint
 
-Phase 10 complete. Audits passed: secrets (none tracked), dependencies
-(4 runtime, all used; one documented dev-only lint advisory), generated
-data integrity (24 topic files fully valid), no live-API calls in the
-frontend or build, honest copy/freshness/status strings, internal links,
-metadata, Wikimedia CC0 sourcing in footer+methodology. Fixes: crash-safe
-temp-file+swap data writes, corrupt-cache tolerance, security headers
-(nosniff / X-Frame-Options DENY / referrer policy). Production server
-tested (`npm run start`): all routes OK. Known non-blocking limitation:
-invalid topic URLs render the styled 404 page with an auto noindex meta
-but HTTP status 200 (Next 16 cacheComponents streaming; dynamicParams=false
-is incompatible — revisit in Phase 14). 106 Python tests, lint, tsc,
-build all pass.
+Phase 12 complete: TrendAhead is publicly deployed at
+https://trendahead.netlify.app (Netlify Free, hard usage cap, no payment
+info on file), continuous deployment from GitHub main. All routes, data
+values, security headers and 404 behaviour verified against the live URL;
+visitor pages make no Wikimedia/GDELT requests. Phase 11 (GitHub) was
+completed early in Phase 3.
 
 ## Next checkpoint
 
-**Phase 11 — GitHub** is already done early (repo exists, pushed). So next:
-**Phase 12 — Deployment** (free tier, likely Vercel), guided step by step.
+**Phase 13 — Automated data refresh**: GitHub Actions to run the pipeline
+daily, validate, commit new data/ JSON and let Netlify auto-deploy.
+Data remains a static snapshot (Oct 6) until then.
 
 ## Outstanding phases (summary)
 
