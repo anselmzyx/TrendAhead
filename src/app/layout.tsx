@@ -51,7 +51,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             made on Netlify (NETLIFY env var), so local dev/prod testing
             never pollutes production analytics. A module script loads
             deferred and its failure cannot block rendering. */}
-        {process.env.NETLIFY === "true" ? (
+        {process.env.BUILT_ON_NETLIFY === "true" ? (
           <script
             type="module"
             src="https://static.cloudflareinsights.com/beacon.min.js"

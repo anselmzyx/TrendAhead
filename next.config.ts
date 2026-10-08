@@ -4,6 +4,13 @@ const nextConfig: NextConfig = {
   /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
+  env: {
+    // Inlined at BUILD time (compile-time substitution): "true" only for
+    // builds performed on Netlify. Runtime re-renders in serverless
+    // functions keep the build's value — reading process.env.NETLIFY
+    // directly there fails because it's a build-env-only variable.
+    BUILT_ON_NETLIFY: process.env.NETLIFY === "true" ? "true" : "",
+  },
   // The generated data/ JSON is read with fs at request time by the dynamic
   // topic fallback; serverless bundlers only trace statically analyzable
   // paths, so include the data files explicitly for every route.
