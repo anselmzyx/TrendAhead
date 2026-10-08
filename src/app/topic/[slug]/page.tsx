@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import Score from "@/components/Score";
 import StatusBadge from "@/components/StatusBadge";
@@ -108,7 +109,23 @@ function componentMeters(topic: TopicData) {
   ];
 }
 
-export default async function TopicPage({ params }: PageProps<"/topic/[slug]">) {
+// Cache Components requires `params` to be awaited inside a Suspense
+// boundary: without it, an on-demand render for a slug that wasn't
+// prerendered crashes with "uncached runtime data during prerendering"
+// (surfaced as a 500 on Netlify) instead of reaching notFound().
+export default function TopicPage(props: PageProps<"/topic/[slug]">) {
+  return (
+    <Suspense fallback={null}>
+      <TopicContent params={props.params} />
+    </Suspense>
+  );
+}
+
+async function TopicContent({
+  params,
+}: {
+  params: PageProps<"/topic/[slug]">["params"];
+}) {
   const { slug } = await params;
   const topic = await getTopic(slug);
   if (!topic) notFound();
