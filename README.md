@@ -35,6 +35,22 @@ python3 pipeline/generate_site_data.py
 It validates everything (score ranges, slug uniqueness, history integrity)
 and refuses to write a broken dataset.
 
+## Automatic data refresh
+
+A GitHub Action refreshes TrendAhead data **every day** (05:37 UTC): it
+re-runs discovery + scoring, runs all tests, and commits the new JSON to
+`main` as `github-actions[bot]`. The public site redeploys roughly **every
+second day** (even days of the year) — daily Netlify deploys would exceed
+the free plan's 300 monthly credits (~15 credits per deploy), so odd-day
+commits carry `[skip netlify]` and the next even-day deploy ships them.
+
+- **Manual data refresh:** GitHub → Actions → "Refresh trend data" →
+  Run workflow (leave `deploy_now` off — data updates on GitHub only).
+- **Manual refresh + immediate deploy:** same, but tick `deploy_now`.
+  ⚠ This spends ~15 Netlify production-deploy credits.
+- **Failures:** visible under GitHub → Actions; a failed run commits and
+  deploys nothing, so the live site always keeps its last good data.
+
 ## How to run it locally
 
 1. Open Terminal and go to the project folder:

@@ -257,3 +257,25 @@ wraps its dynamic content in a Suspense boundary, and invalid slugs render
 the styled 404 UI (status 200 + noindex, the Phase 10 known quirk,
 unchanged). data/ JSON is also explicitly traced into serverless bundles
 (outputFileTracingIncludes) as a correctness guarantee.
+
+## 2026-10-08 — Automated daily refresh with budget-aware deploys (Phase 13)
+
+GitHub Actions workflow (.github/workflows/refresh-trends.yml) runs daily
+at 05:37 UTC on the default branch: generate -> test -> validate -> commit
+only on real changes. Verified platform facts: Actions scheduled workflows
+are free on public-repo standard runners, cron is UTC, runs use the
+default branch, start times can drift past the requested minute, and
+schedules are auto-disabled after ~60 days of repository inactivity;
+Netlify supports "[skip netlify]"/"[skip ci]" anywhere in the head commit
+message, and the next unmarked push deploys all accumulated commits.
+Deploy cadence: scheduled runs deploy only on EVEN days of the year
+(day-of-year parity), odd days commit with [skip netlify] — roughly 15
+production deploys/month x ~15 credits = ~225 of the 300 free credits,
+leaving headroom for traffic (prices rechecked 2026-10-08; recheck
+periodically). Manual workflow_dispatch defaults to deploy_now=false so
+experiments never spend deploy credits. Loop safety: no push trigger +
+GITHUB_TOKEN pushes don't trigger workflows. Failure safety: any step
+failure aborts before commit — broken data can never reach Git or the
+site. Bot commits are authored by github-actions[bot]; human commits stay
+anselmzyx. Actions cache deliberately NOT used: the history cache keys on
+the end date, so daily runs could never hit it.

@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 12 — Public deployment** (complete: LIVE on Netlify)
+**Phase 13 — Automated data refresh** (complete: automation verified)
 
 ## Completed phases
 
@@ -33,21 +33,22 @@
   layer built + tested; GDELT deliberately kept offline.
 - **Phase 10 — Production hardening** (2026-10-08) audits, crash-safe
   writes, security headers, production-server verification.
+- **Phase 12 — Public deployment** (2026-10-08) live on Netlify Free at
+  trendahead.netlify.app with GitHub auto-deploys (Phase 11 done early).
 
 ## Current checkpoint
 
-Phase 12 complete: TrendAhead is publicly deployed at
-https://trendahead.netlify.app (Netlify Free, hard usage cap, no payment
-info on file), continuous deployment from GitHub main. All routes, data
-values, security headers and 404 behaviour verified against the live URL;
-visitor pages make no Wikimedia/GDELT requests. Phase 11 (GitHub) was
-completed early in Phase 3.
+Phase 13 complete: daily GitHub Action (05:37 UTC) refreshes data with a
+budget-aware deploy cadence (~every 2nd day; [skip netlify] otherwise;
+manual runs default to no-deploy). First automated run verified end to
+end: fresh runner, 40 live fetches, 0 failures, bot-authored data-only
+commit with [skip netlify], Netlify correctly did not deploy. Controlled
+final deploy shipped data through 2026-10-07.
 
 ## Next checkpoint
 
-**Phase 13 — Automated data refresh**: GitHub Actions to run the pipeline
-daily, validate, commit new data/ JSON and let Netlify auto-deploy.
-Data remains a static snapshot (Oct 6) until then.
+**Phase 14 — SEO foundation**: titles/descriptions audit, Open Graph,
+sitemap + robots, revisit the invalid-slug HTTP-200 quirk.
 
 ## Outstanding phases (summary)
 
