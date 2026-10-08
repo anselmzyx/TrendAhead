@@ -45,3 +45,6 @@ pipeline/output/
 
 # Python bytecode cache
 __pycache__/
+
+# Local Netlify folder
+.netlify
