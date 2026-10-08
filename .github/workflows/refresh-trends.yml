@@ -1,0 +1,98 @@
+# Daily TrendAhead data refresh.
+#
+# Architecture (Netlify Free budget: ~300 credits/mo, ~15 credits/deploy):
+#   - Data refreshes EVERY day and is committed to main.
+#   - Netlify production deploys only ~every 2nd day: on odd days of the
+#     year the automated commit carries "[skip netlify]", on even days it
+#     doesn't — so the next deploy ships all accumulated data (~15 deploys
+#     per month ≈ 225 credits, leaving headroom for traffic).
+#   - Manual runs NEVER deploy unless deploy_now=true is chosen.
+#
+# Loop safety: this workflow triggers only on schedule/manual dispatch
+# (never on push), and pushes made with the built-in GITHUB_TOKEN do not
+# trigger workflows anyway — so it cannot retrigger itself.
+#
+# Failure safety: any failing step (fetch, scoring, validation, tests)
+# stops the job before the commit step — broken data is never pushed and
+# the deployed site keeps its last good dataset.
+
+name: Refresh trend data
+
+on:
+  schedule:
+    - cron: "37 5 * * *" # daily at 05:37 UTC (off-peak, not on the hour)
+  workflow_dispatch:
+    inputs:
+      deploy_now:
+        description: "Also deploy to Netlify now (spends ~15 Netlify credits)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-trends
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate site data (Wikimedia -> discovery -> Score V1.1 -> JSON)
+        run: python3 pipeline/generate_site_data.py
+
+      - name: Run all pipeline tests
+        run: cd pipeline && python3 -m unittest discover .
+
+      - name: Detect data changes
+        id: diff
+        run: |
+          git add -N data/
+          if git diff --quiet -- data/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No data changes today — nothing to commit."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff --stat -- data/ | tail -3
+          fi
+
+      - name: Decide Netlify deployment for this run
+        id: cadence
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          DEPLOY_NOW: ${{ github.event_name == 'workflow_dispatch' && inputs.deploy_now }}
+        run: |
+          if [ "$DEPLOY_NOW" = "true" ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+            echo "Manual run with deploy_now=true -> will deploy."
+          elif [ "${{ github.event_name }}" = "schedule" ] && [ $((10#$(date -u +%j) % 2)) -eq 0 ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+            echo "Scheduled run on an even day of year -> will deploy."
+          else
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+            echo "Refresh only -> commit will carry [skip netlify]."
+          fi
+
+      - name: Commit and push refreshed data
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          THROUGH=$(python3 -c "import json; print(json.load(open('data/trending.json'))['data_through'])")
+          if [ "${{ steps.cadence.outputs.deploy }}" = "true" ]; then
+            git commit -m "Refresh trend data through $THROUGH"
+          else
+            git commit -m "Refresh trend data through $THROUGH [skip netlify]"
+          fi
+          git push
