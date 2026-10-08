@@ -1,37 +1,34 @@
 {
  "title": "Tammy Faye Messner",
  "slug": "tammy-faye-messner",
- "score": 50,
- "status": "Breaking out",
- "change_percent": 4666,
- "growth_ratio": 47.65,
- "recent_avg": 42230,
- "baseline_avg": 886,
- "explanation": "Attention is 48\u00d7 its 30-day baseline.",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 5776,
+ "growth_ratio": 58.78,
+ "recent_avg": 53409,
+ "baseline_avg": 909,
+ "explanation": "Attention surged to 59\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41344,
- "latest": 123002,
+ "abs_change": 52500,
+ "latest": 34910,
  "components": {
-  "acceleration": 0.988,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.933,
-  "volume": 0.813,
-  "spike_quality": 0.534
+  "persistence": 0.84,
+  "momentum": 0.37,
+  "volume": 0.864,
+  "spike_quality": 0.29
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,230 views/day over the last 3 days (30-day baseline: 886)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 53,409 views/day over the last 3 days (30-day baseline: 909)."
  ],
  "history": [
-  {
-   "date": "2026-08-28",
-   "views": 752
-  },
   {
    "date": "2026-08-29",
    "views": 823
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-06",
    "views": 123002
+  },
+  {
+   "date": "2026-10-07",
+   "views": 34910
   }
  ],
  "wikipedia_title": "Tammy_Faye_Messner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

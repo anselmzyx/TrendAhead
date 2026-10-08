@@ -1,36 +1,32 @@
 {
  "title": "Freddie Jackson",
  "slug": "freddie-jackson",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 20840,
- "growth_ratio": 209.68,
- "recent_avg": 56118,
+ "score": 37,
+ "status": "Elevated",
+ "change_percent": 34532,
+ "growth_ratio": 345.8,
+ "recent_avg": 92813,
  "baseline_avg": 268,
- "explanation": "Attention is 210\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 346\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 55850,
- "latest": 167925,
+ "abs_change": 92545,
+ "latest": 110335,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.8,
-  "volume": 0.875,
-  "spike_quality": 0.507
+  "persistence": 0.44,
+  "momentum": 0.528,
+  "volume": 0.984,
+  "spike_quality": 0.562
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 56,118 views/day over the last 3 days (30-day baseline: 268)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 92,813 views/day over the last 3 days (30-day baseline: 268)."
  ],
  "history": [
-  {
-   "date": "2026-08-28",
-   "views": 214
-  },
   {
    "date": "2026-08-29",
    "views": 266
@@ -186,11 +182,15 @@
   {
    "date": "2026-10-06",
    "views": 167925
+  },
+  {
+   "date": "2026-10-07",
+   "views": 110335
   }
  ],
  "wikipedia_title": "Freddie_Jackson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

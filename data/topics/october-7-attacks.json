@@ -1,197 +1,198 @@
 {
- "title": "Luiz In\u00e1cio Lula da Silva",
- "slug": "luiz-inacio-lula-da-silva",
- "score": 29,
- "status": "Peaked / fading",
- "change_percent": 872,
- "growth_ratio": 9.72,
- "recent_avg": 38118,
- "baseline_avg": 3922,
- "explanation": "Attention surged to 9.7\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "October 7 attacks",
+ "slug": "october-7-attacks",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 309,
+ "growth_ratio": 4.09,
+ "recent_avg": 38684,
+ "baseline_avg": 9458,
+ "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 34196,
- "latest": 18588,
+ "abs_change": 29226,
+ "latest": 84084,
  "components": {
-  "acceleration": 0.581,
+  "acceleration": 0.36,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.385,
-  "volume": 0.791,
-  "spike_quality": 0.492
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.794,
+  "spike_quality": 0.758
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 38,118 views/day over the last 3 days (30-day baseline: 3,922)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 38,684 views/day over the last 3 days (30-day baseline: 9,458)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 2183
-  },
-  {
    "date": "2026-08-29",
-   "views": 2158
+   "views": 3148
   },
   {
    "date": "2026-08-30",
-   "views": 2101
+   "views": 3280
   },
   {
    "date": "2026-08-31",
-   "views": 2321
+   "views": 3362
   },
   {
    "date": "2026-09-01",
-   "views": 2232
+   "views": 3257
   },
   {
    "date": "2026-09-02",
-   "views": 2096
+   "views": 3315
   },
   {
    "date": "2026-09-03",
-   "views": 2104
+   "views": 3539
   },
   {
    "date": "2026-09-04",
-   "views": 1976
+   "views": 3334
   },
   {
    "date": "2026-09-05",
-   "views": 1755
+   "views": 3151
   },
   {
    "date": "2026-09-06",
-   "views": 1818
+   "views": 3367
   },
   {
    "date": "2026-09-07",
-   "views": 2189
+   "views": 3802
   },
   {
    "date": "2026-09-08",
-   "views": 2583
+   "views": 8215
   },
   {
    "date": "2026-09-09",
-   "views": 2485
+   "views": 9460
   },
   {
    "date": "2026-09-10",
-   "views": 2735
+   "views": 8660
   },
   {
    "date": "2026-09-11",
-   "views": 4098
+   "views": 10443
   },
   {
    "date": "2026-09-12",
-   "views": 3964
+   "views": 10938
   },
   {
    "date": "2026-09-13",
-   "views": 3856
+   "views": 10178
   },
   {
    "date": "2026-09-14",
-   "views": 2700
+   "views": 10103
   },
   {
    "date": "2026-09-15",
-   "views": 2499
+   "views": 11007
   },
   {
    "date": "2026-09-16",
-   "views": 2255
+   "views": 13249
   },
   {
    "date": "2026-09-17",
-   "views": 2450
+   "views": 13715
   },
   {
    "date": "2026-09-18",
-   "views": 2401
+   "views": 10680
   },
   {
    "date": "2026-09-19",
-   "views": 2079
+   "views": 9283
   },
   {
    "date": "2026-09-20",
-   "views": 2413
+   "views": 15553
   },
   {
    "date": "2026-09-21",
-   "views": 3368
+   "views": 10522
   },
   {
    "date": "2026-09-22",
-   "views": 5944
+   "views": 8914
   },
   {
    "date": "2026-09-23",
-   "views": 3890
+   "views": 8354
   },
   {
    "date": "2026-09-24",
-   "views": 3384
+   "views": 9784
   },
   {
    "date": "2026-09-25",
-   "views": 3950
+   "views": 13058
   },
   {
    "date": "2026-09-26",
-   "views": 5075
+   "views": 9870
   },
   {
    "date": "2026-09-27",
-   "views": 5336
+   "views": 9891
   },
   {
    "date": "2026-09-28",
-   "views": 7891
+   "views": 10120
   },
   {
    "date": "2026-09-29",
-   "views": 6174
+   "views": 8621
   },
   {
    "date": "2026-09-30",
-   "views": 5390
+   "views": 8173
   },
   {
    "date": "2026-10-01",
-   "views": 5306
+   "views": 7928
   },
   {
    "date": "2026-10-02",
-   "views": 7753
+   "views": 7635
   },
   {
    "date": "2026-10-03",
-   "views": 9935
+   "views": 8686
   },
   {
    "date": "2026-10-04",
-   "views": 35616
+   "views": 10365
   },
   {
    "date": "2026-10-05",
-   "views": 60151
+   "views": 11471
   },
   {
    "date": "2026-10-06",
-   "views": 18588
+   "views": 20497
+  },
+  {
+   "date": "2026-10-07",
+   "views": 84084
   }
  ],
- "wikipedia_title": "Luiz_In\u00e1cio_Lula_da_Silva",
+ "wikipedia_title": "October_7_attacks",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

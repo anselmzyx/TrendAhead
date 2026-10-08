@@ -1,37 +1,33 @@
 {
  "title": "2009 Fort Hood shooting",
  "slug": "2009-fort-hood-shooting",
- "score": 40,
- "status": "Breaking out",
- "change_percent": 4126,
- "growth_ratio": 42.25,
- "recent_avg": 30429,
- "baseline_avg": 720,
- "explanation": "Attention is 42\u00d7 its 30-day baseline.",
+ "score": 30,
+ "status": "Peaked / fading",
+ "change_percent": 6099,
+ "growth_ratio": 61.96,
+ "recent_avg": 45128,
+ "baseline_avg": 728,
+ "explanation": "Attention surged to 62\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 29709,
- "latest": 89799,
+ "abs_change": 44400,
+ "latest": 44808,
  "components": {
-  "acceleration": 0.957,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.742,
-  "spike_quality": 0.539
+  "persistence": 0.52,
+  "momentum": 0.499,
+  "volume": 0.827,
+  "spike_quality": 0.458
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,429 views/day over the last 3 days (30-day baseline: 720)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 45,128 views/day over the last 3 days (30-day baseline: 728)."
  ],
  "history": [
-  {
-   "date": "2026-08-28",
-   "views": 1786
-  },
   {
    "date": "2026-08-29",
    "views": 1004
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-06",
    "views": 89799
+  },
+  {
+   "date": "2026-10-07",
+   "views": 44808
   }
  ],
  "wikipedia_title": "2009_Fort_Hood_shooting",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

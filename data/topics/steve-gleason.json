@@ -1,198 +1,198 @@
 {
- "title": "Jair Bolsonaro",
- "slug": "jair-bolsonaro",
- "score": 27,
+ "title": "Steve Gleason",
+ "slug": "steve-gleason",
+ "score": 25,
  "status": "Peaked / fading",
- "change_percent": 1752,
- "growth_ratio": 18.51,
- "recent_avg": 51194,
- "baseline_avg": 2765,
- "explanation": "Attention surged to 19\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 5255,
+ "growth_ratio": 53.55,
+ "recent_avg": 229261,
+ "baseline_avg": 4281,
+ "explanation": "Attention surged to 54\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 48429,
- "latest": 24012,
+ "abs_change": 224980,
+ "latest": 107839,
  "components": {
-  "acceleration": 0.746,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.355,
-  "volume": 0.855,
-  "spike_quality": 0.401
+  "persistence": 0.84,
+  "momentum": 0.325,
+  "volume": 1.0,
+  "spike_quality": 0.271
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 51,194 views/day over the last 3 days (30-day baseline: 2,765)."
+  "Averaging 229,261 views/day over the last 3 days (30-day baseline: 4,281)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 1277
-  },
-  {
    "date": "2026-08-29",
-   "views": 1480
+   "views": 3988
   },
   {
    "date": "2026-08-30",
-   "views": 1351
+   "views": 4667
   },
   {
    "date": "2026-08-31",
-   "views": 1432
+   "views": 3102
   },
   {
    "date": "2026-09-01",
-   "views": 1355
+   "views": 2078
   },
   {
    "date": "2026-09-02",
-   "views": 1297
+   "views": 1806
   },
   {
    "date": "2026-09-03",
-   "views": 1361
+   "views": 1655
   },
   {
    "date": "2026-09-04",
-   "views": 1252
+   "views": 1664
   },
   {
    "date": "2026-09-05",
-   "views": 1278
+   "views": 2109
   },
   {
    "date": "2026-09-06",
-   "views": 1356
+   "views": 1660
   },
   {
    "date": "2026-09-07",
-   "views": 1475
+   "views": 1343
   },
   {
    "date": "2026-09-08",
-   "views": 1853
+   "views": 1295
   },
   {
    "date": "2026-09-09",
-   "views": 1814
+   "views": 1320
   },
   {
    "date": "2026-09-10",
-   "views": 1886
+   "views": 1442
   },
   {
    "date": "2026-09-11",
-   "views": 9016
+   "views": 1754
   },
   {
    "date": "2026-09-12",
-   "views": 2554
+   "views": 1758
   },
   {
    "date": "2026-09-13",
-   "views": 2163
+   "views": 2393
   },
   {
    "date": "2026-09-14",
-   "views": 1821
+   "views": 2385
   },
   {
    "date": "2026-09-15",
-   "views": 1688
+   "views": 1934
   },
   {
    "date": "2026-09-16",
-   "views": 1456
+   "views": 4530
   },
   {
    "date": "2026-09-17",
-   "views": 1508
+   "views": 5915
   },
   {
    "date": "2026-09-18",
-   "views": 1585
+   "views": 4151
   },
   {
    "date": "2026-09-19",
-   "views": 1374
+   "views": 2893
   },
   {
    "date": "2026-09-20",
-   "views": 1733
+   "views": 2801
   },
   {
    "date": "2026-09-21",
-   "views": 1988
+   "views": 1300
   },
   {
    "date": "2026-09-22",
-   "views": 2491
+   "views": 1044
   },
   {
    "date": "2026-09-23",
-   "views": 2052
+   "views": 3498
   },
   {
    "date": "2026-09-24",
-   "views": 1908
-  },
-  {
-   "date": "2026-09-25",
-   "views": 2158
-  },
-  {
-   "date": "2026-09-26",
    "views": 2965
   },
   {
+   "date": "2026-09-25",
+   "views": 8118
+  },
+  {
+   "date": "2026-09-26",
+   "views": 19592
+  },
+  {
    "date": "2026-09-27",
-   "views": 3277
+   "views": 6227
   },
   {
    "date": "2026-09-28",
-   "views": 5836
+   "views": 3610
   },
   {
    "date": "2026-09-29",
-   "views": 4308
+   "views": 5532
   },
   {
    "date": "2026-09-30",
-   "views": 3575
+   "views": 2572
   },
   {
    "date": "2026-10-01",
-   "views": 3924
+   "views": 6671
   },
   {
    "date": "2026-10-02",
-   "views": 5453
+   "views": 7516
   },
   {
    "date": "2026-10-03",
-   "views": 7204
+   "views": 10181
   },
   {
    "date": "2026-10-04",
-   "views": 36817
+   "views": 9924
   },
   {
    "date": "2026-10-05",
-   "views": 92753
+   "views": 64171
   },
   {
    "date": "2026-10-06",
-   "views": 24012
+   "views": 515772
+  },
+  {
+   "date": "2026-10-07",
+   "views": 107839
   }
  ],
- "wikipedia_title": "Jair_Bolsonaro",
+ "wikipedia_title": "Steve_Gleason",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

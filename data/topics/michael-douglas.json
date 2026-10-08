@@ -1,38 +1,33 @@
 {
  "title": "Michael Douglas",
  "slug": "michael-douglas",
- "score": 53,
- "status": "Building",
- "change_percent": 396,
- "growth_ratio": 4.96,
- "recent_avg": 47835,
- "baseline_avg": 9643,
- "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+ "score": 45,
+ "status": "Elevated",
+ "change_percent": 475,
+ "growth_ratio": 5.75,
+ "recent_avg": 59220,
+ "baseline_avg": 10291,
+ "explanation": "Attention is 5.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 38192,
- "latest": 71709,
+ "abs_change": 48929,
+ "latest": 60203,
  "components": {
-  "acceleration": 0.409,
-  "anomaly": 0.557,
-  "persistence": 0.92,
-  "momentum": 0.933,
-  "volume": 0.84,
-  "spike_quality": 0.896
+  "acceleration": 0.447,
+  "anomaly": 0.658,
+  "persistence": 0.84,
+  "momentum": 0.704,
+  "volume": 0.886,
+  "spike_quality": 0.852
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,835 views/day over the last 3 days (30-day baseline: 9,643)."
+  "Averaging 59,220 views/day over the last 3 days (30-day baseline: 10,291)."
  ],
  "history": [
-  {
-   "date": "2026-08-28",
-   "views": 5999
-  },
   {
    "date": "2026-08-29",
    "views": 8584
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-06",
    "views": 71709
+  },
+  {
+   "date": "2026-10-07",
+   "views": 60203
   }
  ],
  "wikipedia_title": "Michael_Douglas",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

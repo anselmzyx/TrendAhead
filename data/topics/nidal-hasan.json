@@ -1,36 +1,33 @@
 {
  "title": "Nidal Hasan",
  "slug": "nidal-hasan",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 3703,
- "growth_ratio": 38.02,
- "recent_avg": 76739,
- "baseline_avg": 2018,
- "explanation": "Attention is 38\u00d7 its 30-day baseline.",
+ "score": 49,
+ "status": "Elevated",
+ "change_percent": 6652,
+ "growth_ratio": 67.51,
+ "recent_avg": 139695,
+ "baseline_avg": 2069,
+ "explanation": "Attention is 68\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 74721,
- "latest": 225359,
+ "abs_change": 137626,
+ "latest": 191307,
  "components": {
-  "acceleration": 0.93,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.8,
-  "volume": 0.943,
-  "spike_quality": 0.557
+  "persistence": 0.52,
+  "momentum": 0.643,
+  "volume": 1.0,
+  "spike_quality": 0.704
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 76,739 views/day over the last 3 days (30-day baseline: 2,018)."
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 139,695 views/day over the last 3 days (30-day baseline: 2,069)."
  ],
  "history": [
-  {
-   "date": "2026-08-28",
-   "views": 6271
-  },
   {
    "date": "2026-08-29",
    "views": 4458
@@ -186,11 +183,15 @@
   {
    "date": "2026-10-06",
    "views": 225359
+  },
+  {
+   "date": "2026-10-07",
+   "views": 191307
   }
  ],
  "wikipedia_title": "Nidal_Hasan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

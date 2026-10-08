@@ -1,196 +1,197 @@
 {
- "title": "Goi\u00e2nia accident",
- "slug": "goiania-accident",
- "score": 31,
+ "title": "Henri B. Kagan",
+ "slug": "henri-b-kagan",
+ "score": 35,
  "status": "Breaking out",
- "change_percent": 1904,
- "growth_ratio": 20.04,
- "recent_avg": 38996,
- "baseline_avg": 1946,
- "explanation": "Attention is 20\u00d7 its 30-day baseline.",
+ "change_percent": 416700,
+ "growth_ratio": 208.4,
+ "recent_avg": 20840,
+ "baseline_avg": 5,
+ "explanation": "Attention is 208\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 37050,
- "latest": 114263,
+ "abs_change": 20835,
+ "latest": 62494,
  "components": {
-  "acceleration": 0.766,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.796,
-  "spike_quality": 0.547
+  "momentum": 1.0,
+  "volume": 0.659,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 38,996 views/day over the last 3 days (30-day baseline: 1,946)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 20,840 views/day over the last 3 days (30-day baseline: 5)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 1710
-  },
-  {
    "date": "2026-08-29",
-   "views": 2122
+   "views": 7
   },
   {
    "date": "2026-08-30",
-   "views": 2615
+   "views": 5
   },
   {
    "date": "2026-08-31",
-   "views": 2394
+   "views": 4
   },
   {
    "date": "2026-09-01",
-   "views": 1958
+   "views": 5
   },
   {
    "date": "2026-09-02",
-   "views": 1628
+   "views": 4
   },
   {
    "date": "2026-09-03",
-   "views": 1564
+   "views": 6
   },
   {
    "date": "2026-09-04",
-   "views": 7491
+   "views": 7
   },
   {
    "date": "2026-09-05",
-   "views": 1619
+   "views": 7
   },
   {
    "date": "2026-09-06",
-   "views": 2045
+   "views": 5
   },
   {
    "date": "2026-09-07",
-   "views": 1538
+   "views": 3
   },
   {
    "date": "2026-09-08",
-   "views": 1287
+   "views": 5
   },
   {
    "date": "2026-09-09",
-   "views": 9295
+   "views": 5
   },
   {
    "date": "2026-09-10",
-   "views": 1419
+   "views": 5
   },
   {
    "date": "2026-09-11",
-   "views": 1319
+   "views": 8
   },
   {
    "date": "2026-09-12",
-   "views": 1340
+   "views": 1
   },
   {
    "date": "2026-09-13",
-   "views": 2412
+   "views": 1
   },
   {
    "date": "2026-09-14",
-   "views": 1772
+   "views": 7
   },
   {
    "date": "2026-09-15",
-   "views": 1450
+   "views": 4
   },
   {
    "date": "2026-09-16",
-   "views": 1580
+   "views": 5
   },
   {
    "date": "2026-09-17",
-   "views": 1430
+   "views": 6
   },
   {
    "date": "2026-09-18",
-   "views": 1256
+   "views": 3
   },
   {
    "date": "2026-09-19",
-   "views": 1124
+   "views": 2
   },
   {
    "date": "2026-09-20",
-   "views": 1206
+   "views": 3
   },
   {
    "date": "2026-09-21",
-   "views": 1244
+   "views": 6
   },
   {
    "date": "2026-09-22",
-   "views": 1263
+   "views": 6
   },
   {
    "date": "2026-09-23",
-   "views": 1667
+   "views": 5
   },
   {
    "date": "2026-09-24",
-   "views": 1203
+   "views": 4
   },
   {
    "date": "2026-09-25",
-   "views": 1053
+   "views": 10
   },
   {
    "date": "2026-09-26",
-   "views": 1084
+   "views": 7
   },
   {
    "date": "2026-09-27",
-   "views": 1155
+   "views": 1
   },
   {
    "date": "2026-09-28",
-   "views": 1452
+   "views": 9
   },
   {
    "date": "2026-09-29",
-   "views": 1434
+   "views": 6
   },
   {
    "date": "2026-09-30",
-   "views": 2059
+   "views": 9
   },
   {
    "date": "2026-10-01",
-   "views": 2094
+   "views": 7
   },
   {
    "date": "2026-10-02",
-   "views": 1569
+   "views": 10
   },
   {
    "date": "2026-10-03",
-   "views": 1531
+   "views": 7
   },
   {
    "date": "2026-10-04",
-   "views": 1446
+   "views": 2
   },
   {
    "date": "2026-10-05",
-   "views": 1278
+   "views": 11
   },
   {
    "date": "2026-10-06",
-   "views": 114263
+   "views": 16
+  },
+  {
+   "date": "2026-10-07",
+   "views": 62494
   }
  ],
- "wikipedia_title": "Goi\u00e2nia_accident",
+ "wikipedia_title": "Henri_B._Kagan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

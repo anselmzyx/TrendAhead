@@ -1,198 +1,198 @@
 {
- "title": "2026\u201327 UEFA Nations League",
- "slug": "2026-27-uefa-nations-league",
- "score": 50,
- "status": "Building",
- "change_percent": 228,
- "growth_ratio": 3.28,
- "recent_avg": 43041,
- "baseline_avg": 13142,
+ "title": "Lionel Messi",
+ "slug": "lionel-messi",
+ "score": 37,
+ "status": "Breaking out",
+ "change_percent": 232,
+ "growth_ratio": 3.32,
+ "recent_avg": 57674,
+ "baseline_avg": 17375,
  "explanation": "Attention is 3.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 29899,
- "latest": 44959,
+ "abs_change": 40299,
+ "latest": 119657,
  "components": {
-  "acceleration": 0.303,
-  "anomaly": 0.229,
-  "persistence": 1.0,
+  "acceleration": 0.307,
+  "anomaly": 0.766,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.817,
-  "spike_quality": 0.974
+  "volume": 0.88,
+  "spike_quality": 0.802
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 43,041 views/day over the last 3 days (30-day baseline: 13,142)."
+  "Averaging 57,674 views/day over the last 3 days (30-day baseline: 17,375)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 1765
-  },
-  {
    "date": "2026-08-29",
-   "views": 1459
+   "views": 11300
   },
   {
    "date": "2026-08-30",
-   "views": 1561
+   "views": 43710
   },
   {
    "date": "2026-08-31",
-   "views": 1899
+   "views": 86893
   },
   {
    "date": "2026-09-01",
-   "views": 1858
+   "views": 58332
   },
   {
    "date": "2026-09-02",
-   "views": 1663
+   "views": 26199
   },
   {
    "date": "2026-09-03",
-   "views": 1798
+   "views": 22695
   },
   {
    "date": "2026-09-04",
-   "views": 1514
+   "views": 18228
   },
   {
    "date": "2026-09-05",
-   "views": 1440
+   "views": 16642
   },
   {
    "date": "2026-09-06",
-   "views": 1632
+   "views": 17641
   },
   {
    "date": "2026-09-07",
-   "views": 2149
+   "views": 13983
   },
   {
    "date": "2026-09-08",
-   "views": 1935
+   "views": 15830
   },
   {
    "date": "2026-09-09",
-   "views": 2095
+   "views": 19198
   },
   {
    "date": "2026-09-10",
-   "views": 2038
+   "views": 18286
   },
   {
    "date": "2026-09-11",
-   "views": 1969
+   "views": 13736
   },
   {
    "date": "2026-09-12",
-   "views": 1859
+   "views": 12763
   },
   {
    "date": "2026-09-13",
-   "views": 2226
+   "views": 18142
   },
   {
    "date": "2026-09-14",
-   "views": 2777
+   "views": 13935
   },
   {
    "date": "2026-09-15",
-   "views": 4664
+   "views": 15369
   },
   {
    "date": "2026-09-16",
-   "views": 4030
+   "views": 18393
   },
   {
    "date": "2026-09-17",
-   "views": 4483
+   "views": 42388
   },
   {
    "date": "2026-09-18",
-   "views": 6555
+   "views": 19071
   },
   {
    "date": "2026-09-19",
-   "views": 5414
+   "views": 15082
   },
   {
    "date": "2026-09-20",
-   "views": 6245
+   "views": 14716
   },
   {
    "date": "2026-09-21",
-   "views": 10890
+   "views": 20175
   },
   {
    "date": "2026-09-22",
-   "views": 11212
+   "views": 15470
   },
   {
    "date": "2026-09-23",
-   "views": 12775
+   "views": 15690
   },
   {
    "date": "2026-09-24",
-   "views": 25923
+   "views": 16118
   },
   {
    "date": "2026-09-25",
-   "views": 29223
+   "views": 14982
   },
   {
    "date": "2026-09-26",
-   "views": 33727
+   "views": 12733
   },
   {
    "date": "2026-09-27",
-   "views": 37770
+   "views": 13822
   },
   {
    "date": "2026-09-28",
-   "views": 35751
+   "views": 21515
   },
   {
    "date": "2026-09-29",
-   "views": 32113
+   "views": 15023
   },
   {
    "date": "2026-09-30",
-   "views": 20905
+   "views": 15646
   },
   {
    "date": "2026-10-01",
-   "views": 23359
+   "views": 23097
   },
   {
    "date": "2026-10-02",
-   "views": 30478
+   "views": 18797
   },
   {
    "date": "2026-10-03",
-   "views": 37101
+   "views": 16020
   },
   {
    "date": "2026-10-04",
-   "views": 41064
+   "views": 16998
   },
   {
    "date": "2026-10-05",
-   "views": 43101
+   "views": 17286
   },
   {
    "date": "2026-10-06",
-   "views": 44959
+   "views": 36078
+  },
+  {
+   "date": "2026-10-07",
+   "views": 119657
   }
  ],
- "wikipedia_title": "2026\u201327_UEFA_Nations_League",
+ "wikipedia_title": "Lionel_Messi",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

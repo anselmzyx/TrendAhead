@@ -1,197 +1,198 @@
 {
- "title": "2026 Brazilian general election",
- "slug": "2026-brazilian-general-election",
- "score": 34,
- "status": "Peaked / fading",
- "change_percent": 2200,
- "growth_ratio": 23.0,
- "recent_avg": 182794,
- "baseline_avg": 7948,
- "explanation": "Attention surged to 23\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "The Social Reckoning",
+ "slug": "the-social-reckoning",
+ "score": 48,
+ "status": "Building",
+ "change_percent": 251,
+ "growth_ratio": 3.51,
+ "recent_avg": 37039,
+ "baseline_avg": 10549,
+ "explanation": "Attention is 3.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 174846,
- "latest": 64532,
+ "abs_change": 26490,
+ "latest": 46222,
  "components": {
-  "acceleration": 0.801,
-  "anomaly": 1.0,
+  "acceleration": 0.321,
+  "anomaly": 0.531,
   "persistence": 0.92,
-  "momentum": 0.356,
-  "volume": 1.0,
-  "spike_quality": 0.485
+  "momentum": 0.867,
+  "volume": 0.784,
+  "spike_quality": 0.94
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 182,794 views/day over the last 3 days (30-day baseline: 7,948)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 37,039 views/day over the last 3 days (30-day baseline: 10,549)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 2428
-  },
-  {
    "date": "2026-08-29",
-   "views": 2883
+   "views": 8519
   },
   {
    "date": "2026-08-30",
-   "views": 2933
+   "views": 7649
   },
   {
    "date": "2026-08-31",
-   "views": 3650
+   "views": 6799
   },
   {
    "date": "2026-09-01",
-   "views": 3420
+   "views": 6283
   },
   {
    "date": "2026-09-02",
-   "views": 3209
+   "views": 5274
   },
   {
    "date": "2026-09-03",
-   "views": 3282
+   "views": 4886
   },
   {
    "date": "2026-09-04",
-   "views": 2829
+   "views": 4479
   },
   {
    "date": "2026-09-05",
-   "views": 2326
+   "views": 4129
   },
   {
    "date": "2026-09-06",
-   "views": 2692
+   "views": 5055
   },
   {
    "date": "2026-09-07",
-   "views": 3365
+   "views": 6669
   },
   {
    "date": "2026-09-08",
-   "views": 4752
+   "views": 5896
   },
   {
    "date": "2026-09-09",
-   "views": 4822
+   "views": 5679
   },
   {
    "date": "2026-09-10",
-   "views": 4902
+   "views": 4796
   },
   {
    "date": "2026-09-11",
-   "views": 5133
+   "views": 5015
   },
   {
    "date": "2026-09-12",
-   "views": 4436
+   "views": 5518
   },
   {
    "date": "2026-09-13",
-   "views": 4517
+   "views": 10941
   },
   {
    "date": "2026-09-14",
-   "views": 4945
+   "views": 7563
   },
   {
    "date": "2026-09-15",
-   "views": 4321
+   "views": 11167
   },
   {
    "date": "2026-09-16",
-   "views": 4112
+   "views": 6774
   },
   {
    "date": "2026-09-17",
-   "views": 4335
+   "views": 9442
   },
   {
    "date": "2026-09-18",
-   "views": 4394
+   "views": 8206
   },
   {
    "date": "2026-09-19",
-   "views": 3859
+   "views": 10968
   },
   {
    "date": "2026-09-20",
-   "views": 4998
+   "views": 10023
   },
   {
    "date": "2026-09-21",
-   "views": 6476
+   "views": 11036
   },
   {
    "date": "2026-09-22",
-   "views": 6834
+   "views": 8863
   },
   {
    "date": "2026-09-23",
-   "views": 5785
+   "views": 9383
   },
   {
    "date": "2026-09-24",
-   "views": 5899
+   "views": 11889
   },
   {
    "date": "2026-09-25",
-   "views": 6840
+   "views": 10235
   },
   {
    "date": "2026-09-26",
-   "views": 8940
+   "views": 9762
   },
   {
    "date": "2026-09-27",
-   "views": 10695
+   "views": 17218
   },
   {
    "date": "2026-09-28",
-   "views": 19044
+   "views": 14616
   },
   {
    "date": "2026-09-29",
-   "views": 13848
+   "views": 13318
   },
   {
    "date": "2026-09-30",
-   "views": 13723
+   "views": 15652
   },
   {
    "date": "2026-10-01",
-   "views": 15037
+   "views": 16457
   },
   {
    "date": "2026-10-02",
-   "views": 22723
+   "views": 15230
   },
   {
    "date": "2026-10-03",
-   "views": 31850
+   "views": 17463
   },
   {
    "date": "2026-10-04",
-   "views": 236023
+   "views": 27504
   },
   {
    "date": "2026-10-05",
-   "views": 247828
+   "views": 34958
   },
   {
    "date": "2026-10-06",
-   "views": 64532
+   "views": 29937
+  },
+  {
+   "date": "2026-10-07",
+   "views": 46222
   }
  ],
- "wikipedia_title": "2026_Brazilian_general_election",
+ "wikipedia_title": "The_Social_Reckoning",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

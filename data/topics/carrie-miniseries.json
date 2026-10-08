@@ -1,198 +1,198 @@
 {
- "title": "Role Model (singer)",
- "slug": "role-model-singer",
- "score": 20,
- "status": "Peaked / fading",
- "change_percent": 781,
- "growth_ratio": 8.81,
- "recent_avg": 38049,
- "baseline_avg": 4319,
- "explanation": "Attention surged to 8.8\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Carrie (miniseries)",
+ "slug": "carrie-miniseries",
+ "score": 56,
+ "status": "Breaking out",
+ "change_percent": 609,
+ "growth_ratio": 7.09,
+ "recent_avg": 43966,
+ "baseline_avg": 6202,
+ "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 33730,
- "latest": 13405,
+ "abs_change": 37764,
+ "latest": 100004,
  "components": {
-  "acceleration": 0.556,
-  "anomaly": 1.0,
+  "acceleration": 0.501,
+  "anomaly": 0.929,
   "persistence": 0.84,
-  "momentum": 0.184,
-  "volume": 0.79,
-  "spike_quality": 0.422
+  "momentum": 1.0,
+  "volume": 0.822,
+  "spike_quality": 0.767
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 38,049 views/day over the last 3 days (30-day baseline: 4,319)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 43,966 views/day over the last 3 days (30-day baseline: 6,202)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 2670
-  },
-  {
    "date": "2026-08-29",
-   "views": 3651
+   "views": 1609
   },
   {
    "date": "2026-08-30",
-   "views": 8237
+   "views": 1758
   },
   {
    "date": "2026-08-31",
-   "views": 5630
+   "views": 1721
   },
   {
    "date": "2026-09-01",
-   "views": 3534
+   "views": 1473
   },
   {
    "date": "2026-09-02",
-   "views": 3849
+   "views": 1437
   },
   {
    "date": "2026-09-03",
-   "views": 2577
+   "views": 1628
   },
   {
    "date": "2026-09-04",
-   "views": 2587
+   "views": 1659
   },
   {
    "date": "2026-09-05",
-   "views": 2551
+   "views": 1620
   },
   {
    "date": "2026-09-06",
-   "views": 2526
+   "views": 1828
   },
   {
    "date": "2026-09-07",
-   "views": 2426
+   "views": 1941
   },
   {
    "date": "2026-09-08",
-   "views": 2253
+   "views": 1706
   },
   {
    "date": "2026-09-09",
-   "views": 2326
+   "views": 14480
   },
   {
    "date": "2026-09-10",
-   "views": 2911
+   "views": 15193
   },
   {
    "date": "2026-09-11",
-   "views": 3205
+   "views": 8729
   },
   {
    "date": "2026-09-12",
-   "views": 3082
+   "views": 6050
   },
   {
    "date": "2026-09-13",
-   "views": 7578
+   "views": 5372
   },
   {
    "date": "2026-09-14",
-   "views": 5036
+   "views": 5058
   },
   {
    "date": "2026-09-15",
-   "views": 2779
+   "views": 4994
   },
   {
    "date": "2026-09-16",
-   "views": 2945
+   "views": 4383
   },
   {
    "date": "2026-09-17",
-   "views": 2946
+   "views": 3919
   },
   {
    "date": "2026-09-18",
-   "views": 3203
+   "views": 3564
   },
   {
    "date": "2026-09-19",
-   "views": 4027
+   "views": 4088
   },
   {
    "date": "2026-09-20",
-   "views": 3587
+   "views": 5414
   },
   {
    "date": "2026-09-21",
-   "views": 3248
+   "views": 4513
   },
   {
    "date": "2026-09-22",
-   "views": 2916
+   "views": 4705
   },
   {
    "date": "2026-09-23",
-   "views": 3005
+   "views": 3987
   },
   {
    "date": "2026-09-24",
-   "views": 3100
+   "views": 3640
   },
   {
    "date": "2026-09-25",
-   "views": 3380
+   "views": 3375
   },
   {
    "date": "2026-09-26",
-   "views": 5267
+   "views": 3631
   },
   {
    "date": "2026-09-27",
-   "views": 3911
+   "views": 4439
   },
   {
    "date": "2026-09-28",
-   "views": 4950
+   "views": 4983
   },
   {
    "date": "2026-09-29",
-   "views": 3795
+   "views": 5793
   },
   {
    "date": "2026-09-30",
-   "views": 4982
+   "views": 6312
   },
   {
    "date": "2026-10-01",
-   "views": 5342
+   "views": 12642
   },
   {
    "date": "2026-10-02",
-   "views": 13070
+   "views": 16006
   },
   {
    "date": "2026-10-03",
-   "views": 16623
+   "views": 11857
   },
   {
    "date": "2026-10-04",
-   "views": 68472
+   "views": 11833
   },
   {
    "date": "2026-10-05",
-   "views": 32271
+   "views": 14977
   },
   {
    "date": "2026-10-06",
-   "views": 13405
+   "views": 16918
+  },
+  {
+   "date": "2026-10-07",
+   "views": 100004
   }
  ],
- "wikipedia_title": "Role_Model_(singer)",
+ "wikipedia_title": "Carrie_(miniseries)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }

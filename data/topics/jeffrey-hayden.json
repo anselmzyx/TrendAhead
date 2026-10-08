@@ -1,198 +1,197 @@
 {
- "title": "Dennis Hastert",
- "slug": "dennis-hastert",
- "score": 24,
- "status": "Peaked / fading",
- "change_percent": 8005,
- "growth_ratio": 81.06,
- "recent_avg": 58274,
- "baseline_avg": 719,
- "explanation": "Attention surged to 81\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Jeffrey Hayden",
+ "slug": "jeffrey-hayden",
+ "score": 50,
+ "status": "Breaking out",
+ "change_percent": 12428,
+ "growth_ratio": 125.3,
+ "recent_avg": 26183,
+ "baseline_avg": 209,
+ "explanation": "Attention is 125\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 57555,
- "latest": 53476,
+ "abs_change": 25974,
+ "latest": 60287,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.399,
-  "volume": 0.883,
-  "spike_quality": 0.407
+  "persistence": 0.6,
+  "momentum": 0.933,
+  "volume": 0.709,
+  "spike_quality": 0.641
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 58,274 views/day over the last 3 days (30-day baseline: 719)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 26,183 views/day over the last 3 days (30-day baseline: 209)."
  ],
  "history": [
   {
-   "date": "2026-08-28",
-   "views": 484
-  },
-  {
    "date": "2026-08-29",
-   "views": 400
+   "views": 466
   },
   {
    "date": "2026-08-30",
-   "views": 405
+   "views": 432
   },
   {
    "date": "2026-08-31",
-   "views": 433
+   "views": 438
   },
   {
    "date": "2026-09-01",
-   "views": 452
+   "views": 262
   },
   {
    "date": "2026-09-02",
-   "views": 585
+   "views": 236
   },
   {
    "date": "2026-09-03",
-   "views": 509
+   "views": 216
   },
   {
    "date": "2026-09-04",
-   "views": 524
+   "views": 243
   },
   {
    "date": "2026-09-05",
-   "views": 474
+   "views": 303
   },
   {
    "date": "2026-09-06",
-   "views": 584
+   "views": 253
   },
   {
    "date": "2026-09-07",
-   "views": 744
+   "views": 216
   },
   {
    "date": "2026-09-08",
-   "views": 809
+   "views": 236
   },
   {
    "date": "2026-09-09",
-   "views": 1113
+   "views": 173
   },
   {
    "date": "2026-09-10",
-   "views": 1096
+   "views": 194
   },
   {
    "date": "2026-09-11",
-   "views": 992
+   "views": 167
   },
   {
    "date": "2026-09-12",
-   "views": 1034
+   "views": 196
   },
   {
    "date": "2026-09-13",
-   "views": 922
+   "views": 245
   },
   {
    "date": "2026-09-14",
-   "views": 860
+   "views": 167
   },
   {
    "date": "2026-09-15",
-   "views": 875
+   "views": 153
   },
   {
    "date": "2026-09-16",
-   "views": 787
+   "views": 156
   },
   {
    "date": "2026-09-17",
-   "views": 735
+   "views": 171
   },
   {
    "date": "2026-09-18",
-   "views": 804
+   "views": 167
   },
   {
    "date": "2026-09-19",
-   "views": 524
+   "views": 242
   },
   {
    "date": "2026-09-20",
-   "views": 560
+   "views": 271
   },
   {
    "date": "2026-09-21",
-   "views": 577
+   "views": 196
   },
   {
    "date": "2026-09-22",
-   "views": 558
+   "views": 179
   },
   {
    "date": "2026-09-23",
-   "views": 631
+   "views": 192
   },
   {
    "date": "2026-09-24",
-   "views": 520
+   "views": 256
   },
   {
    "date": "2026-09-25",
-   "views": 482
+   "views": 210
   },
   {
    "date": "2026-09-26",
-   "views": 474
+   "views": 253
   },
   {
    "date": "2026-09-27",
-   "views": 587
+   "views": 219
   },
   {
    "date": "2026-09-28",
-   "views": 540
+   "views": 165
   },
   {
    "date": "2026-09-29",
-   "views": 1109
+   "views": 151
   },
   {
    "date": "2026-09-30",
-   "views": 676
+   "views": 143
   },
   {
    "date": "2026-10-01",
-   "views": 834
+   "views": 189
   },
   {
    "date": "2026-10-02",
-   "views": 617
+   "views": 176
   },
   {
    "date": "2026-10-03",
-   "views": 525
+   "views": 270
   },
   {
    "date": "2026-10-04",
-   "views": 508
+   "views": 360
   },
   {
    "date": "2026-10-05",
-   "views": 120839
+   "views": 221
   },
   {
    "date": "2026-10-06",
-   "views": 53476
+   "views": 18041
+  },
+  {
+   "date": "2026-10-07",
+   "views": 60287
   }
  ],
- "wikipedia_title": "Dennis_Hastert",
+ "wikipedia_title": "Jeffrey_Hayden",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-06",
- "generated_at_utc": "2026-10-07T16:49:28+00:00"
+ "data_through": "2026-10-07",
+ "generated_at_utc": "2026-10-08T04:42:17+00:00"
 }
