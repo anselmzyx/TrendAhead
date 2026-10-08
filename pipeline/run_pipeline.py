@@ -37,7 +37,11 @@ def latest_complete_day() -> date:
 def _load_history_cache(end: date) -> dict:
     path = OUTPUT_DIR / f"histories_{end}.json"
     if path.exists():
-        return json.loads(path.read_text())["histories"]
+        try:
+            return json.loads(path.read_text())["histories"]
+        except (json.JSONDecodeError, KeyError, TypeError):
+            # Corrupt cache fails safe: ignore it and refetch live.
+            print(f"  ⚠ cache {path.name} is corrupt — ignoring and refetching")
     return {}
 
 

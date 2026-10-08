@@ -221,3 +221,20 @@ coverage is too sparse to justify a topic-page section that would read
 and consider GDELT's ngrams dataset (which its own 429 message recommends
 for high-traffic use). The website and Score remain 100% Wikimedia-only;
 no GDELT imports exist in the production path (verified).
+
+## 2026-10-08 — Production hardening decisions (Phase 10)
+
+Crash-safe data writes: generate_site_data.py now writes trending.json and
+all topic files to temporary paths and swaps them in with renames only
+after validation — a mid-write failure can never destroy the last good
+dataset. Corrupt history caches are ignored (refetch) instead of crashing.
+Security headers added in next.config.ts: X-Content-Type-Options nosniff,
+X-Frame-Options DENY, Referrer-Policy strict-origin-when-cross-origin; no
+CSP (would need careful tuning against Next.js internals for little gain
+on a static site). Known limitation accepted: invalid /topic/<slug> URLs
+return HTTP 200 while rendering the styled not-found page with Next's
+auto-injected noindex meta — Next 16 cacheComponents streams the shell
+before notFound() runs and is incompatible with dynamicParams=false;
+users and crawlers are handled correctly, only the raw status code is
+imperfect (revisit in Phase 14/SEO). Deployment needs: Node >= 20.9, zero
+env vars, no Python at runtime.

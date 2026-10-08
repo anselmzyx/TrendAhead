@@ -88,6 +88,19 @@ and refuses to write a broken dataset.
   lag-aware aligned windows, bounded confirmation value). Deliberately NOT
   integrated into production — see DECISIONS.md (2026-10-08)
 
+## Requirements & deployment notes
+
+- **Node.js ≥ 20.9** (we develop on v20.12) — runs the website.
+- **Python 3.12** — runs the OFFLINE data pipeline only. The deployed
+  website never needs Python: it reads the pre-generated, committed JSON.
+- **Environment variables: none.** The app needs no secrets or config to
+  build or run.
+- `npm run build` works fully offline from the committed `data/` files — a
+  Wikimedia outage cannot break deployment of the existing snapshot.
+- Data generation is crash-safe: new JSON is written to temporary files and
+  swapped in only after validation, so the last good dataset survives any
+  pipeline failure.
+
 ## Project documentation
 
 - `PROJECT_PLAN.md` — roadmap and current phase

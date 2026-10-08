@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 9 — Cross-source confirmation** (complete: GDELT kept offline)
+**Phase 10 — Production hardening** (complete: READY FOR DEPLOYMENT)
 
 ## Completed phases
 
@@ -29,25 +29,28 @@
   persistence, shape-based statuses.
 - **Phase 8 — GDELT PoC** (2026-10-08) news timelines verified; lag,
   rate-limit and query-ambiguity constraints documented.
+- **Phase 9 — Cross-source confirmation** (2026-10-08) full lag-aware
+  layer built + tested; GDELT deliberately kept offline.
 
 ## Current checkpoint
 
-Phase 9 done: lag-aware cross-source layer built and tested (17 new
-fixture tests; 106 total). Query mapping + relevance gate + aligned
-windows + bounded confirmation value with confirmed/not_confirmed/
-unavailable states. Live evaluation on 8 topics: 1 usable result
-(Michael Douglas not_confirmed, news +48% vs aligned wiki +80%), rest
-unavailable (relevance gate or GDELT 429 rate limiting; circuit breaker
-added). DECISION: Approach A semantics kept but GDELT NOT integrated into
-production — stays experimental until coverage/reliability improve.
-Baseline V1.1 ranking frozen in pipeline/output/baseline_phase9.json and
-confirmed unchanged.
+Phase 10 complete. Audits passed: secrets (none tracked), dependencies
+(4 runtime, all used; one documented dev-only lint advisory), generated
+data integrity (24 topic files fully valid), no live-API calls in the
+frontend or build, honest copy/freshness/status strings, internal links,
+metadata, Wikimedia CC0 sourcing in footer+methodology. Fixes: crash-safe
+temp-file+swap data writes, corrupt-cache tolerance, security headers
+(nosniff / X-Frame-Options DENY / referrer policy). Production server
+tested (`npm run start`): all routes OK. Known non-blocking limitation:
+invalid topic URLs render the styled 404 page with an auto noindex meta
+but HTTP status 200 (Next 16 cacheComponents streaming; dynamicParams=false
+is incompatible — revisit in Phase 14). 106 Python tests, lint, tsc,
+build all pass.
 
 ## Next checkpoint
 
-**Phase 10 — Production hardening**: remove debug paths, verify error/
-loading/empty states, mobile/desktop pass, tests, lint, build,
-accessibility basics, metadata, no secrets. (GDELT revisit deferred.)
+**Phase 11 — GitHub** is already done early (repo exists, pushed). So next:
+**Phase 12 — Deployment** (free tier, likely Vercel), guided step by step.
 
 ## Outstanding phases (summary)
 

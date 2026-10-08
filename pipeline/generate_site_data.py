@@ -46,13 +46,23 @@ def main() -> int:
             print(f"  - {p}")
         return 1
 
+    # Safe replacement: build everything in temporary paths first, then swap.
+    # A crash mid-write can therefore never leave the website with a
+    # half-written dataset — the last good files survive untouched.
     topics_dir = DATA_DIR / "topics"
-    if topics_dir.exists():
-        shutil.rmtree(topics_dir)  # stale topic files must not linger
-    topics_dir.mkdir(parents=True)
-    (DATA_DIR / "trending.json").write_text(json.dumps(trending, indent=1))
+    tmp_topics = DATA_DIR / "topics.tmp"
+    tmp_trending = DATA_DIR / "trending.json.tmp"
+    if tmp_topics.exists():
+        shutil.rmtree(tmp_topics)
+    tmp_topics.mkdir(parents=True)
     for slug, topic in topics.items():
-        (topics_dir / f"{slug}.json").write_text(json.dumps(topic, indent=1))
+        (tmp_topics / f"{slug}.json").write_text(json.dumps(topic, indent=1))
+    tmp_trending.write_text(json.dumps(trending, indent=1))
+    # Swap into place (near-atomic: two renames after all writing succeeded).
+    if topics_dir.exists():
+        shutil.rmtree(topics_dir)
+    tmp_topics.rename(topics_dir)
+    tmp_trending.replace(DATA_DIR / "trending.json")
 
     print(f"\nWrote data/trending.json ({len(trending['topics'])} homepage topics)")
     print(f"Wrote {len(topics)} topic files to data/topics/")
