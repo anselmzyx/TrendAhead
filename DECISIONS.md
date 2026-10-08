@@ -279,3 +279,29 @@ failure aborts before commit — broken data can never reach Git or the
 site. Bot commits are authored by github-actions[bot]; human commits stay
 anselmzyx. Actions cache deliberately NOT used: the history cache keys on
 the end date, so daily runs could never hit it.
+
+## 2026-10-08 — SEO foundation (Phase 14)
+
+Canonical origin centralised in src/lib/site.ts (SITE_ORIGIN =
+https://trendahead.netlify.app — change that ONE constant when a custom
+domain arrives; it feeds metadataBase, canonicals, OG URLs, robots and
+sitemap). Added: canonicals on all pages; Open Graph + twitter summary
+card (no fake social images); robots.txt (allow all + sitemap);
+sitemap.xml built from the CURRENT generated dataset only (27 URLs:
+3 static + 24 topics, lastModified = data generation time; prose pages
+omit it). Topic meta titles are absolute ("<topic> — TrendAhead Score N",
+truncated at ~55 chars metadata-only) with deterministic truthful
+descriptions. Structured data kept minimal and honest: WebSite (homepage)
++ BreadcrumbList (topic pages); deliberately no Organization (no legal
+entity), no Dataset/Article/NewsArticle (semantics don't fit; topics are
+not authored articles). Soft-404: invalid slugs still return HTTP 200
+with the 404 UI + noindex — confirmed a known open Next.js bug
+(vercel/next.js#98518) with no cacheComponents-compatible fix; mitigation
+retained (noindex + sitemap lists only valid pages). Topic lifecycle
+policy A: topics that fall out of the dataset genuinely disappear
+(soft-404 + noindex, auto-removed from the sitemap on the next deploy) —
+no historical archive in the MVP. Duplicate-URL audit: trailing slashes
+308-redirect; uppercase/invalid slug variants are noindex'd; slugs are
+unique by construction. Frontend metadata is verified via rendered-output
+checks rather than a new JS test framework (adding one for a few string
+assertions wasn't justified).

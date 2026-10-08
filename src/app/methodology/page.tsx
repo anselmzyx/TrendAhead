@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Methodology",
   description:
     "How TrendAhead discovers topics and computes the 0–100 TrendAhead Score from Wikipedia attention data.",
+  alternates: { canonical: "/methodology" },
 };
 
 function Section({

@@ -1,12 +1,31 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import TrendCard from "@/components/TrendCard";
 import { formatDataDate, getTrending } from "@/lib/trends";
+import { SITE_NAME, SITE_ORIGIN } from "@/lib/site";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
+
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE_NAME,
+  url: `${SITE_ORIGIN}/`,
+  description:
+    "TrendAhead detects topics gaining unusual attention before they become obviously mainstream, using public Wikipedia attention data and a transparent 0–100 score.",
+};
 
 export default async function Home() {
   const data = await getTrending();
 
   return (
     <main className="mx-auto w-full max-w-6xl px-4 pb-20 sm:px-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
       {/* Hero */}
       <section className="py-16 text-center sm:py-24">
         <h1 className="mx-auto max-w-3xl text-4xl font-semibold tracking-tight sm:text-6xl">

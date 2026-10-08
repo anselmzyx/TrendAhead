@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 13 — Automated data refresh** (complete: automation verified)
+**Phase 14 — SEO foundation** (complete: awaiting review)
 
 ## Completed phases
 
@@ -35,20 +35,22 @@
   writes, security headers, production-server verification.
 - **Phase 12 — Public deployment** (2026-10-08) live on Netlify Free at
   trendahead.netlify.app with GitHub auto-deploys (Phase 11 done early).
+- **Phase 13 — Automated refresh** (2026-10-08) daily GitHub Action,
+  budget-aware ~48h Netlify deploy cadence, bot-authored data commits.
 
 ## Current checkpoint
 
-Phase 13 complete: daily GitHub Action (05:37 UTC) refreshes data with a
-budget-aware deploy cadence (~every 2nd day; [skip netlify] otherwise;
-manual runs default to no-deploy). First automated run verified end to
-end: fresh runner, 40 live fetches, 0 failures, bot-authored data-only
-commit with [skip netlify], Netlify correctly did not deploy. Controlled
-final deploy shipped data through 2026-10-07.
+Phase 14 complete: canonicals, Open Graph/twitter metadata, robots.txt,
+dataset-driven sitemap.xml (27 URLs), absolute topic meta titles with
+deterministic descriptions, WebSite + BreadcrumbList JSON-LD. Soft-404
+kept as noindex mitigation (open Next.js bug #98518). Topic lifecycle:
+vanished topics 404 (noindex) and leave the sitemap automatically.
 
 ## Next checkpoint
 
-**Phase 14 — SEO foundation**: titles/descriptions audit, Open Graph,
-sitemap + robots, revisit the invalid-slug HTTP-200 quirk.
+**Phase 15 — Analytics** (privacy-conscious, free), then Phase 16 public
+MVP review. Human action available now: Google Search Console / Bing
+Webmaster registration + sitemap submission (user decision).
 
 ## Outstanding phases (summary)
 

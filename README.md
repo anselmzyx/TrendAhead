@@ -119,6 +119,13 @@ commits carry `[skip netlify]` and the next even-day deploy ships them.
   swapped in only after validation, so the last good dataset survives any
   pipeline failure.
 
+## SEO
+
+Canonical origin lives in `src/lib/site.ts` (`SITE_ORIGIN`) — update that
+one constant if the domain ever changes. `robots.txt` and `sitemap.xml`
+are generated routes; the sitemap only ever lists pages in the current
+dataset.
+
 ## Project documentation
 
 - `PROJECT_PLAN.md` — roadmap and current phase

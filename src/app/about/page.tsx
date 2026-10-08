@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "About",
   description:
     "TrendAhead detects unusual acceleration in public online attention to identify topics gaining momentum before they become obviously mainstream.",
+  alternates: { canonical: "/about" },
 };
 
 export default function AboutPage() {

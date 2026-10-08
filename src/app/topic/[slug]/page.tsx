@@ -12,6 +12,7 @@ import {
   getTopic,
   type TopicData,
 } from "@/lib/trends";
+import { SITE_NAME, SITE_ORIGIN, topicMetaDescription, topicMetaTitle } from "@/lib/site";
 
 export async function generateStaticParams() {
   const slugs = await getAllTopicSlugs();
@@ -23,9 +24,16 @@ export async function generateMetadata({
   const { slug } = await params;
   const topic = await getTopic(slug);
   if (!topic) return { title: "Topic not found" };
+  const title = topicMetaTitle(topic.title, topic.score);
+  const description = topicMetaDescription(topic);
+  const path = `/topic/${topic.slug}`;
   return {
-    title: `${topic.title} — TrendAhead Score ${topic.score}`,
-    description: `${topic.title}: TrendAhead Score ${topic.score}/100 (${topic.status}). ${topic.explanation} Based on Wikipedia attention data.`,
+    // absolute: the title already carries the brand; the "%s — TrendAhead"
+    // template would duplicate it.
+    title: { absolute: title },
+    description,
+    alternates: { canonical: path },
+    openGraph: { title, description, url: path, type: "website" },
   };
 }
 
@@ -130,8 +138,26 @@ async function TopicContent({
   const topic = await getTopic(slug);
   if (!topic) notFound();
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: SITE_NAME, item: `${SITE_ORIGIN}/` },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: topic.title,
+        item: `${SITE_ORIGIN}/topic/${topic.slug}`,
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto w-full max-w-4xl px-4 py-10 sm:px-6 sm:py-14">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <Link href="/" className="text-sm text-ink-muted hover:text-foreground">
         ← All trends
       </Link>
