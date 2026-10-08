@@ -34,6 +34,10 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
   },
+  verification: {
+    // Google Search Console ownership proof — intentionally public.
+    google: "f9lOaUad1kB2stHhTrgSm-dTy5FfNCEeFwXczokCYcA",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
