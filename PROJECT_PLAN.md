@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 14 — SEO foundation** (complete: awaiting review)
+**Phase 15 — Analytics** (complete: awaiting dashboard confirmation)
 
 ## Completed phases
 
@@ -37,20 +37,25 @@
   trendahead.netlify.app with GitHub auto-deploys (Phase 11 done early).
 - **Phase 13 — Automated refresh** (2026-10-08) daily GitHub Action,
   budget-aware ~48h Netlify deploy cadence, bot-authored data commits.
+- **Phase 14 — SEO foundation** (2026-10-08) canonicals, OG, robots,
+  dataset-driven sitemap, JSON-LD; soft-404 noindex mitigation.
 
 ## Current checkpoint
 
-Phase 14 complete: canonicals, Open Graph/twitter metadata, robots.txt,
-dataset-driven sitemap.xml (27 URLs), absolute topic meta titles with
-deterministic descriptions, WebSite + BreadcrumbList JSON-LD. Soft-404
-kept as noindex mitigation (open Next.js bug #98518). Topic lifecycle:
-vanished topics 404 (noindex) and leave the sitemap automatically.
+Phase 15 complete: Cloudflare Web Analytics (free, cookie-free, no
+personal data) integrated via the official beacon, included only in
+Netlify builds so local traffic never pollutes stats; Privacy section
+added to /about. MVP metrics to watch: visits/pageviews over time, top
+topic pages, homepage→topic flow, referrers, countries, Core Web Vitals.
+Early success is NOT total pageviews — watch homepage→topic clicks,
+search discovery, and multi-page exploration.
 
 ## Next checkpoint
 
-**Phase 15 — Analytics** (privacy-conscious, free), then Phase 16 public
-MVP review. Human action available now: Google Search Console / Bing
-Webmaster registration + sitemap submission (user decision).
+**Phase 16 — Public MVP review**: evaluate whether detected topics are
+interesting/early, whether the score is understandable, and whether
+people return. Separate manual option: Google Search Console (SEO tool,
+distinct from analytics).
 
 ## Outstanding phases (summary)
 

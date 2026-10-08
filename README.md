@@ -119,6 +119,14 @@ commits carry `[skip netlify]` and the next even-day deploy ships them.
   swapped in only after validation, so the last good dataset survives any
   pipeline failure.
 
+## Analytics
+
+Cloudflare Web Analytics (free, cookie-free, aggregate-only — no personal
+data, no ads trackers). The beacon ships only in Netlify builds, so local
+development never appears in stats. Dashboard: dash.cloudflare.com → Web
+Analytics. Metrics worth watching: visits/pageviews, top topic pages,
+referrers, countries, Core Web Vitals.
+
 ## SEO
 
 Canonical origin lives in `src/lib/site.ts` (`SITE_ORIGIN`) — update that

@@ -47,6 +47,16 @@ export default function AboutPage() {
           </Link>
           .
         </p>
+        <h2 className="pt-2 text-lg font-semibold tracking-tight text-foreground">
+          Privacy
+        </h2>
+        <p>
+          TrendAhead has no user accounts and collects no personal
+          information. To understand aggregate usage we use Cloudflare Web
+          Analytics, a privacy-focused tool that works without cookies and
+          without tracking individuals. There are no advertising trackers and
+          no session recording.
+        </p>
       </div>
     </main>
   );

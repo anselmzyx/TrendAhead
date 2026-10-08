@@ -46,6 +46,18 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SiteHeader />
         <div className="flex flex-1 flex-col">{children}</div>
         <SiteFooter />
+        {/* Cloudflare Web Analytics: privacy-first, cookie-free aggregate
+            stats. The token is public by design. Included only in builds
+            made on Netlify (NETLIFY env var), so local dev/prod testing
+            never pollutes production analytics. A module script loads
+            deferred and its failure cannot block rendering. */}
+        {process.env.NETLIFY === "true" ? (
+          <script
+            type="module"
+            src="https://static.cloudflareinsights.com/beacon.min.js"
+            data-cf-beacon='{"token": "44132abf14ba4d4b88b6bbcf0527bd40"}'
+          />
+        ) : null}
       </body>
     </html>
   );

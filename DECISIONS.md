@@ -305,3 +305,25 @@ no historical archive in the MVP. Duplicate-URL audit: trailing slashes
 unique by construction. Frontend metadata is verified via rendered-output
 checks rather than a new JS test framework (adding one for a few string
 assertions wasn't justified).
+
+## 2026-10-08 — Cloudflare Web Analytics (Phase 15)
+
+Chosen for the MVP: free with no traffic cap (non-proxied sites limited
+to 10/account), works on Netlify via JS snippet with no DNS change,
+cookie-free with no personal-data collection per official docs, and
+provides exactly the MVP metrics we need (visits, pageviews, top paths,
+referrers, countries, browser/OS, Core Web Vitals RUM). The beacon script
+is included ONLY in builds made on Netlify (gated on the platform's own
+NETLIFY env var), so dev and local production testing never pollute
+stats; the beacon token is public by design and lives in the layout. The
+site renders fully even if the analytics script fails — it is a deferred
+module script with no render dependency. No cookie banner added: the
+implementation is technically cookie-free per Cloudflare's docs; legal
+consent obligations can vary by jurisdiction and are a separate matter —
+we make no universal compliance claim. A concise Privacy section was
+added to /about instead of a dedicated legal-style privacy page (no
+accounts, no personal data — a dedicated page would be empty ceremony at
+this stage). Dashboard: dash.cloudflare.com → Web Analytics
+(trendahead.netlify.app). A temporarily created scoped API token (for a
+dashboard-bug workaround that proved unnecessary) was deleted by the
+owner without being used or shared.
