@@ -42,3 +42,20 @@ GitHub is the real backup either way.
 **Resolved 2026-10-08:** project moved to `~/Developer/TrendAhead`
 (outside iCloud sync); Git history, remote and local server verified
 working from the new location.
+
+## 2026-10-09 — Scheduled refresh failed on a transient Wikimedia 404
+
+**Error:** The daily GitHub Actions run failed: Wikimedia returned HTTP
+404 for the top-pages list of a valid older date (2026-10-03). Re-running
+the identical workflow minutes later succeeded.
+
+**Cause:** The Wikimedia client treated every 404 as permanent ("no data
+for that page/day") and raised immediately without retrying. That
+assumption is wrong: Wikimedia's API can transiently 404 valid dates.
+
+**Fix:** All failure modes now retry with conservative tiered backoff
+(429: 30/60/90s · other HTTP incl. 404/5xx: 10/20/30s · network/JSON:
+2/4/8s; 4 attempts max — never forever). Genuinely missing data still
+fails after retries, so nothing is silently hidden, and the existing
+guarantee holds: a failed pipeline commits and deploys nothing. Covered
+by 10 new mocked retry tests (no live API calls).

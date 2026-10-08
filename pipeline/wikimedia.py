@@ -27,22 +27,45 @@ class FetchError(Exception):
     """A request ultimately failed after retries."""
 
 
-def _get_json(url: str, retries: int = 3, timeout: int = 15) -> dict:
+def retry_wait(attempt: int, http_status: int | None) -> int:
+    """Seconds to wait before retry `attempt + 1` (pure, unit-tested).
+
+    - 429 (rate limited): long backoff — 30s, 60s, 90s…
+    - other HTTP errors incl. 404 and 5xx: 10s, 20s, 30s… (Wikimedia has
+      been observed to return TRANSIENT 404s for valid dates — 2026-10-09
+      scheduled-run incident — and transient 5xx under load)
+    - network/timeout/malformed JSON: quick 2s, 4s, 8s…
+    """
+    if http_status == 429:
+        return 30 * attempt
+    if http_status is not None:
+        return 10 * attempt
+    return 2**attempt
+
+
+def _get_json(url: str, retries: int = 4, timeout: int = 15, sleep=time.sleep) -> dict:
+    """GET + parse with conservative retries for transient failures.
+
+    Every failure mode (incl. 404) is retried with backoff, but never
+    forever: after `retries` attempts a FetchError is raised, so genuinely
+    missing data is still reported as missing — just not on the first
+    hiccup. Callers keep their existing semantics: a candidate that truly
+    has no data fails that candidate; a top-list that truly has no data
+    aborts the run before anything is committed."""
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     last_error: Exception | None = None
     for attempt in range(1, retries + 1):
+        status: int | None = None
         try:
             with urllib.request.urlopen(request, timeout=timeout) as resp:
                 return json.loads(resp.read())
         except urllib.error.HTTPError as e:
-            # 404 = no data for that page/day; retrying won't help.
-            if e.code == 404:
-                raise FetchError(f"404 no data: {url}") from e
             last_error = e
+            status = e.code
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
             last_error = e
         if attempt < retries:
-            time.sleep(2**attempt)
+            sleep(retry_wait(attempt, status))
     raise FetchError(f"failed after {retries} attempts: {url} ({last_error})")
 
 
