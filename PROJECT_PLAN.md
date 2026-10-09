@@ -45,10 +45,13 @@
 ## Current checkpoint
 
 Phase 16 complete — ALL 16 planned MVP phases done. Verdict: READY TO
-SHARE at validation scale ($0/month, fully automated, live at
-trendahead.netlify.app). Full assessment + prioritized backlog in
-MVP_REVIEW.md. Next: product milestone "Validate with first ~20 external
-users" — not a build phase.
+SHARE at validation scale ($0/month, automated refresh with retry/
+failure safety verified — though the 2026-10-09 scheduled run had to be
+manually dispatched, so schedule reliability stays under watch; live at
+trendahead.netlify.app). Search Console: verified, sitemap submitted,
+awaiting Google's fetch — just recheck later. Full assessment +
+prioritized backlog in MVP_REVIEW.md. Next: product milestone "Validate
+with first ~20 external users" — not a build phase.
 
 ## Outstanding phases (summary)
 

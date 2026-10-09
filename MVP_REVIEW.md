@@ -2,7 +2,14 @@
 
 ## Baseline (frozen)
 
-- Commit `a0d7a62` (bot refresh, data through **2026-10-08**) — production = HEAD, fully unattended refresh+deploy loop verified live.
+- Commit `a0d7a62` (bot refresh, data through **2026-10-08**) — production = HEAD.
+- Today's refresh was NOT unattended: the scheduled GitHub Actions run did
+  not start, so the owner manually triggered the workflow with
+  deploy_now=true. The first attempt exhausted the Wikimedia transient-404
+  retries and failed safely (nothing committed, site untouched); the rerun
+  succeeded end to end. Good evidence that failure safety and
+  retry/recovery work as designed — but scheduled-run reliability itself
+  still needs monitoring.
 - 12 homepage topics, 24 topic pages, 116 Python tests. Verdict basis below.
 
 ## Verdict: READY TO SHARE (at validation scale)
@@ -116,8 +123,19 @@ users explicitly asking for alerts/watchlists, search traffic growth.
 4. End-to-end ownership: official APIs → cleaning/validation → scoring → automated daily CI/CD with budget-aware deploys → live analytics.
 5. Communication: every number on the site is explainable (component meters, methodology page, deterministic why-bullets).
 
+## Search Console status (2026-10-09)
+
+Ownership is verified and sitemap.xml has been submitted. The homepage
+Live Test reports "URL is available to Google"; the sitemap currently
+shows "Couldn't fetch" while Google processes/retries it, and today's
+manual indexing-request quota is exhausted. Next action: simply recheck
+Search Console in a few days — do NOT re-verify ownership.
+
 ## Technical debt register
 
+- Scheduled GitHub Actions runs may not start reliably (observed
+  2026-10-09; manual dispatch needed): **monitor** — if it recurs,
+  consider a second cron time as redundancy.
 - Soft-404 returns HTTP 200 (upstream Next.js bug #98518): **monitor**.
 - Netlify 300-credit ceiling caps deploy cadence: **monitor**.
 - GitHub scheduled workflows disable after ~60 days repo inactivity: **monitor**.
