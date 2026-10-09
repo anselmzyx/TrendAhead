@@ -327,3 +327,15 @@ this stage). Dashboard: dash.cloudflare.com → Web Analytics
 (trendahead.netlify.app). A temporarily created scoped API token (for a
 dashboard-bug workaround that proved unnecessary) was deleted by the
 owner without being used or shared.
+
+## 2026-10-09 — Phase 16 MVP review verdict (see MVP_REVIEW.md)
+
+READY TO SHARE at validation scale. Hypothesis "promising but unproven":
+the improver path demonstrably surfaces pre-peak climbers (Carrie
+miniseries, Other Mommy, The Social Reckoning) and statuses honestly
+separate them from reactive news bursts, but no user evidence exists yet.
+Primary early user: content creators/newsletter writers. Biggest gap:
+topic pages don't say what a topic IS (fix: Wikipedia REST summary line,
+P1). Next investment is improving the existing Wikipedia signal, NOT a
+second data source. Monetisation: uniformly too early. Next milestone:
+validate with first ~20 external users. Full backlog in MVP_REVIEW.md.

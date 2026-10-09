@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Phase 15 — Analytics** (complete: awaiting dashboard confirmation)
+**Phase 16 — Public MVP review** (complete — MVP finished)
 
 ## Completed phases
 
@@ -39,37 +39,21 @@
   budget-aware ~48h Netlify deploy cadence, bot-authored data commits.
 - **Phase 14 — SEO foundation** (2026-10-08) canonicals, OG, robots,
   dataset-driven sitemap, JSON-LD; soft-404 noindex mitigation.
+- **Phase 15 — Analytics** (2026-10-08) Cloudflare Web Analytics,
+  cookie-free, Netlify-builds-only beacon; privacy note on /about.
 
 ## Current checkpoint
 
-Phase 15 complete: Cloudflare Web Analytics (free, cookie-free, no
-personal data) integrated via the official beacon, included only in
-Netlify builds so local traffic never pollutes stats; Privacy section
-added to /about. MVP metrics to watch: visits/pageviews over time, top
-topic pages, homepage→topic flow, referrers, countries, Core Web Vitals.
-Early success is NOT total pageviews — watch homepage→topic clicks,
-search discovery, and multi-page exploration.
-
-## Next checkpoint
-
-**Phase 16 — Public MVP review**: evaluate whether detected topics are
-interesting/early, whether the score is understandable, and whether
-people return. Separate manual option: Google Search Console (SEO tool,
-distinct from analytics).
+Phase 16 complete — ALL 16 planned MVP phases done. Verdict: READY TO
+SHARE at validation scale ($0/month, fully automated, live at
+trendahead.netlify.app). Full assessment + prioritized backlog in
+MVP_REVIEW.md. Next: product milestone "Validate with first ~20 external
+users" — not a build phase.
 
 ## Outstanding phases (summary)
 
-5. TrendAhead scoring engine + tests → `data/trending.json`
-6. Connect real data to the website
-8. GDELT proof of concept (news attention)
-9. Cross-source confirmation
-10. Production hardening
-11. GitHub repository
-12. Deployment (free tier, likely Vercel)
-13. Automated data refresh (GitHub Actions)
-14. SEO foundation
-15. Analytics (privacy-conscious, free)
-16. Public MVP review / validation
+None — the planned MVP roadmap (Phases 0–16) is complete. Future work is
+milestone-driven; see MVP_REVIEW.md for the prioritized backlog.
 
 ## Deliberately NOT building yet
 
