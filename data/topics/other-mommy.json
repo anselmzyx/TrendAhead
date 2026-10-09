@@ -1,195 +1,196 @@
 {
- "title": "Michael Douglas",
- "slug": "michael-douglas",
- "score": 28,
- "status": "Elevated",
- "change_percent": 400,
- "growth_ratio": 5.0,
- "recent_avg": 57850,
- "baseline_avg": 11580,
- "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+ "title": "Other Mommy",
+ "slug": "other-mommy",
+ "score": 54,
+ "status": "Building",
+ "change_percent": 259,
+ "growth_ratio": 3.59,
+ "recent_avg": 45675,
+ "baseline_avg": 12719,
+ "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 46270,
- "latest": 41639,
+ "abs_change": 32956,
+ "latest": 74408,
  "components": {
-  "acceleration": 0.411,
-  "anomaly": 0.474,
-  "persistence": 0.76,
-  "momentum": 0.415,
-  "volume": 0.881,
-  "spike_quality": 0.74
+  "acceleration": 0.327,
+  "anomaly": 0.513,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.83,
+  "spike_quality": 0.888
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 57,850 views/day over the last 3 days (30-day baseline: 11,580)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 45,675 views/day over the last 3 days (30-day baseline: 12,719)."
  ],
  "history": [
   {
    "date": "2026-08-30",
-   "views": 8848
+   "views": 3020
   },
   {
    "date": "2026-08-31",
-   "views": 7276
+   "views": 3178
   },
   {
    "date": "2026-09-01",
-   "views": 5842
+   "views": 2682
   },
   {
    "date": "2026-09-02",
-   "views": 5944
+   "views": 2704
   },
   {
    "date": "2026-09-03",
-   "views": 9877
+   "views": 2572
   },
   {
    "date": "2026-09-04",
-   "views": 6631
+   "views": 2685
   },
   {
    "date": "2026-09-05",
-   "views": 7072
+   "views": 2738
   },
   {
    "date": "2026-09-06",
-   "views": 8247
+   "views": 3226
   },
   {
    "date": "2026-09-07",
-   "views": 6681
+   "views": 5042
   },
   {
    "date": "2026-09-08",
-   "views": 6039
+   "views": 3878
   },
   {
    "date": "2026-09-09",
-   "views": 5058
+   "views": 3673
   },
   {
    "date": "2026-09-10",
-   "views": 4944
+   "views": 3928
   },
   {
    "date": "2026-09-11",
-   "views": 6778
+   "views": 6219
   },
   {
    "date": "2026-09-12",
-   "views": 7458
+   "views": 6150
   },
   {
    "date": "2026-09-13",
-   "views": 9094
+   "views": 9580
   },
   {
    "date": "2026-09-14",
-   "views": 8264
+   "views": 7729
   },
   {
    "date": "2026-09-15",
-   "views": 6520
+   "views": 18449
   },
   {
    "date": "2026-09-16",
-   "views": 6801
+   "views": 29642
   },
   {
    "date": "2026-09-17",
-   "views": 7164
+   "views": 17335
   },
   {
    "date": "2026-09-18",
-   "views": 8036
+   "views": 13555
   },
   {
    "date": "2026-09-19",
-   "views": 9545
+   "views": 13042
   },
   {
    "date": "2026-09-20",
-   "views": 7895
+   "views": 12116
   },
   {
    "date": "2026-09-21",
-   "views": 6965
+   "views": 11689
   },
   {
    "date": "2026-09-22",
-   "views": 5827
+   "views": 11258
   },
   {
    "date": "2026-09-23",
-   "views": 7527
+   "views": 11431
   },
   {
    "date": "2026-09-24",
-   "views": 9658
+   "views": 11221
   },
   {
    "date": "2026-09-25",
-   "views": 16874
+   "views": 11091
   },
   {
    "date": "2026-09-26",
-   "views": 13152
+   "views": 11009
   },
   {
    "date": "2026-09-27",
-   "views": 11001
+   "views": 12416
   },
   {
    "date": "2026-09-28",
-   "views": 8246
+   "views": 15260
   },
   {
    "date": "2026-09-29",
-   "views": 7485
+   "views": 13479
   },
   {
    "date": "2026-09-30",
-   "views": 7070
+   "views": 16095
   },
   {
    "date": "2026-10-01",
-   "views": 6357
+   "views": 17911
   },
   {
    "date": "2026-10-02",
-   "views": 29303
+   "views": 19461
   },
   {
    "date": "2026-10-03",
-   "views": 37611
+   "views": 17693
   },
   {
    "date": "2026-10-04",
-   "views": 26049
+   "views": 22452
   },
   {
    "date": "2026-10-05",
-   "views": 45747
+   "views": 25554
   },
   {
    "date": "2026-10-06",
-   "views": 71709
+   "views": 27522
   },
   {
    "date": "2026-10-07",
-   "views": 60203
+   "views": 35094
   },
   {
    "date": "2026-10-08",
-   "views": 41639
+   "views": 74408
   }
  ],
- "wikipedia_title": "Michael_Douglas",
+ "wikipedia_title": "Other_Mommy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
  "data_through": "2026-10-08",

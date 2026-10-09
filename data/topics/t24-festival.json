@@ -1,198 +1,197 @@
 {
- "title": "Lionel Messi",
- "slug": "lionel-messi",
- "score": 37,
+ "title": "T24 Festival",
+ "slug": "t24-festival",
+ "score": 33,
  "status": "Breaking out",
- "change_percent": 232,
- "growth_ratio": 3.32,
- "recent_avg": 57674,
- "baseline_avg": 17375,
- "explanation": "Attention is 3.3\u00d7 its 30-day baseline.",
+ "change_percent": 1385000,
+ "growth_ratio": 277.02,
+ "recent_avg": 27702,
+ "baseline_avg": 2,
+ "explanation": "Attention is 277\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 40299,
- "latest": 119657,
+ "abs_change": 27700,
+ "latest": 83103,
  "components": {
-  "acceleration": 0.307,
-  "anomaly": 0.766,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.88,
-  "spike_quality": 0.802
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.721,
+  "spike_quality": 0.5
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 57,674 views/day over the last 3 days (30-day baseline: 17,375)."
+  "Averaging 27,702 views/day over the last 3 days (30-day baseline: 2)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 11300
-  },
-  {
    "date": "2026-08-30",
-   "views": 43710
+   "views": 1
   },
   {
    "date": "2026-08-31",
-   "views": 86893
+   "views": 1
   },
   {
    "date": "2026-09-01",
-   "views": 58332
+   "views": 5
   },
   {
    "date": "2026-09-02",
-   "views": 26199
+   "views": 1
   },
   {
    "date": "2026-09-03",
-   "views": 22695
+   "views": 1
   },
   {
    "date": "2026-09-04",
-   "views": 18228
+   "views": 5
   },
   {
    "date": "2026-09-05",
-   "views": 16642
+   "views": 0
   },
   {
    "date": "2026-09-06",
-   "views": 17641
+   "views": 0
   },
   {
    "date": "2026-09-07",
-   "views": 13983
+   "views": 4
   },
   {
    "date": "2026-09-08",
-   "views": 15830
+   "views": 1
   },
   {
    "date": "2026-09-09",
-   "views": 19198
+   "views": 2
   },
   {
    "date": "2026-09-10",
-   "views": 18286
+   "views": 0
   },
   {
    "date": "2026-09-11",
-   "views": 13736
+   "views": 0
   },
   {
    "date": "2026-09-12",
-   "views": 12763
+   "views": 4
   },
   {
    "date": "2026-09-13",
-   "views": 18142
+   "views": 1
   },
   {
    "date": "2026-09-14",
-   "views": 13935
+   "views": 2
   },
   {
    "date": "2026-09-15",
-   "views": 15369
+   "views": 2
   },
   {
    "date": "2026-09-16",
-   "views": 18393
+   "views": 1
   },
   {
    "date": "2026-09-17",
-   "views": 42388
+   "views": 1
   },
   {
    "date": "2026-09-18",
-   "views": 19071
+   "views": 1
   },
   {
    "date": "2026-09-19",
-   "views": 15082
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 14716
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 20175
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 15470
+   "views": 3
   },
   {
    "date": "2026-09-23",
-   "views": 15690
+   "views": 2
   },
   {
    "date": "2026-09-24",
-   "views": 16118
+   "views": 6
   },
   {
    "date": "2026-09-25",
-   "views": 14982
+   "views": 1
   },
   {
    "date": "2026-09-26",
-   "views": 12733
+   "views": 1
   },
   {
    "date": "2026-09-27",
-   "views": 13822
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 21515
+   "views": 1
   },
   {
    "date": "2026-09-29",
-   "views": 15023
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 15646
+   "views": 1
   },
   {
    "date": "2026-10-01",
-   "views": 23097
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 18797
+   "views": 3
   },
   {
    "date": "2026-10-03",
-   "views": 16020
+   "views": 8
   },
   {
    "date": "2026-10-04",
-   "views": 16998
+   "views": 1
   },
   {
    "date": "2026-10-05",
-   "views": 17286
+   "views": 1
   },
   {
    "date": "2026-10-06",
-   "views": 36078
+   "views": 2
   },
   {
    "date": "2026-10-07",
-   "views": 119657
+   "views": 1
+  },
+  {
+   "date": "2026-10-08",
+   "views": 83103
   }
  ],
- "wikipedia_title": "Lionel_Messi",
+ "wikipedia_title": "T24_Festival",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

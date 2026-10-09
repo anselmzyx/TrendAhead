@@ -1,197 +1,198 @@
 {
- "title": "Jeffrey Hayden",
- "slug": "jeffrey-hayden",
- "score": 50,
+ "title": "Shooting of Abby Zwerner",
+ "slug": "shooting-of-abby-zwerner",
+ "score": 53,
  "status": "Breaking out",
- "change_percent": 12428,
- "growth_ratio": 125.3,
- "recent_avg": 26183,
- "baseline_avg": 209,
- "explanation": "Attention is 125\u00d7 its 30-day baseline.",
+ "change_percent": 42509,
+ "growth_ratio": 417.57,
+ "recent_avg": 41757,
+ "baseline_avg": 98,
+ "explanation": "Attention is 418\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25974,
- "latest": 60287,
+ "abs_change": 41659,
+ "latest": 82298,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 0.933,
-  "volume": 0.709,
-  "spike_quality": 0.641
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.81,
+  "spike_quality": 0.701
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 26,183 views/day over the last 3 days (30-day baseline: 209)."
+  "Averaging 41,757 views/day over the last 3 days (30-day baseline: 98)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 466
-  },
-  {
    "date": "2026-08-30",
-   "views": 432
+   "views": 61
   },
   {
    "date": "2026-08-31",
-   "views": 438
+   "views": 69
   },
   {
    "date": "2026-09-01",
-   "views": 262
+   "views": 110
   },
   {
    "date": "2026-09-02",
-   "views": 236
-  },
-  {
-   "date": "2026-09-03",
-   "views": 216
-  },
-  {
-   "date": "2026-09-04",
-   "views": 243
-  },
-  {
-   "date": "2026-09-05",
-   "views": 303
-  },
-  {
-   "date": "2026-09-06",
-   "views": 253
-  },
-  {
-   "date": "2026-09-07",
-   "views": 216
-  },
-  {
-   "date": "2026-09-08",
-   "views": 236
-  },
-  {
-   "date": "2026-09-09",
-   "views": 173
-  },
-  {
-   "date": "2026-09-10",
-   "views": 194
-  },
-  {
-   "date": "2026-09-11",
-   "views": 167
-  },
-  {
-   "date": "2026-09-12",
-   "views": 196
-  },
-  {
-   "date": "2026-09-13",
-   "views": 245
-  },
-  {
-   "date": "2026-09-14",
-   "views": 167
-  },
-  {
-   "date": "2026-09-15",
-   "views": 153
-  },
-  {
-   "date": "2026-09-16",
-   "views": 156
-  },
-  {
-   "date": "2026-09-17",
-   "views": 171
-  },
-  {
-   "date": "2026-09-18",
-   "views": 167
-  },
-  {
-   "date": "2026-09-19",
    "views": 242
   },
   {
+   "date": "2026-09-03",
+   "views": 226
+  },
+  {
+   "date": "2026-09-04",
+   "views": 145
+  },
+  {
+   "date": "2026-09-05",
+   "views": 241
+  },
+  {
+   "date": "2026-09-06",
+   "views": 230
+  },
+  {
+   "date": "2026-09-07",
+   "views": 168
+  },
+  {
+   "date": "2026-09-08",
+   "views": 94
+  },
+  {
+   "date": "2026-09-09",
+   "views": 102
+  },
+  {
+   "date": "2026-09-10",
+   "views": 89
+  },
+  {
+   "date": "2026-09-11",
+   "views": 92
+  },
+  {
+   "date": "2026-09-12",
+   "views": 104
+  },
+  {
+   "date": "2026-09-13",
+   "views": 76
+  },
+  {
+   "date": "2026-09-14",
+   "views": 80
+  },
+  {
+   "date": "2026-09-15",
+   "views": 62
+  },
+  {
+   "date": "2026-09-16",
+   "views": 66
+  },
+  {
+   "date": "2026-09-17",
+   "views": 93
+  },
+  {
+   "date": "2026-09-18",
+   "views": 47
+  },
+  {
+   "date": "2026-09-19",
+   "views": 72
+  },
+  {
    "date": "2026-09-20",
-   "views": 271
+   "views": 69
   },
   {
    "date": "2026-09-21",
-   "views": 196
+   "views": 80
   },
   {
    "date": "2026-09-22",
-   "views": 179
+   "views": 75
   },
   {
    "date": "2026-09-23",
-   "views": 192
+   "views": 67
   },
   {
    "date": "2026-09-24",
-   "views": 256
+   "views": 104
   },
   {
    "date": "2026-09-25",
-   "views": 210
+   "views": 92
   },
   {
    "date": "2026-09-26",
-   "views": 253
+   "views": 52
   },
   {
    "date": "2026-09-27",
-   "views": 219
+   "views": 70
   },
   {
    "date": "2026-09-28",
-   "views": 165
+   "views": 173
   },
   {
    "date": "2026-09-29",
-   "views": 151
-  },
-  {
-   "date": "2026-09-30",
-   "views": 143
-  },
-  {
-   "date": "2026-10-01",
    "views": 189
   },
   {
+   "date": "2026-09-30",
+   "views": 105
+  },
+  {
+   "date": "2026-10-01",
+   "views": 105
+  },
+  {
    "date": "2026-10-02",
-   "views": 176
+   "views": 155
   },
   {
    "date": "2026-10-03",
-   "views": 270
+   "views": 75
   },
   {
    "date": "2026-10-04",
-   "views": 360
+   "views": 66
   },
   {
    "date": "2026-10-05",
-   "views": 221
+   "views": 91
   },
   {
    "date": "2026-10-06",
-   "views": 18041
+   "views": 131
   },
   {
    "date": "2026-10-07",
-   "views": 60287
+   "views": 42841
+  },
+  {
+   "date": "2026-10-08",
+   "views": 82298
   }
  ],
- "wikipedia_title": "Jeffrey_Hayden",
+ "wikipedia_title": "Shooting_of_Abby_Zwerner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

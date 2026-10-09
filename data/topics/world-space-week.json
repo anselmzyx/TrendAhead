@@ -1,198 +1,198 @@
 {
- "title": "2026 Quebec general election",
- "slug": "2026-quebec-general-election",
- "score": 25,
- "status": "Peaked / fading",
- "change_percent": 1579,
- "growth_ratio": 16.79,
- "recent_avg": 74514,
- "baseline_avg": 4438,
- "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "World Space Week",
+ "slug": "world-space-week",
+ "score": 61,
+ "status": "Breaking out",
+ "change_percent": 37791,
+ "growth_ratio": 379.13,
+ "recent_avg": 42438,
+ "baseline_avg": 112,
+ "explanation": "Attention is 379\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 70076,
- "latest": 30434,
+ "abs_change": 42326,
+ "latest": 80892,
  "components": {
-  "acceleration": 0.721,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.319,
-  "volume": 0.936,
-  "spike_quality": 0.344
+  "persistence": 0.84,
+  "momentum": 0.867,
+  "volume": 0.814,
+  "spike_quality": 0.719
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 74,514 views/day over the last 3 days (30-day baseline: 4,438)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 42,438 views/day over the last 3 days (30-day baseline: 112)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 2953
-  },
-  {
    "date": "2026-08-30",
-   "views": 2542
+   "views": 11
   },
   {
    "date": "2026-08-31",
-   "views": 2993
+   "views": 17
   },
   {
    "date": "2026-09-01",
-   "views": 3740
+   "views": 12
   },
   {
    "date": "2026-09-02",
-   "views": 2765
+   "views": 24
   },
   {
    "date": "2026-09-03",
-   "views": 2838
+   "views": 23
   },
   {
    "date": "2026-09-04",
-   "views": 2370
+   "views": 16
   },
   {
    "date": "2026-09-05",
-   "views": 2335
+   "views": 13
   },
   {
    "date": "2026-09-06",
-   "views": 2144
+   "views": 13
   },
   {
    "date": "2026-09-07",
-   "views": 2415
+   "views": 28
   },
   {
    "date": "2026-09-08",
-   "views": 2781
+   "views": 17
   },
   {
    "date": "2026-09-09",
-   "views": 2398
+   "views": 17
   },
   {
    "date": "2026-09-10",
-   "views": 2268
+   "views": 15
   },
   {
    "date": "2026-09-11",
-   "views": 2024
+   "views": 15
   },
   {
    "date": "2026-09-12",
-   "views": 1700
+   "views": 11
   },
   {
    "date": "2026-09-13",
-   "views": 1949
+   "views": 16
   },
   {
    "date": "2026-09-14",
-   "views": 2709
+   "views": 14
   },
   {
    "date": "2026-09-15",
-   "views": 2799
+   "views": 24
   },
   {
    "date": "2026-09-16",
-   "views": 3087
+   "views": 19
   },
   {
    "date": "2026-09-17",
-   "views": 2934
+   "views": 26
   },
   {
    "date": "2026-09-18",
-   "views": 2528
+   "views": 28
   },
   {
    "date": "2026-09-19",
-   "views": 2246
+   "views": 19
   },
   {
    "date": "2026-09-20",
-   "views": 2691
+   "views": 23
   },
   {
    "date": "2026-09-21",
-   "views": 3797
+   "views": 74
   },
   {
    "date": "2026-09-22",
-   "views": 3898
+   "views": 62
   },
   {
    "date": "2026-09-23",
-   "views": 4196
+   "views": 75
   },
   {
    "date": "2026-09-24",
-   "views": 4461
+   "views": 63
   },
   {
    "date": "2026-09-25",
-   "views": 4306
+   "views": 58
   },
   {
    "date": "2026-09-26",
-   "views": 3907
+   "views": 37
   },
   {
    "date": "2026-09-27",
-   "views": 4560
+   "views": 37
   },
   {
    "date": "2026-09-28",
-   "views": 7798
+   "views": 88
   },
   {
    "date": "2026-09-29",
-   "views": 8283
+   "views": 82
   },
   {
    "date": "2026-09-30",
-   "views": 7377
+   "views": 119
   },
   {
    "date": "2026-10-01",
-   "views": 7737
+   "views": 113
   },
   {
    "date": "2026-10-02",
-   "views": 9056
+   "views": 128
   },
   {
    "date": "2026-10-03",
-   "views": 10091
+   "views": 252
   },
   {
    "date": "2026-10-04",
-   "views": 14657
+   "views": 1194
   },
   {
    "date": "2026-10-05",
-   "views": 39301
+   "views": 691
   },
   {
    "date": "2026-10-06",
-   "views": 153808
+   "views": 35163
   },
   {
    "date": "2026-10-07",
-   "views": 30434
+   "views": 11258
+  },
+  {
+   "date": "2026-10-08",
+   "views": 80892
   }
  ],
- "wikipedia_title": "2026_Quebec_general_election",
+ "wikipedia_title": "World_Space_Week",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

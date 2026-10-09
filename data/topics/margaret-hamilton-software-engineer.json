@@ -1,196 +1,197 @@
 {
- "title": "Freddie Jackson",
- "slug": "freddie-jackson",
- "score": 37,
- "status": "Elevated",
- "change_percent": 34532,
- "growth_ratio": 345.8,
- "recent_avg": 92813,
- "baseline_avg": 268,
- "explanation": "Attention is 346\u00d7 its 30-day baseline.",
+ "title": "Margaret Hamilton (software engineer)",
+ "slug": "margaret-hamilton-software-engineer",
+ "score": 44,
+ "status": "Breaking out",
+ "change_percent": 9131,
+ "growth_ratio": 92.31,
+ "recent_avg": 56307,
+ "baseline_avg": 610,
+ "explanation": "Attention is 92\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 92545,
- "latest": 110335,
+ "abs_change": 55697,
+ "latest": 162739,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.528,
-  "volume": 0.984,
-  "spike_quality": 0.562
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.875,
+  "spike_quality": 0.53
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 92,813 views/day over the last 3 days (30-day baseline: 268)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 56,307 views/day over the last 3 days (30-day baseline: 610)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 266
-  },
-  {
    "date": "2026-08-30",
-   "views": 263
+   "views": 530
   },
   {
    "date": "2026-08-31",
-   "views": 187
+   "views": 604
   },
   {
    "date": "2026-09-01",
-   "views": 170
+   "views": 522
   },
   {
    "date": "2026-09-02",
-   "views": 201
+   "views": 586
   },
   {
    "date": "2026-09-03",
-   "views": 193
+   "views": 492
   },
   {
    "date": "2026-09-04",
-   "views": 227
+   "views": 453
   },
   {
    "date": "2026-09-05",
-   "views": 220
+   "views": 388
   },
   {
    "date": "2026-09-06",
-   "views": 256
+   "views": 479
   },
   {
    "date": "2026-09-07",
-   "views": 253
+   "views": 535
   },
   {
    "date": "2026-09-08",
-   "views": 215
+   "views": 551
   },
   {
    "date": "2026-09-09",
-   "views": 363
+   "views": 519
   },
   {
    "date": "2026-09-10",
-   "views": 221
+   "views": 527
   },
   {
    "date": "2026-09-11",
-   "views": 256
+   "views": 753
   },
   {
    "date": "2026-09-12",
-   "views": 217
+   "views": 456
   },
   {
    "date": "2026-09-13",
-   "views": 200
+   "views": 942
   },
   {
    "date": "2026-09-14",
-   "views": 176
+   "views": 642
   },
   {
    "date": "2026-09-15",
-   "views": 182
+   "views": 840
   },
   {
    "date": "2026-09-16",
-   "views": 182
+   "views": 575
   },
   {
    "date": "2026-09-17",
-   "views": 217
+   "views": 607
   },
   {
    "date": "2026-09-18",
-   "views": 218
+   "views": 526
   },
   {
    "date": "2026-09-19",
-   "views": 258
+   "views": 461
   },
   {
    "date": "2026-09-20",
-   "views": 232
+   "views": 532
   },
   {
    "date": "2026-09-21",
-   "views": 316
+   "views": 526
   },
   {
    "date": "2026-09-22",
-   "views": 516
+   "views": 778
   },
   {
    "date": "2026-09-23",
-   "views": 262
+   "views": 787
   },
   {
    "date": "2026-09-24",
-   "views": 233
+   "views": 861
   },
   {
    "date": "2026-09-25",
-   "views": 231
+   "views": 597
   },
   {
    "date": "2026-09-26",
-   "views": 254
+   "views": 385
   },
   {
    "date": "2026-09-27",
-   "views": 250
+   "views": 575
   },
   {
    "date": "2026-09-28",
-   "views": 214
+   "views": 521
   },
   {
    "date": "2026-09-29",
-   "views": 225
+   "views": 568
   },
   {
    "date": "2026-09-30",
-   "views": 221
+   "views": 545
   },
   {
    "date": "2026-10-01",
-   "views": 337
+   "views": 682
   },
   {
    "date": "2026-10-02",
-   "views": 582
+   "views": 581
   },
   {
    "date": "2026-10-03",
-   "views": 495
+   "views": 650
   },
   {
    "date": "2026-10-04",
-   "views": 250
+   "views": 688
   },
   {
    "date": "2026-10-05",
-   "views": 180
+   "views": 610
   },
   {
    "date": "2026-10-06",
-   "views": 167925
+   "views": 584
   },
   {
    "date": "2026-10-07",
-   "views": 110335
+   "views": 5597
+  },
+  {
+   "date": "2026-10-08",
+   "views": 162739
   }
  ],
- "wikipedia_title": "Freddie_Jackson",
+ "wikipedia_title": "Margaret_Hamilton_(software_engineer)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

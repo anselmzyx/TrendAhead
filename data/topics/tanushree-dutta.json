@@ -1,198 +1,197 @@
 {
- "title": "Steve Gleason",
- "slug": "steve-gleason",
- "score": 25,
- "status": "Peaked / fading",
- "change_percent": 5255,
- "growth_ratio": 53.55,
- "recent_avg": 229261,
- "baseline_avg": 4281,
- "explanation": "Attention surged to 54\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Tanushree Dutta",
+ "slug": "tanushree-dutta",
+ "score": 53,
+ "status": "Breaking out",
+ "change_percent": 1994,
+ "growth_ratio": 20.94,
+ "recent_avg": 35728,
+ "baseline_avg": 1706,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 224980,
- "latest": 107839,
+ "abs_change": 34022,
+ "latest": 93134,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.778,
   "anomaly": 1.0,
   "persistence": 0.84,
-  "momentum": 0.325,
-  "volume": 1.0,
-  "spike_quality": 0.271
+  "momentum": 0.867,
+  "volume": 0.777,
+  "spike_quality": 0.676
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 229,261 views/day over the last 3 days (30-day baseline: 4,281)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 35,728 views/day over the last 3 days (30-day baseline: 1,706)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 3988
-  },
-  {
    "date": "2026-08-30",
-   "views": 4667
+   "views": 850
   },
   {
    "date": "2026-08-31",
-   "views": 3102
+   "views": 935
   },
   {
    "date": "2026-09-01",
-   "views": 2078
+   "views": 1323
   },
   {
    "date": "2026-09-02",
-   "views": 1806
+   "views": 898
   },
   {
    "date": "2026-09-03",
-   "views": 1655
+   "views": 913
   },
   {
    "date": "2026-09-04",
-   "views": 1664
+   "views": 893
   },
   {
    "date": "2026-09-05",
-   "views": 2109
+   "views": 1718
   },
   {
    "date": "2026-09-06",
-   "views": 1660
+   "views": 1197
   },
   {
    "date": "2026-09-07",
-   "views": 1343
+   "views": 917
   },
   {
    "date": "2026-09-08",
-   "views": 1295
+   "views": 1182
   },
   {
    "date": "2026-09-09",
-   "views": 1320
+   "views": 1286
   },
   {
    "date": "2026-09-10",
-   "views": 1442
+   "views": 920
   },
   {
    "date": "2026-09-11",
-   "views": 1754
+   "views": 1100
   },
   {
    "date": "2026-09-12",
-   "views": 1758
+   "views": 1176
   },
   {
    "date": "2026-09-13",
-   "views": 2393
+   "views": 1170
   },
   {
    "date": "2026-09-14",
-   "views": 2385
+   "views": 912
   },
   {
    "date": "2026-09-15",
-   "views": 1934
+   "views": 825
   },
   {
    "date": "2026-09-16",
-   "views": 4530
+   "views": 718
   },
   {
    "date": "2026-09-17",
-   "views": 5915
+   "views": 765
   },
   {
    "date": "2026-09-18",
-   "views": 4151
+   "views": 727
   },
   {
    "date": "2026-09-19",
-   "views": 2893
+   "views": 778
   },
   {
    "date": "2026-09-20",
-   "views": 2801
+   "views": 800
   },
   {
    "date": "2026-09-21",
-   "views": 1300
+   "views": 624
   },
   {
    "date": "2026-09-22",
-   "views": 1044
+   "views": 621
   },
   {
    "date": "2026-09-23",
-   "views": 3498
+   "views": 711
   },
   {
    "date": "2026-09-24",
-   "views": 2965
+   "views": 662
   },
   {
    "date": "2026-09-25",
-   "views": 8118
+   "views": 676
   },
   {
    "date": "2026-09-26",
-   "views": 19592
+   "views": 1039
   },
   {
    "date": "2026-09-27",
-   "views": 6227
+   "views": 1386
   },
   {
    "date": "2026-09-28",
-   "views": 3610
+   "views": 1070
   },
   {
    "date": "2026-09-29",
-   "views": 5532
+   "views": 1203
   },
   {
    "date": "2026-09-30",
-   "views": 2572
+   "views": 1101
   },
   {
    "date": "2026-10-01",
-   "views": 6671
+   "views": 1443
   },
   {
    "date": "2026-10-02",
-   "views": 7516
+   "views": 3769
   },
   {
    "date": "2026-10-03",
-   "views": 10181
+   "views": 7275
   },
   {
    "date": "2026-10-04",
-   "views": 9924
+   "views": 8247
   },
   {
    "date": "2026-10-05",
-   "views": 64171
+   "views": 6883
   },
   {
    "date": "2026-10-06",
-   "views": 515772
+   "views": 7172
   },
   {
    "date": "2026-10-07",
-   "views": 107839
+   "views": 6877
+  },
+  {
+   "date": "2026-10-08",
+   "views": 93134
   }
  ],
- "wikipedia_title": "Steve_Gleason",
+ "wikipedia_title": "Tanushree_Dutta",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

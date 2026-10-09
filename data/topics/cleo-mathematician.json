@@ -1,197 +1,197 @@
 {
- "title": "Neha Bora",
- "slug": "neha-bora",
- "score": 33,
+ "title": "Cleo (mathematician)",
+ "slug": "cleo-mathematician",
+ "score": 50,
  "status": "Elevated",
- "change_percent": 672,
- "growth_ratio": 7.72,
- "recent_avg": 36509,
- "baseline_avg": 4729,
- "explanation": "Attention is 7.7\u00d7 its 30-day baseline.",
+ "change_percent": 57369,
+ "growth_ratio": 482.74,
+ "recent_avg": 48274,
+ "baseline_avg": 84,
+ "explanation": "Attention is 483\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 31780,
- "latest": 31095,
+ "abs_change": 48190,
+ "latest": 62978,
  "components": {
-  "acceleration": 0.522,
-  "anomaly": 0.433,
-  "persistence": 0.84,
-  "momentum": 0.493,
-  "volume": 0.781,
-  "spike_quality": 0.802
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.773,
+  "volume": 0.842,
+  "spike_quality": 0.705
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 36,509 views/day over the last 3 days (30-day baseline: 4,729)."
+  "Averaging 48,274 views/day over the last 3 days (30-day baseline: 84)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 1951
-  },
-  {
    "date": "2026-08-30",
-   "views": 1422
+   "views": 34
   },
   {
    "date": "2026-08-31",
-   "views": 1097
+   "views": 137
   },
   {
    "date": "2026-09-01",
-   "views": 1173
+   "views": 70
   },
   {
    "date": "2026-09-02",
-   "views": 1030
+   "views": 57
   },
   {
    "date": "2026-09-03",
-   "views": 990
+   "views": 58
   },
   {
    "date": "2026-09-04",
-   "views": 1063
+   "views": 83
   },
   {
    "date": "2026-09-05",
-   "views": 911
+   "views": 68
   },
   {
    "date": "2026-09-06",
-   "views": 1474
+   "views": 75
   },
   {
    "date": "2026-09-07",
-   "views": 1509
+   "views": 68
   },
   {
    "date": "2026-09-08",
-   "views": 1060
+   "views": 62
   },
   {
    "date": "2026-09-09",
-   "views": 1012
+   "views": 138
   },
   {
    "date": "2026-09-10",
-   "views": 1453
+   "views": 64
   },
   {
    "date": "2026-09-11",
-   "views": 1356
+   "views": 48
   },
   {
    "date": "2026-09-12",
-   "views": 1047
+   "views": 86
   },
   {
    "date": "2026-09-13",
-   "views": 1249
+   "views": 76
   },
   {
    "date": "2026-09-14",
-   "views": 1712
+   "views": 83
   },
   {
    "date": "2026-09-15",
-   "views": 5112
+   "views": 70
   },
   {
    "date": "2026-09-16",
-   "views": 7552
+   "views": 92
   },
   {
    "date": "2026-09-17",
-   "views": 5798
+   "views": 65
   },
   {
    "date": "2026-09-18",
-   "views": 4046
+   "views": 56
   },
   {
    "date": "2026-09-19",
-   "views": 3515
+   "views": 58
   },
   {
    "date": "2026-09-20",
-   "views": 2487
+   "views": 65
   },
   {
    "date": "2026-09-21",
-   "views": 1631
+   "views": 57
   },
   {
    "date": "2026-09-22",
-   "views": 1239
+   "views": 48
   },
   {
    "date": "2026-09-23",
-   "views": 925
+   "views": 81
   },
   {
    "date": "2026-09-24",
-   "views": 836
+   "views": 95
   },
   {
    "date": "2026-09-25",
-   "views": 3457
+   "views": 105
   },
   {
    "date": "2026-09-26",
-   "views": 5150
+   "views": 59
   },
   {
    "date": "2026-09-27",
-   "views": 2980
+   "views": 66
   },
   {
    "date": "2026-09-28",
-   "views": 2472
+   "views": 56
   },
   {
    "date": "2026-09-29",
-   "views": 2359
+   "views": 84
   },
   {
    "date": "2026-09-30",
-   "views": 2444
+   "views": 103
   },
   {
    "date": "2026-10-01",
-   "views": 4674
+   "views": 239
   },
   {
    "date": "2026-10-02",
-   "views": 12382
+   "views": 158
   },
   {
    "date": "2026-10-03",
-   "views": 24120
+   "views": 107
   },
   {
    "date": "2026-10-04",
-   "views": 35902
+   "views": 73
   },
   {
    "date": "2026-10-05",
-   "views": 43738
+   "views": 76
   },
   {
    "date": "2026-10-06",
-   "views": 34695
+   "views": 74695
   },
   {
    "date": "2026-10-07",
-   "views": 31095
+   "views": 7149
+  },
+  {
+   "date": "2026-10-08",
+   "views": 62978
   }
  ],
- "wikipedia_title": "Neha_Bora",
+ "wikipedia_title": "Cleo_(mathematician)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

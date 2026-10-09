@@ -1,197 +1,197 @@
 {
- "title": "Henri B. Kagan",
- "slug": "henri-b-kagan",
- "score": 35,
+ "title": "Kimberly Guilfoyle",
+ "slug": "kimberly-guilfoyle",
+ "score": 34,
  "status": "Breaking out",
- "change_percent": 416700,
- "growth_ratio": 208.4,
- "recent_avg": 20840,
- "baseline_avg": 5,
- "explanation": "Attention is 208\u00d7 its 30-day baseline.",
+ "change_percent": 621,
+ "growth_ratio": 7.21,
+ "recent_avg": 38491,
+ "baseline_avg": 5336,
+ "explanation": "Attention is 7.2\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 20835,
- "latest": 62494,
+ "abs_change": 33155,
+ "latest": 103437,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 1.0,
-  "volume": 0.659,
-  "spike_quality": 0.5
+  "acceleration": 0.505,
+  "anomaly": 0.861,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.793,
+  "spike_quality": 0.624
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 20,840 views/day over the last 3 days (30-day baseline: 5)."
+  "Averaging 38,491 views/day over the last 3 days (30-day baseline: 5,336)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 7
-  },
-  {
    "date": "2026-08-30",
-   "views": 5
+   "views": 1569
   },
   {
    "date": "2026-08-31",
-   "views": 4
+   "views": 1359
   },
   {
    "date": "2026-09-01",
-   "views": 5
+   "views": 1333
   },
   {
    "date": "2026-09-02",
-   "views": 4
+   "views": 3993
   },
   {
    "date": "2026-09-03",
-   "views": 6
+   "views": 3227
   },
   {
    "date": "2026-09-04",
-   "views": 7
+   "views": 2551
   },
   {
    "date": "2026-09-05",
-   "views": 7
+   "views": 2345
   },
   {
    "date": "2026-09-06",
-   "views": 5
+   "views": 2303
   },
   {
    "date": "2026-09-07",
-   "views": 3
+   "views": 2858
   },
   {
    "date": "2026-09-08",
-   "views": 5
+   "views": 3516
   },
   {
    "date": "2026-09-09",
-   "views": 5
+   "views": 2019
   },
   {
    "date": "2026-09-10",
-   "views": 5
+   "views": 2376
   },
   {
    "date": "2026-09-11",
-   "views": 8
+   "views": 3703
   },
   {
    "date": "2026-09-12",
-   "views": 1
+   "views": 3547
   },
   {
    "date": "2026-09-13",
-   "views": 1
+   "views": 2273
   },
   {
    "date": "2026-09-14",
-   "views": 7
+   "views": 9675
   },
   {
    "date": "2026-09-15",
-   "views": 4
+   "views": 16013
   },
   {
    "date": "2026-09-16",
-   "views": 5
+   "views": 6837
   },
   {
    "date": "2026-09-17",
-   "views": 6
+   "views": 4253
   },
   {
    "date": "2026-09-18",
-   "views": 3
+   "views": 3086
   },
   {
    "date": "2026-09-19",
-   "views": 2
+   "views": 4498
   },
   {
    "date": "2026-09-20",
-   "views": 3
+   "views": 3486
   },
   {
    "date": "2026-09-21",
-   "views": 6
+   "views": 2682
   },
   {
    "date": "2026-09-22",
-   "views": 6
+   "views": 3212
   },
   {
    "date": "2026-09-23",
-   "views": 5
+   "views": 3124
   },
   {
    "date": "2026-09-24",
-   "views": 4
+   "views": 2493
   },
   {
    "date": "2026-09-25",
-   "views": 10
+   "views": 2399
   },
   {
    "date": "2026-09-26",
-   "views": 7
+   "views": 8876
   },
   {
    "date": "2026-09-27",
-   "views": 1
+   "views": 12324
   },
   {
    "date": "2026-09-28",
-   "views": 9
+   "views": 15488
   },
   {
    "date": "2026-09-29",
-   "views": 6
+   "views": 11423
   },
   {
    "date": "2026-09-30",
-   "views": 9
+   "views": 6235
   },
   {
    "date": "2026-10-01",
-   "views": 7
+   "views": 5475
   },
   {
    "date": "2026-10-02",
-   "views": 10
+   "views": 5263
   },
   {
    "date": "2026-10-03",
-   "views": 7
+   "views": 3975
   },
   {
    "date": "2026-10-04",
-   "views": 2
+   "views": 3458
   },
   {
    "date": "2026-10-05",
-   "views": 11
+   "views": 3222
   },
   {
    "date": "2026-10-06",
-   "views": 16
+   "views": 2679
   },
   {
    "date": "2026-10-07",
-   "views": 62494
+   "views": 9358
+  },
+  {
+   "date": "2026-10-08",
+   "views": 103437
   }
  ],
- "wikipedia_title": "Henri_B._Kagan",
+ "wikipedia_title": "Kimberly_Guilfoyle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

@@ -1,197 +1,196 @@
 {
- "title": "Karl Deisseroth",
- "slug": "karl-deisseroth",
- "score": 35,
- "status": "Peaked / fading",
- "change_percent": 132507,
- "growth_ratio": 981.29,
- "recent_avg": 98129,
- "baseline_avg": 74,
- "explanation": "Attention surged to 981\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Iraq",
+ "slug": "iraq",
+ "score": 30,
+ "status": "Breaking out",
+ "change_percent": 967,
+ "growth_ratio": 10.67,
+ "recent_avg": 41962,
+ "baseline_avg": 3932,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 98055,
- "latest": 52273,
+ "abs_change": 38030,
+ "latest": 119250,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.605,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.441,
-  "volume": 0.996,
-  "spike_quality": 0.527
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.811,
+  "spike_quality": 0.591
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 98,129 views/day over the last 3 days (30-day baseline: 74)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 41,962 views/day over the last 3 days (30-day baseline: 3,932)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 55
-  },
-  {
    "date": "2026-08-30",
-   "views": 71
+   "views": 3356
   },
   {
    "date": "2026-08-31",
-   "views": 87
+   "views": 3609
   },
   {
    "date": "2026-09-01",
-   "views": 71
+   "views": 3502
   },
   {
    "date": "2026-09-02",
-   "views": 65
+   "views": 3528
   },
   {
    "date": "2026-09-03",
-   "views": 54
+   "views": 3377
   },
   {
    "date": "2026-09-04",
-   "views": 65
+   "views": 3387
   },
   {
    "date": "2026-09-05",
-   "views": 39
+   "views": 3074
   },
   {
    "date": "2026-09-06",
-   "views": 34
+   "views": 3153
   },
   {
    "date": "2026-09-07",
-   "views": 52
+   "views": 3046
   },
   {
    "date": "2026-09-08",
-   "views": 52
+   "views": 3300
   },
   {
    "date": "2026-09-09",
-   "views": 66
+   "views": 3463
   },
   {
    "date": "2026-09-10",
-   "views": 53
+   "views": 3343
   },
   {
    "date": "2026-09-11",
-   "views": 47
+   "views": 4267
   },
   {
    "date": "2026-09-12",
-   "views": 29
+   "views": 4786
   },
   {
    "date": "2026-09-13",
-   "views": 36
+   "views": 4319
   },
   {
    "date": "2026-09-14",
-   "views": 43
+   "views": 4324
   },
   {
    "date": "2026-09-15",
-   "views": 67
+   "views": 3988
   },
   {
    "date": "2026-09-16",
-   "views": 69
+   "views": 4009
   },
   {
    "date": "2026-09-17",
-   "views": 106
+   "views": 3836
   },
   {
    "date": "2026-09-18",
-   "views": 77
+   "views": 3735
   },
   {
    "date": "2026-09-19",
-   "views": 66
+   "views": 3429
   },
   {
    "date": "2026-09-20",
-   "views": 84
+   "views": 3553
   },
   {
    "date": "2026-09-21",
-   "views": 91
+   "views": 3730
   },
   {
    "date": "2026-09-22",
-   "views": 133
+   "views": 3774
   },
   {
    "date": "2026-09-23",
-   "views": 96
+   "views": 3956
   },
   {
    "date": "2026-09-24",
-   "views": 112
+   "views": 3632
   },
   {
    "date": "2026-09-25",
-   "views": 89
+   "views": 3451
   },
   {
    "date": "2026-09-26",
-   "views": 79
+   "views": 3366
   },
   {
    "date": "2026-09-27",
-   "views": 89
+   "views": 3421
   },
   {
    "date": "2026-09-28",
-   "views": 65
+   "views": 3759
   },
   {
    "date": "2026-09-29",
-   "views": 107
+   "views": 4069
   },
   {
    "date": "2026-09-30",
-   "views": 130
+   "views": 7019
   },
   {
    "date": "2026-10-01",
-   "views": 87
+   "views": 5846
   },
   {
    "date": "2026-10-02",
-   "views": 61
+   "views": 4237
   },
   {
    "date": "2026-10-03",
-   "views": 71
+   "views": 3821
   },
   {
    "date": "2026-10-04",
-   "views": 92
+   "views": 3725
   },
   {
    "date": "2026-10-05",
-   "views": 112054
+   "views": 3593
   },
   {
    "date": "2026-10-06",
-   "views": 130061
+   "views": 3347
   },
   {
    "date": "2026-10-07",
-   "views": 52273
+   "views": 3290
+  },
+  {
+   "date": "2026-10-08",
+   "views": 119250
   }
  ],
- "wikipedia_title": "Karl_Deisseroth",
+ "wikipedia_title": "Iraq",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

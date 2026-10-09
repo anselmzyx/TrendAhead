@@ -1,38 +1,34 @@
 {
  "title": "Carrie (miniseries)",
  "slug": "carrie-miniseries",
- "score": 56,
- "status": "Breaking out",
- "change_percent": 609,
- "growth_ratio": 7.09,
- "recent_avg": 43966,
- "baseline_avg": 6202,
- "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
+ "score": 72,
+ "status": "Building",
+ "change_percent": 1341,
+ "growth_ratio": 14.41,
+ "recent_avg": 95755,
+ "baseline_avg": 6647,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 37764,
- "latest": 100004,
+ "abs_change": 89108,
+ "latest": 170343,
  "components": {
-  "acceleration": 0.501,
-  "anomaly": 0.929,
-  "persistence": 0.84,
+  "acceleration": 0.682,
+  "anomaly": 1.0,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.822,
-  "spike_quality": 0.767
+  "volume": 0.991,
+  "spike_quality": 0.793
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 43,966 views/day over the last 3 days (30-day baseline: 6,202)."
+  "Averaging 95,755 views/day over the last 3 days (30-day baseline: 6,647)."
  ],
  "history": [
-  {
-   "date": "2026-08-29",
-   "views": 1609
-  },
   {
    "date": "2026-08-30",
    "views": 1758
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-07",
    "views": 100004
+  },
+  {
+   "date": "2026-10-08",
+   "views": 170343
   }
  ],
  "wikipedia_title": "Carrie_(miniseries)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

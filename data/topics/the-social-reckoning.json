@@ -1,38 +1,34 @@
 {
  "title": "The Social Reckoning",
  "slug": "the-social-reckoning",
- "score": 48,
+ "score": 50,
  "status": "Building",
- "change_percent": 251,
- "growth_ratio": 3.51,
- "recent_avg": 37039,
- "baseline_avg": 10549,
- "explanation": "Attention is 3.5\u00d7 its 30-day baseline.",
+ "change_percent": 265,
+ "growth_ratio": 3.65,
+ "recent_avg": 42252,
+ "baseline_avg": 11577,
+ "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 26490,
- "latest": 46222,
+ "abs_change": 30675,
+ "latest": 50596,
  "components": {
-  "acceleration": 0.321,
-  "anomaly": 0.531,
+  "acceleration": 0.331,
+  "anomaly": 0.472,
   "persistence": 0.92,
-  "momentum": 0.867,
-  "volume": 0.784,
-  "spike_quality": 0.94
+  "momentum": 0.933,
+  "volume": 0.813,
+  "spike_quality": 0.95
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,039 views/day over the last 3 days (30-day baseline: 10,549)."
+  "Averaging 42,252 views/day over the last 3 days (30-day baseline: 11,577)."
  ],
  "history": [
-  {
-   "date": "2026-08-29",
-   "views": 8519
-  },
   {
    "date": "2026-08-30",
    "views": 7649
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-07",
    "views": 46222
+  },
+  {
+   "date": "2026-10-08",
+   "views": 50596
   }
  ],
  "wikipedia_title": "The_Social_Reckoning",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

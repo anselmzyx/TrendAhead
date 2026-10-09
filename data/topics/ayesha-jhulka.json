@@ -1,198 +1,197 @@
 {
- "title": "Robert Kelker-Kelly",
- "slug": "robert-kelker-kelly",
- "score": 24,
- "status": "Peaked / fading",
- "change_percent": 189988,
- "growth_ratio": 931.43,
- "recent_avg": 93143,
- "baseline_avg": 49,
- "explanation": "Attention surged to 931\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Ayesha Jhulka",
+ "slug": "ayesha-jhulka",
+ "score": 34,
+ "status": "Breaking out",
+ "change_percent": 4096,
+ "growth_ratio": 41.95,
+ "recent_avg": 25010,
+ "baseline_avg": 596,
+ "explanation": "Attention is 42\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 93094,
- "latest": 31434,
+ "abs_change": 24414,
+ "latest": 74053,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.955,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.216,
-  "volume": 0.985,
-  "spike_quality": 0.445
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.699,
+  "spike_quality": 0.524
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 93,143 views/day over the last 3 days (30-day baseline: 49)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,010 views/day over the last 3 days (30-day baseline: 596)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 84
-  },
-  {
    "date": "2026-08-30",
-   "views": 53
+   "views": 639
   },
   {
    "date": "2026-08-31",
-   "views": 55
+   "views": 575
   },
   {
    "date": "2026-09-01",
-   "views": 37
+   "views": 617
   },
   {
    "date": "2026-09-02",
-   "views": 40
+   "views": 566
   },
   {
    "date": "2026-09-03",
-   "views": 51
+   "views": 528
   },
   {
    "date": "2026-09-04",
-   "views": 27
+   "views": 535
   },
   {
    "date": "2026-09-05",
-   "views": 41
+   "views": 636
   },
   {
    "date": "2026-09-06",
-   "views": 41
+   "views": 685
   },
   {
    "date": "2026-09-07",
-   "views": 38
+   "views": 565
   },
   {
    "date": "2026-09-08",
-   "views": 33
+   "views": 609
   },
   {
    "date": "2026-09-09",
-   "views": 40
+   "views": 727
   },
   {
    "date": "2026-09-10",
-   "views": 35
+   "views": 651
   },
   {
    "date": "2026-09-11",
-   "views": 31
+   "views": 679
   },
   {
    "date": "2026-09-12",
-   "views": 45
+   "views": 650
   },
   {
    "date": "2026-09-13",
-   "views": 33
+   "views": 698
   },
   {
    "date": "2026-09-14",
-   "views": 30
+   "views": 564
   },
   {
    "date": "2026-09-15",
-   "views": 37
+   "views": 577
   },
   {
    "date": "2026-09-16",
-   "views": 39
+   "views": 550
   },
   {
    "date": "2026-09-17",
-   "views": 27
+   "views": 554
   },
   {
    "date": "2026-09-18",
-   "views": 41
+   "views": 553
   },
   {
    "date": "2026-09-19",
-   "views": 29
+   "views": 598
   },
   {
    "date": "2026-09-20",
-   "views": 34
+   "views": 665
   },
   {
    "date": "2026-09-21",
-   "views": 27
+   "views": 555
   },
   {
    "date": "2026-09-22",
-   "views": 43
+   "views": 600
   },
   {
    "date": "2026-09-23",
-   "views": 39
+   "views": 577
   },
   {
    "date": "2026-09-24",
-   "views": 31
+   "views": 592
   },
   {
    "date": "2026-09-25",
-   "views": 46
+   "views": 615
   },
   {
    "date": "2026-09-26",
-   "views": 37
+   "views": 636
   },
   {
    "date": "2026-09-27",
-   "views": 53
+   "views": 637
   },
   {
    "date": "2026-09-28",
-   "views": 120
+   "views": 551
   },
   {
    "date": "2026-09-29",
-   "views": 161
+   "views": 542
   },
   {
    "date": "2026-09-30",
-   "views": 71
+   "views": 505
   },
   {
    "date": "2026-10-01",
-   "views": 40
+   "views": 510
   },
   {
    "date": "2026-10-02",
-   "views": 36
+   "views": 534
   },
   {
    "date": "2026-10-03",
-   "views": 59
+   "views": 579
   },
   {
    "date": "2026-10-04",
-   "views": 146
+   "views": 576
   },
   {
    "date": "2026-10-05",
-   "views": 126211
+   "views": 550
   },
   {
    "date": "2026-10-06",
-   "views": 121783
+   "views": 487
   },
   {
    "date": "2026-10-07",
-   "views": 31434
+   "views": 490
+  },
+  {
+   "date": "2026-10-08",
+   "views": 74053
   }
  ],
- "wikipedia_title": "Robert_Kelker-Kelly",
+ "wikipedia_title": "Ayesha_Jhulka",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

@@ -1,198 +1,196 @@
 {
- "title": "Jim Bakker",
- "slug": "jim-bakker",
- "score": 29,
- "status": "Peaked / fading",
- "change_percent": 11124,
- "growth_ratio": 112.24,
- "recent_avg": 112465,
- "baseline_avg": 1002,
- "explanation": "Attention surged to 112\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Nana Patekar",
+ "slug": "nana-patekar",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 43787,
+ "growth_ratio": 438.8,
+ "recent_avg": 556043,
+ "baseline_avg": 1267,
+ "explanation": "Attention is 439\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 111463,
- "latest": 82419,
+ "abs_change": 554776,
+ "latest": 1665865,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.397,
+  "persistence": 0.2,
+  "momentum": 0.8,
   "volume": 1.0,
-  "spike_quality": 0.32
+  "spike_quality": 0.502
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 112,465 views/day over the last 3 days (30-day baseline: 1,002)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 556,043 views/day over the last 3 days (30-day baseline: 1,267)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 1013
-  },
-  {
    "date": "2026-08-30",
-   "views": 1263
+   "views": 1486
   },
   {
    "date": "2026-08-31",
-   "views": 1011
+   "views": 1355
   },
   {
    "date": "2026-09-01",
-   "views": 1066
+   "views": 1424
   },
   {
    "date": "2026-09-02",
-   "views": 1299
+   "views": 1206
   },
   {
    "date": "2026-09-03",
-   "views": 1150
+   "views": 1226
   },
   {
    "date": "2026-09-04",
-   "views": 991
+   "views": 1155
   },
   {
    "date": "2026-09-05",
-   "views": 1121
+   "views": 1425
   },
   {
    "date": "2026-09-06",
-   "views": 1123
+   "views": 1521
   },
   {
    "date": "2026-09-07",
-   "views": 1147
+   "views": 1329
   },
   {
    "date": "2026-09-08",
-   "views": 970
+   "views": 1398
   },
   {
    "date": "2026-09-09",
-   "views": 967
+   "views": 1300
   },
   {
    "date": "2026-09-10",
-   "views": 849
+   "views": 1068
   },
   {
    "date": "2026-09-11",
-   "views": 915
+   "views": 1142
   },
   {
    "date": "2026-09-12",
-   "views": 1859
+   "views": 1124
   },
   {
    "date": "2026-09-13",
-   "views": 1237
+   "views": 1185
   },
   {
    "date": "2026-09-14",
-   "views": 1125
+   "views": 1143
   },
   {
    "date": "2026-09-15",
-   "views": 930
+   "views": 1223
   },
   {
    "date": "2026-09-16",
-   "views": 864
+   "views": 1320
   },
   {
    "date": "2026-09-17",
-   "views": 850
+   "views": 1310
   },
   {
    "date": "2026-09-18",
-   "views": 860
+   "views": 1128
   },
   {
    "date": "2026-09-19",
-   "views": 812
+   "views": 1220
   },
   {
    "date": "2026-09-20",
-   "views": 981
+   "views": 1345
   },
   {
    "date": "2026-09-21",
-   "views": 877
+   "views": 1188
   },
   {
    "date": "2026-09-22",
-   "views": 831
+   "views": 1151
   },
   {
    "date": "2026-09-23",
-   "views": 821
+   "views": 1444
   },
   {
    "date": "2026-09-24",
-   "views": 818
+   "views": 1602
   },
   {
    "date": "2026-09-25",
-   "views": 715
+   "views": 1696
   },
   {
    "date": "2026-09-26",
-   "views": 776
+   "views": 1714
   },
   {
    "date": "2026-09-27",
-   "views": 969
+   "views": 1491
   },
   {
    "date": "2026-09-28",
-   "views": 834
+   "views": 1123
   },
   {
    "date": "2026-09-29",
-   "views": 838
+   "views": 1159
   },
   {
    "date": "2026-09-30",
-   "views": 905
+   "views": 1051
   },
   {
    "date": "2026-10-01",
-   "views": 893
+   "views": 1022
   },
   {
    "date": "2026-10-02",
-   "views": 857
+   "views": 1141
   },
   {
    "date": "2026-10-03",
-   "views": 1789
+   "views": 1007
   },
   {
    "date": "2026-10-04",
-   "views": 1527
+   "views": 1185
   },
   {
    "date": "2026-10-05",
-   "views": 4142
+   "views": 1286
   },
   {
    "date": "2026-10-06",
-   "views": 250833
+   "views": 1153
   },
   {
    "date": "2026-10-07",
-   "views": 82419
+   "views": 1112
+  },
+  {
+   "date": "2026-10-08",
+   "views": 1665865
   }
  ],
- "wikipedia_title": "Jim_Bakker",
+ "wikipedia_title": "Nana_Patekar",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

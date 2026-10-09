@@ -1,197 +1,198 @@
 {
- "title": "Skydance Corporation",
- "slug": "skydance-corporation",
- "score": 40,
- "status": "Elevated",
- "change_percent": 1559,
- "growth_ratio": 16.59,
- "recent_avg": 47339,
- "baseline_avg": 2854,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "title": "Mia Goth",
+ "slug": "mia-goth",
+ "score": 42,
+ "status": "Breaking out",
+ "change_percent": 562,
+ "growth_ratio": 6.62,
+ "recent_avg": 37740,
+ "baseline_avg": 5702,
+ "explanation": "Attention is 6.6\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 44485,
- "latest": 46693,
+ "abs_change": 32038,
+ "latest": 66330,
  "components": {
-  "acceleration": 0.718,
-  "anomaly": 0.509,
-  "persistence": 0.84,
-  "momentum": 0.601,
-  "volume": 0.838,
-  "spike_quality": 0.739
+  "acceleration": 0.483,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.788,
+  "spike_quality": 0.802
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 47,339 views/day over the last 3 days (30-day baseline: 2,854)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 37,740 views/day over the last 3 days (30-day baseline: 5,702)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 0
-  },
-  {
    "date": "2026-08-30",
-   "views": 0
+   "views": 6757
   },
   {
    "date": "2026-08-31",
-   "views": 0
+   "views": 5497
   },
   {
    "date": "2026-09-01",
-   "views": 0
+   "views": 4775
   },
   {
    "date": "2026-09-02",
-   "views": 0
+   "views": 5028
   },
   {
    "date": "2026-09-03",
-   "views": 0
+   "views": 4895
   },
   {
    "date": "2026-09-04",
-   "views": 0
+   "views": 5348
   },
   {
    "date": "2026-09-05",
-   "views": 0
+   "views": 5874
   },
   {
    "date": "2026-09-06",
-   "views": 0
+   "views": 7209
   },
   {
    "date": "2026-09-07",
-   "views": 0
+   "views": 8006
   },
   {
    "date": "2026-09-08",
-   "views": 0
+   "views": 6261
   },
   {
    "date": "2026-09-09",
-   "views": 0
+   "views": 7126
   },
   {
    "date": "2026-09-10",
-   "views": 0
+   "views": 5848
   },
   {
    "date": "2026-09-11",
-   "views": 0
+   "views": 5307
   },
   {
    "date": "2026-09-12",
-   "views": 0
+   "views": 5823
   },
   {
    "date": "2026-09-13",
-   "views": 0
+   "views": 6371
   },
   {
    "date": "2026-09-14",
-   "views": 0
+   "views": 5531
   },
   {
    "date": "2026-09-15",
-   "views": 0
+   "views": 4645
   },
   {
    "date": "2026-09-16",
-   "views": 0
+   "views": 4685
   },
   {
    "date": "2026-09-17",
-   "views": 0
+   "views": 5003
   },
   {
    "date": "2026-09-18",
-   "views": 0
+   "views": 5829
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 6140
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 6093
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 5523
   },
   {
    "date": "2026-09-22",
-   "views": 0
+   "views": 4400
   },
   {
    "date": "2026-09-23",
-   "views": 0
+   "views": 4908
   },
   {
    "date": "2026-09-24",
-   "views": 0
+   "views": 5195
   },
   {
    "date": "2026-09-25",
-   "views": 0
+   "views": 4840
   },
   {
    "date": "2026-09-26",
-   "views": 0
+   "views": 5967
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 6561
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 4832
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 4729
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 5066
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 5021
   },
   {
    "date": "2026-10-02",
-   "views": 27612
+   "views": 4978
   },
   {
    "date": "2026-10-03",
-   "views": 35653
+   "views": 6058
   },
   {
    "date": "2026-10-04",
-   "views": 22363
+   "views": 6857
   },
   {
    "date": "2026-10-05",
-   "views": 25511
+   "views": 6243
   },
   {
    "date": "2026-10-06",
-   "views": 69812
+   "views": 6061
   },
   {
    "date": "2026-10-07",
-   "views": 46693
+   "views": 40829
+  },
+  {
+   "date": "2026-10-08",
+   "views": 66330
   }
  ],
- "wikipedia_title": "Skydance_Corporation",
+ "wikipedia_title": "Mia_Goth",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Pneumonic plague",
- "slug": "pneumonic-plague",
- "score": 36,
- "status": "Peaked / fading",
- "change_percent": 4323,
- "growth_ratio": 44.23,
- "recent_avg": 74176,
- "baseline_avg": 1677,
- "explanation": "Attention surged to 44\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Below (miniseries)",
+ "slug": "below-miniseries",
+ "score": 45,
+ "status": "Breaking out",
+ "change_percent": 1076,
+ "growth_ratio": 11.76,
+ "recent_avg": 34540,
+ "baseline_avg": 2937,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 72499,
- "latest": 43252,
+ "abs_change": 31603,
+ "latest": 91539,
  "components": {
-  "acceleration": 0.969,
+  "acceleration": 0.63,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.321,
-  "volume": 0.935,
-  "spike_quality": 0.572
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.769,
+  "spike_quality": 0.633
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 74,176 views/day over the last 3 days (30-day baseline: 1,677)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 34,540 views/day over the last 3 days (30-day baseline: 2,937)."
  ],
  "history": [
   {
-   "date": "2026-08-29",
-   "views": 310
-  },
-  {
    "date": "2026-08-30",
-   "views": 375
+   "views": 615
   },
   {
    "date": "2026-08-31",
-   "views": 1645
+   "views": 611
   },
   {
    "date": "2026-09-01",
-   "views": 454
+   "views": 505
   },
   {
    "date": "2026-09-02",
-   "views": 275
+   "views": 432
   },
   {
    "date": "2026-09-03",
-   "views": 313
+   "views": 392
   },
   {
    "date": "2026-09-04",
-   "views": 319
+   "views": 444
   },
   {
    "date": "2026-09-05",
-   "views": 259
+   "views": 446
   },
   {
    "date": "2026-09-06",
-   "views": 312
+   "views": 531
   },
   {
    "date": "2026-09-07",
-   "views": 270
+   "views": 525
   },
   {
    "date": "2026-09-08",
-   "views": 315
+   "views": 452
   },
   {
    "date": "2026-09-09",
-   "views": 279
+   "views": 814
   },
   {
    "date": "2026-09-10",
-   "views": 325
+   "views": 9993
   },
   {
    "date": "2026-09-11",
-   "views": 260
+   "views": 9532
   },
   {
    "date": "2026-09-12",
-   "views": 264
+   "views": 6366
   },
   {
    "date": "2026-09-13",
-   "views": 269
+   "views": 5848
   },
   {
    "date": "2026-09-14",
-   "views": 254
+   "views": 4221
   },
   {
    "date": "2026-09-15",
-   "views": 283
+   "views": 2795
   },
   {
    "date": "2026-09-16",
-   "views": 270
+   "views": 2334
   },
   {
    "date": "2026-09-17",
-   "views": 323
+   "views": 1981
   },
   {
    "date": "2026-09-18",
-   "views": 235
+   "views": 1846
   },
   {
    "date": "2026-09-19",
-   "views": 249
+   "views": 1572
   },
   {
    "date": "2026-09-20",
-   "views": 307
+   "views": 1685
   },
   {
    "date": "2026-09-21",
-   "views": 261
+   "views": 1426
   },
   {
    "date": "2026-09-22",
-   "views": 285
+   "views": 1265
   },
   {
    "date": "2026-09-23",
-   "views": 262
+   "views": 1253
   },
   {
    "date": "2026-09-24",
-   "views": 255
+   "views": 1729
   },
   {
    "date": "2026-09-25",
-   "views": 229
+   "views": 2121
   },
   {
    "date": "2026-09-26",
-   "views": 236
+   "views": 1998
   },
   {
    "date": "2026-09-27",
-   "views": 204
+   "views": 2353
   },
   {
    "date": "2026-09-28",
-   "views": 241
+   "views": 2074
   },
   {
    "date": "2026-09-29",
-   "views": 220
+   "views": 2539
   },
   {
    "date": "2026-09-30",
-   "views": 271
+   "views": 2353
   },
   {
    "date": "2026-10-01",
-   "views": 230
+   "views": 3532
   },
   {
    "date": "2026-10-02",
-   "views": 1627
+   "views": 3603
   },
   {
    "date": "2026-10-03",
-   "views": 17251
+   "views": 3418
   },
   {
    "date": "2026-10-04",
-   "views": 24261
+   "views": 3567
   },
   {
    "date": "2026-10-05",
-   "views": 101923
+   "views": 4382
   },
   {
    "date": "2026-10-06",
-   "views": 77352
+   "views": 5211
   },
   {
    "date": "2026-10-07",
-   "views": 43252
+   "views": 6871
+  },
+  {
+   "date": "2026-10-08",
+   "views": 91539
   }
  ],
- "wikipedia_title": "Pneumonic_plague",
+ "wikipedia_title": "Below_(miniseries)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }

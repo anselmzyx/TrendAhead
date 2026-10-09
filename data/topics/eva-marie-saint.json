@@ -1,37 +1,34 @@
 {
  "title": "Eva Marie Saint",
  "slug": "eva-marie-saint",
- "score": 60,
- "status": "Breaking out",
- "change_percent": 8568,
- "growth_ratio": 86.65,
- "recent_avg": 120314,
- "baseline_avg": 1388,
- "explanation": "Attention is 87\u00d7 its 30-day baseline.",
+ "score": 29,
+ "status": "Peaked / fading",
+ "change_percent": 10403,
+ "growth_ratio": 105.01,
+ "recent_avg": 144309,
+ "baseline_avg": 1374,
+ "explanation": "Attention surged to 105\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 118926,
- "latest": 269275,
+ "abs_change": 142935,
+ "latest": 73457,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 0.933,
+  "persistence": 0.72,
+  "momentum": 0.364,
   "volume": 1.0,
-  "spike_quality": 0.655
+  "spike_quality": 0.362
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 120,314 views/day over the last 3 days (30-day baseline: 1,388)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 144,309 views/day over the last 3 days (30-day baseline: 1,374)."
  ],
  "history": [
-  {
-   "date": "2026-08-29",
-   "views": 2840
-  },
   {
    "date": "2026-08-30",
    "views": 2624
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-07",
    "views": 269275
+  },
+  {
+   "date": "2026-10-08",
+   "views": 73457
   }
  ],
  "wikipedia_title": "Eva_Marie_Saint",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-07",
- "generated_at_utc": "2026-10-08T12:16:26+00:00"
+ "data_through": "2026-10-08",
+ "generated_at_utc": "2026-10-09T06:25:25+00:00"
 }
