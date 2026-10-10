@@ -1,198 +1,198 @@
 {
- "title": "Mia Goth",
- "slug": "mia-goth",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 562,
- "growth_ratio": 6.62,
- "recent_avg": 37740,
- "baseline_avg": 5702,
- "explanation": "Attention is 6.6\u00d7 its 30-day baseline.",
+ "title": "Josh Hartnett",
+ "slug": "josh-hartnett",
+ "score": 44,
+ "status": "Building",
+ "change_percent": 235,
+ "growth_ratio": 3.35,
+ "recent_avg": 45228,
+ "baseline_avg": 13483,
+ "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 32038,
- "latest": 66330,
+ "abs_change": 31745,
+ "latest": 65926,
  "components": {
-  "acceleration": 0.483,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.788,
-  "spike_quality": 0.802
+  "acceleration": 0.309,
+  "anomaly": 0.281,
+  "persistence": 0.84,
+  "momentum": 1.0,
+  "volume": 0.828,
+  "spike_quality": 0.932
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,740 views/day over the last 3 days (30-day baseline: 5,702)."
+  "Averaging 45,228 views/day over the last 3 days (30-day baseline: 13,483)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 6757
-  },
-  {
    "date": "2026-08-31",
-   "views": 5497
+   "views": 4245
   },
   {
    "date": "2026-09-01",
-   "views": 4775
+   "views": 3604
   },
   {
    "date": "2026-09-02",
-   "views": 5028
+   "views": 3122
   },
   {
    "date": "2026-09-03",
-   "views": 4895
+   "views": 3282
   },
   {
    "date": "2026-09-04",
-   "views": 5348
+   "views": 4013
   },
   {
    "date": "2026-09-05",
-   "views": 5874
+   "views": 4659
   },
   {
    "date": "2026-09-06",
-   "views": 7209
+   "views": 5037
   },
   {
    "date": "2026-09-07",
-   "views": 8006
+   "views": 4839
   },
   {
    "date": "2026-09-08",
-   "views": 6261
+   "views": 4229
   },
   {
    "date": "2026-09-09",
-   "views": 7126
+   "views": 4506
   },
   {
    "date": "2026-09-10",
-   "views": 5848
+   "views": 6810
   },
   {
    "date": "2026-09-11",
-   "views": 5307
+   "views": 7681
   },
   {
    "date": "2026-09-12",
-   "views": 5823
+   "views": 7242
   },
   {
    "date": "2026-09-13",
-   "views": 6371
+   "views": 7015
   },
   {
    "date": "2026-09-14",
-   "views": 5531
+   "views": 5505
   },
   {
    "date": "2026-09-15",
-   "views": 4645
+   "views": 5614
   },
   {
    "date": "2026-09-16",
-   "views": 4685
+   "views": 6983
   },
   {
    "date": "2026-09-17",
-   "views": 5003
+   "views": 5887
   },
   {
    "date": "2026-09-18",
-   "views": 5829
+   "views": 5965
   },
   {
    "date": "2026-09-19",
-   "views": 6140
+   "views": 5903
   },
   {
    "date": "2026-09-20",
-   "views": 6093
+   "views": 6244
   },
   {
    "date": "2026-09-21",
-   "views": 5523
+   "views": 5654
   },
   {
    "date": "2026-09-22",
-   "views": 4400
+   "views": 5742
   },
   {
    "date": "2026-09-23",
-   "views": 4908
+   "views": 6302
   },
   {
    "date": "2026-09-24",
-   "views": 5195
+   "views": 8289
   },
   {
    "date": "2026-09-25",
-   "views": 4840
+   "views": 20270
   },
   {
    "date": "2026-09-26",
-   "views": 5967
+   "views": 12978
   },
   {
    "date": "2026-09-27",
-   "views": 6561
+   "views": 11072
   },
   {
    "date": "2026-09-28",
-   "views": 4832
+   "views": 11178
   },
   {
    "date": "2026-09-29",
-   "views": 4729
+   "views": 15532
   },
   {
    "date": "2026-09-30",
-   "views": 5066
+   "views": 23449
   },
   {
    "date": "2026-10-01",
-   "views": 5021
+   "views": 40866
   },
   {
    "date": "2026-10-02",
-   "views": 4978
+   "views": 40612
   },
   {
    "date": "2026-10-03",
-   "views": 6058
+   "views": 36891
   },
   {
    "date": "2026-10-04",
-   "views": 6857
+   "views": 34818
   },
   {
    "date": "2026-10-05",
-   "views": 6243
+   "views": 24649
   },
   {
    "date": "2026-10-06",
-   "views": 6061
+   "views": 21770
   },
   {
    "date": "2026-10-07",
-   "views": 40829
+   "views": 23029
   },
   {
    "date": "2026-10-08",
-   "views": 66330
+   "views": 46728
+  },
+  {
+   "date": "2026-10-09",
+   "views": 65926
   }
  ],
- "wikipedia_title": "Mia_Goth",
+ "wikipedia_title": "Josh_Hartnett",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

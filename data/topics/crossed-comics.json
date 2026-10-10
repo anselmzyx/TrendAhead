@@ -1,197 +1,198 @@
 {
- "title": "Nidal Hasan",
- "slug": "nidal-hasan",
- "score": 63,
- "status": "Building",
- "change_percent": 9675,
- "growth_ratio": 97.76,
- "recent_avg": 208006,
- "baseline_avg": 2128,
- "explanation": "Attention is 98\u00d7 its 30-day baseline.",
+ "title": "Crossed (comics)",
+ "slug": "crossed-comics",
+ "score": 49,
+ "status": "Breaking out",
+ "change_percent": 1787,
+ "growth_ratio": 18.87,
+ "recent_avg": 23097,
+ "baseline_avg": 1224,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 205878,
- "latest": 207351,
+ "abs_change": 21873,
+ "latest": 49066,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.751,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.819,
-  "volume": 1.0,
-  "spike_quality": 0.837
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.682,
+  "spike_quality": 0.721
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 208,006 views/day over the last 3 days (30-day baseline: 2,128)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 23,097 views/day over the last 3 days (30-day baseline: 1,224)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 2677
-  },
-  {
    "date": "2026-08-31",
-   "views": 2873
+   "views": 956
   },
   {
    "date": "2026-09-01",
-   "views": 1622
+   "views": 991
   },
   {
    "date": "2026-09-02",
-   "views": 1331
+   "views": 872
   },
   {
    "date": "2026-09-03",
-   "views": 1022
+   "views": 905
   },
   {
    "date": "2026-09-04",
-   "views": 912
+   "views": 900
   },
   {
    "date": "2026-09-05",
-   "views": 662
+   "views": 909
   },
   {
    "date": "2026-09-06",
-   "views": 721
+   "views": 875
   },
   {
    "date": "2026-09-07",
-   "views": 1058
+   "views": 1066
   },
   {
    "date": "2026-09-08",
-   "views": 865
+   "views": 1183
   },
   {
    "date": "2026-09-09",
-   "views": 822
+   "views": 979
   },
   {
    "date": "2026-09-10",
-   "views": 725
+   "views": 916
   },
   {
    "date": "2026-09-11",
-   "views": 1030
+   "views": 850
   },
   {
    "date": "2026-09-12",
-   "views": 1273
+   "views": 868
   },
   {
    "date": "2026-09-13",
-   "views": 1190
+   "views": 752
   },
   {
    "date": "2026-09-14",
-   "views": 1021
+   "views": 860
   },
   {
    "date": "2026-09-15",
-   "views": 906
+   "views": 816
   },
   {
    "date": "2026-09-16",
-   "views": 912
+   "views": 889
   },
   {
    "date": "2026-09-17",
-   "views": 931
+   "views": 777
   },
   {
    "date": "2026-09-18",
-   "views": 919
+   "views": 723
   },
   {
    "date": "2026-09-19",
-   "views": 1024
+   "views": 720
   },
   {
    "date": "2026-09-20",
-   "views": 1003
+   "views": 886
   },
   {
    "date": "2026-09-21",
-   "views": 754
+   "views": 1369
   },
   {
    "date": "2026-09-22",
-   "views": 691
+   "views": 1172
   },
   {
    "date": "2026-09-23",
-   "views": 611
+   "views": 891
   },
   {
    "date": "2026-09-24",
-   "views": 696
+   "views": 780
   },
   {
    "date": "2026-09-25",
-   "views": 529
+   "views": 807
   },
   {
    "date": "2026-09-26",
-   "views": 474
+   "views": 834
   },
   {
    "date": "2026-09-27",
-   "views": 4706
+   "views": 857
   },
   {
    "date": "2026-09-28",
-   "views": 9290
+   "views": 796
   },
   {
    "date": "2026-09-29",
-   "views": 7281
+   "views": 889
   },
   {
    "date": "2026-09-30",
-   "views": 7875
+   "views": 1250
   },
   {
    "date": "2026-10-01",
-   "views": 4249
+   "views": 1055
   },
   {
    "date": "2026-10-02",
-   "views": 2886
+   "views": 4064
   },
   {
    "date": "2026-10-03",
-   "views": 4529
+   "views": 5131
   },
   {
    "date": "2026-10-04",
-   "views": 2440
+   "views": 1826
   },
   {
    "date": "2026-10-05",
-   "views": 2419
+   "views": 1550
   },
   {
    "date": "2026-10-06",
-   "views": 225359
+   "views": 1169
   },
   {
    "date": "2026-10-07",
-   "views": 191307
+   "views": 1928
   },
   {
    "date": "2026-10-08",
-   "views": 207351
+   "views": 18298
+  },
+  {
+   "date": "2026-10-09",
+   "views": 49066
   }
  ],
- "wikipedia_title": "Nidal_Hasan",
+ "wikipedia_title": "Crossed_(comics)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

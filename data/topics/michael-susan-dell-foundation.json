@@ -1,196 +1,196 @@
 {
- "title": "Iraq",
- "slug": "iraq",
- "score": 30,
- "status": "Breaking out",
- "change_percent": 967,
- "growth_ratio": 10.67,
- "recent_avg": 41962,
- "baseline_avg": 3932,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "title": "Michael & Susan Dell Foundation",
+ "slug": "michael-susan-dell-foundation",
+ "score": 43,
+ "status": "Elevated",
+ "change_percent": 57489,
+ "growth_ratio": 374.33,
+ "recent_avg": 37433,
+ "baseline_avg": 65,
+ "explanation": "Attention is 374\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 38030,
- "latest": 119250,
+ "abs_change": 37368,
+ "latest": 45083,
  "components": {
-  "acceleration": 0.605,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.811,
-  "spike_quality": 0.591
+  "persistence": 0.52,
+  "momentum": 0.66,
+  "volume": 0.787,
+  "spike_quality": 0.661
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 41,962 views/day over the last 3 days (30-day baseline: 3,932)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 37,433 views/day over the last 3 days (30-day baseline: 65)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 3356
-  },
-  {
    "date": "2026-08-31",
-   "views": 3609
+   "views": 134
   },
   {
    "date": "2026-09-01",
-   "views": 3502
+   "views": 132
   },
   {
    "date": "2026-09-02",
-   "views": 3528
+   "views": 1567
   },
   {
    "date": "2026-09-03",
-   "views": 3377
+   "views": 687
   },
   {
    "date": "2026-09-04",
-   "views": 3387
+   "views": 327
   },
   {
    "date": "2026-09-05",
-   "views": 3074
+   "views": 158
   },
   {
    "date": "2026-09-06",
-   "views": 3153
+   "views": 100
   },
   {
    "date": "2026-09-07",
-   "views": 3046
+   "views": 84
   },
   {
    "date": "2026-09-08",
-   "views": 3300
+   "views": 69
   },
   {
    "date": "2026-09-09",
-   "views": 3463
+   "views": 100
   },
   {
    "date": "2026-09-10",
-   "views": 3343
+   "views": 90
   },
   {
    "date": "2026-09-11",
-   "views": 4267
+   "views": 81
   },
   {
    "date": "2026-09-12",
-   "views": 4786
+   "views": 61
   },
   {
    "date": "2026-09-13",
-   "views": 4319
+   "views": 50
   },
   {
    "date": "2026-09-14",
-   "views": 4324
+   "views": 48
   },
   {
    "date": "2026-09-15",
-   "views": 3988
+   "views": 57
   },
   {
    "date": "2026-09-16",
-   "views": 4009
+   "views": 50
   },
   {
    "date": "2026-09-17",
-   "views": 3836
+   "views": 64
   },
   {
    "date": "2026-09-18",
-   "views": 3735
+   "views": 147
   },
   {
    "date": "2026-09-19",
-   "views": 3429
+   "views": 77
   },
   {
    "date": "2026-09-20",
-   "views": 3553
+   "views": 34
   },
   {
    "date": "2026-09-21",
-   "views": 3730
+   "views": 64
   },
   {
    "date": "2026-09-22",
-   "views": 3774
+   "views": 51
   },
   {
    "date": "2026-09-23",
-   "views": 3956
+   "views": 55
   },
   {
    "date": "2026-09-24",
-   "views": 3632
+   "views": 43
   },
   {
    "date": "2026-09-25",
-   "views": 3451
+   "views": 110
   },
   {
    "date": "2026-09-26",
-   "views": 3366
+   "views": 46
   },
   {
    "date": "2026-09-27",
-   "views": 3421
+   "views": 33
   },
   {
    "date": "2026-09-28",
-   "views": 3759
+   "views": 44
   },
   {
    "date": "2026-09-29",
-   "views": 4069
+   "views": 40
   },
   {
    "date": "2026-09-30",
-   "views": 7019
+   "views": 57
   },
   {
    "date": "2026-10-01",
-   "views": 5846
+   "views": 43
   },
   {
    "date": "2026-10-02",
-   "views": 4237
+   "views": 55
   },
   {
    "date": "2026-10-03",
-   "views": 3821
+   "views": 35
   },
   {
    "date": "2026-10-04",
-   "views": 3725
+   "views": 51
   },
   {
    "date": "2026-10-05",
-   "views": 3593
+   "views": 135
   },
   {
    "date": "2026-10-06",
-   "views": 3347
+   "views": 70
   },
   {
    "date": "2026-10-07",
-   "views": 3290
+   "views": 8356
   },
   {
    "date": "2026-10-08",
-   "views": 119250
+   "views": 58859
+  },
+  {
+   "date": "2026-10-09",
+   "views": 45083
   }
  ],
- "wikipedia_title": "Iraq",
+ "wikipedia_title": "Michael_&_Susan_Dell_Foundation",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

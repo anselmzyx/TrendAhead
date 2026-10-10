@@ -1,197 +1,198 @@
 {
- "title": "Cleo (mathematician)",
- "slug": "cleo-mathematician",
- "score": 50,
- "status": "Elevated",
- "change_percent": 57369,
- "growth_ratio": 482.74,
- "recent_avg": 48274,
- "baseline_avg": 84,
- "explanation": "Attention is 483\u00d7 its 30-day baseline.",
+ "title": "Hannah Fry",
+ "slug": "hannah-fry",
+ "score": 37,
+ "status": "Building",
+ "change_percent": 500,
+ "growth_ratio": 6.0,
+ "recent_avg": 48152,
+ "baseline_avg": 8027,
+ "explanation": "Attention is 6.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 48190,
- "latest": 62978,
+ "abs_change": 40125,
+ "latest": 73813,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
+  "acceleration": 0.458,
+  "anomaly": 0.336,
   "persistence": 0.52,
-  "momentum": 0.773,
-  "volume": 0.842,
-  "spike_quality": 0.705
+  "momentum": 0.933,
+  "volume": 0.841,
+  "spike_quality": 0.895
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 48,274 views/day over the last 3 days (30-day baseline: 84)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 48,152 views/day over the last 3 days (30-day baseline: 8,027)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 34
-  },
-  {
    "date": "2026-08-31",
-   "views": 137
+   "views": 2086
   },
   {
    "date": "2026-09-01",
-   "views": 70
+   "views": 1670
   },
   {
    "date": "2026-09-02",
-   "views": 57
+   "views": 1975
   },
   {
    "date": "2026-09-03",
-   "views": 58
+   "views": 3353
   },
   {
    "date": "2026-09-04",
-   "views": 83
+   "views": 2595
   },
   {
    "date": "2026-09-05",
-   "views": 68
+   "views": 2342
   },
   {
    "date": "2026-09-06",
-   "views": 75
+   "views": 2438
   },
   {
    "date": "2026-09-07",
-   "views": 68
+   "views": 2487
   },
   {
    "date": "2026-09-08",
-   "views": 62
+   "views": 2850
   },
   {
    "date": "2026-09-09",
-   "views": 138
+   "views": 2653
   },
   {
    "date": "2026-09-10",
-   "views": 64
+   "views": 2611
   },
   {
    "date": "2026-09-11",
-   "views": 48
+   "views": 2012
   },
   {
    "date": "2026-09-12",
-   "views": 86
+   "views": 2091
   },
   {
    "date": "2026-09-13",
-   "views": 76
+   "views": 2236
   },
   {
    "date": "2026-09-14",
-   "views": 83
+   "views": 2198
   },
   {
    "date": "2026-09-15",
-   "views": 70
+   "views": 2809
   },
   {
    "date": "2026-09-16",
-   "views": 92
+   "views": 3086
   },
   {
    "date": "2026-09-17",
-   "views": 65
+   "views": 2912
   },
   {
    "date": "2026-09-18",
-   "views": 56
+   "views": 3088
   },
   {
    "date": "2026-09-19",
-   "views": 58
+   "views": 3127
   },
   {
    "date": "2026-09-20",
-   "views": 65
+   "views": 2668
   },
   {
    "date": "2026-09-21",
-   "views": 57
+   "views": 2700
   },
   {
    "date": "2026-09-22",
-   "views": 48
+   "views": 3078
   },
   {
    "date": "2026-09-23",
-   "views": 81
+   "views": 3177
   },
   {
    "date": "2026-09-24",
-   "views": 95
+   "views": 3636
   },
   {
    "date": "2026-09-25",
-   "views": 105
+   "views": 3605
   },
   {
    "date": "2026-09-26",
-   "views": 59
+   "views": 3092
   },
   {
    "date": "2026-09-27",
-   "views": 66
+   "views": 4153
   },
   {
    "date": "2026-09-28",
-   "views": 56
+   "views": 3035
   },
   {
    "date": "2026-09-29",
-   "views": 84
+   "views": 2818
   },
   {
    "date": "2026-09-30",
-   "views": 103
+   "views": 3842
   },
   {
    "date": "2026-10-01",
-   "views": 239
+   "views": 35807
   },
   {
    "date": "2026-10-02",
-   "views": 158
+   "views": 50582
   },
   {
    "date": "2026-10-03",
-   "views": 107
+   "views": 35239
   },
   {
    "date": "2026-10-04",
-   "views": 73
+   "views": 24498
   },
   {
    "date": "2026-10-05",
-   "views": 76
+   "views": 14514
   },
   {
    "date": "2026-10-06",
-   "views": 74695
+   "views": 10209
   },
   {
    "date": "2026-10-07",
-   "views": 7149
+   "views": 8974
   },
   {
    "date": "2026-10-08",
-   "views": 62978
+   "views": 61668
+  },
+  {
+   "date": "2026-10-09",
+   "views": 73813
   }
  ],
- "wikipedia_title": "Cleo_(mathematician)",
+ "wikipedia_title": "Hannah_Fry",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

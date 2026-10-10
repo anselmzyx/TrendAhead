@@ -1,37 +1,32 @@
 {
  "title": "Tanushree Dutta",
  "slug": "tanushree-dutta",
- "score": 53,
- "status": "Breaking out",
- "change_percent": 1994,
- "growth_ratio": 20.94,
- "recent_avg": 35728,
- "baseline_avg": 1706,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "score": 40,
+ "status": "Elevated",
+ "change_percent": 2691,
+ "growth_ratio": 27.9,
+ "recent_avg": 53163,
+ "baseline_avg": 1905,
+ "explanation": "Attention is 28\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 34022,
- "latest": 93134,
+ "abs_change": 51258,
+ "latest": 59477,
  "components": {
-  "acceleration": 0.778,
+  "acceleration": 0.851,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.867,
-  "volume": 0.777,
-  "spike_quality": 0.676
+  "persistence": 0.76,
+  "momentum": 0.517,
+  "volume": 0.863,
+  "spike_quality": 0.615
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 35,728 views/day over the last 3 days (30-day baseline: 1,706)."
+  "Averaging 53,163 views/day over the last 3 days (30-day baseline: 1,905)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 850
-  },
   {
    "date": "2026-08-31",
    "views": 935
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-08",
    "views": 93134
+  },
+  {
+   "date": "2026-10-09",
+   "views": 59477
   }
  ],
  "wikipedia_title": "Tanushree_Dutta",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

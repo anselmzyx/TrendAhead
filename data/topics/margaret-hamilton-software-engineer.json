@@ -1,37 +1,34 @@
 {
  "title": "Margaret Hamilton (software engineer)",
  "slug": "margaret-hamilton-software-engineer",
- "score": 44,
- "status": "Breaking out",
- "change_percent": 9131,
- "growth_ratio": 92.31,
- "recent_avg": 56307,
- "baseline_avg": 610,
- "explanation": "Attention is 92\u00d7 its 30-day baseline.",
+ "score": 31,
+ "status": "Peaked / fading",
+ "change_percent": 13111,
+ "growth_ratio": 132.01,
+ "recent_avg": 80981,
+ "baseline_avg": 613,
+ "explanation": "Attention surged to 132\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 55697,
- "latest": 162739,
+ "abs_change": 80368,
+ "latest": 74607,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.875,
-  "spike_quality": 0.53
+  "persistence": 0.52,
+  "momentum": 0.475,
+  "volume": 0.954,
+  "spike_quality": 0.426
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 56,307 views/day over the last 3 days (30-day baseline: 610)."
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 80,981 views/day over the last 3 days (30-day baseline: 613)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 530
-  },
   {
    "date": "2026-08-31",
    "views": 604
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-08",
    "views": 162739
+  },
+  {
+   "date": "2026-10-09",
+   "views": 74607
   }
  ],
  "wikipedia_title": "Margaret_Hamilton_(software_engineer)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

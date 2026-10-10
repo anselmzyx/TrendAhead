@@ -1,38 +1,33 @@
 {
  "title": "Shooting of Abby Zwerner",
  "slug": "shooting-of-abby-zwerner",
- "score": 53,
- "status": "Breaking out",
- "change_percent": 42509,
- "growth_ratio": 417.57,
- "recent_avg": 41757,
- "baseline_avg": 98,
- "explanation": "Attention is 418\u00d7 its 30-day baseline.",
+ "score": 34,
+ "status": "Peaked / fading",
+ "change_percent": 57980,
+ "growth_ratio": 551.76,
+ "recent_avg": 55176,
+ "baseline_avg": 95,
+ "explanation": "Attention surged to 552\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41659,
- "latest": 82298,
+ "abs_change": 55081,
+ "latest": 40388,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.81,
-  "spike_quality": 0.701
+  "persistence": 0.52,
+  "momentum": 0.494,
+  "volume": 0.871,
+  "spike_quality": 0.539
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 41,757 views/day over the last 3 days (30-day baseline: 98)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 55,176 views/day over the last 3 days (30-day baseline: 95)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 61
-  },
   {
    "date": "2026-08-31",
    "views": 69
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-08",
    "views": 82298
+  },
+  {
+   "date": "2026-10-09",
+   "views": 40388
   }
  ],
  "wikipedia_title": "Shooting_of_Abby_Zwerner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

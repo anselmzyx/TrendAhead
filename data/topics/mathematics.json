@@ -1,198 +1,197 @@
 {
- "title": "Eva Marie Saint",
- "slug": "eva-marie-saint",
- "score": 29,
- "status": "Peaked / fading",
- "change_percent": 10403,
- "growth_ratio": 105.01,
- "recent_avg": 144309,
- "baseline_avg": 1374,
- "explanation": "Attention surged to 105\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Mathematics",
+ "slug": "mathematics",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 4130,
+ "growth_ratio": 42.29,
+ "recent_avg": 132601,
+ "baseline_avg": 3135,
+ "explanation": "Attention is 42\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 142935,
- "latest": 73457,
+ "abs_change": 129466,
+ "latest": 391937,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.957,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.364,
+  "persistence": 0.2,
+  "momentum": 0.867,
   "volume": 1.0,
-  "spike_quality": 0.362
+  "spike_quality": 0.523
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 144,309 views/day over the last 3 days (30-day baseline: 1,374)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 132,601 views/day over the last 3 days (30-day baseline: 3,135)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 2624
-  },
-  {
    "date": "2026-08-31",
-   "views": 2443
+   "views": 2685
   },
   {
    "date": "2026-09-01",
-   "views": 1601
+   "views": 2776
   },
   {
    "date": "2026-09-02",
-   "views": 1559
+   "views": 2856
   },
   {
    "date": "2026-09-03",
-   "views": 1332
+   "views": 3448
   },
   {
    "date": "2026-09-04",
-   "views": 1413
+   "views": 3216
   },
   {
    "date": "2026-09-05",
-   "views": 1899
+   "views": 2465
   },
   {
    "date": "2026-09-06",
-   "views": 1808
+   "views": 2433
   },
   {
    "date": "2026-09-07",
-   "views": 1654
+   "views": 2777
   },
   {
    "date": "2026-09-08",
-   "views": 1510
+   "views": 3079
   },
   {
    "date": "2026-09-09",
-   "views": 1285
+   "views": 3285
   },
   {
    "date": "2026-09-10",
-   "views": 1306
+   "views": 3260
   },
   {
    "date": "2026-09-11",
-   "views": 1236
+   "views": 3207
   },
   {
    "date": "2026-09-12",
-   "views": 1491
+   "views": 2926
   },
   {
    "date": "2026-09-13",
-   "views": 1623
+   "views": 2776
   },
   {
    "date": "2026-09-14",
-   "views": 1231
+   "views": 3245
   },
   {
    "date": "2026-09-15",
-   "views": 1113
+   "views": 3611
   },
   {
    "date": "2026-09-16",
-   "views": 1047
+   "views": 3617
   },
   {
    "date": "2026-09-17",
-   "views": 1157
+   "views": 3859
   },
   {
    "date": "2026-09-18",
-   "views": 1156
+   "views": 3162
   },
   {
    "date": "2026-09-19",
-   "views": 1507
+   "views": 2803
   },
   {
    "date": "2026-09-20",
-   "views": 1648
+   "views": 2704
   },
   {
    "date": "2026-09-21",
-   "views": 1341
+   "views": 3255
   },
   {
    "date": "2026-09-22",
-   "views": 1263
+   "views": 3889
   },
   {
    "date": "2026-09-23",
-   "views": 1251
+   "views": 3897
   },
   {
    "date": "2026-09-24",
-   "views": 1281
+   "views": 5521
   },
   {
    "date": "2026-09-25",
-   "views": 1362
+   "views": 3107
   },
   {
    "date": "2026-09-26",
-   "views": 1523
+   "views": 2407
   },
   {
    "date": "2026-09-27",
-   "views": 1437
+   "views": 2469
   },
   {
    "date": "2026-09-28",
-   "views": 1226
+   "views": 3049
   },
   {
    "date": "2026-09-29",
-   "views": 1080
+   "views": 3267
   },
   {
    "date": "2026-09-30",
-   "views": 1054
+   "views": 3110
   },
   {
    "date": "2026-10-01",
-   "views": 1184
+   "views": 2725
   },
   {
    "date": "2026-10-02",
-   "views": 1226
+   "views": 2590
   },
   {
    "date": "2026-10-03",
-   "views": 1639
+   "views": 2416
   },
   {
    "date": "2026-10-04",
-   "views": 2115
+   "views": 2508
   },
   {
    "date": "2026-10-05",
-   "views": 1472
+   "views": 2806
   },
   {
    "date": "2026-10-06",
-   "views": 90196
+   "views": 2730
   },
   {
    "date": "2026-10-07",
-   "views": 269275
+   "views": 3005
   },
   {
    "date": "2026-10-08",
-   "views": 73457
+   "views": 2862
+  },
+  {
+   "date": "2026-10-09",
+   "views": 391937
   }
  ],
- "wikipedia_title": "Eva_Marie_Saint",
+ "wikipedia_title": "Mathematics",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

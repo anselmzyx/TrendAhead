@@ -1,198 +1,198 @@
 {
- "title": "World Space Week",
- "slug": "world-space-week",
- "score": 61,
+ "title": "Animals (2026 film)",
+ "slug": "animals-2026-film",
+ "score": 56,
  "status": "Breaking out",
- "change_percent": 37791,
- "growth_ratio": 379.13,
- "recent_avg": 42438,
- "baseline_avg": 112,
- "explanation": "Attention is 379\u00d7 its 30-day baseline.",
+ "change_percent": 838,
+ "growth_ratio": 9.38,
+ "recent_avg": 30073,
+ "baseline_avg": 3207,
+ "explanation": "Attention is 9.4\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 42326,
- "latest": 80892,
+ "abs_change": 26866,
+ "latest": 69270,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.572,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.867,
-  "volume": 0.814,
-  "spike_quality": 0.719
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.739,
+  "spike_quality": 0.731
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,438 views/day over the last 3 days (30-day baseline: 112)."
+  "Averaging 30,073 views/day over the last 3 days (30-day baseline: 3,207)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 11
-  },
-  {
    "date": "2026-08-31",
-   "views": 17
+   "views": 1516
   },
   {
    "date": "2026-09-01",
-   "views": 12
+   "views": 1290
   },
   {
    "date": "2026-09-02",
-   "views": 24
+   "views": 1322
   },
   {
    "date": "2026-09-03",
-   "views": 23
+   "views": 1493
   },
   {
    "date": "2026-09-04",
-   "views": 16
+   "views": 1714
   },
   {
    "date": "2026-09-05",
-   "views": 13
+   "views": 1394
   },
   {
    "date": "2026-09-06",
-   "views": 13
+   "views": 1606
   },
   {
    "date": "2026-09-07",
-   "views": 28
+   "views": 1430
   },
   {
    "date": "2026-09-08",
-   "views": 17
+   "views": 1530
   },
   {
    "date": "2026-09-09",
-   "views": 17
+   "views": 1377
   },
   {
    "date": "2026-09-10",
-   "views": 15
+   "views": 1281
   },
   {
    "date": "2026-09-11",
-   "views": 15
+   "views": 5566
   },
   {
    "date": "2026-09-12",
-   "views": 11
+   "views": 1647
   },
   {
    "date": "2026-09-13",
-   "views": 16
+   "views": 1743
   },
   {
    "date": "2026-09-14",
-   "views": 14
+   "views": 1596
   },
   {
    "date": "2026-09-15",
-   "views": 24
+   "views": 4794
   },
   {
    "date": "2026-09-16",
-   "views": 19
+   "views": 4741
   },
   {
    "date": "2026-09-17",
-   "views": 26
+   "views": 3379
   },
   {
    "date": "2026-09-18",
-   "views": 28
+   "views": 2250
   },
   {
    "date": "2026-09-19",
-   "views": 19
+   "views": 2242
   },
   {
    "date": "2026-09-20",
-   "views": 23
+   "views": 2247
   },
   {
    "date": "2026-09-21",
-   "views": 74
+   "views": 2339
   },
   {
    "date": "2026-09-22",
-   "views": 62
+   "views": 1815
   },
   {
    "date": "2026-09-23",
-   "views": 75
+   "views": 1727
   },
   {
    "date": "2026-09-24",
-   "views": 63
+   "views": 1776
   },
   {
    "date": "2026-09-25",
-   "views": 58
+   "views": 3983
   },
   {
    "date": "2026-09-26",
-   "views": 37
+   "views": 3289
   },
   {
    "date": "2026-09-27",
-   "views": 37
+   "views": 3042
   },
   {
    "date": "2026-09-28",
-   "views": 88
+   "views": 2415
   },
   {
    "date": "2026-09-29",
-   "views": 82
+   "views": 2380
   },
   {
    "date": "2026-09-30",
-   "views": 119
+   "views": 2377
   },
   {
    "date": "2026-10-01",
-   "views": 113
+   "views": 3742
   },
   {
    "date": "2026-10-02",
-   "views": 128
+   "views": 7045
   },
   {
    "date": "2026-10-03",
-   "views": 252
+   "views": 6492
   },
   {
    "date": "2026-10-04",
-   "views": 1194
+   "views": 5696
   },
   {
    "date": "2026-10-05",
-   "views": 691
+   "views": 6520
   },
   {
    "date": "2026-10-06",
-   "views": 35163
+   "views": 5744
   },
   {
    "date": "2026-10-07",
-   "views": 11258
+   "views": 8626
   },
   {
    "date": "2026-10-08",
-   "views": 80892
+   "views": 12323
+  },
+  {
+   "date": "2026-10-09",
+   "views": 69270
   }
  ],
- "wikipedia_title": "World_Space_Week",
+ "wikipedia_title": "Animals_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

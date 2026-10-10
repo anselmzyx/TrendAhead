@@ -2,36 +2,31 @@
  "title": "Michael Dell",
  "slug": "michael-dell",
  "score": 45,
- "status": "Breaking out",
- "change_percent": 2343,
- "growth_ratio": 24.44,
- "recent_avg": 45343,
- "baseline_avg": 1856,
- "explanation": "Attention is 24\u00d7 its 30-day baseline.",
+ "status": "Elevated",
+ "change_percent": 3810,
+ "growth_ratio": 39.09,
+ "recent_avg": 72993,
+ "baseline_avg": 1867,
+ "explanation": "Attention is 39\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 43487,
- "latest": 112442,
+ "abs_change": 71126,
+ "latest": 84384,
  "components": {
-  "acceleration": 0.817,
+  "acceleration": 0.937,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.828,
-  "spike_quality": 0.616
+  "persistence": 0.52,
+  "momentum": 0.65,
+  "volume": 0.932,
+  "spike_quality": 0.665
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,343 views/day over the last 3 days (30-day baseline: 1,856)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 72,993 views/day over the last 3 days (30-day baseline: 1,867)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 892
-  },
   {
    "date": "2026-08-31",
    "views": 1012
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-08",
    "views": 112442
+  },
+  {
+   "date": "2026-10-09",
+   "views": 84384
   }
  ],
  "wikipedia_title": "Michael_Dell",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

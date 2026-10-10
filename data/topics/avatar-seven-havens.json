@@ -1,197 +1,198 @@
 {
- "title": "T24 Festival",
- "slug": "t24-festival",
- "score": 33,
+ "title": "Avatar: Seven Havens",
+ "slug": "avatar-seven-havens",
+ "score": 43,
  "status": "Breaking out",
- "change_percent": 1385000,
- "growth_ratio": 277.02,
- "recent_avg": 27702,
- "baseline_avg": 2,
- "explanation": "Attention is 277\u00d7 its 30-day baseline.",
+ "change_percent": 558,
+ "growth_ratio": 6.58,
+ "recent_avg": 31323,
+ "baseline_avg": 4761,
+ "explanation": "Attention is 6.6\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 27700,
- "latest": 83103,
+ "abs_change": 26562,
+ "latest": 71973,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.721,
-  "spike_quality": 0.5
+  "acceleration": 0.482,
+  "anomaly": 0.89,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.748,
+  "spike_quality": 0.722
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,702 views/day over the last 3 days (30-day baseline: 2)."
+  "Averaging 31,323 views/day over the last 3 days (30-day baseline: 4,761)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 1
-  },
-  {
    "date": "2026-08-31",
-   "views": 1
+   "views": 2159
   },
   {
    "date": "2026-09-01",
-   "views": 5
+   "views": 1975
   },
   {
    "date": "2026-09-02",
-   "views": 1
+   "views": 1794
   },
   {
    "date": "2026-09-03",
-   "views": 1
+   "views": 2335
   },
   {
    "date": "2026-09-04",
-   "views": 5
+   "views": 1847
   },
   {
    "date": "2026-09-05",
-   "views": 0
+   "views": 1882
   },
   {
    "date": "2026-09-06",
-   "views": 0
+   "views": 2272
   },
   {
    "date": "2026-09-07",
-   "views": 4
+   "views": 2059
   },
   {
    "date": "2026-09-08",
-   "views": 1
+   "views": 2056
   },
   {
    "date": "2026-09-09",
-   "views": 2
+   "views": 3583
   },
   {
    "date": "2026-09-10",
-   "views": 0
+   "views": 14329
   },
   {
    "date": "2026-09-11",
-   "views": 0
+   "views": 14901
   },
   {
    "date": "2026-09-12",
-   "views": 4
+   "views": 8618
   },
   {
    "date": "2026-09-13",
-   "views": 1
+   "views": 6554
   },
   {
    "date": "2026-09-14",
-   "views": 2
+   "views": 5190
   },
   {
    "date": "2026-09-15",
-   "views": 2
+   "views": 3894
   },
   {
    "date": "2026-09-16",
-   "views": 1
+   "views": 3574
   },
   {
    "date": "2026-09-17",
-   "views": 1
+   "views": 3154
   },
   {
    "date": "2026-09-18",
-   "views": 1
+   "views": 2986
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 3469
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 3371
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 2953
   },
   {
    "date": "2026-09-22",
-   "views": 3
+   "views": 2810
   },
   {
    "date": "2026-09-23",
-   "views": 2
+   "views": 3127
   },
   {
    "date": "2026-09-24",
-   "views": 6
+   "views": 3048
   },
   {
    "date": "2026-09-25",
-   "views": 1
+   "views": 2999
   },
   {
    "date": "2026-09-26",
-   "views": 1
+   "views": 2902
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 3445
   },
   {
    "date": "2026-09-28",
-   "views": 1
+   "views": 3518
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 4259
   },
   {
    "date": "2026-09-30",
-   "views": 1
+   "views": 4266
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 4707
   },
   {
    "date": "2026-10-02",
-   "views": 3
+   "views": 4887
   },
   {
    "date": "2026-10-03",
-   "views": 8
+   "views": 4941
   },
   {
    "date": "2026-10-04",
-   "views": 1
+   "views": 5047
   },
   {
    "date": "2026-10-05",
-   "views": 1
+   "views": 5494
   },
   {
    "date": "2026-10-06",
-   "views": 2
+   "views": 6684
   },
   {
    "date": "2026-10-07",
-   "views": 1
+   "views": 9024
   },
   {
    "date": "2026-10-08",
-   "views": 83103
+   "views": 12973
+  },
+  {
+   "date": "2026-10-09",
+   "views": 71973
   }
  ],
- "wikipedia_title": "T24_Festival",
+ "wikipedia_title": "Avatar:_Seven_Havens",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

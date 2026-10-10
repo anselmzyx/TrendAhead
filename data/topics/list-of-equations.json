@@ -1,197 +1,197 @@
 {
- "title": "2009 Fort Hood shooting",
- "slug": "2009-fort-hood-shooting",
- "score": 53,
- "status": "Elevated",
- "change_percent": 9217,
- "growth_ratio": 93.13,
- "recent_avg": 69037,
- "baseline_avg": 741,
- "explanation": "Attention is 93\u00d7 its 30-day baseline.",
+ "title": "List of equations",
+ "slug": "list-of-equations",
+ "score": 43,
+ "status": "Breaking out",
+ "change_percent": 97848,
+ "growth_ratio": 978.49,
+ "recent_avg": 129291,
+ "baseline_avg": 132,
+ "explanation": "Attention is 978\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 68296,
- "latest": 72505,
+ "abs_change": 129159,
+ "latest": 387779,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.751,
-  "volume": 0.92,
-  "spike_quality": 0.739
+  "persistence": 0.2,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 69,037 views/day over the last 3 days (30-day baseline: 741)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 129,291 views/day over the last 3 days (30-day baseline: 132)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 726
-  },
-  {
    "date": "2026-08-31",
-   "views": 673
+   "views": 32
   },
   {
    "date": "2026-09-01",
-   "views": 504
+   "views": 33
   },
   {
    "date": "2026-09-02",
-   "views": 607
+   "views": 31
   },
   {
    "date": "2026-09-03",
-   "views": 481
+   "views": 53
   },
   {
    "date": "2026-09-04",
-   "views": 468
+   "views": 35
   },
   {
    "date": "2026-09-05",
-   "views": 387
+   "views": 21
   },
   {
    "date": "2026-09-06",
-   "views": 380
+   "views": 29
   },
   {
    "date": "2026-09-07",
-   "views": 509
+   "views": 29
   },
   {
    "date": "2026-09-08",
-   "views": 459
+   "views": 24
   },
   {
    "date": "2026-09-09",
-   "views": 534
+   "views": 23
   },
   {
    "date": "2026-09-10",
-   "views": 500
+   "views": 43
   },
   {
    "date": "2026-09-11",
-   "views": 749
+   "views": 33
   },
   {
    "date": "2026-09-12",
-   "views": 1011
+   "views": 36
   },
   {
    "date": "2026-09-13",
-   "views": 763
+   "views": 34
   },
   {
    "date": "2026-09-14",
-   "views": 671
+   "views": 34
   },
   {
    "date": "2026-09-15",
-   "views": 593
+   "views": 45
   },
   {
    "date": "2026-09-16",
-   "views": 764
+   "views": 50
   },
   {
    "date": "2026-09-17",
-   "views": 656
+   "views": 47
   },
   {
    "date": "2026-09-18",
-   "views": 513
+   "views": 41
   },
   {
    "date": "2026-09-19",
-   "views": 472
+   "views": 39
   },
   {
    "date": "2026-09-20",
-   "views": 442
+   "views": 34
   },
   {
    "date": "2026-09-21",
-   "views": 454
+   "views": 35
   },
   {
    "date": "2026-09-22",
-   "views": 388
+   "views": 94
   },
   {
    "date": "2026-09-23",
-   "views": 394
+   "views": 431
   },
   {
    "date": "2026-09-24",
-   "views": 424
+   "views": 2377
   },
   {
    "date": "2026-09-25",
-   "views": 329
+   "views": 48
   },
   {
    "date": "2026-09-26",
-   "views": 337
+   "views": 29
   },
   {
    "date": "2026-09-27",
-   "views": 1110
+   "views": 35
   },
   {
    "date": "2026-09-28",
-   "views": 1836
+   "views": 34
   },
   {
    "date": "2026-09-29",
-   "views": 1439
+   "views": 140
   },
   {
    "date": "2026-09-30",
-   "views": 1541
+   "views": 45
   },
   {
    "date": "2026-10-01",
-   "views": 1109
+   "views": 26
   },
   {
    "date": "2026-10-02",
-   "views": 875
+   "views": 31
   },
   {
    "date": "2026-10-03",
-   "views": 1500
+   "views": 30
   },
   {
    "date": "2026-10-04",
-   "views": 710
+   "views": 23
   },
   {
    "date": "2026-10-05",
-   "views": 778
+   "views": 39
   },
   {
    "date": "2026-10-06",
-   "views": 89799
+   "views": 35
   },
   {
    "date": "2026-10-07",
-   "views": 44808
+   "views": 38
   },
   {
    "date": "2026-10-08",
-   "views": 72505
+   "views": 56
+  },
+  {
+   "date": "2026-10-09",
+   "views": 387779
   }
  ],
- "wikipedia_title": "2009_Fort_Hood_shooting",
+ "wikipedia_title": "List_of_equations",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

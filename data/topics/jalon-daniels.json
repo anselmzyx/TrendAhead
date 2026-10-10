@@ -1,196 +1,197 @@
 {
- "title": "Nana Patekar",
- "slug": "nana-patekar",
- "score": 38,
+ "title": "Jalon Daniels",
+ "slug": "jalon-daniels",
+ "score": 51,
  "status": "Breaking out",
- "change_percent": 43787,
- "growth_ratio": 438.8,
- "recent_avg": 556043,
- "baseline_avg": 1267,
- "explanation": "Attention is 439\u00d7 its 30-day baseline.",
+ "change_percent": 1706,
+ "growth_ratio": 18.06,
+ "recent_avg": 93736,
+ "baseline_avg": 5190,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 554776,
- "latest": 1665865,
+ "abs_change": 88546,
+ "latest": 256679,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 1.0,
-  "spike_quality": 0.502
+  "acceleration": 0.74,
+  "anomaly": 0.941,
+  "persistence": 0.52,
+  "momentum": 1.0,
+  "volume": 0.986,
+  "spike_quality": 0.649
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 556,043 views/day over the last 3 days (30-day baseline: 1,267)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 93,736 views/day over the last 3 days (30-day baseline: 5,190)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 1486
-  },
-  {
    "date": "2026-08-31",
-   "views": 1355
+   "views": 4623
   },
   {
    "date": "2026-09-01",
-   "views": 1424
+   "views": 2104
   },
   {
    "date": "2026-09-02",
-   "views": 1206
+   "views": 1242
   },
   {
    "date": "2026-09-03",
-   "views": 1226
+   "views": 866
   },
   {
    "date": "2026-09-04",
-   "views": 1155
+   "views": 661
   },
   {
    "date": "2026-09-05",
-   "views": 1425
+   "views": 1605
   },
   {
    "date": "2026-09-06",
-   "views": 1521
+   "views": 515
   },
   {
    "date": "2026-09-07",
-   "views": 1329
+   "views": 571
   },
   {
    "date": "2026-09-08",
-   "views": 1398
+   "views": 709
   },
   {
    "date": "2026-09-09",
-   "views": 1300
+   "views": 552
   },
   {
    "date": "2026-09-10",
-   "views": 1068
+   "views": 422
   },
   {
    "date": "2026-09-11",
-   "views": 1142
+   "views": 641
   },
   {
    "date": "2026-09-12",
-   "views": 1124
+   "views": 1701
   },
   {
    "date": "2026-09-13",
-   "views": 1185
+   "views": 954
   },
   {
    "date": "2026-09-14",
-   "views": 1143
+   "views": 338
   },
   {
    "date": "2026-09-15",
-   "views": 1223
+   "views": 263
   },
   {
    "date": "2026-09-16",
-   "views": 1320
+   "views": 208
   },
   {
    "date": "2026-09-17",
-   "views": 1310
+   "views": 175
   },
   {
    "date": "2026-09-18",
-   "views": 1128
+   "views": 189
   },
   {
    "date": "2026-09-19",
-   "views": 1220
+   "views": 591
   },
   {
    "date": "2026-09-20",
-   "views": 1345
+   "views": 1096
   },
   {
    "date": "2026-09-21",
-   "views": 1188
+   "views": 646
   },
   {
    "date": "2026-09-22",
-   "views": 1151
+   "views": 383
   },
   {
    "date": "2026-09-23",
-   "views": 1444
+   "views": 307
   },
   {
    "date": "2026-09-24",
-   "views": 1602
+   "views": 248
   },
   {
    "date": "2026-09-25",
-   "views": 1696
+   "views": 236
   },
   {
    "date": "2026-09-26",
-   "views": 1714
+   "views": 221
   },
   {
    "date": "2026-09-27",
-   "views": 1491
+   "views": 9019
   },
   {
    "date": "2026-09-28",
-   "views": 1123
+   "views": 22941
   },
   {
    "date": "2026-09-29",
-   "views": 1159
+   "views": 13401
   },
   {
    "date": "2026-09-30",
-   "views": 1051
+   "views": 13121
   },
   {
    "date": "2026-10-01",
-   "views": 1022
+   "views": 12665
   },
   {
    "date": "2026-10-02",
-   "views": 1141
+   "views": 10291
   },
   {
    "date": "2026-10-03",
-   "views": 1007
+   "views": 5243
   },
   {
    "date": "2026-10-04",
-   "views": 1185
+   "views": 45957
   },
   {
    "date": "2026-10-05",
-   "views": 1286
+   "views": 8403
   },
   {
    "date": "2026-10-06",
-   "views": 1153
+   "views": 4215
   },
   {
    "date": "2026-10-07",
-   "views": 1112
+   "views": 4329
   },
   {
    "date": "2026-10-08",
-   "views": 1665865
+   "views": 20200
+  },
+  {
+   "date": "2026-10-09",
+   "views": 256679
   }
  ],
- "wikipedia_title": "Nana_Patekar",
+ "wikipedia_title": "Jalon_Daniels",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

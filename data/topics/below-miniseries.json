@@ -1,37 +1,34 @@
 {
  "title": "Below (miniseries)",
  "slug": "below-miniseries",
- "score": 45,
+ "score": 69,
  "status": "Breaking out",
- "change_percent": 1076,
- "growth_ratio": 11.76,
- "recent_avg": 34540,
- "baseline_avg": 2937,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 2564,
+ "growth_ratio": 26.64,
+ "recent_avg": 82390,
+ "baseline_avg": 3093,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31603,
- "latest": 91539,
+ "abs_change": 79297,
+ "latest": 148760,
  "components": {
-  "acceleration": 0.63,
+  "acceleration": 0.839,
   "anomaly": 1.0,
-  "persistence": 0.6,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.769,
-  "spike_quality": 0.633
+  "volume": 0.958,
+  "spike_quality": 0.754
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 34,540 views/day over the last 3 days (30-day baseline: 2,937)."
+  "Averaging 82,390 views/day over the last 3 days (30-day baseline: 3,093)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 615
-  },
   {
    "date": "2026-08-31",
    "views": 611
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-08",
    "views": 91539
+  },
+  {
+   "date": "2026-10-09",
+   "views": 148760
   }
  ],
  "wikipedia_title": "Below_(miniseries)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

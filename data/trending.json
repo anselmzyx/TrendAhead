@@ -2,25 +2,24 @@
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
  "experimental": true,
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00",
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00",
  "topics": [
   {
    "rank": 1,
    "title": "Carrie (miniseries)",
    "slug": "carrie-miniseries",
-   "score": 72,
+   "score": 83,
    "status": "Building",
-   "change_percent": 1341,
-   "growth_ratio": 14.41,
-   "recent_avg": 95755,
-   "baseline_avg": 6647,
-   "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+   "change_percent": 2059,
+   "growth_ratio": 21.59,
+   "recent_avg": 154384,
+   "baseline_avg": 7150,
+   "explanation": "Attention is 22\u00d7 its 30-day baseline.",
    "discovery": [
     "improver"
    ],
    "sparkline": [
-    3375,
     3631,
     4439,
     4983,
@@ -33,118 +32,25 @@
     14977,
     16918,
     100004,
-    170343
+    170343,
+    192804
    ]
   },
   {
    "rank": 2,
-   "title": "Anne Carson",
-   "slug": "anne-carson",
-   "score": 63,
-   "status": "Breaking out",
-   "change_percent": 33109,
-   "growth_ratio": 331.93,
-   "recent_avg": 93982,
-   "baseline_avg": 283,
-   "explanation": "Attention is 332\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    200,
-    218,
-    290,
-    295,
-    259,
-    313,
-    270,
-    349,
-    400,
-    447,
-    737,
-    994,
-    2159,
-    278792
-   ]
-  },
-  {
-   "rank": 3,
-   "title": "Nidal Hasan",
-   "slug": "nidal-hasan",
-   "score": 63,
-   "status": "Building",
-   "change_percent": 9675,
-   "growth_ratio": 97.76,
-   "recent_avg": 208006,
-   "baseline_avg": 2128,
-   "explanation": "Attention is 98\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    529,
-    474,
-    4706,
-    9290,
-    7281,
-    7875,
-    4249,
-    2886,
-    4529,
-    2440,
-    2419,
-    225359,
-    191307,
-    207351
-   ]
-  },
-  {
-   "rank": 4,
-   "title": "World Space Week",
-   "slug": "world-space-week",
-   "score": 61,
-   "status": "Breaking out",
-   "change_percent": 37791,
-   "growth_ratio": 379.13,
-   "recent_avg": 42438,
-   "baseline_avg": 112,
-   "explanation": "Attention is 379\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    58,
-    37,
-    37,
-    88,
-    82,
-    119,
-    113,
-    128,
-    252,
-    1194,
-    691,
-    35163,
-    11258,
-    80892
-   ]
-  },
-  {
-   "rank": 5,
    "title": "Other Mommy",
    "slug": "other-mommy",
-   "score": 54,
+   "score": 70,
    "status": "Building",
-   "change_percent": 259,
-   "growth_ratio": 3.59,
-   "recent_avg": 45675,
-   "baseline_avg": 12719,
-   "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
+   "change_percent": 592,
+   "growth_ratio": 6.92,
+   "recent_avg": 93558,
+   "baseline_avg": 13529,
+   "explanation": "Attention is 6.9\u00d7 its 30-day baseline.",
    "discovery": [
     "improver"
    ],
    "sparkline": [
-    11091,
     11009,
     12416,
     15260,
@@ -157,211 +63,25 @@
     25554,
     27522,
     35094,
-    74408
+    74408,
+    171173
    ]
   },
   {
-   "rank": 6,
-   "title": "Tanushree Dutta",
-   "slug": "tanushree-dutta",
-   "score": 53,
-   "status": "Breaking out",
-   "change_percent": 1994,
-   "growth_ratio": 20.94,
-   "recent_avg": 35728,
-   "baseline_avg": 1706,
-   "explanation": "Attention is 21\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    676,
-    1039,
-    1386,
-    1070,
-    1203,
-    1101,
-    1443,
-    3769,
-    7275,
-    8247,
-    6883,
-    7172,
-    6877,
-    93134
-   ]
-  },
-  {
-   "rank": 7,
-   "title": "2009 Fort Hood shooting",
-   "slug": "2009-fort-hood-shooting",
-   "score": 53,
-   "status": "Elevated",
-   "change_percent": 9217,
-   "growth_ratio": 93.13,
-   "recent_avg": 69037,
-   "baseline_avg": 741,
-   "explanation": "Attention is 93\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    329,
-    337,
-    1110,
-    1836,
-    1439,
-    1541,
-    1109,
-    875,
-    1500,
-    710,
-    778,
-    89799,
-    44808,
-    72505
-   ]
-  },
-  {
-   "rank": 8,
-   "title": "Shooting of Abby Zwerner",
-   "slug": "shooting-of-abby-zwerner",
-   "score": 53,
-   "status": "Breaking out",
-   "change_percent": 42509,
-   "growth_ratio": 417.57,
-   "recent_avg": 41757,
-   "baseline_avg": 98,
-   "explanation": "Attention is 418\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    92,
-    52,
-    70,
-    173,
-    189,
-    105,
-    105,
-    155,
-    75,
-    66,
-    91,
-    131,
-    42841,
-    82298
-   ]
-  },
-  {
-   "rank": 9,
-   "title": "Cleo (mathematician)",
-   "slug": "cleo-mathematician",
-   "score": 50,
-   "status": "Elevated",
-   "change_percent": 57369,
-   "growth_ratio": 482.74,
-   "recent_avg": 48274,
-   "baseline_avg": 84,
-   "explanation": "Attention is 483\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    105,
-    59,
-    66,
-    56,
-    84,
-    103,
-    239,
-    158,
-    107,
-    73,
-    76,
-    74695,
-    7149,
-    62978
-   ]
-  },
-  {
-   "rank": 10,
-   "title": "The Social Reckoning",
-   "slug": "the-social-reckoning",
-   "score": 50,
-   "status": "Building",
-   "change_percent": 265,
-   "growth_ratio": 3.65,
-   "recent_avg": 42252,
-   "baseline_avg": 11577,
-   "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
-   "discovery": [
-    "improver"
-   ],
-   "sparkline": [
-    10235,
-    9762,
-    17218,
-    14616,
-    13318,
-    15652,
-    16457,
-    15230,
-    17463,
-    27504,
-    34958,
-    29937,
-    46222,
-    50596
-   ]
-  },
-  {
-   "rank": 11,
-   "title": "Michael Dell",
-   "slug": "michael-dell",
-   "score": 45,
-   "status": "Breaking out",
-   "change_percent": 2343,
-   "growth_ratio": 24.44,
-   "recent_avg": 45343,
-   "baseline_avg": 1856,
-   "explanation": "Attention is 24\u00d7 its 30-day baseline.",
-   "discovery": [
-    "new entrant"
-   ],
-   "sparkline": [
-    2743,
-    1921,
-    1421,
-    1373,
-    1170,
-    1210,
-    1137,
-    1147,
-    923,
-    983,
-    1171,
-    1434,
-    22154,
-    112442
-   ]
-  },
-  {
-   "rank": 12,
+   "rank": 3,
    "title": "Below (miniseries)",
    "slug": "below-miniseries",
-   "score": 45,
+   "score": 69,
    "status": "Breaking out",
-   "change_percent": 1076,
-   "growth_ratio": 11.76,
-   "recent_avg": 34540,
-   "baseline_avg": 2937,
-   "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+   "change_percent": 2564,
+   "growth_ratio": 26.64,
+   "recent_avg": 82390,
+   "baseline_avg": 3093,
+   "explanation": "Attention is 27\u00d7 its 30-day baseline.",
    "discovery": [
     "new entrant"
    ],
    "sparkline": [
-    2121,
     1998,
     2353,
     2074,
@@ -374,7 +94,287 @@
     4382,
     5211,
     6871,
-    91539
+    91539,
+    148760
+   ]
+  },
+  {
+   "rank": 4,
+   "title": "Fort Hood shooting",
+   "slug": "fort-hood-shooting",
+   "score": 64,
+   "status": "Breaking out",
+   "change_percent": 15217,
+   "growth_ratio": 152.94,
+   "recent_avg": 52077,
+   "baseline_avg": 340,
+   "explanation": "Attention is 153\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    38,
+    175,
+    228,
+    147,
+    86,
+    61,
+    83,
+    83,
+    32,
+    90,
+    7159,
+    10339,
+    28508,
+    117384
+   ]
+  },
+  {
+   "rank": 5,
+   "title": "The Social Reckoning",
+   "slug": "the-social-reckoning",
+   "score": 59,
+   "status": "Building",
+   "change_percent": 368,
+   "growth_ratio": 4.68,
+   "recent_avg": 58050,
+   "baseline_avg": 12406,
+   "explanation": "Attention is 4.7\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    9762,
+    17218,
+    14616,
+    13318,
+    15652,
+    16457,
+    15230,
+    17463,
+    27504,
+    34958,
+    29937,
+    46222,
+    50596,
+    77332
+   ]
+  },
+  {
+   "rank": 6,
+   "title": "Animals (2026 film)",
+   "slug": "animals-2026-film",
+   "score": 56,
+   "status": "Breaking out",
+   "change_percent": 838,
+   "growth_ratio": 9.38,
+   "recent_avg": 30073,
+   "baseline_avg": 3207,
+   "explanation": "Attention is 9.4\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    3289,
+    3042,
+    2415,
+    2380,
+    2377,
+    3742,
+    7045,
+    6492,
+    5696,
+    6520,
+    5744,
+    8626,
+    12323,
+    69270
+   ]
+  },
+  {
+   "rank": 7,
+   "title": "Carrie (1976 film)",
+   "slug": "carrie-1976-film",
+   "score": 53,
+   "status": "Building",
+   "change_percent": 677,
+   "growth_ratio": 7.77,
+   "recent_avg": 36730,
+   "baseline_avg": 4729,
+   "explanation": "Attention is 7.8\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    3238,
+    3726,
+    4171,
+    3920,
+    4087,
+    5615,
+    9386,
+    6572,
+    7310,
+    6112,
+    6773,
+    20670,
+    34941,
+    54580
+   ]
+  },
+  {
+   "rank": 8,
+   "title": "Jalon Daniels",
+   "slug": "jalon-daniels",
+   "score": 51,
+   "status": "Breaking out",
+   "change_percent": 1706,
+   "growth_ratio": 18.06,
+   "recent_avg": 93736,
+   "baseline_avg": 5190,
+   "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    221,
+    9019,
+    22941,
+    13401,
+    13121,
+    12665,
+    10291,
+    5243,
+    45957,
+    8403,
+    4215,
+    4329,
+    20200,
+    256679
+   ]
+  },
+  {
+   "rank": 9,
+   "title": "Crossed (comics)",
+   "slug": "crossed-comics",
+   "score": 49,
+   "status": "Breaking out",
+   "change_percent": 1787,
+   "growth_ratio": 18.87,
+   "recent_avg": 23097,
+   "baseline_avg": 1224,
+   "explanation": "Attention is 19\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    834,
+    857,
+    796,
+    889,
+    1250,
+    1055,
+    4064,
+    5131,
+    1826,
+    1550,
+    1169,
+    1928,
+    18298,
+    49066
+   ]
+  },
+  {
+   "rank": 10,
+   "title": "Kimberly Guilfoyle",
+   "slug": "kimberly-guilfoyle",
+   "score": 48,
+   "status": "Building",
+   "change_percent": 1218,
+   "growth_ratio": 13.18,
+   "recent_avg": 70524,
+   "baseline_avg": 5349,
+   "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    8876,
+    12324,
+    15488,
+    11423,
+    6235,
+    5475,
+    5263,
+    3975,
+    3458,
+    3222,
+    2679,
+    9358,
+    103437,
+    98776
+   ]
+  },
+  {
+   "rank": 11,
+   "title": "Michael Dell",
+   "slug": "michael-dell",
+   "score": 45,
+   "status": "Elevated",
+   "change_percent": 3810,
+   "growth_ratio": 39.09,
+   "recent_avg": 72993,
+   "baseline_avg": 1867,
+   "explanation": "Attention is 39\u00d7 its 30-day baseline.",
+   "discovery": [
+    "new entrant"
+   ],
+   "sparkline": [
+    1921,
+    1421,
+    1373,
+    1170,
+    1210,
+    1137,
+    1147,
+    923,
+    983,
+    1171,
+    1434,
+    22154,
+    112442,
+    84384
+   ]
+  },
+  {
+   "rank": 12,
+   "title": "Zack Polanski",
+   "slug": "zack-polanski",
+   "score": 45,
+   "status": "Breaking out",
+   "change_percent": 607,
+   "growth_ratio": 7.07,
+   "recent_avg": 31228,
+   "baseline_avg": 4418,
+   "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
+   "discovery": [
+    "improver"
+   ],
+   "sparkline": [
+    1762,
+    1822,
+    1367,
+    1639,
+    1654,
+    2945,
+    16273,
+    7029,
+    11989,
+    22495,
+    10025,
+    7113,
+    8372,
+    78198
    ]
   }
  ]

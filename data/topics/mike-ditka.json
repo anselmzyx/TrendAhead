@@ -1,196 +1,197 @@
 {
- "title": "Karl Bushby",
- "slug": "karl-bushby",
- "score": 44,
- "status": "Elevated",
- "change_percent": 1506,
- "growth_ratio": 16.06,
- "recent_avg": 49105,
- "baseline_avg": 3057,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "title": "Mike Ditka",
+ "slug": "mike-ditka",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 7622,
+ "growth_ratio": 77.2,
+ "recent_avg": 210105,
+ "baseline_avg": 2721,
+ "explanation": "Attention is 77\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 46048,
- "latest": 57336,
+ "abs_change": 207384,
+ "latest": 627603,
  "components": {
-  "acceleration": 0.71,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.651,
-  "volume": 0.846,
-  "spike_quality": 0.688
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 1.0,
+  "spike_quality": 0.509
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 49,105 views/day over the last 3 days (30-day baseline: 3,057)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 210,105 views/day over the last 3 days (30-day baseline: 2,721)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 2230
-  },
-  {
    "date": "2026-08-31",
-   "views": 2033
+   "views": 706
   },
   {
    "date": "2026-09-01",
-   "views": 1646
+   "views": 807
   },
   {
    "date": "2026-09-02",
-   "views": 2362
+   "views": 1206
   },
   {
    "date": "2026-09-03",
-   "views": 1621
+   "views": 1167
   },
   {
    "date": "2026-09-04",
-   "views": 1753
+   "views": 761
   },
   {
    "date": "2026-09-05",
-   "views": 1736
+   "views": 861
   },
   {
    "date": "2026-09-06",
-   "views": 1894
+   "views": 2211
   },
   {
    "date": "2026-09-07",
-   "views": 1761
+   "views": 1783
   },
   {
    "date": "2026-09-08",
-   "views": 1408
+   "views": 1267
   },
   {
    "date": "2026-09-09",
-   "views": 1121
+   "views": 3860
   },
   {
    "date": "2026-09-10",
-   "views": 1131
+   "views": 1229
   },
   {
    "date": "2026-09-11",
-   "views": 1292
+   "views": 929
   },
   {
    "date": "2026-09-12",
-   "views": 2106
+   "views": 998
   },
   {
    "date": "2026-09-13",
-   "views": 2020
-  },
-  {
-   "date": "2026-09-14",
-   "views": 1656
-  },
-  {
-   "date": "2026-09-15",
-   "views": 1566
-  },
-  {
-   "date": "2026-09-16",
-   "views": 1465
-  },
-  {
-   "date": "2026-09-17",
    "views": 1770
   },
   {
+   "date": "2026-09-14",
+   "views": 1535
+  },
+  {
+   "date": "2026-09-15",
+   "views": 3662
+  },
+  {
+   "date": "2026-09-16",
+   "views": 2786
+  },
+  {
+   "date": "2026-09-17",
+   "views": 1817
+  },
+  {
    "date": "2026-09-18",
-   "views": 1328
+   "views": 1417
   },
   {
    "date": "2026-09-19",
-   "views": 2090
+   "views": 1260
   },
   {
    "date": "2026-09-20",
-   "views": 2381
+   "views": 2914
   },
   {
    "date": "2026-09-21",
-   "views": 2235
+   "views": 1440
   },
   {
    "date": "2026-09-22",
-   "views": 3199
+   "views": 1326
   },
   {
    "date": "2026-09-23",
-   "views": 2077
+   "views": 1060
   },
   {
    "date": "2026-09-24",
-   "views": 9337
+   "views": 907
   },
   {
    "date": "2026-09-25",
-   "views": 3665
+   "views": 1126
   },
   {
    "date": "2026-09-26",
-   "views": 10223
+   "views": 1227
   },
   {
    "date": "2026-09-27",
-   "views": 8332
+   "views": 1746
   },
   {
    "date": "2026-09-28",
-   "views": 4648
+   "views": 1517
   },
   {
    "date": "2026-09-29",
-   "views": 2408
+   "views": 31662
   },
   {
    "date": "2026-09-30",
-   "views": 2177
+   "views": 2049
   },
   {
    "date": "2026-10-01",
-   "views": 1889
+   "views": 1581
   },
   {
    "date": "2026-10-02",
-   "views": 1762
+   "views": 1496
   },
   {
    "date": "2026-10-03",
-   "views": 3635
+   "views": 1642
   },
   {
    "date": "2026-10-04",
-   "views": 6671
+   "views": 1929
   },
   {
    "date": "2026-10-05",
-   "views": 4459
+   "views": 1995
   },
   {
    "date": "2026-10-06",
-   "views": 13700
+   "views": 1713
   },
   {
    "date": "2026-10-07",
-   "views": 76279
+   "views": 1349
   },
   {
    "date": "2026-10-08",
-   "views": 57336
+   "views": 1364
+  },
+  {
+   "date": "2026-10-09",
+   "views": 627603
   }
  ],
- "wikipedia_title": "Karl_Bushby",
+ "wikipedia_title": "Mike_Ditka",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

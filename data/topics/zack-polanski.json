@@ -1,197 +1,198 @@
 {
- "title": "Catherine Zeta-Jones",
- "slug": "catherine-zeta-jones",
- "score": 40,
- "status": "Elevated",
- "change_percent": 313,
- "growth_ratio": 4.13,
- "recent_avg": 50929,
- "baseline_avg": 12322,
- "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
+ "title": "Zack Polanski",
+ "slug": "zack-polanski",
+ "score": 45,
+ "status": "Breaking out",
+ "change_percent": 607,
+ "growth_ratio": 7.07,
+ "recent_avg": 31228,
+ "baseline_avg": 4418,
+ "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 38607,
- "latest": 48702,
+ "abs_change": 26810,
+ "latest": 78198,
  "components": {
-  "acceleration": 0.363,
-  "anomaly": 0.345,
+  "acceleration": 0.5,
+  "anomaly": 0.565,
   "persistence": 0.84,
-  "momentum": 0.767,
-  "volume": 0.853,
-  "spike_quality": 0.889
+  "momentum": 0.933,
+  "volume": 0.747,
+  "spike_quality": 0.769
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 50,929 views/day over the last 3 days (30-day baseline: 12,322)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 31,228 views/day over the last 3 days (30-day baseline: 4,418)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 8982
-  },
-  {
    "date": "2026-08-31",
-   "views": 6388
+   "views": 910
   },
   {
    "date": "2026-09-01",
-   "views": 5546
+   "views": 7783
   },
   {
    "date": "2026-09-02",
-   "views": 5550
+   "views": 5138
   },
   {
    "date": "2026-09-03",
-   "views": 9291
+   "views": 23365
   },
   {
    "date": "2026-09-04",
-   "views": 6813
+   "views": 5274
   },
   {
    "date": "2026-09-05",
-   "views": 6234
+   "views": 2865
   },
   {
    "date": "2026-09-06",
-   "views": 6342
+   "views": 2591
   },
   {
    "date": "2026-09-07",
-   "views": 6039
+   "views": 3069
   },
   {
    "date": "2026-09-08",
-   "views": 5325
+   "views": 2373
   },
   {
    "date": "2026-09-09",
-   "views": 4461
+   "views": 2000
   },
   {
    "date": "2026-09-10",
-   "views": 3964
+   "views": 1722
   },
   {
    "date": "2026-09-11",
-   "views": 5002
+   "views": 6337
   },
   {
    "date": "2026-09-12",
-   "views": 6188
+   "views": 4382
   },
   {
    "date": "2026-09-13",
-   "views": 9152
+   "views": 2575
   },
   {
    "date": "2026-09-14",
-   "views": 8530
+   "views": 3347
   },
   {
    "date": "2026-09-15",
-   "views": 5824
+   "views": 2900
   },
   {
    "date": "2026-09-16",
-   "views": 5565
+   "views": 2590
   },
   {
    "date": "2026-09-17",
-   "views": 6146
+   "views": 4026
   },
   {
    "date": "2026-09-18",
-   "views": 6274
+   "views": 2682
   },
   {
    "date": "2026-09-19",
-   "views": 8543
+   "views": 2321
   },
   {
    "date": "2026-09-20",
-   "views": 7588
+   "views": 2044
   },
   {
    "date": "2026-09-21",
-   "views": 5768
+   "views": 1669
   },
   {
    "date": "2026-09-22",
-   "views": 4828
+   "views": 1666
   },
   {
    "date": "2026-09-23",
-   "views": 9586
+   "views": 2154
   },
   {
    "date": "2026-09-24",
-   "views": 14323
+   "views": 2728
   },
   {
    "date": "2026-09-25",
-   "views": 21211
+   "views": 2959
   },
   {
    "date": "2026-09-26",
-   "views": 16660
+   "views": 1762
   },
   {
    "date": "2026-09-27",
-   "views": 13117
+   "views": 1822
   },
   {
    "date": "2026-09-28",
-   "views": 8885
+   "views": 1367
   },
   {
    "date": "2026-09-29",
-   "views": 9121
+   "views": 1639
   },
   {
    "date": "2026-09-30",
-   "views": 8743
+   "views": 1654
   },
   {
    "date": "2026-10-01",
-   "views": 7455
+   "views": 2945
   },
   {
    "date": "2026-10-02",
-   "views": 46722
+   "views": 16273
   },
   {
    "date": "2026-10-03",
-   "views": 40361
+   "views": 7029
   },
   {
    "date": "2026-10-04",
-   "views": 30649
+   "views": 11989
   },
   {
    "date": "2026-10-05",
-   "views": 37282
+   "views": 22495
   },
   {
    "date": "2026-10-06",
-   "views": 58428
+   "views": 10025
   },
   {
    "date": "2026-10-07",
-   "views": 45658
+   "views": 7113
   },
   {
    "date": "2026-10-08",
-   "views": 48702
+   "views": 8372
+  },
+  {
+   "date": "2026-10-09",
+   "views": 78198
   }
  ],
- "wikipedia_title": "Catherine_Zeta-Jones",
+ "wikipedia_title": "Zack_Polanski",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

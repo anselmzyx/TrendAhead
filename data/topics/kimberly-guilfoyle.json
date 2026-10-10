@@ -1,37 +1,33 @@
 {
  "title": "Kimberly Guilfoyle",
  "slug": "kimberly-guilfoyle",
- "score": 34,
- "status": "Breaking out",
- "change_percent": 621,
- "growth_ratio": 7.21,
- "recent_avg": 38491,
- "baseline_avg": 5336,
- "explanation": "Attention is 7.2\u00d7 its 30-day baseline.",
+ "score": 48,
+ "status": "Building",
+ "change_percent": 1218,
+ "growth_ratio": 13.18,
+ "recent_avg": 70524,
+ "baseline_avg": 5349,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 33155,
- "latest": 103437,
+ "abs_change": 65175,
+ "latest": 98776,
  "components": {
-  "acceleration": 0.505,
-  "anomaly": 0.861,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.793,
-  "spike_quality": 0.624
+  "acceleration": 0.659,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.773,
+  "volume": 0.924,
+  "spike_quality": 0.793
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 38,491 views/day over the last 3 days (30-day baseline: 5,336)."
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 70,524 views/day over the last 3 days (30-day baseline: 5,349)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 1569
-  },
   {
    "date": "2026-08-31",
    "views": 1359
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-08",
    "views": 103437
+  },
+  {
+   "date": "2026-10-09",
+   "views": 98776
   }
  ],
  "wikipedia_title": "Kimberly_Guilfoyle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

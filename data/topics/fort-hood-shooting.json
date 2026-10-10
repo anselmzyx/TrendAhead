@@ -1,197 +1,197 @@
 {
- "title": "Ayesha Jhulka",
- "slug": "ayesha-jhulka",
- "score": 34,
+ "title": "Fort Hood shooting",
+ "slug": "fort-hood-shooting",
+ "score": 64,
  "status": "Breaking out",
- "change_percent": 4096,
- "growth_ratio": 41.95,
- "recent_avg": 25010,
- "baseline_avg": 596,
- "explanation": "Attention is 42\u00d7 its 30-day baseline.",
+ "change_percent": 15217,
+ "growth_ratio": 152.94,
+ "recent_avg": 52077,
+ "baseline_avg": 340,
+ "explanation": "Attention is 153\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 24414,
- "latest": 74053,
+ "abs_change": 51737,
+ "latest": 117384,
  "components": {
-  "acceleration": 0.955,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.699,
-  "spike_quality": 0.524
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.858,
+  "spike_quality": 0.665
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,010 views/day over the last 3 days (30-day baseline: 596)."
+  "Averaging 52,077 views/day over the last 3 days (30-day baseline: 340)."
  ],
  "history": [
   {
-   "date": "2026-08-30",
-   "views": 639
-  },
-  {
    "date": "2026-08-31",
-   "views": 575
+   "views": 156
   },
   {
    "date": "2026-09-01",
-   "views": 617
+   "views": 151
   },
   {
    "date": "2026-09-02",
-   "views": 566
+   "views": 139
   },
   {
    "date": "2026-09-03",
-   "views": 528
+   "views": 88
   },
   {
    "date": "2026-09-04",
-   "views": 535
+   "views": 107
   },
   {
    "date": "2026-09-05",
-   "views": 636
+   "views": 87
   },
   {
    "date": "2026-09-06",
-   "views": 685
+   "views": 97
   },
   {
    "date": "2026-09-07",
-   "views": 565
+   "views": 75
   },
   {
    "date": "2026-09-08",
-   "views": 609
+   "views": 113
   },
   {
    "date": "2026-09-09",
-   "views": 727
+   "views": 108
   },
   {
    "date": "2026-09-10",
-   "views": 651
+   "views": 88
   },
   {
    "date": "2026-09-11",
-   "views": 679
+   "views": 134
   },
   {
    "date": "2026-09-12",
-   "views": 650
+   "views": 210
   },
   {
    "date": "2026-09-13",
-   "views": 698
+   "views": 208
   },
   {
    "date": "2026-09-14",
-   "views": 564
+   "views": 138
   },
   {
    "date": "2026-09-15",
-   "views": 577
+   "views": 134
   },
   {
    "date": "2026-09-16",
-   "views": 550
+   "views": 88
   },
   {
    "date": "2026-09-17",
-   "views": 554
+   "views": 100
   },
   {
    "date": "2026-09-18",
-   "views": 553
+   "views": 84
   },
   {
    "date": "2026-09-19",
-   "views": 598
+   "views": 79
   },
   {
    "date": "2026-09-20",
-   "views": 665
+   "views": 86
   },
   {
    "date": "2026-09-21",
-   "views": 555
+   "views": 77
   },
   {
    "date": "2026-09-22",
-   "views": 600
+   "views": 80
   },
   {
    "date": "2026-09-23",
-   "views": 577
+   "views": 67
   },
   {
    "date": "2026-09-24",
-   "views": 592
+   "views": 97
   },
   {
    "date": "2026-09-25",
-   "views": 615
+   "views": 67
   },
   {
    "date": "2026-09-26",
-   "views": 636
+   "views": 38
   },
   {
    "date": "2026-09-27",
-   "views": 637
+   "views": 175
   },
   {
    "date": "2026-09-28",
-   "views": 551
+   "views": 228
   },
   {
    "date": "2026-09-29",
-   "views": 542
+   "views": 147
   },
   {
    "date": "2026-09-30",
-   "views": 505
+   "views": 86
   },
   {
    "date": "2026-10-01",
-   "views": 510
+   "views": 61
   },
   {
    "date": "2026-10-02",
-   "views": 534
+   "views": 83
   },
   {
    "date": "2026-10-03",
-   "views": 579
+   "views": 83
   },
   {
    "date": "2026-10-04",
-   "views": 576
+   "views": 32
   },
   {
    "date": "2026-10-05",
-   "views": 550
+   "views": 90
   },
   {
    "date": "2026-10-06",
-   "views": 487
+   "views": 7159
   },
   {
    "date": "2026-10-07",
-   "views": 490
+   "views": 10339
   },
   {
    "date": "2026-10-08",
-   "views": 74053
+   "views": 28508
+  },
+  {
+   "date": "2026-10-09",
+   "views": 117384
   }
  ],
- "wikipedia_title": "Ayesha_Jhulka",
+ "wikipedia_title": "Fort_Hood_shooting",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }

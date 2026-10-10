@@ -1,38 +1,34 @@
 {
  "title": "Other Mommy",
  "slug": "other-mommy",
- "score": 54,
+ "score": 70,
  "status": "Building",
- "change_percent": 259,
- "growth_ratio": 3.59,
- "recent_avg": 45675,
- "baseline_avg": 12719,
- "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
+ "change_percent": 592,
+ "growth_ratio": 6.92,
+ "recent_avg": 93558,
+ "baseline_avg": 13529,
+ "explanation": "Attention is 6.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 32956,
- "latest": 74408,
+ "abs_change": 80029,
+ "latest": 171173,
  "components": {
-  "acceleration": 0.327,
-  "anomaly": 0.513,
+  "acceleration": 0.494,
+  "anomaly": 1.0,
   "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.83,
-  "spike_quality": 0.888
+  "volume": 0.986,
+  "spike_quality": 0.816
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,675 views/day over the last 3 days (30-day baseline: 12,719)."
+  "Averaging 93,558 views/day over the last 3 days (30-day baseline: 13,529)."
  ],
  "history": [
-  {
-   "date": "2026-08-30",
-   "views": 3020
-  },
   {
    "date": "2026-08-31",
    "views": 3178
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-08",
    "views": 74408
+  },
+  {
+   "date": "2026-10-09",
+   "views": 171173
   }
  ],
  "wikipedia_title": "Other_Mommy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-08",
- "generated_at_utc": "2026-10-09T06:25:25+00:00"
+ "data_through": "2026-10-09",
+ "generated_at_utc": "2026-10-10T11:20:46+00:00"
 }
