@@ -1,197 +1,198 @@
 {
- "title": "Shooting of Abby Zwerner",
- "slug": "shooting-of-abby-zwerner",
- "score": 34,
+ "title": "Selma Blair",
+ "slug": "selma-blair",
+ "score": 28,
  "status": "Peaked / fading",
- "change_percent": 57980,
- "growth_ratio": 551.76,
- "recent_avg": 55176,
- "baseline_avg": 95,
- "explanation": "Attention surged to 552\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 9047,
+ "growth_ratio": 91.46,
+ "recent_avg": 261247,
+ "baseline_avg": 2856,
+ "explanation": "Attention surged to 91\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 55081,
- "latest": 40388,
+ "abs_change": 258391,
+ "latest": 114269,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.494,
-  "volume": 0.871,
-  "spike_quality": 0.539
+  "momentum": 0.363,
+  "volume": 1.0,
+  "spike_quality": 0.41
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 55,176 views/day over the last 3 days (30-day baseline: 95)."
+  "Averaging 261,247 views/day over the last 3 days (30-day baseline: 2,856)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 69
-  },
-  {
-   "date": "2026-09-01",
-   "views": 110
-  },
-  {
-   "date": "2026-09-02",
-   "views": 242
-  },
-  {
-   "date": "2026-09-03",
-   "views": 226
-  },
-  {
-   "date": "2026-09-04",
-   "views": 145
-  },
-  {
    "date": "2026-09-05",
-   "views": 241
+   "views": 2035
   },
   {
    "date": "2026-09-06",
-   "views": 230
+   "views": 2383
   },
   {
    "date": "2026-09-07",
-   "views": 168
+   "views": 2204
   },
   {
    "date": "2026-09-08",
-   "views": 94
+   "views": 1881
   },
   {
    "date": "2026-09-09",
-   "views": 102
+   "views": 1786
   },
   {
    "date": "2026-09-10",
-   "views": 89
+   "views": 2329
   },
   {
    "date": "2026-09-11",
-   "views": 92
+   "views": 2021
   },
   {
    "date": "2026-09-12",
-   "views": 104
+   "views": 2303
   },
   {
    "date": "2026-09-13",
-   "views": 76
+   "views": 2535
   },
   {
    "date": "2026-09-14",
-   "views": 80
+   "views": 2057
   },
   {
    "date": "2026-09-15",
-   "views": 62
+   "views": 1793
   },
   {
    "date": "2026-09-16",
-   "views": 66
+   "views": 2218
   },
   {
    "date": "2026-09-17",
-   "views": 93
+   "views": 2314
   },
   {
    "date": "2026-09-18",
-   "views": 47
+   "views": 2496
   },
   {
    "date": "2026-09-19",
-   "views": 72
+   "views": 2481
   },
   {
    "date": "2026-09-20",
-   "views": 69
+   "views": 2507
   },
   {
    "date": "2026-09-21",
-   "views": 80
+   "views": 2015
   },
   {
    "date": "2026-09-22",
-   "views": 75
+   "views": 1923
   },
   {
    "date": "2026-09-23",
-   "views": 67
+   "views": 2163
   },
   {
    "date": "2026-09-24",
-   "views": 104
+   "views": 2043
   },
   {
    "date": "2026-09-25",
-   "views": 92
+   "views": 2126
   },
   {
    "date": "2026-09-26",
-   "views": 52
+   "views": 3488
   },
   {
    "date": "2026-09-27",
-   "views": 70
+   "views": 2699
   },
   {
    "date": "2026-09-28",
-   "views": 173
+   "views": 2063
   },
   {
    "date": "2026-09-29",
-   "views": 189
+   "views": 1812
   },
   {
    "date": "2026-09-30",
-   "views": 105
+   "views": 2009
   },
   {
    "date": "2026-10-01",
-   "views": 105
+   "views": 1847
   },
   {
    "date": "2026-10-02",
-   "views": 155
+   "views": 2553
   },
   {
    "date": "2026-10-03",
-   "views": 75
+   "views": 8660
   },
   {
    "date": "2026-10-04",
-   "views": 66
+   "views": 9114
   },
   {
    "date": "2026-10-05",
-   "views": 91
+   "views": 6318
   },
   {
    "date": "2026-10-06",
-   "views": 131
+   "views": 3729
   },
   {
    "date": "2026-10-07",
-   "views": 42841
+   "views": 2438
   },
   {
    "date": "2026-10-08",
-   "views": 82298
+   "views": 1824
   },
   {
    "date": "2026-10-09",
-   "views": 40388
+   "views": 1655
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2163
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2347
+  },
+  {
+   "date": "2026-10-12",
+   "views": 249706
+  },
+  {
+   "date": "2026-10-13",
+   "views": 419767
+  },
+  {
+   "date": "2026-10-14",
+   "views": 114269
   }
  ],
- "wikipedia_title": "Shooting_of_Abby_Zwerner",
+ "wikipedia_title": "Selma_Blair",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

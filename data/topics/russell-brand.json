@@ -1,198 +1,198 @@
 {
- "title": "Hannah Fry",
- "slug": "hannah-fry",
- "score": 37,
+ "title": "Russell Brand",
+ "slug": "russell-brand",
+ "score": 49,
  "status": "Building",
- "change_percent": 500,
- "growth_ratio": 6.0,
- "recent_avg": 48152,
- "baseline_avg": 8027,
- "explanation": "Attention is 6.0\u00d7 its 30-day baseline.",
+ "change_percent": 1265,
+ "growth_ratio": 13.65,
+ "recent_avg": 46155,
+ "baseline_avg": 3382,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 40125,
- "latest": 73813,
+ "abs_change": 42773,
+ "latest": 75152,
  "components": {
-  "acceleration": 0.458,
-  "anomaly": 0.336,
+  "acceleration": 0.668,
+  "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.933,
-  "volume": 0.841,
-  "spike_quality": 0.895
+  "momentum": 0.867,
+  "volume": 0.832,
+  "spike_quality": 0.794
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 48,152 views/day over the last 3 days (30-day baseline: 8,027)."
+  "Averaging 46,155 views/day over the last 3 days (30-day baseline: 3,382)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 2086
-  },
-  {
-   "date": "2026-09-01",
-   "views": 1670
-  },
-  {
-   "date": "2026-09-02",
-   "views": 1975
-  },
-  {
-   "date": "2026-09-03",
-   "views": 3353
-  },
-  {
-   "date": "2026-09-04",
-   "views": 2595
-  },
-  {
    "date": "2026-09-05",
-   "views": 2342
+   "views": 3631
   },
   {
    "date": "2026-09-06",
-   "views": 2438
+   "views": 3528
   },
   {
    "date": "2026-09-07",
-   "views": 2487
+   "views": 3244
   },
   {
    "date": "2026-09-08",
-   "views": 2850
+   "views": 2808
   },
   {
    "date": "2026-09-09",
-   "views": 2653
+   "views": 2876
   },
   {
    "date": "2026-09-10",
-   "views": 2611
+   "views": 2629
   },
   {
    "date": "2026-09-11",
-   "views": 2012
+   "views": 2787
   },
   {
    "date": "2026-09-12",
-   "views": 2091
+   "views": 3018
   },
   {
    "date": "2026-09-13",
-   "views": 2236
+   "views": 3234
   },
   {
    "date": "2026-09-14",
-   "views": 2198
+   "views": 5729
   },
   {
    "date": "2026-09-15",
-   "views": 2809
+   "views": 4755
   },
   {
    "date": "2026-09-16",
-   "views": 3086
+   "views": 3855
   },
   {
    "date": "2026-09-17",
-   "views": 2912
+   "views": 3539
   },
   {
    "date": "2026-09-18",
-   "views": 3088
+   "views": 3526
   },
   {
    "date": "2026-09-19",
-   "views": 3127
+   "views": 2981
   },
   {
    "date": "2026-09-20",
-   "views": 2668
+   "views": 3451
   },
   {
    "date": "2026-09-21",
-   "views": 2700
+   "views": 3162
   },
   {
    "date": "2026-09-22",
-   "views": 3078
+   "views": 3054
   },
   {
    "date": "2026-09-23",
-   "views": 3177
+   "views": 2519
   },
   {
    "date": "2026-09-24",
-   "views": 3636
+   "views": 2609
   },
   {
    "date": "2026-09-25",
-   "views": 3605
+   "views": 2655
   },
   {
    "date": "2026-09-26",
-   "views": 3092
+   "views": 3274
   },
   {
    "date": "2026-09-27",
-   "views": 4153
+   "views": 3240
   },
   {
    "date": "2026-09-28",
-   "views": 3035
+   "views": 2612
   },
   {
    "date": "2026-09-29",
-   "views": 2818
+   "views": 3080
   },
   {
    "date": "2026-09-30",
-   "views": 3842
+   "views": 4225
   },
   {
    "date": "2026-10-01",
-   "views": 35807
+   "views": 3214
   },
   {
    "date": "2026-10-02",
-   "views": 50582
+   "views": 2641
   },
   {
    "date": "2026-10-03",
-   "views": 35239
+   "views": 2573
   },
   {
    "date": "2026-10-04",
-   "views": 24498
+   "views": 2994
   },
   {
    "date": "2026-10-05",
-   "views": 14514
+   "views": 2673
   },
   {
    "date": "2026-10-06",
-   "views": 10209
+   "views": 4806
   },
   {
    "date": "2026-10-07",
-   "views": 8974
+   "views": 4913
   },
   {
    "date": "2026-10-08",
-   "views": 61668
+   "views": 2834
   },
   {
    "date": "2026-10-09",
-   "views": 73813
+   "views": 2613
+  },
+  {
+   "date": "2026-10-10",
+   "views": 3078
+  },
+  {
+   "date": "2026-10-11",
+   "views": 4601
+  },
+  {
+   "date": "2026-10-12",
+   "views": 43689
+  },
+  {
+   "date": "2026-10-13",
+   "views": 19625
+  },
+  {
+   "date": "2026-10-14",
+   "views": 75152
   }
  ],
- "wikipedia_title": "Hannah_Fry",
+ "wikipedia_title": "Russell_Brand",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

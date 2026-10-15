@@ -1,198 +1,198 @@
 {
- "title": "Carrie (1976 film)",
- "slug": "carrie-1976-film",
- "score": 53,
- "status": "Building",
- "change_percent": 677,
- "growth_ratio": 7.77,
- "recent_avg": 36730,
- "baseline_avg": 4729,
- "explanation": "Attention is 7.8\u00d7 its 30-day baseline.",
+ "title": "Narnia: The Magician's Nephew",
+ "slug": "narnia-the-magician-s-nephew",
+ "score": 49,
+ "status": "Breaking out",
+ "change_percent": 811,
+ "growth_ratio": 9.11,
+ "recent_avg": 47301,
+ "baseline_avg": 5193,
+ "explanation": "Attention is 9.1\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32001,
- "latest": 54580,
+ "abs_change": 42108,
+ "latest": 78046,
  "components": {
-  "acceleration": 0.524,
-  "anomaly": 1.0,
+  "acceleration": 0.565,
+  "anomaly": 0.814,
   "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 0.783,
-  "spike_quality": 0.851
+  "volume": 0.837,
+  "spike_quality": 0.781
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 36,730 views/day over the last 3 days (30-day baseline: 4,729)."
+  "Averaging 47,301 views/day over the last 3 days (30-day baseline: 5,193)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 2019
-  },
-  {
-   "date": "2026-09-01",
-   "views": 1873
-  },
-  {
-   "date": "2026-09-02",
-   "views": 1932
-  },
-  {
-   "date": "2026-09-03",
-   "views": 1807
-  },
-  {
-   "date": "2026-09-04",
-   "views": 1975
-  },
-  {
    "date": "2026-09-05",
-   "views": 2021
+   "views": 1984
   },
   {
    "date": "2026-09-06",
-   "views": 2367
+   "views": 2110
   },
   {
    "date": "2026-09-07",
-   "views": 2602
+   "views": 2196
   },
   {
    "date": "2026-09-08",
-   "views": 1917
+   "views": 2131
   },
   {
    "date": "2026-09-09",
-   "views": 9540
+   "views": 1995
   },
   {
    "date": "2026-09-10",
-   "views": 11590
+   "views": 1770
   },
   {
    "date": "2026-09-11",
-   "views": 6035
+   "views": 1672
   },
   {
    "date": "2026-09-12",
-   "views": 4730
+   "views": 1808
   },
   {
    "date": "2026-09-13",
-   "views": 4724
+   "views": 1978
   },
   {
    "date": "2026-09-14",
-   "views": 4123
+   "views": 1903
   },
   {
    "date": "2026-09-15",
-   "views": 3471
+   "views": 1696
   },
   {
    "date": "2026-09-16",
-   "views": 3176
+   "views": 8308
   },
   {
    "date": "2026-09-17",
-   "views": 2870
+   "views": 17198
   },
   {
    "date": "2026-09-18",
-   "views": 2778
+   "views": 22942
   },
   {
    "date": "2026-09-19",
-   "views": 3385
+   "views": 17024
   },
   {
    "date": "2026-09-20",
-   "views": 3871
+   "views": 9370
   },
   {
    "date": "2026-09-21",
-   "views": 3126
+   "views": 7920
   },
   {
    "date": "2026-09-22",
-   "views": 3560
+   "views": 7721
   },
   {
    "date": "2026-09-23",
-   "views": 3555
+   "views": 7137
   },
   {
    "date": "2026-09-24",
-   "views": 3135
+   "views": 5199
   },
   {
    "date": "2026-09-25",
-   "views": 2775
+   "views": 4296
   },
   {
    "date": "2026-09-26",
-   "views": 3238
+   "views": 3780
   },
   {
    "date": "2026-09-27",
-   "views": 3726
+   "views": 3599
   },
   {
    "date": "2026-09-28",
-   "views": 4171
+   "views": 3051
   },
   {
    "date": "2026-09-29",
-   "views": 3920
+   "views": 3005
   },
   {
    "date": "2026-09-30",
-   "views": 4087
+   "views": 2587
   },
   {
    "date": "2026-10-01",
-   "views": 5615
+   "views": 2293
   },
   {
    "date": "2026-10-02",
-   "views": 9386
+   "views": 2215
   },
   {
    "date": "2026-10-03",
-   "views": 6572
+   "views": 2310
   },
   {
    "date": "2026-10-04",
-   "views": 7310
+   "views": 2906
   },
   {
    "date": "2026-10-05",
-   "views": 6112
+   "views": 2599
   },
   {
    "date": "2026-10-06",
-   "views": 6773
+   "views": 2065
   },
   {
    "date": "2026-10-07",
-   "views": 20670
+   "views": 2292
   },
   {
    "date": "2026-10-08",
-   "views": 34941
+   "views": 2200
   },
   {
    "date": "2026-10-09",
-   "views": 54580
+   "views": 1982
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2204
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2208
+  },
+  {
+   "date": "2026-10-12",
+   "views": 8623
+  },
+  {
+   "date": "2026-10-13",
+   "views": 55235
+  },
+  {
+   "date": "2026-10-14",
+   "views": 78046
   }
  ],
- "wikipedia_title": "Carrie_(1976_film)",
+ "wikipedia_title": "Narnia:_The_Magician's_Nephew",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

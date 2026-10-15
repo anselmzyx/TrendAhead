@@ -1,198 +1,198 @@
 {
- "title": "Josh Hartnett",
- "slug": "josh-hartnett",
- "score": 44,
- "status": "Building",
- "change_percent": 235,
- "growth_ratio": 3.35,
- "recent_avg": 45228,
- "baseline_avg": 13483,
- "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
+ "title": "VisionQuest",
+ "slug": "visionquest",
+ "score": 64,
+ "status": "Breaking out",
+ "change_percent": 752,
+ "growth_ratio": 8.52,
+ "recent_avg": 73128,
+ "baseline_avg": 8583,
+ "explanation": "Attention is 8.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 31745,
- "latest": 65926,
+ "abs_change": 64545,
+ "latest": 156179,
  "components": {
-  "acceleration": 0.309,
-  "anomaly": 0.281,
-  "persistence": 0.84,
+  "acceleration": 0.548,
+  "anomaly": 1.0,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.828,
-  "spike_quality": 0.932
+  "volume": 0.932,
+  "spike_quality": 0.754
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,228 views/day over the last 3 days (30-day baseline: 13,483)."
+  "Averaging 73,128 views/day over the last 3 days (30-day baseline: 8,583)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 4245
-  },
-  {
-   "date": "2026-09-01",
-   "views": 3604
-  },
-  {
-   "date": "2026-09-02",
-   "views": 3122
-  },
-  {
-   "date": "2026-09-03",
-   "views": 3282
-  },
-  {
-   "date": "2026-09-04",
-   "views": 4013
-  },
-  {
    "date": "2026-09-05",
-   "views": 4659
+   "views": 3289
   },
   {
    "date": "2026-09-06",
-   "views": 5037
+   "views": 3316
   },
   {
    "date": "2026-09-07",
-   "views": 4839
+   "views": 4246
   },
   {
    "date": "2026-09-08",
-   "views": 4229
+   "views": 4906
   },
   {
    "date": "2026-09-09",
-   "views": 4506
+   "views": 4608
   },
   {
    "date": "2026-09-10",
-   "views": 6810
+   "views": 4451
   },
   {
    "date": "2026-09-11",
-   "views": 7681
+   "views": 3838
   },
   {
    "date": "2026-09-12",
-   "views": 7242
+   "views": 3637
   },
   {
    "date": "2026-09-13",
-   "views": 7015
+   "views": 3909
   },
   {
    "date": "2026-09-14",
-   "views": 5505
+   "views": 3778
   },
   {
    "date": "2026-09-15",
-   "views": 5614
+   "views": 3314
   },
   {
    "date": "2026-09-16",
-   "views": 6983
+   "views": 2859
   },
   {
    "date": "2026-09-17",
-   "views": 5887
+   "views": 3984
   },
   {
    "date": "2026-09-18",
-   "views": 5965
+   "views": 4692
   },
   {
    "date": "2026-09-19",
-   "views": 5903
+   "views": 3763
   },
   {
    "date": "2026-09-20",
-   "views": 6244
+   "views": 3908
   },
   {
    "date": "2026-09-21",
-   "views": 5654
+   "views": 4471
   },
   {
    "date": "2026-09-22",
-   "views": 5742
+   "views": 4484
   },
   {
    "date": "2026-09-23",
-   "views": 6302
+   "views": 3717
   },
   {
    "date": "2026-09-24",
-   "views": 8289
+   "views": 4184
   },
   {
    "date": "2026-09-25",
-   "views": 20270
+   "views": 3831
   },
   {
    "date": "2026-09-26",
-   "views": 12978
+   "views": 5939
   },
   {
    "date": "2026-09-27",
-   "views": 11072
+   "views": 11936
   },
   {
    "date": "2026-09-28",
-   "views": 11178
+   "views": 8912
   },
   {
    "date": "2026-09-29",
-   "views": 15532
+   "views": 9136
   },
   {
    "date": "2026-09-30",
-   "views": 23449
+   "views": 7918
   },
   {
    "date": "2026-10-01",
-   "views": 40866
+   "views": 19159
   },
   {
    "date": "2026-10-02",
-   "views": 40612
+   "views": 22274
   },
   {
    "date": "2026-10-03",
-   "views": 36891
+   "views": 13731
   },
   {
    "date": "2026-10-04",
-   "views": 34818
+   "views": 13685
   },
   {
    "date": "2026-10-05",
-   "views": 24649
+   "views": 11513
   },
   {
    "date": "2026-10-06",
-   "views": 21770
+   "views": 10520
   },
   {
    "date": "2026-10-07",
-   "views": 23029
+   "views": 11403
   },
   {
    "date": "2026-10-08",
-   "views": 46728
+   "views": 12169
   },
   {
    "date": "2026-10-09",
-   "views": 65926
+   "views": 14668
+  },
+  {
+   "date": "2026-10-10",
+   "views": 14498
+  },
+  {
+   "date": "2026-10-11",
+   "views": 15496
+  },
+  {
+   "date": "2026-10-12",
+   "views": 22822
+  },
+  {
+   "date": "2026-10-13",
+   "views": 40384
+  },
+  {
+   "date": "2026-10-14",
+   "views": 156179
   }
  ],
- "wikipedia_title": "Josh_Hartnett",
+ "wikipedia_title": "VisionQuest",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

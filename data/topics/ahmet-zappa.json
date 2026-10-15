@@ -1,198 +1,198 @@
 {
- "title": "Margaret Hamilton (software engineer)",
- "slug": "margaret-hamilton-software-engineer",
- "score": 31,
+ "title": "Ahmet Zappa",
+ "slug": "ahmet-zappa",
+ "score": 24,
  "status": "Peaked / fading",
- "change_percent": 13111,
- "growth_ratio": 132.01,
- "recent_avg": 80981,
- "baseline_avg": 613,
- "explanation": "Attention surged to 132\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 3653,
+ "growth_ratio": 37.52,
+ "recent_avg": 34340,
+ "baseline_avg": 915,
+ "explanation": "Attention surged to 38\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 80368,
- "latest": 74607,
+ "abs_change": 33425,
+ "latest": 15151,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.927,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.475,
-  "volume": 0.954,
-  "spike_quality": 0.426
+  "momentum": 0.365,
+  "volume": 0.768,
+  "spike_quality": 0.417
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 80,981 views/day over the last 3 days (30-day baseline: 613)."
+  "Averaging 34,340 views/day over the last 3 days (30-day baseline: 915)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 604
-  },
-  {
-   "date": "2026-09-01",
-   "views": 522
-  },
-  {
-   "date": "2026-09-02",
-   "views": 586
-  },
-  {
-   "date": "2026-09-03",
-   "views": 492
-  },
-  {
-   "date": "2026-09-04",
-   "views": 453
-  },
-  {
    "date": "2026-09-05",
-   "views": 388
+   "views": 556
   },
   {
    "date": "2026-09-06",
-   "views": 479
+   "views": 578
   },
   {
    "date": "2026-09-07",
-   "views": 535
+   "views": 652
   },
   {
    "date": "2026-09-08",
-   "views": 551
+   "views": 660
   },
   {
    "date": "2026-09-09",
-   "views": 519
+   "views": 579
   },
   {
    "date": "2026-09-10",
-   "views": 527
+   "views": 583
   },
   {
    "date": "2026-09-11",
-   "views": 753
+   "views": 540
   },
   {
    "date": "2026-09-12",
-   "views": 456
+   "views": 605
   },
   {
    "date": "2026-09-13",
-   "views": 942
+   "views": 637
   },
   {
    "date": "2026-09-14",
-   "views": 642
+   "views": 603
   },
   {
    "date": "2026-09-15",
-   "views": 840
+   "views": 720
   },
   {
    "date": "2026-09-16",
-   "views": 575
+   "views": 917
   },
   {
    "date": "2026-09-17",
-   "views": 607
+   "views": 1441
   },
   {
    "date": "2026-09-18",
-   "views": 526
+   "views": 1595
   },
   {
    "date": "2026-09-19",
-   "views": 461
+   "views": 1110
   },
   {
    "date": "2026-09-20",
-   "views": 532
+   "views": 810
   },
   {
    "date": "2026-09-21",
-   "views": 526
+   "views": 707
   },
   {
    "date": "2026-09-22",
-   "views": 778
+   "views": 703
   },
   {
    "date": "2026-09-23",
-   "views": 787
+   "views": 687
   },
   {
    "date": "2026-09-24",
-   "views": 861
+   "views": 648
   },
   {
    "date": "2026-09-25",
-   "views": 597
+   "views": 647
   },
   {
    "date": "2026-09-26",
-   "views": 385
+   "views": 768
   },
   {
    "date": "2026-09-27",
-   "views": 575
+   "views": 713
   },
   {
    "date": "2026-09-28",
-   "views": 521
+   "views": 727
   },
   {
    "date": "2026-09-29",
-   "views": 568
+   "views": 608
   },
   {
    "date": "2026-09-30",
-   "views": 545
+   "views": 624
   },
   {
    "date": "2026-10-01",
-   "views": 682
+   "views": 540
   },
   {
    "date": "2026-10-02",
-   "views": 581
+   "views": 710
   },
   {
    "date": "2026-10-03",
-   "views": 650
+   "views": 2291
   },
   {
    "date": "2026-10-04",
-   "views": 688
+   "views": 2413
   },
   {
    "date": "2026-10-05",
-   "views": 610
+   "views": 1783
   },
   {
    "date": "2026-10-06",
-   "views": 584
+   "views": 1106
   },
   {
    "date": "2026-10-07",
-   "views": 5597
+   "views": 747
   },
   {
    "date": "2026-10-08",
-   "views": 162739
+   "views": 677
   },
   {
    "date": "2026-10-09",
-   "views": 74607
+   "views": 581
+  },
+  {
+   "date": "2026-10-10",
+   "views": 615
+  },
+  {
+   "date": "2026-10-11",
+   "views": 721
+  },
+  {
+   "date": "2026-10-12",
+   "views": 32870
+  },
+  {
+   "date": "2026-10-13",
+   "views": 54999
+  },
+  {
+   "date": "2026-10-14",
+   "views": 15151
   }
  ],
- "wikipedia_title": "Margaret_Hamilton_(software_engineer)",
+ "wikipedia_title": "Ahmet_Zappa",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

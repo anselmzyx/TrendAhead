@@ -1,198 +1,198 @@
 {
- "title": "Other Mommy",
- "slug": "other-mommy",
- "score": 70,
+ "title": "Pope Leo XIV",
+ "slug": "pope-leo-xiv",
+ "score": 50,
  "status": "Building",
- "change_percent": 592,
- "growth_ratio": 6.92,
- "recent_avg": 93558,
- "baseline_avg": 13529,
- "explanation": "Attention is 6.9\u00d7 its 30-day baseline.",
+ "change_percent": 354,
+ "growth_ratio": 4.54,
+ "recent_avg": 48748,
+ "baseline_avg": 10728,
+ "explanation": "Attention is 4.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 80029,
- "latest": 171173,
+ "abs_change": 38020,
+ "latest": 75186,
  "components": {
-  "acceleration": 0.494,
-  "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.986,
-  "spike_quality": 0.816
+  "acceleration": 0.387,
+  "anomaly": 0.831,
+  "persistence": 0.72,
+  "momentum": 0.933,
+  "volume": 0.844,
+  "spike_quality": 0.861
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 93,558 views/day over the last 3 days (30-day baseline: 13,529)."
+  "Averaging 48,748 views/day over the last 3 days (30-day baseline: 10,728)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 3178
-  },
-  {
-   "date": "2026-09-01",
-   "views": 2682
-  },
-  {
-   "date": "2026-09-02",
-   "views": 2704
-  },
-  {
-   "date": "2026-09-03",
-   "views": 2572
-  },
-  {
-   "date": "2026-09-04",
-   "views": 2685
-  },
-  {
    "date": "2026-09-05",
-   "views": 2738
+   "views": 5893
   },
   {
    "date": "2026-09-06",
-   "views": 3226
+   "views": 6121
   },
   {
    "date": "2026-09-07",
-   "views": 5042
+   "views": 6277
   },
   {
    "date": "2026-09-08",
-   "views": 3878
+   "views": 7279
   },
   {
    "date": "2026-09-09",
-   "views": 3673
+   "views": 5768
   },
   {
    "date": "2026-09-10",
-   "views": 3928
+   "views": 7234
   },
   {
    "date": "2026-09-11",
-   "views": 6219
+   "views": 5695
   },
   {
    "date": "2026-09-12",
-   "views": 6150
+   "views": 5655
   },
   {
    "date": "2026-09-13",
-   "views": 9580
+   "views": 7002
   },
   {
    "date": "2026-09-14",
-   "views": 7729
+   "views": 13525
   },
   {
    "date": "2026-09-15",
-   "views": 18449
+   "views": 9243
   },
   {
    "date": "2026-09-16",
-   "views": 29642
+   "views": 7158
   },
   {
    "date": "2026-09-17",
-   "views": 17335
+   "views": 6902
   },
   {
    "date": "2026-09-18",
-   "views": 13555
+   "views": 7190
   },
   {
    "date": "2026-09-19",
-   "views": 13042
+   "views": 7516
   },
   {
    "date": "2026-09-20",
-   "views": 12116
+   "views": 8476
   },
   {
    "date": "2026-09-21",
-   "views": 11689
+   "views": 7505
   },
   {
    "date": "2026-09-22",
-   "views": 11258
+   "views": 6793
   },
   {
    "date": "2026-09-23",
-   "views": 11431
+   "views": 7284
   },
   {
    "date": "2026-09-24",
-   "views": 11221
+   "views": 8174
   },
   {
    "date": "2026-09-25",
-   "views": 11091
+   "views": 22005
   },
   {
    "date": "2026-09-26",
-   "views": 11009
+   "views": 21564
   },
   {
    "date": "2026-09-27",
-   "views": 12416
+   "views": 17055
   },
   {
    "date": "2026-09-28",
-   "views": 15260
+   "views": 13915
   },
   {
    "date": "2026-09-29",
-   "views": 13479
+   "views": 12820
   },
   {
    "date": "2026-09-30",
-   "views": 16095
+   "views": 10875
   },
   {
    "date": "2026-10-01",
-   "views": 17911
+   "views": 11442
   },
   {
    "date": "2026-10-02",
-   "views": 19461
+   "views": 9808
   },
   {
    "date": "2026-10-03",
-   "views": 17693
+   "views": 11439
   },
   {
    "date": "2026-10-04",
-   "views": 22452
+   "views": 9871
   },
   {
    "date": "2026-10-05",
-   "views": 25554
+   "views": 9001
   },
   {
    "date": "2026-10-06",
-   "views": 27522
+   "views": 10260
   },
   {
    "date": "2026-10-07",
-   "views": 35094
+   "views": 8760
   },
   {
    "date": "2026-10-08",
-   "views": 74408
+   "views": 7912
   },
   {
    "date": "2026-10-09",
-   "views": 171173
+   "views": 9696
+  },
+  {
+   "date": "2026-10-10",
+   "views": 9628
+  },
+  {
+   "date": "2026-10-11",
+   "views": 23380
+  },
+  {
+   "date": "2026-10-12",
+   "views": 17708
+  },
+  {
+   "date": "2026-10-13",
+   "views": 53350
+  },
+  {
+   "date": "2026-10-14",
+   "views": 75186
   }
  ],
- "wikipedia_title": "Other_Mommy",
+ "wikipedia_title": "Pope_Leo_XIV",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

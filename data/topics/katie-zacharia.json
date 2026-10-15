@@ -1,198 +1,198 @@
 {
- "title": "The Social Reckoning",
- "slug": "the-social-reckoning",
- "score": 59,
+ "title": "Katie Zacharia",
+ "slug": "katie-zacharia",
+ "score": 76,
  "status": "Building",
- "change_percent": 368,
- "growth_ratio": 4.68,
- "recent_avg": 58050,
- "baseline_avg": 12406,
- "explanation": "Attention is 4.7\u00d7 its 30-day baseline.",
+ "change_percent": 6626,
+ "growth_ratio": 67.26,
+ "recent_avg": 533981,
+ "baseline_avg": 7939,
+ "explanation": "Attention is 67\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 45644,
- "latest": 77332,
+ "abs_change": 526042,
+ "latest": 906890,
  "components": {
-  "acceleration": 0.394,
-  "anomaly": 0.637,
-  "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.882,
-  "spike_quality": 0.925
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.84,
+  "momentum": 0.933,
+  "volume": 1.0,
+  "spike_quality": 0.796
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 58,050 views/day over the last 3 days (30-day baseline: 12,406)."
+  "Averaging 533,981 views/day over the last 3 days (30-day baseline: 7,939)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 6799
-  },
-  {
-   "date": "2026-09-01",
-   "views": 6283
-  },
-  {
-   "date": "2026-09-02",
-   "views": 5274
-  },
-  {
-   "date": "2026-09-03",
-   "views": 4886
-  },
-  {
-   "date": "2026-09-04",
-   "views": 4479
-  },
-  {
    "date": "2026-09-05",
-   "views": 4129
+   "views": 0
   },
   {
    "date": "2026-09-06",
-   "views": 5055
+   "views": 0
   },
   {
    "date": "2026-09-07",
-   "views": 6669
+   "views": 0
   },
   {
    "date": "2026-09-08",
-   "views": 5896
+   "views": 0
   },
   {
    "date": "2026-09-09",
-   "views": 5679
+   "views": 0
   },
   {
    "date": "2026-09-10",
-   "views": 4796
+   "views": 0
   },
   {
    "date": "2026-09-11",
-   "views": 5015
+   "views": 0
   },
   {
    "date": "2026-09-12",
-   "views": 5518
+   "views": 0
   },
   {
    "date": "2026-09-13",
-   "views": 10941
+   "views": 0
   },
   {
    "date": "2026-09-14",
-   "views": 7563
+   "views": 0
   },
   {
    "date": "2026-09-15",
-   "views": 11167
+   "views": 0
   },
   {
    "date": "2026-09-16",
-   "views": 6774
+   "views": 0
   },
   {
    "date": "2026-09-17",
-   "views": 9442
+   "views": 0
   },
   {
    "date": "2026-09-18",
-   "views": 8206
+   "views": 0
   },
   {
    "date": "2026-09-19",
-   "views": 10968
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 10023
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 11036
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 8863
+   "views": 0
   },
   {
    "date": "2026-09-23",
-   "views": 9383
+   "views": 0
   },
   {
    "date": "2026-09-24",
-   "views": 11889
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 10235
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 9762
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 17218
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 14616
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 13318
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 15652
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 16457
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 15230
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 17463
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 27504
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 34958
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 29937
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 46222
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 50596
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 77332
+   "views": 9534
+  },
+  {
+   "date": "2026-10-10",
+   "views": 151159
+  },
+  {
+   "date": "2026-10-11",
+   "views": 77490
+  },
+  {
+   "date": "2026-10-12",
+   "views": 68511
+  },
+  {
+   "date": "2026-10-13",
+   "views": 626541
+  },
+  {
+   "date": "2026-10-14",
+   "views": 906890
   }
  ],
- "wikipedia_title": "The_Social_Reckoning",
+ "wikipedia_title": "Katie_Zacharia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

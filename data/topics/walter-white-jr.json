@@ -1,148 +1,129 @@
 {
- "title": "Anne Carson",
- "slug": "anne-carson",
- "score": 40,
+ "title": "Walter White Jr.",
+ "slug": "walter-white-jr",
+ "score": 23,
  "status": "Peaked / fading",
- "change_percent": 45553,
- "growth_ratio": 457.08,
- "recent_avg": 141069,
- "baseline_avg": 309,
- "explanation": "Attention surged to 457\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 15513,
+ "growth_ratio": 156.29,
+ "recent_avg": 50586,
+ "baseline_avg": 324,
+ "explanation": "Attention surged to 156\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 140760,
- "latest": 142256,
+ "abs_change": 50262,
+ "latest": 15746,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.506,
-  "volume": 1.0,
-  "spike_quality": 0.457
+  "persistence": 0.52,
+  "momentum": 0.318,
+  "volume": 0.852,
+  "spike_quality": 0.376
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 141,069 views/day over the last 3 days (30-day baseline: 309)."
+  "Averaging 50,586 views/day over the last 3 days (30-day baseline: 324)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 242
-  },
-  {
-   "date": "2026-09-01",
-   "views": 231
-  },
-  {
-   "date": "2026-09-02",
-   "views": 443
-  },
-  {
-   "date": "2026-09-03",
-   "views": 686
-  },
-  {
-   "date": "2026-09-04",
-   "views": 373
-  },
-  {
    "date": "2026-09-05",
-   "views": 366
+   "views": 313
   },
   {
    "date": "2026-09-06",
-   "views": 229
+   "views": 369
   },
   {
    "date": "2026-09-07",
-   "views": 240
+   "views": 355
   },
   {
    "date": "2026-09-08",
-   "views": 212
+   "views": 343
   },
   {
    "date": "2026-09-09",
-   "views": 243
+   "views": 307
   },
   {
    "date": "2026-09-10",
-   "views": 251
+   "views": 285
   },
   {
    "date": "2026-09-11",
-   "views": 222
+   "views": 320
   },
   {
    "date": "2026-09-12",
-   "views": 206
+   "views": 320
   },
   {
    "date": "2026-09-13",
-   "views": 261
+   "views": 291
   },
   {
    "date": "2026-09-14",
-   "views": 198
+   "views": 338
   },
   {
    "date": "2026-09-15",
-   "views": 245
+   "views": 307
   },
   {
    "date": "2026-09-16",
-   "views": 303
+   "views": 374
   },
   {
    "date": "2026-09-17",
-   "views": 383
+   "views": 318
   },
   {
    "date": "2026-09-18",
-   "views": 280
+   "views": 283
   },
   {
    "date": "2026-09-19",
-   "views": 263
+   "views": 346
   },
   {
    "date": "2026-09-20",
-   "views": 224
+   "views": 359
   },
   {
    "date": "2026-09-21",
-   "views": 241
+   "views": 332
   },
   {
    "date": "2026-09-22",
-   "views": 259
+   "views": 291
   },
   {
    "date": "2026-09-23",
-   "views": 216
+   "views": 342
   },
   {
    "date": "2026-09-24",
-   "views": 240
-  },
-  {
-   "date": "2026-09-25",
-   "views": 200
-  },
-  {
-   "date": "2026-09-26",
-   "views": 218
-  },
-  {
-   "date": "2026-09-27",
    "views": 290
   },
   {
+   "date": "2026-09-25",
+   "views": 303
+  },
+  {
+   "date": "2026-09-26",
+   "views": 313
+  },
+  {
+   "date": "2026-09-27",
+   "views": 312
+  },
+  {
    "date": "2026-09-28",
-   "views": 295
+   "views": 325
   },
   {
    "date": "2026-09-29",
@@ -150,48 +131,68 @@
   },
   {
    "date": "2026-09-30",
-   "views": 313
+   "views": 323
   },
   {
    "date": "2026-10-01",
-   "views": 270
+   "views": 329
   },
   {
    "date": "2026-10-02",
-   "views": 349
+   "views": 277
   },
   {
    "date": "2026-10-03",
-   "views": 400
+   "views": 318
   },
   {
    "date": "2026-10-04",
-   "views": 447
+   "views": 344
   },
   {
    "date": "2026-10-05",
-   "views": 737
+   "views": 300
   },
   {
    "date": "2026-10-06",
-   "views": 994
+   "views": 404
   },
   {
    "date": "2026-10-07",
-   "views": 2159
+   "views": 324
   },
   {
    "date": "2026-10-08",
-   "views": 278792
+   "views": 405
   },
   {
    "date": "2026-10-09",
-   "views": 142256
+   "views": 344
+  },
+  {
+   "date": "2026-10-10",
+   "views": 308
+  },
+  {
+   "date": "2026-10-11",
+   "views": 331
+  },
+  {
+   "date": "2026-10-12",
+   "views": 55820
+  },
+  {
+   "date": "2026-10-13",
+   "views": 80191
+  },
+  {
+   "date": "2026-10-14",
+   "views": 15746
   }
  ],
- "wikipedia_title": "Anne_Carson",
+ "wikipedia_title": "Walter_White_Jr.",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

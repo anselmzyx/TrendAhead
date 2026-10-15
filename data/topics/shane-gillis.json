@@ -1,0 +1,197 @@
+{
+ "title": "Shane Gillis",
+ "slug": "shane-gillis",
+ "score": 23,
+ "status": "Peaked / fading",
+ "change_percent": 804,
+ "growth_ratio": 9.04,
+ "recent_avg": 88594,
+ "baseline_avg": 9795,
+ "explanation": "Attention surged to 9.0\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 78799,
+ "latest": 55988,
+ "components": {
+  "acceleration": 0.563,
+  "anomaly": 0.421,
+  "persistence": 0.56,
+  "momentum": 0.305,
+  "volume": 0.974,
+  "spike_quality": 0.678
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 88,594 views/day over the last 3 days (30-day baseline: 9,795)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-05",
+   "views": 7405
+  },
+  {
+   "date": "2026-09-06",
+   "views": 7530
+  },
+  {
+   "date": "2026-09-07",
+   "views": 8412
+  },
+  {
+   "date": "2026-09-08",
+   "views": 6906
+  },
+  {
+   "date": "2026-09-09",
+   "views": 8872
+  },
+  {
+   "date": "2026-09-10",
+   "views": 8547
+  },
+  {
+   "date": "2026-09-11",
+   "views": 6918
+  },
+  {
+   "date": "2026-09-12",
+   "views": 6923
+  },
+  {
+   "date": "2026-09-13",
+   "views": 9611
+  },
+  {
+   "date": "2026-09-14",
+   "views": 6748
+  },
+  {
+   "date": "2026-09-15",
+   "views": 6316
+  },
+  {
+   "date": "2026-09-16",
+   "views": 5995
+  },
+  {
+   "date": "2026-09-17",
+   "views": 6005
+  },
+  {
+   "date": "2026-09-18",
+   "views": 5403
+  },
+  {
+   "date": "2026-09-19",
+   "views": 6057
+  },
+  {
+   "date": "2026-09-20",
+   "views": 7039
+  },
+  {
+   "date": "2026-09-21",
+   "views": 5264
+  },
+  {
+   "date": "2026-09-22",
+   "views": 4990
+  },
+  {
+   "date": "2026-09-23",
+   "views": 5319
+  },
+  {
+   "date": "2026-09-24",
+   "views": 6101
+  },
+  {
+   "date": "2026-09-25",
+   "views": 6747
+  },
+  {
+   "date": "2026-09-26",
+   "views": 6364
+  },
+  {
+   "date": "2026-09-27",
+   "views": 7336
+  },
+  {
+   "date": "2026-09-28",
+   "views": 5760
+  },
+  {
+   "date": "2026-09-29",
+   "views": 4863
+  },
+  {
+   "date": "2026-09-30",
+   "views": 4703
+  },
+  {
+   "date": "2026-10-01",
+   "views": 4630
+  },
+  {
+   "date": "2026-10-02",
+   "views": 4397
+  },
+  {
+   "date": "2026-10-03",
+   "views": 4957
+  },
+  {
+   "date": "2026-10-04",
+   "views": 8895
+  },
+  {
+   "date": "2026-10-05",
+   "views": 5164
+  },
+  {
+   "date": "2026-10-06",
+   "views": 5406
+  },
+  {
+   "date": "2026-10-07",
+   "views": 5848
+  },
+  {
+   "date": "2026-10-08",
+   "views": 8546
+  },
+  {
+   "date": "2026-10-09",
+   "views": 7043
+  },
+  {
+   "date": "2026-10-10",
+   "views": 11225
+  },
+  {
+   "date": "2026-10-11",
+   "views": 110192
+  },
+  {
+   "date": "2026-10-12",
+   "views": 105916
+  },
+  {
+   "date": "2026-10-13",
+   "views": 103877
+  },
+  {
+   "date": "2026-10-14",
+   "views": 55988
+  }
+ ],
+ "wikipedia_title": "Shane_Gillis",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
+}

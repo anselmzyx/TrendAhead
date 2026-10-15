@@ -1,198 +1,197 @@
 {
- "title": "Below (miniseries)",
- "slug": "below-miniseries",
- "score": 69,
- "status": "Breaking out",
- "change_percent": 2564,
- "growth_ratio": 26.64,
- "recent_avg": 82390,
- "baseline_avg": 3093,
- "explanation": "Attention is 27\u00d7 its 30-day baseline.",
+ "title": "Josie Totah",
+ "slug": "josie-totah",
+ "score": 53,
+ "status": "Building",
+ "change_percent": 1124,
+ "growth_ratio": 12.24,
+ "recent_avg": 72176,
+ "baseline_avg": 5899,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 79297,
- "latest": 148760,
+ "abs_change": 66277,
+ "latest": 67097,
  "components": {
-  "acceleration": 0.839,
-  "anomaly": 1.0,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.958,
-  "spike_quality": 0.754
+  "acceleration": 0.64,
+  "anomaly": 0.51,
+  "persistence": 0.92,
+  "momentum": 0.717,
+  "volume": 0.929,
+  "spike_quality": 0.887
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 82,390 views/day over the last 3 days (30-day baseline: 3,093)."
+  "Averaging 72,176 views/day over the last 3 days (30-day baseline: 5,899)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 611
-  },
-  {
-   "date": "2026-09-01",
-   "views": 505
-  },
-  {
-   "date": "2026-09-02",
-   "views": 432
-  },
-  {
-   "date": "2026-09-03",
-   "views": 392
-  },
-  {
-   "date": "2026-09-04",
-   "views": 444
-  },
-  {
    "date": "2026-09-05",
-   "views": 446
+   "views": 598
   },
   {
    "date": "2026-09-06",
-   "views": 531
+   "views": 864
   },
   {
    "date": "2026-09-07",
-   "views": 525
+   "views": 730
   },
   {
    "date": "2026-09-08",
-   "views": 452
+   "views": 819
   },
   {
    "date": "2026-09-09",
-   "views": 814
+   "views": 2557
   },
   {
    "date": "2026-09-10",
-   "views": 9993
+   "views": 2004
   },
   {
    "date": "2026-09-11",
-   "views": 9532
+   "views": 1229
   },
   {
    "date": "2026-09-12",
-   "views": 6366
+   "views": 922
   },
   {
    "date": "2026-09-13",
-   "views": 5848
+   "views": 1107
   },
   {
    "date": "2026-09-14",
-   "views": 4221
+   "views": 1176
   },
   {
    "date": "2026-09-15",
-   "views": 2795
+   "views": 972
   },
   {
    "date": "2026-09-16",
-   "views": 2334
+   "views": 1205
   },
   {
    "date": "2026-09-17",
-   "views": 1981
+   "views": 1123
   },
   {
    "date": "2026-09-18",
-   "views": 1846
+   "views": 834
   },
   {
    "date": "2026-09-19",
-   "views": 1572
+   "views": 977
   },
   {
    "date": "2026-09-20",
-   "views": 1685
+   "views": 1122
   },
   {
    "date": "2026-09-21",
-   "views": 1426
+   "views": 971
   },
   {
    "date": "2026-09-22",
-   "views": 1265
+   "views": 872
   },
   {
    "date": "2026-09-23",
-   "views": 1253
+   "views": 801
   },
   {
    "date": "2026-09-24",
-   "views": 1729
+   "views": 883
   },
   {
    "date": "2026-09-25",
-   "views": 2121
+   "views": 812
   },
   {
    "date": "2026-09-26",
-   "views": 1998
+   "views": 892
   },
   {
    "date": "2026-09-27",
-   "views": 2353
+   "views": 1031
   },
   {
    "date": "2026-09-28",
-   "views": 2074
+   "views": 955
   },
   {
    "date": "2026-09-29",
-   "views": 2539
+   "views": 1411
   },
   {
    "date": "2026-09-30",
-   "views": 2353
+   "views": 1139
   },
   {
    "date": "2026-10-01",
-   "views": 3532
+   "views": 2343
   },
   {
    "date": "2026-10-02",
-   "views": 3603
+   "views": 1916
   },
   {
    "date": "2026-10-03",
-   "views": 3418
+   "views": 1529
   },
   {
    "date": "2026-10-04",
-   "views": 3567
+   "views": 1567
   },
   {
    "date": "2026-10-05",
-   "views": 4382
+   "views": 1596
   },
   {
    "date": "2026-10-06",
-   "views": 5211
+   "views": 1289
   },
   {
    "date": "2026-10-07",
-   "views": 6871
+   "views": 7655
   },
   {
    "date": "2026-10-08",
-   "views": 91539
+   "views": 17019
   },
   {
    "date": "2026-10-09",
-   "views": 148760
+   "views": 23385
+  },
+  {
+   "date": "2026-10-10",
+   "views": 39056
+  },
+  {
+   "date": "2026-10-11",
+   "views": 60412
+  },
+  {
+   "date": "2026-10-12",
+   "views": 71575
+  },
+  {
+   "date": "2026-10-13",
+   "views": 77855
+  },
+  {
+   "date": "2026-10-14",
+   "views": 67097
   }
  ],
- "wikipedia_title": "Below_(miniseries)",
+ "wikipedia_title": "Josie_Totah",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

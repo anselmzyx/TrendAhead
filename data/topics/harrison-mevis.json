@@ -1,0 +1,198 @@
+{
+ "title": "Harrison Mevis",
+ "slug": "harrison-mevis",
+ "score": 23,
+ "status": "Peaked / fading",
+ "change_percent": 3613,
+ "growth_ratio": 37.13,
+ "recent_avg": 63755,
+ "baseline_avg": 1717,
+ "explanation": "Attention surged to 37\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 62038,
+ "latest": 54669,
+ "components": {
+  "acceleration": 0.924,
+  "anomaly": 1.0,
+  "persistence": 0.32,
+  "momentum": 0.441,
+  "volume": 0.902,
+  "spike_quality": 0.372
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 63,755 views/day over the last 3 days (30-day baseline: 1,717)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-05",
+   "views": 413
+  },
+  {
+   "date": "2026-09-06",
+   "views": 631
+  },
+  {
+   "date": "2026-09-07",
+   "views": 637
+  },
+  {
+   "date": "2026-09-08",
+   "views": 581
+  },
+  {
+   "date": "2026-09-09",
+   "views": 643
+  },
+  {
+   "date": "2026-09-10",
+   "views": 654
+  },
+  {
+   "date": "2026-09-11",
+   "views": 1723
+  },
+  {
+   "date": "2026-09-12",
+   "views": 373
+  },
+  {
+   "date": "2026-09-13",
+   "views": 382
+  },
+  {
+   "date": "2026-09-14",
+   "views": 168
+  },
+  {
+   "date": "2026-09-15",
+   "views": 179
+  },
+  {
+   "date": "2026-09-16",
+   "views": 201
+  },
+  {
+   "date": "2026-09-17",
+   "views": 186
+  },
+  {
+   "date": "2026-09-18",
+   "views": 153
+  },
+  {
+   "date": "2026-09-19",
+   "views": 162
+  },
+  {
+   "date": "2026-09-20",
+   "views": 313
+  },
+  {
+   "date": "2026-09-21",
+   "views": 485
+  },
+  {
+   "date": "2026-09-22",
+   "views": 25667
+  },
+  {
+   "date": "2026-09-23",
+   "views": 1327
+  },
+  {
+   "date": "2026-09-24",
+   "views": 555
+  },
+  {
+   "date": "2026-09-25",
+   "views": 543
+  },
+  {
+   "date": "2026-09-26",
+   "views": 375
+  },
+  {
+   "date": "2026-09-27",
+   "views": 598
+  },
+  {
+   "date": "2026-09-28",
+   "views": 12443
+  },
+  {
+   "date": "2026-09-29",
+   "views": 612
+  },
+  {
+   "date": "2026-09-30",
+   "views": 307
+  },
+  {
+   "date": "2026-10-01",
+   "views": 228
+  },
+  {
+   "date": "2026-10-02",
+   "views": 255
+  },
+  {
+   "date": "2026-10-03",
+   "views": 375
+  },
+  {
+   "date": "2026-10-04",
+   "views": 3319
+  },
+  {
+   "date": "2026-10-05",
+   "views": 539
+  },
+  {
+   "date": "2026-10-06",
+   "views": 328
+  },
+  {
+   "date": "2026-10-07",
+   "views": 255
+  },
+  {
+   "date": "2026-10-08",
+   "views": 168
+  },
+  {
+   "date": "2026-10-09",
+   "views": 173
+  },
+  {
+   "date": "2026-10-10",
+   "views": 320
+  },
+  {
+   "date": "2026-10-11",
+   "views": 525
+  },
+  {
+   "date": "2026-10-12",
+   "views": 528
+  },
+  {
+   "date": "2026-10-13",
+   "views": 136069
+  },
+  {
+   "date": "2026-10-14",
+   "views": 54669
+  }
+ ],
+ "wikipedia_title": "Harrison_Mevis",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
+}

@@ -1,0 +1,198 @@
+{
+ "title": "RJ Mitte",
+ "slug": "rj-mitte",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 61932,
+ "growth_ratio": 620.35,
+ "recent_avg": 1318808,
+ "baseline_avg": 2126,
+ "explanation": "Attention surged to 620\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 1316682,
+ "latest": 409408,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.315,
+  "volume": 1.0,
+  "spike_quality": 0.364
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 1,318,808 views/day over the last 3 days (30-day baseline: 2,126)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-05",
+   "views": 1932
+  },
+  {
+   "date": "2026-09-06",
+   "views": 2047
+  },
+  {
+   "date": "2026-09-07",
+   "views": 2213
+  },
+  {
+   "date": "2026-09-08",
+   "views": 2012
+  },
+  {
+   "date": "2026-09-09",
+   "views": 1870
+  },
+  {
+   "date": "2026-09-10",
+   "views": 1752
+  },
+  {
+   "date": "2026-09-11",
+   "views": 1869
+  },
+  {
+   "date": "2026-09-12",
+   "views": 2070
+  },
+  {
+   "date": "2026-09-13",
+   "views": 2175
+  },
+  {
+   "date": "2026-09-14",
+   "views": 1814
+  },
+  {
+   "date": "2026-09-15",
+   "views": 1947
+  },
+  {
+   "date": "2026-09-16",
+   "views": 1798
+  },
+  {
+   "date": "2026-09-17",
+   "views": 1782
+  },
+  {
+   "date": "2026-09-18",
+   "views": 1651
+  },
+  {
+   "date": "2026-09-19",
+   "views": 1797
+  },
+  {
+   "date": "2026-09-20",
+   "views": 2080
+  },
+  {
+   "date": "2026-09-21",
+   "views": 1882
+  },
+  {
+   "date": "2026-09-22",
+   "views": 2026
+  },
+  {
+   "date": "2026-09-23",
+   "views": 1755
+  },
+  {
+   "date": "2026-09-24",
+   "views": 1722
+  },
+  {
+   "date": "2026-09-25",
+   "views": 1643
+  },
+  {
+   "date": "2026-09-26",
+   "views": 1926
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2230
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2124
+  },
+  {
+   "date": "2026-09-29",
+   "views": 2018
+  },
+  {
+   "date": "2026-09-30",
+   "views": 2062
+  },
+  {
+   "date": "2026-10-01",
+   "views": 1846
+  },
+  {
+   "date": "2026-10-02",
+   "views": 1869
+  },
+  {
+   "date": "2026-10-03",
+   "views": 2040
+  },
+  {
+   "date": "2026-10-04",
+   "views": 2281
+  },
+  {
+   "date": "2026-10-05",
+   "views": 2120
+  },
+  {
+   "date": "2026-10-06",
+   "views": 3317
+  },
+  {
+   "date": "2026-10-07",
+   "views": 2213
+  },
+  {
+   "date": "2026-10-08",
+   "views": 3980
+  },
+  {
+   "date": "2026-10-09",
+   "views": 2861
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2547
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2201
+  },
+  {
+   "date": "2026-10-12",
+   "views": 1406448
+  },
+  {
+   "date": "2026-10-13",
+   "views": 2140567
+  },
+  {
+   "date": "2026-10-14",
+   "views": 409408
+  }
+ ],
+ "wikipedia_title": "RJ_Mitte",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
+}

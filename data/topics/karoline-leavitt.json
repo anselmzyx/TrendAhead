@@ -1,198 +1,198 @@
 {
- "title": "Crossed (comics)",
- "slug": "crossed-comics",
- "score": 49,
- "status": "Breaking out",
- "change_percent": 1787,
- "growth_ratio": 18.87,
- "recent_avg": 23097,
- "baseline_avg": 1224,
- "explanation": "Attention is 19\u00d7 its 30-day baseline.",
+ "title": "Karoline Leavitt",
+ "slug": "karoline-leavitt",
+ "score": 62,
+ "status": "Building",
+ "change_percent": 1171,
+ "growth_ratio": 12.71,
+ "recent_avg": 61049,
+ "baseline_avg": 4804,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 21873,
- "latest": 49066,
+ "abs_change": 56245,
+ "latest": 111774,
  "components": {
-  "acceleration": 0.751,
+  "acceleration": 0.65,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.682,
-  "spike_quality": 0.721
+  "persistence": 0.84,
+  "momentum": 0.933,
+  "volume": 0.893,
+  "spike_quality": 0.796
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 23,097 views/day over the last 3 days (30-day baseline: 1,224)."
+  "Averaging 61,049 views/day over the last 3 days (30-day baseline: 4,804)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 956
-  },
-  {
-   "date": "2026-09-01",
-   "views": 991
-  },
-  {
-   "date": "2026-09-02",
-   "views": 872
-  },
-  {
-   "date": "2026-09-03",
-   "views": 905
-  },
-  {
-   "date": "2026-09-04",
-   "views": 900
-  },
-  {
    "date": "2026-09-05",
-   "views": 909
+   "views": 3622
   },
   {
    "date": "2026-09-06",
-   "views": 875
+   "views": 3283
   },
   {
    "date": "2026-09-07",
-   "views": 1066
+   "views": 3282
   },
   {
    "date": "2026-09-08",
-   "views": 1183
+   "views": 3062
   },
   {
    "date": "2026-09-09",
-   "views": 979
+   "views": 4431
   },
   {
    "date": "2026-09-10",
-   "views": 916
+   "views": 4897
   },
   {
    "date": "2026-09-11",
-   "views": 850
+   "views": 10009
   },
   {
    "date": "2026-09-12",
-   "views": 868
+   "views": 3569
   },
   {
    "date": "2026-09-13",
-   "views": 752
+   "views": 3166
   },
   {
    "date": "2026-09-14",
-   "views": 860
+   "views": 3663
   },
   {
    "date": "2026-09-15",
-   "views": 816
+   "views": 3476
   },
   {
    "date": "2026-09-16",
-   "views": 889
+   "views": 2849
   },
   {
    "date": "2026-09-17",
-   "views": 777
+   "views": 2689
   },
   {
    "date": "2026-09-18",
-   "views": 723
+   "views": 3660
   },
   {
    "date": "2026-09-19",
-   "views": 720
+   "views": 3056
   },
   {
    "date": "2026-09-20",
-   "views": 886
+   "views": 2851
   },
   {
    "date": "2026-09-21",
-   "views": 1369
+   "views": 3092
   },
   {
    "date": "2026-09-22",
-   "views": 1172
+   "views": 4002
   },
   {
    "date": "2026-09-23",
-   "views": 891
+   "views": 3932
   },
   {
    "date": "2026-09-24",
-   "views": 780
+   "views": 3614
   },
   {
    "date": "2026-09-25",
-   "views": 807
+   "views": 2999
   },
   {
    "date": "2026-09-26",
-   "views": 834
+   "views": 2621
   },
   {
    "date": "2026-09-27",
-   "views": 857
+   "views": 2605
   },
   {
    "date": "2026-09-28",
-   "views": 796
+   "views": 2737
   },
   {
    "date": "2026-09-29",
-   "views": 889
+   "views": 3788
   },
   {
    "date": "2026-09-30",
-   "views": 1250
+   "views": 2903
   },
   {
    "date": "2026-10-01",
-   "views": 1055
+   "views": 2520
   },
   {
    "date": "2026-10-02",
-   "views": 4064
+   "views": 2509
   },
   {
    "date": "2026-10-03",
-   "views": 5131
+   "views": 2535
   },
   {
    "date": "2026-10-04",
-   "views": 1826
+   "views": 2779
   },
   {
    "date": "2026-10-05",
-   "views": 1550
+   "views": 12823
   },
   {
    "date": "2026-10-06",
-   "views": 1169
+   "views": 9434
   },
   {
    "date": "2026-10-07",
-   "views": 1928
+   "views": 6592
   },
   {
    "date": "2026-10-08",
-   "views": 18298
+   "views": 4436
   },
   {
    "date": "2026-10-09",
-   "views": 49066
+   "views": 12525
+  },
+  {
+   "date": "2026-10-10",
+   "views": 17871
+  },
+  {
+   "date": "2026-10-11",
+   "views": 8809
+  },
+  {
+   "date": "2026-10-12",
+   "views": 8769
+  },
+  {
+   "date": "2026-10-13",
+   "views": 62605
+  },
+  {
+   "date": "2026-10-14",
+   "views": 111774
   }
  ],
- "wikipedia_title": "Crossed_(comics)",
+ "wikipedia_title": "Karoline_Leavitt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

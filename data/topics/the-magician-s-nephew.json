@@ -1,198 +1,198 @@
 {
- "title": "Carrie (miniseries)",
- "slug": "carrie-miniseries",
- "score": 83,
- "status": "Building",
- "change_percent": 2059,
- "growth_ratio": 21.59,
- "recent_avg": 154384,
- "baseline_avg": 7150,
- "explanation": "Attention is 22\u00d7 its 30-day baseline.",
+ "title": "The Magician's Nephew",
+ "slug": "the-magician-s-nephew",
+ "score": 53,
+ "status": "Breaking out",
+ "change_percent": 1390,
+ "growth_ratio": 14.9,
+ "recent_avg": 39012,
+ "baseline_avg": 2618,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 147234,
- "latest": 192804,
+ "abs_change": 36394,
+ "latest": 66934,
  "components": {
-  "acceleration": 0.785,
+  "acceleration": 0.691,
   "anomaly": 1.0,
-  "persistence": 1.0,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.867
+  "volume": 0.796,
+  "spike_quality": 0.758
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 154,384 views/day over the last 3 days (30-day baseline: 7,150)."
+  "Averaging 39,012 views/day over the last 3 days (30-day baseline: 2,618)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 1721
-  },
-  {
-   "date": "2026-09-01",
-   "views": 1473
-  },
-  {
-   "date": "2026-09-02",
-   "views": 1437
-  },
-  {
-   "date": "2026-09-03",
-   "views": 1628
-  },
-  {
-   "date": "2026-09-04",
-   "views": 1659
-  },
-  {
    "date": "2026-09-05",
-   "views": 1620
+   "views": 534
   },
   {
    "date": "2026-09-06",
-   "views": 1828
+   "views": 556
   },
   {
    "date": "2026-09-07",
-   "views": 1941
+   "views": 672
   },
   {
    "date": "2026-09-08",
-   "views": 1706
+   "views": 602
   },
   {
    "date": "2026-09-09",
-   "views": 14480
+   "views": 554
   },
   {
    "date": "2026-09-10",
-   "views": 15193
+   "views": 543
   },
   {
    "date": "2026-09-11",
-   "views": 8729
+   "views": 489
   },
   {
    "date": "2026-09-12",
-   "views": 6050
+   "views": 494
   },
   {
    "date": "2026-09-13",
-   "views": 5372
+   "views": 522
   },
   {
    "date": "2026-09-14",
-   "views": 5058
+   "views": 585
   },
   {
    "date": "2026-09-15",
-   "views": 4994
+   "views": 614
   },
   {
    "date": "2026-09-16",
-   "views": 4383
+   "views": 4881
   },
   {
    "date": "2026-09-17",
-   "views": 3919
+   "views": 9574
   },
   {
    "date": "2026-09-18",
-   "views": 3564
+   "views": 14104
   },
   {
    "date": "2026-09-19",
-   "views": 4088
+   "views": 10457
   },
   {
    "date": "2026-09-20",
-   "views": 5414
+   "views": 5024
   },
   {
    "date": "2026-09-21",
-   "views": 4513
+   "views": 4530
   },
   {
    "date": "2026-09-22",
-   "views": 4705
+   "views": 4465
   },
   {
    "date": "2026-09-23",
-   "views": 3987
+   "views": 3549
   },
   {
    "date": "2026-09-24",
-   "views": 3640
+   "views": 2471
   },
   {
    "date": "2026-09-25",
-   "views": 3375
+   "views": 2366
   },
   {
    "date": "2026-09-26",
-   "views": 3631
+   "views": 1610
   },
   {
    "date": "2026-09-27",
-   "views": 4439
+   "views": 1323
   },
   {
    "date": "2026-09-28",
-   "views": 4983
+   "views": 1169
   },
   {
    "date": "2026-09-29",
-   "views": 5793
+   "views": 1099
   },
   {
    "date": "2026-09-30",
-   "views": 6312
+   "views": 1006
   },
   {
    "date": "2026-10-01",
-   "views": 12642
+   "views": 847
   },
   {
    "date": "2026-10-02",
-   "views": 16006
+   "views": 780
   },
   {
    "date": "2026-10-03",
-   "views": 11857
+   "views": 817
   },
   {
    "date": "2026-10-04",
-   "views": 11833
+   "views": 986
   },
   {
    "date": "2026-10-05",
-   "views": 14977
+   "views": 896
   },
   {
    "date": "2026-10-06",
-   "views": 16918
+   "views": 712
   },
   {
    "date": "2026-10-07",
-   "views": 100004
+   "views": 760
   },
   {
    "date": "2026-10-08",
-   "views": 170343
+   "views": 738
   },
   {
    "date": "2026-10-09",
-   "views": 192804
+   "views": 644
+  },
+  {
+   "date": "2026-10-10",
+   "views": 675
+  },
+  {
+   "date": "2026-10-11",
+   "views": 838
+  },
+  {
+   "date": "2026-10-12",
+   "views": 4772
+  },
+  {
+   "date": "2026-10-13",
+   "views": 45331
+  },
+  {
+   "date": "2026-10-14",
+   "views": 66934
   }
  ],
- "wikipedia_title": "Carrie_(miniseries)",
+ "wikipedia_title": "The_Magician's_Nephew",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

@@ -1,53 +1,32 @@
 {
  "title": "Kimberly Guilfoyle",
  "slug": "kimberly-guilfoyle",
- "score": 48,
- "status": "Building",
- "change_percent": 1218,
- "growth_ratio": 13.18,
- "recent_avg": 70524,
- "baseline_avg": 5349,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "score": 46,
+ "status": "Elevated",
+ "change_percent": 1429,
+ "growth_ratio": 15.29,
+ "recent_avg": 229681,
+ "baseline_avg": 15017,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 65175,
- "latest": 98776,
+ "abs_change": 214664,
+ "latest": 230773,
  "components": {
-  "acceleration": 0.659,
-  "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.773,
-  "volume": 0.924,
-  "spike_quality": 0.793
+  "acceleration": 0.697,
+  "anomaly": 0.845,
+  "persistence": 0.84,
+  "momentum": 0.59,
+  "volume": 1.0,
+  "spike_quality": 0.697
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 70,524 views/day over the last 3 days (30-day baseline: 5,349)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Averaging 229,681 views/day over the last 3 days (30-day baseline: 15,017)."
  ],
  "history": [
-  {
-   "date": "2026-08-31",
-   "views": 1359
-  },
-  {
-   "date": "2026-09-01",
-   "views": 1333
-  },
-  {
-   "date": "2026-09-02",
-   "views": 3993
-  },
-  {
-   "date": "2026-09-03",
-   "views": 3227
-  },
-  {
-   "date": "2026-09-04",
-   "views": 2551
-  },
   {
    "date": "2026-09-05",
    "views": 2345
@@ -187,11 +166,31 @@
   {
    "date": "2026-10-09",
    "views": 98776
+  },
+  {
+   "date": "2026-10-10",
+   "views": 46278
+  },
+  {
+   "date": "2026-10-11",
+   "views": 46669
+  },
+  {
+   "date": "2026-10-12",
+   "views": 102841
+  },
+  {
+   "date": "2026-10-13",
+   "views": 355428
+  },
+  {
+   "date": "2026-10-14",
+   "views": 230773
   }
  ],
  "wikipedia_title": "Kimberly_Guilfoyle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }

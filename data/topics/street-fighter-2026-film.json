@@ -1,198 +1,198 @@
 {
- "title": "Zack Polanski",
- "slug": "zack-polanski",
- "score": 45,
- "status": "Breaking out",
- "change_percent": 607,
- "growth_ratio": 7.07,
- "recent_avg": 31228,
- "baseline_avg": 4418,
- "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
+ "title": "Street Fighter (2026 film)",
+ "slug": "street-fighter-2026-film",
+ "score": 47,
+ "status": "Building",
+ "change_percent": 255,
+ "growth_ratio": 3.55,
+ "recent_avg": 45223,
+ "baseline_avg": 12723,
+ "explanation": "Attention is 3.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 26810,
- "latest": 78198,
+ "abs_change": 32500,
+ "latest": 61692,
  "components": {
-  "acceleration": 0.5,
-  "anomaly": 0.565,
+  "acceleration": 0.324,
+  "anomaly": 0.458,
   "persistence": 0.84,
   "momentum": 0.933,
-  "volume": 0.747,
-  "spike_quality": 0.769
+  "volume": 0.828,
+  "spike_quality": 0.938
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 31,228 views/day over the last 3 days (30-day baseline: 4,418)."
+  "Averaging 45,223 views/day over the last 3 days (30-day baseline: 12,723)."
  ],
  "history": [
   {
-   "date": "2026-08-31",
-   "views": 910
-  },
-  {
-   "date": "2026-09-01",
-   "views": 7783
-  },
-  {
-   "date": "2026-09-02",
-   "views": 5138
-  },
-  {
-   "date": "2026-09-03",
-   "views": 23365
-  },
-  {
-   "date": "2026-09-04",
-   "views": 5274
-  },
-  {
    "date": "2026-09-05",
-   "views": 2865
+   "views": 12704
   },
   {
    "date": "2026-09-06",
-   "views": 2591
+   "views": 10602
   },
   {
    "date": "2026-09-07",
-   "views": 3069
+   "views": 10049
   },
   {
    "date": "2026-09-08",
-   "views": 2373
+   "views": 8637
   },
   {
    "date": "2026-09-09",
-   "views": 2000
+   "views": 7328
   },
   {
    "date": "2026-09-10",
-   "views": 1722
+   "views": 7958
   },
   {
    "date": "2026-09-11",
-   "views": 6337
+   "views": 6217
   },
   {
    "date": "2026-09-12",
-   "views": 4382
+   "views": 6033
   },
   {
    "date": "2026-09-13",
-   "views": 2575
+   "views": 5665
   },
   {
    "date": "2026-09-14",
-   "views": 3347
+   "views": 5417
   },
   {
    "date": "2026-09-15",
-   "views": 2900
+   "views": 5104
   },
   {
    "date": "2026-09-16",
-   "views": 2590
+   "views": 5066
   },
   {
    "date": "2026-09-17",
-   "views": 4026
+   "views": 6108
   },
   {
    "date": "2026-09-18",
-   "views": 2682
+   "views": 7640
   },
   {
    "date": "2026-09-19",
-   "views": 2321
+   "views": 7588
   },
   {
    "date": "2026-09-20",
-   "views": 2044
+   "views": 8901
   },
   {
    "date": "2026-09-21",
-   "views": 1669
+   "views": 9814
   },
   {
    "date": "2026-09-22",
-   "views": 1666
+   "views": 15031
   },
   {
    "date": "2026-09-23",
-   "views": 2154
+   "views": 10188
   },
   {
    "date": "2026-09-24",
-   "views": 2728
+   "views": 10196
   },
   {
    "date": "2026-09-25",
-   "views": 2959
+   "views": 8493
   },
   {
    "date": "2026-09-26",
-   "views": 1762
+   "views": 9665
   },
   {
    "date": "2026-09-27",
-   "views": 1822
+   "views": 11053
   },
   {
    "date": "2026-09-28",
-   "views": 1367
+   "views": 10454
   },
   {
    "date": "2026-09-29",
-   "views": 1639
+   "views": 10116
   },
   {
    "date": "2026-09-30",
-   "views": 1654
+   "views": 10428
   },
   {
    "date": "2026-10-01",
-   "views": 2945
+   "views": 11304
   },
   {
    "date": "2026-10-02",
-   "views": 16273
+   "views": 12175
   },
   {
    "date": "2026-10-03",
-   "views": 7029
+   "views": 12993
   },
   {
    "date": "2026-10-04",
-   "views": 11989
+   "views": 17892
   },
   {
    "date": "2026-10-05",
-   "views": 22495
+   "views": 15066
   },
   {
    "date": "2026-10-06",
-   "views": 10025
+   "views": 17714
   },
   {
    "date": "2026-10-07",
-   "views": 7113
+   "views": 19773
   },
   {
    "date": "2026-10-08",
-   "views": 8372
+   "views": 23870
   },
   {
    "date": "2026-10-09",
-   "views": 78198
+   "views": 28611
+  },
+  {
+   "date": "2026-10-10",
+   "views": 28406
+  },
+  {
+   "date": "2026-10-11",
+   "views": 30928
+  },
+  {
+   "date": "2026-10-12",
+   "views": 29806
+  },
+  {
+   "date": "2026-10-13",
+   "views": 44170
+  },
+  {
+   "date": "2026-10-14",
+   "views": 61692
   }
  ],
- "wikipedia_title": "Zack_Polanski",
+ "wikipedia_title": "Street_Fighter_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-09",
- "generated_at_utc": "2026-10-10T11:20:46+00:00"
+ "data_through": "2026-10-14",
+ "generated_at_utc": "2026-10-15T10:16:17+00:00"
 }
