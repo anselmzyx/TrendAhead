@@ -1,198 +1,196 @@
 {
- "title": "Walter White Jr.",
- "slug": "walter-white-jr",
- "score": 23,
- "status": "Peaked / fading",
- "change_percent": 15513,
- "growth_ratio": 156.29,
- "recent_avg": 50586,
- "baseline_avg": 324,
- "explanation": "Attention surged to 156\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Mariko Aoki phenomenon",
+ "slug": "mariko-aoki-phenomenon",
+ "score": 26,
+ "status": "Breaking out",
+ "change_percent": 1899,
+ "growth_ratio": 20.0,
+ "recent_avg": 13212,
+ "baseline_avg": 661,
+ "explanation": "Attention is 20\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 50262,
- "latest": 15746,
+ "abs_change": 12551,
+ "latest": 39119,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.766,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.318,
-  "volume": 0.852,
-  "spike_quality": 0.376
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.56,
+  "spike_quality": 0.531
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 50,586 views/day over the last 3 days (30-day baseline: 324)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 13,212 views/day over the last 3 days (30-day baseline: 661)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 313
-  },
-  {
    "date": "2026-09-06",
-   "views": 369
+   "views": 420
   },
   {
    "date": "2026-09-07",
-   "views": 355
-  },
-  {
-   "date": "2026-09-08",
-   "views": 343
-  },
-  {
-   "date": "2026-09-09",
-   "views": 307
-  },
-  {
-   "date": "2026-09-10",
-   "views": 285
-  },
-  {
-   "date": "2026-09-11",
-   "views": 320
-  },
-  {
-   "date": "2026-09-12",
-   "views": 320
-  },
-  {
-   "date": "2026-09-13",
-   "views": 291
-  },
-  {
-   "date": "2026-09-14",
-   "views": 338
-  },
-  {
-   "date": "2026-09-15",
-   "views": 307
-  },
-  {
-   "date": "2026-09-16",
-   "views": 374
-  },
-  {
-   "date": "2026-09-17",
-   "views": 318
-  },
-  {
-   "date": "2026-09-18",
-   "views": 283
-  },
-  {
-   "date": "2026-09-19",
-   "views": 346
-  },
-  {
-   "date": "2026-09-20",
-   "views": 359
-  },
-  {
-   "date": "2026-09-21",
-   "views": 332
-  },
-  {
-   "date": "2026-09-22",
-   "views": 291
-  },
-  {
-   "date": "2026-09-23",
-   "views": 342
-  },
-  {
-   "date": "2026-09-24",
-   "views": 290
-  },
-  {
-   "date": "2026-09-25",
-   "views": 303
-  },
-  {
-   "date": "2026-09-26",
-   "views": 313
-  },
-  {
-   "date": "2026-09-27",
-   "views": 312
-  },
-  {
-   "date": "2026-09-28",
    "views": 325
   },
   {
+   "date": "2026-09-08",
+   "views": 356
+  },
+  {
+   "date": "2026-09-09",
+   "views": 1816
+  },
+  {
+   "date": "2026-09-10",
+   "views": 2265
+  },
+  {
+   "date": "2026-09-11",
+   "views": 1022
+  },
+  {
+   "date": "2026-09-12",
+   "views": 582
+  },
+  {
+   "date": "2026-09-13",
+   "views": 3003
+  },
+  {
+   "date": "2026-09-14",
+   "views": 1072
+  },
+  {
+   "date": "2026-09-15",
+   "views": 3315
+  },
+  {
+   "date": "2026-09-16",
+   "views": 581
+  },
+  {
+   "date": "2026-09-17",
+   "views": 378
+  },
+  {
+   "date": "2026-09-18",
+   "views": 400
+  },
+  {
+   "date": "2026-09-19",
+   "views": 623
+  },
+  {
+   "date": "2026-09-20",
+   "views": 482
+  },
+  {
+   "date": "2026-09-21",
+   "views": 371
+  },
+  {
+   "date": "2026-09-22",
+   "views": 297
+  },
+  {
+   "date": "2026-09-23",
+   "views": 341
+  },
+  {
+   "date": "2026-09-24",
+   "views": 418
+  },
+  {
+   "date": "2026-09-25",
+   "views": 280
+  },
+  {
+   "date": "2026-09-26",
+   "views": 381
+  },
+  {
+   "date": "2026-09-27",
+   "views": 436
+  },
+  {
+   "date": "2026-09-28",
+   "views": 1738
+  },
+  {
    "date": "2026-09-29",
-   "views": 259
+   "views": 357
   },
   {
    "date": "2026-09-30",
-   "views": 323
+   "views": 348
   },
   {
    "date": "2026-10-01",
-   "views": 329
+   "views": 320
   },
   {
    "date": "2026-10-02",
-   "views": 277
+   "views": 401
   },
   {
    "date": "2026-10-03",
-   "views": 318
+   "views": 415
   },
   {
    "date": "2026-10-04",
-   "views": 344
+   "views": 632
   },
   {
    "date": "2026-10-05",
-   "views": 300
+   "views": 362
   },
   {
    "date": "2026-10-06",
-   "views": 404
+   "views": 380
   },
   {
    "date": "2026-10-07",
-   "views": 324
+   "views": 355
   },
   {
    "date": "2026-10-08",
-   "views": 405
+   "views": 471
   },
   {
    "date": "2026-10-09",
-   "views": 344
+   "views": 458
   },
   {
    "date": "2026-10-10",
-   "views": 308
+   "views": 513
   },
   {
    "date": "2026-10-11",
-   "views": 331
+   "views": 420
   },
   {
    "date": "2026-10-12",
-   "views": 55820
+   "views": 269
   },
   {
    "date": "2026-10-13",
-   "views": 80191
+   "views": 266
   },
   {
    "date": "2026-10-14",
-   "views": 15746
+   "views": 250
+  },
+  {
+   "date": "2026-10-15",
+   "views": 39119
   }
  ],
- "wikipedia_title": "Walter_White_Jr.",
+ "wikipedia_title": "Mariko_Aoki_phenomenon",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

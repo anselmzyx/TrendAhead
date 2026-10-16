@@ -1,38 +1,32 @@
 {
  "title": "Karoline Leavitt",
  "slug": "karoline-leavitt",
- "score": 62,
- "status": "Building",
- "change_percent": 1171,
- "growth_ratio": 12.71,
- "recent_avg": 61049,
- "baseline_avg": 4804,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "score": 41,
+ "status": "Elevated",
+ "change_percent": 1483,
+ "growth_ratio": 15.83,
+ "recent_avg": 78776,
+ "baseline_avg": 4977,
+ "explanation": "Attention is 16\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 56245,
- "latest": 111774,
+ "abs_change": 73799,
+ "latest": 61949,
  "components": {
-  "acceleration": 0.65,
+  "acceleration": 0.706,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.933,
-  "volume": 0.893,
-  "spike_quality": 0.796
+  "persistence": 0.76,
+  "momentum": 0.533,
+  "volume": 0.948,
+  "spike_quality": 0.631
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,049 views/day over the last 3 days (30-day baseline: 4,804)."
+  "Averaging 78,776 views/day over the last 3 days (30-day baseline: 4,977)."
  ],
  "history": [
-  {
-   "date": "2026-09-05",
-   "views": 3622
-  },
   {
    "date": "2026-09-06",
    "views": 3283
@@ -188,11 +182,15 @@
   {
    "date": "2026-10-14",
    "views": 111774
+  },
+  {
+   "date": "2026-10-15",
+   "views": 61949
   }
  ],
  "wikipedia_title": "Karoline_Leavitt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

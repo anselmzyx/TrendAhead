@@ -1,197 +1,196 @@
 {
- "title": "Neha Bora",
- "slug": "neha-bora",
- "score": 29,
- "status": "Elevated",
- "change_percent": 415,
- "growth_ratio": 5.15,
- "recent_avg": 66637,
- "baseline_avg": 12936,
- "explanation": "Attention is 5.2\u00d7 its 30-day baseline.",
+ "title": "Imran Khan (film actor)",
+ "slug": "imran-khan-film-actor",
+ "score": 51,
+ "status": "Breaking out",
+ "change_percent": 1983,
+ "growth_ratio": 20.83,
+ "recent_avg": 53884,
+ "baseline_avg": 2587,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 53701,
- "latest": 46594,
+ "abs_change": 51297,
+ "latest": 143474,
  "components": {
-  "acceleration": 0.419,
-  "anomaly": 0.332,
-  "persistence": 0.84,
-  "momentum": 0.428,
-  "volume": 0.912,
-  "spike_quality": 0.754
+  "acceleration": 0.776,
+  "anomaly": 0.95,
+  "persistence": 0.76,
+  "momentum": 0.8,
+  "volume": 0.866,
+  "spike_quality": 0.697
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 66,637 views/day over the last 3 days (30-day baseline: 12,936)."
+  "Averaging 53,884 views/day over the last 3 days (30-day baseline: 2,587)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 911
-  },
-  {
    "date": "2026-09-06",
-   "views": 1474
+   "views": 881
   },
   {
    "date": "2026-09-07",
-   "views": 1509
+   "views": 811
   },
   {
    "date": "2026-09-08",
-   "views": 1060
+   "views": 937
   },
   {
    "date": "2026-09-09",
-   "views": 1012
+   "views": 747
   },
   {
    "date": "2026-09-10",
-   "views": 1453
+   "views": 710
   },
   {
    "date": "2026-09-11",
-   "views": 1356
+   "views": 584
   },
   {
    "date": "2026-09-12",
-   "views": 1047
+   "views": 705
   },
   {
    "date": "2026-09-13",
-   "views": 1249
+   "views": 790
   },
   {
    "date": "2026-09-14",
-   "views": 1712
+   "views": 1487
   },
   {
    "date": "2026-09-15",
-   "views": 5112
+   "views": 971
   },
   {
    "date": "2026-09-16",
-   "views": 7552
+   "views": 842
   },
   {
    "date": "2026-09-17",
-   "views": 5798
+   "views": 783
   },
   {
    "date": "2026-09-18",
-   "views": 4046
+   "views": 813
   },
   {
    "date": "2026-09-19",
-   "views": 3515
+   "views": 718
   },
   {
    "date": "2026-09-20",
-   "views": 2487
+   "views": 676
   },
   {
    "date": "2026-09-21",
-   "views": 1631
+   "views": 743
   },
   {
    "date": "2026-09-22",
-   "views": 1239
+   "views": 702
   },
   {
    "date": "2026-09-23",
-   "views": 925
+   "views": 812
   },
   {
    "date": "2026-09-24",
-   "views": 836
+   "views": 712
   },
   {
    "date": "2026-09-25",
-   "views": 3457
+   "views": 714
   },
   {
    "date": "2026-09-26",
-   "views": 5150
+   "views": 842
   },
   {
    "date": "2026-09-27",
-   "views": 2980
+   "views": 835
   },
   {
    "date": "2026-09-28",
-   "views": 2472
+   "views": 1084
   },
   {
    "date": "2026-09-29",
-   "views": 2359
+   "views": 1193
   },
   {
    "date": "2026-09-30",
-   "views": 2444
+   "views": 705
   },
   {
    "date": "2026-10-01",
-   "views": 4674
+   "views": 878
   },
   {
    "date": "2026-10-02",
-   "views": 12382
+   "views": 1202
   },
   {
    "date": "2026-10-03",
-   "views": 24120
+   "views": 1087
   },
   {
    "date": "2026-10-04",
-   "views": 35902
+   "views": 922
   },
   {
    "date": "2026-10-05",
-   "views": 43738
+   "views": 860
   },
   {
    "date": "2026-10-06",
-   "views": 34695
+   "views": 781
   },
   {
    "date": "2026-10-07",
-   "views": 31095
+   "views": 661
   },
   {
    "date": "2026-10-08",
-   "views": 21270
+   "views": 799
   },
   {
    "date": "2026-10-09",
-   "views": 17606
+   "views": 749
   },
   {
    "date": "2026-10-10",
-   "views": 47639
+   "views": 13096
   },
   {
    "date": "2026-10-11",
-   "views": 58960
+   "views": 24834
   },
   {
    "date": "2026-10-12",
-   "views": 77311
+   "views": 16328
   },
   {
    "date": "2026-10-13",
-   "views": 76007
+   "views": 13277
   },
   {
    "date": "2026-10-14",
-   "views": 46594
+   "views": 4901
+  },
+  {
+   "date": "2026-10-15",
+   "views": 143474
   }
  ],
- "wikipedia_title": "Neha_Bora",
+ "wikipedia_title": "Imran_Khan_(film_actor)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

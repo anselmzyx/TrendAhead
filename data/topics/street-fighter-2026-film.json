@@ -1,38 +1,34 @@
 {
  "title": "Street Fighter (2026 film)",
  "slug": "street-fighter-2026-film",
- "score": 47,
+ "score": 63,
  "status": "Building",
- "change_percent": 255,
- "growth_ratio": 3.55,
- "recent_avg": 45223,
- "baseline_avg": 12723,
- "explanation": "Attention is 3.5\u00d7 its 30-day baseline.",
+ "change_percent": 440,
+ "growth_ratio": 5.4,
+ "recent_avg": 72974,
+ "baseline_avg": 13516,
+ "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 32500,
- "latest": 61692,
+ "abs_change": 59458,
+ "latest": 113060,
  "components": {
-  "acceleration": 0.324,
-  "anomaly": 0.458,
-  "persistence": 0.84,
-  "momentum": 0.933,
-  "volume": 0.828,
-  "spike_quality": 0.938
+  "acceleration": 0.431,
+  "anomaly": 0.781,
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.932,
+  "spike_quality": 0.887
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,223 views/day over the last 3 days (30-day baseline: 12,723)."
+  "Averaging 72,974 views/day over the last 3 days (30-day baseline: 13,516)."
  ],
  "history": [
-  {
-   "date": "2026-09-05",
-   "views": 12704
-  },
   {
    "date": "2026-09-06",
    "views": 10602
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-14",
    "views": 61692
+  },
+  {
+   "date": "2026-10-15",
+   "views": 113060
   }
  ],
  "wikipedia_title": "Street_Fighter_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

@@ -1,198 +1,198 @@
 {
- "title": "Selma Blair",
- "slug": "selma-blair",
- "score": 28,
+ "title": "LASK",
+ "slug": "lask",
+ "score": 19,
  "status": "Peaked / fading",
- "change_percent": 9047,
- "growth_ratio": 91.46,
- "recent_avg": 261247,
- "baseline_avg": 2856,
- "explanation": "Attention surged to 91\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 3116,
+ "growth_ratio": 32.16,
+ "recent_avg": 18040,
+ "baseline_avg": 561,
+ "explanation": "Attention surged to 32\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 258391,
- "latest": 114269,
+ "abs_change": 17479,
+ "latest": 7795,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.887,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.363,
-  "volume": 1.0,
-  "spike_quality": 0.41
+  "persistence": 0.92,
+  "momentum": 0.311,
+  "volume": 0.628,
+  "spike_quality": 0.252
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 261,247 views/day over the last 3 days (30-day baseline: 2,856)."
+  "Averaging 18,040 views/day over the last 3 days (30-day baseline: 561)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 2035
-  },
-  {
    "date": "2026-09-06",
-   "views": 2383
+   "views": 1087
   },
   {
    "date": "2026-09-07",
-   "views": 2204
+   "views": 1860
   },
   {
    "date": "2026-09-08",
-   "views": 1881
+   "views": 8141
   },
   {
    "date": "2026-09-09",
-   "views": 1786
+   "views": 2967
   },
   {
    "date": "2026-09-10",
-   "views": 2329
+   "views": 1792
   },
   {
    "date": "2026-09-11",
-   "views": 2021
+   "views": 1104
   },
   {
    "date": "2026-09-12",
-   "views": 2303
+   "views": 730
   },
   {
    "date": "2026-09-13",
-   "views": 2535
+   "views": 720
   },
   {
    "date": "2026-09-14",
-   "views": 2057
+   "views": 667
   },
   {
    "date": "2026-09-15",
-   "views": 1793
+   "views": 520
   },
   {
    "date": "2026-09-16",
-   "views": 2218
+   "views": 621
   },
   {
    "date": "2026-09-17",
-   "views": 2314
+   "views": 698
   },
   {
    "date": "2026-09-18",
-   "views": 2496
+   "views": 623
   },
   {
    "date": "2026-09-19",
-   "views": 2481
+   "views": 580
   },
   {
    "date": "2026-09-20",
-   "views": 2507
+   "views": 677
   },
   {
    "date": "2026-09-21",
-   "views": 2015
+   "views": 595
   },
   {
    "date": "2026-09-22",
-   "views": 1923
+   "views": 489
   },
   {
    "date": "2026-09-23",
-   "views": 2163
+   "views": 459
   },
   {
    "date": "2026-09-24",
-   "views": 2043
+   "views": 513
   },
   {
    "date": "2026-09-25",
-   "views": 2126
+   "views": 648
   },
   {
    "date": "2026-09-26",
-   "views": 3488
+   "views": 498
   },
   {
    "date": "2026-09-27",
-   "views": 2699
+   "views": 409
   },
   {
    "date": "2026-09-28",
-   "views": 2063
+   "views": 368
   },
   {
    "date": "2026-09-29",
-   "views": 1812
+   "views": 366
   },
   {
    "date": "2026-09-30",
-   "views": 2009
+   "views": 313
   },
   {
    "date": "2026-10-01",
-   "views": 1847
+   "views": 350
   },
   {
    "date": "2026-10-02",
-   "views": 2553
+   "views": 320
   },
   {
    "date": "2026-10-03",
-   "views": 8660
+   "views": 380
   },
   {
    "date": "2026-10-04",
-   "views": 9114
+   "views": 407
   },
   {
    "date": "2026-10-05",
-   "views": 6318
+   "views": 402
   },
   {
    "date": "2026-10-06",
-   "views": 3729
+   "views": 360
   },
   {
    "date": "2026-10-07",
-   "views": 2438
+   "views": 336
   },
   {
    "date": "2026-10-08",
-   "views": 1824
+   "views": 394
   },
   {
    "date": "2026-10-09",
-   "views": 1655
+   "views": 427
   },
   {
    "date": "2026-10-10",
-   "views": 2163
+   "views": 846
   },
   {
    "date": "2026-10-11",
-   "views": 2347
+   "views": 1112
   },
   {
    "date": "2026-10-12",
-   "views": 249706
+   "views": 1729
   },
   {
    "date": "2026-10-13",
-   "views": 419767
+   "views": 4013
   },
   {
    "date": "2026-10-14",
-   "views": 114269
+   "views": 42313
+  },
+  {
+   "date": "2026-10-15",
+   "views": 7795
   }
  ],
- "wikipedia_title": "Selma_Blair",
+ "wikipedia_title": "LASK",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

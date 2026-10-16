@@ -1,38 +1,33 @@
 {
  "title": "Katie Zacharia",
  "slug": "katie-zacharia",
- "score": 76,
- "status": "Building",
- "change_percent": 6626,
- "growth_ratio": 67.26,
- "recent_avg": 533981,
- "baseline_avg": 7939,
- "explanation": "Attention is 67\u00d7 its 30-day baseline.",
+ "score": 43,
+ "status": "Peaked / fading",
+ "change_percent": 6296,
+ "growth_ratio": 63.96,
+ "recent_avg": 653874,
+ "baseline_avg": 10223,
+ "explanation": "Attention surged to 64\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 526042,
- "latest": 906890,
+ "abs_change": 643651,
+ "latest": 428191,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.933,
+  "persistence": 0.76,
+  "momentum": 0.483,
   "volume": 1.0,
-  "spike_quality": 0.796
+  "spike_quality": 0.586
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 533,981 views/day over the last 3 days (30-day baseline: 7,939)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 653,874 views/day over the last 3 days (30-day baseline: 10,223)."
  ],
  "history": [
-  {
-   "date": "2026-09-05",
-   "views": 0
-  },
   {
    "date": "2026-09-06",
    "views": 0
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-14",
    "views": 906890
+  },
+  {
+   "date": "2026-10-15",
+   "views": 428191
   }
  ],
  "wikipedia_title": "Katie_Zacharia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

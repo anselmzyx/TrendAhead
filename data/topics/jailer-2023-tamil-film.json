@@ -1,198 +1,198 @@
 {
- "title": "Narnia: The Magician's Nephew",
- "slug": "narnia-the-magician-s-nephew",
- "score": 49,
+ "title": "Jailer (2023 Tamil film)",
+ "slug": "jailer-2023-tamil-film",
+ "score": 53,
  "status": "Breaking out",
- "change_percent": 811,
- "growth_ratio": 9.11,
- "recent_avg": 47301,
- "baseline_avg": 5193,
- "explanation": "Attention is 9.1\u00d7 its 30-day baseline.",
+ "change_percent": 539,
+ "growth_ratio": 6.39,
+ "recent_avg": 20530,
+ "baseline_avg": 3215,
+ "explanation": "Attention is 6.4\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 42108,
- "latest": 78046,
+ "abs_change": 17315,
+ "latest": 42879,
  "components": {
-  "acceleration": 0.565,
-  "anomaly": 0.814,
-  "persistence": 0.6,
+  "acceleration": 0.474,
+  "anomaly": 0.889,
+  "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.837,
-  "spike_quality": 0.781
+  "volume": 0.656,
+  "spike_quality": 0.778
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,301 views/day over the last 3 days (30-day baseline: 5,193)."
+  "Averaging 20,530 views/day over the last 3 days (30-day baseline: 3,215)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 1984
-  },
-  {
    "date": "2026-09-06",
-   "views": 2110
+   "views": 1569
   },
   {
    "date": "2026-09-07",
-   "views": 2196
+   "views": 1339
   },
   {
    "date": "2026-09-08",
-   "views": 2131
+   "views": 1480
   },
   {
    "date": "2026-09-09",
-   "views": 1995
+   "views": 1328
   },
   {
    "date": "2026-09-10",
-   "views": 1770
+   "views": 1232
   },
   {
    "date": "2026-09-11",
-   "views": 1672
+   "views": 1405
   },
   {
    "date": "2026-09-12",
-   "views": 1808
+   "views": 1658
   },
   {
    "date": "2026-09-13",
-   "views": 1978
+   "views": 1602
   },
   {
    "date": "2026-09-14",
-   "views": 1903
+   "views": 1576
   },
   {
    "date": "2026-09-15",
-   "views": 1696
+   "views": 1278
   },
   {
    "date": "2026-09-16",
-   "views": 8308
+   "views": 1048
   },
   {
    "date": "2026-09-17",
-   "views": 17198
+   "views": 1111
   },
   {
    "date": "2026-09-18",
-   "views": 22942
+   "views": 1683
   },
   {
    "date": "2026-09-19",
-   "views": 17024
+   "views": 1806
   },
   {
    "date": "2026-09-20",
-   "views": 9370
+   "views": 2504
   },
   {
    "date": "2026-09-21",
-   "views": 7920
+   "views": 2223
   },
   {
    "date": "2026-09-22",
-   "views": 7721
+   "views": 1795
   },
   {
    "date": "2026-09-23",
-   "views": 7137
+   "views": 1854
   },
   {
    "date": "2026-09-24",
-   "views": 5199
+   "views": 2042
   },
   {
    "date": "2026-09-25",
-   "views": 4296
+   "views": 2701
   },
   {
    "date": "2026-09-26",
-   "views": 3780
+   "views": 3448
   },
   {
    "date": "2026-09-27",
-   "views": 3599
+   "views": 3017
   },
   {
    "date": "2026-09-28",
-   "views": 3051
+   "views": 2375
   },
   {
    "date": "2026-09-29",
-   "views": 3005
+   "views": 2890
   },
   {
    "date": "2026-09-30",
-   "views": 2587
+   "views": 3086
   },
   {
    "date": "2026-10-01",
-   "views": 2293
+   "views": 2841
   },
   {
    "date": "2026-10-02",
-   "views": 2215
+   "views": 2742
   },
   {
    "date": "2026-10-03",
-   "views": 2310
+   "views": 2523
   },
   {
    "date": "2026-10-04",
-   "views": 2906
+   "views": 2913
   },
   {
    "date": "2026-10-05",
-   "views": 2599
+   "views": 8692
   },
   {
    "date": "2026-10-06",
-   "views": 2065
+   "views": 8548
   },
   {
    "date": "2026-10-07",
-   "views": 2292
+   "views": 5478
   },
   {
    "date": "2026-10-08",
-   "views": 2200
+   "views": 4346
   },
   {
    "date": "2026-10-09",
-   "views": 1982
+   "views": 3852
   },
   {
    "date": "2026-10-10",
-   "views": 2204
+   "views": 4480
   },
   {
    "date": "2026-10-11",
-   "views": 2208
+   "views": 5684
   },
   {
    "date": "2026-10-12",
-   "views": 8623
+   "views": 6298
   },
   {
    "date": "2026-10-13",
-   "views": 55235
+   "views": 7495
   },
   {
    "date": "2026-10-14",
-   "views": 78046
+   "views": 11215
+  },
+  {
+   "date": "2026-10-15",
+   "views": 42879
   }
  ],
- "wikipedia_title": "Narnia:_The_Magician's_Nephew",
+ "wikipedia_title": "Jailer_(2023_Tamil_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

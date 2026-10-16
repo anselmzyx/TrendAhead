@@ -1,198 +1,198 @@
 {
- "title": "Russell Brand",
- "slug": "russell-brand",
- "score": 49,
- "status": "Building",
- "change_percent": 1265,
- "growth_ratio": 13.65,
- "recent_avg": 46155,
- "baseline_avg": 3382,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "title": "Bigg Boss (Hindi TV series) season 20",
+ "slug": "bigg-boss-hindi-tv-series-season-20",
+ "score": 62,
+ "status": "Breaking out",
+ "change_percent": 648,
+ "growth_ratio": 7.48,
+ "recent_avg": 102445,
+ "baseline_avg": 13695,
+ "explanation": "Attention is 7.5\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 42773,
- "latest": 75152,
+ "abs_change": 88750,
+ "latest": 234663,
  "components": {
-  "acceleration": 0.668,
+  "acceleration": 0.514,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.867,
-  "volume": 0.832,
-  "spike_quality": 0.794
+  "persistence": 0.92,
+  "momentum": 0.933,
+  "volume": 1.0,
+  "spike_quality": 0.742
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 46,155 views/day over the last 3 days (30-day baseline: 3,382)."
+  "Averaging 102,445 views/day over the last 3 days (30-day baseline: 13,695)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 3631
-  },
-  {
    "date": "2026-09-06",
-   "views": 3528
+   "views": 28199
   },
   {
    "date": "2026-09-07",
-   "views": 3244
+   "views": 23511
   },
   {
    "date": "2026-09-08",
-   "views": 2808
+   "views": 14271
   },
   {
    "date": "2026-09-09",
-   "views": 2876
+   "views": 10762
   },
   {
    "date": "2026-09-10",
-   "views": 2629
+   "views": 8628
   },
   {
    "date": "2026-09-11",
-   "views": 2787
+   "views": 7339
   },
   {
    "date": "2026-09-12",
-   "views": 3018
+   "views": 7862
   },
   {
    "date": "2026-09-13",
-   "views": 3234
+   "views": 9686
   },
   {
    "date": "2026-09-14",
-   "views": 5729
+   "views": 8205
   },
   {
    "date": "2026-09-15",
-   "views": 4755
+   "views": 6644
   },
   {
    "date": "2026-09-16",
-   "views": 3855
+   "views": 6216
   },
   {
    "date": "2026-09-17",
-   "views": 3539
+   "views": 6169
   },
   {
    "date": "2026-09-18",
-   "views": 3526
+   "views": 6208
   },
   {
    "date": "2026-09-19",
-   "views": 2981
+   "views": 8348
   },
   {
    "date": "2026-09-20",
-   "views": 3451
+   "views": 14135
   },
   {
    "date": "2026-09-21",
-   "views": 3162
+   "views": 15039
   },
   {
    "date": "2026-09-22",
-   "views": 3054
+   "views": 12349
   },
   {
    "date": "2026-09-23",
-   "views": 2519
+   "views": 9787
   },
   {
    "date": "2026-09-24",
-   "views": 2609
+   "views": 10470
   },
   {
    "date": "2026-09-25",
-   "views": 2655
+   "views": 11728
   },
   {
    "date": "2026-09-26",
-   "views": 3274
+   "views": 14378
   },
   {
    "date": "2026-09-27",
-   "views": 3240
+   "views": 15688
   },
   {
    "date": "2026-09-28",
-   "views": 2612
+   "views": 15123
   },
   {
    "date": "2026-09-29",
-   "views": 3080
+   "views": 11032
   },
   {
    "date": "2026-09-30",
-   "views": 4225
+   "views": 10892
   },
   {
    "date": "2026-10-01",
-   "views": 3214
+   "views": 14474
   },
   {
    "date": "2026-10-02",
-   "views": 2641
+   "views": 14412
   },
   {
    "date": "2026-10-03",
-   "views": 2573
+   "views": 16151
   },
   {
    "date": "2026-10-04",
-   "views": 2994
+   "views": 23243
   },
   {
    "date": "2026-10-05",
-   "views": 2673
+   "views": 18142
   },
   {
    "date": "2026-10-06",
-   "views": 4806
+   "views": 14205
   },
   {
    "date": "2026-10-07",
-   "views": 4913
+   "views": 12825
   },
   {
    "date": "2026-10-08",
-   "views": 2834
+   "views": 11947
   },
   {
    "date": "2026-10-09",
-   "views": 2613
+   "views": 12181
   },
   {
    "date": "2026-10-10",
-   "views": 3078
+   "views": 20293
   },
   {
    "date": "2026-10-11",
-   "views": 4601
+   "views": 29622
   },
   {
    "date": "2026-10-12",
-   "views": 43689
+   "views": 31255
   },
   {
    "date": "2026-10-13",
-   "views": 19625
+   "views": 28006
   },
   {
    "date": "2026-10-14",
-   "views": 75152
+   "views": 44667
+  },
+  {
+   "date": "2026-10-15",
+   "views": 234663
   }
  ],
- "wikipedia_title": "Russell_Brand",
+ "wikipedia_title": "Bigg_Boss_(Hindi_TV_series)_season_20",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

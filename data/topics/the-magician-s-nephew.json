@@ -1,38 +1,33 @@
 {
  "title": "The Magician's Nephew",
  "slug": "the-magician-s-nephew",
- "score": 53,
- "status": "Breaking out",
- "change_percent": 1390,
- "growth_ratio": 14.9,
- "recent_avg": 39012,
- "baseline_avg": 2618,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "score": 31,
+ "status": "Peaked / fading",
+ "change_percent": 1582,
+ "growth_ratio": 16.82,
+ "recent_avg": 46420,
+ "baseline_avg": 2760,
+ "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 36394,
- "latest": 66934,
+ "abs_change": 43660,
+ "latest": 26995,
  "components": {
-  "acceleration": 0.691,
+  "acceleration": 0.721,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.796,
-  "spike_quality": 0.758
+  "persistence": 0.72,
+  "momentum": 0.442,
+  "volume": 0.833,
+  "spike_quality": 0.518
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 39,012 views/day over the last 3 days (30-day baseline: 2,618)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 46,420 views/day over the last 3 days (30-day baseline: 2,760)."
  ],
  "history": [
-  {
-   "date": "2026-09-05",
-   "views": 534
-  },
   {
    "date": "2026-09-06",
    "views": 556
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-14",
    "views": 66934
+  },
+  {
+   "date": "2026-10-15",
+   "views": 26995
   }
  ],
  "wikipedia_title": "The_Magician's_Nephew",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

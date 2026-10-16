@@ -1,198 +1,198 @@
 {
- "title": "Harrison Mevis",
- "slug": "harrison-mevis",
- "score": 23,
- "status": "Peaked / fading",
- "change_percent": 3613,
- "growth_ratio": 37.13,
- "recent_avg": 63755,
- "baseline_avg": 1717,
- "explanation": "Attention surged to 37\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Love of Your Life (film)",
+ "slug": "love-of-your-life-film",
+ "score": 45,
+ "status": "Breaking out",
+ "change_percent": 977,
+ "growth_ratio": 10.77,
+ "recent_avg": 31534,
+ "baseline_avg": 2927,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 62038,
- "latest": 54669,
+ "abs_change": 28607,
+ "latest": 58527,
  "components": {
-  "acceleration": 0.924,
+  "acceleration": 0.608,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.441,
-  "volume": 0.902,
-  "spike_quality": 0.372
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.749,
+  "spike_quality": 0.775
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 63,755 views/day over the last 3 days (30-day baseline: 1,717)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 31,534 views/day over the last 3 days (30-day baseline: 2,927)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 413
-  },
-  {
    "date": "2026-09-06",
-   "views": 631
+   "views": 1165
   },
   {
    "date": "2026-09-07",
-   "views": 637
+   "views": 1378
   },
   {
    "date": "2026-09-08",
-   "views": 581
+   "views": 1485
   },
   {
    "date": "2026-09-09",
-   "views": 643
+   "views": 22771
   },
   {
    "date": "2026-09-10",
-   "views": 654
+   "views": 20525
   },
   {
    "date": "2026-09-11",
-   "views": 1723
+   "views": 8184
   },
   {
    "date": "2026-09-12",
-   "views": 373
+   "views": 5712
   },
   {
    "date": "2026-09-13",
-   "views": 382
+   "views": 4482
   },
   {
    "date": "2026-09-14",
-   "views": 168
+   "views": 7279
   },
   {
    "date": "2026-09-15",
-   "views": 179
+   "views": 4287
   },
   {
    "date": "2026-09-16",
-   "views": 201
+   "views": 2909
   },
   {
    "date": "2026-09-17",
-   "views": 186
+   "views": 2704
   },
   {
    "date": "2026-09-18",
-   "views": 153
+   "views": 2272
   },
   {
    "date": "2026-09-19",
-   "views": 162
+   "views": 2154
   },
   {
    "date": "2026-09-20",
-   "views": 313
+   "views": 2184
   },
   {
    "date": "2026-09-21",
-   "views": 485
+   "views": 2412
   },
   {
    "date": "2026-09-22",
-   "views": 25667
+   "views": 1956
   },
   {
    "date": "2026-09-23",
-   "views": 1327
+   "views": 1809
   },
   {
    "date": "2026-09-24",
-   "views": 555
+   "views": 1665
   },
   {
    "date": "2026-09-25",
-   "views": 543
+   "views": 1718
   },
   {
    "date": "2026-09-26",
-   "views": 375
+   "views": 1852
   },
   {
    "date": "2026-09-27",
-   "views": 598
+   "views": 2036
   },
   {
    "date": "2026-09-28",
-   "views": 12443
+   "views": 2051
   },
   {
    "date": "2026-09-29",
-   "views": 612
+   "views": 1965
   },
   {
    "date": "2026-09-30",
-   "views": 307
+   "views": 2006
   },
   {
    "date": "2026-10-01",
-   "views": 228
+   "views": 1963
   },
   {
    "date": "2026-10-02",
-   "views": 255
+   "views": 1924
   },
   {
    "date": "2026-10-03",
-   "views": 375
+   "views": 1950
   },
   {
    "date": "2026-10-04",
-   "views": 3319
+   "views": 2130
   },
   {
    "date": "2026-10-05",
-   "views": 539
+   "views": 2891
   },
   {
    "date": "2026-10-06",
-   "views": 328
+   "views": 3486
   },
   {
    "date": "2026-10-07",
-   "views": 255
+   "views": 4645
   },
   {
    "date": "2026-10-08",
-   "views": 168
+   "views": 5080
   },
   {
    "date": "2026-10-09",
-   "views": 173
+   "views": 4562
   },
   {
    "date": "2026-10-10",
-   "views": 320
+   "views": 4189
   },
   {
    "date": "2026-10-11",
-   "views": 525
+   "views": 3717
   },
   {
    "date": "2026-10-12",
-   "views": 528
+   "views": 3529
   },
   {
    "date": "2026-10-13",
-   "views": 136069
+   "views": 4266
   },
   {
    "date": "2026-10-14",
-   "views": 54669
+   "views": 31810
+  },
+  {
+   "date": "2026-10-15",
+   "views": 58527
   }
  ],
- "wikipedia_title": "Harrison_Mevis",
+ "wikipedia_title": "Love_of_Your_Life_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

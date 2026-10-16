@@ -1,197 +1,197 @@
 {
- "title": "Shane Gillis",
- "slug": "shane-gillis",
- "score": 23,
- "status": "Peaked / fading",
- "change_percent": 804,
- "growth_ratio": 9.04,
- "recent_avg": 88594,
- "baseline_avg": 9795,
- "explanation": "Attention surged to 9.0\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Bigg Boss (Hindi TV series)",
+ "slug": "bigg-boss-hindi-tv-series",
+ "score": 21,
+ "status": "Breaking out",
+ "change_percent": 277,
+ "growth_ratio": 3.77,
+ "recent_avg": 20634,
+ "baseline_avg": 5478,
+ "explanation": "Attention is 3.8\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 78799,
- "latest": 55988,
+ "abs_change": 15156,
+ "latest": 51509,
  "components": {
-  "acceleration": 0.563,
-  "anomaly": 0.421,
-  "persistence": 0.56,
-  "momentum": 0.305,
-  "volume": 0.974,
-  "spike_quality": 0.678
+  "acceleration": 0.339,
+  "anomaly": 0.625,
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.657,
+  "spike_quality": 0.694
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 88,594 views/day over the last 3 days (30-day baseline: 9,795)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 20,634 views/day over the last 3 days (30-day baseline: 5,478)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 7405
-  },
-  {
    "date": "2026-09-06",
-   "views": 7530
+   "views": 36761
   },
   {
    "date": "2026-09-07",
-   "views": 8412
+   "views": 34041
   },
   {
    "date": "2026-09-08",
-   "views": 6906
+   "views": 20763
   },
   {
    "date": "2026-09-09",
-   "views": 8872
+   "views": 15816
   },
   {
    "date": "2026-09-10",
-   "views": 8547
+   "views": 13440
   },
   {
    "date": "2026-09-11",
-   "views": 6918
+   "views": 12512
   },
   {
    "date": "2026-09-12",
-   "views": 6923
+   "views": 12056
   },
   {
    "date": "2026-09-13",
-   "views": 9611
+   "views": 13086
   },
   {
    "date": "2026-09-14",
-   "views": 6748
+   "views": 10773
   },
   {
    "date": "2026-09-15",
-   "views": 6316
+   "views": 8342
   },
   {
    "date": "2026-09-16",
-   "views": 5995
+   "views": 7829
   },
   {
    "date": "2026-09-17",
-   "views": 6005
+   "views": 8120
   },
   {
    "date": "2026-09-18",
-   "views": 5403
+   "views": 7836
   },
   {
    "date": "2026-09-19",
-   "views": 6057
+   "views": 8187
   },
   {
    "date": "2026-09-20",
-   "views": 7039
+   "views": 7158
   },
   {
    "date": "2026-09-21",
-   "views": 5264
+   "views": 5814
   },
   {
    "date": "2026-09-22",
-   "views": 4990
+   "views": 4775
   },
   {
    "date": "2026-09-23",
-   "views": 5319
+   "views": 4408
   },
   {
    "date": "2026-09-24",
-   "views": 6101
+   "views": 4670
   },
   {
    "date": "2026-09-25",
-   "views": 6747
+   "views": 4843
   },
   {
    "date": "2026-09-26",
-   "views": 6364
+   "views": 5843
   },
   {
    "date": "2026-09-27",
-   "views": 7336
+   "views": 5985
   },
   {
    "date": "2026-09-28",
-   "views": 5760
+   "views": 5193
   },
   {
    "date": "2026-09-29",
-   "views": 4863
+   "views": 4189
   },
   {
    "date": "2026-09-30",
-   "views": 4703
+   "views": 3369
   },
   {
    "date": "2026-10-01",
-   "views": 4630
+   "views": 3506
   },
   {
    "date": "2026-10-02",
-   "views": 4397
+   "views": 3459
   },
   {
    "date": "2026-10-03",
-   "views": 4957
+   "views": 3515
   },
   {
    "date": "2026-10-04",
-   "views": 8895
+   "views": 4647
   },
   {
    "date": "2026-10-05",
-   "views": 5164
+   "views": 4198
   },
   {
    "date": "2026-10-06",
-   "views": 5406
+   "views": 3335
   },
   {
    "date": "2026-10-07",
-   "views": 5848
+   "views": 3106
   },
   {
    "date": "2026-10-08",
-   "views": 8546
+   "views": 2868
   },
   {
    "date": "2026-10-09",
-   "views": 7043
+   "views": 2697
   },
   {
    "date": "2026-10-10",
-   "views": 11225
+   "views": 3584
   },
   {
    "date": "2026-10-11",
-   "views": 110192
+   "views": 4533
   },
   {
    "date": "2026-10-12",
-   "views": 105916
+   "views": 4476
   },
   {
    "date": "2026-10-13",
-   "views": 103877
+   "views": 4154
   },
   {
    "date": "2026-10-14",
-   "views": 55988
+   "views": 6238
+  },
+  {
+   "date": "2026-10-15",
+   "views": 51509
   }
  ],
- "wikipedia_title": "Shane_Gillis",
+ "wikipedia_title": "Bigg_Boss_(Hindi_TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

@@ -1,198 +1,196 @@
 {
- "title": "Cerebral palsy",
- "slug": "cerebral-palsy",
- "score": 21,
- "status": "Peaked / fading",
- "change_percent": 2896,
- "growth_ratio": 29.95,
- "recent_avg": 43347,
- "baseline_avg": 1447,
- "explanation": "Attention surged to 30\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Jake Bauers",
+ "slug": "jake-bauers",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 3790,
+ "growth_ratio": 38.87,
+ "recent_avg": 22330,
+ "baseline_avg": 574,
+ "explanation": "Attention is 39\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41900,
- "latest": 15538,
+ "abs_change": 21756,
+ "latest": 63765,
  "components": {
-  "acceleration": 0.869,
+  "acceleration": 0.936,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.324,
-  "volume": 0.818,
-  "spike_quality": 0.365
+  "momentum": 0.8,
+  "volume": 0.674,
+  "spike_quality": 0.576
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 43,347 views/day over the last 3 days (30-day baseline: 1,447)."
+  "Averaging 22,330 views/day over the last 3 days (30-day baseline: 574)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 1286
-  },
-  {
    "date": "2026-09-06",
-   "views": 1371
+   "views": 225
   },
   {
    "date": "2026-09-07",
-   "views": 1571
+   "views": 146
   },
   {
    "date": "2026-09-08",
-   "views": 1698
+   "views": 127
   },
   {
    "date": "2026-09-09",
-   "views": 1396
+   "views": 200
   },
   {
    "date": "2026-09-10",
-   "views": 1447
+   "views": 114
   },
   {
    "date": "2026-09-11",
-   "views": 1319
+   "views": 135
   },
   {
    "date": "2026-09-12",
-   "views": 1379
+   "views": 323
   },
   {
    "date": "2026-09-13",
-   "views": 1321
+   "views": 228
   },
   {
    "date": "2026-09-14",
-   "views": 1370
+   "views": 90
   },
   {
    "date": "2026-09-15",
-   "views": 1328
+   "views": 108
   },
   {
    "date": "2026-09-16",
-   "views": 1363
+   "views": 198
   },
   {
    "date": "2026-09-17",
-   "views": 1489
+   "views": 225
   },
   {
    "date": "2026-09-18",
-   "views": 1357
+   "views": 89
   },
   {
    "date": "2026-09-19",
-   "views": 1229
+   "views": 211
   },
   {
    "date": "2026-09-20",
-   "views": 1216
+   "views": 125
   },
   {
    "date": "2026-09-21",
-   "views": 1397
+   "views": 201
   },
   {
    "date": "2026-09-22",
-   "views": 1489
+   "views": 163
   },
   {
    "date": "2026-09-23",
-   "views": 1376
+   "views": 222
   },
   {
    "date": "2026-09-24",
-   "views": 1331
+   "views": 171
   },
   {
    "date": "2026-09-25",
-   "views": 1358
+   "views": 508
   },
   {
    "date": "2026-09-26",
-   "views": 1403
+   "views": 206
   },
   {
    "date": "2026-09-27",
-   "views": 1573
+   "views": 187
   },
   {
    "date": "2026-09-28",
-   "views": 1358
+   "views": 175
   },
   {
    "date": "2026-09-29",
-   "views": 1422
+   "views": 122
   },
   {
    "date": "2026-09-30",
-   "views": 1565
+   "views": 125
   },
   {
    "date": "2026-10-01",
-   "views": 1731
+   "views": 294
   },
   {
    "date": "2026-10-02",
-   "views": 1459
+   "views": 198
   },
   {
    "date": "2026-10-03",
-   "views": 1414
+   "views": 214
   },
   {
    "date": "2026-10-04",
-   "views": 1566
+   "views": 1756
   },
   {
    "date": "2026-10-05",
-   "views": 1467
+   "views": 366
   },
   {
    "date": "2026-10-06",
-   "views": 1857
+   "views": 289
   },
   {
    "date": "2026-10-07",
-   "views": 1538
+   "views": 2088
   },
   {
    "date": "2026-10-08",
-   "views": 1579
+   "views": 2299
   },
   {
    "date": "2026-10-09",
-   "views": 1534
+   "views": 292
   },
   {
    "date": "2026-10-10",
-   "views": 1460
+   "views": 194
   },
   {
    "date": "2026-10-11",
-   "views": 1485
+   "views": 251
   },
   {
    "date": "2026-10-12",
-   "views": 39497
+   "views": 5639
   },
   {
    "date": "2026-10-13",
-   "views": 75006
+   "views": 2559
   },
   {
    "date": "2026-10-14",
-   "views": 15538
+   "views": 665
+  },
+  {
+   "date": "2026-10-15",
+   "views": 63765
   }
  ],
- "wikipedia_title": "Cerebral_palsy",
+ "wikipedia_title": "Jake_Bauers",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

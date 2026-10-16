@@ -1,198 +1,196 @@
 {
- "title": "Luis Moncada",
- "slug": "luis-moncada",
- "score": 22,
- "status": "Peaked / fading",
- "change_percent": 755350,
- "growth_ratio": 604.36,
- "recent_avg": 60436,
- "baseline_avg": 8,
- "explanation": "Attention surged to 604\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Jeffrey Donaldson",
+ "slug": "jeffrey-donaldson",
+ "score": 28,
+ "status": "Breaking out",
+ "change_percent": 2411,
+ "growth_ratio": 25.12,
+ "recent_avg": 18605,
+ "baseline_avg": 741,
+ "explanation": "Attention is 25\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 60428,
- "latest": 46582,
+ "abs_change": 17864,
+ "latest": 54739,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.824,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.407,
-  "volume": 0.891,
-  "spike_quality": 0.323
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.635,
+  "spike_quality": 0.534
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 60,436 views/day over the last 3 days (30-day baseline: 8)."
+  "Averaging 18,605 views/day over the last 3 days (30-day baseline: 741)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 6
-  },
-  {
    "date": "2026-09-06",
-   "views": 15
+   "views": 278
   },
   {
    "date": "2026-09-07",
-   "views": 14
+   "views": 267
   },
   {
    "date": "2026-09-08",
-   "views": 10
+   "views": 270
   },
   {
    "date": "2026-09-09",
-   "views": 11
+   "views": 292
   },
   {
    "date": "2026-09-10",
-   "views": 12
+   "views": 277
   },
   {
    "date": "2026-09-11",
-   "views": 5
+   "views": 421
   },
   {
    "date": "2026-09-12",
-   "views": 7
+   "views": 467
   },
   {
    "date": "2026-09-13",
-   "views": 10
+   "views": 382
   },
   {
    "date": "2026-09-14",
-   "views": 11
+   "views": 504
   },
   {
    "date": "2026-09-15",
-   "views": 16
+   "views": 386
   },
   {
    "date": "2026-09-16",
-   "views": 5
+   "views": 333
   },
   {
    "date": "2026-09-17",
-   "views": 6
+   "views": 641
   },
   {
    "date": "2026-09-18",
-   "views": 4
+   "views": 354
   },
   {
    "date": "2026-09-19",
-   "views": 9
+   "views": 414
   },
   {
    "date": "2026-09-20",
-   "views": 8
+   "views": 845
   },
   {
    "date": "2026-09-21",
-   "views": 6
+   "views": 1659
   },
   {
    "date": "2026-09-22",
-   "views": 10
+   "views": 604
   },
   {
    "date": "2026-09-23",
-   "views": 7
+   "views": 393
   },
   {
    "date": "2026-09-24",
-   "views": 3
+   "views": 374
   },
   {
    "date": "2026-09-25",
-   "views": 4
+   "views": 2448
   },
   {
    "date": "2026-09-26",
-   "views": 9
+   "views": 766
   },
   {
    "date": "2026-09-27",
-   "views": 13
+   "views": 1785
   },
   {
    "date": "2026-09-28",
-   "views": 9
+   "views": 1706
   },
   {
    "date": "2026-09-29",
-   "views": 5
+   "views": 1358
   },
   {
    "date": "2026-09-30",
-   "views": 7
+   "views": 895
   },
   {
    "date": "2026-10-01",
-   "views": 11
+   "views": 633
   },
   {
    "date": "2026-10-02",
-   "views": 4
+   "views": 500
   },
   {
    "date": "2026-10-03",
-   "views": 11
+   "views": 467
   },
   {
    "date": "2026-10-04",
-   "views": 8
+   "views": 567
   },
   {
    "date": "2026-10-05",
-   "views": 11
+   "views": 608
   },
   {
    "date": "2026-10-06",
-   "views": 15
+   "views": 498
   },
   {
    "date": "2026-10-07",
-   "views": 11
+   "views": 434
   },
   {
    "date": "2026-10-08",
-   "views": 11
+   "views": 349
   },
   {
    "date": "2026-10-09",
-   "views": 12
+   "views": 404
   },
   {
    "date": "2026-10-10",
-   "views": 2
+   "views": 407
   },
   {
    "date": "2026-10-11",
-   "views": 9
+   "views": 502
   },
   {
    "date": "2026-10-12",
-   "views": 31
+   "views": 1006
   },
   {
    "date": "2026-10-13",
-   "views": 134696
+   "views": 621
   },
   {
    "date": "2026-10-14",
-   "views": 46582
+   "views": 456
+  },
+  {
+   "date": "2026-10-15",
+   "views": 54739
   }
  ],
- "wikipedia_title": "Luis_Moncada",
+ "wikipedia_title": "Jeffrey_Donaldson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

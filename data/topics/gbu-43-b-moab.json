@@ -1,198 +1,197 @@
 {
- "title": "Pope Leo XIV",
- "slug": "pope-leo-xiv",
- "score": 50,
- "status": "Building",
- "change_percent": 354,
- "growth_ratio": 4.54,
- "recent_avg": 48748,
- "baseline_avg": 10728,
- "explanation": "Attention is 4.5\u00d7 its 30-day baseline.",
+ "title": "GBU-43/B MOAB",
+ "slug": "gbu-43-b-moab",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 28614,
+ "growth_ratio": 287.13,
+ "recent_avg": 151325,
+ "baseline_avg": 527,
+ "explanation": "Attention is 287\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 38020,
- "latest": 75186,
+ "abs_change": 150798,
+ "latest": 453110,
  "components": {
-  "acceleration": 0.387,
-  "anomaly": 0.831,
-  "persistence": 0.72,
-  "momentum": 0.933,
-  "volume": 0.844,
-  "spike_quality": 0.861
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 1.0,
+  "spike_quality": 0.503
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 48,748 views/day over the last 3 days (30-day baseline: 10,728)."
+  "Averaging 151,325 views/day over the last 3 days (30-day baseline: 527)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 5893
-  },
-  {
    "date": "2026-09-06",
-   "views": 6121
+   "views": 463
   },
   {
    "date": "2026-09-07",
-   "views": 6277
+   "views": 451
   },
   {
    "date": "2026-09-08",
-   "views": 7279
+   "views": 429
   },
   {
    "date": "2026-09-09",
-   "views": 5768
+   "views": 559
   },
   {
    "date": "2026-09-10",
-   "views": 7234
+   "views": 620
   },
   {
    "date": "2026-09-11",
-   "views": 5695
+   "views": 743
   },
   {
    "date": "2026-09-12",
-   "views": 5655
+   "views": 636
   },
   {
    "date": "2026-09-13",
-   "views": 7002
+   "views": 518
   },
   {
    "date": "2026-09-14",
-   "views": 13525
+   "views": 528
   },
   {
    "date": "2026-09-15",
-   "views": 9243
+   "views": 555
   },
   {
    "date": "2026-09-16",
-   "views": 7158
+   "views": 893
   },
   {
    "date": "2026-09-17",
-   "views": 6902
+   "views": 646
   },
   {
    "date": "2026-09-18",
-   "views": 7190
+   "views": 541
   },
   {
    "date": "2026-09-19",
-   "views": 7516
+   "views": 496
   },
   {
    "date": "2026-09-20",
-   "views": 8476
+   "views": 483
   },
   {
    "date": "2026-09-21",
-   "views": 7505
+   "views": 552
   },
   {
    "date": "2026-09-22",
-   "views": 6793
+   "views": 536
   },
   {
    "date": "2026-09-23",
-   "views": 7284
+   "views": 500
   },
   {
    "date": "2026-09-24",
-   "views": 8174
+   "views": 454
   },
   {
    "date": "2026-09-25",
-   "views": 22005
+   "views": 512
   },
   {
    "date": "2026-09-26",
-   "views": 21564
+   "views": 475
   },
   {
    "date": "2026-09-27",
-   "views": 17055
+   "views": 479
   },
   {
    "date": "2026-09-28",
-   "views": 13915
+   "views": 629
   },
   {
    "date": "2026-09-29",
-   "views": 12820
+   "views": 689
   },
   {
    "date": "2026-09-30",
-   "views": 10875
+   "views": 506
   },
   {
    "date": "2026-10-01",
-   "views": 11442
+   "views": 508
   },
   {
    "date": "2026-10-02",
-   "views": 9808
+   "views": 559
   },
   {
    "date": "2026-10-03",
-   "views": 11439
+   "views": 523
   },
   {
    "date": "2026-10-04",
-   "views": 9871
+   "views": 555
   },
   {
    "date": "2026-10-05",
-   "views": 9001
+   "views": 546
   },
   {
    "date": "2026-10-06",
-   "views": 10260
+   "views": 508
   },
   {
    "date": "2026-10-07",
-   "views": 8760
+   "views": 515
   },
   {
    "date": "2026-10-08",
-   "views": 7912
+   "views": 488
   },
   {
    "date": "2026-10-09",
-   "views": 9696
+   "views": 416
   },
   {
    "date": "2026-10-10",
-   "views": 9628
+   "views": 397
   },
   {
    "date": "2026-10-11",
-   "views": 23380
+   "views": 389
   },
   {
    "date": "2026-10-12",
-   "views": 17708
+   "views": 415
   },
   {
    "date": "2026-10-13",
-   "views": 53350
+   "views": 453
   },
   {
    "date": "2026-10-14",
-   "views": 75186
+   "views": 412
+  },
+  {
+   "date": "2026-10-15",
+   "views": 453110
   }
  ],
- "wikipedia_title": "Pope_Leo_XIV",
+ "wikipedia_title": "GBU-43/B_MOAB",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Ilhan Omar",
- "slug": "ilhan-omar",
- "score": 45,
- "status": "Elevated",
- "change_percent": 3135,
- "growth_ratio": 32.35,
- "recent_avg": 99158,
- "baseline_avg": 3065,
- "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "title": "Hilary Swank",
+ "slug": "hilary-swank",
+ "score": 26,
+ "status": "Breaking out",
+ "change_percent": 388,
+ "growth_ratio": 4.88,
+ "recent_avg": 27791,
+ "baseline_avg": 5691,
+ "explanation": "Attention is 4.9\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 96093,
- "latest": 87603,
+ "abs_change": 22100,
+ "latest": 65089,
  "components": {
-  "acceleration": 0.889,
-  "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.549,
-  "volume": 0.998,
-  "spike_quality": 0.776
+  "acceleration": 0.405,
+  "anomaly": 0.399,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.722,
+  "spike_quality": 0.705
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 99,158 views/day over the last 3 days (30-day baseline: 3,065)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 27,791 views/day over the last 3 days (30-day baseline: 5,691)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 1684
-  },
-  {
    "date": "2026-09-06",
-   "views": 1515
+   "views": 3619
   },
   {
    "date": "2026-09-07",
-   "views": 1612
+   "views": 3913
   },
   {
    "date": "2026-09-08",
-   "views": 1678
+   "views": 3013
   },
   {
    "date": "2026-09-09",
-   "views": 2073
+   "views": 2498
   },
   {
    "date": "2026-09-10",
-   "views": 2333
+   "views": 2284
   },
   {
    "date": "2026-09-11",
-   "views": 5683
+   "views": 2540
   },
   {
    "date": "2026-09-12",
-   "views": 10441
+   "views": 3214
   },
   {
    "date": "2026-09-13",
-   "views": 6198
+   "views": 3881
   },
   {
    "date": "2026-09-14",
-   "views": 6755
+   "views": 2861
   },
   {
    "date": "2026-09-15",
-   "views": 5437
+   "views": 2670
   },
   {
    "date": "2026-09-16",
-   "views": 3584
+   "views": 2471
   },
   {
    "date": "2026-09-17",
-   "views": 5841
+   "views": 2758
   },
   {
    "date": "2026-09-18",
-   "views": 4848
+   "views": 2900
   },
   {
    "date": "2026-09-19",
-   "views": 3161
+   "views": 3891
   },
   {
    "date": "2026-09-20",
-   "views": 2453
+   "views": 3658
   },
   {
    "date": "2026-09-21",
-   "views": 2573
+   "views": 3250
   },
   {
    "date": "2026-09-22",
-   "views": 2097
+   "views": 2923
   },
   {
    "date": "2026-09-23",
-   "views": 2306
+   "views": 2830
   },
   {
    "date": "2026-09-24",
-   "views": 2021
+   "views": 3496
   },
   {
    "date": "2026-09-25",
-   "views": 2170
+   "views": 6461
   },
   {
    "date": "2026-09-26",
-   "views": 2404
+   "views": 4216
   },
   {
    "date": "2026-09-27",
-   "views": 1945
+   "views": 3644
   },
   {
    "date": "2026-09-28",
-   "views": 1752
+   "views": 3090
   },
   {
    "date": "2026-09-29",
-   "views": 2968
+   "views": 2898
   },
   {
    "date": "2026-09-30",
-   "views": 2098
+   "views": 30037
   },
   {
    "date": "2026-10-01",
-   "views": 2294
+   "views": 13853
   },
   {
    "date": "2026-10-02",
-   "views": 2324
+   "views": 16910
   },
   {
    "date": "2026-10-03",
-   "views": 1826
+   "views": 8539
   },
   {
    "date": "2026-10-04",
-   "views": 2130
+   "views": 7533
   },
   {
    "date": "2026-10-05",
-   "views": 1850
+   "views": 6933
   },
   {
    "date": "2026-10-06",
-   "views": 1673
+   "views": 5419
   },
   {
    "date": "2026-10-07",
-   "views": 1686
+   "views": 3658
   },
   {
    "date": "2026-10-08",
-   "views": 1930
+   "views": 2964
   },
   {
    "date": "2026-10-09",
-   "views": 1883
+   "views": 3761
   },
   {
    "date": "2026-10-10",
-   "views": 1654
+   "views": 4168
   },
   {
    "date": "2026-10-11",
-   "views": 1656
+   "views": 4931
   },
   {
    "date": "2026-10-12",
-   "views": 109068
+   "views": 4131
   },
   {
    "date": "2026-10-13",
-   "views": 100803
+   "views": 3188
   },
   {
    "date": "2026-10-14",
-   "views": 87603
+   "views": 15096
+  },
+  {
+   "date": "2026-10-15",
+   "views": 65089
   }
  ],
- "wikipedia_title": "Ilhan_Omar",
+ "wikipedia_title": "Hilary_Swank",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

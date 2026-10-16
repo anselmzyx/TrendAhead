@@ -1,37 +1,32 @@
 {
  "title": "Christopher Coke",
  "slug": "christopher-coke",
- "score": 34,
+ "score": 41,
  "status": "Breaking out",
- "change_percent": 10241,
- "growth_ratio": 103.59,
- "recent_avg": 27817,
- "baseline_avg": 269,
- "explanation": "Attention is 104\u00d7 its 30-day baseline.",
+ "change_percent": 18944,
+ "growth_ratio": 190.77,
+ "recent_avg": 51418,
+ "baseline_avg": 270,
+ "explanation": "Attention is 191\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 27548,
- "latest": 83046,
+ "abs_change": 51148,
+ "latest": 71020,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.722,
-  "spike_quality": 0.508
+  "persistence": 0.32,
+  "momentum": 0.646,
+  "volume": 0.856,
+  "spike_quality": 0.698
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,817 views/day over the last 3 days (30-day baseline: 269)."
+  "Averaging 51,418 views/day over the last 3 days (30-day baseline: 270)."
  ],
  "history": [
-  {
-   "date": "2026-09-05",
-   "views": 230
-  },
   {
    "date": "2026-09-06",
    "views": 354
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-14",
    "views": 83046
+  },
+  {
+   "date": "2026-10-15",
+   "views": 71020
   }
  ],
  "wikipedia_title": "Christopher_Coke",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "Ahmet Zappa",
- "slug": "ahmet-zappa",
- "score": 24,
+ "title": "Pepperdine University",
+ "slug": "pepperdine-university",
+ "score": 35,
  "status": "Peaked / fading",
- "change_percent": 3653,
- "growth_ratio": 37.52,
- "recent_avg": 34340,
- "baseline_avg": 915,
- "explanation": "Attention surged to 38\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 3436,
+ "growth_ratio": 35.36,
+ "recent_avg": 30619,
+ "baseline_avg": 866,
+ "explanation": "Attention surged to 35\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 33425,
- "latest": 15151,
+ "abs_change": 29753,
+ "latest": 22154,
  "components": {
-  "acceleration": 0.927,
+  "acceleration": 0.911,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.365,
-  "volume": 0.768,
-  "spike_quality": 0.417
+  "persistence": 0.76,
+  "momentum": 0.49,
+  "volume": 0.743,
+  "spike_quality": 0.568
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 34,340 views/day over the last 3 days (30-day baseline: 915)."
+  "Averaging 30,619 views/day over the last 3 days (30-day baseline: 866)."
  ],
  "history": [
   {
-   "date": "2026-09-05",
-   "views": 556
-  },
-  {
    "date": "2026-09-06",
-   "views": 578
+   "views": 588
   },
   {
    "date": "2026-09-07",
-   "views": 652
+   "views": 543
   },
   {
    "date": "2026-09-08",
-   "views": 660
+   "views": 609
   },
   {
    "date": "2026-09-09",
-   "views": 579
+   "views": 628
   },
   {
    "date": "2026-09-10",
-   "views": 583
+   "views": 544
   },
   {
    "date": "2026-09-11",
-   "views": 540
+   "views": 560
   },
   {
    "date": "2026-09-12",
-   "views": 605
+   "views": 571
   },
   {
    "date": "2026-09-13",
-   "views": 637
+   "views": 519
   },
   {
    "date": "2026-09-14",
-   "views": 603
+   "views": 503
   },
   {
    "date": "2026-09-15",
-   "views": 720
+   "views": 470
   },
   {
    "date": "2026-09-16",
-   "views": 917
+   "views": 545
   },
   {
    "date": "2026-09-17",
-   "views": 1441
+   "views": 502
   },
   {
    "date": "2026-09-18",
-   "views": 1595
+   "views": 457
   },
   {
    "date": "2026-09-19",
-   "views": 1110
+   "views": 538
   },
   {
    "date": "2026-09-20",
-   "views": 810
+   "views": 491
   },
   {
    "date": "2026-09-21",
-   "views": 707
+   "views": 585
   },
   {
    "date": "2026-09-22",
-   "views": 703
+   "views": 557
   },
   {
    "date": "2026-09-23",
-   "views": 687
+   "views": 597
   },
   {
    "date": "2026-09-24",
-   "views": 648
+   "views": 588
   },
   {
    "date": "2026-09-25",
-   "views": 647
+   "views": 537
   },
   {
    "date": "2026-09-26",
-   "views": 768
+   "views": 541
   },
   {
    "date": "2026-09-27",
-   "views": 713
+   "views": 552
   },
   {
    "date": "2026-09-28",
-   "views": 727
+   "views": 515
   },
   {
    "date": "2026-09-29",
-   "views": 608
+   "views": 511
   },
   {
    "date": "2026-09-30",
-   "views": 624
+   "views": 575
   },
   {
    "date": "2026-10-01",
-   "views": 540
+   "views": 531
   },
   {
    "date": "2026-10-02",
-   "views": 710
+   "views": 545
   },
   {
    "date": "2026-10-03",
-   "views": 2291
+   "views": 457
   },
   {
    "date": "2026-10-04",
-   "views": 2413
+   "views": 590
   },
   {
    "date": "2026-10-05",
-   "views": 1783
+   "views": 489
   },
   {
    "date": "2026-10-06",
-   "views": 1106
+   "views": 514
   },
   {
    "date": "2026-10-07",
-   "views": 747
+   "views": 467
   },
   {
    "date": "2026-10-08",
-   "views": 677
+   "views": 451
   },
   {
    "date": "2026-10-09",
-   "views": 581
+   "views": 2019
   },
   {
    "date": "2026-10-10",
-   "views": 615
+   "views": 5505
   },
   {
    "date": "2026-10-11",
-   "views": 721
+   "views": 2449
   },
   {
    "date": "2026-10-12",
-   "views": 32870
+   "views": 2380
   },
   {
    "date": "2026-10-13",
-   "views": 54999
+   "views": 23845
   },
   {
    "date": "2026-10-14",
-   "views": 15151
+   "views": 45858
+  },
+  {
+   "date": "2026-10-15",
+   "views": 22154
   }
  ],
- "wikipedia_title": "Ahmet_Zappa",
+ "wikipedia_title": "Pepperdine_University",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-14",
- "generated_at_utc": "2026-10-15T10:16:17+00:00"
+ "data_through": "2026-10-15",
+ "generated_at_utc": "2026-10-16T10:05:02+00:00"
 }
