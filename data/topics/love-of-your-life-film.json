@@ -1,46 +1,34 @@
 {
  "title": "Love of Your Life (film)",
  "slug": "love-of-your-life-film",
- "score": 45,
- "status": "Breaking out",
- "change_percent": 977,
- "growth_ratio": 10.77,
- "recent_avg": 31534,
- "baseline_avg": 2927,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "score": 65,
+ "status": "Building",
+ "change_percent": 1221,
+ "growth_ratio": 13.21,
+ "recent_avg": 73240,
+ "baseline_avg": 5545,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 28607,
- "latest": 58527,
+ "abs_change": 67695,
+ "latest": 97766,
  "components": {
-  "acceleration": 0.608,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.749,
-  "spike_quality": 0.775
+  "acceleration": 0.66,
+  "anomaly": 0.605,
+  "persistence": 0.92,
+  "momentum": 0.933,
+  "volume": 0.932,
+  "spike_quality": 0.904
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 31,534 views/day over the last 3 days (30-day baseline: 2,927)."
+  "Averaging 73,240 views/day over the last 3 days (30-day baseline: 5,545)."
  ],
  "history": [
-  {
-   "date": "2026-09-06",
-   "views": 1165
-  },
-  {
-   "date": "2026-09-07",
-   "views": 1378
-  },
-  {
-   "date": "2026-09-08",
-   "views": 1485
-  },
   {
    "date": "2026-09-09",
    "views": 22771
@@ -188,11 +176,23 @@
   {
    "date": "2026-10-15",
    "views": 58527
+  },
+  {
+   "date": "2026-10-16",
+   "views": 48885
+  },
+  {
+   "date": "2026-10-17",
+   "views": 73069
+  },
+  {
+   "date": "2026-10-18",
+   "views": 97766
   }
  ],
  "wikipedia_title": "Love_of_Your_Life_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

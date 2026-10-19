@@ -1,46 +1,33 @@
 {
  "title": "Street Fighter (2026 film)",
  "slug": "street-fighter-2026-film",
- "score": 63,
+ "score": 61,
  "status": "Building",
- "change_percent": 440,
- "growth_ratio": 5.4,
- "recent_avg": 72974,
- "baseline_avg": 13516,
- "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
+ "change_percent": 805,
+ "growth_ratio": 9.05,
+ "recent_avg": 183452,
+ "baseline_avg": 20273,
+ "explanation": "Attention is 9.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 59458,
- "latest": 113060,
+ "abs_change": 163179,
+ "latest": 181850,
  "components": {
-  "acceleration": 0.431,
-  "anomaly": 0.781,
+  "acceleration": 0.563,
+  "anomaly": 0.774,
   "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.932,
-  "spike_quality": 0.887
+  "momentum": 0.768,
+  "volume": 1.0,
+  "spike_quality": 0.916
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 72,974 views/day over the last 3 days (30-day baseline: 13,516)."
+  "Averaging 183,452 views/day over the last 3 days (30-day baseline: 20,273)."
  ],
  "history": [
-  {
-   "date": "2026-09-06",
-   "views": 10602
-  },
-  {
-   "date": "2026-09-07",
-   "views": 10049
-  },
-  {
-   "date": "2026-09-08",
-   "views": 8637
-  },
   {
    "date": "2026-09-09",
    "views": 7328
@@ -188,11 +175,23 @@
   {
    "date": "2026-10-15",
    "views": 113060
+  },
+  {
+   "date": "2026-10-16",
+   "views": 176357
+  },
+  {
+   "date": "2026-10-17",
+   "views": 192150
+  },
+  {
+   "date": "2026-10-18",
+   "views": 181850
   }
  ],
  "wikipedia_title": "Street_Fighter_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

@@ -1,196 +1,197 @@
 {
- "title": "Karoline Leavitt",
- "slug": "karoline-leavitt",
+ "title": "Whalefall (film)",
+ "slug": "whalefall-film",
  "score": 41,
  "status": "Elevated",
- "change_percent": 1483,
- "growth_ratio": 15.83,
- "recent_avg": 78776,
- "baseline_avg": 4977,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "change_percent": 342,
+ "growth_ratio": 4.42,
+ "recent_avg": 83207,
+ "baseline_avg": 18810,
+ "explanation": "Attention is 4.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 73799,
- "latest": 61949,
+ "abs_change": 64397,
+ "latest": 75506,
  "components": {
-  "acceleration": 0.706,
-  "anomaly": 1.0,
-  "persistence": 0.76,
-  "momentum": 0.533,
-  "volume": 0.948,
-  "spike_quality": 0.631
+  "acceleration": 0.38,
+  "anomaly": 0.61,
+  "persistence": 0.84,
+  "momentum": 0.568,
+  "volume": 0.96,
+  "spike_quality": 0.871
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 78,776 views/day over the last 3 days (30-day baseline: 4,977)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 83,207 views/day over the last 3 days (30-day baseline: 18,810)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 3283
-  },
-  {
-   "date": "2026-09-07",
-   "views": 3282
-  },
-  {
-   "date": "2026-09-08",
-   "views": 3062
-  },
-  {
    "date": "2026-09-09",
-   "views": 4431
+   "views": 2891
   },
   {
    "date": "2026-09-10",
-   "views": 4897
+   "views": 6974
   },
   {
    "date": "2026-09-11",
-   "views": 10009
+   "views": 15190
   },
   {
    "date": "2026-09-12",
-   "views": 3569
+   "views": 10074
   },
   {
    "date": "2026-09-13",
-   "views": 3166
+   "views": 7680
   },
   {
    "date": "2026-09-14",
-   "views": 3663
+   "views": 8515
   },
   {
    "date": "2026-09-15",
-   "views": 3476
+   "views": 14590
   },
   {
    "date": "2026-09-16",
-   "views": 2849
+   "views": 9679
   },
   {
    "date": "2026-09-17",
-   "views": 2689
+   "views": 10810
   },
   {
    "date": "2026-09-18",
-   "views": 3660
+   "views": 13049
   },
   {
    "date": "2026-09-19",
-   "views": 3056
+   "views": 17287
   },
   {
    "date": "2026-09-20",
-   "views": 2851
+   "views": 24607
   },
   {
    "date": "2026-09-21",
-   "views": 3092
+   "views": 19930
   },
   {
    "date": "2026-09-22",
-   "views": 4002
+   "views": 18544
   },
   {
    "date": "2026-09-23",
-   "views": 3932
+   "views": 10253
   },
   {
    "date": "2026-09-24",
-   "views": 3614
+   "views": 10203
   },
   {
    "date": "2026-09-25",
-   "views": 2999
+   "views": 9147
   },
   {
    "date": "2026-09-26",
-   "views": 2621
+   "views": 12131
   },
   {
    "date": "2026-09-27",
-   "views": 2605
+   "views": 12699
   },
   {
    "date": "2026-09-28",
-   "views": 2737
+   "views": 13596
   },
   {
    "date": "2026-09-29",
-   "views": 3788
+   "views": 12310
   },
   {
    "date": "2026-09-30",
-   "views": 2903
+   "views": 18022
   },
   {
    "date": "2026-10-01",
-   "views": 2520
+   "views": 20862
   },
   {
    "date": "2026-10-02",
-   "views": 2509
+   "views": 16547
   },
   {
    "date": "2026-10-03",
-   "views": 2535
+   "views": 16677
   },
   {
    "date": "2026-10-04",
-   "views": 2779
+   "views": 19329
   },
   {
    "date": "2026-10-05",
-   "views": 12823
+   "views": 16866
   },
   {
    "date": "2026-10-06",
-   "views": 9434
+   "views": 16485
   },
   {
    "date": "2026-10-07",
-   "views": 6592
+   "views": 17042
   },
   {
    "date": "2026-10-08",
-   "views": 4436
+   "views": 16529
   },
   {
    "date": "2026-10-09",
-   "views": 12525
+   "views": 16666
   },
   {
    "date": "2026-10-10",
-   "views": 17871
+   "views": 17487
   },
   {
    "date": "2026-10-11",
-   "views": 8809
+   "views": 20238
   },
   {
    "date": "2026-10-12",
-   "views": 8769
+   "views": 22092
   },
   {
    "date": "2026-10-13",
-   "views": 62605
+   "views": 28641
   },
   {
    "date": "2026-10-14",
-   "views": 111774
+   "views": 43093
   },
   {
    "date": "2026-10-15",
-   "views": 61949
+   "views": 63480
+  },
+  {
+   "date": "2026-10-16",
+   "views": 90394
+  },
+  {
+   "date": "2026-10-17",
+   "views": 83722
+  },
+  {
+   "date": "2026-10-18",
+   "views": 75506
   }
  ],
- "wikipedia_title": "Karoline_Leavitt",
+ "wikipedia_title": "Whalefall_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

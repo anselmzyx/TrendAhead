@@ -1,196 +1,196 @@
 {
- "title": "Imran Khan (film actor)",
- "slug": "imran-khan-film-actor",
- "score": 51,
- "status": "Breaking out",
- "change_percent": 1983,
- "growth_ratio": 20.83,
- "recent_avg": 53884,
- "baseline_avg": 2587,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "title": "Kalanithi Maran",
+ "slug": "kalanithi-maran",
+ "score": 49,
+ "status": "Elevated",
+ "change_percent": 5252,
+ "growth_ratio": 53.53,
+ "recent_avg": 61122,
+ "baseline_avg": 1142,
+ "explanation": "Attention is 54\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 51297,
- "latest": 143474,
+ "abs_change": 59980,
+ "latest": 70825,
  "components": {
-  "acceleration": 0.776,
-  "anomaly": 0.95,
-  "persistence": 0.76,
-  "momentum": 0.8,
-  "volume": 0.866,
-  "spike_quality": 0.697
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "momentum": 0.642,
+  "volume": 0.893,
+  "spike_quality": 0.663
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 53,884 views/day over the last 3 days (30-day baseline: 2,587)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 61,122 views/day over the last 3 days (30-day baseline: 1,142)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 881
-  },
-  {
-   "date": "2026-09-07",
-   "views": 811
-  },
-  {
-   "date": "2026-09-08",
-   "views": 937
-  },
-  {
    "date": "2026-09-09",
-   "views": 747
+   "views": 771
   },
   {
    "date": "2026-09-10",
-   "views": 710
+   "views": 1842
   },
   {
    "date": "2026-09-11",
-   "views": 584
+   "views": 2621
   },
   {
    "date": "2026-09-12",
-   "views": 705
+   "views": 1815
   },
   {
    "date": "2026-09-13",
-   "views": 790
+   "views": 1322
   },
   {
    "date": "2026-09-14",
-   "views": 1487
+   "views": 1024
   },
   {
    "date": "2026-09-15",
-   "views": 971
+   "views": 806
   },
   {
    "date": "2026-09-16",
-   "views": 842
+   "views": 727
   },
   {
    "date": "2026-09-17",
-   "views": 783
+   "views": 692
   },
   {
    "date": "2026-09-18",
-   "views": 813
+   "views": 692
   },
   {
    "date": "2026-09-19",
-   "views": 718
+   "views": 778
   },
   {
    "date": "2026-09-20",
-   "views": 676
+   "views": 816
   },
   {
    "date": "2026-09-21",
-   "views": 743
+   "views": 956
   },
   {
    "date": "2026-09-22",
-   "views": 702
+   "views": 1263
   },
   {
    "date": "2026-09-23",
-   "views": 812
+   "views": 959
   },
   {
    "date": "2026-09-24",
-   "views": 712
+   "views": 888
   },
   {
    "date": "2026-09-25",
-   "views": 714
-  },
-  {
-   "date": "2026-09-26",
-   "views": 842
-  },
-  {
-   "date": "2026-09-27",
-   "views": 835
-  },
-  {
-   "date": "2026-09-28",
-   "views": 1084
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1193
-  },
-  {
-   "date": "2026-09-30",
-   "views": 705
-  },
-  {
-   "date": "2026-10-01",
-   "views": 878
-  },
-  {
-   "date": "2026-10-02",
-   "views": 1202
-  },
-  {
-   "date": "2026-10-03",
-   "views": 1087
-  },
-  {
-   "date": "2026-10-04",
-   "views": 922
-  },
-  {
-   "date": "2026-10-05",
    "views": 860
   },
   {
+   "date": "2026-09-26",
+   "views": 937
+  },
+  {
+   "date": "2026-09-27",
+   "views": 867
+  },
+  {
+   "date": "2026-09-28",
+   "views": 914
+  },
+  {
+   "date": "2026-09-29",
+   "views": 1344
+  },
+  {
+   "date": "2026-09-30",
+   "views": 1079
+  },
+  {
+   "date": "2026-10-01",
+   "views": 776
+  },
+  {
+   "date": "2026-10-02",
+   "views": 692
+  },
+  {
+   "date": "2026-10-03",
+   "views": 670
+  },
+  {
+   "date": "2026-10-04",
+   "views": 729
+  },
+  {
+   "date": "2026-10-05",
+   "views": 1130
+  },
+  {
    "date": "2026-10-06",
-   "views": 781
+   "views": 1150
   },
   {
    "date": "2026-10-07",
-   "views": 661
+   "views": 1021
   },
   {
    "date": "2026-10-08",
-   "views": 799
+   "views": 788
   },
   {
    "date": "2026-10-09",
-   "views": 749
+   "views": 731
   },
   {
    "date": "2026-10-10",
-   "views": 13096
+   "views": 898
   },
   {
    "date": "2026-10-11",
-   "views": 24834
+   "views": 1232
   },
   {
    "date": "2026-10-12",
-   "views": 16328
+   "views": 1410
   },
   {
    "date": "2026-10-13",
-   "views": 13277
+   "views": 1539
   },
   {
    "date": "2026-10-14",
-   "views": 4901
+   "views": 1588
   },
   {
    "date": "2026-10-15",
-   "views": 143474
+   "views": 6129
+  },
+  {
+   "date": "2026-10-16",
+   "views": 16410
+  },
+  {
+   "date": "2026-10-17",
+   "views": 96131
+  },
+  {
+   "date": "2026-10-18",
+   "views": 70825
   }
  ],
- "wikipedia_title": "Imran_Khan_(film_actor)",
+ "wikipedia_title": "Kalanithi_Maran",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

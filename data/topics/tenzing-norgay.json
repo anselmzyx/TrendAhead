@@ -1,197 +1,198 @@
 {
- "title": "The Magician's Nephew",
- "slug": "the-magician-s-nephew",
- "score": 31,
- "status": "Peaked / fading",
- "change_percent": 1582,
- "growth_ratio": 16.82,
- "recent_avg": 46420,
- "baseline_avg": 2760,
- "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Tenzing Norgay",
+ "slug": "tenzing-norgay",
+ "score": 62,
+ "status": "Building",
+ "change_percent": 1329,
+ "growth_ratio": 14.28,
+ "recent_avg": 63827,
+ "baseline_avg": 4468,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 43660,
- "latest": 26995,
+ "abs_change": 59359,
+ "latest": 79866,
  "components": {
-  "acceleration": 0.721,
+  "acceleration": 0.68,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.442,
-  "volume": 0.833,
-  "spike_quality": 0.518
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.903,
+  "spike_quality": 0.861
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 46,420 views/day over the last 3 days (30-day baseline: 2,760)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 63,827 views/day over the last 3 days (30-day baseline: 4,468)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 556
-  },
-  {
-   "date": "2026-09-07",
-   "views": 672
-  },
-  {
-   "date": "2026-09-08",
-   "views": 602
-  },
-  {
    "date": "2026-09-09",
-   "views": 554
+   "views": 1650
   },
   {
    "date": "2026-09-10",
-   "views": 543
+   "views": 1335
   },
   {
    "date": "2026-09-11",
-   "views": 489
+   "views": 1798
   },
   {
    "date": "2026-09-12",
-   "views": 494
+   "views": 1510
   },
   {
    "date": "2026-09-13",
-   "views": 522
+   "views": 1811
   },
   {
    "date": "2026-09-14",
-   "views": 585
+   "views": 3939
   },
   {
    "date": "2026-09-15",
-   "views": 614
+   "views": 1856
   },
   {
    "date": "2026-09-16",
-   "views": 4881
+   "views": 10699
   },
   {
    "date": "2026-09-17",
-   "views": 9574
+   "views": 12873
   },
   {
    "date": "2026-09-18",
-   "views": 14104
+   "views": 9574
   },
   {
    "date": "2026-09-19",
-   "views": 10457
+   "views": 6811
   },
   {
    "date": "2026-09-20",
-   "views": 5024
+   "views": 5347
   },
   {
    "date": "2026-09-21",
-   "views": 4530
+   "views": 4704
   },
   {
    "date": "2026-09-22",
-   "views": 4465
+   "views": 3250
   },
   {
    "date": "2026-09-23",
-   "views": 3549
+   "views": 2696
   },
   {
    "date": "2026-09-24",
-   "views": 2471
+   "views": 3292
   },
   {
    "date": "2026-09-25",
-   "views": 2366
+   "views": 2604
   },
   {
    "date": "2026-09-26",
-   "views": 1610
+   "views": 2284
   },
   {
    "date": "2026-09-27",
-   "views": 1323
+   "views": 9815
   },
   {
    "date": "2026-09-28",
-   "views": 1169
+   "views": 5624
   },
   {
    "date": "2026-09-29",
-   "views": 1099
+   "views": 3466
   },
   {
    "date": "2026-09-30",
-   "views": 1006
+   "views": 4629
   },
   {
    "date": "2026-10-01",
-   "views": 847
+   "views": 3247
   },
   {
    "date": "2026-10-02",
-   "views": 780
+   "views": 2698
   },
   {
    "date": "2026-10-03",
-   "views": 817
+   "views": 2598
   },
   {
    "date": "2026-10-04",
-   "views": 986
+   "views": 2253
   },
   {
    "date": "2026-10-05",
-   "views": 896
+   "views": 2510
   },
   {
    "date": "2026-10-06",
-   "views": 712
+   "views": 2286
   },
   {
    "date": "2026-10-07",
-   "views": 760
+   "views": 2125
   },
   {
    "date": "2026-10-08",
-   "views": 738
+   "views": 2279
   },
   {
    "date": "2026-10-09",
-   "views": 644
+   "views": 2465
   },
   {
    "date": "2026-10-10",
-   "views": 675
+   "views": 2959
   },
   {
    "date": "2026-10-11",
-   "views": 838
+   "views": 2830
   },
   {
    "date": "2026-10-12",
-   "views": 4772
+   "views": 5472
   },
   {
    "date": "2026-10-13",
-   "views": 45331
+   "views": 3480
   },
   {
    "date": "2026-10-14",
-   "views": 66934
+   "views": 4793
   },
   {
    "date": "2026-10-15",
-   "views": 26995
+   "views": 4391
+  },
+  {
+   "date": "2026-10-16",
+   "views": 34220
+  },
+  {
+   "date": "2026-10-17",
+   "views": 77394
+  },
+  {
+   "date": "2026-10-18",
+   "views": 79866
   }
  ],
- "wikipedia_title": "The_Magician's_Nephew",
+ "wikipedia_title": "Tenzing_Norgay",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

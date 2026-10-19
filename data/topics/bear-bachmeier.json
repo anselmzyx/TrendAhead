@@ -1,196 +1,197 @@
 {
- "title": "Mariko Aoki phenomenon",
- "slug": "mariko-aoki-phenomenon",
- "score": 26,
+ "title": "Bear Bachmeier",
+ "slug": "bear-bachmeier",
+ "score": 47,
  "status": "Breaking out",
- "change_percent": 1899,
- "growth_ratio": 20.0,
- "recent_avg": 13212,
- "baseline_avg": 661,
- "explanation": "Attention is 20\u00d7 its 30-day baseline.",
+ "change_percent": 3507,
+ "growth_ratio": 36.06,
+ "recent_avg": 49053,
+ "baseline_avg": 1360,
+ "explanation": "Attention is 36\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 12551,
- "latest": 39119,
+ "abs_change": 47693,
+ "latest": 124883,
  "components": {
-  "acceleration": 0.766,
+  "acceleration": 0.916,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.56,
-  "spike_quality": 0.531
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.845,
+  "spike_quality": 0.598
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 13,212 views/day over the last 3 days (30-day baseline: 661)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 49,053 views/day over the last 3 days (30-day baseline: 1,360)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 420
-  },
-  {
-   "date": "2026-09-07",
-   "views": 325
-  },
-  {
-   "date": "2026-09-08",
-   "views": 356
-  },
-  {
    "date": "2026-09-09",
-   "views": 1816
+   "views": 238
   },
   {
    "date": "2026-09-10",
-   "views": 2265
+   "views": 197
   },
   {
    "date": "2026-09-11",
-   "views": 1022
+   "views": 215
   },
   {
    "date": "2026-09-12",
-   "views": 582
+   "views": 9324
   },
   {
    "date": "2026-09-13",
-   "views": 3003
+   "views": 1967
   },
   {
    "date": "2026-09-14",
-   "views": 1072
+   "views": 552
   },
   {
    "date": "2026-09-15",
-   "views": 3315
+   "views": 343
   },
   {
    "date": "2026-09-16",
-   "views": 581
+   "views": 429
   },
   {
    "date": "2026-09-17",
-   "views": 378
+   "views": 293
   },
   {
    "date": "2026-09-18",
-   "views": 400
+   "views": 229
   },
   {
    "date": "2026-09-19",
-   "views": 623
+   "views": 775
   },
   {
    "date": "2026-09-20",
-   "views": 482
+   "views": 3056
   },
   {
    "date": "2026-09-21",
-   "views": 371
+   "views": 590
   },
   {
    "date": "2026-09-22",
-   "views": 297
+   "views": 379
   },
   {
    "date": "2026-09-23",
-   "views": 341
+   "views": 2349
   },
   {
    "date": "2026-09-24",
-   "views": 418
+   "views": 3294
   },
   {
    "date": "2026-09-25",
-   "views": 280
+   "views": 788
   },
   {
    "date": "2026-09-26",
-   "views": 381
+   "views": 538
   },
   {
    "date": "2026-09-27",
-   "views": 436
+   "views": 442
   },
   {
    "date": "2026-09-28",
-   "views": 1738
+   "views": 346
   },
   {
    "date": "2026-09-29",
-   "views": 357
+   "views": 274
   },
   {
    "date": "2026-09-30",
-   "views": 348
+   "views": 397
   },
   {
    "date": "2026-10-01",
-   "views": 320
+   "views": 353
   },
   {
    "date": "2026-10-02",
-   "views": 401
+   "views": 277
   },
   {
    "date": "2026-10-03",
-   "views": 415
+   "views": 2143
   },
   {
    "date": "2026-10-04",
-   "views": 632
+   "views": 7812
   },
   {
    "date": "2026-10-05",
-   "views": 362
+   "views": 635
   },
   {
    "date": "2026-10-06",
-   "views": 380
+   "views": 475
   },
   {
    "date": "2026-10-07",
-   "views": 355
+   "views": 360
   },
   {
    "date": "2026-10-08",
-   "views": 471
+   "views": 328
   },
   {
    "date": "2026-10-09",
-   "views": 458
+   "views": 378
   },
   {
    "date": "2026-10-10",
-   "views": 513
+   "views": 9729
   },
   {
    "date": "2026-10-11",
-   "views": 420
+   "views": 1066
   },
   {
    "date": "2026-10-12",
-   "views": 269
+   "views": 644
   },
   {
    "date": "2026-10-13",
-   "views": 266
+   "views": 671
   },
   {
    "date": "2026-10-14",
-   "views": 250
+   "views": 788
   },
   {
    "date": "2026-10-15",
-   "views": 39119
+   "views": 968
+  },
+  {
+   "date": "2026-10-16",
+   "views": 1243
+  },
+  {
+   "date": "2026-10-17",
+   "views": 21033
+  },
+  {
+   "date": "2026-10-18",
+   "views": 124883
   }
  ],
- "wikipedia_title": "Mariko_Aoki_phenomenon",
+ "wikipedia_title": "Bear_Bachmeier",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

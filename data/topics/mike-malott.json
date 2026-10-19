@@ -1,197 +1,197 @@
 {
- "title": "Pepperdine University",
- "slug": "pepperdine-university",
- "score": 35,
- "status": "Peaked / fading",
- "change_percent": 3436,
- "growth_ratio": 35.36,
- "recent_avg": 30619,
- "baseline_avg": 866,
- "explanation": "Attention surged to 35\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Mike Malott",
+ "slug": "mike-malott",
+ "score": 60,
+ "status": "Breaking out",
+ "change_percent": 3638,
+ "growth_ratio": 37.4,
+ "recent_avg": 25679,
+ "baseline_avg": 687,
+ "explanation": "Attention is 37\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 29753,
- "latest": 22154,
+ "abs_change": 24992,
+ "latest": 63408,
  "components": {
-  "acceleration": 0.911,
+  "acceleration": 0.926,
   "anomaly": 1.0,
-  "persistence": 0.76,
-  "momentum": 0.49,
-  "volume": 0.743,
-  "spike_quality": 0.568
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.705,
+  "spike_quality": 0.647
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 30,619 views/day over the last 3 days (30-day baseline: 866)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,679 views/day over the last 3 days (30-day baseline: 687)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 588
-  },
-  {
-   "date": "2026-09-07",
-   "views": 543
-  },
-  {
-   "date": "2026-09-08",
-   "views": 609
-  },
-  {
    "date": "2026-09-09",
-   "views": 628
+   "views": 214
   },
   {
    "date": "2026-09-10",
-   "views": 544
+   "views": 171
   },
   {
    "date": "2026-09-11",
-   "views": 560
+   "views": 171
   },
   {
    "date": "2026-09-12",
-   "views": 571
+   "views": 199
   },
   {
    "date": "2026-09-13",
-   "views": 519
+   "views": 168
   },
   {
    "date": "2026-09-14",
-   "views": 503
+   "views": 193
   },
   {
    "date": "2026-09-15",
-   "views": 470
+   "views": 195
   },
   {
    "date": "2026-09-16",
-   "views": 545
+   "views": 213
   },
   {
    "date": "2026-09-17",
-   "views": 502
+   "views": 194
   },
   {
    "date": "2026-09-18",
-   "views": 457
+   "views": 170
   },
   {
    "date": "2026-09-19",
-   "views": 538
+   "views": 274
   },
   {
    "date": "2026-09-20",
-   "views": 491
+   "views": 470
   },
   {
    "date": "2026-09-21",
-   "views": 585
+   "views": 274
   },
   {
    "date": "2026-09-22",
-   "views": 557
+   "views": 665
   },
   {
    "date": "2026-09-23",
-   "views": 597
+   "views": 1029
   },
   {
    "date": "2026-09-24",
-   "views": 588
+   "views": 642
   },
   {
    "date": "2026-09-25",
-   "views": 537
+   "views": 453
   },
   {
    "date": "2026-09-26",
-   "views": 541
+   "views": 375
   },
   {
    "date": "2026-09-27",
-   "views": 552
+   "views": 496
   },
   {
    "date": "2026-09-28",
-   "views": 515
+   "views": 483
   },
   {
    "date": "2026-09-29",
-   "views": 511
+   "views": 337
   },
   {
    "date": "2026-09-30",
-   "views": 575
+   "views": 308
   },
   {
    "date": "2026-10-01",
-   "views": 531
+   "views": 336
   },
   {
    "date": "2026-10-02",
-   "views": 545
+   "views": 315
   },
   {
    "date": "2026-10-03",
-   "views": 457
+   "views": 459
   },
   {
    "date": "2026-10-04",
-   "views": 590
+   "views": 842
   },
   {
    "date": "2026-10-05",
-   "views": 489
+   "views": 485
   },
   {
    "date": "2026-10-06",
-   "views": 514
+   "views": 386
   },
   {
    "date": "2026-10-07",
-   "views": 467
+   "views": 386
   },
   {
    "date": "2026-10-08",
-   "views": 451
+   "views": 558
   },
   {
    "date": "2026-10-09",
-   "views": 2019
+   "views": 426
   },
   {
    "date": "2026-10-10",
-   "views": 5505
+   "views": 749
   },
   {
    "date": "2026-10-11",
-   "views": 2449
+   "views": 1562
   },
   {
    "date": "2026-10-12",
-   "views": 2380
+   "views": 1454
   },
   {
    "date": "2026-10-13",
-   "views": 23845
+   "views": 1555
   },
   {
    "date": "2026-10-14",
-   "views": 45858
+   "views": 2042
   },
   {
    "date": "2026-10-15",
-   "views": 22154
+   "views": 2659
+  },
+  {
+   "date": "2026-10-16",
+   "views": 3171
+  },
+  {
+   "date": "2026-10-17",
+   "views": 10459
+  },
+  {
+   "date": "2026-10-18",
+   "views": 63408
   }
  ],
- "wikipedia_title": "Pepperdine_University",
+ "wikipedia_title": "Mike_Malott",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

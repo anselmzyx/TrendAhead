@@ -1,0 +1,198 @@
+{
+ "title": "UFC Fight Night: Buckley vs. Malott",
+ "slug": "ufc-fight-night-buckley-vs-malott",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 603,
+ "growth_ratio": 7.03,
+ "recent_avg": 30140,
+ "baseline_avg": 4288,
+ "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 25852,
+ "latest": 57081,
+ "components": {
+  "acceleration": 0.498,
+  "anomaly": 1.0,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.74,
+  "spike_quality": 0.781
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 30,140 views/day over the last 3 days (30-day baseline: 4,288)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-09",
+   "views": 1731
+  },
+  {
+   "date": "2026-09-10",
+   "views": 1635
+  },
+  {
+   "date": "2026-09-11",
+   "views": 1673
+  },
+  {
+   "date": "2026-09-12",
+   "views": 2247
+  },
+  {
+   "date": "2026-09-13",
+   "views": 2838
+  },
+  {
+   "date": "2026-09-14",
+   "views": 2191
+  },
+  {
+   "date": "2026-09-15",
+   "views": 2432
+  },
+  {
+   "date": "2026-09-16",
+   "views": 1890
+  },
+  {
+   "date": "2026-09-17",
+   "views": 1938
+  },
+  {
+   "date": "2026-09-18",
+   "views": 2258
+  },
+  {
+   "date": "2026-09-19",
+   "views": 3637
+  },
+  {
+   "date": "2026-09-20",
+   "views": 9982
+  },
+  {
+   "date": "2026-09-21",
+   "views": 3832
+  },
+  {
+   "date": "2026-09-22",
+   "views": 2729
+  },
+  {
+   "date": "2026-09-23",
+   "views": 2715
+  },
+  {
+   "date": "2026-09-24",
+   "views": 2613
+  },
+  {
+   "date": "2026-09-25",
+   "views": 2761
+  },
+  {
+   "date": "2026-09-26",
+   "views": 3561
+  },
+  {
+   "date": "2026-09-27",
+   "views": 4928
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2888
+  },
+  {
+   "date": "2026-09-29",
+   "views": 3166
+  },
+  {
+   "date": "2026-09-30",
+   "views": 2707
+  },
+  {
+   "date": "2026-10-01",
+   "views": 2779
+  },
+  {
+   "date": "2026-10-02",
+   "views": 3117
+  },
+  {
+   "date": "2026-10-03",
+   "views": 4859
+  },
+  {
+   "date": "2026-10-04",
+   "views": 11768
+  },
+  {
+   "date": "2026-10-05",
+   "views": 4355
+  },
+  {
+   "date": "2026-10-06",
+   "views": 3056
+  },
+  {
+   "date": "2026-10-07",
+   "views": 2993
+  },
+  {
+   "date": "2026-10-08",
+   "views": 3082
+  },
+  {
+   "date": "2026-10-09",
+   "views": 3685
+  },
+  {
+   "date": "2026-10-10",
+   "views": 5978
+  },
+  {
+   "date": "2026-10-11",
+   "views": 11603
+  },
+  {
+   "date": "2026-10-12",
+   "views": 5231
+  },
+  {
+   "date": "2026-10-13",
+   "views": 4869
+  },
+  {
+   "date": "2026-10-14",
+   "views": 4726
+  },
+  {
+   "date": "2026-10-15",
+   "views": 4929
+  },
+  {
+   "date": "2026-10-16",
+   "views": 6522
+  },
+  {
+   "date": "2026-10-17",
+   "views": 26816
+  },
+  {
+   "date": "2026-10-18",
+   "views": 57081
+  }
+ ],
+ "wikipedia_title": "UFC_Fight_Night:_Buckley_vs._Malott",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
+}

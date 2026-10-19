@@ -1,45 +1,33 @@
 {
  "title": "Jailer 2",
  "slug": "jailer-2",
- "score": 65,
- "status": "Breaking out",
- "change_percent": 958,
- "growth_ratio": 10.58,
- "recent_avg": 137744,
- "baseline_avg": 13019,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "score": 49,
+ "status": "Elevated",
+ "change_percent": 1237,
+ "growth_ratio": 13.37,
+ "recent_avg": 353268,
+ "baseline_avg": 26415,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 124725,
- "latest": 341702,
+ "abs_change": 326853,
+ "latest": 340362,
  "components": {
-  "acceleration": 0.603,
-  "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "acceleration": 0.663,
+  "anomaly": 0.549,
+  "persistence": 0.84,
+  "momentum": 0.607,
   "volume": 1.0,
-  "spike_quality": 0.677
+  "spike_quality": 0.886
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 137,744 views/day over the last 3 days (30-day baseline: 13,019)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 353,268 views/day over the last 3 days (30-day baseline: 26,415)."
  ],
  "history": [
-  {
-   "date": "2026-09-06",
-   "views": 3995
-  },
-  {
-   "date": "2026-09-07",
-   "views": 3567
-  },
-  {
-   "date": "2026-09-08",
-   "views": 3678
-  },
   {
    "date": "2026-09-09",
    "views": 3528
@@ -187,11 +175,23 @@
   {
    "date": "2026-10-15",
    "views": 341702
+  },
+  {
+   "date": "2026-10-16",
+   "views": 378259
+  },
+  {
+   "date": "2026-10-17",
+   "views": 341183
+  },
+  {
+   "date": "2026-10-18",
+   "views": 340362
   }
  ],
  "wikipedia_title": "Jailer_2",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

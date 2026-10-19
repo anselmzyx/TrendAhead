@@ -1,196 +1,197 @@
 {
- "title": "Jeffrey Donaldson",
- "slug": "jeffrey-donaldson",
- "score": 28,
+ "title": "Georgina Cates",
+ "slug": "georgina-cates",
+ "score": 48,
  "status": "Breaking out",
- "change_percent": 2411,
- "growth_ratio": 25.12,
- "recent_avg": 18605,
- "baseline_avg": 741,
- "explanation": "Attention is 25\u00d7 its 30-day baseline.",
+ "change_percent": 7125,
+ "growth_ratio": 72.26,
+ "recent_avg": 24349,
+ "baseline_avg": 337,
+ "explanation": "Attention is 72\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17864,
- "latest": 54739,
+ "abs_change": 24012,
+ "latest": 53213,
  "components": {
-  "acceleration": 0.824,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.635,
-  "spike_quality": 0.534
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.693,
+  "spike_quality": 0.668
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 18,605 views/day over the last 3 days (30-day baseline: 741)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 24,349 views/day over the last 3 days (30-day baseline: 337)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 278
-  },
-  {
-   "date": "2026-09-07",
-   "views": 267
-  },
-  {
-   "date": "2026-09-08",
-   "views": 270
-  },
-  {
    "date": "2026-09-09",
-   "views": 292
+   "views": 229
   },
   {
    "date": "2026-09-10",
-   "views": 277
+   "views": 216
   },
   {
    "date": "2026-09-11",
-   "views": 421
+   "views": 212
   },
   {
    "date": "2026-09-12",
-   "views": 467
+   "views": 326
   },
   {
    "date": "2026-09-13",
-   "views": 382
+   "views": 321
   },
   {
    "date": "2026-09-14",
-   "views": 504
+   "views": 281
   },
   {
    "date": "2026-09-15",
-   "views": 386
+   "views": 212
   },
   {
    "date": "2026-09-16",
-   "views": 333
+   "views": 199
   },
   {
    "date": "2026-09-17",
-   "views": 641
+   "views": 265
   },
   {
    "date": "2026-09-18",
-   "views": 354
+   "views": 193
   },
   {
    "date": "2026-09-19",
-   "views": 414
+   "views": 490
   },
   {
    "date": "2026-09-20",
-   "views": 845
+   "views": 370
   },
   {
    "date": "2026-09-21",
-   "views": 1659
+   "views": 231
   },
   {
    "date": "2026-09-22",
-   "views": 604
+   "views": 209
   },
   {
    "date": "2026-09-23",
-   "views": 393
+   "views": 212
   },
   {
    "date": "2026-09-24",
-   "views": 374
+   "views": 171
   },
   {
    "date": "2026-09-25",
-   "views": 2448
+   "views": 202
   },
   {
    "date": "2026-09-26",
-   "views": 766
+   "views": 220
   },
   {
    "date": "2026-09-27",
-   "views": 1785
+   "views": 318
   },
   {
    "date": "2026-09-28",
-   "views": 1706
+   "views": 210
   },
   {
    "date": "2026-09-29",
-   "views": 1358
+   "views": 221
   },
   {
    "date": "2026-09-30",
-   "views": 895
+   "views": 199
   },
   {
    "date": "2026-10-01",
-   "views": 633
+   "views": 224
   },
   {
    "date": "2026-10-02",
-   "views": 500
+   "views": 272
   },
   {
    "date": "2026-10-03",
-   "views": 467
+   "views": 263
   },
   {
    "date": "2026-10-04",
-   "views": 567
+   "views": 379
   },
   {
    "date": "2026-10-05",
-   "views": 608
+   "views": 326
   },
   {
    "date": "2026-10-06",
-   "views": 498
+   "views": 372
   },
   {
    "date": "2026-10-07",
-   "views": 434
+   "views": 677
   },
   {
    "date": "2026-10-08",
-   "views": 349
+   "views": 470
   },
   {
    "date": "2026-10-09",
-   "views": 404
+   "views": 559
   },
   {
    "date": "2026-10-10",
-   "views": 407
+   "views": 546
   },
   {
    "date": "2026-10-11",
-   "views": 502
+   "views": 630
   },
   {
    "date": "2026-10-12",
-   "views": 1006
+   "views": 498
   },
   {
    "date": "2026-10-13",
-   "views": 621
+   "views": 461
   },
   {
    "date": "2026-10-14",
-   "views": 456
+   "views": 358
   },
   {
    "date": "2026-10-15",
-   "views": 54739
+   "views": 364
+  },
+  {
+   "date": "2026-10-16",
+   "views": 365
+  },
+  {
+   "date": "2026-10-17",
+   "views": 19468
+  },
+  {
+   "date": "2026-10-18",
+   "views": 53213
   }
  ],
- "wikipedia_title": "Jeffrey_Donaldson",
+ "wikipedia_title": "Georgina_Cates",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

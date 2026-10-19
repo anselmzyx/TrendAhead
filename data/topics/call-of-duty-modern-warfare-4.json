@@ -1,196 +1,197 @@
 {
- "title": "Jake Bauers",
- "slug": "jake-bauers",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 3790,
- "growth_ratio": 38.87,
- "recent_avg": 22330,
- "baseline_avg": 574,
- "explanation": "Attention is 39\u00d7 its 30-day baseline.",
+ "title": "Call of Duty: Modern Warfare 4",
+ "slug": "call-of-duty-modern-warfare-4",
+ "score": 53,
+ "status": "Building",
+ "change_percent": 1052,
+ "growth_ratio": 11.52,
+ "recent_avg": 70921,
+ "baseline_avg": 6157,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 21756,
- "latest": 63765,
+ "abs_change": 64764,
+ "latest": 86806,
  "components": {
-  "acceleration": 0.936,
+  "acceleration": 0.625,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.8,
-  "volume": 0.674,
-  "spike_quality": 0.576
+  "persistence": 0.72,
+  "momentum": 0.748,
+  "volume": 0.925,
+  "spike_quality": 0.819
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 22,330 views/day over the last 3 days (30-day baseline: 574)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 70,921 views/day over the last 3 days (30-day baseline: 6,157)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 225
-  },
-  {
-   "date": "2026-09-07",
-   "views": 146
-  },
-  {
-   "date": "2026-09-08",
-   "views": 127
-  },
-  {
    "date": "2026-09-09",
-   "views": 200
+   "views": 2252
   },
   {
    "date": "2026-09-10",
-   "views": 114
+   "views": 2298
   },
   {
    "date": "2026-09-11",
-   "views": 135
+   "views": 2328
   },
   {
    "date": "2026-09-12",
-   "views": 323
+   "views": 2475
   },
   {
    "date": "2026-09-13",
-   "views": 228
+   "views": 2550
   },
   {
    "date": "2026-09-14",
-   "views": 90
+   "views": 2565
   },
   {
    "date": "2026-09-15",
-   "views": 108
+   "views": 2485
   },
   {
    "date": "2026-09-16",
-   "views": 198
+   "views": 2363
   },
   {
    "date": "2026-09-17",
-   "views": 225
+   "views": 6775
   },
   {
    "date": "2026-09-18",
-   "views": 89
+   "views": 6784
   },
   {
    "date": "2026-09-19",
-   "views": 211
+   "views": 5292
   },
   {
    "date": "2026-09-20",
-   "views": 125
+   "views": 5030
   },
   {
    "date": "2026-09-21",
-   "views": 201
+   "views": 4104
   },
   {
    "date": "2026-09-22",
-   "views": 163
+   "views": 4235
   },
   {
    "date": "2026-09-23",
-   "views": 222
+   "views": 4491
   },
   {
    "date": "2026-09-24",
-   "views": 171
+   "views": 3769
   },
   {
    "date": "2026-09-25",
-   "views": 508
+   "views": 3228
   },
   {
    "date": "2026-09-26",
-   "views": 206
+   "views": 3083
   },
   {
    "date": "2026-09-27",
-   "views": 187
+   "views": 5028
   },
   {
    "date": "2026-09-28",
-   "views": 175
+   "views": 4300
   },
   {
    "date": "2026-09-29",
-   "views": 122
+   "views": 4280
   },
   {
    "date": "2026-09-30",
-   "views": 125
+   "views": 4234
   },
   {
    "date": "2026-10-01",
-   "views": 294
+   "views": 4141
   },
   {
    "date": "2026-10-02",
-   "views": 198
+   "views": 7688
   },
   {
    "date": "2026-10-03",
-   "views": 214
+   "views": 7100
   },
   {
    "date": "2026-10-04",
-   "views": 1756
+   "views": 9328
   },
   {
    "date": "2026-10-05",
-   "views": 366
+   "views": 8663
   },
   {
    "date": "2026-10-06",
-   "views": 289
+   "views": 7965
   },
   {
    "date": "2026-10-07",
-   "views": 2088
+   "views": 6913
   },
   {
    "date": "2026-10-08",
-   "views": 2299
+   "views": 6618
   },
   {
    "date": "2026-10-09",
-   "views": 292
+   "views": 6992
   },
   {
    "date": "2026-10-10",
-   "views": 194
+   "views": 6814
   },
   {
    "date": "2026-10-11",
-   "views": 251
+   "views": 7808
   },
   {
    "date": "2026-10-12",
-   "views": 5639
+   "views": 8099
   },
   {
    "date": "2026-10-13",
-   "views": 2559
+   "views": 10989
   },
   {
    "date": "2026-10-14",
-   "views": 665
+   "views": 8727
   },
   {
    "date": "2026-10-15",
-   "views": 63765
+   "views": 9872
+  },
+  {
+   "date": "2026-10-16",
+   "views": 30898
+  },
+  {
+   "date": "2026-10-17",
+   "views": 95060
+  },
+  {
+   "date": "2026-10-18",
+   "views": 86806
   }
  ],
- "wikipedia_title": "Jake_Bauers",
+ "wikipedia_title": "Call_of_Duty:_Modern_Warfare_4",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

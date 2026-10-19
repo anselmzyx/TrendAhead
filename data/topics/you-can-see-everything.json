@@ -1,198 +1,198 @@
 {
- "title": "Bigg Boss (Hindi TV series) season 20",
- "slug": "bigg-boss-hindi-tv-series-season-20",
- "score": 62,
- "status": "Breaking out",
- "change_percent": 648,
- "growth_ratio": 7.48,
- "recent_avg": 102445,
- "baseline_avg": 13695,
- "explanation": "Attention is 7.5\u00d7 its 30-day baseline.",
+ "title": "You Can See Everything",
+ "slug": "you-can-see-everything",
+ "score": 66,
+ "status": "Building",
+ "change_percent": 611,
+ "growth_ratio": 7.11,
+ "recent_avg": 217455,
+ "baseline_avg": 30574,
+ "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 88750,
- "latest": 234663,
+ "abs_change": 186881,
+ "latest": 239333,
  "components": {
-  "acceleration": 0.514,
-  "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.933,
+  "acceleration": 0.501,
+  "anomaly": 0.869,
+  "persistence": 0.8,
+  "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.742
+  "spike_quality": 0.908
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 102,445 views/day over the last 3 days (30-day baseline: 13,695)."
+  "Averaging 217,455 views/day over the last 3 days (30-day baseline: 30,574)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 28199
-  },
-  {
-   "date": "2026-09-07",
-   "views": 23511
-  },
-  {
-   "date": "2026-09-08",
-   "views": 14271
-  },
-  {
    "date": "2026-09-09",
-   "views": 10762
+   "views": 98853
   },
   {
    "date": "2026-09-10",
-   "views": 8628
+   "views": 55108
   },
   {
    "date": "2026-09-11",
-   "views": 7339
+   "views": 42141
   },
   {
    "date": "2026-09-12",
-   "views": 7862
+   "views": 35036
   },
   {
    "date": "2026-09-13",
-   "views": 9686
+   "views": 27915
   },
   {
    "date": "2026-09-14",
-   "views": 8205
+   "views": 25552
   },
   {
    "date": "2026-09-15",
-   "views": 6644
+   "views": 21269
   },
   {
    "date": "2026-09-16",
-   "views": 6216
+   "views": 21595
   },
   {
    "date": "2026-09-17",
-   "views": 6169
+   "views": 21340
   },
   {
    "date": "2026-09-18",
-   "views": 6208
+   "views": 17918
   },
   {
    "date": "2026-09-19",
-   "views": 8348
+   "views": 14986
   },
   {
    "date": "2026-09-20",
-   "views": 14135
+   "views": 14077
   },
   {
    "date": "2026-09-21",
-   "views": 15039
+   "views": 13108
   },
   {
    "date": "2026-09-22",
-   "views": 12349
+   "views": 14350
   },
   {
    "date": "2026-09-23",
-   "views": 9787
+   "views": 109155
   },
   {
    "date": "2026-09-24",
-   "views": 10470
+   "views": 90388
   },
   {
    "date": "2026-09-25",
-   "views": 11728
+   "views": 59793
   },
   {
    "date": "2026-09-26",
-   "views": 14378
+   "views": 42841
   },
   {
    "date": "2026-09-27",
-   "views": 15688
+   "views": 31995
   },
   {
    "date": "2026-09-28",
-   "views": 15123
+   "views": 25733
   },
   {
    "date": "2026-09-29",
-   "views": 11032
+   "views": 20227
   },
   {
    "date": "2026-09-30",
-   "views": 10892
+   "views": 17186
   },
   {
    "date": "2026-10-01",
-   "views": 14474
+   "views": 26138
   },
   {
    "date": "2026-10-02",
-   "views": 14412
+   "views": 27876
   },
   {
    "date": "2026-10-03",
-   "views": 16151
+   "views": 27592
   },
   {
    "date": "2026-10-04",
-   "views": 23243
+   "views": 23463
   },
   {
    "date": "2026-10-05",
-   "views": 18142
+   "views": 18692
   },
   {
    "date": "2026-10-06",
-   "views": 14205
+   "views": 17296
   },
   {
    "date": "2026-10-07",
-   "views": 12825
+   "views": 26252
   },
   {
    "date": "2026-10-08",
-   "views": 11947
+   "views": 28033
   },
   {
    "date": "2026-10-09",
-   "views": 12181
+   "views": 23443
   },
   {
    "date": "2026-10-10",
-   "views": 20293
+   "views": 19408
   },
   {
    "date": "2026-10-11",
-   "views": 29622
+   "views": 18601
   },
   {
    "date": "2026-10-12",
-   "views": 31255
+   "views": 21586
   },
   {
    "date": "2026-10-13",
-   "views": 28006
+   "views": 35529
   },
   {
    "date": "2026-10-14",
-   "views": 44667
+   "views": 34842
   },
   {
    "date": "2026-10-15",
-   "views": 234663
+   "views": 53782
+  },
+  {
+   "date": "2026-10-16",
+   "views": 191594
+  },
+  {
+   "date": "2026-10-17",
+   "views": 221438
+  },
+  {
+   "date": "2026-10-18",
+   "views": 239333
   }
  ],
- "wikipedia_title": "Bigg_Boss_(Hindi_TV_series)_season_20",
+ "wikipedia_title": "You_Can_See_Everything",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

@@ -1,198 +1,198 @@
 {
- "title": "Jailer (2023 Tamil film)",
- "slug": "jailer-2023-tamil-film",
- "score": 53,
- "status": "Breaking out",
- "change_percent": 539,
- "growth_ratio": 6.39,
- "recent_avg": 20530,
- "baseline_avg": 3215,
- "explanation": "Attention is 6.4\u00d7 its 30-day baseline.",
+ "title": "The Diplomat (American TV series)",
+ "slug": "the-diplomat-american-tv-series",
+ "score": 65,
+ "status": "Building",
+ "change_percent": 656,
+ "growth_ratio": 7.56,
+ "recent_avg": 61573,
+ "baseline_avg": 8142,
+ "explanation": "Attention is 7.6\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 17315,
- "latest": 42879,
+ "abs_change": 53431,
+ "latest": 68204,
  "components": {
-  "acceleration": 0.474,
-  "anomaly": 0.889,
-  "persistence": 1.0,
+  "acceleration": 0.517,
+  "anomaly": 0.911,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.656,
-  "spike_quality": 0.778
+  "volume": 0.895,
+  "spike_quality": 0.927
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 20,530 views/day over the last 3 days (30-day baseline: 3,215)."
+  "Averaging 61,573 views/day over the last 3 days (30-day baseline: 8,142)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 1569
-  },
-  {
-   "date": "2026-09-07",
-   "views": 1339
-  },
-  {
-   "date": "2026-09-08",
-   "views": 1480
-  },
-  {
    "date": "2026-09-09",
-   "views": 1328
+   "views": 3668
   },
   {
    "date": "2026-09-10",
-   "views": 1232
+   "views": 3403
   },
   {
    "date": "2026-09-11",
-   "views": 1405
+   "views": 3531
   },
   {
    "date": "2026-09-12",
-   "views": 1658
+   "views": 3597
   },
   {
    "date": "2026-09-13",
-   "views": 1602
+   "views": 4464
   },
   {
    "date": "2026-09-14",
-   "views": 1576
+   "views": 5128
   },
   {
    "date": "2026-09-15",
-   "views": 1278
+   "views": 32118
   },
   {
    "date": "2026-09-16",
-   "views": 1048
+   "views": 12868
   },
   {
    "date": "2026-09-17",
-   "views": 1111
+   "views": 9022
   },
   {
    "date": "2026-09-18",
-   "views": 1683
+   "views": 6612
   },
   {
    "date": "2026-09-19",
-   "views": 1806
+   "views": 6690
   },
   {
    "date": "2026-09-20",
-   "views": 2504
+   "views": 7194
   },
   {
    "date": "2026-09-21",
-   "views": 2223
+   "views": 6604
   },
   {
    "date": "2026-09-22",
-   "views": 1795
+   "views": 5926
   },
   {
    "date": "2026-09-23",
-   "views": 1854
+   "views": 5440
   },
   {
    "date": "2026-09-24",
-   "views": 2042
+   "views": 5126
   },
   {
    "date": "2026-09-25",
-   "views": 2701
+   "views": 5422
   },
   {
    "date": "2026-09-26",
-   "views": 3448
+   "views": 6058
   },
   {
    "date": "2026-09-27",
-   "views": 3017
+   "views": 6935
   },
   {
    "date": "2026-09-28",
-   "views": 2375
+   "views": 6250
   },
   {
    "date": "2026-09-29",
-   "views": 2890
+   "views": 5591
   },
   {
    "date": "2026-09-30",
-   "views": 3086
+   "views": 5119
   },
   {
    "date": "2026-10-01",
-   "views": 2841
+   "views": 5665
   },
   {
    "date": "2026-10-02",
-   "views": 2742
+   "views": 6019
   },
   {
    "date": "2026-10-03",
-   "views": 2523
+   "views": 6584
   },
   {
    "date": "2026-10-04",
-   "views": 2913
+   "views": 6571
   },
   {
    "date": "2026-10-05",
-   "views": 8692
+   "views": 5814
   },
   {
    "date": "2026-10-06",
-   "views": 8548
+   "views": 5419
   },
   {
    "date": "2026-10-07",
-   "views": 5478
+   "views": 5428
   },
   {
    "date": "2026-10-08",
-   "views": 4346
+   "views": 7637
   },
   {
    "date": "2026-10-09",
-   "views": 3852
+   "views": 7737
   },
   {
    "date": "2026-10-10",
-   "views": 4480
+   "views": 7933
   },
   {
    "date": "2026-10-11",
-   "views": 5684
+   "views": 8367
   },
   {
    "date": "2026-10-12",
-   "views": 6298
+   "views": 9357
   },
   {
    "date": "2026-10-13",
-   "views": 7495
+   "views": 11761
   },
   {
    "date": "2026-10-14",
-   "views": 11215
+   "views": 11149
   },
   {
    "date": "2026-10-15",
-   "views": 42879
+   "views": 37953
+  },
+  {
+   "date": "2026-10-16",
+   "views": 52952
+  },
+  {
+   "date": "2026-10-17",
+   "views": 63563
+  },
+  {
+   "date": "2026-10-18",
+   "views": 68204
   }
  ],
- "wikipedia_title": "Jailer_(2023_Tamil_film)",
+ "wikipedia_title": "The_Diplomat_(American_TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

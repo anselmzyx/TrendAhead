@@ -1,0 +1,198 @@
+{
+ "title": "Elizabeth Holmes",
+ "slug": "elizabeth-holmes",
+ "score": 42,
+ "status": "Building",
+ "change_percent": 317,
+ "growth_ratio": 4.17,
+ "recent_avg": 217567,
+ "baseline_avg": 52208,
+ "explanation": "Attention is 4.2\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 165359,
+ "latest": 258023,
+ "components": {
+  "acceleration": 0.365,
+  "anomaly": 0.362,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.896
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 217,567 views/day over the last 3 days (30-day baseline: 52,208)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-09",
+   "views": 276730
+  },
+  {
+   "date": "2026-09-10",
+   "views": 162804
+  },
+  {
+   "date": "2026-09-11",
+   "views": 112181
+  },
+  {
+   "date": "2026-09-12",
+   "views": 88686
+  },
+  {
+   "date": "2026-09-13",
+   "views": 75506
+  },
+  {
+   "date": "2026-09-14",
+   "views": 77193
+  },
+  {
+   "date": "2026-09-15",
+   "views": 59313
+  },
+  {
+   "date": "2026-09-16",
+   "views": 48605
+  },
+  {
+   "date": "2026-09-17",
+   "views": 42752
+  },
+  {
+   "date": "2026-09-18",
+   "views": 44498
+  },
+  {
+   "date": "2026-09-19",
+   "views": 35936
+  },
+  {
+   "date": "2026-09-20",
+   "views": 32086
+  },
+  {
+   "date": "2026-09-21",
+   "views": 27187
+  },
+  {
+   "date": "2026-09-22",
+   "views": 26953
+  },
+  {
+   "date": "2026-09-23",
+   "views": 184994
+  },
+  {
+   "date": "2026-09-24",
+   "views": 220098
+  },
+  {
+   "date": "2026-09-25",
+   "views": 130591
+  },
+  {
+   "date": "2026-09-26",
+   "views": 88434
+  },
+  {
+   "date": "2026-09-27",
+   "views": 62349
+  },
+  {
+   "date": "2026-09-28",
+   "views": 49703
+  },
+  {
+   "date": "2026-09-29",
+   "views": 37454
+  },
+  {
+   "date": "2026-09-30",
+   "views": 30813
+  },
+  {
+   "date": "2026-10-01",
+   "views": 36842
+  },
+  {
+   "date": "2026-10-02",
+   "views": 44346
+  },
+  {
+   "date": "2026-10-03",
+   "views": 42148
+  },
+  {
+   "date": "2026-10-04",
+   "views": 35590
+  },
+  {
+   "date": "2026-10-05",
+   "views": 27405
+  },
+  {
+   "date": "2026-10-06",
+   "views": 24861
+  },
+  {
+   "date": "2026-10-07",
+   "views": 32430
+  },
+  {
+   "date": "2026-10-08",
+   "views": 31566
+  },
+  {
+   "date": "2026-10-09",
+   "views": 27967
+  },
+  {
+   "date": "2026-10-10",
+   "views": 24638
+  },
+  {
+   "date": "2026-10-11",
+   "views": 23796
+  },
+  {
+   "date": "2026-10-12",
+   "views": 24763
+  },
+  {
+   "date": "2026-10-13",
+   "views": 35767
+  },
+  {
+   "date": "2026-10-14",
+   "views": 36895
+  },
+  {
+   "date": "2026-10-15",
+   "views": 54763
+  },
+  {
+   "date": "2026-10-16",
+   "views": 174341
+  },
+  {
+   "date": "2026-10-17",
+   "views": 220338
+  },
+  {
+   "date": "2026-10-18",
+   "views": 258023
+  }
+ ],
+ "wikipedia_title": "Elizabeth_Holmes",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
+}

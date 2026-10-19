@@ -1,198 +1,197 @@
 {
- "title": "James Talarico",
- "slug": "james-talarico",
- "score": 56,
- "status": "Building",
- "change_percent": 223,
- "growth_ratio": 3.23,
- "recent_avg": 63016,
- "baseline_avg": 19516,
- "explanation": "Attention is 3.2\u00d7 its 30-day baseline.",
+ "title": "Crystal Lake (TV series)",
+ "slug": "crystal-lake-tv-series",
+ "score": 49,
+ "status": "Elevated",
+ "change_percent": 1357,
+ "growth_ratio": 14.57,
+ "recent_avg": 118357,
+ "baseline_avg": 8126,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 43500,
- "latest": 98368,
+ "abs_change": 110231,
+ "latest": 103624,
  "components": {
-  "acceleration": 0.3,
-  "anomaly": 0.509,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.9,
-  "spike_quality": 0.904
+  "acceleration": 0.685,
+  "anomaly": 0.865,
+  "persistence": 0.84,
+  "momentum": 0.538,
+  "volume": 1.0,
+  "spike_quality": 0.816
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 63,016 views/day over the last 3 days (30-day baseline: 19,516)."
+  "Averaging 118,357 views/day over the last 3 days (30-day baseline: 8,126)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 10666
-  },
-  {
-   "date": "2026-09-07",
-   "views": 10699
-  },
-  {
-   "date": "2026-09-08",
-   "views": 10158
-  },
-  {
    "date": "2026-09-09",
-   "views": 14815
+   "views": 1266
   },
   {
    "date": "2026-09-10",
-   "views": 41513
+   "views": 1359
   },
   {
    "date": "2026-09-11",
-   "views": 62296
+   "views": 2039
   },
   {
    "date": "2026-09-12",
-   "views": 44191
+   "views": 3108
   },
   {
    "date": "2026-09-13",
-   "views": 42781
+   "views": 14604
   },
   {
    "date": "2026-09-14",
-   "views": 31476
+   "views": 19774
   },
   {
    "date": "2026-09-15",
-   "views": 25398
+   "views": 11571
   },
   {
    "date": "2026-09-16",
-   "views": 22133
+   "views": 7179
   },
   {
    "date": "2026-09-17",
-   "views": 21100
+   "views": 6243
   },
   {
    "date": "2026-09-18",
-   "views": 17104
+   "views": 4917
   },
   {
    "date": "2026-09-19",
-   "views": 14264
+   "views": 4396
   },
   {
    "date": "2026-09-20",
-   "views": 13320
+   "views": 4307
   },
   {
    "date": "2026-09-21",
-   "views": 13176
+   "views": 2957
   },
   {
    "date": "2026-09-22",
-   "views": 11794
+   "views": 2280
   },
   {
    "date": "2026-09-23",
-   "views": 12653
+   "views": 2217
   },
   {
    "date": "2026-09-24",
-   "views": 12878
+   "views": 2159
   },
   {
    "date": "2026-09-25",
-   "views": 12452
+   "views": 2097
   },
   {
    "date": "2026-09-26",
-   "views": 11980
+   "views": 2254
   },
   {
    "date": "2026-09-27",
-   "views": 11795
+   "views": 2840
   },
   {
    "date": "2026-09-28",
-   "views": 13569
+   "views": 2568
   },
   {
    "date": "2026-09-29",
-   "views": 13770
+   "views": 2343
   },
   {
    "date": "2026-09-30",
-   "views": 14833
+   "views": 3308
   },
   {
    "date": "2026-10-01",
-   "views": 14609
+   "views": 5191
   },
   {
    "date": "2026-10-02",
-   "views": 13101
+   "views": 5210
   },
   {
    "date": "2026-10-03",
-   "views": 14278
+   "views": 5299
   },
   {
    "date": "2026-10-04",
-   "views": 17361
+   "views": 5549
   },
   {
    "date": "2026-10-05",
-   "views": 16845
+   "views": 5136
   },
   {
    "date": "2026-10-06",
-   "views": 16210
+   "views": 5215
   },
   {
    "date": "2026-10-07",
-   "views": 20285
+   "views": 6095
   },
   {
    "date": "2026-10-08",
-   "views": 24631
+   "views": 6861
   },
   {
    "date": "2026-10-09",
-   "views": 31515
+   "views": 7411
   },
   {
    "date": "2026-10-10",
-   "views": 29355
+   "views": 7038
   },
   {
    "date": "2026-10-11",
-   "views": 30116
+   "views": 8511
   },
   {
    "date": "2026-10-12",
-   "views": 40703
+   "views": 11280
   },
   {
    "date": "2026-10-13",
-   "views": 43363
+   "views": 17679
   },
   {
    "date": "2026-10-14",
-   "views": 47317
+   "views": 22839
   },
   {
    "date": "2026-10-15",
-   "views": 98368
+   "views": 72400
+  },
+  {
+   "date": "2026-10-16",
+   "views": 131900
+  },
+  {
+   "date": "2026-10-17",
+   "views": 119548
+  },
+  {
+   "date": "2026-10-18",
+   "views": 103624
   }
  ],
- "wikipedia_title": "James_Talarico",
+ "wikipedia_title": "Crystal_Lake_(TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

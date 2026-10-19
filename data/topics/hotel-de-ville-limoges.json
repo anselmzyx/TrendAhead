@@ -1,197 +1,197 @@
 {
- "title": "Bigg Boss (Hindi TV series)",
- "slug": "bigg-boss-hindi-tv-series",
- "score": 21,
+ "title": "H\u00f4tel de Ville, Limoges",
+ "slug": "hotel-de-ville-limoges",
+ "score": 48,
  "status": "Breaking out",
- "change_percent": 277,
- "growth_ratio": 3.77,
- "recent_avg": 20634,
- "baseline_avg": 5478,
- "explanation": "Attention is 3.8\u00d7 its 30-day baseline.",
+ "change_percent": 1791700,
+ "growth_ratio": 358.36,
+ "recent_avg": 35836,
+ "baseline_avg": 2,
+ "explanation": "Attention is 358\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 15156,
- "latest": 51509,
+ "abs_change": 35834,
+ "latest": 79464,
  "components": {
-  "acceleration": 0.339,
-  "anomaly": 0.625,
-  "persistence": 0.2,
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.4,
   "momentum": 0.933,
-  "volume": 0.657,
-  "spike_quality": 0.694
+  "volume": 0.777,
+  "spike_quality": 0.652
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 20,634 views/day over the last 3 days (30-day baseline: 5,478)."
+  "Averaging 35,836 views/day over the last 3 days (30-day baseline: 2)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 36761
-  },
-  {
-   "date": "2026-09-07",
-   "views": 34041
-  },
-  {
-   "date": "2026-09-08",
-   "views": 20763
-  },
-  {
    "date": "2026-09-09",
-   "views": 15816
+   "views": 6
   },
   {
    "date": "2026-09-10",
-   "views": 13440
+   "views": 7
   },
   {
    "date": "2026-09-11",
-   "views": 12512
+   "views": 0
   },
   {
    "date": "2026-09-12",
-   "views": 12056
+   "views": 1
   },
   {
    "date": "2026-09-13",
-   "views": 13086
+   "views": 3
   },
   {
    "date": "2026-09-14",
-   "views": 10773
+   "views": 2
   },
   {
    "date": "2026-09-15",
-   "views": 8342
+   "views": 10
   },
   {
    "date": "2026-09-16",
-   "views": 7829
+   "views": 1
   },
   {
    "date": "2026-09-17",
-   "views": 8120
+   "views": 0
   },
   {
    "date": "2026-09-18",
-   "views": 7836
+   "views": 3
   },
   {
    "date": "2026-09-19",
-   "views": 8187
+   "views": 5
   },
   {
    "date": "2026-09-20",
-   "views": 7158
+   "views": 2
   },
   {
    "date": "2026-09-21",
-   "views": 5814
+   "views": 3
   },
   {
    "date": "2026-09-22",
-   "views": 4775
+   "views": 2
   },
   {
    "date": "2026-09-23",
-   "views": 4408
+   "views": 1
   },
   {
    "date": "2026-09-24",
-   "views": 4670
+   "views": 3
   },
   {
    "date": "2026-09-25",
-   "views": 4843
+   "views": 3
   },
   {
    "date": "2026-09-26",
-   "views": 5843
+   "views": 3
   },
   {
    "date": "2026-09-27",
-   "views": 5985
+   "views": 7
   },
   {
    "date": "2026-09-28",
-   "views": 5193
+   "views": 2
   },
   {
    "date": "2026-09-29",
-   "views": 4189
+   "views": 2
   },
   {
    "date": "2026-09-30",
-   "views": 3369
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 3506
+   "views": 2
   },
   {
    "date": "2026-10-02",
-   "views": 3459
+   "views": 5
   },
   {
    "date": "2026-10-03",
-   "views": 3515
+   "views": 4
   },
   {
    "date": "2026-10-04",
-   "views": 4647
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 4198
+   "views": 2
   },
   {
    "date": "2026-10-06",
-   "views": 3335
+   "views": 1
   },
   {
    "date": "2026-10-07",
-   "views": 3106
+   "views": 6
   },
   {
    "date": "2026-10-08",
-   "views": 2868
+   "views": 2
   },
   {
    "date": "2026-10-09",
-   "views": 2697
+   "views": 3
   },
   {
    "date": "2026-10-10",
-   "views": 3584
+   "views": 3
   },
   {
    "date": "2026-10-11",
-   "views": 4533
+   "views": 3
   },
   {
    "date": "2026-10-12",
-   "views": 4476
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 4154
+   "views": 3
   },
   {
    "date": "2026-10-14",
-   "views": 6238
+   "views": 1
   },
   {
    "date": "2026-10-15",
-   "views": 51509
+   "views": 3
+  },
+  {
+   "date": "2026-10-16",
+   "views": 1
+  },
+  {
+   "date": "2026-10-17",
+   "views": 28043
+  },
+  {
+   "date": "2026-10-18",
+   "views": 79464
   }
  ],
- "wikipedia_title": "Bigg_Boss_(Hindi_TV_series)",
+ "wikipedia_title": "H\u00f4tel_de_Ville,_Limoges",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

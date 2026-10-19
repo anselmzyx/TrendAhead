@@ -1,198 +1,196 @@
 {
- "title": "LASK",
- "slug": "lask",
- "score": 19,
- "status": "Peaked / fading",
- "change_percent": 3116,
- "growth_ratio": 32.16,
- "recent_avg": 18040,
- "baseline_avg": 561,
- "explanation": "Attention surged to 32\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Lyn May",
+ "slug": "lyn-may",
+ "score": 45,
+ "status": "Elevated",
+ "change_percent": 11226,
+ "growth_ratio": 113.26,
+ "recent_avg": 50399,
+ "baseline_avg": 445,
+ "explanation": "Attention is 113\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17479,
- "latest": 7795,
+ "abs_change": 49954,
+ "latest": 51459,
  "components": {
-  "acceleration": 0.887,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.311,
-  "volume": 0.628,
-  "spike_quality": 0.252
+  "persistence": 0.84,
+  "momentum": 0.582,
+  "volume": 0.851,
+  "spike_quality": 0.596
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 18,040 views/day over the last 3 days (30-day baseline: 561)."
+  "Averaging 50,399 views/day over the last 3 days (30-day baseline: 445)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 1087
-  },
-  {
-   "date": "2026-09-07",
-   "views": 1860
-  },
-  {
-   "date": "2026-09-08",
-   "views": 8141
-  },
-  {
    "date": "2026-09-09",
-   "views": 2967
+   "views": 1545
   },
   {
    "date": "2026-09-10",
-   "views": 1792
+   "views": 1328
   },
   {
    "date": "2026-09-11",
-   "views": 1104
+   "views": 655
   },
   {
    "date": "2026-09-12",
-   "views": 730
+   "views": 664
   },
   {
    "date": "2026-09-13",
-   "views": 720
+   "views": 582
   },
   {
    "date": "2026-09-14",
-   "views": 667
+   "views": 478
   },
   {
    "date": "2026-09-15",
-   "views": 520
+   "views": 359
   },
   {
    "date": "2026-09-16",
-   "views": 621
+   "views": 432
   },
   {
    "date": "2026-09-17",
-   "views": 698
+   "views": 406
   },
   {
    "date": "2026-09-18",
-   "views": 623
+   "views": 448
   },
   {
    "date": "2026-09-19",
-   "views": 580
+   "views": 399
   },
   {
    "date": "2026-09-20",
-   "views": 677
+   "views": 509
   },
   {
    "date": "2026-09-21",
-   "views": 595
+   "views": 582
   },
   {
    "date": "2026-09-22",
-   "views": 489
+   "views": 472
   },
   {
    "date": "2026-09-23",
-   "views": 459
+   "views": 460
   },
   {
    "date": "2026-09-24",
-   "views": 513
+   "views": 387
   },
   {
    "date": "2026-09-25",
-   "views": 648
+   "views": 323
   },
   {
    "date": "2026-09-26",
-   "views": 498
+   "views": 315
   },
   {
    "date": "2026-09-27",
-   "views": 409
+   "views": 658
   },
   {
    "date": "2026-09-28",
-   "views": 368
+   "views": 559
   },
   {
    "date": "2026-09-29",
-   "views": 366
+   "views": 260
   },
   {
    "date": "2026-09-30",
-   "views": 313
+   "views": 565
   },
   {
    "date": "2026-10-01",
-   "views": 350
+   "views": 250
   },
   {
    "date": "2026-10-02",
-   "views": 320
+   "views": 254
   },
   {
    "date": "2026-10-03",
-   "views": 380
+   "views": 282
   },
   {
    "date": "2026-10-04",
-   "views": 407
+   "views": 263
   },
   {
    "date": "2026-10-05",
-   "views": 402
+   "views": 235
   },
   {
    "date": "2026-10-06",
-   "views": 360
+   "views": 195
   },
   {
    "date": "2026-10-07",
-   "views": 336
+   "views": 297
   },
   {
    "date": "2026-10-08",
-   "views": 394
+   "views": 279
   },
   {
    "date": "2026-10-09",
-   "views": 427
+   "views": 347
   },
   {
    "date": "2026-10-10",
-   "views": 846
+   "views": 686
   },
   {
    "date": "2026-10-11",
-   "views": 1112
+   "views": 311
   },
   {
    "date": "2026-10-12",
-   "views": 1729
+   "views": 304
   },
   {
    "date": "2026-10-13",
-   "views": 4013
+   "views": 1246
   },
   {
    "date": "2026-10-14",
-   "views": 42313
+   "views": 811
   },
   {
    "date": "2026-10-15",
-   "views": 7795
+   "views": 815
+  },
+  {
+   "date": "2026-10-16",
+   "views": 18834
+  },
+  {
+   "date": "2026-10-17",
+   "views": 80905
+  },
+  {
+   "date": "2026-10-18",
+   "views": 51459
   }
  ],
- "wikipedia_title": "LASK",
+ "wikipedia_title": "Lyn_May",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

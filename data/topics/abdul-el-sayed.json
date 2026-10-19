@@ -1,197 +1,198 @@
 {
- "title": "VisionQuest",
- "slug": "visionquest",
- "score": 54,
- "status": "Elevated",
- "change_percent": 1052,
- "growth_ratio": 11.52,
- "recent_avg": 106247,
- "baseline_avg": 9222,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "title": "Abdul El-Sayed",
+ "slug": "abdul-el-sayed",
+ "score": 44,
+ "status": "Building",
+ "change_percent": 185,
+ "growth_ratio": 2.85,
+ "recent_avg": 64003,
+ "baseline_avg": 22473,
+ "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 97025,
- "latest": 122179,
+ "abs_change": 41530,
+ "latest": 97773,
  "components": {
-  "acceleration": 0.625,
-  "anomaly": 1.0,
+  "acceleration": 0.268,
+  "anomaly": 0.295,
   "persistence": 0.92,
-  "momentum": 0.669,
-  "volume": 1.0,
-  "spike_quality": 0.739
+  "momentum": 0.867,
+  "volume": 0.903,
+  "spike_quality": 0.912
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 106,247 views/day over the last 3 days (30-day baseline: 9,222)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 64,003 views/day over the last 3 days (30-day baseline: 22,473)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 3316
-  },
-  {
-   "date": "2026-09-07",
-   "views": 4246
-  },
-  {
-   "date": "2026-09-08",
-   "views": 4906
-  },
-  {
    "date": "2026-09-09",
-   "views": 4608
+   "views": 13164
   },
   {
    "date": "2026-09-10",
-   "views": 4451
+   "views": 11675
   },
   {
    "date": "2026-09-11",
-   "views": 3838
+   "views": 14966
   },
   {
    "date": "2026-09-12",
-   "views": 3637
+   "views": 14713
   },
   {
    "date": "2026-09-13",
-   "views": 3909
+   "views": 18748
   },
   {
    "date": "2026-09-14",
-   "views": 3778
+   "views": 14177
   },
   {
    "date": "2026-09-15",
-   "views": 3314
+   "views": 12778
   },
   {
    "date": "2026-09-16",
-   "views": 2859
+   "views": 17733
   },
   {
    "date": "2026-09-17",
-   "views": 3984
+   "views": 19872
   },
   {
    "date": "2026-09-18",
-   "views": 4692
+   "views": 16205
   },
   {
    "date": "2026-09-19",
-   "views": 3763
+   "views": 12392
   },
   {
    "date": "2026-09-20",
-   "views": 3908
+   "views": 12318
   },
   {
    "date": "2026-09-21",
-   "views": 4471
+   "views": 12132
   },
   {
    "date": "2026-09-22",
-   "views": 4484
+   "views": 16594
   },
   {
    "date": "2026-09-23",
-   "views": 3717
+   "views": 18682
   },
   {
    "date": "2026-09-24",
-   "views": 4184
+   "views": 16924
   },
   {
    "date": "2026-09-25",
-   "views": 3831
+   "views": 18784
   },
   {
    "date": "2026-09-26",
-   "views": 5939
+   "views": 15244
   },
   {
    "date": "2026-09-27",
-   "views": 11936
+   "views": 14775
   },
   {
    "date": "2026-09-28",
-   "views": 8912
+   "views": 16132
   },
   {
    "date": "2026-09-29",
-   "views": 9136
+   "views": 16234
   },
   {
    "date": "2026-09-30",
-   "views": 7918
+   "views": 13086
   },
   {
    "date": "2026-10-01",
-   "views": 19159
+   "views": 13809
   },
   {
    "date": "2026-10-02",
-   "views": 22274
+   "views": 12881
   },
   {
    "date": "2026-10-03",
-   "views": 13731
+   "views": 13088
   },
   {
    "date": "2026-10-04",
-   "views": 13685
+   "views": 10252
   },
   {
    "date": "2026-10-05",
-   "views": 11513
+   "views": 14520
   },
   {
    "date": "2026-10-06",
-   "views": 10520
+   "views": 23997
   },
   {
    "date": "2026-10-07",
-   "views": 11403
+   "views": 21135
   },
   {
    "date": "2026-10-08",
-   "views": 12169
+   "views": 24566
   },
   {
    "date": "2026-10-09",
-   "views": 14668
+   "views": 80607
   },
   {
    "date": "2026-10-10",
-   "views": 14498
+   "views": 41302
   },
   {
    "date": "2026-10-11",
-   "views": 15496
+   "views": 40682
   },
   {
    "date": "2026-10-12",
-   "views": 22822
+   "views": 36797
   },
   {
    "date": "2026-10-13",
-   "views": 40384
+   "views": 31048
   },
   {
    "date": "2026-10-14",
-   "views": 156179
+   "views": 34055
   },
   {
    "date": "2026-10-15",
-   "views": 122179
+   "views": 38340
+  },
+  {
+   "date": "2026-10-16",
+   "views": 49382
+  },
+  {
+   "date": "2026-10-17",
+   "views": 44855
+  },
+  {
+   "date": "2026-10-18",
+   "views": 97773
   }
  ],
- "wikipedia_title": "VisionQuest",
+ "wikipedia_title": "Abdul_El-Sayed",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

@@ -1,196 +1,196 @@
 {
- "title": "White House Press Secretary",
- "slug": "white-house-press-secretary",
- "score": 38,
+ "title": "Kaviya Maran",
+ "slug": "kaviya-maran",
+ "score": 45,
  "status": "Elevated",
- "change_percent": 2342,
- "growth_ratio": 24.43,
- "recent_avg": 35316,
- "baseline_avg": 1446,
- "explanation": "Attention is 24\u00d7 its 30-day baseline.",
+ "change_percent": 12795,
+ "growth_ratio": 128.97,
+ "recent_avg": 105741,
+ "baseline_avg": 820,
+ "explanation": "Attention is 129\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 33870,
- "latest": 27793,
+ "abs_change": 104921,
+ "latest": 114477,
  "components": {
-  "acceleration": 0.817,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.76,
-  "momentum": 0.53,
-  "volume": 0.774,
-  "spike_quality": 0.621
+  "persistence": 0.72,
+  "momentum": 0.582,
+  "volume": 1.0,
+  "spike_quality": 0.578
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 35,316 views/day over the last 3 days (30-day baseline: 1,446)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 105,741 views/day over the last 3 days (30-day baseline: 820)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 861
-  },
-  {
-   "date": "2026-09-07",
-   "views": 837
-  },
-  {
-   "date": "2026-09-08",
-   "views": 1034
-  },
-  {
    "date": "2026-09-09",
-   "views": 1037
+   "views": 594
   },
   {
    "date": "2026-09-10",
-   "views": 1642
+   "views": 1179
   },
   {
    "date": "2026-09-11",
-   "views": 1263
+   "views": 1711
   },
   {
    "date": "2026-09-12",
-   "views": 915
+   "views": 1167
   },
   {
    "date": "2026-09-13",
-   "views": 751
+   "views": 926
   },
   {
    "date": "2026-09-14",
-   "views": 829
+   "views": 723
   },
   {
    "date": "2026-09-15",
-   "views": 900
+   "views": 618
   },
   {
    "date": "2026-09-16",
-   "views": 771
+   "views": 600
   },
   {
    "date": "2026-09-17",
-   "views": 790
+   "views": 573
   },
   {
    "date": "2026-09-18",
-   "views": 937
+   "views": 581
   },
   {
    "date": "2026-09-19",
-   "views": 1046
+   "views": 607
   },
   {
    "date": "2026-09-20",
-   "views": 769
+   "views": 653
   },
   {
    "date": "2026-09-21",
-   "views": 1094
+   "views": 651
   },
   {
    "date": "2026-09-22",
-   "views": 1070
+   "views": 766
   },
   {
    "date": "2026-09-23",
-   "views": 1011
+   "views": 638
   },
   {
    "date": "2026-09-24",
-   "views": 1033
+   "views": 770
   },
   {
    "date": "2026-09-25",
-   "views": 812
+   "views": 658
   },
   {
    "date": "2026-09-26",
-   "views": 578
+   "views": 681
   },
   {
    "date": "2026-09-27",
-   "views": 597
+   "views": 734
   },
   {
    "date": "2026-09-28",
-   "views": 688
+   "views": 592
   },
   {
    "date": "2026-09-29",
-   "views": 725
+   "views": 851
   },
   {
    "date": "2026-09-30",
-   "views": 625
+   "views": 786
   },
   {
    "date": "2026-10-01",
-   "views": 534
+   "views": 566
   },
   {
    "date": "2026-10-02",
-   "views": 556
+   "views": 587
   },
   {
    "date": "2026-10-03",
-   "views": 767
+   "views": 642
   },
   {
    "date": "2026-10-04",
-   "views": 867
+   "views": 711
   },
   {
    "date": "2026-10-05",
-   "views": 3396
+   "views": 618
   },
   {
    "date": "2026-10-06",
-   "views": 2065
+   "views": 643
   },
   {
    "date": "2026-10-07",
-   "views": 1182
+   "views": 732
   },
   {
    "date": "2026-10-08",
-   "views": 868
+   "views": 604
   },
   {
    "date": "2026-10-09",
-   "views": 5812
+   "views": 522
   },
   {
    "date": "2026-10-10",
-   "views": 6539
+   "views": 706
   },
   {
    "date": "2026-10-11",
-   "views": 2989
+   "views": 1005
   },
   {
    "date": "2026-10-12",
-   "views": 2765
+   "views": 930
   },
   {
    "date": "2026-10-13",
-   "views": 27699
+   "views": 945
   },
   {
    "date": "2026-10-14",
-   "views": 50457
+   "views": 1002
   },
   {
    "date": "2026-10-15",
-   "views": 27793
+   "views": 4243
+  },
+  {
+   "date": "2026-10-16",
+   "views": 22821
+  },
+  {
+   "date": "2026-10-17",
+   "views": 179926
+  },
+  {
+   "date": "2026-10-18",
+   "views": 114477
   }
  ],
- "wikipedia_title": "White_House_Press_Secretary",
+ "wikipedia_title": "Kaviya_Maran",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

@@ -1,45 +1,33 @@
 {
- "title": "Katie Zacharia",
- "slug": "katie-zacharia",
- "score": 43,
- "status": "Peaked / fading",
- "change_percent": 6296,
- "growth_ratio": 63.96,
- "recent_avg": 653874,
- "baseline_avg": 10223,
- "explanation": "Attention surged to 64\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "2026 French student protests",
+ "slug": "2026-french-student-protests",
+ "score": 66,
+ "status": "Breaking out",
+ "change_percent": 19386,
+ "growth_ratio": 194.93,
+ "recent_avg": 37803,
+ "baseline_avg": 194,
+ "explanation": "Attention is 195\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 643651,
- "latest": 428191,
+ "abs_change": 37609,
+ "latest": 86705,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.76,
-  "momentum": 0.483,
-  "volume": 1.0,
-  "spike_quality": 0.586
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.789,
+  "spike_quality": 0.659
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 653,874 views/day over the last 3 days (30-day baseline: 10,223)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 37,803 views/day over the last 3 days (30-day baseline: 194)."
  ],
  "history": [
-  {
-   "date": "2026-09-06",
-   "views": 0
-  },
-  {
-   "date": "2026-09-07",
-   "views": 0
-  },
-  {
-   "date": "2026-09-08",
-   "views": 0
-  },
   {
    "date": "2026-09-09",
    "views": 0
@@ -162,36 +150,48 @@
   },
   {
    "date": "2026-10-09",
-   "views": 9534
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 151159
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 77490
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 68511
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 626541
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 906890
+   "views": 2030
   },
   {
    "date": "2026-10-15",
-   "views": 428191
+   "views": 3788
+  },
+  {
+   "date": "2026-10-16",
+   "views": 4370
+  },
+  {
+   "date": "2026-10-17",
+   "views": 22333
+  },
+  {
+   "date": "2026-10-18",
+   "views": 86705
   }
  ],
- "wikipedia_title": "Katie_Zacharia",
+ "wikipedia_title": "2026_French_student_protests",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }

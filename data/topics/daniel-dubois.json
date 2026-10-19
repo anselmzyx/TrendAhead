@@ -1,197 +1,198 @@
 {
- "title": "GBU-43/B MOAB",
- "slug": "gbu-43-b-moab",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 28614,
- "growth_ratio": 287.13,
- "recent_avg": 151325,
- "baseline_avg": 527,
- "explanation": "Attention is 287\u00d7 its 30-day baseline.",
+ "title": "Daniel Dubois",
+ "slug": "daniel-dubois",
+ "score": 70,
+ "status": "Building",
+ "change_percent": 1775,
+ "growth_ratio": 18.75,
+ "recent_avg": 43485,
+ "baseline_avg": 2319,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 150798,
- "latest": 453110,
+ "abs_change": 41166,
+ "latest": 61844,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.749,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 1.0,
-  "spike_quality": 0.503
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.819,
+  "spike_quality": 0.841
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 151,325 views/day over the last 3 days (30-day baseline: 527)."
+  "Averaging 43,485 views/day over the last 3 days (30-day baseline: 2,319)."
  ],
  "history": [
   {
-   "date": "2026-09-06",
-   "views": 463
-  },
-  {
-   "date": "2026-09-07",
-   "views": 451
-  },
-  {
-   "date": "2026-09-08",
-   "views": 429
-  },
-  {
    "date": "2026-09-09",
-   "views": 559
+   "views": 1725
   },
   {
    "date": "2026-09-10",
-   "views": 620
+   "views": 1419
   },
   {
    "date": "2026-09-11",
-   "views": 743
+   "views": 1445
   },
   {
    "date": "2026-09-12",
-   "views": 636
+   "views": 1219
   },
   {
    "date": "2026-09-13",
-   "views": 518
+   "views": 1931
   },
   {
    "date": "2026-09-14",
-   "views": 528
+   "views": 1289
   },
   {
    "date": "2026-09-15",
-   "views": 555
+   "views": 1264
   },
   {
    "date": "2026-09-16",
-   "views": 893
+   "views": 1292
   },
   {
    "date": "2026-09-17",
-   "views": 646
+   "views": 1142
   },
   {
    "date": "2026-09-18",
-   "views": 541
+   "views": 1708
   },
   {
    "date": "2026-09-19",
-   "views": 496
+   "views": 1851
   },
   {
    "date": "2026-09-20",
-   "views": 483
+   "views": 1525
   },
   {
    "date": "2026-09-21",
-   "views": 552
+   "views": 1839
   },
   {
    "date": "2026-09-22",
-   "views": 536
+   "views": 2370
   },
   {
    "date": "2026-09-23",
-   "views": 500
+   "views": 1675
   },
   {
    "date": "2026-09-24",
-   "views": 454
+   "views": 3725
   },
   {
    "date": "2026-09-25",
-   "views": 512
+   "views": 2621
   },
   {
    "date": "2026-09-26",
-   "views": 475
+   "views": 2181
   },
   {
    "date": "2026-09-27",
-   "views": 479
+   "views": 1819
   },
   {
    "date": "2026-09-28",
-   "views": 629
+   "views": 1386
   },
   {
    "date": "2026-09-29",
-   "views": 689
+   "views": 1371
   },
   {
    "date": "2026-09-30",
-   "views": 506
+   "views": 2054
   },
   {
    "date": "2026-10-01",
-   "views": 508
+   "views": 2448
   },
   {
    "date": "2026-10-02",
-   "views": 559
+   "views": 1851
   },
   {
    "date": "2026-10-03",
-   "views": 523
+   "views": 1744
   },
   {
    "date": "2026-10-04",
-   "views": 555
+   "views": 1875
   },
   {
    "date": "2026-10-05",
-   "views": 546
+   "views": 1905
   },
   {
    "date": "2026-10-06",
-   "views": 508
+   "views": 2191
   },
   {
    "date": "2026-10-07",
-   "views": 515
+   "views": 1997
   },
   {
    "date": "2026-10-08",
-   "views": 488
+   "views": 1563
   },
   {
    "date": "2026-10-09",
-   "views": 416
+   "views": 2056
   },
   {
    "date": "2026-10-10",
-   "views": 397
+   "views": 2495
   },
   {
    "date": "2026-10-11",
-   "views": 389
+   "views": 2654
   },
   {
    "date": "2026-10-12",
-   "views": 415
+   "views": 4505
   },
   {
    "date": "2026-10-13",
-   "views": 453
+   "views": 4467
   },
   {
    "date": "2026-10-14",
-   "views": 412
+   "views": 4155
   },
   {
    "date": "2026-10-15",
-   "views": 453110
+   "views": 5098
+  },
+  {
+   "date": "2026-10-16",
+   "views": 9540
+  },
+  {
+   "date": "2026-10-17",
+   "views": 59070
+  },
+  {
+   "date": "2026-10-18",
+   "views": 61844
   }
  ],
- "wikipedia_title": "GBU-43/B_MOAB",
+ "wikipedia_title": "Daniel_Dubois",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-15",
- "generated_at_utc": "2026-10-16T10:05:02+00:00"
+ "data_through": "2026-10-18",
+ "generated_at_utc": "2026-10-19T11:11:12+00:00"
 }
