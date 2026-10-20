@@ -1,198 +1,198 @@
 {
- "title": "Tenzing Norgay",
- "slug": "tenzing-norgay",
- "score": 62,
+ "title": "Theranos",
+ "slug": "theranos",
+ "score": 46,
  "status": "Building",
- "change_percent": 1329,
- "growth_ratio": 14.28,
- "recent_avg": 63827,
- "baseline_avg": 4468,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "change_percent": 298,
+ "growth_ratio": 3.98,
+ "recent_avg": 58944,
+ "baseline_avg": 14828,
+ "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 59359,
- "latest": 79866,
+ "abs_change": 44116,
+ "latest": 69883,
  "components": {
-  "acceleration": 0.68,
-  "anomaly": 1.0,
-  "persistence": 0.6,
+  "acceleration": 0.353,
+  "anomaly": 0.311,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.903,
-  "spike_quality": 0.861
+  "volume": 0.885,
+  "spike_quality": 0.915
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 63,827 views/day over the last 3 days (30-day baseline: 4,468)."
+  "Averaging 58,944 views/day over the last 3 days (30-day baseline: 14,828)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 1650
-  },
-  {
    "date": "2026-09-10",
-   "views": 1335
+   "views": 24794
   },
   {
    "date": "2026-09-11",
-   "views": 1798
+   "views": 17227
   },
   {
    "date": "2026-09-12",
-   "views": 1510
+   "views": 14723
   },
   {
    "date": "2026-09-13",
-   "views": 1811
+   "views": 13434
   },
   {
    "date": "2026-09-14",
-   "views": 3939
+   "views": 12676
   },
   {
    "date": "2026-09-15",
-   "views": 1856
+   "views": 12722
   },
   {
    "date": "2026-09-16",
-   "views": 10699
+   "views": 13081
   },
   {
    "date": "2026-09-17",
-   "views": 12873
+   "views": 9985
   },
   {
    "date": "2026-09-18",
-   "views": 9574
+   "views": 9603
   },
   {
    "date": "2026-09-19",
-   "views": 6811
+   "views": 7149
   },
   {
    "date": "2026-09-20",
-   "views": 5347
+   "views": 6752
   },
   {
    "date": "2026-09-21",
-   "views": 4704
+   "views": 6023
   },
   {
    "date": "2026-09-22",
-   "views": 3250
+   "views": 6672
   },
   {
    "date": "2026-09-23",
-   "views": 2696
+   "views": 62970
   },
   {
    "date": "2026-09-24",
-   "views": 3292
+   "views": 59583
   },
   {
    "date": "2026-09-25",
-   "views": 2604
+   "views": 32334
   },
   {
    "date": "2026-09-26",
-   "views": 2284
+   "views": 23668
   },
   {
    "date": "2026-09-27",
-   "views": 9815
+   "views": 16669
   },
   {
    "date": "2026-09-28",
-   "views": 5624
+   "views": 13685
   },
   {
    "date": "2026-09-29",
-   "views": 3466
+   "views": 11046
   },
   {
    "date": "2026-09-30",
-   "views": 4629
+   "views": 9614
   },
   {
    "date": "2026-10-01",
-   "views": 3247
+   "views": 9959
   },
   {
    "date": "2026-10-02",
-   "views": 2698
+   "views": 11518
   },
   {
    "date": "2026-10-03",
-   "views": 2598
+   "views": 11122
   },
   {
    "date": "2026-10-04",
-   "views": 2253
+   "views": 9483
   },
   {
    "date": "2026-10-05",
-   "views": 2510
+   "views": 7557
   },
   {
    "date": "2026-10-06",
-   "views": 2286
+   "views": 7187
   },
   {
    "date": "2026-10-07",
-   "views": 2125
+   "views": 9167
   },
   {
    "date": "2026-10-08",
-   "views": 2279
+   "views": 8618
   },
   {
    "date": "2026-10-09",
-   "views": 2465
+   "views": 8745
   },
   {
    "date": "2026-10-10",
-   "views": 2959
+   "views": 7153
   },
   {
    "date": "2026-10-11",
-   "views": 2830
+   "views": 6448
   },
   {
    "date": "2026-10-12",
-   "views": 5472
+   "views": 6766
   },
   {
    "date": "2026-10-13",
-   "views": 3480
+   "views": 9055
   },
   {
    "date": "2026-10-14",
-   "views": 4793
+   "views": 8843
   },
   {
    "date": "2026-10-15",
-   "views": 4391
+   "views": 12294
   },
   {
    "date": "2026-10-16",
-   "views": 34220
+   "views": 35170
   },
   {
    "date": "2026-10-17",
-   "views": 77394
+   "views": 48072
   },
   {
    "date": "2026-10-18",
-   "views": 79866
+   "views": 58877
+  },
+  {
+   "date": "2026-10-19",
+   "views": 69883
   }
  ],
- "wikipedia_title": "Tenzing_Norgay",
+ "wikipedia_title": "Theranos",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

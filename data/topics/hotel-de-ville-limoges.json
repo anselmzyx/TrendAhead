@@ -1,37 +1,32 @@
 {
  "title": "H\u00f4tel de Ville, Limoges",
  "slug": "hotel-de-ville-limoges",
- "score": 48,
- "status": "Breaking out",
- "change_percent": 1791700,
- "growth_ratio": 358.36,
- "recent_avg": 35836,
+ "score": 36,
+ "status": "Elevated",
+ "change_percent": 2528900,
+ "growth_ratio": 505.8,
+ "recent_avg": 50580,
  "baseline_avg": 2,
- "explanation": "Attention is 358\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 506\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35834,
- "latest": 79464,
+ "abs_change": 50578,
+ "latest": 44233,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.777,
-  "spike_quality": 0.652
+  "persistence": 0.52,
+  "momentum": 0.534,
+  "volume": 0.852,
+  "spike_quality": 0.556
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 35,836 views/day over the last 3 days (30-day baseline: 2)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 50,580 views/day over the last 3 days (30-day baseline: 2)."
  ],
  "history": [
-  {
-   "date": "2026-09-09",
-   "views": 6
-  },
   {
    "date": "2026-09-10",
    "views": 7
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-18",
    "views": 79464
+  },
+  {
+   "date": "2026-10-19",
+   "views": 44233
   }
  ],
  "wikipedia_title": "H\u00f4tel_de_Ville,_Limoges",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

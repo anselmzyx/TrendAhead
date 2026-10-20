@@ -1,37 +1,33 @@
 {
  "title": "Call of Duty: Modern Warfare 4",
  "slug": "call-of-duty-modern-warfare-4",
- "score": 53,
- "status": "Building",
- "change_percent": 1052,
- "growth_ratio": 11.52,
- "recent_avg": 70921,
- "baseline_avg": 6157,
+ "score": 43,
+ "status": "Elevated",
+ "change_percent": 1093,
+ "growth_ratio": 11.93,
+ "recent_avg": 84803,
+ "baseline_avg": 7108,
  "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 64764,
- "latest": 86806,
+ "abs_change": 77695,
+ "latest": 72542,
  "components": {
-  "acceleration": 0.625,
+  "acceleration": 0.634,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.748,
-  "volume": 0.925,
-  "spike_quality": 0.819
+  "persistence": 0.64,
+  "momentum": 0.525,
+  "volume": 0.964,
+  "spike_quality": 0.789
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 70,921 views/day over the last 3 days (30-day baseline: 6,157)."
+  "Averaging 84,803 views/day over the last 3 days (30-day baseline: 7,108)."
  ],
  "history": [
-  {
-   "date": "2026-09-09",
-   "views": 2252
-  },
   {
    "date": "2026-09-10",
    "views": 2298
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-18",
    "views": 86806
+  },
+  {
+   "date": "2026-10-19",
+   "views": 72542
   }
  ],
  "wikipedia_title": "Call_of_Duty:_Modern_Warfare_4",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

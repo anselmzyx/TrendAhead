@@ -1,196 +1,197 @@
 {
- "title": "Lyn May",
- "slug": "lyn-may",
- "score": 45,
- "status": "Elevated",
- "change_percent": 11226,
- "growth_ratio": 113.26,
- "recent_avg": 50399,
- "baseline_avg": 445,
- "explanation": "Attention is 113\u00d7 its 30-day baseline.",
+ "title": "Helen Haines",
+ "slug": "helen-haines",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 305942,
+ "growth_ratio": 734.5,
+ "recent_avg": 73450,
+ "baseline_avg": 24,
+ "explanation": "Attention is 734\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 49954,
- "latest": 51459,
+ "abs_change": 73426,
+ "latest": 220295,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.582,
-  "volume": 0.851,
-  "spike_quality": 0.596
+  "persistence": 0.2,
+  "momentum": 1.0,
+  "volume": 0.933,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 50,399 views/day over the last 3 days (30-day baseline: 445)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 73,450 views/day over the last 3 days (30-day baseline: 24)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 1545
-  },
-  {
    "date": "2026-09-10",
-   "views": 1328
-  },
-  {
-   "date": "2026-09-11",
-   "views": 655
-  },
-  {
-   "date": "2026-09-12",
-   "views": 664
-  },
-  {
-   "date": "2026-09-13",
-   "views": 582
-  },
-  {
-   "date": "2026-09-14",
-   "views": 478
-  },
-  {
-   "date": "2026-09-15",
-   "views": 359
-  },
-  {
-   "date": "2026-09-16",
-   "views": 432
-  },
-  {
-   "date": "2026-09-17",
-   "views": 406
-  },
-  {
-   "date": "2026-09-18",
-   "views": 448
-  },
-  {
-   "date": "2026-09-19",
-   "views": 399
-  },
-  {
-   "date": "2026-09-20",
-   "views": 509
-  },
-  {
-   "date": "2026-09-21",
-   "views": 582
-  },
-  {
-   "date": "2026-09-22",
-   "views": 472
-  },
-  {
-   "date": "2026-09-23",
-   "views": 460
-  },
-  {
-   "date": "2026-09-24",
-   "views": 387
-  },
-  {
-   "date": "2026-09-25",
-   "views": 323
-  },
-  {
-   "date": "2026-09-26",
-   "views": 315
-  },
-  {
-   "date": "2026-09-27",
-   "views": 658
-  },
-  {
-   "date": "2026-09-28",
-   "views": 559
-  },
-  {
-   "date": "2026-09-29",
-   "views": 260
-  },
-  {
-   "date": "2026-09-30",
-   "views": 565
-  },
-  {
-   "date": "2026-10-01",
-   "views": 250
-  },
-  {
-   "date": "2026-10-02",
-   "views": 254
-  },
-  {
-   "date": "2026-10-03",
-   "views": 282
-  },
-  {
-   "date": "2026-10-04",
-   "views": 263
-  },
-  {
-   "date": "2026-10-05",
-   "views": 235
-  },
-  {
-   "date": "2026-10-06",
-   "views": 195
-  },
-  {
-   "date": "2026-10-07",
-   "views": 297
-  },
-  {
-   "date": "2026-10-08",
    "views": 279
   },
   {
+   "date": "2026-09-11",
+   "views": 51
+  },
+  {
+   "date": "2026-09-12",
+   "views": 22
+  },
+  {
+   "date": "2026-09-13",
+   "views": 36
+  },
+  {
+   "date": "2026-09-14",
+   "views": 62
+  },
+  {
+   "date": "2026-09-15",
+   "views": 25
+  },
+  {
+   "date": "2026-09-16",
+   "views": 53
+  },
+  {
+   "date": "2026-09-17",
+   "views": 42
+  },
+  {
+   "date": "2026-09-18",
+   "views": 28
+  },
+  {
+   "date": "2026-09-19",
+   "views": 26
+  },
+  {
+   "date": "2026-09-20",
+   "views": 24
+  },
+  {
+   "date": "2026-09-21",
+   "views": 24
+  },
+  {
+   "date": "2026-09-22",
+   "views": 15
+  },
+  {
+   "date": "2026-09-23",
+   "views": 17
+  },
+  {
+   "date": "2026-09-24",
+   "views": 23
+  },
+  {
+   "date": "2026-09-25",
+   "views": 10
+  },
+  {
+   "date": "2026-09-26",
+   "views": 14
+  },
+  {
+   "date": "2026-09-27",
+   "views": 22
+  },
+  {
+   "date": "2026-09-28",
+   "views": 18
+  },
+  {
+   "date": "2026-09-29",
+   "views": 28
+  },
+  {
+   "date": "2026-09-30",
+   "views": 34
+  },
+  {
+   "date": "2026-10-01",
+   "views": 34
+  },
+  {
+   "date": "2026-10-02",
+   "views": 33
+  },
+  {
+   "date": "2026-10-03",
+   "views": 12
+  },
+  {
+   "date": "2026-10-04",
+   "views": 16
+  },
+  {
+   "date": "2026-10-05",
+   "views": 15
+  },
+  {
+   "date": "2026-10-06",
+   "views": 20
+  },
+  {
+   "date": "2026-10-07",
+   "views": 24
+  },
+  {
+   "date": "2026-10-08",
+   "views": 10
+  },
+  {
    "date": "2026-10-09",
-   "views": 347
+   "views": 22
   },
   {
    "date": "2026-10-10",
-   "views": 686
+   "views": 22
   },
   {
    "date": "2026-10-11",
-   "views": 311
+   "views": 56
   },
   {
    "date": "2026-10-12",
-   "views": 304
+   "views": 38
   },
   {
    "date": "2026-10-13",
-   "views": 1246
+   "views": 34
   },
   {
    "date": "2026-10-14",
-   "views": 811
+   "views": 22
   },
   {
    "date": "2026-10-15",
-   "views": 815
+   "views": 31
   },
   {
    "date": "2026-10-16",
-   "views": 18834
+   "views": 12
   },
   {
    "date": "2026-10-17",
-   "views": 80905
+   "views": 24
   },
   {
    "date": "2026-10-18",
-   "views": 51459
+   "views": 31
+  },
+  {
+   "date": "2026-10-19",
+   "views": 220295
   }
  ],
- "wikipedia_title": "Lyn_May",
+ "wikipedia_title": "Helen_Haines",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

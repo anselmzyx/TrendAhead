@@ -1,197 +1,198 @@
 {
- "title": "Bear Bachmeier",
- "slug": "bear-bachmeier",
- "score": 47,
+ "title": "Osiris",
+ "slug": "osiris",
+ "score": 50,
  "status": "Breaking out",
- "change_percent": 3507,
- "growth_ratio": 36.06,
- "recent_avg": 49053,
- "baseline_avg": 1360,
- "explanation": "Attention is 36\u00d7 its 30-day baseline.",
+ "change_percent": 1640,
+ "growth_ratio": 17.4,
+ "recent_avg": 32290,
+ "baseline_avg": 1856,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 47693,
- "latest": 124883,
+ "abs_change": 30434,
+ "latest": 65240,
  "components": {
-  "acceleration": 0.916,
+  "acceleration": 0.73,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.845,
-  "spike_quality": 0.598
+  "persistence": 0.72,
+  "momentum": 0.867,
+  "volume": 0.755,
+  "spike_quality": 0.722
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 49,053 views/day over the last 3 days (30-day baseline: 1,360)."
+  "Averaging 32,290 views/day over the last 3 days (30-day baseline: 1,856)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 238
-  },
-  {
    "date": "2026-09-10",
-   "views": 197
+   "views": 2259
   },
   {
    "date": "2026-09-11",
-   "views": 215
+   "views": 2124
   },
   {
    "date": "2026-09-12",
-   "views": 9324
+   "views": 1599
   },
   {
    "date": "2026-09-13",
-   "views": 1967
+   "views": 2280
   },
   {
    "date": "2026-09-14",
-   "views": 552
+   "views": 2881
   },
   {
    "date": "2026-09-15",
-   "views": 343
+   "views": 2856
   },
   {
    "date": "2026-09-16",
-   "views": 429
+   "views": 2231
   },
   {
    "date": "2026-09-17",
-   "views": 293
+   "views": 2308
   },
   {
    "date": "2026-09-18",
-   "views": 229
+   "views": 1851
   },
   {
    "date": "2026-09-19",
-   "views": 775
+   "views": 1841
   },
   {
    "date": "2026-09-20",
-   "views": 3056
+   "views": 1822
   },
   {
    "date": "2026-09-21",
-   "views": 590
+   "views": 2107
   },
   {
    "date": "2026-09-22",
-   "views": 379
+   "views": 2217
   },
   {
    "date": "2026-09-23",
-   "views": 2349
+   "views": 1771
   },
   {
    "date": "2026-09-24",
-   "views": 3294
+   "views": 1922
   },
   {
    "date": "2026-09-25",
-   "views": 788
+   "views": 1665
   },
   {
    "date": "2026-09-26",
-   "views": 538
+   "views": 1633
   },
   {
    "date": "2026-09-27",
-   "views": 442
+   "views": 1684
   },
   {
    "date": "2026-09-28",
-   "views": 346
+   "views": 1722
   },
   {
    "date": "2026-09-29",
-   "views": 274
+   "views": 2311
   },
   {
    "date": "2026-09-30",
-   "views": 397
+   "views": 1927
   },
   {
    "date": "2026-10-01",
-   "views": 353
+   "views": 1764
   },
   {
    "date": "2026-10-02",
-   "views": 277
+   "views": 1592
   },
   {
    "date": "2026-10-03",
-   "views": 2143
+   "views": 1413
   },
   {
    "date": "2026-10-04",
-   "views": 7812
+   "views": 1538
   },
   {
    "date": "2026-10-05",
-   "views": 635
+   "views": 1703
   },
   {
    "date": "2026-10-06",
-   "views": 475
+   "views": 1610
   },
   {
    "date": "2026-10-07",
-   "views": 360
+   "views": 1512
   },
   {
    "date": "2026-10-08",
-   "views": 328
+   "views": 1586
   },
   {
    "date": "2026-10-09",
-   "views": 378
+   "views": 1590
   },
   {
    "date": "2026-10-10",
-   "views": 9729
+   "views": 1512
   },
   {
    "date": "2026-10-11",
-   "views": 1066
+   "views": 2606
   },
   {
    "date": "2026-10-12",
-   "views": 644
+   "views": 1897
   },
   {
    "date": "2026-10-13",
-   "views": 671
+   "views": 1576
   },
   {
    "date": "2026-10-14",
-   "views": 788
+   "views": 1682
   },
   {
    "date": "2026-10-15",
-   "views": 968
+   "views": 1745
   },
   {
    "date": "2026-10-16",
-   "views": 1243
+   "views": 3579
   },
   {
    "date": "2026-10-17",
-   "views": 21033
+   "views": 22733
   },
   {
    "date": "2026-10-18",
-   "views": 124883
+   "views": 8897
+  },
+  {
+   "date": "2026-10-19",
+   "views": 65240
   }
  ],
- "wikipedia_title": "Bear_Bachmeier",
+ "wikipedia_title": "Osiris",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

@@ -1,37 +1,34 @@
 {
  "title": "2026 French student protests",
  "slug": "2026-french-student-protests",
- "score": 66,
- "status": "Breaking out",
- "change_percent": 19386,
- "growth_ratio": 194.93,
- "recent_avg": 37803,
- "baseline_avg": 194,
- "explanation": "Attention is 195\u00d7 its 30-day baseline.",
+ "score": 83,
+ "status": "Building",
+ "change_percent": 20565,
+ "growth_ratio": 206.89,
+ "recent_avg": 70260,
+ "baseline_avg": 340,
+ "explanation": "Attention is 207\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 37609,
- "latest": 86705,
+ "abs_change": 69920,
+ "latest": 101742,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.789,
-  "spike_quality": 0.659
+  "volume": 0.923,
+  "spike_quality": 0.815
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,803 views/day over the last 3 days (30-day baseline: 194)."
+  "Averaging 70,260 views/day over the last 3 days (30-day baseline: 340)."
  ],
  "history": [
-  {
-   "date": "2026-09-09",
-   "views": 0
-  },
   {
    "date": "2026-09-10",
    "views": 0
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-18",
    "views": 86705
+  },
+  {
+   "date": "2026-10-19",
+   "views": 101742
   }
  ],
  "wikipedia_title": "2026_French_student_protests",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "UFC Fight Night: Buckley vs. Malott",
- "slug": "ufc-fight-night-buckley-vs-malott",
- "score": 48,
+ "title": "Lawrence Bishnoi",
+ "slug": "lawrence-bishnoi",
+ "score": 46,
  "status": "Breaking out",
- "change_percent": 603,
- "growth_ratio": 7.03,
- "recent_avg": 30140,
- "baseline_avg": 4288,
- "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
+ "change_percent": 1698,
+ "growth_ratio": 17.98,
+ "recent_avg": 61150,
+ "baseline_avg": 3401,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25852,
- "latest": 57081,
+ "abs_change": 57749,
+ "latest": 135745,
  "components": {
-  "acceleration": 0.498,
+  "acceleration": 0.739,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.74,
-  "spike_quality": 0.781
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.893,
+  "spike_quality": 0.676
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,140 views/day over the last 3 days (30-day baseline: 4,288)."
+  "Averaging 61,150 views/day over the last 3 days (30-day baseline: 3,401)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 1731
-  },
-  {
    "date": "2026-09-10",
-   "views": 1635
+   "views": 1123
   },
   {
    "date": "2026-09-11",
-   "views": 1673
+   "views": 961
   },
   {
    "date": "2026-09-12",
-   "views": 2247
+   "views": 1123
   },
   {
    "date": "2026-09-13",
-   "views": 2838
+   "views": 1247
   },
   {
    "date": "2026-09-14",
-   "views": 2191
+   "views": 1184
   },
   {
    "date": "2026-09-15",
-   "views": 2432
+   "views": 1254
   },
   {
    "date": "2026-09-16",
-   "views": 1890
+   "views": 11530
   },
   {
    "date": "2026-09-17",
-   "views": 1938
+   "views": 13898
   },
   {
    "date": "2026-09-18",
-   "views": 2258
+   "views": 6829
   },
   {
    "date": "2026-09-19",
-   "views": 3637
+   "views": 6561
   },
   {
    "date": "2026-09-20",
-   "views": 9982
+   "views": 3660
   },
   {
    "date": "2026-09-21",
-   "views": 3832
+   "views": 3038
   },
   {
    "date": "2026-09-22",
-   "views": 2729
+   "views": 2194
   },
   {
    "date": "2026-09-23",
-   "views": 2715
+   "views": 1940
   },
   {
    "date": "2026-09-24",
-   "views": 2613
+   "views": 1864
   },
   {
    "date": "2026-09-25",
-   "views": 2761
+   "views": 1831
   },
   {
    "date": "2026-09-26",
-   "views": 3561
+   "views": 1401
   },
   {
    "date": "2026-09-27",
-   "views": 4928
+   "views": 1497
   },
   {
    "date": "2026-09-28",
-   "views": 2888
+   "views": 4209
   },
   {
    "date": "2026-09-29",
-   "views": 3166
+   "views": 9384
   },
   {
    "date": "2026-09-30",
-   "views": 2707
+   "views": 4808
   },
   {
    "date": "2026-10-01",
-   "views": 2779
+   "views": 2727
   },
   {
    "date": "2026-10-02",
-   "views": 3117
+   "views": 1829
   },
   {
    "date": "2026-10-03",
-   "views": 4859
+   "views": 1858
   },
   {
    "date": "2026-10-04",
-   "views": 11768
+   "views": 2002
   },
   {
    "date": "2026-10-05",
-   "views": 4355
+   "views": 1673
   },
   {
    "date": "2026-10-06",
-   "views": 3056
+   "views": 1669
   },
   {
    "date": "2026-10-07",
-   "views": 2993
+   "views": 1580
   },
   {
    "date": "2026-10-08",
-   "views": 3082
+   "views": 1574
   },
   {
    "date": "2026-10-09",
-   "views": 3685
+   "views": 1466
   },
   {
    "date": "2026-10-10",
-   "views": 5978
+   "views": 3488
   },
   {
    "date": "2026-10-11",
-   "views": 11603
+   "views": 4507
   },
   {
    "date": "2026-10-12",
-   "views": 5231
+   "views": 3516
   },
   {
    "date": "2026-10-13",
-   "views": 4869
+   "views": 3546
   },
   {
    "date": "2026-10-14",
-   "views": 4726
+   "views": 2954
   },
   {
    "date": "2026-10-15",
-   "views": 4929
+   "views": 2412
   },
   {
    "date": "2026-10-16",
-   "views": 6522
+   "views": 2101
   },
   {
    "date": "2026-10-17",
-   "views": 26816
+   "views": 1892
   },
   {
    "date": "2026-10-18",
-   "views": 57081
+   "views": 45813
+  },
+  {
+   "date": "2026-10-19",
+   "views": 135745
   }
  ],
- "wikipedia_title": "UFC_Fight_Night:_Buckley_vs._Malott",
+ "wikipedia_title": "Lawrence_Bishnoi",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

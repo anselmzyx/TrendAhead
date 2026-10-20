@@ -1,197 +1,198 @@
 {
- "title": "Whalefall (film)",
- "slug": "whalefall-film",
- "score": 41,
- "status": "Elevated",
- "change_percent": 342,
- "growth_ratio": 4.42,
- "recent_avg": 83207,
- "baseline_avg": 18810,
- "explanation": "Attention is 4.4\u00d7 its 30-day baseline.",
+ "title": "Sunny Balwani",
+ "slug": "sunny-balwani",
+ "score": 52,
+ "status": "Building",
+ "change_percent": 427,
+ "growth_ratio": 5.27,
+ "recent_avg": 50105,
+ "baseline_avg": 9511,
+ "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 64397,
- "latest": 75506,
+ "abs_change": 40594,
+ "latest": 57108,
  "components": {
-  "acceleration": 0.38,
-  "anomaly": 0.61,
-  "persistence": 0.84,
-  "momentum": 0.568,
-  "volume": 0.96,
-  "spike_quality": 0.871
+  "acceleration": 0.425,
+  "anomaly": 0.539,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.85,
+  "spike_quality": 0.915
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 83,207 views/day over the last 3 days (30-day baseline: 18,810)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 50,105 views/day over the last 3 days (30-day baseline: 9,511)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 2891
-  },
-  {
    "date": "2026-09-10",
-   "views": 6974
+   "views": 21969
   },
   {
    "date": "2026-09-11",
-   "views": 15190
+   "views": 15430
   },
   {
    "date": "2026-09-12",
-   "views": 10074
+   "views": 13918
   },
   {
    "date": "2026-09-13",
-   "views": 7680
+   "views": 12750
   },
   {
    "date": "2026-09-14",
-   "views": 8515
+   "views": 12916
   },
   {
    "date": "2026-09-15",
-   "views": 14590
+   "views": 10365
   },
   {
    "date": "2026-09-16",
-   "views": 9679
+   "views": 9487
   },
   {
    "date": "2026-09-17",
-   "views": 10810
+   "views": 7951
   },
   {
    "date": "2026-09-18",
-   "views": 13049
+   "views": 8404
   },
   {
    "date": "2026-09-19",
-   "views": 17287
+   "views": 7098
   },
   {
    "date": "2026-09-20",
-   "views": 24607
+   "views": 7053
   },
   {
    "date": "2026-09-21",
-   "views": 19930
+   "views": 5761
   },
   {
    "date": "2026-09-22",
-   "views": 18544
+   "views": 5697
   },
   {
    "date": "2026-09-23",
-   "views": 10253
+   "views": 29116
   },
   {
    "date": "2026-09-24",
-   "views": 10203
+   "views": 33972
   },
   {
    "date": "2026-09-25",
-   "views": 9147
+   "views": 19933
   },
   {
    "date": "2026-09-26",
-   "views": 12131
+   "views": 13854
   },
   {
    "date": "2026-09-27",
-   "views": 12699
+   "views": 10996
   },
   {
    "date": "2026-09-28",
-   "views": 13596
+   "views": 9048
   },
   {
    "date": "2026-09-29",
-   "views": 12310
+   "views": 7018
   },
   {
    "date": "2026-09-30",
-   "views": 18022
+   "views": 5810
   },
   {
    "date": "2026-10-01",
-   "views": 20862
+   "views": 6351
   },
   {
    "date": "2026-10-02",
-   "views": 16547
+   "views": 7155
   },
   {
    "date": "2026-10-03",
-   "views": 16677
+   "views": 6715
   },
   {
    "date": "2026-10-04",
-   "views": 19329
+   "views": 6131
   },
   {
    "date": "2026-10-05",
-   "views": 16866
+   "views": 5134
   },
   {
    "date": "2026-10-06",
-   "views": 16485
+   "views": 4712
   },
   {
    "date": "2026-10-07",
-   "views": 17042
+   "views": 5416
   },
   {
    "date": "2026-10-08",
-   "views": 16529
+   "views": 5561
   },
   {
    "date": "2026-10-09",
-   "views": 16666
+   "views": 5075
   },
   {
    "date": "2026-10-10",
-   "views": 17487
+   "views": 4336
   },
   {
    "date": "2026-10-11",
-   "views": 20238
+   "views": 4435
   },
   {
    "date": "2026-10-12",
-   "views": 22092
+   "views": 4624
   },
   {
    "date": "2026-10-13",
-   "views": 28641
+   "views": 6086
   },
   {
    "date": "2026-10-14",
-   "views": 43093
+   "views": 6033
   },
   {
    "date": "2026-10-15",
-   "views": 63480
+   "views": 9175
   },
   {
    "date": "2026-10-16",
-   "views": 90394
+   "views": 26672
   },
   {
    "date": "2026-10-17",
-   "views": 83722
+   "views": 41378
   },
   {
    "date": "2026-10-18",
-   "views": 75506
+   "views": 51828
+  },
+  {
+   "date": "2026-10-19",
+   "views": 57108
   }
  ],
- "wikipedia_title": "Whalefall_(film)",
+ "wikipedia_title": "Sunny_Balwani",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

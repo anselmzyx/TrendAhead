@@ -1,38 +1,33 @@
 {
  "title": "The Diplomat (American TV series)",
  "slug": "the-diplomat-american-tv-series",
- "score": 65,
+ "score": 50,
  "status": "Building",
- "change_percent": 656,
- "growth_ratio": 7.56,
- "recent_avg": 61573,
- "baseline_avg": 8142,
- "explanation": "Attention is 7.6\u00d7 its 30-day baseline.",
+ "change_percent": 579,
+ "growth_ratio": 6.79,
+ "recent_avg": 64379,
+ "baseline_avg": 9478,
+ "explanation": "Attention is 6.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 53431,
- "latest": 68204,
+ "abs_change": 54901,
+ "latest": 61369,
  "components": {
-  "acceleration": 0.517,
-  "anomaly": 0.911,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.895,
-  "spike_quality": 0.927
+  "acceleration": 0.49,
+  "anomaly": 0.552,
+  "persistence": 0.92,
+  "momentum": 0.74,
+  "volume": 0.904,
+  "spike_quality": 0.904
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,573 views/day over the last 3 days (30-day baseline: 8,142)."
+  "Averaging 64,379 views/day over the last 3 days (30-day baseline: 9,478)."
  ],
  "history": [
-  {
-   "date": "2026-09-09",
-   "views": 3668
-  },
   {
    "date": "2026-09-10",
    "views": 3403
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-18",
    "views": 68204
+  },
+  {
+   "date": "2026-10-19",
+   "views": 61369
   }
  ],
  "wikipedia_title": "The_Diplomat_(American_TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

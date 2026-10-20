@@ -1,196 +1,197 @@
 {
- "title": "Kalanithi Maran",
- "slug": "kalanithi-maran",
- "score": 49,
- "status": "Elevated",
- "change_percent": 5252,
- "growth_ratio": 53.53,
- "recent_avg": 61122,
- "baseline_avg": 1142,
- "explanation": "Attention is 54\u00d7 its 30-day baseline.",
+ "title": "Tiger Shroff",
+ "slug": "tiger-shroff",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 2841,
+ "growth_ratio": 29.4,
+ "recent_avg": 36585,
+ "baseline_avg": 1244,
+ "explanation": "Attention is 29\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 59980,
- "latest": 70825,
+ "abs_change": 35341,
+ "latest": 77172,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.864,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.642,
-  "volume": 0.893,
-  "spike_quality": 0.663
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.782,
+  "spike_quality": 0.69
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 61,122 views/day over the last 3 days (30-day baseline: 1,142)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 36,585 views/day over the last 3 days (30-day baseline: 1,244)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 771
-  },
-  {
    "date": "2026-09-10",
-   "views": 1842
+   "views": 934
   },
   {
    "date": "2026-09-11",
-   "views": 2621
+   "views": 999
   },
   {
    "date": "2026-09-12",
-   "views": 1815
+   "views": 1036
   },
   {
    "date": "2026-09-13",
-   "views": 1322
+   "views": 1100
   },
   {
    "date": "2026-09-14",
-   "views": 1024
+   "views": 1114
   },
   {
    "date": "2026-09-15",
-   "views": 806
+   "views": 1088
   },
   {
    "date": "2026-09-16",
-   "views": 727
+   "views": 1076
   },
   {
    "date": "2026-09-17",
-   "views": 692
+   "views": 1060
   },
   {
    "date": "2026-09-18",
-   "views": 692
+   "views": 1073
   },
   {
    "date": "2026-09-19",
-   "views": 778
+   "views": 1045
   },
   {
    "date": "2026-09-20",
-   "views": 816
+   "views": 1182
   },
   {
    "date": "2026-09-21",
-   "views": 956
+   "views": 1055
   },
   {
    "date": "2026-09-22",
-   "views": 1263
+   "views": 965
   },
   {
    "date": "2026-09-23",
-   "views": 959
+   "views": 1015
   },
   {
    "date": "2026-09-24",
-   "views": 888
+   "views": 1101
   },
   {
    "date": "2026-09-25",
-   "views": 860
+   "views": 2051
   },
   {
    "date": "2026-09-26",
-   "views": 937
+   "views": 1399
   },
   {
    "date": "2026-09-27",
-   "views": 867
+   "views": 1609
   },
   {
    "date": "2026-09-28",
-   "views": 914
+   "views": 1226
   },
   {
    "date": "2026-09-29",
-   "views": 1344
+   "views": 1118
   },
   {
    "date": "2026-09-30",
-   "views": 1079
+   "views": 1229
   },
   {
    "date": "2026-10-01",
-   "views": 776
+   "views": 1206
   },
   {
    "date": "2026-10-02",
-   "views": 692
+   "views": 1235
   },
   {
    "date": "2026-10-03",
-   "views": 670
+   "views": 1421
   },
   {
    "date": "2026-10-04",
-   "views": 729
+   "views": 1540
   },
   {
    "date": "2026-10-05",
-   "views": 1130
+   "views": 1381
   },
   {
    "date": "2026-10-06",
-   "views": 1150
+   "views": 1109
   },
   {
    "date": "2026-10-07",
-   "views": 1021
+   "views": 1066
   },
   {
    "date": "2026-10-08",
-   "views": 788
+   "views": 1394
   },
   {
    "date": "2026-10-09",
-   "views": 731
+   "views": 1340
   },
   {
    "date": "2026-10-10",
-   "views": 898
+   "views": 1217
   },
   {
    "date": "2026-10-11",
-   "views": 1232
+   "views": 1311
   },
   {
    "date": "2026-10-12",
-   "views": 1410
+   "views": 1177
   },
   {
    "date": "2026-10-13",
-   "views": 1539
+   "views": 1038
   },
   {
    "date": "2026-10-14",
-   "views": 1588
+   "views": 937
   },
   {
    "date": "2026-10-15",
-   "views": 6129
+   "views": 1437
   },
   {
    "date": "2026-10-16",
-   "views": 16410
+   "views": 1395
   },
   {
    "date": "2026-10-17",
-   "views": 96131
+   "views": 1592
   },
   {
    "date": "2026-10-18",
-   "views": 70825
+   "views": 30990
+  },
+  {
+   "date": "2026-10-19",
+   "views": 77172
   }
  ],
- "wikipedia_title": "Kalanithi_Maran",
+ "wikipedia_title": "Tiger_Shroff",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

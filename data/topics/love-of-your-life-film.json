@@ -1,38 +1,33 @@
 {
  "title": "Love of Your Life (film)",
  "slug": "love-of-your-life-film",
- "score": 65,
- "status": "Building",
- "change_percent": 1221,
- "growth_ratio": 13.21,
- "recent_avg": 73240,
- "baseline_avg": 5545,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "score": 36,
+ "status": "Peaked / fading",
+ "change_percent": 953,
+ "growth_ratio": 10.53,
+ "recent_avg": 74509,
+ "baseline_avg": 7078,
+ "explanation": "Attention surged to 11\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 67695,
- "latest": 97766,
+ "abs_change": 67431,
+ "latest": 52692,
  "components": {
-  "acceleration": 0.66,
-  "anomaly": 0.605,
-  "persistence": 0.92,
-  "momentum": 0.933,
-  "volume": 0.932,
-  "spike_quality": 0.904
+  "acceleration": 0.602,
+  "anomaly": 0.496,
+  "persistence": 0.84,
+  "momentum": 0.523,
+  "volume": 0.936,
+  "spike_quality": 0.697
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 73,240 views/day over the last 3 days (30-day baseline: 5,545)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 74,509 views/day over the last 3 days (30-day baseline: 7,078)."
  ],
  "history": [
-  {
-   "date": "2026-09-09",
-   "views": 22771
-  },
   {
    "date": "2026-09-10",
    "views": 20525
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-18",
    "views": 97766
+  },
+  {
+   "date": "2026-10-19",
+   "views": 52692
   }
  ],
  "wikipedia_title": "Love_of_Your_Life_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Norm Macdonald",
- "slug": "norm-macdonald",
- "score": 44,
- "status": "Building",
- "change_percent": 667,
- "growth_ratio": 7.67,
- "recent_avg": 44853,
- "baseline_avg": 5849,
- "explanation": "Attention is 7.7\u00d7 its 30-day baseline.",
+ "title": "Barbara Palvin",
+ "slug": "barbara-palvin",
+ "score": 49,
+ "status": "Breaking out",
+ "change_percent": 1706,
+ "growth_ratio": 18.07,
+ "recent_avg": 54856,
+ "baseline_avg": 3037,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 39004,
- "latest": 50577,
+ "abs_change": 51819,
+ "latest": 146026,
  "components": {
-  "acceleration": 0.521,
+  "acceleration": 0.74,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.753,
-  "volume": 0.826,
-  "spike_quality": 0.839
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.87,
+  "spike_quality": 0.599
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 44,853 views/day over the last 3 days (30-day baseline: 5,849)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 54,856 views/day over the last 3 days (30-day baseline: 3,037)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 3450
-  },
-  {
    "date": "2026-09-10",
-   "views": 3268
+   "views": 1736
   },
   {
    "date": "2026-09-11",
-   "views": 3728
+   "views": 2013
   },
   {
    "date": "2026-09-12",
-   "views": 4039
+   "views": 2330
   },
   {
    "date": "2026-09-13",
-   "views": 3816
+   "views": 2072
   },
   {
    "date": "2026-09-14",
-   "views": 5695
+   "views": 1768
   },
   {
    "date": "2026-09-15",
-   "views": 8327
+   "views": 1685
   },
   {
    "date": "2026-09-16",
-   "views": 4761
+   "views": 1682
   },
   {
    "date": "2026-09-17",
-   "views": 4179
+   "views": 1825
   },
   {
    "date": "2026-09-18",
-   "views": 4293
+   "views": 1943
   },
   {
    "date": "2026-09-19",
-   "views": 4653
+   "views": 1847
   },
   {
    "date": "2026-09-20",
-   "views": 4993
+   "views": 1914
   },
   {
    "date": "2026-09-21",
-   "views": 7834
+   "views": 1700
   },
   {
    "date": "2026-09-22",
-   "views": 11043
+   "views": 1595
   },
   {
    "date": "2026-09-23",
-   "views": 10702
+   "views": 1771
   },
   {
    "date": "2026-09-24",
-   "views": 7534
+   "views": 1685
   },
   {
    "date": "2026-09-25",
-   "views": 6316
+   "views": 1759
   },
   {
    "date": "2026-09-26",
-   "views": 9368
+   "views": 2200
   },
   {
    "date": "2026-09-27",
-   "views": 7205
+   "views": 2262
   },
   {
    "date": "2026-09-28",
-   "views": 5649
+   "views": 3503
   },
   {
    "date": "2026-09-29",
-   "views": 5821
+   "views": 11811
   },
   {
    "date": "2026-09-30",
-   "views": 6022
+   "views": 5214
   },
   {
    "date": "2026-10-01",
-   "views": 4658
+   "views": 2947
   },
   {
    "date": "2026-10-02",
-   "views": 4901
+   "views": 2565
   },
   {
    "date": "2026-10-03",
-   "views": 5105
+   "views": 2409
   },
   {
    "date": "2026-10-04",
-   "views": 4814
+   "views": 2198
   },
   {
    "date": "2026-10-05",
-   "views": 4912
+   "views": 2402
   },
   {
    "date": "2026-10-06",
-   "views": 7383
+   "views": 2265
   },
   {
    "date": "2026-10-07",
-   "views": 4577
+   "views": 2133
   },
   {
    "date": "2026-10-08",
-   "views": 4160
+   "views": 2869
   },
   {
    "date": "2026-10-09",
-   "views": 3993
+   "views": 4650
   },
   {
    "date": "2026-10-10",
-   "views": 4442
+   "views": 7258
   },
   {
    "date": "2026-10-11",
-   "views": 5199
+   "views": 4002
   },
   {
    "date": "2026-10-12",
-   "views": 5468
+   "views": 2976
   },
   {
    "date": "2026-10-13",
-   "views": 4615
+   "views": 2312
   },
   {
    "date": "2026-10-14",
-   "views": 4734
+   "views": 2915
   },
   {
    "date": "2026-10-15",
-   "views": 6131
+   "views": 2452
   },
   {
    "date": "2026-10-16",
-   "views": 29144
+   "views": 3715
   },
   {
    "date": "2026-10-17",
-   "views": 54838
+   "views": 6657
   },
   {
    "date": "2026-10-18",
-   "views": 50577
+   "views": 11885
+  },
+  {
+   "date": "2026-10-19",
+   "views": 146026
   }
  ],
- "wikipedia_title": "Norm_Macdonald",
+ "wikipedia_title": "Barbara_Palvin",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

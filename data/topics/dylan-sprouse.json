@@ -1,197 +1,197 @@
 {
- "title": "Kalani Sitake",
- "slug": "kalani-sitake",
- "score": 49,
+ "title": "Dylan Sprouse",
+ "slug": "dylan-sprouse",
+ "score": 39,
  "status": "Breaking out",
- "change_percent": 5307,
- "growth_ratio": 54.07,
- "recent_avg": 30765,
- "baseline_avg": 569,
- "explanation": "Attention is 54\u00d7 its 30-day baseline.",
+ "change_percent": 987,
+ "growth_ratio": 10.87,
+ "recent_avg": 38578,
+ "baseline_avg": 3550,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30196,
- "latest": 68873,
+ "abs_change": 35028,
+ "latest": 103687,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.61,
   "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.744,
-  "spike_quality": 0.66
+  "volume": 0.793,
+  "spike_quality": 0.61
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,765 views/day over the last 3 days (30-day baseline: 569)."
+  "Averaging 38,578 views/day over the last 3 days (30-day baseline: 3,550)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 218
-  },
-  {
    "date": "2026-09-10",
-   "views": 204
+   "views": 2407
   },
   {
    "date": "2026-09-11",
-   "views": 213
+   "views": 2517
   },
   {
    "date": "2026-09-12",
-   "views": 2131
+   "views": 2762
   },
   {
    "date": "2026-09-13",
-   "views": 1020
+   "views": 2845
   },
   {
    "date": "2026-09-14",
-   "views": 510
+   "views": 2337
   },
   {
    "date": "2026-09-15",
-   "views": 662
+   "views": 2163
   },
   {
    "date": "2026-09-16",
-   "views": 326
+   "views": 2283
   },
   {
    "date": "2026-09-17",
-   "views": 229
+   "views": 2262
   },
   {
    "date": "2026-09-18",
-   "views": 246
+   "views": 2447
   },
   {
    "date": "2026-09-19",
-   "views": 498
+   "views": 2408
   },
   {
    "date": "2026-09-20",
-   "views": 1444
+   "views": 2534
   },
   {
    "date": "2026-09-21",
-   "views": 400
+   "views": 2720
   },
   {
    "date": "2026-09-22",
-   "views": 240
+   "views": 2218
   },
   {
    "date": "2026-09-23",
-   "views": 224
+   "views": 2278
   },
   {
    "date": "2026-09-24",
-   "views": 180
+   "views": 2401
   },
   {
    "date": "2026-09-25",
-   "views": 149
+   "views": 2348
   },
   {
    "date": "2026-09-26",
-   "views": 255
+   "views": 2956
   },
   {
    "date": "2026-09-27",
-   "views": 426
+   "views": 3483
   },
   {
    "date": "2026-09-28",
-   "views": 338
+   "views": 4180
   },
   {
    "date": "2026-09-29",
-   "views": 286
+   "views": 12526
   },
   {
    "date": "2026-09-30",
-   "views": 245
+   "views": 5830
   },
   {
    "date": "2026-10-01",
-   "views": 234
+   "views": 3645
   },
   {
    "date": "2026-10-02",
-   "views": 173
+   "views": 3292
   },
   {
    "date": "2026-10-03",
-   "views": 1028
+   "views": 3345
   },
   {
    "date": "2026-10-04",
-   "views": 1699
+   "views": 3148
   },
   {
    "date": "2026-10-05",
-   "views": 329
+   "views": 3070
   },
   {
    "date": "2026-10-06",
-   "views": 251
+   "views": 3255
   },
   {
    "date": "2026-10-07",
-   "views": 231
+   "views": 3159
   },
   {
    "date": "2026-10-08",
-   "views": 219
+   "views": 3794
   },
   {
    "date": "2026-10-09",
-   "views": 319
+   "views": 4078
   },
   {
    "date": "2026-10-10",
-   "views": 3834
+   "views": 5824
   },
   {
    "date": "2026-10-11",
-   "views": 715
+   "views": 4077
   },
   {
    "date": "2026-10-12",
-   "views": 501
+   "views": 3303
   },
   {
    "date": "2026-10-13",
-   "views": 601
+   "views": 2765
   },
   {
    "date": "2026-10-14",
-   "views": 745
+   "views": 3223
   },
   {
    "date": "2026-10-15",
-   "views": 705
+   "views": 2771
   },
   {
    "date": "2026-10-16",
-   "views": 722
+   "views": 3173
   },
   {
    "date": "2026-10-17",
-   "views": 22699
+   "views": 4868
   },
   {
    "date": "2026-10-18",
-   "views": 68873
+   "views": 7180
+  },
+  {
+   "date": "2026-10-19",
+   "views": 103687
   }
  ],
- "wikipedia_title": "Kalani_Sitake",
+ "wikipedia_title": "Dylan_Sprouse",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Jailer 2",
- "slug": "jailer-2",
- "score": 49,
- "status": "Elevated",
- "change_percent": 1237,
- "growth_ratio": 13.37,
- "recent_avg": 353268,
- "baseline_avg": 26415,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "title": "Amanda Seyfried",
+ "slug": "amanda-seyfried",
+ "score": 47,
+ "status": "Building",
+ "change_percent": 409,
+ "growth_ratio": 5.09,
+ "recent_avg": 49902,
+ "baseline_avg": 9809,
+ "explanation": "Attention is 5.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 326853,
- "latest": 340362,
+ "abs_change": 40093,
+ "latest": 53546,
  "components": {
-  "acceleration": 0.663,
-  "anomaly": 0.549,
-  "persistence": 0.84,
-  "momentum": 0.607,
-  "volume": 1.0,
-  "spike_quality": 0.886
+  "acceleration": 0.416,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "momentum": 0.735,
+  "volume": 0.849,
+  "spike_quality": 0.861
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 353,268 views/day over the last 3 days (30-day baseline: 26,415)."
+  "Averaging 49,902 views/day over the last 3 days (30-day baseline: 9,809)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 3528
-  },
-  {
    "date": "2026-09-10",
-   "views": 3330
+   "views": 10229
   },
   {
    "date": "2026-09-11",
-   "views": 3454
+   "views": 9405
   },
   {
    "date": "2026-09-12",
-   "views": 3686
+   "views": 9466
   },
   {
    "date": "2026-09-13",
-   "views": 3925
+   "views": 10550
   },
   {
    "date": "2026-09-14",
-   "views": 3865
+   "views": 8456
   },
   {
    "date": "2026-09-15",
-   "views": 3570
+   "views": 13099
   },
   {
    "date": "2026-09-16",
-   "views": 3324
+   "views": 36715
   },
   {
    "date": "2026-09-17",
-   "views": 3476
+   "views": 15490
   },
   {
    "date": "2026-09-18",
-   "views": 7238
+   "views": 10979
   },
   {
    "date": "2026-09-19",
-   "views": 8926
+   "views": 10388
   },
   {
    "date": "2026-09-20",
-   "views": 12382
+   "views": 9687
   },
   {
    "date": "2026-09-21",
-   "views": 10823
+   "views": 7742
   },
   {
    "date": "2026-09-22",
-   "views": 7138
+   "views": 6726
   },
   {
    "date": "2026-09-23",
-   "views": 7232
+   "views": 8245
   },
   {
    "date": "2026-09-24",
-   "views": 8145
+   "views": 8171
   },
   {
    "date": "2026-09-25",
-   "views": 9779
+   "views": 7411
   },
   {
    "date": "2026-09-26",
-   "views": 10014
+   "views": 8182
   },
   {
    "date": "2026-09-27",
-   "views": 9211
+   "views": 8413
   },
   {
    "date": "2026-09-28",
-   "views": 8259
+   "views": 6857
   },
   {
    "date": "2026-09-29",
-   "views": 11257
+   "views": 6146
   },
   {
    "date": "2026-09-30",
-   "views": 12895
+   "views": 6352
   },
   {
    "date": "2026-10-01",
-   "views": 12537
+   "views": 6389
   },
   {
    "date": "2026-10-02",
-   "views": 11660
+   "views": 6884
   },
   {
    "date": "2026-10-03",
-   "views": 10128
+   "views": 8829
   },
   {
    "date": "2026-10-04",
-   "views": 12168
+   "views": 8496
   },
   {
    "date": "2026-10-05",
-   "views": 44934
+   "views": 6596
   },
   {
    "date": "2026-10-06",
-   "views": 41464
+   "views": 5951
   },
   {
    "date": "2026-10-07",
-   "views": 22075
+   "views": 7725
   },
   {
    "date": "2026-10-08",
-   "views": 16838
+   "views": 11295
   },
   {
    "date": "2026-10-09",
-   "views": 14797
+   "views": 12336
   },
   {
    "date": "2026-10-10",
-   "views": 17325
+   "views": 11562
   },
   {
    "date": "2026-10-11",
-   "views": 21296
+   "views": 14395
   },
   {
    "date": "2026-10-12",
-   "views": 23895
+   "views": 14697
   },
   {
    "date": "2026-10-13",
-   "views": 27689
+   "views": 16336
   },
   {
    "date": "2026-10-14",
-   "views": 43841
+   "views": 10873
   },
   {
    "date": "2026-10-15",
-   "views": 341702
+   "views": 9998
   },
   {
    "date": "2026-10-16",
-   "views": 378259
+   "views": 21117
   },
   {
    "date": "2026-10-17",
-   "views": 341183
+   "views": 36089
   },
   {
    "date": "2026-10-18",
-   "views": 340362
+   "views": 60070
+  },
+  {
+   "date": "2026-10-19",
+   "views": 53546
   }
  ],
- "wikipedia_title": "Jailer_2",
+ "wikipedia_title": "Amanda_Seyfried",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

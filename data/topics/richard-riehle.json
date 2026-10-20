@@ -1,197 +1,197 @@
 {
- "title": "Mike Malott",
- "slug": "mike-malott",
- "score": 60,
+ "title": "Richard Riehle",
+ "slug": "richard-riehle",
+ "score": 41,
  "status": "Breaking out",
- "change_percent": 3638,
- "growth_ratio": 37.4,
- "recent_avg": 25679,
- "baseline_avg": 687,
- "explanation": "Attention is 37\u00d7 its 30-day baseline.",
+ "change_percent": 7748,
+ "growth_ratio": 78.57,
+ "recent_avg": 33041,
+ "baseline_avg": 421,
+ "explanation": "Attention is 79\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 24992,
- "latest": 63408,
+ "abs_change": 32620,
+ "latest": 97764,
  "components": {
-  "acceleration": 0.926,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.705,
-  "spike_quality": 0.647
+  "persistence": 0.52,
+  "momentum": 0.867,
+  "volume": 0.76,
+  "spike_quality": 0.518
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,679 views/day over the last 3 days (30-day baseline: 687)."
+  "Averaging 33,041 views/day over the last 3 days (30-day baseline: 421)."
  ],
  "history": [
   {
-   "date": "2026-09-09",
-   "views": 214
-  },
-  {
    "date": "2026-09-10",
-   "views": 171
+   "views": 340
   },
   {
    "date": "2026-09-11",
-   "views": 171
+   "views": 353
   },
   {
    "date": "2026-09-12",
-   "views": 199
+   "views": 460
   },
   {
    "date": "2026-09-13",
-   "views": 168
+   "views": 414
   },
   {
    "date": "2026-09-14",
-   "views": 193
+   "views": 388
   },
   {
    "date": "2026-09-15",
-   "views": 195
+   "views": 414
   },
   {
    "date": "2026-09-16",
-   "views": 213
+   "views": 424
   },
   {
    "date": "2026-09-17",
-   "views": 194
+   "views": 388
   },
   {
    "date": "2026-09-18",
-   "views": 170
+   "views": 367
   },
   {
    "date": "2026-09-19",
-   "views": 274
+   "views": 414
   },
   {
    "date": "2026-09-20",
-   "views": 470
+   "views": 416
   },
   {
    "date": "2026-09-21",
-   "views": 274
+   "views": 399
   },
   {
    "date": "2026-09-22",
-   "views": 665
+   "views": 361
   },
   {
    "date": "2026-09-23",
-   "views": 1029
+   "views": 293
   },
   {
    "date": "2026-09-24",
-   "views": 642
+   "views": 354
   },
   {
    "date": "2026-09-25",
-   "views": 453
+   "views": 356
   },
   {
    "date": "2026-09-26",
-   "views": 375
+   "views": 344
   },
   {
    "date": "2026-09-27",
-   "views": 496
+   "views": 396
   },
   {
    "date": "2026-09-28",
-   "views": 483
+   "views": 363
   },
   {
    "date": "2026-09-29",
-   "views": 337
+   "views": 364
   },
   {
    "date": "2026-09-30",
-   "views": 308
+   "views": 529
   },
   {
    "date": "2026-10-01",
-   "views": 336
+   "views": 428
   },
   {
    "date": "2026-10-02",
-   "views": 315
+   "views": 521
   },
   {
    "date": "2026-10-03",
-   "views": 459
+   "views": 539
   },
   {
    "date": "2026-10-04",
-   "views": 842
+   "views": 474
   },
   {
    "date": "2026-10-05",
-   "views": 485
+   "views": 432
   },
   {
    "date": "2026-10-06",
-   "views": 386
+   "views": 423
   },
   {
    "date": "2026-10-07",
-   "views": 386
+   "views": 449
   },
   {
    "date": "2026-10-08",
-   "views": 558
+   "views": 427
   },
   {
    "date": "2026-10-09",
-   "views": 426
+   "views": 410
   },
   {
    "date": "2026-10-10",
-   "views": 749
+   "views": 511
   },
   {
    "date": "2026-10-11",
-   "views": 1562
+   "views": 500
   },
   {
    "date": "2026-10-12",
-   "views": 1454
+   "views": 395
   },
   {
    "date": "2026-10-13",
-   "views": 1555
+   "views": 358
   },
   {
    "date": "2026-10-14",
-   "views": 2042
+   "views": 450
   },
   {
    "date": "2026-10-15",
-   "views": 2659
+   "views": 464
   },
   {
    "date": "2026-10-16",
-   "views": 3171
+   "views": 491
   },
   {
    "date": "2026-10-17",
-   "views": 10459
+   "views": 681
   },
   {
    "date": "2026-10-18",
-   "views": 63408
+   "views": 678
+  },
+  {
+   "date": "2026-10-19",
+   "views": 97764
   }
  ],
- "wikipedia_title": "Mike_Malott",
+ "wikipedia_title": "Richard_Riehle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }

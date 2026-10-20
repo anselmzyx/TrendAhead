@@ -1,37 +1,33 @@
 {
  "title": "Georgina Cates",
  "slug": "georgina-cates",
- "score": 48,
- "status": "Breaking out",
- "change_percent": 7125,
- "growth_ratio": 72.26,
- "recent_avg": 24349,
- "baseline_avg": 337,
- "explanation": "Attention is 72\u00d7 its 30-day baseline.",
+ "score": 33,
+ "status": "Peaked / fading",
+ "change_percent": 9694,
+ "growth_ratio": 97.8,
+ "recent_avg": 33495,
+ "baseline_avg": 342,
+ "explanation": "Attention surged to 98\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 24012,
- "latest": 53213,
+ "abs_change": 33153,
+ "latest": 27805,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.693,
-  "spike_quality": 0.668
+  "persistence": 0.52,
+  "momentum": 0.514,
+  "volume": 0.762,
+  "spike_quality": 0.54
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 24,349 views/day over the last 3 days (30-day baseline: 337)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 33,495 views/day over the last 3 days (30-day baseline: 342)."
  ],
  "history": [
-  {
-   "date": "2026-09-09",
-   "views": 229
-  },
   {
    "date": "2026-09-10",
    "views": 216
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-18",
    "views": 53213
+  },
+  {
+   "date": "2026-10-19",
+   "views": 27805
   }
  ],
  "wikipedia_title": "Georgina_Cates",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-18",
- "generated_at_utc": "2026-10-19T11:11:12+00:00"
+ "data_through": "2026-10-19",
+ "generated_at_utc": "2026-10-20T10:23:06+00:00"
 }
