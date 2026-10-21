@@ -1,37 +1,32 @@
 {
  "title": "Barbara Palvin",
  "slug": "barbara-palvin",
- "score": 49,
- "status": "Breaking out",
- "change_percent": 1706,
- "growth_ratio": 18.07,
- "recent_avg": 54856,
- "baseline_avg": 3037,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "score": 46,
+ "status": "Elevated",
+ "change_percent": 2630,
+ "growth_ratio": 27.3,
+ "recent_avg": 87308,
+ "baseline_avg": 3198,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 51819,
- "latest": 146026,
+ "abs_change": 84110,
+ "latest": 104012,
  "components": {
-  "acceleration": 0.74,
+  "acceleration": 0.845,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.87,
-  "spike_quality": 0.599
+  "persistence": 0.72,
+  "momentum": 0.627,
+  "volume": 0.971,
+  "spike_quality": 0.633
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 54,856 views/day over the last 3 days (30-day baseline: 3,037)."
+  "Averaging 87,308 views/day over the last 3 days (30-day baseline: 3,198)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 1736
-  },
   {
    "date": "2026-09-11",
    "views": 2013
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-19",
    "views": 146026
+  },
+  {
+   "date": "2026-10-20",
+   "views": 104012
   }
  ],
  "wikipedia_title": "Barbara_Palvin",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

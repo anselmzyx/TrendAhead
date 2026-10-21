@@ -1,37 +1,33 @@
 {
  "title": "Abdul El-Sayed",
  "slug": "abdul-el-sayed",
- "score": 40,
+ "score": 33,
  "status": "Elevated",
- "change_percent": 234,
- "growth_ratio": 3.34,
- "recent_avg": 78598,
- "baseline_avg": 23528,
- "explanation": "Attention is 3.3\u00d7 its 30-day baseline.",
+ "change_percent": 265,
+ "growth_ratio": 3.65,
+ "recent_avg": 88816,
+ "baseline_avg": 24361,
+ "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 55070,
- "latest": 93167,
+ "abs_change": 64455,
+ "latest": 75508,
  "components": {
-  "acceleration": 0.308,
-  "anomaly": 0.371,
-  "persistence": 0.84,
-  "momentum": 0.705,
-  "volume": 0.948,
-  "spike_quality": 0.913
+  "acceleration": 0.331,
+  "anomaly": 0.421,
+  "persistence": 0.76,
+  "momentum": 0.53,
+  "volume": 0.974,
+  "spike_quality": 0.838
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 78,598 views/day over the last 3 days (30-day baseline: 23,528)."
+  "Averaging 88,816 views/day over the last 3 days (30-day baseline: 24,361)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 11675
-  },
   {
    "date": "2026-09-11",
    "views": 14966
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 93167
+  },
+  {
+   "date": "2026-10-20",
+   "views": 75508
   }
  ],
  "wikipedia_title": "Abdul_El-Sayed",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

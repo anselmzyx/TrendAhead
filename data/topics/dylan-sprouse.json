@@ -1,37 +1,32 @@
 {
  "title": "Dylan Sprouse",
  "slug": "dylan-sprouse",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 987,
- "growth_ratio": 10.87,
- "recent_avg": 38578,
- "baseline_avg": 3550,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "score": 42,
+ "status": "Elevated",
+ "change_percent": 1668,
+ "growth_ratio": 17.68,
+ "recent_avg": 64315,
+ "baseline_avg": 3637,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35028,
- "latest": 103687,
+ "abs_change": 60678,
+ "latest": 82077,
  "components": {
-  "acceleration": 0.61,
+  "acceleration": 0.734,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.793,
-  "spike_quality": 0.61
+  "persistence": 0.52,
+  "momentum": 0.675,
+  "volume": 0.904,
+  "spike_quality": 0.687
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 38,578 views/day over the last 3 days (30-day baseline: 3,550)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 64,315 views/day over the last 3 days (30-day baseline: 3,637)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 2407
-  },
   {
    "date": "2026-09-11",
    "views": 2517
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-19",
    "views": 103687
+  },
+  {
+   "date": "2026-10-20",
+   "views": 82077
   }
  ],
  "wikipedia_title": "Dylan_Sprouse",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

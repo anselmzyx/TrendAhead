@@ -1,197 +1,198 @@
 {
- "title": "Street Fighter (2026 film)",
- "slug": "street-fighter-2026-film",
- "score": 40,
- "status": "Elevated",
- "change_percent": 576,
- "growth_ratio": 6.76,
- "recent_avg": 175691,
- "baseline_avg": 25983,
- "explanation": "Attention is 6.8\u00d7 its 30-day baseline.",
+ "title": "Hunter Schafer",
+ "slug": "hunter-schafer",
+ "score": 53,
+ "status": "Breaking out",
+ "change_percent": 720,
+ "growth_ratio": 8.2,
+ "recent_avg": 63830,
+ "baseline_avg": 7786,
+ "explanation": "Attention is 8.2\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 149708,
- "latest": 153073,
+ "abs_change": 56044,
+ "latest": 117851,
  "components": {
-  "acceleration": 0.489,
-  "anomaly": 0.429,
-  "persistence": 0.84,
-  "momentum": 0.545,
-  "volume": 1.0,
-  "spike_quality": 0.86
+  "acceleration": 0.538,
+  "anomaly": 1.0,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.903,
+  "spike_quality": 0.763
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 175,691 views/day over the last 3 days (30-day baseline: 25,983)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 63,830 views/day over the last 3 days (30-day baseline: 7,786)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 7958
-  },
-  {
    "date": "2026-09-11",
-   "views": 6217
+   "views": 6595
   },
   {
    "date": "2026-09-12",
-   "views": 6033
+   "views": 7480
   },
   {
    "date": "2026-09-13",
-   "views": 5665
+   "views": 8953
   },
   {
    "date": "2026-09-14",
-   "views": 5417
+   "views": 6697
   },
   {
    "date": "2026-09-15",
-   "views": 5104
+   "views": 5881
   },
   {
    "date": "2026-09-16",
-   "views": 5066
+   "views": 5947
   },
   {
    "date": "2026-09-17",
-   "views": 6108
+   "views": 9520
   },
   {
    "date": "2026-09-18",
-   "views": 7640
+   "views": 6987
   },
   {
    "date": "2026-09-19",
-   "views": 7588
+   "views": 6657
   },
   {
    "date": "2026-09-20",
-   "views": 8901
+   "views": 6780
   },
   {
    "date": "2026-09-21",
-   "views": 9814
+   "views": 5706
   },
   {
    "date": "2026-09-22",
-   "views": 15031
+   "views": 6219
   },
   {
    "date": "2026-09-23",
-   "views": 10188
+   "views": 7750
   },
   {
    "date": "2026-09-24",
-   "views": 10196
+   "views": 12803
   },
   {
    "date": "2026-09-25",
-   "views": 8493
+   "views": 11326
   },
   {
    "date": "2026-09-26",
-   "views": 9665
+   "views": 13171
   },
   {
    "date": "2026-09-27",
-   "views": 11053
+   "views": 12194
   },
   {
    "date": "2026-09-28",
-   "views": 10454
+   "views": 6774
   },
   {
    "date": "2026-09-29",
-   "views": 10116
+   "views": 5433
   },
   {
    "date": "2026-09-30",
-   "views": 10428
+   "views": 4840
   },
   {
    "date": "2026-10-01",
-   "views": 11304
+   "views": 4891
   },
   {
    "date": "2026-10-02",
-   "views": 12175
+   "views": 4995
   },
   {
    "date": "2026-10-03",
-   "views": 12993
+   "views": 5430
   },
   {
    "date": "2026-10-04",
-   "views": 17892
+   "views": 5433
   },
   {
    "date": "2026-10-05",
-   "views": 15066
+   "views": 4904
   },
   {
    "date": "2026-10-06",
-   "views": 17714
+   "views": 4296
   },
   {
    "date": "2026-10-07",
-   "views": 19773
+   "views": 5309
   },
   {
    "date": "2026-10-08",
-   "views": 23870
+   "views": 9882
   },
   {
    "date": "2026-10-09",
-   "views": 28611
+   "views": 10255
   },
   {
    "date": "2026-10-10",
-   "views": 28406
+   "views": 7388
   },
   {
    "date": "2026-10-11",
-   "views": 30928
+   "views": 18056
   },
   {
    "date": "2026-10-12",
-   "views": 29806
+   "views": 13107
   },
   {
    "date": "2026-10-13",
-   "views": 44170
+   "views": 9637
   },
   {
    "date": "2026-10-14",
-   "views": 61692
+   "views": 6325
   },
   {
    "date": "2026-10-15",
-   "views": 113060
+   "views": 5466
   },
   {
    "date": "2026-10-16",
-   "views": 176357
+   "views": 6480
   },
   {
    "date": "2026-10-17",
-   "views": 192150
+   "views": 5074
   },
   {
    "date": "2026-10-18",
-   "views": 181850
+   "views": 20858
   },
   {
    "date": "2026-10-19",
-   "views": 153073
+   "views": 52781
+  },
+  {
+   "date": "2026-10-20",
+   "views": 117851
   }
  ],
- "wikipedia_title": "Street_Fighter_(2026_film)",
+ "wikipedia_title": "Hunter_Schafer",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

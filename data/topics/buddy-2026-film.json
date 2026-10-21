@@ -1,197 +1,197 @@
 {
- "title": "Crystal Lake (TV series)",
- "slug": "crystal-lake-tv-series",
- "score": 35,
+ "title": "Buddy (2026 film)",
+ "slug": "buddy-2026-film",
+ "score": 32,
  "status": "Elevated",
- "change_percent": 778,
- "growth_ratio": 8.78,
- "recent_avg": 107859,
- "baseline_avg": 12283,
- "explanation": "Attention is 8.8\u00d7 its 30-day baseline.",
+ "change_percent": 205,
+ "growth_ratio": 3.05,
+ "recent_avg": 43065,
+ "baseline_avg": 14123,
+ "explanation": "Attention is 3.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 95576,
- "latest": 100406,
+ "abs_change": 28942,
+ "latest": 40089,
  "components": {
-  "acceleration": 0.555,
-  "anomaly": 0.373,
+  "acceleration": 0.285,
+  "anomaly": 0.39,
   "persistence": 0.76,
-  "momentum": 0.457,
-  "volume": 1.0,
-  "spike_quality": 0.829
+  "momentum": 0.587,
+  "volume": 0.817,
+  "spike_quality": 0.905
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 107,859 views/day over the last 3 days (30-day baseline: 12,283)."
+  "Averaging 43,065 views/day over the last 3 days (30-day baseline: 14,123)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 1359
-  },
-  {
    "date": "2026-09-11",
-   "views": 2039
+   "views": 40016
   },
   {
    "date": "2026-09-12",
-   "views": 3108
+   "views": 42598
   },
   {
    "date": "2026-09-13",
-   "views": 14604
+   "views": 36757
   },
   {
    "date": "2026-09-14",
-   "views": 19774
+   "views": 30591
   },
   {
    "date": "2026-09-15",
-   "views": 11571
+   "views": 27148
   },
   {
    "date": "2026-09-16",
-   "views": 7179
+   "views": 25356
   },
   {
    "date": "2026-09-17",
-   "views": 6243
+   "views": 22245
   },
   {
    "date": "2026-09-18",
-   "views": 4917
+   "views": 23454
   },
   {
    "date": "2026-09-19",
-   "views": 4396
+   "views": 23584
   },
   {
    "date": "2026-09-20",
-   "views": 4307
+   "views": 24405
   },
   {
    "date": "2026-09-21",
-   "views": 2957
+   "views": 18932
   },
   {
    "date": "2026-09-22",
-   "views": 2280
+   "views": 17795
   },
   {
    "date": "2026-09-23",
-   "views": 2217
+   "views": 15318
   },
   {
    "date": "2026-09-24",
-   "views": 2159
+   "views": 12860
   },
   {
    "date": "2026-09-25",
-   "views": 2097
+   "views": 12727
   },
   {
    "date": "2026-09-26",
-   "views": 2254
+   "views": 13346
   },
   {
    "date": "2026-09-27",
-   "views": 2840
+   "views": 12238
   },
   {
    "date": "2026-09-28",
-   "views": 2568
+   "views": 11003
   },
   {
    "date": "2026-09-29",
-   "views": 2343
+   "views": 11495
   },
   {
    "date": "2026-09-30",
-   "views": 3308
+   "views": 9936
   },
   {
    "date": "2026-10-01",
-   "views": 5191
+   "views": 10322
   },
   {
    "date": "2026-10-02",
-   "views": 5210
+   "views": 9158
   },
   {
    "date": "2026-10-03",
-   "views": 5299
+   "views": 9035
   },
   {
    "date": "2026-10-04",
-   "views": 5549
+   "views": 8955
   },
   {
    "date": "2026-10-05",
-   "views": 5136
+   "views": 7545
   },
   {
    "date": "2026-10-06",
-   "views": 5215
+   "views": 6867
   },
   {
    "date": "2026-10-07",
-   "views": 6095
+   "views": 6430
   },
   {
    "date": "2026-10-08",
-   "views": 6861
+   "views": 6012
   },
   {
    "date": "2026-10-09",
-   "views": 7411
+   "views": 6140
   },
   {
    "date": "2026-10-10",
-   "views": 7038
+   "views": 6707
   },
   {
    "date": "2026-10-11",
-   "views": 8511
+   "views": 6716
   },
   {
    "date": "2026-10-12",
-   "views": 11280
+   "views": 6826
   },
   {
    "date": "2026-10-13",
-   "views": 17679
+   "views": 16270
   },
   {
    "date": "2026-10-14",
-   "views": 22839
+   "views": 23863
   },
   {
    "date": "2026-10-15",
-   "views": 72400
+   "views": 29935
   },
   {
    "date": "2026-10-16",
-   "views": 131900
+   "views": 24498
   },
   {
    "date": "2026-10-17",
-   "views": 119548
+   "views": 31328
   },
   {
    "date": "2026-10-18",
-   "views": 103624
+   "views": 46184
   },
   {
    "date": "2026-10-19",
-   "views": 100406
+   "views": 42923
+  },
+  {
+   "date": "2026-10-20",
+   "views": 40089
   }
  ],
- "wikipedia_title": "Crystal_Lake_(TV_series)",
+ "wikipedia_title": "Buddy_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

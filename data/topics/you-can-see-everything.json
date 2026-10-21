@@ -1,38 +1,33 @@
 {
  "title": "You Can See Everything",
  "slug": "you-can-see-everything",
- "score": 60,
- "status": "Building",
- "change_percent": 571,
- "growth_ratio": 6.71,
- "recent_avg": 243224,
- "baseline_avg": 36241,
- "explanation": "Attention is 6.7\u00d7 its 30-day baseline.",
+ "score": 43,
+ "status": "Elevated",
+ "change_percent": 455,
+ "growth_ratio": 5.55,
+ "recent_avg": 238247,
+ "baseline_avg": 42911,
+ "explanation": "Attention is 5.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 206983,
- "latest": 268900,
+ "abs_change": 195336,
+ "latest": 206507,
  "components": {
-  "acceleration": 0.487,
-  "anomaly": 0.576,
-  "persistence": 0.8,
-  "momentum": 1.0,
+  "acceleration": 0.438,
+  "anomaly": 0.4,
+  "persistence": 0.92,
+  "momentum": 0.661,
   "volume": 1.0,
-  "spike_quality": 0.933
+  "spike_quality": 0.838
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 243,224 views/day over the last 3 days (30-day baseline: 36,241)."
+  "Averaging 238,247 views/day over the last 3 days (30-day baseline: 42,911)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 55108
-  },
   {
    "date": "2026-09-11",
    "views": 42141
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 268900
+  },
+  {
+   "date": "2026-10-20",
+   "views": 206507
   }
  ],
  "wikipedia_title": "You_Can_See_Everything",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

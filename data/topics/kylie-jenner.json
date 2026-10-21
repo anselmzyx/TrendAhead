@@ -1,198 +1,198 @@
 {
- "title": "Osiris",
- "slug": "osiris",
- "score": 50,
+ "title": "Kylie Jenner",
+ "slug": "kylie-jenner",
+ "score": 45,
  "status": "Breaking out",
- "change_percent": 1640,
- "growth_ratio": 17.4,
- "recent_avg": 32290,
- "baseline_avg": 1856,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "change_percent": 568,
+ "growth_ratio": 6.68,
+ "recent_avg": 41597,
+ "baseline_avg": 6226,
+ "explanation": "Attention is 6.7\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30434,
- "latest": 65240,
+ "abs_change": 35371,
+ "latest": 60631,
  "components": {
-  "acceleration": 0.73,
+  "acceleration": 0.485,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.867,
-  "volume": 0.755,
-  "spike_quality": 0.722
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.81,
+  "spike_quality": 0.853
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,290 views/day over the last 3 days (30-day baseline: 1,856)."
+  "Averaging 41,597 views/day over the last 3 days (30-day baseline: 6,226)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 2259
-  },
-  {
    "date": "2026-09-11",
-   "views": 2124
+   "views": 4651
   },
   {
    "date": "2026-09-12",
-   "views": 1599
+   "views": 4733
   },
   {
    "date": "2026-09-13",
-   "views": 2280
+   "views": 5205
   },
   {
    "date": "2026-09-14",
-   "views": 2881
+   "views": 4572
   },
   {
    "date": "2026-09-15",
-   "views": 2856
+   "views": 4363
   },
   {
    "date": "2026-09-16",
-   "views": 2231
+   "views": 4676
   },
   {
    "date": "2026-09-17",
-   "views": 2308
+   "views": 4395
   },
   {
    "date": "2026-09-18",
-   "views": 1851
+   "views": 4719
   },
   {
    "date": "2026-09-19",
-   "views": 1841
+   "views": 4986
   },
   {
    "date": "2026-09-20",
-   "views": 1822
+   "views": 5272
   },
   {
    "date": "2026-09-21",
-   "views": 2107
+   "views": 5319
   },
   {
    "date": "2026-09-22",
-   "views": 2217
+   "views": 5618
   },
   {
    "date": "2026-09-23",
-   "views": 1771
+   "views": 5338
   },
   {
    "date": "2026-09-24",
-   "views": 1922
+   "views": 5415
   },
   {
    "date": "2026-09-25",
-   "views": 1665
+   "views": 5455
   },
   {
    "date": "2026-09-26",
-   "views": 1633
+   "views": 5700
   },
   {
    "date": "2026-09-27",
-   "views": 1684
+   "views": 6106
   },
   {
    "date": "2026-09-28",
-   "views": 1722
+   "views": 5032
   },
   {
    "date": "2026-09-29",
-   "views": 2311
+   "views": 7983
   },
   {
    "date": "2026-09-30",
-   "views": 1927
+   "views": 6687
   },
   {
    "date": "2026-10-01",
-   "views": 1764
+   "views": 6452
   },
   {
    "date": "2026-10-02",
-   "views": 1592
+   "views": 5810
   },
   {
    "date": "2026-10-03",
-   "views": 1413
+   "views": 6125
   },
   {
    "date": "2026-10-04",
-   "views": 1538
+   "views": 6494
   },
   {
    "date": "2026-10-05",
-   "views": 1703
+   "views": 6062
   },
   {
    "date": "2026-10-06",
-   "views": 1610
+   "views": 6316
   },
   {
    "date": "2026-10-07",
-   "views": 1512
+   "views": 6222
   },
   {
    "date": "2026-10-08",
-   "views": 1586
+   "views": 5800
   },
   {
    "date": "2026-10-09",
-   "views": 1590
+   "views": 5660
   },
   {
    "date": "2026-10-10",
-   "views": 1512
+   "views": 6585
   },
   {
    "date": "2026-10-11",
-   "views": 2606
+   "views": 7524
   },
   {
    "date": "2026-10-12",
-   "views": 1897
+   "views": 7920
   },
   {
    "date": "2026-10-13",
-   "views": 1576
+   "views": 7185
   },
   {
    "date": "2026-10-14",
-   "views": 1682
+   "views": 6600
   },
   {
    "date": "2026-10-15",
-   "views": 1745
+   "views": 7292
   },
   {
    "date": "2026-10-16",
-   "views": 3579
+   "views": 7416
   },
   {
    "date": "2026-10-17",
-   "views": 22733
+   "views": 7699
   },
   {
    "date": "2026-10-18",
-   "views": 8897
+   "views": 7278
   },
   {
    "date": "2026-10-19",
-   "views": 65240
+   "views": 56881
+  },
+  {
+   "date": "2026-10-20",
+   "views": 60631
   }
  ],
- "wikipedia_title": "Osiris",
+ "wikipedia_title": "Kylie_Jenner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

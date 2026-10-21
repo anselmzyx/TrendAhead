@@ -1,197 +1,198 @@
 {
- "title": "The Diplomat (American TV series)",
- "slug": "the-diplomat-american-tv-series",
- "score": 50,
- "status": "Building",
- "change_percent": 579,
- "growth_ratio": 6.79,
- "recent_avg": 64379,
- "baseline_avg": 9478,
- "explanation": "Attention is 6.8\u00d7 its 30-day baseline.",
+ "title": "2026 Alberta independence referendum",
+ "slug": "2026-alberta-independence-referendum",
+ "score": 62,
+ "status": "Breaking out",
+ "change_percent": 1164,
+ "growth_ratio": 12.64,
+ "recent_avg": 39025,
+ "baseline_avg": 3088,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 54901,
- "latest": 61369,
+ "abs_change": 35937,
+ "latest": 78072,
  "components": {
-  "acceleration": 0.49,
-  "anomaly": 0.552,
+  "acceleration": 0.648,
+  "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 0.74,
-  "volume": 0.904,
-  "spike_quality": 0.904
+  "momentum": 1.0,
+  "volume": 0.796,
+  "spike_quality": 0.772
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 64,379 views/day over the last 3 days (30-day baseline: 9,478)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 39,025 views/day over the last 3 days (30-day baseline: 3,088)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 3403
-  },
-  {
    "date": "2026-09-11",
-   "views": 3531
+   "views": 968
   },
   {
    "date": "2026-09-12",
-   "views": 3597
+   "views": 966
   },
   {
    "date": "2026-09-13",
-   "views": 4464
+   "views": 1062
   },
   {
    "date": "2026-09-14",
-   "views": 5128
+   "views": 967
   },
   {
    "date": "2026-09-15",
-   "views": 32118
+   "views": 1059
   },
   {
    "date": "2026-09-16",
-   "views": 12868
+   "views": 1352
   },
   {
    "date": "2026-09-17",
-   "views": 9022
+   "views": 1179
   },
   {
    "date": "2026-09-18",
-   "views": 6612
+   "views": 970
   },
   {
    "date": "2026-09-19",
-   "views": 6690
+   "views": 1006
   },
   {
    "date": "2026-09-20",
-   "views": 7194
+   "views": 1312
   },
   {
    "date": "2026-09-21",
-   "views": 6604
+   "views": 1635
   },
   {
    "date": "2026-09-22",
-   "views": 5926
+   "views": 1830
   },
   {
    "date": "2026-09-23",
-   "views": 5440
+   "views": 2178
   },
   {
    "date": "2026-09-24",
-   "views": 5126
+   "views": 2284
   },
   {
    "date": "2026-09-25",
-   "views": 5422
+   "views": 1682
   },
   {
    "date": "2026-09-26",
-   "views": 6058
+   "views": 1500
   },
   {
    "date": "2026-09-27",
-   "views": 6935
+   "views": 1272
   },
   {
    "date": "2026-09-28",
-   "views": 6250
+   "views": 1073
   },
   {
    "date": "2026-09-29",
-   "views": 5591
+   "views": 1188
   },
   {
    "date": "2026-09-30",
-   "views": 5119
+   "views": 1110
   },
   {
    "date": "2026-10-01",
-   "views": 5665
+   "views": 1328
   },
   {
    "date": "2026-10-02",
-   "views": 6019
+   "views": 1326
   },
   {
    "date": "2026-10-03",
-   "views": 6584
+   "views": 1659
   },
   {
    "date": "2026-10-04",
-   "views": 6571
+   "views": 1962
   },
   {
    "date": "2026-10-05",
-   "views": 5814
+   "views": 2912
   },
   {
    "date": "2026-10-06",
-   "views": 5419
+   "views": 6338
   },
   {
    "date": "2026-10-07",
-   "views": 5428
+   "views": 3912
   },
   {
    "date": "2026-10-08",
-   "views": 7637
+   "views": 4006
   },
   {
    "date": "2026-10-09",
-   "views": 7737
+   "views": 2343
   },
   {
    "date": "2026-10-10",
-   "views": 7933
+   "views": 2344
   },
   {
    "date": "2026-10-11",
-   "views": 8367
+   "views": 3461
   },
   {
    "date": "2026-10-12",
-   "views": 9357
+   "views": 5758
   },
   {
    "date": "2026-10-13",
-   "views": 11761
+   "views": 7116
   },
   {
    "date": "2026-10-14",
-   "views": 11149
+   "views": 5493
   },
   {
    "date": "2026-10-15",
-   "views": 37953
+   "views": 5840
   },
   {
    "date": "2026-10-16",
-   "views": 52952
+   "views": 9575
   },
   {
    "date": "2026-10-17",
-   "views": 63563
+   "views": 8233
   },
   {
    "date": "2026-10-18",
-   "views": 68204
+   "views": 11837
   },
   {
    "date": "2026-10-19",
-   "views": 61369
+   "views": 27167
+  },
+  {
+   "date": "2026-10-20",
+   "views": 78072
   }
  ],
- "wikipedia_title": "The_Diplomat_(American_TV_series)",
+ "wikipedia_title": "2026_Alberta_independence_referendum",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

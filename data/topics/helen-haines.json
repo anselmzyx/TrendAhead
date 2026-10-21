@@ -1,37 +1,32 @@
 {
  "title": "Helen Haines",
  "slug": "helen-haines",
- "score": 41,
- "status": "Breaking out",
- "change_percent": 305942,
- "growth_ratio": 734.5,
- "recent_avg": 73450,
+ "score": 40,
+ "status": "Elevated",
+ "change_percent": 526638,
+ "growth_ratio": 1264.17,
+ "recent_avg": 126417,
  "baseline_avg": 24,
- "explanation": "Attention is 734\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 1264\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 73426,
- "latest": 220295,
+ "abs_change": 126393,
+ "latest": 158924,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 1.0,
-  "volume": 0.933,
-  "spike_quality": 0.5
+  "persistence": 0.32,
+  "momentum": 0.633,
+  "volume": 1.0,
+  "spike_quality": 0.605
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 73,450 views/day over the last 3 days (30-day baseline: 24)."
+  "Averaging 126,417 views/day over the last 3 days (30-day baseline: 24)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 279
-  },
   {
    "date": "2026-09-11",
    "views": 51
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-19",
    "views": 220295
+  },
+  {
+   "date": "2026-10-20",
+   "views": 158924
   }
  ],
  "wikipedia_title": "Helen_Haines",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

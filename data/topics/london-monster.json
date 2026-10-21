@@ -1,198 +1,197 @@
 {
- "title": "2026 French student protests",
- "slug": "2026-french-student-protests",
- "score": 83,
- "status": "Building",
- "change_percent": 20565,
- "growth_ratio": 206.89,
- "recent_avg": 70260,
- "baseline_avg": 340,
- "explanation": "Attention is 207\u00d7 its 30-day baseline.",
+ "title": "London Monster",
+ "slug": "london-monster",
+ "score": 40,
+ "status": "Breaking out",
+ "change_percent": 51225,
+ "growth_ratio": 246.36,
+ "recent_avg": 24636,
+ "baseline_avg": 48,
+ "explanation": "Attention is 246\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 69920,
- "latest": 101742,
+ "abs_change": 24588,
+ "latest": 72474,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 1.0,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.923,
-  "spike_quality": 0.815
+  "volume": 0.696,
+  "spike_quality": 0.513
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 70,260 views/day over the last 3 days (30-day baseline: 340)."
+  "Averaging 24,636 views/day over the last 3 days (30-day baseline: 48)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 0
-  },
-  {
    "date": "2026-09-11",
-   "views": 0
+   "views": 44
   },
   {
    "date": "2026-09-12",
-   "views": 0
+   "views": 45
   },
   {
    "date": "2026-09-13",
-   "views": 0
+   "views": 39
   },
   {
    "date": "2026-09-14",
-   "views": 0
+   "views": 59
   },
   {
    "date": "2026-09-15",
-   "views": 0
+   "views": 42
   },
   {
    "date": "2026-09-16",
-   "views": 0
+   "views": 43
   },
   {
    "date": "2026-09-17",
-   "views": 0
+   "views": 54
   },
   {
    "date": "2026-09-18",
-   "views": 0
+   "views": 45
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 44
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 37
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 47
   },
   {
    "date": "2026-09-22",
-   "views": 0
+   "views": 50
   },
   {
    "date": "2026-09-23",
-   "views": 0
+   "views": 36
   },
   {
    "date": "2026-09-24",
-   "views": 0
+   "views": 38
   },
   {
    "date": "2026-09-25",
-   "views": 0
+   "views": 32
   },
   {
    "date": "2026-09-26",
-   "views": 0
+   "views": 43
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 43
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 50
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 42
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 64
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 53
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 45
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 53
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 43
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 61
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 45
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 43
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 46
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 46
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 48
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 56
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 58
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 51
   },
   {
    "date": "2026-10-14",
-   "views": 2030
+   "views": 40
   },
   {
    "date": "2026-10-15",
-   "views": 3788
+   "views": 60
   },
   {
    "date": "2026-10-16",
-   "views": 4370
+   "views": 58
   },
   {
    "date": "2026-10-17",
-   "views": 22333
+   "views": 64
   },
   {
    "date": "2026-10-18",
-   "views": 86705
+   "views": 77
   },
   {
    "date": "2026-10-19",
-   "views": 101742
+   "views": 1357
+  },
+  {
+   "date": "2026-10-20",
+   "views": 72474
   }
  ],
- "wikipedia_title": "2026_French_student_protests",
+ "wikipedia_title": "London_Monster",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

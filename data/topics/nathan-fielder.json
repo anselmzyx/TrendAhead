@@ -1,38 +1,33 @@
 {
  "title": "Nathan Fielder",
  "slug": "nathan-fielder",
- "score": 59,
+ "score": 48,
  "status": "Building",
- "change_percent": 468,
- "growth_ratio": 5.68,
- "recent_avg": 96131,
- "baseline_avg": 16932,
- "explanation": "Attention is 5.7\u00d7 its 30-day baseline.",
+ "change_percent": 438,
+ "growth_ratio": 5.38,
+ "recent_avg": 102903,
+ "baseline_avg": 19114,
+ "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 79199,
- "latest": 115086,
+ "abs_change": 83789,
+ "latest": 98444,
  "components": {
-  "acceleration": 0.444,
-  "anomaly": 0.627,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.991,
-  "spike_quality": 0.909
+  "acceleration": 0.43,
+  "anomaly": 0.501,
+  "persistence": 0.92,
+  "momentum": 0.713,
+  "volume": 1.0,
+  "spike_quality": 0.869
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 96,131 views/day over the last 3 days (30-day baseline: 16,932)."
+  "Averaging 102,903 views/day over the last 3 days (30-day baseline: 19,114)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 53152
-  },
   {
    "date": "2026-09-11",
    "views": 36696
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 115086
+  },
+  {
+   "date": "2026-10-20",
+   "views": 98444
   }
  ],
  "wikipedia_title": "Nathan_Fielder",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

@@ -1,38 +1,33 @@
 {
  "title": "Elizabeth Holmes",
  "slug": "elizabeth-holmes",
- "score": 52,
- "status": "Building",
- "change_percent": 361,
- "growth_ratio": 4.61,
- "recent_avg": 259882,
- "baseline_avg": 56399,
- "explanation": "Attention is 4.6\u00d7 its 30-day baseline.",
+ "score": 44,
+ "status": "Elevated",
+ "change_percent": 335,
+ "growth_ratio": 4.35,
+ "recent_avg": 270821,
+ "baseline_avg": 62318,
+ "explanation": "Attention is 4.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 203483,
- "latest": 301284,
+ "abs_change": 208503,
+ "latest": 253155,
  "components": {
-  "acceleration": 0.391,
-  "anomaly": 0.402,
-  "persistence": 0.8,
-  "momentum": 1.0,
+  "acceleration": 0.376,
+  "anomaly": 0.357,
+  "persistence": 0.92,
+  "momentum": 0.704,
   "volume": 1.0,
-  "spike_quality": 0.921
+  "spike_quality": 0.868
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 259,882 views/day over the last 3 days (30-day baseline: 56,399)."
+  "Averaging 270,821 views/day over the last 3 days (30-day baseline: 62,318)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 162804
-  },
   {
    "date": "2026-09-11",
    "views": 112181
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 301284
+  },
+  {
+   "date": "2026-10-20",
+   "views": 253155
   }
  ],
  "wikipedia_title": "Elizabeth_Holmes",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "The Devils (film)",
- "slug": "the-devils-film",
- "score": 34,
- "status": "Elevated",
- "change_percent": 405,
- "growth_ratio": 5.05,
- "recent_avg": 42606,
- "baseline_avg": 8431,
- "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+ "title": "Cyberpunk: Edgerunners 2",
+ "slug": "cyberpunk-edgerunners-2",
+ "score": 53,
+ "status": "Breaking out",
+ "change_percent": 992,
+ "growth_ratio": 10.93,
+ "recent_avg": 22516,
+ "baseline_avg": 2061,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 34175,
- "latest": 36996,
+ "abs_change": 20455,
+ "latest": 51241,
  "components": {
-  "acceleration": 0.414,
-  "anomaly": 0.445,
+  "acceleration": 0.611,
+  "anomaly": 1.0,
   "persistence": 0.84,
-  "momentum": 0.541,
-  "volume": 0.815,
-  "spike_quality": 0.852
+  "momentum": 1.0,
+  "volume": 0.676,
+  "spike_quality": 0.738
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 42,606 views/day over the last 3 days (30-day baseline: 8,431)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 22,516 views/day over the last 3 days (30-day baseline: 2,061)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 3429
-  },
-  {
    "date": "2026-09-11",
-   "views": 5280
+   "views": 756
   },
   {
    "date": "2026-09-12",
-   "views": 3755
+   "views": 783
   },
   {
    "date": "2026-09-13",
-   "views": 3612
+   "views": 1022
   },
   {
    "date": "2026-09-14",
-   "views": 2900
+   "views": 1017
   },
   {
    "date": "2026-09-15",
-   "views": 2356
+   "views": 873
   },
   {
    "date": "2026-09-16",
-   "views": 4479
+   "views": 861
   },
   {
    "date": "2026-09-17",
-   "views": 11546
+   "views": 938
   },
   {
    "date": "2026-09-18",
-   "views": 7587
+   "views": 884
   },
   {
    "date": "2026-09-19",
-   "views": 3913
+   "views": 945
   },
   {
    "date": "2026-09-20",
-   "views": 4155
+   "views": 1156
   },
   {
    "date": "2026-09-21",
-   "views": 3165
+   "views": 1027
   },
   {
    "date": "2026-09-22",
-   "views": 3221
+   "views": 1429
   },
   {
    "date": "2026-09-23",
-   "views": 3575
+   "views": 1727
   },
   {
    "date": "2026-09-24",
-   "views": 4470
+   "views": 1478
   },
   {
    "date": "2026-09-25",
-   "views": 3424
+   "views": 1370
   },
   {
    "date": "2026-09-26",
-   "views": 3330
+   "views": 1278
   },
   {
    "date": "2026-09-27",
-   "views": 3560
+   "views": 1398
   },
   {
    "date": "2026-09-28",
-   "views": 3652
+   "views": 1341
   },
   {
    "date": "2026-09-29",
-   "views": 3073
+   "views": 1435
   },
   {
    "date": "2026-09-30",
-   "views": 2846
+   "views": 1183
   },
   {
    "date": "2026-10-01",
-   "views": 3196
+   "views": 1036
   },
   {
    "date": "2026-10-02",
-   "views": 5247
+   "views": 1774
   },
   {
    "date": "2026-10-03",
-   "views": 4568
+   "views": 1155
   },
   {
    "date": "2026-10-04",
-   "views": 5151
+   "views": 1241
   },
   {
    "date": "2026-10-05",
-   "views": 5601
+   "views": 1255
   },
   {
    "date": "2026-10-06",
-   "views": 6301
+   "views": 1735
   },
   {
    "date": "2026-10-07",
-   "views": 11265
+   "views": 2549
   },
   {
    "date": "2026-10-08",
-   "views": 19910
+   "views": 2512
   },
   {
    "date": "2026-10-09",
-   "views": 15359
+   "views": 2556
   },
   {
    "date": "2026-10-10",
-   "views": 7598
+   "views": 2257
   },
   {
    "date": "2026-10-11",
-   "views": 8031
+   "views": 2403
   },
   {
    "date": "2026-10-12",
-   "views": 11794
+   "views": 2620
   },
   {
    "date": "2026-10-13",
-   "views": 13700
+   "views": 3086
   },
   {
    "date": "2026-10-14",
-   "views": 14016
+   "views": 4428
   },
   {
    "date": "2026-10-15",
-   "views": 19496
+   "views": 5796
   },
   {
    "date": "2026-10-16",
-   "views": 40182
+   "views": 4556
   },
   {
    "date": "2026-10-17",
-   "views": 46797
+   "views": 4208
   },
   {
    "date": "2026-10-18",
-   "views": 44024
+   "views": 5375
   },
   {
    "date": "2026-10-19",
-   "views": 36996
+   "views": 10931
+  },
+  {
+   "date": "2026-10-20",
+   "views": 51241
   }
  ],
- "wikipedia_title": "The_Devils_(film)",
+ "wikipedia_title": "Cyberpunk:_Edgerunners_2",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

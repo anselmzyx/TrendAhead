@@ -1,38 +1,33 @@
 {
  "title": "Theranos",
  "slug": "theranos",
- "score": 46,
- "status": "Building",
- "change_percent": 298,
- "growth_ratio": 3.98,
- "recent_avg": 58944,
- "baseline_avg": 14828,
- "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
+ "score": 39,
+ "status": "Elevated",
+ "change_percent": 287,
+ "growth_ratio": 3.87,
+ "recent_avg": 62352,
+ "baseline_avg": 16098,
+ "explanation": "Attention is 3.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 44116,
- "latest": 69883,
+ "abs_change": 46254,
+ "latest": 58296,
  "components": {
-  "acceleration": 0.353,
-  "anomaly": 0.311,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.885,
-  "spike_quality": 0.915
+  "acceleration": 0.346,
+  "anomaly": 0.301,
+  "persistence": 0.92,
+  "momentum": 0.701,
+  "volume": 0.897,
+  "spike_quality": 0.861
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 58,944 views/day over the last 3 days (30-day baseline: 14,828)."
+  "Averaging 62,352 views/day over the last 3 days (30-day baseline: 16,098)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 24794
-  },
   {
    "date": "2026-09-11",
    "views": 17227
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 69883
+  },
+  {
+   "date": "2026-10-20",
+   "views": 58296
   }
  ],
  "wikipedia_title": "Theranos",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

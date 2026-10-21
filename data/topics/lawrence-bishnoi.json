@@ -1,37 +1,33 @@
 {
  "title": "Lawrence Bishnoi",
  "slug": "lawrence-bishnoi",
- "score": 46,
- "status": "Breaking out",
- "change_percent": 1698,
- "growth_ratio": 17.98,
- "recent_avg": 61150,
- "baseline_avg": 3401,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "score": 30,
+ "status": "Peaked / fading",
+ "change_percent": 2568,
+ "growth_ratio": 26.67,
+ "recent_avg": 80030,
+ "baseline_avg": 3000,
+ "explanation": "Attention surged to 27\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 57749,
- "latest": 135745,
+ "abs_change": 77030,
+ "latest": 58533,
  "components": {
-  "acceleration": 0.739,
+  "acceleration": 0.839,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.893,
-  "spike_quality": 0.676
+  "persistence": 0.52,
+  "momentum": 0.459,
+  "volume": 0.952,
+  "spike_quality": 0.481
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,150 views/day over the last 3 days (30-day baseline: 3,401)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 80,030 views/day over the last 3 days (30-day baseline: 3,000)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 1123
-  },
   {
    "date": "2026-09-11",
    "views": 961
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 135745
+  },
+  {
+   "date": "2026-10-20",
+   "views": 58533
   }
  ],
  "wikipedia_title": "Lawrence_Bishnoi",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

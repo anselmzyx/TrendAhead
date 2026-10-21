@@ -1,197 +1,197 @@
 {
- "title": "Georgina Cates",
- "slug": "georgina-cates",
+ "title": "Cole Sprouse",
+ "slug": "cole-sprouse",
  "score": 33,
- "status": "Peaked / fading",
- "change_percent": 9694,
- "growth_ratio": 97.8,
- "recent_avg": 33495,
- "baseline_avg": 342,
- "explanation": "Attention surged to 98\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "status": "Breaking out",
+ "change_percent": 779,
+ "growth_ratio": 8.79,
+ "recent_avg": 32759,
+ "baseline_avg": 3727,
+ "explanation": "Attention is 8.8\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 33153,
- "latest": 27805,
+ "abs_change": 29032,
+ "latest": 42847,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.556,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.514,
-  "volume": 0.762,
-  "spike_quality": 0.54
+  "persistence": 0.32,
+  "momentum": 0.713,
+  "volume": 0.758,
+  "spike_quality": 0.749
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 33,495 views/day over the last 3 days (30-day baseline: 342)."
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 32,759 views/day over the last 3 days (30-day baseline: 3,727)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 216
-  },
-  {
    "date": "2026-09-11",
-   "views": 212
+   "views": 2719
   },
   {
    "date": "2026-09-12",
-   "views": 326
+   "views": 3014
   },
   {
    "date": "2026-09-13",
-   "views": 321
+   "views": 3540
   },
   {
    "date": "2026-09-14",
-   "views": 281
+   "views": 2706
   },
   {
    "date": "2026-09-15",
-   "views": 212
+   "views": 2444
   },
   {
    "date": "2026-09-16",
-   "views": 199
+   "views": 2702
   },
   {
    "date": "2026-09-17",
-   "views": 265
+   "views": 2744
   },
   {
    "date": "2026-09-18",
-   "views": 193
+   "views": 2908
   },
   {
    "date": "2026-09-19",
-   "views": 490
+   "views": 3033
   },
   {
    "date": "2026-09-20",
-   "views": 370
+   "views": 3310
   },
   {
    "date": "2026-09-21",
-   "views": 231
+   "views": 2742
   },
   {
    "date": "2026-09-22",
-   "views": 209
+   "views": 2547
   },
   {
    "date": "2026-09-23",
-   "views": 212
+   "views": 3053
   },
   {
    "date": "2026-09-24",
-   "views": 171
+   "views": 3534
   },
   {
    "date": "2026-09-25",
-   "views": 202
+   "views": 3423
   },
   {
    "date": "2026-09-26",
-   "views": 220
+   "views": 3889
   },
   {
    "date": "2026-09-27",
-   "views": 318
+   "views": 4447
   },
   {
    "date": "2026-09-28",
-   "views": 210
+   "views": 4190
   },
   {
    "date": "2026-09-29",
-   "views": 221
+   "views": 8760
   },
   {
    "date": "2026-09-30",
-   "views": 199
+   "views": 4908
   },
   {
    "date": "2026-10-01",
-   "views": 224
+   "views": 3481
   },
   {
    "date": "2026-10-02",
-   "views": 272
+   "views": 3449
   },
   {
    "date": "2026-10-03",
-   "views": 263
+   "views": 4021
   },
   {
    "date": "2026-10-04",
-   "views": 379
+   "views": 3900
   },
   {
    "date": "2026-10-05",
-   "views": 326
+   "views": 3342
   },
   {
    "date": "2026-10-06",
-   "views": 372
+   "views": 3797
   },
   {
    "date": "2026-10-07",
-   "views": 677
+   "views": 3598
   },
   {
    "date": "2026-10-08",
-   "views": 470
+   "views": 3487
   },
   {
    "date": "2026-10-09",
-   "views": 559
+   "views": 3531
   },
   {
    "date": "2026-10-10",
-   "views": 546
+   "views": 4665
   },
   {
    "date": "2026-10-11",
-   "views": 630
+   "views": 3970
   },
   {
    "date": "2026-10-12",
-   "views": 498
+   "views": 3579
   },
   {
    "date": "2026-10-13",
-   "views": 461
+   "views": 2990
   },
   {
    "date": "2026-10-14",
-   "views": 358
+   "views": 3620
   },
   {
    "date": "2026-10-15",
-   "views": 364
+   "views": 2773
   },
   {
    "date": "2026-10-16",
-   "views": 365
+   "views": 2884
   },
   {
    "date": "2026-10-17",
-   "views": 19468
+   "views": 3992
   },
   {
    "date": "2026-10-18",
-   "views": 53213
+   "views": 5344
   },
   {
    "date": "2026-10-19",
-   "views": 27805
+   "views": 50086
+  },
+  {
+   "date": "2026-10-20",
+   "views": 42847
   }
  ],
- "wikipedia_title": "Georgina_Cates",
+ "wikipedia_title": "Cole_Sprouse",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

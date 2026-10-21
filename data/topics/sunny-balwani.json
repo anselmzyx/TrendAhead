@@ -1,38 +1,33 @@
 {
  "title": "Sunny Balwani",
  "slug": "sunny-balwani",
- "score": 52,
- "status": "Building",
- "change_percent": 427,
- "growth_ratio": 5.27,
- "recent_avg": 50105,
- "baseline_avg": 9511,
- "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
+ "score": 39,
+ "status": "Elevated",
+ "change_percent": 379,
+ "growth_ratio": 4.79,
+ "recent_avg": 50873,
+ "baseline_avg": 10625,
+ "explanation": "Attention is 4.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 40594,
- "latest": 57108,
+ "abs_change": 40248,
+ "latest": 43683,
  "components": {
-  "acceleration": 0.425,
-  "anomaly": 0.539,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.85,
-  "spike_quality": 0.915
+  "acceleration": 0.4,
+  "anomaly": 0.426,
+  "persistence": 0.92,
+  "momentum": 0.659,
+  "volume": 0.853,
+  "spike_quality": 0.825
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 50,105 views/day over the last 3 days (30-day baseline: 9,511)."
+  "Averaging 50,873 views/day over the last 3 days (30-day baseline: 10,625)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 21969
-  },
   {
    "date": "2026-09-11",
    "views": 15430
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-19",
    "views": 57108
+  },
+  {
+   "date": "2026-10-20",
+   "views": 43683
   }
  ],
  "wikipedia_title": "Sunny_Balwani",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

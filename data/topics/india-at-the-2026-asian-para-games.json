@@ -1,197 +1,198 @@
 {
- "title": "Love of Your Life (film)",
- "slug": "love-of-your-life-film",
- "score": 36,
- "status": "Peaked / fading",
- "change_percent": 953,
- "growth_ratio": 10.53,
- "recent_avg": 74509,
- "baseline_avg": 7078,
- "explanation": "Attention surged to 11\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "India at the 2026 Asian Para Games",
+ "slug": "india-at-the-2026-asian-para-games",
+ "score": 70,
+ "status": "Building",
+ "change_percent": 2553,
+ "growth_ratio": 26.53,
+ "recent_avg": 32925,
+ "baseline_avg": 1241,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 67431,
- "latest": 52692,
+ "abs_change": 31684,
+ "latest": 53500,
  "components": {
-  "acceleration": 0.602,
-  "anomaly": 0.496,
-  "persistence": 0.84,
-  "momentum": 0.523,
-  "volume": 0.936,
-  "spike_quality": 0.697
+  "acceleration": 0.838,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.759,
+  "spike_quality": 0.807
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 74,509 views/day over the last 3 days (30-day baseline: 7,078)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 32,925 views/day over the last 3 days (30-day baseline: 1,241)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 20525
-  },
-  {
    "date": "2026-09-11",
-   "views": 8184
+   "views": 144
   },
   {
    "date": "2026-09-12",
-   "views": 5712
+   "views": 164
   },
   {
    "date": "2026-09-13",
-   "views": 4482
+   "views": 164
   },
   {
    "date": "2026-09-14",
-   "views": 7279
+   "views": 160
   },
   {
    "date": "2026-09-15",
-   "views": 4287
+   "views": 164
   },
   {
    "date": "2026-09-16",
-   "views": 2909
+   "views": 166
   },
   {
    "date": "2026-09-17",
-   "views": 2704
+   "views": 188
   },
   {
    "date": "2026-09-18",
-   "views": 2272
+   "views": 213
   },
   {
    "date": "2026-09-19",
-   "views": 2154
+   "views": 199
   },
   {
    "date": "2026-09-20",
-   "views": 2184
+   "views": 389
   },
   {
    "date": "2026-09-21",
-   "views": 2412
+   "views": 391
   },
   {
    "date": "2026-09-22",
-   "views": 1956
+   "views": 366
   },
   {
    "date": "2026-09-23",
-   "views": 1809
+   "views": 356
   },
   {
    "date": "2026-09-24",
-   "views": 1665
+   "views": 333
   },
   {
    "date": "2026-09-25",
-   "views": 1718
+   "views": 362
   },
   {
    "date": "2026-09-26",
-   "views": 1852
+   "views": 465
   },
   {
    "date": "2026-09-27",
-   "views": 2036
+   "views": 425
   },
   {
    "date": "2026-09-28",
-   "views": 2051
+   "views": 478
   },
   {
    "date": "2026-09-29",
-   "views": 1965
+   "views": 626
   },
   {
    "date": "2026-09-30",
-   "views": 2006
+   "views": 647
   },
   {
    "date": "2026-10-01",
-   "views": 1963
+   "views": 669
   },
   {
    "date": "2026-10-02",
-   "views": 1924
+   "views": 1060
   },
   {
    "date": "2026-10-03",
-   "views": 1950
+   "views": 1746
   },
   {
    "date": "2026-10-04",
-   "views": 2130
+   "views": 1563
   },
   {
    "date": "2026-10-05",
-   "views": 2891
+   "views": 1238
   },
   {
    "date": "2026-10-06",
-   "views": 3486
+   "views": 833
   },
   {
    "date": "2026-10-07",
-   "views": 4645
+   "views": 1621
   },
   {
    "date": "2026-10-08",
-   "views": 5080
+   "views": 1994
   },
   {
    "date": "2026-10-09",
-   "views": 4562
+   "views": 1398
   },
   {
    "date": "2026-10-10",
-   "views": 4189
+   "views": 1167
   },
   {
    "date": "2026-10-11",
-   "views": 3717
+   "views": 1177
   },
   {
    "date": "2026-10-12",
-   "views": 3529
+   "views": 1635
   },
   {
    "date": "2026-10-13",
-   "views": 4266
+   "views": 1864
   },
   {
    "date": "2026-10-14",
-   "views": 31810
+   "views": 1717
   },
   {
    "date": "2026-10-15",
-   "views": 58527
+   "views": 1917
   },
   {
    "date": "2026-10-16",
-   "views": 48885
+   "views": 4420
   },
   {
    "date": "2026-10-17",
-   "views": 73069
+   "views": 5964
   },
   {
    "date": "2026-10-18",
-   "views": 97766
+   "views": 7011
   },
   {
    "date": "2026-10-19",
-   "views": 52692
+   "views": 38265
+  },
+  {
+   "date": "2026-10-20",
+   "views": 53500
   }
  ],
- "wikipedia_title": "Love_of_Your_Life_(film)",
+ "wikipedia_title": "India_at_the_2026_Asian_Para_Games",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

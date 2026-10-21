@@ -1,197 +1,196 @@
 {
- "title": "Tiger Shroff",
- "slug": "tiger-shroff",
- "score": 48,
+ "title": "Billy Evans (entrepreneur)",
+ "slug": "billy-evans-entrepreneur",
+ "score": 29,
  "status": "Breaking out",
- "change_percent": 2841,
- "growth_ratio": 29.4,
- "recent_avg": 36585,
- "baseline_avg": 1244,
- "explanation": "Attention is 29\u00d7 its 30-day baseline.",
+ "change_percent": null,
+ "growth_ratio": 173.52,
+ "recent_avg": 17352,
+ "baseline_avg": 0,
+ "explanation": "Attention is 174\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35341,
- "latest": 77172,
+ "abs_change": 17352,
+ "latest": 52056,
  "components": {
-  "acceleration": 0.864,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.782,
-  "spike_quality": 0.69
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.62,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 36,585 views/day over the last 3 days (30-day baseline: 1,244)."
+  "Averaging 17,352 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-10",
-   "views": 934
-  },
-  {
    "date": "2026-09-11",
-   "views": 999
+   "views": 0
   },
   {
    "date": "2026-09-12",
-   "views": 1036
+   "views": 0
   },
   {
    "date": "2026-09-13",
-   "views": 1100
+   "views": 0
   },
   {
    "date": "2026-09-14",
-   "views": 1114
+   "views": 0
   },
   {
    "date": "2026-09-15",
-   "views": 1088
+   "views": 0
   },
   {
    "date": "2026-09-16",
-   "views": 1076
+   "views": 0
   },
   {
    "date": "2026-09-17",
-   "views": 1060
+   "views": 0
   },
   {
    "date": "2026-09-18",
-   "views": 1073
+   "views": 0
   },
   {
    "date": "2026-09-19",
-   "views": 1045
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 1182
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 1055
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 965
+   "views": 0
   },
   {
    "date": "2026-09-23",
-   "views": 1015
+   "views": 0
   },
   {
    "date": "2026-09-24",
-   "views": 1101
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 2051
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 1399
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 1609
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 1226
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 1118
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 1229
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 1206
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 1235
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 1421
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 1540
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 1381
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 1109
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 1066
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 1394
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 1340
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 1217
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 1311
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 1177
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 1038
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 937
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 1437
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 1395
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 1592
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 30990
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 77172
+   "views": 0
+  },
+  {
+   "date": "2026-10-20",
+   "views": 52056
   }
  ],
- "wikipedia_title": "Tiger_Shroff",
+ "wikipedia_title": "Billy_Evans_(entrepreneur)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

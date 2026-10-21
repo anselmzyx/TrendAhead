@@ -1,37 +1,34 @@
 {
  "title": "Kim Jong Un",
  "slug": "kim-jong-un",
- "score": 43,
+ "score": 65,
  "status": "Breaking out",
- "change_percent": 1277,
- "growth_ratio": 13.77,
- "recent_avg": 69580,
- "baseline_avg": 5053,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "change_percent": 3325,
+ "growth_ratio": 34.25,
+ "recent_avg": 174667,
+ "baseline_avg": 5100,
+ "explanation": "Attention is 34\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 64527,
- "latest": 191702,
+ "abs_change": 169567,
+ "latest": 321739,
  "components": {
-  "acceleration": 0.67,
+  "acceleration": 0.903,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 0.921,
-  "spike_quality": 0.593
+  "volume": 1.0,
+  "spike_quality": 0.739
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 69,580 views/day over the last 3 days (30-day baseline: 5,053)."
+  "Averaging 174,667 views/day over the last 3 days (30-day baseline: 5,100)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 6104
-  },
   {
    "date": "2026-09-11",
    "views": 5333
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-19",
    "views": 191702
+  },
+  {
+   "date": "2026-10-20",
+   "views": 321739
   }
  ],
  "wikipedia_title": "Kim_Jong_Un",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }

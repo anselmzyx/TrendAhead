@@ -1,37 +1,34 @@
 {
  "title": "Richard Riehle",
  "slug": "richard-riehle",
- "score": 41,
+ "score": 69,
  "status": "Breaking out",
- "change_percent": 7748,
- "growth_ratio": 78.57,
- "recent_avg": 33041,
- "baseline_avg": 421,
- "explanation": "Attention is 79\u00d7 its 30-day baseline.",
+ "change_percent": 15417,
+ "growth_ratio": 155.06,
+ "recent_avg": 66723,
+ "baseline_avg": 430,
+ "explanation": "Attention is 155\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32620,
- "latest": 97764,
+ "abs_change": 66293,
+ "latest": 101727,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.867,
-  "volume": 0.76,
-  "spike_quality": 0.518
+  "persistence": 0.72,
+  "momentum": 0.933,
+  "volume": 0.912,
+  "spike_quality": 0.79
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 33,041 views/day over the last 3 days (30-day baseline: 421)."
+  "Averaging 66,723 views/day over the last 3 days (30-day baseline: 430)."
  ],
  "history": [
-  {
-   "date": "2026-09-10",
-   "views": 340
-  },
   {
    "date": "2026-09-11",
    "views": 353
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-19",
    "views": 97764
+  },
+  {
+   "date": "2026-10-20",
+   "views": 101727
   }
  ],
  "wikipedia_title": "Richard_Riehle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-19",
- "generated_at_utc": "2026-10-20T10:23:06+00:00"
+ "data_through": "2026-10-20",
+ "generated_at_utc": "2026-10-21T10:32:10+00:00"
 }
