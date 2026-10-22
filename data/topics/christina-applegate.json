@@ -1,197 +1,197 @@
 {
- "title": "Sunny Balwani",
- "slug": "sunny-balwani",
- "score": 39,
- "status": "Elevated",
- "change_percent": 379,
- "growth_ratio": 4.79,
- "recent_avg": 50873,
- "baseline_avg": 10625,
- "explanation": "Attention is 4.8\u00d7 its 30-day baseline.",
+ "title": "Christina Applegate",
+ "slug": "christina-applegate",
+ "score": 31,
+ "status": "Breaking out",
+ "change_percent": 643,
+ "growth_ratio": 7.43,
+ "recent_avg": 36669,
+ "baseline_avg": 4938,
+ "explanation": "Attention is 7.4\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 40248,
- "latest": 43683,
+ "abs_change": 31731,
+ "latest": 48894,
  "components": {
-  "acceleration": 0.4,
-  "anomaly": 0.426,
-  "persistence": 0.92,
-  "momentum": 0.659,
-  "volume": 0.853,
-  "spike_quality": 0.825
+  "acceleration": 0.512,
+  "anomaly": 1.0,
+  "persistence": 0.32,
+  "momentum": 0.645,
+  "volume": 0.782,
+  "spike_quality": 0.744
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 50,873 views/day over the last 3 days (30-day baseline: 10,625)."
+  "Averaging 36,669 views/day over the last 3 days (30-day baseline: 4,938)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 15430
-  },
-  {
    "date": "2026-09-12",
-   "views": 13918
+   "views": 4114
   },
   {
    "date": "2026-09-13",
-   "views": 12750
+   "views": 4711
   },
   {
    "date": "2026-09-14",
-   "views": 12916
+   "views": 4493
   },
   {
    "date": "2026-09-15",
-   "views": 10365
+   "views": 4796
   },
   {
    "date": "2026-09-16",
-   "views": 9487
+   "views": 5400
   },
   {
    "date": "2026-09-17",
-   "views": 7951
+   "views": 5669
   },
   {
    "date": "2026-09-18",
-   "views": 8404
+   "views": 6808
   },
   {
    "date": "2026-09-19",
-   "views": 7098
+   "views": 8824
   },
   {
    "date": "2026-09-20",
-   "views": 7053
+   "views": 5925
   },
   {
    "date": "2026-09-21",
-   "views": 5761
+   "views": 7914
   },
   {
    "date": "2026-09-22",
-   "views": 5697
+   "views": 11302
   },
   {
    "date": "2026-09-23",
-   "views": 29116
+   "views": 6962
   },
   {
    "date": "2026-09-24",
-   "views": 33972
+   "views": 4854
   },
   {
    "date": "2026-09-25",
-   "views": 19933
+   "views": 4398
   },
   {
    "date": "2026-09-26",
-   "views": 13854
+   "views": 4595
   },
   {
    "date": "2026-09-27",
-   "views": 10996
+   "views": 4358
   },
   {
    "date": "2026-09-28",
-   "views": 9048
+   "views": 4470
   },
   {
    "date": "2026-09-29",
-   "views": 7018
+   "views": 4426
   },
   {
    "date": "2026-09-30",
-   "views": 5810
+   "views": 3753
   },
   {
    "date": "2026-10-01",
-   "views": 6351
+   "views": 4801
   },
   {
    "date": "2026-10-02",
-   "views": 7155
+   "views": 4037
   },
   {
    "date": "2026-10-03",
-   "views": 6715
+   "views": 4351
   },
   {
    "date": "2026-10-04",
-   "views": 6131
+   "views": 4587
   },
   {
    "date": "2026-10-05",
-   "views": 5134
+   "views": 4147
   },
   {
    "date": "2026-10-06",
-   "views": 4712
+   "views": 3793
   },
   {
    "date": "2026-10-07",
-   "views": 5416
+   "views": 3690
   },
   {
    "date": "2026-10-08",
-   "views": 5561
+   "views": 3436
   },
   {
    "date": "2026-10-09",
-   "views": 5075
+   "views": 4042
   },
   {
    "date": "2026-10-10",
-   "views": 4336
+   "views": 4300
   },
   {
    "date": "2026-10-11",
-   "views": 4435
+   "views": 4825
   },
   {
    "date": "2026-10-12",
-   "views": 4624
+   "views": 5252
   },
   {
    "date": "2026-10-13",
-   "views": 6086
+   "views": 5461
   },
   {
    "date": "2026-10-14",
-   "views": 6033
+   "views": 4058
   },
   {
    "date": "2026-10-15",
-   "views": 9175
+   "views": 3865
   },
   {
    "date": "2026-10-16",
-   "views": 26672
+   "views": 3614
   },
   {
    "date": "2026-10-17",
-   "views": 41378
+   "views": 4048
   },
   {
    "date": "2026-10-18",
-   "views": 51828
+   "views": 4064
   },
   {
    "date": "2026-10-19",
-   "views": 57108
+   "views": 3807
   },
   {
    "date": "2026-10-20",
-   "views": 43683
+   "views": 57306
+  },
+  {
+   "date": "2026-10-21",
+   "views": 48894
   }
  ],
- "wikipedia_title": "Sunny_Balwani",
+ "wikipedia_title": "Christina_Applegate",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

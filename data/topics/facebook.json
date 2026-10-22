@@ -1,197 +1,197 @@
 {
- "title": "Elizabeth Holmes",
- "slug": "elizabeth-holmes",
- "score": 44,
- "status": "Elevated",
- "change_percent": 335,
- "growth_ratio": 4.35,
- "recent_avg": 270821,
- "baseline_avg": 62318,
- "explanation": "Attention is 4.3\u00d7 its 30-day baseline.",
+ "title": "Facebook",
+ "slug": "facebook",
+ "score": 38,
+ "status": "Building",
+ "change_percent": 101,
+ "growth_ratio": 2.01,
+ "recent_avg": 35273,
+ "baseline_avg": 17559,
+ "explanation": "Attention is 2.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 208503,
- "latest": 253155,
+ "abs_change": 17714,
+ "latest": 37617,
  "components": {
-  "acceleration": 0.376,
-  "anomaly": 0.357,
-  "persistence": 0.92,
-  "momentum": 0.704,
-  "volume": 1.0,
-  "spike_quality": 0.868
+  "acceleration": 0.178,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.781,
+  "volume": 0.774,
+  "spike_quality": 0.941
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 270,821 views/day over the last 3 days (30-day baseline: 62,318)."
+  "Averaging 35,273 views/day over the last 3 days (30-day baseline: 17,559)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 112181
-  },
-  {
    "date": "2026-09-12",
-   "views": 88686
+   "views": 15344
   },
   {
    "date": "2026-09-13",
-   "views": 75506
+   "views": 14357
   },
   {
    "date": "2026-09-14",
-   "views": 77193
+   "views": 16289
   },
   {
    "date": "2026-09-15",
-   "views": 59313
+   "views": 16375
   },
   {
    "date": "2026-09-16",
-   "views": 48605
+   "views": 16817
   },
   {
    "date": "2026-09-17",
-   "views": 42752
+   "views": 17084
   },
   {
    "date": "2026-09-18",
-   "views": 44498
+   "views": 17112
   },
   {
    "date": "2026-09-19",
-   "views": 35936
+   "views": 15505
   },
   {
    "date": "2026-09-20",
-   "views": 32086
+   "views": 15489
   },
   {
    "date": "2026-09-21",
-   "views": 27187
+   "views": 21752
   },
   {
    "date": "2026-09-22",
-   "views": 26953
+   "views": 18720
   },
   {
    "date": "2026-09-23",
-   "views": 184994
+   "views": 18512
   },
   {
    "date": "2026-09-24",
-   "views": 220098
+   "views": 19335
   },
   {
    "date": "2026-09-25",
-   "views": 130591
+   "views": 18761
   },
   {
    "date": "2026-09-26",
-   "views": 88434
+   "views": 16907
   },
   {
    "date": "2026-09-27",
-   "views": 62349
+   "views": 17022
   },
   {
    "date": "2026-09-28",
-   "views": 49703
+   "views": 18444
   },
   {
    "date": "2026-09-29",
-   "views": 37454
+   "views": 18724
   },
   {
    "date": "2026-09-30",
-   "views": 30813
+   "views": 17585
   },
   {
    "date": "2026-10-01",
-   "views": 36842
+   "views": 18292
   },
   {
    "date": "2026-10-02",
-   "views": 44346
+   "views": 18457
   },
   {
    "date": "2026-10-03",
-   "views": 42148
+   "views": 16893
   },
   {
    "date": "2026-10-04",
-   "views": 35590
+   "views": 16983
   },
   {
    "date": "2026-10-05",
-   "views": 27405
+   "views": 17202
   },
   {
    "date": "2026-10-06",
-   "views": 24861
+   "views": 15657
   },
   {
    "date": "2026-10-07",
-   "views": 32430
+   "views": 15807
   },
   {
    "date": "2026-10-08",
-   "views": 31566
+   "views": 17099
   },
   {
    "date": "2026-10-09",
-   "views": 27967
+   "views": 16946
   },
   {
    "date": "2026-10-10",
-   "views": 24638
+   "views": 16331
   },
   {
    "date": "2026-10-11",
-   "views": 23796
+   "views": 16324
   },
   {
    "date": "2026-10-12",
-   "views": 24763
+   "views": 16761
   },
   {
    "date": "2026-10-13",
-   "views": 35767
+   "views": 16791
   },
   {
    "date": "2026-10-14",
-   "views": 36895
+   "views": 17354
   },
   {
    "date": "2026-10-15",
-   "views": 54763
+   "views": 17510
   },
   {
    "date": "2026-10-16",
-   "views": 174341
+   "views": 17694
   },
   {
    "date": "2026-10-17",
-   "views": 220338
+   "views": 18375
   },
   {
    "date": "2026-10-18",
-   "views": 258023
+   "views": 19526
   },
   {
    "date": "2026-10-19",
-   "views": 301284
+   "views": 29371
   },
   {
    "date": "2026-10-20",
-   "views": 253155
+   "views": 38832
+  },
+  {
+   "date": "2026-10-21",
+   "views": 37617
   }
  ],
- "wikipedia_title": "Elizabeth_Holmes",
+ "wikipedia_title": "Facebook",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

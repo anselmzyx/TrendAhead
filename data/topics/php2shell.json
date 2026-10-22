@@ -1,196 +1,196 @@
 {
- "title": "Barbara Palvin",
- "slug": "barbara-palvin",
- "score": 46,
- "status": "Elevated",
- "change_percent": 2630,
- "growth_ratio": 27.3,
- "recent_avg": 87308,
- "baseline_avg": 3198,
- "explanation": "Attention is 27\u00d7 its 30-day baseline.",
+ "title": "PHP2Shell",
+ "slug": "php2shell",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": null,
+ "growth_ratio": 794.04,
+ "recent_avg": 79404,
+ "baseline_avg": 0,
+ "explanation": "Attention is 794\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 84110,
- "latest": 104012,
+ "abs_change": 79404,
+ "latest": 238212,
  "components": {
-  "acceleration": 0.845,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.627,
-  "volume": 0.971,
-  "spike_quality": 0.633
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.95,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 87,308 views/day over the last 3 days (30-day baseline: 3,198)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 79,404 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 2013
-  },
-  {
    "date": "2026-09-12",
-   "views": 2330
+   "views": 0
   },
   {
    "date": "2026-09-13",
-   "views": 2072
+   "views": 0
   },
   {
    "date": "2026-09-14",
-   "views": 1768
+   "views": 0
   },
   {
    "date": "2026-09-15",
-   "views": 1685
+   "views": 0
   },
   {
    "date": "2026-09-16",
-   "views": 1682
+   "views": 0
   },
   {
    "date": "2026-09-17",
-   "views": 1825
+   "views": 0
   },
   {
    "date": "2026-09-18",
-   "views": 1943
+   "views": 0
   },
   {
    "date": "2026-09-19",
-   "views": 1847
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 1914
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 1700
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 1595
+   "views": 0
   },
   {
    "date": "2026-09-23",
-   "views": 1771
+   "views": 0
   },
   {
    "date": "2026-09-24",
-   "views": 1685
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 1759
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 2200
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 2262
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 3503
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 11811
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 5214
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 2947
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 2565
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 2409
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 2198
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 2402
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 2265
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 2133
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 2869
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 4650
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 7258
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 4002
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 2976
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 2312
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 2915
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 2452
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 3715
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 6657
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 11885
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 146026
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 104012
+   "views": 0
+  },
+  {
+   "date": "2026-10-21",
+   "views": 238212
   }
  ],
- "wikipedia_title": "Barbara_Palvin",
+ "wikipedia_title": "PHP2Shell",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

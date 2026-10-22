@@ -1,38 +1,33 @@
 {
  "title": "Kylie Jenner",
  "slug": "kylie-jenner",
- "score": 45,
- "status": "Breaking out",
- "change_percent": 568,
- "growth_ratio": 6.68,
- "recent_avg": 41597,
- "baseline_avg": 6226,
- "explanation": "Attention is 6.7\u00d7 its 30-day baseline.",
+ "score": 37,
+ "status": "Elevated",
+ "change_percent": 741,
+ "growth_ratio": 8.41,
+ "recent_avg": 53109,
+ "baseline_avg": 6312,
+ "explanation": "Attention is 8.4\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35371,
- "latest": 60631,
+ "abs_change": 46797,
+ "latest": 41816,
  "components": {
-  "acceleration": 0.485,
+  "acceleration": 0.544,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.81,
-  "spike_quality": 0.853
+  "persistence": 0.52,
+  "momentum": 0.614,
+  "volume": 0.863,
+  "spike_quality": 0.741
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 41,597 views/day over the last 3 days (30-day baseline: 6,226)."
+  "Averaging 53,109 views/day over the last 3 days (30-day baseline: 6,312)."
  ],
  "history": [
-  {
-   "date": "2026-09-11",
-   "views": 4651
-  },
   {
    "date": "2026-09-12",
    "views": 4733
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-20",
    "views": 60631
+  },
+  {
+   "date": "2026-10-21",
+   "views": 41816
   }
  ],
  "wikipedia_title": "Kylie_Jenner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Luke McCaffrey",
- "slug": "luke-mccaffrey",
- "score": 48,
+ "title": "Billy Evans (businessman)",
+ "slug": "billy-evans-businessman",
+ "score": 39,
  "status": "Breaking out",
- "change_percent": 5571,
- "growth_ratio": 56.71,
- "recent_avg": 48542,
- "baseline_avg": 856,
- "explanation": "Attention is 57\u00d7 its 30-day baseline.",
+ "change_percent": null,
+ "growth_ratio": 195.23,
+ "recent_avg": 19523,
+ "baseline_avg": 0,
+ "explanation": "Attention is 195\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 47686,
- "latest": 142208,
+ "abs_change": 19523,
+ "latest": 52850,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
+  "persistence": 0.4,
   "momentum": 0.933,
-  "volume": 0.843,
-  "spike_quality": 0.527
+  "volume": 0.645,
+  "spike_quality": 0.557
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 48,542 views/day over the last 3 days (30-day baseline: 856)."
+  "Averaging 19,523 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 1708
-  },
-  {
    "date": "2026-09-12",
-   "views": 663
+   "views": 0
   },
   {
    "date": "2026-09-13",
-   "views": 1336
+   "views": 0
   },
   {
    "date": "2026-09-14",
-   "views": 773
+   "views": 0
   },
   {
    "date": "2026-09-15",
-   "views": 506
+   "views": 0
   },
   {
    "date": "2026-09-16",
-   "views": 367
+   "views": 0
   },
   {
    "date": "2026-09-17",
-   "views": 459
+   "views": 0
   },
   {
    "date": "2026-09-18",
-   "views": 595
+   "views": 0
   },
   {
    "date": "2026-09-19",
-   "views": 414
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 992
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 843
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 549
+   "views": 0
   },
   {
    "date": "2026-09-23",
-   "views": 466
+   "views": 0
   },
   {
    "date": "2026-09-24",
-   "views": 368
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 445
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 372
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 2880
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 956
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 683
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 458
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 497
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 398
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 517
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 2892
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 912
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 575
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 408
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 392
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 439
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 472
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 3290
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 902
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 546
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 453
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 440
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 1345
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 1178
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 977
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 2441
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 142208
+   "views": 5718
+  },
+  {
+   "date": "2026-10-21",
+   "views": 52850
   }
  ],
- "wikipedia_title": "Luke_McCaffrey",
+ "wikipedia_title": "Billy_Evans_(businessman)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

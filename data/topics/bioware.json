@@ -1,197 +1,196 @@
 {
- "title": "London Monster",
- "slug": "london-monster",
- "score": 40,
+ "title": "BioWare",
+ "slug": "bioware",
+ "score": 35,
  "status": "Breaking out",
- "change_percent": 51225,
- "growth_ratio": 246.36,
- "recent_avg": 24636,
- "baseline_avg": 48,
- "explanation": "Attention is 246\u00d7 its 30-day baseline.",
+ "change_percent": 10651,
+ "growth_ratio": 107.55,
+ "recent_avg": 57304,
+ "baseline_avg": 533,
+ "explanation": "Attention is 108\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 24588,
- "latest": 72474,
+ "abs_change": 56771,
+ "latest": 170992,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.696,
-  "spike_quality": 0.513
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.879,
+  "spike_quality": 0.509
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 24,636 views/day over the last 3 days (30-day baseline: 48)."
+  "Averaging 57,304 views/day over the last 3 days (30-day baseline: 533)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 44
-  },
-  {
    "date": "2026-09-12",
-   "views": 45
+   "views": 606
   },
   {
    "date": "2026-09-13",
-   "views": 39
+   "views": 648
   },
   {
    "date": "2026-09-14",
-   "views": 59
+   "views": 664
   },
   {
    "date": "2026-09-15",
-   "views": 42
+   "views": 602
   },
   {
    "date": "2026-09-16",
-   "views": 43
+   "views": 563
   },
   {
    "date": "2026-09-17",
-   "views": 54
+   "views": 542
   },
   {
    "date": "2026-09-18",
-   "views": 45
+   "views": 547
   },
   {
    "date": "2026-09-19",
-   "views": 44
+   "views": 538
   },
   {
    "date": "2026-09-20",
-   "views": 37
+   "views": 547
   },
   {
    "date": "2026-09-21",
-   "views": 47
+   "views": 638
   },
   {
    "date": "2026-09-22",
-   "views": 50
+   "views": 647
   },
   {
    "date": "2026-09-23",
-   "views": 36
+   "views": 661
   },
   {
    "date": "2026-09-24",
-   "views": 38
+   "views": 581
   },
   {
    "date": "2026-09-25",
-   "views": 32
+   "views": 596
   },
   {
    "date": "2026-09-26",
-   "views": 43
+   "views": 565
   },
   {
    "date": "2026-09-27",
-   "views": 43
+   "views": 541
   },
   {
    "date": "2026-09-28",
-   "views": 50
+   "views": 558
   },
   {
    "date": "2026-09-29",
-   "views": 42
+   "views": 567
   },
   {
    "date": "2026-09-30",
-   "views": 64
+   "views": 559
   },
   {
    "date": "2026-10-01",
-   "views": 53
+   "views": 493
   },
   {
    "date": "2026-10-02",
-   "views": 45
+   "views": 477
   },
   {
    "date": "2026-10-03",
-   "views": 53
+   "views": 509
   },
   {
    "date": "2026-10-04",
-   "views": 43
+   "views": 538
   },
   {
    "date": "2026-10-05",
-   "views": 61
+   "views": 525
   },
   {
    "date": "2026-10-06",
-   "views": 45
+   "views": 511
   },
   {
    "date": "2026-10-07",
-   "views": 43
+   "views": 498
   },
   {
    "date": "2026-10-08",
-   "views": 46
+   "views": 539
   },
   {
    "date": "2026-10-09",
-   "views": 46
+   "views": 516
   },
   {
    "date": "2026-10-10",
-   "views": 48
+   "views": 493
   },
   {
    "date": "2026-10-11",
-   "views": 56
+   "views": 528
   },
   {
    "date": "2026-10-12",
-   "views": 58
+   "views": 528
   },
   {
    "date": "2026-10-13",
-   "views": 51
+   "views": 487
   },
   {
    "date": "2026-10-14",
-   "views": 40
+   "views": 468
   },
   {
    "date": "2026-10-15",
-   "views": 60
+   "views": 461
   },
   {
    "date": "2026-10-16",
-   "views": 58
+   "views": 417
   },
   {
    "date": "2026-10-17",
-   "views": 64
+   "views": 483
   },
   {
    "date": "2026-10-18",
-   "views": 77
+   "views": 515
   },
   {
    "date": "2026-10-19",
-   "views": 1357
+   "views": 461
   },
   {
    "date": "2026-10-20",
-   "views": 72474
+   "views": 459
+  },
+  {
+   "date": "2026-10-21",
+   "views": 170992
   }
  ],
- "wikipedia_title": "London_Monster",
+ "wikipedia_title": "BioWare",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

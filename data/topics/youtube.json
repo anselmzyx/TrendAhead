@@ -1,198 +1,198 @@
 {
- "title": "Hunter Schafer",
- "slug": "hunter-schafer",
- "score": 53,
+ "title": "YouTube",
+ "slug": "youtube",
+ "score": 34,
  "status": "Breaking out",
- "change_percent": 720,
- "growth_ratio": 8.2,
- "recent_avg": 63830,
- "baseline_avg": 7786,
- "explanation": "Attention is 8.2\u00d7 its 30-day baseline.",
+ "change_percent": 69,
+ "growth_ratio": 1.69,
+ "recent_avg": 64534,
+ "baseline_avg": 38096,
+ "explanation": "Recent attention is +69% vs its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 56044,
- "latest": 117851,
+ "abs_change": 26438,
+ "latest": 72325,
  "components": {
-  "acceleration": 0.538,
-  "anomaly": 1.0,
-  "persistence": 0.6,
+  "acceleration": 0.135,
+  "anomaly": 0.659,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.903,
-  "spike_quality": 0.763
+  "volume": 0.905,
+  "spike_quality": 0.958
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is close to this topic's usual level.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 63,830 views/day over the last 3 days (30-day baseline: 7,786)."
+  "Averaging 64,534 views/day over the last 3 days (30-day baseline: 38,096)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 6595
-  },
-  {
    "date": "2026-09-12",
-   "views": 7480
+   "views": 29516
   },
   {
    "date": "2026-09-13",
-   "views": 8953
+   "views": 31157
   },
   {
    "date": "2026-09-14",
-   "views": 6697
+   "views": 33518
   },
   {
    "date": "2026-09-15",
-   "views": 5881
+   "views": 32876
   },
   {
    "date": "2026-09-16",
-   "views": 5947
+   "views": 34271
   },
   {
    "date": "2026-09-17",
-   "views": 9520
+   "views": 36818
   },
   {
    "date": "2026-09-18",
-   "views": 6987
+   "views": 37652
   },
   {
    "date": "2026-09-19",
-   "views": 6657
+   "views": 36455
   },
   {
    "date": "2026-09-20",
-   "views": 6780
+   "views": 35892
   },
   {
    "date": "2026-09-21",
-   "views": 5706
+   "views": 35665
   },
   {
    "date": "2026-09-22",
-   "views": 6219
+   "views": 37472
   },
   {
    "date": "2026-09-23",
-   "views": 7750
+   "views": 38176
   },
   {
    "date": "2026-09-24",
-   "views": 12803
+   "views": 36867
   },
   {
    "date": "2026-09-25",
-   "views": 11326
+   "views": 36075
   },
   {
    "date": "2026-09-26",
-   "views": 13171
+   "views": 34740
   },
   {
    "date": "2026-09-27",
-   "views": 12194
+   "views": 36899
   },
   {
    "date": "2026-09-28",
-   "views": 6774
+   "views": 39043
   },
   {
    "date": "2026-09-29",
-   "views": 5433
+   "views": 39400
   },
   {
    "date": "2026-09-30",
-   "views": 4840
+   "views": 36681
   },
   {
    "date": "2026-10-01",
-   "views": 4891
+   "views": 58383
   },
   {
    "date": "2026-10-02",
-   "views": 4995
+   "views": 38131
   },
   {
    "date": "2026-10-03",
-   "views": 5430
+   "views": 38456
   },
   {
    "date": "2026-10-04",
-   "views": 5433
+   "views": 38167
   },
   {
    "date": "2026-10-05",
-   "views": 4904
+   "views": 38168
   },
   {
    "date": "2026-10-06",
-   "views": 4296
+   "views": 37713
   },
   {
    "date": "2026-10-07",
-   "views": 5309
+   "views": 38576
   },
   {
    "date": "2026-10-08",
-   "views": 9882
+   "views": 39043
   },
   {
    "date": "2026-10-09",
-   "views": 10255
+   "views": 40483
   },
   {
    "date": "2026-10-10",
-   "views": 7388
+   "views": 37778
   },
   {
    "date": "2026-10-11",
-   "views": 18056
+   "views": 36516
   },
   {
    "date": "2026-10-12",
-   "views": 13107
+   "views": 38386
   },
   {
    "date": "2026-10-13",
-   "views": 9637
+   "views": 38319
   },
   {
    "date": "2026-10-14",
-   "views": 6325
+   "views": 37043
   },
   {
    "date": "2026-10-15",
-   "views": 5466
+   "views": 38126
   },
   {
    "date": "2026-10-16",
-   "views": 6480
+   "views": 36016
   },
   {
    "date": "2026-10-17",
-   "views": 5074
+   "views": 34213
   },
   {
    "date": "2026-10-18",
-   "views": 20858
+   "views": 35996
   },
   {
    "date": "2026-10-19",
-   "views": 52781
+   "views": 52787
   },
   {
    "date": "2026-10-20",
-   "views": 117851
+   "views": 68490
+  },
+  {
+   "date": "2026-10-21",
+   "views": 72325
   }
  ],
- "wikipedia_title": "Hunter_Schafer",
+ "wikipedia_title": "YouTube",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

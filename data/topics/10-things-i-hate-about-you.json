@@ -1,197 +1,197 @@
 {
- "title": "Theranos",
- "slug": "theranos",
- "score": 39,
- "status": "Elevated",
- "change_percent": 287,
- "growth_ratio": 3.87,
- "recent_avg": 62352,
- "baseline_avg": 16098,
- "explanation": "Attention is 3.9\u00d7 its 30-day baseline.",
+ "title": "10 Things I Hate About You",
+ "slug": "10-things-i-hate-about-you",
+ "score": 31,
+ "status": "Breaking out",
+ "change_percent": 583,
+ "growth_ratio": 6.83,
+ "recent_avg": 27023,
+ "baseline_avg": 3959,
+ "explanation": "Attention is 6.8\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 46254,
- "latest": 58296,
+ "abs_change": 23064,
+ "latest": 72237,
  "components": {
-  "acceleration": 0.346,
-  "anomaly": 0.301,
-  "persistence": 0.92,
-  "momentum": 0.701,
-  "volume": 0.897,
-  "spike_quality": 0.861
+  "acceleration": 0.491,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.716,
+  "spike_quality": 0.675
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 62,352 views/day over the last 3 days (30-day baseline: 16,098)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 27,023 views/day over the last 3 days (30-day baseline: 3,959)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 17227
-  },
-  {
    "date": "2026-09-12",
-   "views": 14723
+   "views": 4325
   },
   {
    "date": "2026-09-13",
-   "views": 13434
+   "views": 4389
   },
   {
    "date": "2026-09-14",
-   "views": 12676
+   "views": 3591
   },
   {
    "date": "2026-09-15",
-   "views": 12722
+   "views": 3404
   },
   {
    "date": "2026-09-16",
-   "views": 13081
+   "views": 4462
   },
   {
    "date": "2026-09-17",
-   "views": 9985
+   "views": 7322
   },
   {
    "date": "2026-09-18",
-   "views": 9603
+   "views": 6064
   },
   {
    "date": "2026-09-19",
-   "views": 7149
+   "views": 5432
   },
   {
    "date": "2026-09-20",
-   "views": 6752
+   "views": 5197
   },
   {
    "date": "2026-09-21",
-   "views": 6023
+   "views": 4877
   },
   {
    "date": "2026-09-22",
-   "views": 6672
+   "views": 4563
   },
   {
    "date": "2026-09-23",
-   "views": 62970
+   "views": 5806
   },
   {
    "date": "2026-09-24",
-   "views": 59583
+   "views": 4101
   },
   {
    "date": "2026-09-25",
-   "views": 32334
+   "views": 3220
   },
   {
    "date": "2026-09-26",
-   "views": 23668
+   "views": 3993
   },
   {
    "date": "2026-09-27",
-   "views": 16669
+   "views": 4023
   },
   {
    "date": "2026-09-28",
-   "views": 13685
+   "views": 3079
   },
   {
    "date": "2026-09-29",
-   "views": 11046
+   "views": 2995
   },
   {
    "date": "2026-09-30",
-   "views": 9614
+   "views": 3840
   },
   {
    "date": "2026-10-01",
-   "views": 9959
+   "views": 3067
   },
   {
    "date": "2026-10-02",
-   "views": 11518
+   "views": 2913
   },
   {
    "date": "2026-10-03",
-   "views": 11122
+   "views": 3207
   },
   {
    "date": "2026-10-04",
-   "views": 9483
+   "views": 3136
   },
   {
    "date": "2026-10-05",
-   "views": 7557
+   "views": 2898
   },
   {
    "date": "2026-10-06",
-   "views": 7187
+   "views": 2953
   },
   {
    "date": "2026-10-07",
-   "views": 9167
+   "views": 3697
   },
   {
    "date": "2026-10-08",
-   "views": 8618
+   "views": 3297
   },
   {
    "date": "2026-10-09",
-   "views": 8745
+   "views": 3554
   },
   {
    "date": "2026-10-10",
-   "views": 7153
+   "views": 3516
   },
   {
    "date": "2026-10-11",
-   "views": 6448
+   "views": 3505
   },
   {
    "date": "2026-10-12",
-   "views": 6766
+   "views": 3054
   },
   {
    "date": "2026-10-13",
-   "views": 9055
+   "views": 2708
   },
   {
    "date": "2026-10-14",
-   "views": 8843
+   "views": 4034
   },
   {
    "date": "2026-10-15",
-   "views": 12294
+   "views": 6730
   },
   {
    "date": "2026-10-16",
-   "views": 35170
+   "views": 5622
   },
   {
    "date": "2026-10-17",
-   "views": 48072
+   "views": 5435
   },
   {
    "date": "2026-10-18",
-   "views": 58877
+   "views": 4323
   },
   {
    "date": "2026-10-19",
-   "views": 69883
+   "views": 3941
   },
   {
    "date": "2026-10-20",
-   "views": 58296
+   "views": 4891
+  },
+  {
+   "date": "2026-10-21",
+   "views": 72237
   }
  ],
- "wikipedia_title": "Theranos",
+ "wikipedia_title": "10_Things_I_Hate_About_You",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Call of Duty: Modern Warfare 4",
- "slug": "call-of-duty-modern-warfare-4",
- "score": 29,
- "status": "Elevated",
- "change_percent": 635,
- "growth_ratio": 7.35,
- "recent_avg": 73871,
- "baseline_avg": 10051,
- "explanation": "Attention is 7.3\u00d7 its 30-day baseline.",
+ "title": "WhatsApp",
+ "slug": "whatsapp",
+ "score": 65,
+ "status": "Building",
+ "change_percent": 302,
+ "growth_ratio": 4.02,
+ "recent_avg": 40088,
+ "baseline_avg": 9972,
+ "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 63820,
- "latest": 62264,
+ "abs_change": 30116,
+ "latest": 50928,
  "components": {
-  "acceleration": 0.51,
-  "anomaly": 0.386,
-  "persistence": 0.76,
-  "momentum": 0.393,
-  "volume": 0.934,
-  "spike_quality": 0.759
+  "acceleration": 0.356,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.802,
+  "spike_quality": 0.923
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 73,871 views/day over the last 3 days (30-day baseline: 10,051)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 40,088 views/day over the last 3 days (30-day baseline: 9,972)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 2328
-  },
-  {
    "date": "2026-09-12",
-   "views": 2475
+   "views": 8830
   },
   {
    "date": "2026-09-13",
-   "views": 2550
+   "views": 8308
   },
   {
    "date": "2026-09-14",
-   "views": 2565
+   "views": 9313
   },
   {
    "date": "2026-09-15",
-   "views": 2485
+   "views": 9477
   },
   {
    "date": "2026-09-16",
-   "views": 2363
+   "views": 9728
   },
   {
    "date": "2026-09-17",
-   "views": 6775
+   "views": 9274
   },
   {
    "date": "2026-09-18",
-   "views": 6784
+   "views": 8599
   },
   {
    "date": "2026-09-19",
-   "views": 5292
+   "views": 8784
   },
   {
    "date": "2026-09-20",
-   "views": 5030
+   "views": 8720
   },
   {
    "date": "2026-09-21",
-   "views": 4104
+   "views": 9170
   },
   {
    "date": "2026-09-22",
-   "views": 4235
+   "views": 9517
   },
   {
    "date": "2026-09-23",
-   "views": 4491
+   "views": 9792
   },
   {
    "date": "2026-09-24",
-   "views": 3769
+   "views": 8750
   },
   {
    "date": "2026-09-25",
-   "views": 3228
+   "views": 9345
   },
   {
    "date": "2026-09-26",
-   "views": 3083
+   "views": 8192
   },
   {
    "date": "2026-09-27",
-   "views": 5028
+   "views": 8690
   },
   {
    "date": "2026-09-28",
-   "views": 4300
+   "views": 9889
   },
   {
    "date": "2026-09-29",
-   "views": 4280
+   "views": 9927
   },
   {
    "date": "2026-09-30",
-   "views": 4234
+   "views": 9543
   },
   {
    "date": "2026-10-01",
-   "views": 4141
+   "views": 9273
   },
   {
    "date": "2026-10-02",
-   "views": 7688
+   "views": 7887
   },
   {
    "date": "2026-10-03",
-   "views": 7100
+   "views": 7999
   },
   {
    "date": "2026-10-04",
-   "views": 9328
+   "views": 7758
   },
   {
    "date": "2026-10-05",
-   "views": 8663
+   "views": 8534
   },
   {
    "date": "2026-10-06",
-   "views": 7965
+   "views": 8752
   },
   {
    "date": "2026-10-07",
-   "views": 6913
+   "views": 8853
   },
   {
    "date": "2026-10-08",
-   "views": 6618
+   "views": 8911
   },
   {
    "date": "2026-10-09",
-   "views": 6992
+   "views": 8811
   },
   {
    "date": "2026-10-10",
-   "views": 6814
+   "views": 9861
   },
   {
    "date": "2026-10-11",
-   "views": 7808
+   "views": 8461
   },
   {
    "date": "2026-10-12",
-   "views": 8099
+   "views": 9590
   },
   {
    "date": "2026-10-13",
-   "views": 10989
+   "views": 9564
   },
   {
    "date": "2026-10-14",
-   "views": 8727
+   "views": 9753
   },
   {
    "date": "2026-10-15",
-   "views": 9872
+   "views": 14079
   },
   {
    "date": "2026-10-16",
-   "views": 30898
+   "views": 14834
   },
   {
    "date": "2026-10-17",
-   "views": 95060
+   "views": 15691
   },
   {
    "date": "2026-10-18",
-   "views": 86806
+   "views": 20228
   },
   {
    "date": "2026-10-19",
-   "views": 72542
+   "views": 24326
   },
   {
    "date": "2026-10-20",
-   "views": 62264
+   "views": 45010
+  },
+  {
+   "date": "2026-10-21",
+   "views": 50928
   }
  ],
- "wikipedia_title": "Call_of_Duty:_Modern_Warfare_4",
+ "wikipedia_title": "WhatsApp",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

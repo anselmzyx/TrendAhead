@@ -1,196 +1,197 @@
 {
- "title": "Billy Evans (entrepreneur)",
- "slug": "billy-evans-entrepreneur",
- "score": 29,
+ "title": "Amy Acton",
+ "slug": "amy-acton",
+ "score": 48,
  "status": "Breaking out",
- "change_percent": null,
- "growth_ratio": 173.52,
- "recent_avg": 17352,
- "baseline_avg": 0,
- "explanation": "Attention is 174\u00d7 its 30-day baseline.",
+ "change_percent": 2078,
+ "growth_ratio": 21.78,
+ "recent_avg": 72698,
+ "baseline_avg": 3338,
+ "explanation": "Attention is 22\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17352,
- "latest": 52056,
+ "abs_change": 69360,
+ "latest": 158230,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.788,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.62,
-  "spike_quality": 0.5
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.931,
+  "spike_quality": 0.683
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 17,352 views/day over the last 3 days (30-day baseline: 0)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 72,698 views/day over the last 3 days (30-day baseline: 3,338)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 0
-  },
-  {
    "date": "2026-09-12",
-   "views": 0
+   "views": 2782
   },
   {
    "date": "2026-09-13",
-   "views": 0
+   "views": 8749
   },
   {
    "date": "2026-09-14",
-   "views": 0
+   "views": 2465
   },
   {
    "date": "2026-09-15",
-   "views": 0
+   "views": 2345
   },
   {
    "date": "2026-09-16",
-   "views": 0
+   "views": 2498
   },
   {
    "date": "2026-09-17",
-   "views": 0
+   "views": 2736
   },
   {
    "date": "2026-09-18",
-   "views": 0
+   "views": 2330
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 2327
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 2368
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 2704
   },
   {
    "date": "2026-09-22",
-   "views": 0
+   "views": 2693
   },
   {
    "date": "2026-09-23",
-   "views": 0
+   "views": 2599
   },
   {
    "date": "2026-09-24",
-   "views": 0
+   "views": 2223
   },
   {
    "date": "2026-09-25",
-   "views": 0
+   "views": 1900
   },
   {
    "date": "2026-09-26",
-   "views": 0
+   "views": 2444
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 2098
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 2143
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 4690
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 2866
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 1938
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 2010
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 2900
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 3413
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 3255
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 4984
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 3211
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 5702
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 6283
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 6465
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 4683
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 3799
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 3930
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 3825
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 2953
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 2885
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 3602
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 3234
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 2943
   },
   {
    "date": "2026-10-20",
-   "views": 52056
+   "views": 56922
+  },
+  {
+   "date": "2026-10-21",
+   "views": 158230
   }
  ],
- "wikipedia_title": "Billy_Evans_(entrepreneur)",
+ "wikipedia_title": "Amy_Acton",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

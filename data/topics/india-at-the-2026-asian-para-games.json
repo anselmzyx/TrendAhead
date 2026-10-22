@@ -1,38 +1,34 @@
 {
  "title": "India at the 2026 Asian Para Games",
  "slug": "india-at-the-2026-asian-para-games",
- "score": 70,
+ "score": 81,
  "status": "Building",
- "change_percent": 2553,
- "growth_ratio": 26.53,
- "recent_avg": 32925,
- "baseline_avg": 1241,
- "explanation": "Attention is 27\u00d7 its 30-day baseline.",
+ "change_percent": 3338,
+ "growth_ratio": 34.39,
+ "recent_avg": 50474,
+ "baseline_avg": 1468,
+ "explanation": "Attention is 34\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31684,
- "latest": 53500,
+ "abs_change": 49006,
+ "latest": 59658,
  "components": {
-  "acceleration": 0.838,
+  "acceleration": 0.904,
   "anomaly": 1.0,
   "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.759,
-  "spike_quality": 0.807
+  "volume": 0.852,
+  "spike_quality": 0.88
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,925 views/day over the last 3 days (30-day baseline: 1,241)."
+  "Averaging 50,474 views/day over the last 3 days (30-day baseline: 1,468)."
  ],
  "history": [
-  {
-   "date": "2026-09-11",
-   "views": 144
-  },
   {
    "date": "2026-09-12",
    "views": 164
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-20",
    "views": 53500
+  },
+  {
+   "date": "2026-10-21",
+   "views": 59658
   }
  ],
  "wikipedia_title": "India_at_the_2026_Asian_Para_Games",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

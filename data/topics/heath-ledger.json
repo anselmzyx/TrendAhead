@@ -1,197 +1,198 @@
 {
- "title": "You Can See Everything",
- "slug": "you-can-see-everything",
- "score": 43,
- "status": "Elevated",
- "change_percent": 455,
- "growth_ratio": 5.55,
- "recent_avg": 238247,
- "baseline_avg": 42911,
- "explanation": "Attention is 5.5\u00d7 its 30-day baseline.",
+ "title": "Heath Ledger",
+ "slug": "heath-ledger",
+ "score": 45,
+ "status": "Breaking out",
+ "change_percent": 540,
+ "growth_ratio": 6.4,
+ "recent_avg": 68613,
+ "baseline_avg": 10714,
+ "explanation": "Attention is 6.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 195336,
- "latest": 206507,
+ "abs_change": 57899,
+ "latest": 177482,
  "components": {
-  "acceleration": 0.438,
-  "anomaly": 0.4,
-  "persistence": 0.92,
-  "momentum": 0.661,
-  "volume": 1.0,
-  "spike_quality": 0.838
+  "acceleration": 0.475,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.933,
+  "volume": 0.918,
+  "spike_quality": 0.706
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 238,247 views/day over the last 3 days (30-day baseline: 42,911)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 68,613 views/day over the last 3 days (30-day baseline: 10,714)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 42141
-  },
-  {
    "date": "2026-09-12",
-   "views": 35036
+   "views": 10494
   },
   {
    "date": "2026-09-13",
-   "views": 27915
+   "views": 11605
   },
   {
    "date": "2026-09-14",
-   "views": 25552
+   "views": 8525
   },
   {
    "date": "2026-09-15",
-   "views": 21269
+   "views": 9093
   },
   {
    "date": "2026-09-16",
-   "views": 21595
+   "views": 9475
   },
   {
    "date": "2026-09-17",
-   "views": 21340
+   "views": 10459
   },
   {
    "date": "2026-09-18",
-   "views": 17918
+   "views": 10588
   },
   {
    "date": "2026-09-19",
-   "views": 14986
+   "views": 15174
   },
   {
    "date": "2026-09-20",
-   "views": 14077
+   "views": 12330
   },
   {
    "date": "2026-09-21",
-   "views": 13108
+   "views": 10175
   },
   {
    "date": "2026-09-22",
-   "views": 14350
+   "views": 10314
   },
   {
    "date": "2026-09-23",
-   "views": 109155
+   "views": 9288
   },
   {
    "date": "2026-09-24",
-   "views": 90388
+   "views": 8943
   },
   {
    "date": "2026-09-25",
-   "views": 59793
+   "views": 9485
   },
   {
    "date": "2026-09-26",
-   "views": 42841
+   "views": 11077
   },
   {
    "date": "2026-09-27",
-   "views": 31995
+   "views": 20305
   },
   {
    "date": "2026-09-28",
-   "views": 25733
+   "views": 8983
   },
   {
    "date": "2026-09-29",
-   "views": 20227
+   "views": 7684
   },
   {
    "date": "2026-09-30",
-   "views": 17186
+   "views": 7484
   },
   {
    "date": "2026-10-01",
-   "views": 26138
+   "views": 7003
   },
   {
    "date": "2026-10-02",
-   "views": 27876
+   "views": 7846
   },
   {
    "date": "2026-10-03",
-   "views": 27592
+   "views": 9404
   },
   {
    "date": "2026-10-04",
-   "views": 23463
+   "views": 10433
   },
   {
    "date": "2026-10-05",
-   "views": 18692
+   "views": 10626
   },
   {
    "date": "2026-10-06",
-   "views": 17296
+   "views": 8305
   },
   {
    "date": "2026-10-07",
-   "views": 26252
+   "views": 7621
   },
   {
    "date": "2026-10-08",
-   "views": 28033
+   "views": 7348
   },
   {
    "date": "2026-10-09",
-   "views": 23443
+   "views": 8689
   },
   {
    "date": "2026-10-10",
-   "views": 19408
+   "views": 10225
   },
   {
    "date": "2026-10-11",
-   "views": 18601
+   "views": 9736
   },
   {
    "date": "2026-10-12",
-   "views": 21586
+   "views": 8252
   },
   {
    "date": "2026-10-13",
-   "views": 35529
+   "views": 7675
   },
   {
    "date": "2026-10-14",
-   "views": 34842
+   "views": 8619
   },
   {
    "date": "2026-10-15",
-   "views": 53782
+   "views": 19366
   },
   {
    "date": "2026-10-16",
-   "views": 191594
+   "views": 18626
   },
   {
    "date": "2026-10-17",
-   "views": 221438
+   "views": 17489
   },
   {
    "date": "2026-10-18",
-   "views": 239333
+   "views": 12925
   },
   {
    "date": "2026-10-19",
-   "views": 268900
+   "views": 12239
   },
   {
    "date": "2026-10-20",
-   "views": 206507
+   "views": 16119
+  },
+  {
+   "date": "2026-10-21",
+   "views": 177482
   }
  ],
- "wikipedia_title": "You_Can_See_Everything",
+ "wikipedia_title": "Heath_Ledger",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

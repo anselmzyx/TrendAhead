@@ -1,197 +1,197 @@
 {
- "title": "Abdul El-Sayed",
- "slug": "abdul-el-sayed",
- "score": 33,
+ "title": "Osiris",
+ "slug": "osiris",
+ "score": 41,
  "status": "Elevated",
- "change_percent": 265,
- "growth_ratio": 3.65,
- "recent_avg": 88816,
- "baseline_avg": 24361,
- "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
+ "change_percent": 1916,
+ "growth_ratio": 20.16,
+ "recent_avg": 55873,
+ "baseline_avg": 2772,
+ "explanation": "Attention is 20\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 64455,
- "latest": 75508,
+ "abs_change": 53101,
+ "latest": 42973,
  "components": {
-  "acceleration": 0.331,
-  "anomaly": 0.421,
+  "acceleration": 0.768,
+  "anomaly": 1.0,
   "persistence": 0.76,
-  "momentum": 0.53,
-  "volume": 0.974,
-  "spike_quality": 0.838
+  "momentum": 0.462,
+  "volume": 0.874,
+  "spike_quality": 0.727
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 88,816 views/day over the last 3 days (30-day baseline: 24,361)."
+  "Averaging 55,873 views/day over the last 3 days (30-day baseline: 2,772)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 14966
-  },
-  {
    "date": "2026-09-12",
-   "views": 14713
+   "views": 1599
   },
   {
    "date": "2026-09-13",
-   "views": 18748
+   "views": 2280
   },
   {
    "date": "2026-09-14",
-   "views": 14177
+   "views": 2881
   },
   {
    "date": "2026-09-15",
-   "views": 12778
+   "views": 2856
   },
   {
    "date": "2026-09-16",
-   "views": 17733
+   "views": 2231
   },
   {
    "date": "2026-09-17",
-   "views": 19872
+   "views": 2308
   },
   {
    "date": "2026-09-18",
-   "views": 16205
+   "views": 1851
   },
   {
    "date": "2026-09-19",
-   "views": 12392
+   "views": 1841
   },
   {
    "date": "2026-09-20",
-   "views": 12318
+   "views": 1822
   },
   {
    "date": "2026-09-21",
-   "views": 12132
+   "views": 2107
   },
   {
    "date": "2026-09-22",
-   "views": 16594
+   "views": 2217
   },
   {
    "date": "2026-09-23",
-   "views": 18682
+   "views": 1771
   },
   {
    "date": "2026-09-24",
-   "views": 16924
+   "views": 1922
   },
   {
    "date": "2026-09-25",
-   "views": 18784
+   "views": 1665
   },
   {
    "date": "2026-09-26",
-   "views": 15244
+   "views": 1633
   },
   {
    "date": "2026-09-27",
-   "views": 14775
+   "views": 1684
   },
   {
    "date": "2026-09-28",
-   "views": 16132
+   "views": 1722
   },
   {
    "date": "2026-09-29",
-   "views": 16234
+   "views": 2311
   },
   {
    "date": "2026-09-30",
-   "views": 13086
+   "views": 1927
   },
   {
    "date": "2026-10-01",
-   "views": 13809
+   "views": 1764
   },
   {
    "date": "2026-10-02",
-   "views": 12881
+   "views": 1592
   },
   {
    "date": "2026-10-03",
-   "views": 13088
+   "views": 1413
   },
   {
    "date": "2026-10-04",
-   "views": 10252
+   "views": 1538
   },
   {
    "date": "2026-10-05",
-   "views": 14520
+   "views": 1703
   },
   {
    "date": "2026-10-06",
-   "views": 23997
+   "views": 1610
   },
   {
    "date": "2026-10-07",
-   "views": 21135
+   "views": 1512
   },
   {
    "date": "2026-10-08",
-   "views": 24566
+   "views": 1586
   },
   {
    "date": "2026-10-09",
-   "views": 80607
+   "views": 1590
   },
   {
    "date": "2026-10-10",
-   "views": 41302
+   "views": 1512
   },
   {
    "date": "2026-10-11",
-   "views": 40682
+   "views": 2606
   },
   {
    "date": "2026-10-12",
-   "views": 36797
+   "views": 1897
   },
   {
    "date": "2026-10-13",
-   "views": 31048
+   "views": 1576
   },
   {
    "date": "2026-10-14",
-   "views": 34055
+   "views": 1682
   },
   {
    "date": "2026-10-15",
-   "views": 38340
+   "views": 1745
   },
   {
    "date": "2026-10-16",
-   "views": 49382
+   "views": 3579
   },
   {
    "date": "2026-10-17",
-   "views": 44855
+   "views": 22733
   },
   {
    "date": "2026-10-18",
-   "views": 97773
+   "views": 8897
   },
   {
    "date": "2026-10-19",
-   "views": 93167
+   "views": 65240
   },
   {
    "date": "2026-10-20",
-   "views": 75508
+   "views": 59407
+  },
+  {
+   "date": "2026-10-21",
+   "views": 42973
   }
  ],
- "wikipedia_title": "Abdul_El-Sayed",
+ "wikipedia_title": "Osiris",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

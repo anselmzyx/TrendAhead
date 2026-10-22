@@ -1,198 +1,198 @@
 {
- "title": "2026 Alberta independence referendum",
- "slug": "2026-alberta-independence-referendum",
- "score": 62,
- "status": "Breaking out",
- "change_percent": 1164,
- "growth_ratio": 12.64,
- "recent_avg": 39025,
- "baseline_avg": 3088,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "title": "Clayface (film)",
+ "slug": "clayface-film",
+ "score": 49,
+ "status": "Building",
+ "change_percent": 236,
+ "growth_ratio": 3.36,
+ "recent_avg": 69013,
+ "baseline_avg": 20535,
+ "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 35937,
- "latest": 78072,
+ "abs_change": 48478,
+ "latest": 105904,
  "components": {
-  "acceleration": 0.648,
-  "anomaly": 1.0,
-  "persistence": 0.92,
+  "acceleration": 0.31,
+  "anomaly": 0.419,
+  "persistence": 0.84,
   "momentum": 1.0,
-  "volume": 0.796,
-  "spike_quality": 0.772
+  "volume": 0.919,
+  "spike_quality": 0.917
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 39,025 views/day over the last 3 days (30-day baseline: 3,088)."
+  "Averaging 69,013 views/day over the last 3 days (30-day baseline: 20,535)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 968
-  },
-  {
    "date": "2026-09-12",
-   "views": 966
+   "views": 5399
   },
   {
    "date": "2026-09-13",
-   "views": 1062
+   "views": 5718
   },
   {
    "date": "2026-09-14",
-   "views": 967
+   "views": 9097
   },
   {
    "date": "2026-09-15",
-   "views": 1059
+   "views": 7753
   },
   {
    "date": "2026-09-16",
-   "views": 1352
+   "views": 7827
   },
   {
    "date": "2026-09-17",
-   "views": 1179
+   "views": 7045
   },
   {
    "date": "2026-09-18",
-   "views": 970
+   "views": 6427
   },
   {
    "date": "2026-09-19",
-   "views": 1006
+   "views": 6892
   },
   {
    "date": "2026-09-20",
-   "views": 1312
+   "views": 7134
   },
   {
    "date": "2026-09-21",
-   "views": 1635
+   "views": 8187
   },
   {
    "date": "2026-09-22",
-   "views": 1830
+   "views": 7880
   },
   {
    "date": "2026-09-23",
-   "views": 2178
+   "views": 8107
   },
   {
    "date": "2026-09-24",
-   "views": 2284
+   "views": 22401
   },
   {
    "date": "2026-09-25",
-   "views": 1682
+   "views": 16858
   },
   {
    "date": "2026-09-26",
-   "views": 1500
+   "views": 13955
   },
   {
    "date": "2026-09-27",
-   "views": 1272
+   "views": 12200
   },
   {
    "date": "2026-09-28",
-   "views": 1073
+   "views": 11144
   },
   {
    "date": "2026-09-29",
-   "views": 1188
+   "views": 9963
   },
   {
    "date": "2026-09-30",
-   "views": 1110
+   "views": 10258
   },
   {
    "date": "2026-10-01",
-   "views": 1328
+   "views": 11611
   },
   {
    "date": "2026-10-02",
-   "views": 1326
+   "views": 14133
   },
   {
    "date": "2026-10-03",
-   "views": 1659
+   "views": 14623
   },
   {
    "date": "2026-10-04",
-   "views": 1962
+   "views": 15214
   },
   {
    "date": "2026-10-05",
-   "views": 2912
+   "views": 17149
   },
   {
    "date": "2026-10-06",
-   "views": 6338
+   "views": 16544
   },
   {
    "date": "2026-10-07",
-   "views": 3912
+   "views": 21606
   },
   {
    "date": "2026-10-08",
-   "views": 4006
+   "views": 24403
   },
   {
    "date": "2026-10-09",
-   "views": 2343
+   "views": 26611
   },
   {
    "date": "2026-10-10",
-   "views": 2344
+   "views": 27883
   },
   {
    "date": "2026-10-11",
-   "views": 3461
+   "views": 24655
   },
   {
    "date": "2026-10-12",
-   "views": 5758
+   "views": 27740
   },
   {
    "date": "2026-10-13",
-   "views": 7116
+   "views": 32547
   },
   {
    "date": "2026-10-14",
-   "views": 5493
+   "views": 41932
   },
   {
    "date": "2026-10-15",
-   "views": 5840
+   "views": 45220
   },
   {
    "date": "2026-10-16",
-   "views": 9575
+   "views": 45429
   },
   {
    "date": "2026-10-17",
-   "views": 8233
+   "views": 38111
   },
   {
    "date": "2026-10-18",
-   "views": 11837
+   "views": 35667
   },
   {
    "date": "2026-10-19",
-   "views": 27167
+   "views": 42392
   },
   {
    "date": "2026-10-20",
-   "views": 78072
+   "views": 58743
+  },
+  {
+   "date": "2026-10-21",
+   "views": 105904
   }
  ],
- "wikipedia_title": "2026_Alberta_independence_referendum",
+ "wikipedia_title": "Clayface_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Nathan Fielder",
- "slug": "nathan-fielder",
- "score": 48,
- "status": "Building",
- "change_percent": 438,
- "growth_ratio": 5.38,
- "recent_avg": 102903,
- "baseline_avg": 19114,
- "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
+ "title": "Vivek Ramaswamy",
+ "slug": "vivek-ramaswamy",
+ "score": 43,
+ "status": "Breaking out",
+ "change_percent": 861,
+ "growth_ratio": 9.61,
+ "recent_avg": 52007,
+ "baseline_avg": 5410,
+ "explanation": "Attention is 9.6\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 83789,
- "latest": 98444,
+ "abs_change": 46597,
+ "latest": 126859,
  "components": {
-  "acceleration": 0.43,
-  "anomaly": 0.501,
-  "persistence": 0.92,
-  "momentum": 0.713,
-  "volume": 1.0,
-  "spike_quality": 0.869
+  "acceleration": 0.578,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.858,
+  "spike_quality": 0.666
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 102,903 views/day over the last 3 days (30-day baseline: 19,114)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 52,007 views/day over the last 3 days (30-day baseline: 5,410)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 36696
-  },
-  {
    "date": "2026-09-12",
-   "views": 29183
+   "views": 5406
   },
   {
    "date": "2026-09-13",
-   "views": 23292
+   "views": 6286
   },
   {
    "date": "2026-09-14",
-   "views": 20501
+   "views": 4158
   },
   {
    "date": "2026-09-15",
-   "views": 16898
+   "views": 4141
   },
   {
    "date": "2026-09-16",
-   "views": 13673
+   "views": 4097
   },
   {
    "date": "2026-09-17",
-   "views": 12669
+   "views": 4241
   },
   {
    "date": "2026-09-18",
-   "views": 11057
+   "views": 4086
   },
   {
    "date": "2026-09-19",
-   "views": 10269
+   "views": 3907
   },
   {
    "date": "2026-09-20",
-   "views": 9681
+   "views": 5306
   },
   {
    "date": "2026-09-21",
-   "views": 9080
+   "views": 6631
   },
   {
    "date": "2026-09-22",
-   "views": 8558
+   "views": 5599
   },
   {
    "date": "2026-09-23",
-   "views": 46946
+   "views": 6253
   },
   {
    "date": "2026-09-24",
-   "views": 50890
+   "views": 4788
   },
   {
    "date": "2026-09-25",
-   "views": 33017
+   "views": 4135
   },
   {
    "date": "2026-09-26",
-   "views": 25327
+   "views": 3745
   },
   {
    "date": "2026-09-27",
-   "views": 19711
+   "views": 4411
   },
   {
    "date": "2026-09-28",
-   "views": 15599
+   "views": 4648
   },
   {
    "date": "2026-09-29",
-   "views": 12139
+   "views": 4740
   },
   {
    "date": "2026-09-30",
-   "views": 10825
+   "views": 3888
   },
   {
    "date": "2026-10-01",
-   "views": 14876
+   "views": 3858
   },
   {
    "date": "2026-10-02",
-   "views": 17056
+   "views": 4126
   },
   {
    "date": "2026-10-03",
-   "views": 14471
+   "views": 4257
   },
   {
    "date": "2026-10-04",
-   "views": 12472
+   "views": 7904
   },
   {
    "date": "2026-10-05",
-   "views": 9832
+   "views": 6703
   },
   {
    "date": "2026-10-06",
-   "views": 8694
+   "views": 8510
   },
   {
    "date": "2026-10-07",
-   "views": 11142
+   "views": 6537
   },
   {
    "date": "2026-10-08",
-   "views": 10850
+   "views": 5773
   },
   {
    "date": "2026-10-09",
-   "views": 9515
+   "views": 5359
   },
   {
    "date": "2026-10-10",
-   "views": 9045
+   "views": 5788
   },
   {
    "date": "2026-10-11",
-   "views": 8773
+   "views": 6237
   },
   {
    "date": "2026-10-12",
-   "views": 9202
+   "views": 5660
   },
   {
    "date": "2026-10-13",
-   "views": 11522
+   "views": 6953
   },
   {
    "date": "2026-10-14",
-   "views": 12351
+   "views": 5495
   },
   {
    "date": "2026-10-15",
-   "views": 16163
+   "views": 5384
   },
   {
    "date": "2026-10-16",
-   "views": 56216
+   "views": 5213
   },
   {
    "date": "2026-10-17",
-   "views": 78129
+   "views": 4865
   },
   {
    "date": "2026-10-18",
-   "views": 95178
+   "views": 5641
   },
   {
    "date": "2026-10-19",
-   "views": 115086
+   "views": 5840
   },
   {
    "date": "2026-10-20",
-   "views": 98444
+   "views": 23321
+  },
+  {
+   "date": "2026-10-21",
+   "views": 126859
   }
  ],
- "wikipedia_title": "Nathan_Fielder",
+ "wikipedia_title": "Vivek_Ramaswamy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }

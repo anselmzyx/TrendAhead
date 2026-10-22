@@ -1,197 +1,197 @@
 {
- "title": "Cole Sprouse",
- "slug": "cole-sprouse",
- "score": 33,
+ "title": "Como 1907",
+ "slug": "como-1907",
+ "score": 41,
  "status": "Breaking out",
- "change_percent": 779,
- "growth_ratio": 8.79,
- "recent_avg": 32759,
- "baseline_avg": 3727,
- "explanation": "Attention is 8.8\u00d7 its 30-day baseline.",
+ "change_percent": 1368,
+ "growth_ratio": 14.68,
+ "recent_avg": 41449,
+ "baseline_avg": 2823,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 29032,
- "latest": 42847,
+ "abs_change": 38626,
+ "latest": 113033,
  "components": {
-  "acceleration": 0.556,
+  "acceleration": 0.687,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.713,
-  "volume": 0.758,
-  "spike_quality": 0.749
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.809,
+  "spike_quality": 0.596
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 32,759 views/day over the last 3 days (30-day baseline: 3,727)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 41,449 views/day over the last 3 days (30-day baseline: 2,823)."
  ],
  "history": [
   {
-   "date": "2026-09-11",
-   "views": 2719
-  },
-  {
    "date": "2026-09-12",
-   "views": 3014
+   "views": 11872
   },
   {
    "date": "2026-09-13",
-   "views": 3540
+   "views": 6582
   },
   {
    "date": "2026-09-14",
-   "views": 2706
+   "views": 8506
   },
   {
    "date": "2026-09-15",
-   "views": 2444
+   "views": 6626
   },
   {
    "date": "2026-09-16",
-   "views": 2702
+   "views": 4657
   },
   {
    "date": "2026-09-17",
-   "views": 2744
+   "views": 3823
   },
   {
    "date": "2026-09-18",
-   "views": 2908
+   "views": 3787
   },
   {
    "date": "2026-09-19",
-   "views": 3033
+   "views": 3784
   },
   {
    "date": "2026-09-20",
-   "views": 3310
+   "views": 3585
   },
   {
    "date": "2026-09-21",
-   "views": 2742
+   "views": 2645
   },
   {
    "date": "2026-09-22",
-   "views": 2547
+   "views": 2475
   },
   {
    "date": "2026-09-23",
-   "views": 3053
+   "views": 2551
   },
   {
    "date": "2026-09-24",
-   "views": 3534
+   "views": 2221
   },
   {
    "date": "2026-09-25",
-   "views": 3423
+   "views": 2224
   },
   {
    "date": "2026-09-26",
-   "views": 3889
+   "views": 1970
   },
   {
    "date": "2026-09-27",
-   "views": 4447
+   "views": 1700
   },
   {
    "date": "2026-09-28",
-   "views": 4190
+   "views": 2216
   },
   {
    "date": "2026-09-29",
-   "views": 8760
+   "views": 3151
   },
   {
    "date": "2026-09-30",
-   "views": 4908
+   "views": 1754
   },
   {
    "date": "2026-10-01",
-   "views": 3481
+   "views": 2255
   },
   {
    "date": "2026-10-02",
-   "views": 3449
+   "views": 2375
   },
   {
    "date": "2026-10-03",
-   "views": 4021
+   "views": 2500
   },
   {
    "date": "2026-10-04",
-   "views": 3900
+   "views": 2307
   },
   {
    "date": "2026-10-05",
-   "views": 3342
+   "views": 2712
   },
   {
    "date": "2026-10-06",
-   "views": 3797
+   "views": 2816
   },
   {
    "date": "2026-10-07",
-   "views": 3598
+   "views": 4314
   },
   {
    "date": "2026-10-08",
-   "views": 3487
+   "views": 3075
   },
   {
    "date": "2026-10-09",
-   "views": 3531
+   "views": 1936
   },
   {
    "date": "2026-10-10",
-   "views": 4665
+   "views": 2105
   },
   {
    "date": "2026-10-11",
-   "views": 3970
+   "views": 3871
   },
   {
    "date": "2026-10-12",
-   "views": 3579
+   "views": 2349
   },
   {
    "date": "2026-10-13",
-   "views": 2990
+   "views": 2872
   },
   {
    "date": "2026-10-14",
-   "views": 3620
+   "views": 7941
   },
   {
    "date": "2026-10-15",
-   "views": 2773
+   "views": 3150
   },
   {
    "date": "2026-10-16",
-   "views": 2884
+   "views": 1996
   },
   {
    "date": "2026-10-17",
-   "views": 3992
+   "views": 2119
   },
   {
    "date": "2026-10-18",
-   "views": 5344
+   "views": 3732
   },
   {
    "date": "2026-10-19",
-   "views": 50086
+   "views": 4076
   },
   {
    "date": "2026-10-20",
-   "views": 42847
+   "views": 7239
+  },
+  {
+   "date": "2026-10-21",
+   "views": 113033
   }
  ],
- "wikipedia_title": "Cole_Sprouse",
+ "wikipedia_title": "Como_1907",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-20",
- "generated_at_utc": "2026-10-21T10:32:10+00:00"
+ "data_through": "2026-10-21",
+ "generated_at_utc": "2026-10-22T10:35:31+00:00"
 }
