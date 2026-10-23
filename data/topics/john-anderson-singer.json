@@ -1,198 +1,197 @@
 {
- "title": "Richard Riehle",
- "slug": "richard-riehle",
- "score": 31,
- "status": "Peaked / fading",
- "change_percent": 16751,
- "growth_ratio": 168.64,
- "recent_avg": 74312,
- "baseline_avg": 441,
- "explanation": "Attention surged to 169\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "John Anderson (singer)",
+ "slug": "john-anderson-singer",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 24561,
+ "growth_ratio": 246.54,
+ "recent_avg": 112455,
+ "baseline_avg": 456,
+ "explanation": "Attention is 247\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 73871,
- "latest": 23446,
+ "abs_change": 111999,
+ "latest": 336579,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.338,
-  "volume": 0.936,
-  "spike_quality": 0.435
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 1.0,
+  "spike_quality": 0.504
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 74,312 views/day over the last 3 days (30-day baseline: 441)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 112,455 views/day over the last 3 days (30-day baseline: 456)."
  ],
  "history": [
   {
-   "date": "2026-09-12",
-   "views": 460
-  },
-  {
    "date": "2026-09-13",
-   "views": 414
+   "views": 357
   },
   {
    "date": "2026-09-14",
-   "views": 388
+   "views": 318
   },
   {
    "date": "2026-09-15",
-   "views": 414
+   "views": 385
   },
   {
    "date": "2026-09-16",
-   "views": 424
+   "views": 366
   },
   {
    "date": "2026-09-17",
-   "views": 388
+   "views": 418
   },
   {
    "date": "2026-09-18",
-   "views": 367
+   "views": 392
   },
   {
    "date": "2026-09-19",
-   "views": 414
+   "views": 1120
   },
   {
    "date": "2026-09-20",
-   "views": 416
+   "views": 843
   },
   {
    "date": "2026-09-21",
-   "views": 399
+   "views": 631
   },
   {
    "date": "2026-09-22",
-   "views": 361
+   "views": 486
   },
   {
    "date": "2026-09-23",
-   "views": 293
+   "views": 481
   },
   {
    "date": "2026-09-24",
-   "views": 354
+   "views": 713
   },
   {
    "date": "2026-09-25",
-   "views": 356
+   "views": 629
   },
   {
    "date": "2026-09-26",
-   "views": 344
+   "views": 578
   },
   {
    "date": "2026-09-27",
-   "views": 396
+   "views": 489
   },
   {
    "date": "2026-09-28",
-   "views": 363
+   "views": 379
   },
   {
    "date": "2026-09-29",
-   "views": 364
+   "views": 350
   },
   {
    "date": "2026-09-30",
-   "views": 529
+   "views": 638
   },
   {
    "date": "2026-10-01",
-   "views": 428
+   "views": 648
   },
   {
    "date": "2026-10-02",
-   "views": 521
+   "views": 559
   },
   {
    "date": "2026-10-03",
-   "views": 539
+   "views": 557
   },
   {
    "date": "2026-10-04",
-   "views": 474
+   "views": 451
   },
   {
    "date": "2026-10-05",
-   "views": 432
+   "views": 350
   },
   {
    "date": "2026-10-06",
-   "views": 423
-  },
-  {
-   "date": "2026-10-07",
-   "views": 449
-  },
-  {
-   "date": "2026-10-08",
-   "views": 427
-  },
-  {
-   "date": "2026-10-09",
-   "views": 410
-  },
-  {
-   "date": "2026-10-10",
-   "views": 511
-  },
-  {
-   "date": "2026-10-11",
-   "views": 500
-  },
-  {
-   "date": "2026-10-12",
-   "views": 395
-  },
-  {
-   "date": "2026-10-13",
    "views": 358
   },
   {
+   "date": "2026-10-07",
+   "views": 348
+  },
+  {
+   "date": "2026-10-08",
+   "views": 360
+  },
+  {
+   "date": "2026-10-09",
+   "views": 406
+  },
+  {
+   "date": "2026-10-10",
+   "views": 375
+  },
+  {
+   "date": "2026-10-11",
+   "views": 370
+  },
+  {
+   "date": "2026-10-12",
+   "views": 290
+  },
+  {
+   "date": "2026-10-13",
+   "views": 301
+  },
+  {
    "date": "2026-10-14",
-   "views": 450
+   "views": 329
   },
   {
    "date": "2026-10-15",
-   "views": 464
+   "views": 353
   },
   {
    "date": "2026-10-16",
-   "views": 491
+   "views": 368
   },
   {
    "date": "2026-10-17",
-   "views": 681
+   "views": 370
   },
   {
    "date": "2026-10-18",
-   "views": 678
+   "views": 316
   },
   {
    "date": "2026-10-19",
-   "views": 97764
+   "views": 358
   },
   {
    "date": "2026-10-20",
-   "views": 101727
+   "views": 320
   },
   {
    "date": "2026-10-21",
-   "views": 23446
+   "views": 466
+  },
+  {
+   "date": "2026-10-22",
+   "views": 336579
   }
  ],
- "wikipedia_title": "Richard_Riehle",
+ "wikipedia_title": "John_Anderson_(singer)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

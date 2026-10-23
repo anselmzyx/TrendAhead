@@ -1,0 +1,197 @@
+{
+ "title": "VisionQuest",
+ "slug": "visionquest",
+ "score": 24,
+ "status": "Elevated",
+ "change_percent": 211,
+ "growth_ratio": 3.11,
+ "recent_avg": 85831,
+ "baseline_avg": 27641,
+ "explanation": "Attention is 3.1\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 58190,
+ "latest": 80967,
+ "components": {
+  "acceleration": 0.29,
+  "anomaly": 0.162,
+  "persistence": 0.68,
+  "momentum": 0.527,
+  "volume": 0.967,
+  "spike_quality": 0.773
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 85,831 views/day over the last 3 days (30-day baseline: 27,641)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-13",
+   "views": 3909
+  },
+  {
+   "date": "2026-09-14",
+   "views": 3778
+  },
+  {
+   "date": "2026-09-15",
+   "views": 3314
+  },
+  {
+   "date": "2026-09-16",
+   "views": 2859
+  },
+  {
+   "date": "2026-09-17",
+   "views": 3984
+  },
+  {
+   "date": "2026-09-18",
+   "views": 4692
+  },
+  {
+   "date": "2026-09-19",
+   "views": 3763
+  },
+  {
+   "date": "2026-09-20",
+   "views": 3908
+  },
+  {
+   "date": "2026-09-21",
+   "views": 4471
+  },
+  {
+   "date": "2026-09-22",
+   "views": 4484
+  },
+  {
+   "date": "2026-09-23",
+   "views": 3717
+  },
+  {
+   "date": "2026-09-24",
+   "views": 4184
+  },
+  {
+   "date": "2026-09-25",
+   "views": 3831
+  },
+  {
+   "date": "2026-09-26",
+   "views": 5939
+  },
+  {
+   "date": "2026-09-27",
+   "views": 11936
+  },
+  {
+   "date": "2026-09-28",
+   "views": 8912
+  },
+  {
+   "date": "2026-09-29",
+   "views": 9136
+  },
+  {
+   "date": "2026-09-30",
+   "views": 7918
+  },
+  {
+   "date": "2026-10-01",
+   "views": 19159
+  },
+  {
+   "date": "2026-10-02",
+   "views": 22274
+  },
+  {
+   "date": "2026-10-03",
+   "views": 13731
+  },
+  {
+   "date": "2026-10-04",
+   "views": 13685
+  },
+  {
+   "date": "2026-10-05",
+   "views": 11513
+  },
+  {
+   "date": "2026-10-06",
+   "views": 10520
+  },
+  {
+   "date": "2026-10-07",
+   "views": 11403
+  },
+  {
+   "date": "2026-10-08",
+   "views": 12169
+  },
+  {
+   "date": "2026-10-09",
+   "views": 14668
+  },
+  {
+   "date": "2026-10-10",
+   "views": 14498
+  },
+  {
+   "date": "2026-10-11",
+   "views": 15496
+  },
+  {
+   "date": "2026-10-12",
+   "views": 22822
+  },
+  {
+   "date": "2026-10-13",
+   "views": 40384
+  },
+  {
+   "date": "2026-10-14",
+   "views": 156179
+  },
+  {
+   "date": "2026-10-15",
+   "views": 122179
+  },
+  {
+   "date": "2026-10-16",
+   "views": 81873
+  },
+  {
+   "date": "2026-10-17",
+   "views": 66450
+  },
+  {
+   "date": "2026-10-18",
+   "views": 58450
+  },
+  {
+   "date": "2026-10-19",
+   "views": 53332
+  },
+  {
+   "date": "2026-10-20",
+   "views": 53187
+  },
+  {
+   "date": "2026-10-21",
+   "views": 123339
+  },
+  {
+   "date": "2026-10-22",
+   "views": 80967
+  }
+ ],
+ "wikipedia_title": "VisionQuest",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
+}

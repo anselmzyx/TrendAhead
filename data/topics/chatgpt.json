@@ -3,36 +3,31 @@
  "slug": "chatgpt",
  "score": 42,
  "status": "Building",
- "change_percent": 163,
- "growth_ratio": 2.63,
- "recent_avg": 134899,
- "baseline_avg": 51205,
- "explanation": "Attention is 2.6\u00d7 its 30-day baseline.",
+ "change_percent": 191,
+ "growth_ratio": 2.91,
+ "recent_avg": 153115,
+ "baseline_avg": 52585,
+ "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 83694,
- "latest": 163328,
+ "abs_change": 100530,
+ "latest": 155469,
  "components": {
-  "acceleration": 0.248,
-  "anomaly": 0.491,
-  "persistence": 0.6,
-  "momentum": 1.0,
+  "acceleration": 0.273,
+  "anomaly": 0.524,
+  "persistence": 0.72,
+  "momentum": 0.771,
   "volume": 1.0,
-  "spike_quality": 0.916
+  "spike_quality": 0.917
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 134,899 views/day over the last 3 days (30-day baseline: 51,205)."
+  "Averaging 153,115 views/day over the last 3 days (30-day baseline: 52,585)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 49962
-  },
   {
    "date": "2026-09-13",
    "views": 48910
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-21",
    "views": 163328
+  },
+  {
+   "date": "2026-10-22",
+   "views": 155469
   }
  ],
  "wikipedia_title": "ChatGPT",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

@@ -1,196 +1,197 @@
 {
- "title": "Helen Haines",
- "slug": "helen-haines",
- "score": 41,
- "status": "Elevated",
- "change_percent": 741142,
- "growth_ratio": 1778.98,
- "recent_avg": 177898,
- "baseline_avg": 24,
- "explanation": "Attention is 1779\u00d7 its 30-day baseline.",
+ "title": "Tom Skerritt",
+ "slug": "tom-skerritt",
+ "score": 42,
+ "status": "Breaking out",
+ "change_percent": 5845,
+ "growth_ratio": 59.45,
+ "recent_avg": 124902,
+ "baseline_avg": 2101,
+ "explanation": "Attention is 59\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 177874,
- "latest": 154476,
+ "abs_change": 122801,
+ "latest": 371141,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.487,
+  "persistence": 0.2,
+  "momentum": 0.933,
   "volume": 1.0,
-  "spike_quality": 0.693
+  "spike_quality": 0.521
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 177,898 views/day over the last 3 days (30-day baseline: 24)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 124,902 views/day over the last 3 days (30-day baseline: 2,101)."
  ],
  "history": [
   {
-   "date": "2026-09-12",
-   "views": 22
-  },
-  {
    "date": "2026-09-13",
-   "views": 36
+   "views": 2946
   },
   {
    "date": "2026-09-14",
-   "views": 62
+   "views": 2001
   },
   {
    "date": "2026-09-15",
-   "views": 25
+   "views": 1967
   },
   {
    "date": "2026-09-16",
-   "views": 53
+   "views": 1929
   },
   {
    "date": "2026-09-17",
-   "views": 42
+   "views": 1592
   },
   {
    "date": "2026-09-18",
-   "views": 28
+   "views": 1789
   },
   {
    "date": "2026-09-19",
-   "views": 26
+   "views": 2831
   },
   {
    "date": "2026-09-20",
-   "views": 24
+   "views": 2695
   },
   {
    "date": "2026-09-21",
-   "views": 24
+   "views": 1700
   },
   {
    "date": "2026-09-22",
-   "views": 15
+   "views": 1590
   },
   {
    "date": "2026-09-23",
-   "views": 17
+   "views": 1747
   },
   {
    "date": "2026-09-24",
-   "views": 23
+   "views": 1530
   },
   {
    "date": "2026-09-25",
-   "views": 10
+   "views": 1693
   },
   {
    "date": "2026-09-26",
-   "views": 14
+   "views": 2216
   },
   {
    "date": "2026-09-27",
-   "views": 22
+   "views": 2588
   },
   {
    "date": "2026-09-28",
-   "views": 18
+   "views": 2123
   },
   {
    "date": "2026-09-29",
-   "views": 28
+   "views": 1553
   },
   {
    "date": "2026-09-30",
-   "views": 34
+   "views": 1698
   },
   {
    "date": "2026-10-01",
-   "views": 34
+   "views": 1606
   },
   {
    "date": "2026-10-02",
-   "views": 33
+   "views": 1658
   },
   {
    "date": "2026-10-03",
-   "views": 12
+   "views": 1898
   },
   {
    "date": "2026-10-04",
-   "views": 16
+   "views": 1986
   },
   {
    "date": "2026-10-05",
-   "views": 15
+   "views": 1599
   },
   {
    "date": "2026-10-06",
-   "views": 20
+   "views": 1537
   },
   {
    "date": "2026-10-07",
-   "views": 24
+   "views": 1332
   },
   {
    "date": "2026-10-08",
-   "views": 10
+   "views": 1452
   },
   {
    "date": "2026-10-09",
-   "views": 22
+   "views": 1773
   },
   {
    "date": "2026-10-10",
-   "views": 22
+   "views": 3597
   },
   {
    "date": "2026-10-11",
-   "views": 56
+   "views": 3865
   },
   {
    "date": "2026-10-12",
-   "views": 38
+   "views": 2827
   },
   {
    "date": "2026-10-13",
-   "views": 34
+   "views": 2250
   },
   {
    "date": "2026-10-14",
-   "views": 22
+   "views": 2340
   },
   {
    "date": "2026-10-15",
-   "views": 31
+   "views": 2102
   },
   {
    "date": "2026-10-16",
-   "views": 12
+   "views": 2172
   },
   {
    "date": "2026-10-17",
-   "views": 24
+   "views": 2785
   },
   {
    "date": "2026-10-18",
-   "views": 31
+   "views": 3003
   },
   {
    "date": "2026-10-19",
-   "views": 220295
+   "views": 2116
   },
   {
    "date": "2026-10-20",
-   "views": 158924
+   "views": 1772
   },
   {
    "date": "2026-10-21",
-   "views": 154476
+   "views": 1793
+  },
+  {
+   "date": "2026-10-22",
+   "views": 371141
   }
  ],
- "wikipedia_title": "Helen_Haines",
+ "wikipedia_title": "Tom_Skerritt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

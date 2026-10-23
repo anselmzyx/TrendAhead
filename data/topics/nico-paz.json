@@ -1,197 +1,196 @@
 {
- "title": "Billy Evans (businessman)",
- "slug": "billy-evans-businessman",
- "score": 39,
- "status": "Breaking out",
- "change_percent": null,
- "growth_ratio": 195.23,
- "recent_avg": 19523,
- "baseline_avg": 0,
- "explanation": "Attention is 195\u00d7 its 30-day baseline.",
+ "title": "Nico Paz",
+ "slug": "nico-paz",
+ "score": 28,
+ "status": "Elevated",
+ "change_percent": 1364,
+ "growth_ratio": 14.64,
+ "recent_avg": 45969,
+ "baseline_avg": 3141,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 19523,
- "latest": 52850,
+ "abs_change": 42828,
+ "latest": 55483,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.645,
-  "spike_quality": 0.557
+  "acceleration": 0.686,
+  "anomaly": 0.947,
+  "persistence": 0.32,
+  "momentum": 0.547,
+  "volume": 0.831,
+  "spike_quality": 0.606
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 19,523 views/day over the last 3 days (30-day baseline: 0)."
+  "Averaging 45,969 views/day over the last 3 days (30-day baseline: 3,141)."
  ],
  "history": [
   {
-   "date": "2026-09-12",
-   "views": 0
-  },
-  {
    "date": "2026-09-13",
-   "views": 0
+   "views": 3660
   },
   {
    "date": "2026-09-14",
-   "views": 0
+   "views": 3244
   },
   {
    "date": "2026-09-15",
-   "views": 0
+   "views": 2836
   },
   {
    "date": "2026-09-16",
-   "views": 0
+   "views": 2101
   },
   {
    "date": "2026-09-17",
-   "views": 0
+   "views": 1548
   },
   {
    "date": "2026-09-18",
-   "views": 0
+   "views": 1285
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 1101
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 1237
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 927
   },
   {
    "date": "2026-09-22",
-   "views": 0
+   "views": 1012
   },
   {
    "date": "2026-09-23",
-   "views": 0
+   "views": 968
   },
   {
    "date": "2026-09-24",
-   "views": 0
+   "views": 881
   },
   {
    "date": "2026-09-25",
-   "views": 0
+   "views": 1077
   },
   {
    "date": "2026-09-26",
-   "views": 0
+   "views": 945
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 812
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 999
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 844
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 1045
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 8275
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 3019
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 1999
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 4434
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 1888
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 1934
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 24999
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 9280
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 3862
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 2722
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 2763
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 1674
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 1510
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 4068
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 3355
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 1546
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 1420
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 2762
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 1972
   },
   {
    "date": "2026-10-20",
-   "views": 5718
+   "views": 1945
   },
   {
    "date": "2026-10-21",
-   "views": 52850
+   "views": 80478
+  },
+  {
+   "date": "2026-10-22",
+   "views": 55483
   }
  ],
- "wikipedia_title": "Billy_Evans_(businessman)",
+ "wikipedia_title": "Nico_Paz",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

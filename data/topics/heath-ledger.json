@@ -1,38 +1,33 @@
 {
  "title": "Heath Ledger",
  "slug": "heath-ledger",
- "score": 45,
- "status": "Breaking out",
- "change_percent": 540,
- "growth_ratio": 6.4,
- "recent_avg": 68613,
- "baseline_avg": 10714,
- "explanation": "Attention is 6.4\u00d7 its 30-day baseline.",
+ "score": 30,
+ "status": "Peaked / fading",
+ "change_percent": 797,
+ "growth_ratio": 8.97,
+ "recent_avg": 95244,
+ "baseline_avg": 10616,
+ "explanation": "Attention surged to 9.0\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 57899,
- "latest": 177482,
+ "abs_change": 84628,
+ "latest": 92132,
  "components": {
-  "acceleration": 0.475,
+  "acceleration": 0.561,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.933,
-  "volume": 0.918,
-  "spike_quality": 0.706
+  "momentum": 0.511,
+  "volume": 0.989,
+  "spike_quality": 0.545
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 68,613 views/day over the last 3 days (30-day baseline: 10,714)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 95,244 views/day over the last 3 days (30-day baseline: 10,616)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 10494
-  },
   {
    "date": "2026-09-13",
    "views": 11605
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-21",
    "views": 177482
+  },
+  {
+   "date": "2026-10-22",
+   "views": 92132
   }
  ],
  "wikipedia_title": "Heath_Ledger",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

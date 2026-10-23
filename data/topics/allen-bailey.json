@@ -1,37 +1,32 @@
 {
  "title": "Allen Bailey",
  "slug": "allen-bailey",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 129488,
- "growth_ratio": 207.34,
- "recent_avg": 20734,
+ "score": 31,
+ "status": "Elevated",
+ "change_percent": 199569,
+ "growth_ratio": 319.47,
+ "recent_avg": 31947,
  "baseline_avg": 16,
- "explanation": "Attention is 207\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 319\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 20718,
- "latest": 60938,
+ "abs_change": 31931,
+ "latest": 33651,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.658,
-  "spike_quality": 0.512
+  "persistence": 0.52,
+  "momentum": 0.531,
+  "volume": 0.752,
+  "spike_quality": 0.489
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 20,734 views/day over the last 3 days (30-day baseline: 16)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 31,947 views/day over the last 3 days (30-day baseline: 16)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 10
-  },
   {
    "date": "2026-09-13",
    "views": 14
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-21",
    "views": 60938
+  },
+  {
+   "date": "2026-10-22",
+   "views": 33651
   }
  ],
  "wikipedia_title": "Allen_Bailey",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

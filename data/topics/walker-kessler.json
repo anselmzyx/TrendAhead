@@ -1,197 +1,197 @@
 {
- "title": "Kylie Jenner",
- "slug": "kylie-jenner",
- "score": 37,
- "status": "Elevated",
- "change_percent": 741,
- "growth_ratio": 8.41,
- "recent_avg": 53109,
- "baseline_avg": 6312,
- "explanation": "Attention is 8.4\u00d7 its 30-day baseline.",
+ "title": "Walker Kessler",
+ "slug": "walker-kessler",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 1989,
+ "growth_ratio": 20.88,
+ "recent_avg": 21491,
+ "baseline_avg": 1029,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 46797,
- "latest": 41816,
+ "abs_change": 20462,
+ "latest": 61502,
  "components": {
-  "acceleration": 0.544,
+  "acceleration": 0.777,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.614,
-  "volume": 0.863,
-  "spike_quality": 0.741
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.666,
+  "spike_quality": 0.568
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 53,109 views/day over the last 3 days (30-day baseline: 6,312)."
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 21,491 views/day over the last 3 days (30-day baseline: 1,029)."
  ],
  "history": [
   {
-   "date": "2026-09-12",
-   "views": 4733
-  },
-  {
    "date": "2026-09-13",
-   "views": 5205
+   "views": 375
   },
   {
    "date": "2026-09-14",
-   "views": 4572
+   "views": 318
   },
   {
    "date": "2026-09-15",
-   "views": 4363
+   "views": 292
   },
   {
    "date": "2026-09-16",
-   "views": 4676
+   "views": 348
   },
   {
    "date": "2026-09-17",
-   "views": 4395
+   "views": 397
   },
   {
    "date": "2026-09-18",
-   "views": 4719
+   "views": 490
   },
   {
    "date": "2026-09-19",
-   "views": 4986
+   "views": 343
   },
   {
    "date": "2026-09-20",
-   "views": 5272
+   "views": 322
   },
   {
    "date": "2026-09-21",
-   "views": 5319
+   "views": 402
   },
   {
    "date": "2026-09-22",
-   "views": 5618
+   "views": 460
   },
   {
    "date": "2026-09-23",
-   "views": 5338
+   "views": 510
   },
   {
    "date": "2026-09-24",
-   "views": 5415
+   "views": 792
   },
   {
    "date": "2026-09-25",
-   "views": 5455
+   "views": 1277
   },
   {
    "date": "2026-09-26",
-   "views": 5700
+   "views": 950
   },
   {
    "date": "2026-09-27",
-   "views": 6106
+   "views": 717
   },
   {
    "date": "2026-09-28",
-   "views": 5032
+   "views": 1116
   },
   {
    "date": "2026-09-29",
-   "views": 7983
+   "views": 1781
   },
   {
    "date": "2026-09-30",
-   "views": 6687
+   "views": 1438
   },
   {
    "date": "2026-10-01",
-   "views": 6452
+   "views": 942
   },
   {
    "date": "2026-10-02",
-   "views": 5810
+   "views": 1032
   },
   {
    "date": "2026-10-03",
-   "views": 6125
+   "views": 832
   },
   {
    "date": "2026-10-04",
-   "views": 6494
+   "views": 673
   },
   {
    "date": "2026-10-05",
-   "views": 6062
+   "views": 704
   },
   {
    "date": "2026-10-06",
-   "views": 6316
+   "views": 935
   },
   {
    "date": "2026-10-07",
-   "views": 6222
+   "views": 697
   },
   {
    "date": "2026-10-08",
-   "views": 5800
+   "views": 597
   },
   {
    "date": "2026-10-09",
-   "views": 5660
+   "views": 1656
   },
   {
    "date": "2026-10-10",
-   "views": 6585
+   "views": 678
   },
   {
    "date": "2026-10-11",
-   "views": 7524
+   "views": 575
   },
   {
    "date": "2026-10-12",
-   "views": 7920
+   "views": 645
   },
   {
    "date": "2026-10-13",
-   "views": 7185
+   "views": 688
   },
   {
    "date": "2026-10-14",
-   "views": 6600
+   "views": 4107
   },
   {
    "date": "2026-10-15",
-   "views": 7292
+   "views": 1202
   },
   {
    "date": "2026-10-16",
-   "views": 7416
+   "views": 944
   },
   {
    "date": "2026-10-17",
-   "views": 7699
+   "views": 2209
   },
   {
    "date": "2026-10-18",
-   "views": 7278
+   "views": 1049
   },
   {
    "date": "2026-10-19",
-   "views": 56881
+   "views": 945
   },
   {
    "date": "2026-10-20",
-   "views": 60631
+   "views": 1215
   },
   {
    "date": "2026-10-21",
-   "views": 41816
+   "views": 1757
+  },
+  {
+   "date": "2026-10-22",
+   "views": 61502
   }
  ],
- "wikipedia_title": "Kylie_Jenner",
+ "wikipedia_title": "Walker_Kessler",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

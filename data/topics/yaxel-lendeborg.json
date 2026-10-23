@@ -1,197 +1,197 @@
 {
- "title": "Dylan Sprouse",
- "slug": "dylan-sprouse",
- "score": 34,
- "status": "Peaked / fading",
- "change_percent": 2020,
- "growth_ratio": 21.2,
- "recent_avg": 80460,
- "baseline_avg": 3795,
- "explanation": "Attention surged to 21\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Yaxel Lendeborg",
+ "slug": "yaxel-lendeborg",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 1338,
+ "growth_ratio": 14.39,
+ "recent_avg": 30782,
+ "baseline_avg": 2140,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 76665,
- "latest": 55616,
+ "abs_change": 28642,
+ "latest": 86107,
  "components": {
-  "acceleration": 0.781,
+  "acceleration": 0.682,
   "anomaly": 1.0,
-  "persistence": 0.64,
-  "momentum": 0.388,
-  "volume": 0.953,
-  "spike_quality": 0.618
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.744,
+  "spike_quality": 0.602
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 80,460 views/day over the last 3 days (30-day baseline: 3,795)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 30,782 views/day over the last 3 days (30-day baseline: 2,140)."
  ],
  "history": [
   {
-   "date": "2026-09-12",
-   "views": 2762
-  },
-  {
    "date": "2026-09-13",
-   "views": 2845
+   "views": 435
   },
   {
    "date": "2026-09-14",
-   "views": 2337
+   "views": 356
   },
   {
    "date": "2026-09-15",
-   "views": 2163
+   "views": 493
   },
   {
    "date": "2026-09-16",
-   "views": 2283
+   "views": 403
   },
   {
    "date": "2026-09-17",
-   "views": 2262
+   "views": 387
   },
   {
    "date": "2026-09-18",
-   "views": 2447
+   "views": 462
   },
   {
    "date": "2026-09-19",
-   "views": 2408
+   "views": 431
   },
   {
    "date": "2026-09-20",
-   "views": 2534
+   "views": 376
   },
   {
    "date": "2026-09-21",
-   "views": 2720
+   "views": 373
   },
   {
    "date": "2026-09-22",
-   "views": 2218
+   "views": 390
   },
   {
    "date": "2026-09-23",
-   "views": 2278
+   "views": 332
   },
   {
    "date": "2026-09-24",
-   "views": 2401
+   "views": 375
   },
   {
    "date": "2026-09-25",
-   "views": 2348
+   "views": 347
   },
   {
    "date": "2026-09-26",
-   "views": 2956
+   "views": 526
   },
   {
    "date": "2026-09-27",
-   "views": 3483
+   "views": 464
   },
   {
    "date": "2026-09-28",
-   "views": 4180
+   "views": 950
   },
   {
    "date": "2026-09-29",
-   "views": 12526
+   "views": 1919
   },
   {
    "date": "2026-09-30",
-   "views": 5830
+   "views": 1618
   },
   {
    "date": "2026-10-01",
-   "views": 3645
+   "views": 1270
   },
   {
    "date": "2026-10-02",
-   "views": 3292
+   "views": 1355
   },
   {
    "date": "2026-10-03",
-   "views": 3345
+   "views": 1037
   },
   {
    "date": "2026-10-04",
-   "views": 3148
+   "views": 1211
   },
   {
    "date": "2026-10-05",
-   "views": 3070
+   "views": 2502
   },
   {
    "date": "2026-10-06",
-   "views": 3255
+   "views": 1074
   },
   {
    "date": "2026-10-07",
-   "views": 3159
+   "views": 8193
   },
   {
    "date": "2026-10-08",
-   "views": 3794
+   "views": 3291
   },
   {
    "date": "2026-10-09",
-   "views": 4078
+   "views": 1686
   },
   {
    "date": "2026-10-10",
-   "views": 5824
+   "views": 1289
   },
   {
    "date": "2026-10-11",
-   "views": 4077
+   "views": 7966
   },
   {
    "date": "2026-10-12",
-   "views": 3303
+   "views": 3324
   },
   {
    "date": "2026-10-13",
-   "views": 2765
+   "views": 2855
   },
   {
    "date": "2026-10-14",
-   "views": 3223
+   "views": 5139
   },
   {
    "date": "2026-10-15",
-   "views": 2771
+   "views": 2210
   },
   {
    "date": "2026-10-16",
-   "views": 3173
+   "views": 2731
   },
   {
    "date": "2026-10-17",
-   "views": 4868
+   "views": 4797
   },
   {
    "date": "2026-10-18",
-   "views": 7180
+   "views": 2102
   },
   {
    "date": "2026-10-19",
-   "views": 103687
+   "views": 2484
   },
   {
    "date": "2026-10-20",
-   "views": 82077
+   "views": 2499
   },
   {
    "date": "2026-10-21",
-   "views": 55616
+   "views": 3740
+  },
+  {
+   "date": "2026-10-22",
+   "views": 86107
   }
  ],
- "wikipedia_title": "Dylan_Sprouse",
+ "wikipedia_title": "Yaxel_Lendeborg",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

@@ -1,37 +1,33 @@
 {
  "title": "10 Things I Hate About You",
  "slug": "10-things-i-hate-about-you",
- "score": 31,
- "status": "Breaking out",
- "change_percent": 583,
- "growth_ratio": 6.83,
- "recent_avg": 27023,
- "baseline_avg": 3959,
- "explanation": "Attention is 6.8\u00d7 its 30-day baseline.",
+ "score": 20,
+ "status": "Peaked / fading",
+ "change_percent": 817,
+ "growth_ratio": 9.17,
+ "recent_avg": 35862,
+ "baseline_avg": 3909,
+ "explanation": "Attention surged to 9.2\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 23064,
- "latest": 72237,
+ "abs_change": 31953,
+ "latest": 30459,
  "components": {
-  "acceleration": 0.491,
+  "acceleration": 0.567,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.716,
-  "spike_quality": 0.675
+  "persistence": 0.32,
+  "momentum": 0.453,
+  "volume": 0.777,
+  "spike_quality": 0.462
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,023 views/day over the last 3 days (30-day baseline: 3,959)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 35,862 views/day over the last 3 days (30-day baseline: 3,909)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 4325
-  },
   {
    "date": "2026-09-13",
    "views": 4389
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-21",
    "views": 72237
+  },
+  {
+   "date": "2026-10-22",
+   "views": 30459
   }
  ],
  "wikipedia_title": "10_Things_I_Hate_About_You",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

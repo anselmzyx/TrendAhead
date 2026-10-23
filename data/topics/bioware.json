@@ -1,36 +1,32 @@
 {
  "title": "BioWare",
  "slug": "bioware",
- "score": 35,
- "status": "Breaking out",
- "change_percent": 10651,
- "growth_ratio": 107.55,
- "recent_avg": 57304,
- "baseline_avg": 533,
- "explanation": "Attention is 108\u00d7 its 30-day baseline.",
+ "score": 37,
+ "status": "Elevated",
+ "change_percent": 18252,
+ "growth_ratio": 183.44,
+ "recent_avg": 97265,
+ "baseline_avg": 530,
+ "explanation": "Attention is 183\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 56771,
- "latest": 170992,
+ "abs_change": 96735,
+ "latest": 120343,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.879,
-  "spike_quality": 0.509
+  "persistence": 0.32,
+  "momentum": 0.556,
+  "volume": 0.994,
+  "spike_quality": 0.596
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 57,304 views/day over the last 3 days (30-day baseline: 533)."
+  "Averaging 97,265 views/day over the last 3 days (30-day baseline: 530)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 606
-  },
   {
    "date": "2026-09-13",
    "views": 648
@@ -186,11 +182,15 @@
   {
    "date": "2026-10-21",
    "views": 170992
+  },
+  {
+   "date": "2026-10-22",
+   "views": 120343
   }
  ],
  "wikipedia_title": "BioWare",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

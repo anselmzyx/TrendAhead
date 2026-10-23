@@ -1,38 +1,33 @@
 {
  "title": "YouTube",
  "slug": "youtube",
- "score": 34,
- "status": "Breaking out",
- "change_percent": 69,
- "growth_ratio": 1.69,
- "recent_avg": 64534,
- "baseline_avg": 38096,
- "explanation": "Recent attention is +69% vs its 30-day baseline.",
+ "score": 36,
+ "status": "Building",
+ "change_percent": 84,
+ "growth_ratio": 1.84,
+ "recent_avg": 70939,
+ "baseline_avg": 38640,
+ "explanation": "Recent attention is +84% vs its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 26438,
- "latest": 72325,
+ "abs_change": 32299,
+ "latest": 72002,
  "components": {
-  "acceleration": 0.135,
-  "anomaly": 0.659,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.905,
-  "spike_quality": 0.958
+  "acceleration": 0.155,
+  "anomaly": 0.675,
+  "persistence": 0.52,
+  "momentum": 0.797,
+  "volume": 0.925,
+  "spike_quality": 0.968
  },
  "why": [
   "Recent attention is close to this topic's usual level.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 64,534 views/day over the last 3 days (30-day baseline: 38,096)."
+  "Averaging 70,939 views/day over the last 3 days (30-day baseline: 38,640)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 29516
-  },
   {
    "date": "2026-09-13",
    "views": 31157
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-21",
    "views": 72325
+  },
+  {
+   "date": "2026-10-22",
+   "views": 72002
   }
  ],
  "wikipedia_title": "YouTube",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

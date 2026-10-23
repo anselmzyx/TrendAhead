@@ -1,37 +1,33 @@
 {
  "title": "Amy Acton",
  "slug": "amy-acton",
- "score": 48,
- "status": "Breaking out",
- "change_percent": 2078,
- "growth_ratio": 21.78,
- "recent_avg": 72698,
- "baseline_avg": 3338,
- "explanation": "Attention is 22\u00d7 its 30-day baseline.",
+ "score": 53,
+ "status": "Building",
+ "change_percent": 3396,
+ "growth_ratio": 34.96,
+ "recent_avg": 117406,
+ "baseline_avg": 3358,
+ "explanation": "Attention is 35\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 69360,
- "latest": 158230,
+ "abs_change": 114048,
+ "latest": 137065,
  "components": {
-  "acceleration": 0.788,
+  "acceleration": 0.909,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.931,
-  "spike_quality": 0.683
+  "persistence": 0.52,
+  "momentum": 0.72,
+  "volume": 1.0,
+  "spike_quality": 0.763
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 72,698 views/day over the last 3 days (30-day baseline: 3,338)."
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 117,406 views/day over the last 3 days (30-day baseline: 3,358)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 2782
-  },
   {
    "date": "2026-09-13",
    "views": 8749
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-21",
    "views": 158230
+  },
+  {
+   "date": "2026-10-22",
+   "views": 137065
   }
  ],
  "wikipedia_title": "Amy_Acton",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

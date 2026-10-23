@@ -1,197 +1,197 @@
 {
- "title": "Facebook",
- "slug": "facebook",
- "score": 38,
- "status": "Building",
- "change_percent": 101,
- "growth_ratio": 2.01,
- "recent_avg": 35273,
- "baseline_avg": 17559,
- "explanation": "Attention is 2.0\u00d7 its 30-day baseline.",
+ "title": "LeBron James",
+ "slug": "lebron-james",
+ "score": 27,
+ "status": "Peaked / fading",
+ "change_percent": 262,
+ "growth_ratio": 3.62,
+ "recent_avg": 41833,
+ "baseline_avg": 11541,
+ "explanation": "Attention surged to 3.6\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 17714,
- "latest": 37617,
+ "abs_change": 30292,
+ "latest": 34582,
  "components": {
-  "acceleration": 0.178,
-  "anomaly": 1.0,
+  "acceleration": 0.329,
+  "anomaly": 0.975,
   "persistence": 0.52,
-  "momentum": 0.781,
-  "volume": 0.774,
-  "spike_quality": 0.941
+  "momentum": 0.524,
+  "volume": 0.811,
+  "spike_quality": 0.641
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 35,273 views/day over the last 3 days (30-day baseline: 17,559)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 41,833 views/day over the last 3 days (30-day baseline: 11,541)."
  ],
  "history": [
   {
-   "date": "2026-09-12",
-   "views": 15344
-  },
-  {
    "date": "2026-09-13",
-   "views": 14357
+   "views": 7639
   },
   {
    "date": "2026-09-14",
-   "views": 16289
+   "views": 8861
   },
   {
    "date": "2026-09-15",
-   "views": 16375
+   "views": 8675
   },
   {
    "date": "2026-09-16",
-   "views": 16817
+   "views": 8317
   },
   {
    "date": "2026-09-17",
-   "views": 17084
+   "views": 8561
   },
   {
    "date": "2026-09-18",
-   "views": 17112
+   "views": 8330
   },
   {
    "date": "2026-09-19",
-   "views": 15505
+   "views": 6953
   },
   {
    "date": "2026-09-20",
-   "views": 15489
+   "views": 7049
   },
   {
    "date": "2026-09-21",
-   "views": 21752
+   "views": 7643
   },
   {
    "date": "2026-09-22",
-   "views": 18720
+   "views": 9077
   },
   {
    "date": "2026-09-23",
-   "views": 18512
+   "views": 8612
   },
   {
    "date": "2026-09-24",
-   "views": 19335
+   "views": 8744
   },
   {
    "date": "2026-09-25",
-   "views": 18761
+   "views": 9747
   },
   {
    "date": "2026-09-26",
-   "views": 16907
+   "views": 8864
   },
   {
    "date": "2026-09-27",
-   "views": 17022
+   "views": 7977
   },
   {
    "date": "2026-09-28",
-   "views": 18444
+   "views": 16006
   },
   {
    "date": "2026-09-29",
-   "views": 18724
+   "views": 22047
   },
   {
    "date": "2026-09-30",
-   "views": 17585
+   "views": 15441
   },
   {
    "date": "2026-10-01",
-   "views": 18292
+   "views": 12065
   },
   {
    "date": "2026-10-02",
-   "views": 18457
+   "views": 11098
   },
   {
    "date": "2026-10-03",
-   "views": 16893
+   "views": 10422
   },
   {
    "date": "2026-10-04",
-   "views": 16983
+   "views": 12151
   },
   {
    "date": "2026-10-05",
-   "views": 17202
+   "views": 12506
   },
   {
    "date": "2026-10-06",
-   "views": 15657
+   "views": 14129
   },
   {
    "date": "2026-10-07",
-   "views": 15807
+   "views": 11534
   },
   {
    "date": "2026-10-08",
-   "views": 17099
+   "views": 10836
   },
   {
    "date": "2026-10-09",
-   "views": 16946
+   "views": 17352
   },
   {
    "date": "2026-10-10",
-   "views": 16331
+   "views": 10645
   },
   {
    "date": "2026-10-11",
-   "views": 16324
+   "views": 10605
   },
   {
    "date": "2026-10-12",
-   "views": 16761
+   "views": 10491
   },
   {
    "date": "2026-10-13",
-   "views": 16791
+   "views": 9730
   },
   {
    "date": "2026-10-14",
-   "views": 17354
+   "views": 10519
   },
   {
    "date": "2026-10-15",
-   "views": 17510
+   "views": 10465
   },
   {
    "date": "2026-10-16",
-   "views": 17694
+   "views": 10614
   },
   {
    "date": "2026-10-17",
-   "views": 18375
+   "views": 12658
   },
   {
    "date": "2026-10-18",
-   "views": 19526
+   "views": 13110
   },
   {
    "date": "2026-10-19",
-   "views": 29371
+   "views": 14102
   },
   {
    "date": "2026-10-20",
-   "views": 38832
+   "views": 26863
   },
   {
    "date": "2026-10-21",
-   "views": 37617
+   "views": 64053
+  },
+  {
+   "date": "2026-10-22",
+   "views": 34582
   }
  ],
- "wikipedia_title": "Facebook",
+ "wikipedia_title": "LeBron_James",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }

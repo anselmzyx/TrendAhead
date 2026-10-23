@@ -1,37 +1,33 @@
 {
  "title": "Vivek Ramaswamy",
  "slug": "vivek-ramaswamy",
- "score": 43,
- "status": "Breaking out",
- "change_percent": 861,
- "growth_ratio": 9.61,
- "recent_avg": 52007,
- "baseline_avg": 5410,
- "explanation": "Attention is 9.6\u00d7 its 30-day baseline.",
+ "score": 51,
+ "status": "Building",
+ "change_percent": 1543,
+ "growth_ratio": 16.43,
+ "recent_avg": 89964,
+ "baseline_avg": 5475,
+ "explanation": "Attention is 16\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 46597,
- "latest": 126859,
+ "abs_change": 84489,
+ "latest": 119711,
  "components": {
-  "acceleration": 0.578,
+  "acceleration": 0.716,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.858,
-  "spike_quality": 0.666
+  "persistence": 0.52,
+  "momentum": 0.766,
+  "volume": 0.977,
+  "spike_quality": 0.801
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 52,007 views/day over the last 3 days (30-day baseline: 5,410)."
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 89,964 views/day over the last 3 days (30-day baseline: 5,475)."
  ],
  "history": [
-  {
-   "date": "2026-09-12",
-   "views": 5406
-  },
   {
    "date": "2026-09-13",
    "views": 6286
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-21",
    "views": 126859
+  },
+  {
+   "date": "2026-10-22",
+   "views": 119711
   }
  ],
  "wikipedia_title": "Vivek_Ramaswamy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-21",
- "generated_at_utc": "2026-10-22T10:35:31+00:00"
+ "data_through": "2026-10-22",
+ "generated_at_utc": "2026-10-23T10:28:13+00:00"
 }
