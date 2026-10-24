@@ -1,197 +1,198 @@
 {
- "title": "Osiris",
- "slug": "osiris",
- "score": 26,
- "status": "Elevated",
- "change_percent": 882,
- "growth_ratio": 9.82,
- "recent_avg": 47963,
- "baseline_avg": 4885,
- "explanation": "Attention is 9.8\u00d7 its 30-day baseline.",
+ "title": "XXX (2002 film)",
+ "slug": "xxx-2002-film",
+ "score": 37,
+ "status": "Building",
+ "change_percent": 140,
+ "growth_ratio": 2.4,
+ "recent_avg": 68256,
+ "baseline_avg": 28439,
+ "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 43078,
- "latest": 41510,
+ "abs_change": 39817,
+ "latest": 76009,
  "components": {
-  "acceleration": 0.584,
-  "anomaly": 0.363,
-  "persistence": 0.68,
-  "momentum": 0.382,
-  "volume": 0.84,
-  "spike_quality": 0.746
+  "acceleration": 0.224,
+  "anomaly": 0.294,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.917,
+  "spike_quality": 0.967
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 47,963 views/day over the last 3 days (30-day baseline: 4,885)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 68,256 views/day over the last 3 days (30-day baseline: 28,439)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 2280
-  },
-  {
    "date": "2026-09-14",
-   "views": 2881
+   "views": 85690
   },
   {
    "date": "2026-09-15",
-   "views": 2856
+   "views": 48727
   },
   {
    "date": "2026-09-16",
-   "views": 2231
+   "views": 21219
   },
   {
    "date": "2026-09-17",
-   "views": 2308
+   "views": 25007
   },
   {
    "date": "2026-09-18",
-   "views": 1851
+   "views": 20898
   },
   {
    "date": "2026-09-19",
-   "views": 1841
+   "views": 23629
   },
   {
    "date": "2026-09-20",
-   "views": 1822
+   "views": 24853
   },
   {
    "date": "2026-09-21",
-   "views": 2107
+   "views": 21952
   },
   {
    "date": "2026-09-22",
-   "views": 2217
+   "views": 17982
   },
   {
    "date": "2026-09-23",
-   "views": 1771
+   "views": 20646
   },
   {
    "date": "2026-09-24",
-   "views": 1922
+   "views": 25852
   },
   {
    "date": "2026-09-25",
-   "views": 1665
+   "views": 28835
   },
   {
    "date": "2026-09-26",
-   "views": 1633
+   "views": 15193
   },
   {
    "date": "2026-09-27",
-   "views": 1684
+   "views": 14981
   },
   {
    "date": "2026-09-28",
-   "views": 1722
+   "views": 13302
   },
   {
    "date": "2026-09-29",
-   "views": 2311
+   "views": 12623
   },
   {
    "date": "2026-09-30",
-   "views": 1927
+   "views": 16611
   },
   {
    "date": "2026-10-01",
-   "views": 1764
+   "views": 16424
   },
   {
    "date": "2026-10-02",
-   "views": 1592
+   "views": 15915
   },
   {
    "date": "2026-10-03",
-   "views": 1413
+   "views": 16483
   },
   {
    "date": "2026-10-04",
-   "views": 1538
+   "views": 16422
   },
   {
    "date": "2026-10-05",
-   "views": 1703
+   "views": 14388
   },
   {
    "date": "2026-10-06",
-   "views": 1610
+   "views": 18894
   },
   {
    "date": "2026-10-07",
-   "views": 1512
+   "views": 27210
   },
   {
    "date": "2026-10-08",
-   "views": 1586
+   "views": 40513
   },
   {
    "date": "2026-10-09",
-   "views": 1590
+   "views": 35740
   },
   {
    "date": "2026-10-10",
-   "views": 1512
+   "views": 39716
   },
   {
    "date": "2026-10-11",
-   "views": 2606
+   "views": 26985
   },
   {
    "date": "2026-10-12",
-   "views": 1897
+   "views": 43507
   },
   {
    "date": "2026-10-13",
-   "views": 1576
+   "views": 24740
   },
   {
    "date": "2026-10-14",
-   "views": 1682
+   "views": 57154
   },
   {
    "date": "2026-10-15",
-   "views": 1745
+   "views": 52103
   },
   {
    "date": "2026-10-16",
-   "views": 3579
+   "views": 42763
   },
   {
    "date": "2026-10-17",
-   "views": 22733
+   "views": 55305
   },
   {
    "date": "2026-10-18",
-   "views": 8897
+   "views": 48515
   },
   {
    "date": "2026-10-19",
-   "views": 65240
+   "views": 40877
   },
   {
    "date": "2026-10-20",
-   "views": 59407
+   "views": 31533
   },
   {
    "date": "2026-10-21",
-   "views": 42973
+   "views": 57630
   },
   {
    "date": "2026-10-22",
-   "views": 41510
+   "views": 71130
+  },
+  {
+   "date": "2026-10-23",
+   "views": 76009
   }
  ],
- "wikipedia_title": "Osiris",
+ "wikipedia_title": "XXX_(2002_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

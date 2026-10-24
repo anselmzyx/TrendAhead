@@ -1,196 +1,197 @@
 {
- "title": "Allen Bailey",
- "slug": "allen-bailey",
- "score": 31,
- "status": "Elevated",
- "change_percent": 199569,
- "growth_ratio": 319.47,
- "recent_avg": 31947,
- "baseline_avg": 16,
- "explanation": "Attention is 319\u00d7 its 30-day baseline.",
+ "title": "Thuggee",
+ "slug": "thuggee",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 4465,
+ "growth_ratio": 45.67,
+ "recent_avg": 24285,
+ "baseline_avg": 532,
+ "explanation": "Attention is 46\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31931,
- "latest": 33651,
+ "abs_change": 23753,
+ "latest": 70755,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.977,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.531,
-  "volume": 0.752,
-  "spike_quality": 0.489
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.693,
+  "spike_quality": 0.532
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 31,947 views/day over the last 3 days (30-day baseline: 16)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 24,285 views/day over the last 3 days (30-day baseline: 532)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 14
-  },
-  {
    "date": "2026-09-14",
-   "views": 15
+   "views": 563
   },
   {
    "date": "2026-09-15",
-   "views": 24
+   "views": 561
   },
   {
    "date": "2026-09-16",
-   "views": 9
+   "views": 504
   },
   {
    "date": "2026-09-17",
-   "views": 16
+   "views": 955
   },
   {
    "date": "2026-09-18",
-   "views": 26
+   "views": 585
   },
   {
    "date": "2026-09-19",
-   "views": 10
+   "views": 573
   },
   {
    "date": "2026-09-20",
-   "views": 14
+   "views": 580
   },
   {
    "date": "2026-09-21",
-   "views": 19
+   "views": 586
   },
   {
    "date": "2026-09-22",
-   "views": 11
+   "views": 559
   },
   {
    "date": "2026-09-23",
-   "views": 12
+   "views": 678
   },
   {
    "date": "2026-09-24",
-   "views": 26
+   "views": 528
   },
   {
    "date": "2026-09-25",
-   "views": 14
+   "views": 530
   },
   {
    "date": "2026-09-26",
-   "views": 8
+   "views": 526
   },
   {
    "date": "2026-09-27",
-   "views": 5
+   "views": 584
   },
   {
    "date": "2026-09-28",
-   "views": 39
+   "views": 510
   },
   {
    "date": "2026-09-29",
-   "views": 18
+   "views": 559
   },
   {
    "date": "2026-09-30",
-   "views": 20
+   "views": 523
   },
   {
    "date": "2026-10-01",
-   "views": 12
+   "views": 549
   },
   {
    "date": "2026-10-02",
-   "views": 9
+   "views": 528
   },
   {
    "date": "2026-10-03",
-   "views": 24
+   "views": 450
   },
   {
    "date": "2026-10-04",
-   "views": 28
+   "views": 547
   },
   {
    "date": "2026-10-05",
-   "views": 11
+   "views": 538
   },
   {
    "date": "2026-10-06",
-   "views": 14
+   "views": 503
   },
   {
    "date": "2026-10-07",
-   "views": 13
+   "views": 489
   },
   {
    "date": "2026-10-08",
-   "views": 12
+   "views": 754
   },
   {
    "date": "2026-10-09",
-   "views": 12
+   "views": 456
   },
   {
    "date": "2026-10-10",
-   "views": 12
+   "views": 513
   },
   {
    "date": "2026-10-11",
-   "views": 15
+   "views": 528
   },
   {
    "date": "2026-10-12",
-   "views": 21
+   "views": 613
   },
   {
    "date": "2026-10-13",
-   "views": 13
+   "views": 521
   },
   {
    "date": "2026-10-14",
-   "views": 16
+   "views": 442
   },
   {
    "date": "2026-10-15",
-   "views": 17
+   "views": 456
   },
   {
    "date": "2026-10-16",
-   "views": 14
+   "views": 442
   },
   {
    "date": "2026-10-17",
-   "views": 14
+   "views": 486
   },
   {
    "date": "2026-10-18",
-   "views": 15
+   "views": 578
   },
   {
    "date": "2026-10-19",
-   "views": 10
+   "views": 530
   },
   {
    "date": "2026-10-20",
-   "views": 1253
+   "views": 445
   },
   {
    "date": "2026-10-21",
-   "views": 60938
+   "views": 361
   },
   {
    "date": "2026-10-22",
-   "views": 33651
+   "views": 1740
+  },
+  {
+   "date": "2026-10-23",
+   "views": 70755
   }
  ],
- "wikipedia_title": "Allen_Bailey",
+ "wikipedia_title": "Thuggee",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

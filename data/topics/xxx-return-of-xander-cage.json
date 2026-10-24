@@ -1,197 +1,198 @@
 {
- "title": "LeBron James",
- "slug": "lebron-james",
- "score": 27,
- "status": "Peaked / fading",
- "change_percent": 262,
- "growth_ratio": 3.62,
- "recent_avg": 41833,
- "baseline_avg": 11541,
- "explanation": "Attention surged to 3.6\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "XXX: Return of Xander Cage",
+ "slug": "xxx-return-of-xander-cage",
+ "score": 38,
+ "status": "Building",
+ "change_percent": 301,
+ "growth_ratio": 4.01,
+ "recent_avg": 55367,
+ "baseline_avg": 13797,
+ "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 30292,
- "latest": 34582,
+ "abs_change": 41570,
+ "latest": 83223,
  "components": {
-  "acceleration": 0.329,
-  "anomaly": 0.975,
-  "persistence": 0.52,
-  "momentum": 0.524,
-  "volume": 0.811,
-  "spike_quality": 0.641
+  "acceleration": 0.355,
+  "anomaly": 0.39,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.872,
+  "spike_quality": 0.829
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 41,833 views/day over the last 3 days (30-day baseline: 11,541)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 55,367 views/day over the last 3 days (30-day baseline: 13,797)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 7639
-  },
-  {
    "date": "2026-09-14",
-   "views": 8861
+   "views": 14032
   },
   {
    "date": "2026-09-15",
-   "views": 8675
+   "views": 9242
   },
   {
    "date": "2026-09-16",
-   "views": 8317
+   "views": 4575
   },
   {
    "date": "2026-09-17",
-   "views": 8561
+   "views": 5120
   },
   {
    "date": "2026-09-18",
-   "views": 8330
+   "views": 5044
   },
   {
    "date": "2026-09-19",
-   "views": 6953
+   "views": 5300
   },
   {
    "date": "2026-09-20",
-   "views": 7049
+   "views": 5297
   },
   {
    "date": "2026-09-21",
-   "views": 7643
+   "views": 5035
   },
   {
    "date": "2026-09-22",
-   "views": 9077
+   "views": 4739
   },
   {
    "date": "2026-09-23",
-   "views": 8612
+   "views": 5440
   },
   {
    "date": "2026-09-24",
-   "views": 8744
+   "views": 5949
   },
   {
    "date": "2026-09-25",
-   "views": 9747
+   "views": 5889
   },
   {
    "date": "2026-09-26",
-   "views": 8864
+   "views": 6852
   },
   {
    "date": "2026-09-27",
-   "views": 7977
+   "views": 6866
   },
   {
    "date": "2026-09-28",
-   "views": 16006
+   "views": 5639
   },
   {
    "date": "2026-09-29",
-   "views": 22047
+   "views": 6778
   },
   {
    "date": "2026-09-30",
-   "views": 15441
+   "views": 18016
   },
   {
    "date": "2026-10-01",
-   "views": 12065
+   "views": 26696
   },
   {
    "date": "2026-10-02",
-   "views": 11098
+   "views": 31722
   },
   {
    "date": "2026-10-03",
-   "views": 10422
+   "views": 32706
   },
   {
    "date": "2026-10-04",
-   "views": 12151
+   "views": 11827
   },
   {
    "date": "2026-10-05",
-   "views": 12506
+   "views": 16177
   },
   {
    "date": "2026-10-06",
-   "views": 14129
+   "views": 37281
   },
   {
    "date": "2026-10-07",
-   "views": 11534
+   "views": 30979
   },
   {
    "date": "2026-10-08",
-   "views": 10836
+   "views": 31361
   },
   {
    "date": "2026-10-09",
-   "views": 17352
+   "views": 29563
   },
   {
    "date": "2026-10-10",
-   "views": 10645
+   "views": 23806
   },
   {
    "date": "2026-10-11",
-   "views": 10605
+   "views": 9073
   },
   {
    "date": "2026-10-12",
-   "views": 10491
+   "views": 7557
   },
   {
    "date": "2026-10-13",
-   "views": 9730
+   "views": 7417
   },
   {
    "date": "2026-10-14",
-   "views": 10519
+   "views": 7390
   },
   {
    "date": "2026-10-15",
-   "views": 10465
+   "views": 7098
   },
   {
    "date": "2026-10-16",
-   "views": 10614
+   "views": 7081
   },
   {
    "date": "2026-10-17",
-   "views": 12658
+   "views": 7427
   },
   {
    "date": "2026-10-18",
-   "views": 13110
+   "views": 6656
   },
   {
    "date": "2026-10-19",
-   "views": 14102
+   "views": 6068
   },
   {
    "date": "2026-10-20",
-   "views": 26863
+   "views": 4830
   },
   {
    "date": "2026-10-21",
-   "views": 64053
+   "views": 41394
   },
   {
    "date": "2026-10-22",
-   "views": 34582
+   "views": 41485
+  },
+  {
+   "date": "2026-10-23",
+   "views": 83223
   }
  ],
- "wikipedia_title": "LeBron_James",
+ "wikipedia_title": "XXX:_Return_of_Xander_Cage",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

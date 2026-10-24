@@ -1,197 +1,198 @@
 {
- "title": "YouTube",
- "slug": "youtube",
- "score": 36,
+ "title": "Wildwood (film)",
+ "slug": "wildwood-film",
+ "score": 60,
  "status": "Building",
- "change_percent": 84,
- "growth_ratio": 1.84,
- "recent_avg": 70939,
- "baseline_avg": 38640,
- "explanation": "Recent attention is +84% vs its 30-day baseline.",
+ "change_percent": 361,
+ "growth_ratio": 4.61,
+ "recent_avg": 51302,
+ "baseline_avg": 11124,
+ "explanation": "Attention is 4.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 32299,
- "latest": 72002,
+ "abs_change": 40178,
+ "latest": 78675,
  "components": {
-  "acceleration": 0.155,
-  "anomaly": 0.675,
-  "persistence": 0.52,
-  "momentum": 0.797,
-  "volume": 0.925,
-  "spike_quality": 0.968
+  "acceleration": 0.391,
+  "anomaly": 0.699,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.855,
+  "spike_quality": 0.883
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 70,939 views/day over the last 3 days (30-day baseline: 38,640)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 51,302 views/day over the last 3 days (30-day baseline: 11,124)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 31157
-  },
-  {
    "date": "2026-09-14",
-   "views": 33518
+   "views": 4600
   },
   {
    "date": "2026-09-15",
-   "views": 32876
+   "views": 5353
   },
   {
    "date": "2026-09-16",
-   "views": 34271
+   "views": 9137
   },
   {
    "date": "2026-09-17",
-   "views": 36818
+   "views": 7709
   },
   {
    "date": "2026-09-18",
-   "views": 37652
+   "views": 7959
   },
   {
    "date": "2026-09-19",
-   "views": 36455
+   "views": 7607
   },
   {
    "date": "2026-09-20",
-   "views": 35892
+   "views": 7980
   },
   {
    "date": "2026-09-21",
-   "views": 35665
+   "views": 8275
   },
   {
    "date": "2026-09-22",
-   "views": 37472
+   "views": 7017
   },
   {
    "date": "2026-09-23",
-   "views": 38176
+   "views": 6970
   },
   {
    "date": "2026-09-24",
-   "views": 36867
+   "views": 6645
   },
   {
    "date": "2026-09-25",
-   "views": 36075
+   "views": 6156
   },
   {
    "date": "2026-09-26",
-   "views": 34740
+   "views": 6291
   },
   {
    "date": "2026-09-27",
-   "views": 36899
+   "views": 6852
   },
   {
    "date": "2026-09-28",
-   "views": 39043
+   "views": 6890
   },
   {
    "date": "2026-09-29",
-   "views": 39400
+   "views": 7569
   },
   {
    "date": "2026-09-30",
-   "views": 36681
+   "views": 6440
   },
   {
    "date": "2026-10-01",
-   "views": 58383
+   "views": 7412
   },
   {
    "date": "2026-10-02",
-   "views": 38131
+   "views": 7780
   },
   {
    "date": "2026-10-03",
-   "views": 38456
+   "views": 7571
   },
   {
    "date": "2026-10-04",
-   "views": 38167
+   "views": 8838
   },
   {
    "date": "2026-10-05",
-   "views": 38168
+   "views": 7779
   },
   {
    "date": "2026-10-06",
-   "views": 37713
+   "views": 7424
   },
   {
    "date": "2026-10-07",
-   "views": 38576
+   "views": 7676
   },
   {
    "date": "2026-10-08",
-   "views": 39043
+   "views": 7607
   },
   {
    "date": "2026-10-09",
-   "views": 40483
+   "views": 8085
   },
   {
    "date": "2026-10-10",
-   "views": 37778
+   "views": 8350
   },
   {
    "date": "2026-10-11",
-   "views": 36516
+   "views": 20756
   },
   {
    "date": "2026-10-12",
-   "views": 38386
+   "views": 24197
   },
   {
    "date": "2026-10-13",
-   "views": 38319
+   "views": 18538
   },
   {
    "date": "2026-10-14",
-   "views": 37043
+   "views": 14820
   },
   {
    "date": "2026-10-15",
-   "views": 38126
+   "views": 16565
   },
   {
    "date": "2026-10-16",
-   "views": 36016
+   "views": 16297
   },
   {
    "date": "2026-10-17",
-   "views": 34213
+   "views": 14393
   },
   {
    "date": "2026-10-18",
-   "views": 35996
+   "views": 16132
   },
   {
    "date": "2026-10-19",
-   "views": 52787
+   "views": 18175
   },
   {
    "date": "2026-10-20",
-   "views": 68490
+   "views": 26214
   },
   {
    "date": "2026-10-21",
-   "views": 72325
+   "views": 31336
   },
   {
    "date": "2026-10-22",
-   "views": 72002
+   "views": 43895
+  },
+  {
+   "date": "2026-10-23",
+   "views": 78675
   }
  ],
- "wikipedia_title": "YouTube",
+ "wikipedia_title": "Wildwood_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

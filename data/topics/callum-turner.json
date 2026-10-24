@@ -1,197 +1,198 @@
 {
- "title": "10 Things I Hate About You",
- "slug": "10-things-i-hate-about-you",
- "score": 20,
- "status": "Peaked / fading",
- "change_percent": 817,
- "growth_ratio": 9.17,
- "recent_avg": 35862,
- "baseline_avg": 3909,
- "explanation": "Attention surged to 9.2\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Callum Turner",
+ "slug": "callum-turner",
+ "score": 29,
+ "status": "Breaking out",
+ "change_percent": 192,
+ "growth_ratio": 2.92,
+ "recent_avg": 25144,
+ "baseline_avg": 8615,
+ "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31953,
- "latest": 30459,
+ "abs_change": 16529,
+ "latest": 49808,
  "components": {
-  "acceleration": 0.567,
-  "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.453,
-  "volume": 0.777,
-  "spike_quality": 0.462
+  "acceleration": 0.274,
+  "anomaly": 0.684,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.7,
+  "spike_quality": 0.806
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 35,862 views/day over the last 3 days (30-day baseline: 3,909)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,144 views/day over the last 3 days (30-day baseline: 8,615)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 4389
-  },
-  {
    "date": "2026-09-14",
-   "views": 3591
+   "views": 9862
   },
   {
    "date": "2026-09-15",
-   "views": 3404
+   "views": 8302
   },
   {
    "date": "2026-09-16",
-   "views": 4462
+   "views": 7737
   },
   {
    "date": "2026-09-17",
-   "views": 7322
+   "views": 7478
   },
   {
    "date": "2026-09-18",
-   "views": 6064
+   "views": 8600
   },
   {
    "date": "2026-09-19",
-   "views": 5432
+   "views": 9681
   },
   {
    "date": "2026-09-20",
-   "views": 5197
+   "views": 9107
   },
   {
    "date": "2026-09-21",
-   "views": 4877
+   "views": 7599
   },
   {
    "date": "2026-09-22",
-   "views": 4563
+   "views": 7175
   },
   {
    "date": "2026-09-23",
-   "views": 5806
+   "views": 8227
   },
   {
    "date": "2026-09-24",
-   "views": 4101
+   "views": 6701
   },
   {
    "date": "2026-09-25",
-   "views": 3220
+   "views": 7245
   },
   {
    "date": "2026-09-26",
-   "views": 3993
+   "views": 10352
   },
   {
    "date": "2026-09-27",
-   "views": 4023
+   "views": 12426
   },
   {
    "date": "2026-09-28",
-   "views": 3079
+   "views": 9874
   },
   {
    "date": "2026-09-29",
-   "views": 2995
+   "views": 8453
   },
   {
    "date": "2026-09-30",
-   "views": 3840
+   "views": 8074
   },
   {
    "date": "2026-10-01",
-   "views": 3067
+   "views": 7987
   },
   {
    "date": "2026-10-02",
-   "views": 2913
+   "views": 8821
   },
   {
    "date": "2026-10-03",
-   "views": 3207
+   "views": 10035
   },
   {
    "date": "2026-10-04",
-   "views": 3136
+   "views": 11694
   },
   {
    "date": "2026-10-05",
-   "views": 2898
+   "views": 9591
   },
   {
    "date": "2026-10-06",
-   "views": 2953
+   "views": 7670
   },
   {
    "date": "2026-10-07",
-   "views": 3697
+   "views": 7113
   },
   {
    "date": "2026-10-08",
-   "views": 3297
+   "views": 17935
   },
   {
    "date": "2026-10-09",
-   "views": 3554
+   "views": 10893
   },
   {
    "date": "2026-10-10",
-   "views": 3516
+   "views": 10665
   },
   {
    "date": "2026-10-11",
-   "views": 3505
+   "views": 9011
   },
   {
    "date": "2026-10-12",
-   "views": 3054
+   "views": 6966
   },
   {
    "date": "2026-10-13",
-   "views": 2708
+   "views": 5942
   },
   {
    "date": "2026-10-14",
-   "views": 4034
+   "views": 5964
   },
   {
    "date": "2026-10-15",
-   "views": 6730
+   "views": 6232
   },
   {
    "date": "2026-10-16",
-   "views": 5622
+   "views": 6495
   },
   {
    "date": "2026-10-17",
-   "views": 5435
+   "views": 7040
   },
   {
    "date": "2026-10-18",
-   "views": 4323
+   "views": 8103
   },
   {
    "date": "2026-10-19",
-   "views": 3941
+   "views": 6961
   },
   {
    "date": "2026-10-20",
-   "views": 4891
+   "views": 7218
   },
   {
    "date": "2026-10-21",
-   "views": 72237
+   "views": 6659
   },
   {
    "date": "2026-10-22",
-   "views": 30459
+   "views": 18964
+  },
+  {
+   "date": "2026-10-23",
+   "views": 49808
   }
  ],
- "wikipedia_title": "10_Things_I_Hate_About_You",
+ "wikipedia_title": "Callum_Turner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

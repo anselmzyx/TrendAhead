@@ -1,197 +1,197 @@
 {
- "title": "Walker Kessler",
- "slug": "walker-kessler",
- "score": 38,
+ "title": "H3h3Productions",
+ "slug": "h3h3productions",
+ "score": 36,
  "status": "Breaking out",
- "change_percent": 1989,
- "growth_ratio": 20.88,
- "recent_avg": 21491,
- "baseline_avg": 1029,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "change_percent": 7967,
+ "growth_ratio": 80.59,
+ "recent_avg": 30816,
+ "baseline_avg": 382,
+ "explanation": "Attention is 81\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 20462,
- "latest": 61502,
+ "abs_change": 30434,
+ "latest": 91812,
  "components": {
-  "acceleration": 0.777,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.666,
-  "spike_quality": 0.568
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.744,
+  "spike_quality": 0.511
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 21,491 views/day over the last 3 days (30-day baseline: 1,029)."
+  "Averaging 30,816 views/day over the last 3 days (30-day baseline: 382)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 375
-  },
-  {
    "date": "2026-09-14",
-   "views": 318
+   "views": 459
   },
   {
    "date": "2026-09-15",
-   "views": 292
+   "views": 338
   },
   {
    "date": "2026-09-16",
-   "views": 348
+   "views": 522
   },
   {
    "date": "2026-09-17",
-   "views": 397
+   "views": 390
   },
   {
    "date": "2026-09-18",
-   "views": 490
+   "views": 394
   },
   {
    "date": "2026-09-19",
-   "views": 343
+   "views": 323
   },
   {
    "date": "2026-09-20",
-   "views": 322
+   "views": 325
   },
   {
    "date": "2026-09-21",
-   "views": 402
+   "views": 318
   },
   {
    "date": "2026-09-22",
-   "views": 460
+   "views": 364
   },
   {
    "date": "2026-09-23",
-   "views": 510
+   "views": 328
   },
   {
    "date": "2026-09-24",
-   "views": 792
+   "views": 298
   },
   {
    "date": "2026-09-25",
-   "views": 1277
+   "views": 303
   },
   {
    "date": "2026-09-26",
-   "views": 950
+   "views": 315
   },
   {
    "date": "2026-09-27",
-   "views": 717
+   "views": 265
   },
   {
    "date": "2026-09-28",
-   "views": 1116
+   "views": 290
   },
   {
    "date": "2026-09-29",
-   "views": 1781
+   "views": 507
   },
   {
    "date": "2026-09-30",
-   "views": 1438
+   "views": 648
   },
   {
    "date": "2026-10-01",
-   "views": 942
+   "views": 503
   },
   {
    "date": "2026-10-02",
-   "views": 1032
+   "views": 468
   },
   {
    "date": "2026-10-03",
-   "views": 832
+   "views": 1219
   },
   {
    "date": "2026-10-04",
-   "views": 673
+   "views": 384
   },
   {
    "date": "2026-10-05",
-   "views": 704
+   "views": 366
   },
   {
    "date": "2026-10-06",
-   "views": 935
+   "views": 452
   },
   {
    "date": "2026-10-07",
-   "views": 697
+   "views": 462
   },
   {
    "date": "2026-10-08",
-   "views": 597
+   "views": 360
   },
   {
    "date": "2026-10-09",
-   "views": 1656
+   "views": 307
   },
   {
    "date": "2026-10-10",
-   "views": 678
+   "views": 309
   },
   {
    "date": "2026-10-11",
-   "views": 575
+   "views": 297
   },
   {
    "date": "2026-10-12",
-   "views": 645
+   "views": 326
   },
   {
    "date": "2026-10-13",
-   "views": 688
+   "views": 290
   },
   {
    "date": "2026-10-14",
-   "views": 4107
+   "views": 281
   },
   {
    "date": "2026-10-15",
-   "views": 1202
+   "views": 364
   },
   {
    "date": "2026-10-16",
-   "views": 944
+   "views": 286
   },
   {
    "date": "2026-10-17",
-   "views": 2209
+   "views": 270
   },
   {
    "date": "2026-10-18",
-   "views": 1049
+   "views": 317
   },
   {
    "date": "2026-10-19",
-   "views": 945
+   "views": 309
   },
   {
    "date": "2026-10-20",
-   "views": 1215
+   "views": 266
   },
   {
    "date": "2026-10-21",
-   "views": 1757
+   "views": 255
   },
   {
    "date": "2026-10-22",
-   "views": 61502
+   "views": 382
+  },
+  {
+   "date": "2026-10-23",
+   "views": 91812
   }
  ],
- "wikipedia_title": "Walker_Kessler",
+ "wikipedia_title": "H3h3Productions",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

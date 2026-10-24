@@ -1,37 +1,32 @@
 {
  "title": "Ron Duguay",
  "slug": "ron-duguay",
- "score": 43,
- "status": "Breaking out",
- "change_percent": 7160,
- "growth_ratio": 72.69,
- "recent_avg": 32091,
- "baseline_avg": 442,
- "explanation": "Attention is 73\u00d7 its 30-day baseline.",
+ "score": 35,
+ "status": "Elevated",
+ "change_percent": 10959,
+ "growth_ratio": 110.47,
+ "recent_avg": 50317,
+ "baseline_avg": 455,
+ "explanation": "Attention is 110\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31649,
- "latest": 92485,
+ "abs_change": 49862,
+ "latest": 55287,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.753,
-  "spike_quality": 0.533
+  "persistence": 0.52,
+  "momentum": 0.559,
+  "volume": 0.851,
+  "spike_quality": 0.529
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,091 views/day over the last 3 days (30-day baseline: 442)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 50,317 views/day over the last 3 days (30-day baseline: 455)."
  ],
  "history": [
-  {
-   "date": "2026-09-13",
-   "views": 169
-  },
   {
    "date": "2026-09-14",
    "views": 149
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-22",
    "views": 92485
+  },
+  {
+   "date": "2026-10-23",
+   "views": 55287
   }
  ],
  "wikipedia_title": "Ron_Duguay",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

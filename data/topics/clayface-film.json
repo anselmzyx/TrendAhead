@@ -1,38 +1,34 @@
 {
  "title": "Clayface (film)",
  "slug": "clayface-film",
- "score": 64,
+ "score": 75,
  "status": "Building",
- "change_percent": 411,
- "growth_ratio": 5.11,
- "recent_avg": 110998,
- "baseline_avg": 21719,
- "explanation": "Attention is 5.1\u00d7 its 30-day baseline.",
+ "change_percent": 666,
+ "growth_ratio": 7.66,
+ "recent_avg": 179511,
+ "baseline_avg": 23439,
+ "explanation": "Attention is 7.7\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 89279,
- "latest": 168347,
+ "abs_change": 156072,
+ "latest": 264281,
  "components": {
-  "acceleration": 0.417,
-  "anomaly": 0.748,
-  "persistence": 0.92,
+  "acceleration": 0.52,
+  "anomaly": 1.0,
+  "persistence": 1.0,
   "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.885
+  "spike_quality": 0.867
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 110,998 views/day over the last 3 days (30-day baseline: 21,719)."
+  "Averaging 179,511 views/day over the last 3 days (30-day baseline: 23,439)."
  ],
  "history": [
-  {
-   "date": "2026-09-13",
-   "views": 5718
-  },
   {
    "date": "2026-09-14",
    "views": 9097
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-22",
    "views": 168347
+  },
+  {
+   "date": "2026-10-23",
+   "views": 264281
   }
  ],
  "wikipedia_title": "Clayface_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

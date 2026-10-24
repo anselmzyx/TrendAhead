@@ -1,197 +1,198 @@
 {
- "title": "Vivek Ramaswamy",
- "slug": "vivek-ramaswamy",
- "score": 51,
+ "title": "XXX (film series)",
+ "slug": "xxx-film-series",
+ "score": 25,
  "status": "Building",
- "change_percent": 1543,
- "growth_ratio": 16.43,
- "recent_avg": 89964,
- "baseline_avg": 5475,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "change_percent": 77,
+ "growth_ratio": 1.77,
+ "recent_avg": 45747,
+ "baseline_avg": 25853,
+ "explanation": "Recent attention is +77% vs its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 84489,
- "latest": 119711,
+ "abs_change": 19894,
+ "latest": 52841,
  "components": {
-  "acceleration": 0.716,
-  "anomaly": 1.0,
+  "acceleration": 0.146,
+  "anomaly": 0.199,
   "persistence": 0.52,
-  "momentum": 0.766,
-  "volume": 0.977,
-  "spike_quality": 0.801
+  "momentum": 0.867,
+  "volume": 0.83,
+  "spike_quality": 0.949
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 89,964 views/day over the last 3 days (30-day baseline: 5,475)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 45,747 views/day over the last 3 days (30-day baseline: 25,853)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 6286
-  },
-  {
    "date": "2026-09-14",
-   "views": 4158
+   "views": 27286
   },
   {
    "date": "2026-09-15",
-   "views": 4141
+   "views": 25826
   },
   {
    "date": "2026-09-16",
-   "views": 4097
+   "views": 44201
   },
   {
    "date": "2026-09-17",
-   "views": 4241
+   "views": 54181
   },
   {
    "date": "2026-09-18",
-   "views": 4086
+   "views": 52129
   },
   {
    "date": "2026-09-19",
-   "views": 3907
+   "views": 57797
   },
   {
    "date": "2026-09-20",
-   "views": 5306
+   "views": 48973
   },
   {
    "date": "2026-09-21",
-   "views": 6631
+   "views": 51404
   },
   {
    "date": "2026-09-22",
-   "views": 5599
+   "views": 32597
   },
   {
    "date": "2026-09-23",
-   "views": 6253
+   "views": 43222
   },
   {
    "date": "2026-09-24",
-   "views": 4788
+   "views": 43454
   },
   {
    "date": "2026-09-25",
-   "views": 4135
+   "views": 41562
   },
   {
    "date": "2026-09-26",
-   "views": 3745
+   "views": 38099
   },
   {
    "date": "2026-09-27",
-   "views": 4411
+   "views": 30672
   },
   {
    "date": "2026-09-28",
-   "views": 4648
+   "views": 40226
   },
   {
    "date": "2026-09-29",
-   "views": 4740
+   "views": 34893
   },
   {
    "date": "2026-09-30",
-   "views": 3888
+   "views": 15354
   },
   {
    "date": "2026-10-01",
-   "views": 3858
+   "views": 15344
   },
   {
    "date": "2026-10-02",
-   "views": 4126
+   "views": 17091
   },
   {
    "date": "2026-10-03",
-   "views": 4257
+   "views": 17584
   },
   {
    "date": "2026-10-04",
-   "views": 7904
+   "views": 16697
   },
   {
    "date": "2026-10-05",
-   "views": 6703
+   "views": 16698
   },
   {
    "date": "2026-10-06",
-   "views": 8510
+   "views": 25398
   },
   {
    "date": "2026-10-07",
-   "views": 6537
+   "views": 29248
   },
   {
    "date": "2026-10-08",
-   "views": 5773
+   "views": 19877
   },
   {
    "date": "2026-10-09",
-   "views": 5359
+   "views": 17560
   },
   {
    "date": "2026-10-10",
-   "views": 5788
+   "views": 20122
   },
   {
    "date": "2026-10-11",
-   "views": 6237
+   "views": 16995
   },
   {
    "date": "2026-10-12",
-   "views": 5660
+   "views": 19476
   },
   {
    "date": "2026-10-13",
-   "views": 6953
+   "views": 19423
   },
   {
    "date": "2026-10-14",
-   "views": 5495
+   "views": 18619
   },
   {
    "date": "2026-10-15",
-   "views": 5384
+   "views": 19582
   },
   {
    "date": "2026-10-16",
-   "views": 5213
+   "views": 22211
   },
   {
    "date": "2026-10-17",
-   "views": 4865
+   "views": 24655
   },
   {
    "date": "2026-10-18",
-   "views": 5641
+   "views": 24767
   },
   {
    "date": "2026-10-19",
-   "views": 5840
+   "views": 21790
   },
   {
    "date": "2026-10-20",
-   "views": 23321
+   "views": 20984
   },
   {
    "date": "2026-10-21",
-   "views": 126859
+   "views": 43280
   },
   {
    "date": "2026-10-22",
-   "views": 119711
+   "views": 41121
+  },
+  {
+   "date": "2026-10-23",
+   "views": 52841
   }
  ],
- "wikipedia_title": "Vivek_Ramaswamy",
+ "wikipedia_title": "XXX_(film_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

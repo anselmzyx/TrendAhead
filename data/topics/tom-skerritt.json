@@ -1,37 +1,34 @@
 {
  "title": "Tom Skerritt",
  "slug": "tom-skerritt",
- "score": 42,
+ "score": 64,
  "status": "Breaking out",
- "change_percent": 5845,
- "growth_ratio": 59.45,
- "recent_avg": 124902,
- "baseline_avg": 2101,
- "explanation": "Attention is 59\u00d7 its 30-day baseline.",
+ "change_percent": 12453,
+ "growth_ratio": 125.52,
+ "recent_avg": 259857,
+ "baseline_avg": 2070,
+ "explanation": "Attention is 126\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 122801,
- "latest": 371141,
+ "abs_change": 257787,
+ "latest": 406636,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
+  "persistence": 0.4,
+  "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.521
+  "spike_quality": 0.783
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 124,902 views/day over the last 3 days (30-day baseline: 2,101)."
+  "Averaging 259,857 views/day over the last 3 days (30-day baseline: 2,070)."
  ],
  "history": [
-  {
-   "date": "2026-09-13",
-   "views": 2946
-  },
   {
    "date": "2026-09-14",
    "views": 2001
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-22",
    "views": 371141
+  },
+  {
+   "date": "2026-10-23",
+   "views": 406636
   }
  ],
  "wikipedia_title": "Tom_Skerritt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Como 1907",
- "slug": "como-1907",
- "score": 31,
- "status": "Peaked / fading",
- "change_percent": 2019,
- "growth_ratio": 21.19,
- "recent_avg": 60027,
- "baseline_avg": 2833,
- "explanation": "Attention surged to 21\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Death of Kyle Plush",
+ "slug": "death-of-kyle-plush",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 16835,
+ "growth_ratio": 169.74,
+ "recent_avg": 26927,
+ "baseline_avg": 159,
+ "explanation": "Attention is 170\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 57194,
- "latest": 59809,
+ "abs_change": 26768,
+ "latest": 79910,
  "components": {
-  "acceleration": 0.781,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.517,
-  "volume": 0.889,
-  "spike_quality": 0.504
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.715,
+  "spike_quality": 0.509
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 60,027 views/day over the last 3 days (30-day baseline: 2,833)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 26,927 views/day over the last 3 days (30-day baseline: 159)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 6582
-  },
-  {
    "date": "2026-09-14",
-   "views": 8506
+   "views": 174
   },
   {
    "date": "2026-09-15",
-   "views": 6626
+   "views": 147
   },
   {
    "date": "2026-09-16",
-   "views": 4657
+   "views": 170
   },
   {
    "date": "2026-09-17",
-   "views": 3823
+   "views": 142
   },
   {
    "date": "2026-09-18",
-   "views": 3787
+   "views": 139
   },
   {
    "date": "2026-09-19",
-   "views": 3784
+   "views": 142
   },
   {
    "date": "2026-09-20",
-   "views": 3585
+   "views": 160
   },
   {
    "date": "2026-09-21",
-   "views": 2645
+   "views": 165
   },
   {
    "date": "2026-09-22",
-   "views": 2475
+   "views": 162
   },
   {
    "date": "2026-09-23",
-   "views": 2551
+   "views": 138
   },
   {
    "date": "2026-09-24",
-   "views": 2221
+   "views": 132
   },
   {
    "date": "2026-09-25",
-   "views": 2224
+   "views": 126
   },
   {
    "date": "2026-09-26",
-   "views": 1970
+   "views": 142
   },
   {
    "date": "2026-09-27",
-   "views": 1700
+   "views": 114
   },
   {
    "date": "2026-09-28",
-   "views": 2216
+   "views": 107
   },
   {
    "date": "2026-09-29",
-   "views": 3151
+   "views": 136
   },
   {
    "date": "2026-09-30",
-   "views": 1754
+   "views": 150
   },
   {
    "date": "2026-10-01",
-   "views": 2255
+   "views": 130
   },
   {
    "date": "2026-10-02",
-   "views": 2375
+   "views": 107
   },
   {
    "date": "2026-10-03",
-   "views": 2500
+   "views": 120
   },
   {
    "date": "2026-10-04",
-   "views": 2307
+   "views": 114
   },
   {
    "date": "2026-10-05",
-   "views": 2712
+   "views": 136
   },
   {
    "date": "2026-10-06",
-   "views": 2816
+   "views": 162
   },
   {
    "date": "2026-10-07",
-   "views": 4314
+   "views": 152
   },
   {
    "date": "2026-10-08",
-   "views": 3075
+   "views": 352
   },
   {
    "date": "2026-10-09",
-   "views": 1936
+   "views": 698
   },
   {
    "date": "2026-10-10",
-   "views": 2105
+   "views": 212
   },
   {
    "date": "2026-10-11",
-   "views": 3871
+   "views": 148
   },
   {
    "date": "2026-10-12",
-   "views": 2349
+   "views": 118
   },
   {
    "date": "2026-10-13",
-   "views": 2872
+   "views": 181
   },
   {
    "date": "2026-10-14",
-   "views": 7941
+   "views": 116
   },
   {
    "date": "2026-10-15",
-   "views": 3150
+   "views": 135
   },
   {
    "date": "2026-10-16",
-   "views": 1996
+   "views": 109
   },
   {
    "date": "2026-10-17",
-   "views": 2119
+   "views": 95
   },
   {
    "date": "2026-10-18",
-   "views": 3732
+   "views": 106
   },
   {
    "date": "2026-10-19",
-   "views": 4076
+   "views": 91
   },
   {
    "date": "2026-10-20",
-   "views": 7239
+   "views": 105
   },
   {
    "date": "2026-10-21",
-   "views": 113033
+   "views": 154
   },
   {
    "date": "2026-10-22",
-   "views": 59809
+   "views": 717
+  },
+  {
+   "date": "2026-10-23",
+   "views": 79910
   }
  ],
- "wikipedia_title": "Como_1907",
+ "wikipedia_title": "Death_of_Kyle_Plush",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

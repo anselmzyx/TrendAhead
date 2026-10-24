@@ -1,36 +1,34 @@
 {
  "title": "PHP2Shell",
  "slug": "php2shell",
- "score": 34,
- "status": "Elevated",
+ "score": 25,
+ "status": "Peaked / fading",
  "change_percent": null,
- "growth_ratio": 1306.13,
- "recent_avg": 130613,
+ "growth_ratio": 1561.96,
+ "recent_avg": 156196,
  "baseline_avg": 0,
- "explanation": "Attention is 1306\u00d7 its 30-day baseline.",
+ "explanation": "Attention surged to 1562\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 130613,
- "latest": 153627,
+ "abs_change": 156196,
+ "latest": 76748,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.52,
+  "persistence": 0.44,
+  "momentum": 0.26,
   "volume": 1.0,
-  "spike_quality": 0.551
+  "spike_quality": 0.448
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 130,613 views/day over the last 3 days (30-day baseline: 0)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 156,196 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
-  {
-   "date": "2026-09-13",
-   "views": 0
-  },
   {
    "date": "2026-09-14",
    "views": 0
@@ -186,11 +184,15 @@
   {
    "date": "2026-10-22",
    "views": 153627
+  },
+  {
+   "date": "2026-10-23",
+   "views": 76748
   }
  ],
  "wikipedia_title": "PHP2Shell",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

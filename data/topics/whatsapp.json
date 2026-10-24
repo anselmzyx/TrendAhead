@@ -1,37 +1,33 @@
 {
  "title": "WhatsApp",
  "slug": "whatsapp",
- "score": 53,
+ "score": 48,
  "status": "Building",
- "change_percent": 350,
- "growth_ratio": 4.5,
- "recent_avg": 47166,
- "baseline_avg": 10490,
- "explanation": "Attention is 4.5\u00d7 its 30-day baseline.",
+ "change_percent": 309,
+ "growth_ratio": 4.09,
+ "recent_avg": 47877,
+ "baseline_avg": 11700,
+ "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 36676,
- "latest": 45559,
+ "abs_change": 36177,
+ "latest": 47145,
  "components": {
-  "acceleration": 0.384,
-  "anomaly": 0.993,
+  "acceleration": 0.36,
+  "anomaly": 0.503,
   "persistence": 0.92,
-  "momentum": 0.737,
-  "volume": 0.837,
-  "spike_quality": 0.893
+  "momentum": 0.822,
+  "volume": 0.84,
+  "spike_quality": 0.927
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 47,166 views/day over the last 3 days (30-day baseline: 10,490)."
+  "Averaging 47,877 views/day over the last 3 days (30-day baseline: 11,700)."
  ],
  "history": [
-  {
-   "date": "2026-09-13",
-   "views": 8308
-  },
   {
    "date": "2026-09-14",
    "views": 9313
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-22",
    "views": 45559
+  },
+  {
+   "date": "2026-10-23",
+   "views": 47145
   }
  ],
  "wikipedia_title": "WhatsApp",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }

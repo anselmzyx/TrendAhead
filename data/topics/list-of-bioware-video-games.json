@@ -1,198 +1,198 @@
 {
- "title": "Jordan Elliott",
- "slug": "jordan-elliott",
- "score": 25,
+ "title": "List of BioWare video games",
+ "slug": "list-of-bioware-video-games",
+ "score": 22,
  "status": "Peaked / fading",
- "change_percent": 95273,
- "growth_ratio": 286.12,
- "recent_avg": 28612,
- "baseline_avg": 30,
- "explanation": "Attention surged to 286\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 35331,
+ "growth_ratio": 340.14,
+ "recent_avg": 34014,
+ "baseline_avg": 96,
+ "explanation": "Attention surged to 340\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 28582,
- "latest": 21636,
+ "abs_change": 33918,
+ "latest": 14086,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.43,
-  "volume": 0.728,
-  "spike_quality": 0.393
+  "persistence": 0.44,
+  "momentum": 0.24,
+  "volume": 0.766,
+  "spike_quality": 0.449
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 28,612 views/day over the last 3 days (30-day baseline: 30)."
+  "Averaging 34,014 views/day over the last 3 days (30-day baseline: 96)."
  ],
  "history": [
   {
-   "date": "2026-09-13",
-   "views": 43
-  },
-  {
    "date": "2026-09-14",
-   "views": 44
+   "views": 117
   },
   {
    "date": "2026-09-15",
-   "views": 39
+   "views": 116
   },
   {
    "date": "2026-09-16",
-   "views": 28
+   "views": 104
   },
   {
    "date": "2026-09-17",
-   "views": 34
+   "views": 106
   },
   {
    "date": "2026-09-18",
-   "views": 18
+   "views": 74
   },
   {
    "date": "2026-09-19",
-   "views": 24
+   "views": 96
   },
   {
    "date": "2026-09-20",
-   "views": 46
+   "views": 86
   },
   {
    "date": "2026-09-21",
-   "views": 32
+   "views": 144
   },
   {
    "date": "2026-09-22",
-   "views": 28
+   "views": 114
   },
   {
    "date": "2026-09-23",
-   "views": 19
+   "views": 132
   },
   {
    "date": "2026-09-24",
-   "views": 25
+   "views": 91
   },
   {
    "date": "2026-09-25",
-   "views": 24
+   "views": 99
   },
   {
    "date": "2026-09-26",
-   "views": 27
+   "views": 95
   },
   {
    "date": "2026-09-27",
-   "views": 30
+   "views": 105
   },
   {
    "date": "2026-09-28",
-   "views": 38
+   "views": 125
   },
   {
    "date": "2026-09-29",
-   "views": 25
+   "views": 97
   },
   {
    "date": "2026-09-30",
-   "views": 19
+   "views": 99
   },
   {
    "date": "2026-10-01",
-   "views": 22
+   "views": 79
   },
   {
    "date": "2026-10-02",
-   "views": 38
+   "views": 78
   },
   {
    "date": "2026-10-03",
-   "views": 29
+   "views": 107
   },
   {
    "date": "2026-10-04",
-   "views": 28
+   "views": 95
   },
   {
    "date": "2026-10-05",
-   "views": 36
+   "views": 97
   },
   {
    "date": "2026-10-06",
-   "views": 18
+   "views": 63
   },
   {
    "date": "2026-10-07",
-   "views": 39
+   "views": 96
   },
   {
    "date": "2026-10-08",
-   "views": 36
+   "views": 110
   },
   {
    "date": "2026-10-09",
-   "views": 22
+   "views": 74
   },
   {
    "date": "2026-10-10",
-   "views": 28
+   "views": 88
   },
   {
    "date": "2026-10-11",
-   "views": 40
+   "views": 101
   },
   {
    "date": "2026-10-12",
-   "views": 30
+   "views": 115
   },
   {
    "date": "2026-10-13",
-   "views": 27
+   "views": 97
   },
   {
    "date": "2026-10-14",
-   "views": 21
+   "views": 77
   },
   {
    "date": "2026-10-15",
-   "views": 29
+   "views": 90
   },
   {
    "date": "2026-10-16",
-   "views": 37
+   "views": 74
   },
   {
    "date": "2026-10-17",
-   "views": 30
+   "views": 79
   },
   {
    "date": "2026-10-18",
-   "views": 42
+   "views": 92
   },
   {
    "date": "2026-10-19",
-   "views": 38
+   "views": 87
   },
   {
    "date": "2026-10-20",
-   "views": 7816
+   "views": 86
   },
   {
    "date": "2026-10-21",
-   "views": 56383
+   "views": 48826
   },
   {
    "date": "2026-10-22",
-   "views": 21636
+   "views": 39131
+  },
+  {
+   "date": "2026-10-23",
+   "views": 14086
   }
  ],
- "wikipedia_title": "Jordan_Elliott",
+ "wikipedia_title": "List_of_BioWare_video_games",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-22",
- "generated_at_utc": "2026-10-23T10:28:13+00:00"
+ "data_through": "2026-10-23",
+ "generated_at_utc": "2026-10-24T09:45:45+00:00"
 }
