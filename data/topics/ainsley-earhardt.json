@@ -1,197 +1,196 @@
 {
- "title": "Thuggee",
- "slug": "thuggee",
- "score": 39,
+ "title": "Ainsley Earhardt",
+ "slug": "ainsley-earhardt",
+ "score": 29,
  "status": "Breaking out",
- "change_percent": 4465,
- "growth_ratio": 45.67,
- "recent_avg": 24285,
- "baseline_avg": 532,
- "explanation": "Attention is 46\u00d7 its 30-day baseline.",
+ "change_percent": 1771,
+ "growth_ratio": 18.7,
+ "recent_avg": 28813,
+ "baseline_avg": 1540,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 23753,
- "latest": 70755,
+ "abs_change": 27273,
+ "latest": 84850,
  "components": {
-  "acceleration": 0.977,
+  "acceleration": 0.749,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.693,
-  "spike_quality": 0.532
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.73,
+  "spike_quality": 0.54
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 24,285 views/day over the last 3 days (30-day baseline: 532)."
+  "Averaging 28,813 views/day over the last 3 days (30-day baseline: 1,540)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 563
-  },
-  {
    "date": "2026-09-15",
-   "views": 561
+   "views": 1455
   },
   {
    "date": "2026-09-16",
-   "views": 504
+   "views": 1273
   },
   {
    "date": "2026-09-17",
-   "views": 955
+   "views": 1530
   },
   {
    "date": "2026-09-18",
-   "views": 585
+   "views": 1456
   },
   {
    "date": "2026-09-19",
-   "views": 573
+   "views": 914
   },
   {
    "date": "2026-09-20",
-   "views": 580
+   "views": 756
   },
   {
    "date": "2026-09-21",
-   "views": 586
+   "views": 1162
   },
   {
    "date": "2026-09-22",
-   "views": 559
+   "views": 1236
   },
   {
    "date": "2026-09-23",
-   "views": 678
+   "views": 1068
   },
   {
    "date": "2026-09-24",
-   "views": 528
+   "views": 1272
   },
   {
    "date": "2026-09-25",
-   "views": 530
+   "views": 1778
   },
   {
    "date": "2026-09-26",
-   "views": 526
+   "views": 769
   },
   {
    "date": "2026-09-27",
-   "views": 584
+   "views": 429
   },
   {
    "date": "2026-09-28",
-   "views": 510
+   "views": 1091
   },
   {
    "date": "2026-09-29",
-   "views": 559
+   "views": 2339
   },
   {
    "date": "2026-09-30",
-   "views": 523
+   "views": 1359
   },
   {
    "date": "2026-10-01",
-   "views": 549
+   "views": 1439
   },
   {
    "date": "2026-10-02",
-   "views": 528
+   "views": 1160
   },
   {
    "date": "2026-10-03",
-   "views": 450
+   "views": 753
   },
   {
    "date": "2026-10-04",
-   "views": 547
+   "views": 504
   },
   {
    "date": "2026-10-05",
-   "views": 538
+   "views": 2494
   },
   {
    "date": "2026-10-06",
-   "views": 503
+   "views": 1990
   },
   {
    "date": "2026-10-07",
-   "views": 489
+   "views": 5062
   },
   {
    "date": "2026-10-08",
-   "views": 754
+   "views": 2719
   },
   {
    "date": "2026-10-09",
-   "views": 456
+   "views": 2088
   },
   {
    "date": "2026-10-10",
-   "views": 513
+   "views": 1225
   },
   {
    "date": "2026-10-11",
-   "views": 528
+   "views": 884
   },
   {
    "date": "2026-10-12",
-   "views": 613
+   "views": 654
   },
   {
    "date": "2026-10-13",
-   "views": 521
+   "views": 1213
   },
   {
    "date": "2026-10-14",
-   "views": 442
+   "views": 1379
   },
   {
    "date": "2026-10-15",
-   "views": 456
+   "views": 1264
   },
   {
    "date": "2026-10-16",
-   "views": 442
+   "views": 3200
   },
   {
    "date": "2026-10-17",
-   "views": 486
+   "views": 2199
   },
   {
    "date": "2026-10-18",
-   "views": 578
+   "views": 1549
   },
   {
    "date": "2026-10-19",
-   "views": 530
+   "views": 933
   },
   {
    "date": "2026-10-20",
-   "views": 445
+   "views": 951
   },
   {
    "date": "2026-10-21",
-   "views": 361
+   "views": 1211
   },
   {
    "date": "2026-10-22",
-   "views": 1740
+   "views": 813
   },
   {
    "date": "2026-10-23",
-   "views": 70755
+   "views": 776
+  },
+  {
+   "date": "2026-10-24",
+   "views": 84850
   }
  ],
- "wikipedia_title": "Thuggee",
+ "wikipedia_title": "Ainsley_Earhardt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

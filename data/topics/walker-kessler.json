@@ -1,198 +1,198 @@
 {
- "title": "Heath Ledger",
- "slug": "heath-ledger",
- "score": 22,
+ "title": "Walker Kessler",
+ "slug": "walker-kessler",
+ "score": 26,
  "status": "Peaked / fading",
- "change_percent": 875,
- "growth_ratio": 9.75,
- "recent_avg": 104738,
- "baseline_avg": 10743,
- "explanation": "Attention surged to 9.8\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 2733,
+ "growth_ratio": 28.33,
+ "recent_avg": 31276,
+ "baseline_avg": 1104,
+ "explanation": "Attention surged to 28\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 93995,
- "latest": 44600,
+ "abs_change": 30172,
+ "latest": 19817,
  "components": {
-  "acceleration": 0.582,
+  "acceleration": 0.855,
   "anomaly": 1.0,
-  "persistence": 0.64,
-  "momentum": 0.217,
-  "volume": 1.0,
-  "spike_quality": 0.431
+  "persistence": 0.72,
+  "momentum": 0.46,
+  "volume": 0.748,
+  "spike_quality": 0.381
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 104,738 views/day over the last 3 days (30-day baseline: 10,743)."
+  "Averaging 31,276 views/day over the last 3 days (30-day baseline: 1,104)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 8525
-  },
-  {
    "date": "2026-09-15",
-   "views": 9093
+   "views": 292
   },
   {
    "date": "2026-09-16",
-   "views": 9475
+   "views": 348
   },
   {
    "date": "2026-09-17",
-   "views": 10459
+   "views": 397
   },
   {
    "date": "2026-09-18",
-   "views": 10588
+   "views": 490
   },
   {
    "date": "2026-09-19",
-   "views": 15174
+   "views": 343
   },
   {
    "date": "2026-09-20",
-   "views": 12330
+   "views": 322
   },
   {
    "date": "2026-09-21",
-   "views": 10175
+   "views": 402
   },
   {
    "date": "2026-09-22",
-   "views": 10314
+   "views": 460
   },
   {
    "date": "2026-09-23",
-   "views": 9288
+   "views": 510
   },
   {
    "date": "2026-09-24",
-   "views": 8943
+   "views": 792
   },
   {
    "date": "2026-09-25",
-   "views": 9485
+   "views": 1277
   },
   {
    "date": "2026-09-26",
-   "views": 11077
+   "views": 950
   },
   {
    "date": "2026-09-27",
-   "views": 20305
+   "views": 717
   },
   {
    "date": "2026-09-28",
-   "views": 8983
+   "views": 1116
   },
   {
    "date": "2026-09-29",
-   "views": 7684
+   "views": 1781
   },
   {
    "date": "2026-09-30",
-   "views": 7484
+   "views": 1438
   },
   {
    "date": "2026-10-01",
-   "views": 7003
+   "views": 942
   },
   {
    "date": "2026-10-02",
-   "views": 7846
+   "views": 1032
   },
   {
    "date": "2026-10-03",
-   "views": 9404
+   "views": 832
   },
   {
    "date": "2026-10-04",
-   "views": 10433
+   "views": 673
   },
   {
    "date": "2026-10-05",
-   "views": 10626
+   "views": 704
   },
   {
    "date": "2026-10-06",
-   "views": 8305
+   "views": 935
   },
   {
    "date": "2026-10-07",
-   "views": 7621
+   "views": 697
   },
   {
    "date": "2026-10-08",
-   "views": 7348
+   "views": 597
   },
   {
    "date": "2026-10-09",
-   "views": 8689
+   "views": 1656
   },
   {
    "date": "2026-10-10",
-   "views": 10225
+   "views": 678
   },
   {
    "date": "2026-10-11",
-   "views": 9736
+   "views": 575
   },
   {
    "date": "2026-10-12",
-   "views": 8252
+   "views": 645
   },
   {
    "date": "2026-10-13",
-   "views": 7675
+   "views": 688
   },
   {
    "date": "2026-10-14",
-   "views": 8619
+   "views": 4107
   },
   {
    "date": "2026-10-15",
-   "views": 19366
+   "views": 1202
   },
   {
    "date": "2026-10-16",
-   "views": 18626
+   "views": 944
   },
   {
    "date": "2026-10-17",
-   "views": 17489
+   "views": 2209
   },
   {
    "date": "2026-10-18",
-   "views": 12925
+   "views": 1049
   },
   {
    "date": "2026-10-19",
-   "views": 12239
+   "views": 945
   },
   {
    "date": "2026-10-20",
-   "views": 16119
+   "views": 1215
   },
   {
    "date": "2026-10-21",
-   "views": 177482
+   "views": 1757
   },
   {
    "date": "2026-10-22",
-   "views": 92132
+   "views": 61502
   },
   {
    "date": "2026-10-23",
-   "views": 44600
+   "views": 12508
+  },
+  {
+   "date": "2026-10-24",
+   "views": 19817
   }
  ],
- "wikipedia_title": "Heath_Ledger",
+ "wikipedia_title": "Walker_Kessler",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

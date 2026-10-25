@@ -1,196 +1,197 @@
 {
- "title": "Ron Duguay",
- "slug": "ron-duguay",
- "score": 35,
- "status": "Elevated",
- "change_percent": 10959,
- "growth_ratio": 110.47,
- "recent_avg": 50317,
- "baseline_avg": 455,
- "explanation": "Attention is 110\u00d7 its 30-day baseline.",
+ "title": "UFC 333",
+ "slug": "ufc-333",
+ "score": 62,
+ "status": "Breaking out",
+ "change_percent": 1195,
+ "growth_ratio": 12.95,
+ "recent_avg": 86532,
+ "baseline_avg": 6681,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 49862,
- "latest": 55287,
+ "abs_change": 79851,
+ "latest": 224691,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.655,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.559,
-  "volume": 0.851,
-  "spike_quality": 0.529
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.969,
+  "spike_quality": 0.665
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 50,317 views/day over the last 3 days (30-day baseline: 455)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 86,532 views/day over the last 3 days (30-day baseline: 6,681)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 149
-  },
-  {
    "date": "2026-09-15",
-   "views": 164
+   "views": 3445
   },
   {
    "date": "2026-09-16",
-   "views": 199
+   "views": 2855
   },
   {
    "date": "2026-09-17",
-   "views": 232
+   "views": 2935
   },
   {
    "date": "2026-09-18",
-   "views": 179
+   "views": 3883
   },
   {
    "date": "2026-09-19",
-   "views": 203
+   "views": 6496
   },
   {
    "date": "2026-09-20",
-   "views": 192
+   "views": 14411
   },
   {
    "date": "2026-09-21",
-   "views": 167
+   "views": 5783
   },
   {
    "date": "2026-09-22",
-   "views": 206
+   "views": 4214
   },
   {
    "date": "2026-09-23",
-   "views": 154
+   "views": 4303
   },
   {
    "date": "2026-09-24",
-   "views": 151
+   "views": 4016
   },
   {
    "date": "2026-09-25",
-   "views": 173
+   "views": 4044
   },
   {
    "date": "2026-09-26",
-   "views": 205
+   "views": 4753
   },
   {
    "date": "2026-09-27",
-   "views": 206
+   "views": 5874
   },
   {
    "date": "2026-09-28",
-   "views": 198
+   "views": 3825
   },
   {
    "date": "2026-09-29",
-   "views": 172
+   "views": 4349
   },
   {
    "date": "2026-09-30",
-   "views": 295
+   "views": 3846
   },
   {
    "date": "2026-10-01",
-   "views": 279
+   "views": 3761
   },
   {
    "date": "2026-10-02",
-   "views": 277
+   "views": 4558
   },
   {
    "date": "2026-10-03",
-   "views": 1166
+   "views": 6637
   },
   {
    "date": "2026-10-04",
-   "views": 650
+   "views": 15168
   },
   {
    "date": "2026-10-05",
-   "views": 291
+   "views": 6136
   },
   {
    "date": "2026-10-06",
-   "views": 223
+   "views": 4613
   },
   {
    "date": "2026-10-07",
-   "views": 206
+   "views": 4612
   },
   {
    "date": "2026-10-08",
-   "views": 200
+   "views": 4519
   },
   {
    "date": "2026-10-09",
-   "views": 180
+   "views": 4888
   },
   {
    "date": "2026-10-10",
-   "views": 187
+   "views": 6820
   },
   {
    "date": "2026-10-11",
-   "views": 249
+   "views": 9339
   },
   {
    "date": "2026-10-12",
-   "views": 1194
+   "views": 5170
   },
   {
    "date": "2026-10-13",
-   "views": 2555
+   "views": 5202
   },
   {
    "date": "2026-10-14",
-   "views": 1173
+   "views": 5363
   },
   {
    "date": "2026-10-15",
-   "views": 541
+   "views": 5674
   },
   {
    "date": "2026-10-16",
-   "views": 402
+   "views": 5837
   },
   {
    "date": "2026-10-17",
-   "views": 371
+   "views": 9362
   },
   {
    "date": "2026-10-18",
-   "views": 418
+   "views": 18915
   },
   {
    "date": "2026-10-19",
-   "views": 564
+   "views": 11505
   },
   {
    "date": "2026-10-20",
-   "views": 611
+   "views": 11498
   },
   {
    "date": "2026-10-21",
-   "views": 3178
+   "views": 11641
   },
   {
    "date": "2026-10-22",
-   "views": 92485
+   "views": 14757
   },
   {
    "date": "2026-10-23",
-   "views": 55287
+   "views": 20147
+  },
+  {
+   "date": "2026-10-24",
+   "views": 224691
   }
  ],
- "wikipedia_title": "Ron_Duguay",
+ "wikipedia_title": "UFC_333",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

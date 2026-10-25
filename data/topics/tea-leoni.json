@@ -1,198 +1,198 @@
 {
- "title": "XXX (2002 film)",
- "slug": "xxx-2002-film",
- "score": 37,
+ "title": "T\u00e9a Leoni",
+ "slug": "tea-leoni",
+ "score": 66,
  "status": "Building",
- "change_percent": 140,
- "growth_ratio": 2.4,
- "recent_avg": 68256,
- "baseline_avg": 28439,
- "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
+ "change_percent": 724,
+ "growth_ratio": 8.24,
+ "recent_avg": 61534,
+ "baseline_avg": 7465,
+ "explanation": "Attention is 8.2\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 39817,
- "latest": 76009,
+ "abs_change": 54069,
+ "latest": 88011,
  "components": {
-  "acceleration": 0.224,
-  "anomaly": 0.294,
-  "persistence": 0.6,
+  "acceleration": 0.539,
+  "anomaly": 1.0,
+  "persistence": 0.84,
   "momentum": 1.0,
-  "volume": 0.917,
-  "spike_quality": 0.967
+  "volume": 0.895,
+  "spike_quality": 0.873
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 68,256 views/day over the last 3 days (30-day baseline: 28,439)."
+  "Averaging 61,534 views/day over the last 3 days (30-day baseline: 7,465)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 85690
-  },
-  {
    "date": "2026-09-15",
-   "views": 48727
+   "views": 3717
   },
   {
    "date": "2026-09-16",
-   "views": 21219
+   "views": 4172
   },
   {
    "date": "2026-09-17",
-   "views": 25007
+   "views": 5540
   },
   {
    "date": "2026-09-18",
-   "views": 20898
+   "views": 6015
   },
   {
    "date": "2026-09-19",
-   "views": 23629
+   "views": 4981
   },
   {
    "date": "2026-09-20",
-   "views": 24853
+   "views": 4890
   },
   {
    "date": "2026-09-21",
-   "views": 21952
+   "views": 4219
   },
   {
    "date": "2026-09-22",
-   "views": 17982
+   "views": 3931
   },
   {
    "date": "2026-09-23",
-   "views": 20646
+   "views": 4401
   },
   {
    "date": "2026-09-24",
-   "views": 25852
+   "views": 3494
   },
   {
    "date": "2026-09-25",
-   "views": 28835
+   "views": 3156
   },
   {
    "date": "2026-09-26",
-   "views": 15193
+   "views": 4047
   },
   {
    "date": "2026-09-27",
-   "views": 14981
+   "views": 4206
   },
   {
    "date": "2026-09-28",
-   "views": 13302
+   "views": 3504
   },
   {
    "date": "2026-09-29",
-   "views": 12623
+   "views": 3133
   },
   {
    "date": "2026-09-30",
-   "views": 16611
+   "views": 3975
   },
   {
    "date": "2026-10-01",
-   "views": 16424
+   "views": 5246
   },
   {
    "date": "2026-10-02",
-   "views": 15915
+   "views": 8283
   },
   {
    "date": "2026-10-03",
-   "views": 16483
+   "views": 7234
   },
   {
    "date": "2026-10-04",
-   "views": 16422
+   "views": 7600
   },
   {
    "date": "2026-10-05",
-   "views": 14388
+   "views": 6912
   },
   {
    "date": "2026-10-06",
-   "views": 18894
+   "views": 6184
   },
   {
    "date": "2026-10-07",
-   "views": 27210
+   "views": 5474
   },
   {
    "date": "2026-10-08",
-   "views": 40513
+   "views": 5558
   },
   {
    "date": "2026-10-09",
-   "views": 35740
+   "views": 5064
   },
   {
    "date": "2026-10-10",
-   "views": 39716
+   "views": 10395
   },
   {
    "date": "2026-10-11",
-   "views": 26985
+   "views": 6658
   },
   {
    "date": "2026-10-12",
-   "views": 43507
+   "views": 9562
   },
   {
    "date": "2026-10-13",
-   "views": 24740
+   "views": 8044
   },
   {
    "date": "2026-10-14",
-   "views": 57154
+   "views": 7826
   },
   {
    "date": "2026-10-15",
-   "views": 52103
+   "views": 8041
   },
   {
    "date": "2026-10-16",
-   "views": 42763
+   "views": 10195
   },
   {
    "date": "2026-10-17",
-   "views": 55305
+   "views": 12293
   },
   {
    "date": "2026-10-18",
-   "views": 48515
+   "views": 11648
   },
   {
    "date": "2026-10-19",
-   "views": 40877
+   "views": 22399
   },
   {
    "date": "2026-10-20",
-   "views": 31533
+   "views": 14163
   },
   {
    "date": "2026-10-21",
-   "views": 57630
+   "views": 11310
   },
   {
    "date": "2026-10-22",
-   "views": 71130
+   "views": 31826
   },
   {
    "date": "2026-10-23",
-   "views": 76009
+   "views": 64766
+  },
+  {
+   "date": "2026-10-24",
+   "views": 88011
   }
  ],
- "wikipedia_title": "XXX_(2002_film)",
+ "wikipedia_title": "T\u00e9a_Leoni",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

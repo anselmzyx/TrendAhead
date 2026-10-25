@@ -1,37 +1,33 @@
 {
  "title": "H3h3Productions",
  "slug": "h3h3productions",
- "score": 36,
+ "score": 46,
  "status": "Breaking out",
- "change_percent": 7967,
- "growth_ratio": 80.59,
- "recent_avg": 30816,
- "baseline_avg": 382,
- "explanation": "Attention is 81\u00d7 its 30-day baseline.",
+ "change_percent": 15313,
+ "growth_ratio": 154.01,
+ "recent_avg": 58568,
+ "baseline_avg": 380,
+ "explanation": "Attention is 154\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30434,
- "latest": 91812,
+ "abs_change": 58188,
+ "latest": 83511,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.744,
-  "spike_quality": 0.511
+  "persistence": 0.32,
+  "momentum": 0.746,
+  "volume": 0.884,
+  "spike_quality": 0.735
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,816 views/day over the last 3 days (30-day baseline: 382)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 58,568 views/day over the last 3 days (30-day baseline: 380)."
  ],
  "history": [
-  {
-   "date": "2026-09-14",
-   "views": 459
-  },
   {
    "date": "2026-09-15",
    "views": 338
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-23",
    "views": 91812
+  },
+  {
+   "date": "2026-10-24",
+   "views": 83511
   }
  ],
  "wikipedia_title": "H3h3Productions",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

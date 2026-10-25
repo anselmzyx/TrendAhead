@@ -1,36 +1,32 @@
 {
  "title": "Lindbladia tubulina",
  "slug": "lindbladia-tubulina",
- "score": 30,
- "status": "Breaking out",
- "change_percent": 944800,
- "growth_ratio": 188.98,
- "recent_avg": 18898,
+ "score": 29,
+ "status": "Elevated",
+ "change_percent": 1545300,
+ "growth_ratio": 309.08,
+ "recent_avg": 30908,
  "baseline_avg": 2,
- "explanation": "Attention is 189\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 309\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 18896,
- "latest": 56693,
+ "abs_change": 30906,
+ "latest": 36030,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.638,
-  "spike_quality": 0.5
+  "persistence": 0.32,
+  "momentum": 0.515,
+  "volume": 0.745,
+  "spike_quality": 0.544
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 18,898 views/day over the last 3 days (30-day baseline: 2)."
+  "Averaging 30,908 views/day over the last 3 days (30-day baseline: 2)."
  ],
  "history": [
-  {
-   "date": "2026-09-14",
-   "views": 0
-  },
   {
    "date": "2026-09-15",
    "views": 1
@@ -186,11 +182,15 @@
   {
    "date": "2026-10-23",
    "views": 56693
+  },
+  {
+   "date": "2026-10-24",
+   "views": 36030
   }
  ],
  "wikipedia_title": "Lindbladia_tubulina",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

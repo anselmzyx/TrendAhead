@@ -1,197 +1,197 @@
 {
- "title": "PHP",
- "slug": "php",
- "score": 35,
- "status": "Peaked / fading",
- "change_percent": 9416,
- "growth_ratio": 95.19,
- "recent_avg": 71182,
- "baseline_avg": 748,
- "explanation": "Attention surged to 95\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Kehlsteinhaus",
+ "slug": "kehlsteinhaus",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 3935,
+ "growth_ratio": 40.37,
+ "recent_avg": 38377,
+ "baseline_avg": 951,
+ "explanation": "Attention is 40\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 70434,
- "latest": 37835,
+ "abs_change": 37426,
+ "latest": 110874,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.945,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.456,
-  "volume": 0.926,
-  "spike_quality": 0.559
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.792,
+  "spike_quality": 0.536
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 71,182 views/day over the last 3 days (30-day baseline: 748)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 38,377 views/day over the last 3 days (30-day baseline: 951)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 851
-  },
-  {
    "date": "2026-09-15",
-   "views": 996
+   "views": 1041
   },
   {
    "date": "2026-09-16",
-   "views": 1047
+   "views": 1071
   },
   {
    "date": "2026-09-17",
-   "views": 967
+   "views": 1049
   },
   {
    "date": "2026-09-18",
-   "views": 907
+   "views": 946
   },
   {
    "date": "2026-09-19",
-   "views": 749
+   "views": 1031
   },
   {
    "date": "2026-09-20",
-   "views": 789
+   "views": 1078
   },
   {
    "date": "2026-09-21",
-   "views": 936
-  },
-  {
-   "date": "2026-09-22",
-   "views": 948
-  },
-  {
-   "date": "2026-09-23",
-   "views": 1119
-  },
-  {
-   "date": "2026-09-24",
-   "views": 1124
-  },
-  {
-   "date": "2026-09-25",
-   "views": 924
-  },
-  {
-   "date": "2026-09-26",
-   "views": 733
-  },
-  {
-   "date": "2026-09-27",
-   "views": 754
-  },
-  {
-   "date": "2026-09-28",
-   "views": 905
-  },
-  {
-   "date": "2026-09-29",
    "views": 939
   },
   {
+   "date": "2026-09-22",
+   "views": 977
+  },
+  {
+   "date": "2026-09-23",
+   "views": 1035
+  },
+  {
+   "date": "2026-09-24",
+   "views": 944
+  },
+  {
+   "date": "2026-09-25",
+   "views": 878
+  },
+  {
+   "date": "2026-09-26",
+   "views": 969
+  },
+  {
+   "date": "2026-09-27",
+   "views": 1026
+  },
+  {
+   "date": "2026-09-28",
+   "views": 920
+  },
+  {
+   "date": "2026-09-29",
+   "views": 879
+  },
+  {
    "date": "2026-09-30",
-   "views": 943
+   "views": 884
   },
   {
    "date": "2026-10-01",
-   "views": 676
+   "views": 920
   },
   {
    "date": "2026-10-02",
-   "views": 676
+   "views": 880
   },
   {
    "date": "2026-10-03",
-   "views": 620
+   "views": 907
   },
   {
    "date": "2026-10-04",
-   "views": 442
+   "views": 1022
   },
   {
    "date": "2026-10-05",
-   "views": 812
+   "views": 854
   },
   {
    "date": "2026-10-06",
-   "views": 679
+   "views": 768
   },
   {
    "date": "2026-10-07",
-   "views": 608
+   "views": 832
   },
   {
    "date": "2026-10-08",
-   "views": 673
+   "views": 908
   },
   {
    "date": "2026-10-09",
-   "views": 566
+   "views": 2311
   },
   {
    "date": "2026-10-10",
-   "views": 424
+   "views": 1075
   },
   {
    "date": "2026-10-11",
-   "views": 425
+   "views": 1089
   },
   {
    "date": "2026-10-12",
-   "views": 715
+   "views": 1119
   },
   {
    "date": "2026-10-13",
-   "views": 618
+   "views": 926
   },
   {
    "date": "2026-10-14",
-   "views": 662
+   "views": 801
   },
   {
    "date": "2026-10-15",
-   "views": 623
+   "views": 780
   },
   {
    "date": "2026-10-16",
-   "views": 665
+   "views": 823
   },
   {
    "date": "2026-10-17",
-   "views": 543
+   "views": 862
   },
   {
    "date": "2026-10-18",
-   "views": 850
+   "views": 826
   },
   {
    "date": "2026-10-19",
-   "views": 904
+   "views": 794
   },
   {
    "date": "2026-10-20",
-   "views": 928
+   "views": 813
   },
   {
    "date": "2026-10-21",
-   "views": 87141
+   "views": 696
   },
   {
    "date": "2026-10-22",
-   "views": 88570
+   "views": 680
   },
   {
    "date": "2026-10-23",
-   "views": 37835
+   "views": 3578
+  },
+  {
+   "date": "2026-10-24",
+   "views": 110874
   }
  ],
- "wikipedia_title": "PHP",
+ "wikipedia_title": "Kehlsteinhaus",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "ChatGPT",
- "slug": "chatgpt",
- "score": 35,
+ "title": "Jack Lowden",
+ "slug": "jack-lowden",
+ "score": 40,
  "status": "Elevated",
- "change_percent": 172,
- "growth_ratio": 2.72,
- "recent_avg": 151658,
- "baseline_avg": 55788,
- "explanation": "Attention is 2.7\u00d7 its 30-day baseline.",
+ "change_percent": 465,
+ "growth_ratio": 5.65,
+ "recent_avg": 50543,
+ "baseline_avg": 8944,
+ "explanation": "Attention is 5.7\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 95870,
- "latest": 136176,
+ "abs_change": 41599,
+ "latest": 46243,
  "components": {
-  "acceleration": 0.256,
-  "anomaly": 0.387,
-  "persistence": 0.84,
-  "momentum": 0.567,
-  "volume": 1.0,
-  "spike_quality": 0.875
+  "acceleration": 0.443,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "momentum": 0.621,
+  "volume": 0.852,
+  "spike_quality": 0.739
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 151,658 views/day over the last 3 days (30-day baseline: 55,788)."
+  "Averaging 50,543 views/day over the last 3 days (30-day baseline: 8,944)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 68593
-  },
-  {
    "date": "2026-09-15",
-   "views": 85320
+   "views": 12357
   },
   {
    "date": "2026-09-16",
-   "views": 62853
+   "views": 17801
   },
   {
    "date": "2026-09-17",
-   "views": 117779
+   "views": 17790
   },
   {
    "date": "2026-09-18",
-   "views": 60125
+   "views": 14014
   },
   {
    "date": "2026-09-19",
-   "views": 59417
+   "views": 13636
   },
   {
    "date": "2026-09-20",
-   "views": 44462
+   "views": 13209
   },
   {
    "date": "2026-09-21",
-   "views": 103332
+   "views": 10183
   },
   {
    "date": "2026-09-22",
-   "views": 89442
+   "views": 9498
   },
   {
    "date": "2026-09-23",
-   "views": 86199
+   "views": 11115
   },
   {
    "date": "2026-09-24",
-   "views": 57281
+   "views": 9203
   },
   {
    "date": "2026-09-25",
-   "views": 60279
+   "views": 8060
   },
   {
    "date": "2026-09-26",
-   "views": 40694
+   "views": 8599
   },
   {
    "date": "2026-09-27",
-   "views": 41296
+   "views": 9277
   },
   {
    "date": "2026-09-28",
-   "views": 53948
+   "views": 7226
   },
   {
    "date": "2026-09-29",
-   "views": 59608
+   "views": 6350
   },
   {
    "date": "2026-09-30",
-   "views": 48989
+   "views": 7259
   },
   {
    "date": "2026-10-01",
-   "views": 51583
+   "views": 7667
   },
   {
    "date": "2026-10-02",
-   "views": 39904
+   "views": 7823
   },
   {
    "date": "2026-10-03",
-   "views": 32048
+   "views": 7984
   },
   {
    "date": "2026-10-04",
-   "views": 31434
+   "views": 7976
   },
   {
    "date": "2026-10-05",
-   "views": 47019
+   "views": 8806
   },
   {
    "date": "2026-10-06",
-   "views": 61606
+   "views": 9290
   },
   {
    "date": "2026-10-07",
-   "views": 57391
+   "views": 14581
   },
   {
    "date": "2026-10-08",
-   "views": 49710
+   "views": 11005
   },
   {
    "date": "2026-10-09",
-   "views": 50429
+   "views": 7760
   },
   {
    "date": "2026-10-10",
-   "views": 35215
+   "views": 7803
   },
   {
    "date": "2026-10-11",
-   "views": 28298
+   "views": 7977
   },
   {
    "date": "2026-10-12",
-   "views": 39823
+   "views": 7012
   },
   {
    "date": "2026-10-13",
-   "views": 45423
+   "views": 5966
   },
   {
    "date": "2026-10-14",
-   "views": 56162
+   "views": 8767
   },
   {
    "date": "2026-10-15",
-   "views": 55448
+   "views": 8726
   },
   {
    "date": "2026-10-16",
-   "views": 44509
+   "views": 8643
   },
   {
    "date": "2026-10-17",
-   "views": 32506
+   "views": 9010
   },
   {
    "date": "2026-10-18",
-   "views": 32687
+   "views": 8962
   },
   {
    "date": "2026-10-19",
-   "views": 100821
+   "views": 9974
   },
   {
    "date": "2026-10-20",
-   "views": 140548
+   "views": 7958
   },
   {
    "date": "2026-10-21",
-   "views": 163328
+   "views": 18028
   },
   {
    "date": "2026-10-22",
-   "views": 155469
+   "views": 39550
   },
   {
    "date": "2026-10-23",
-   "views": 136176
+   "views": 65836
+  },
+  {
+   "date": "2026-10-24",
+   "views": 46243
   }
  ],
- "wikipedia_title": "ChatGPT",
+ "wikipedia_title": "Jack_Lowden",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

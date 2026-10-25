@@ -1,198 +1,198 @@
 {
- "title": "XXX: Return of Xander Cage",
- "slug": "xxx-return-of-xander-cage",
- "score": 38,
- "status": "Building",
- "change_percent": 301,
- "growth_ratio": 4.01,
- "recent_avg": 55367,
- "baseline_avg": 13797,
- "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
+ "title": "Movsar Evloev",
+ "slug": "movsar-evloev",
+ "score": 63,
+ "status": "Breaking out",
+ "change_percent": 1409,
+ "growth_ratio": 15.09,
+ "recent_avg": 35168,
+ "baseline_avg": 2331,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41570,
- "latest": 83223,
+ "abs_change": 32837,
+ "latest": 76819,
  "components": {
-  "acceleration": 0.355,
-  "anomaly": 0.39,
-  "persistence": 0.6,
+  "acceleration": 0.694,
+  "anomaly": 1.0,
+  "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.872,
-  "spike_quality": 0.829
+  "volume": 0.773,
+  "spike_quality": 0.736
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 55,367 views/day over the last 3 days (30-day baseline: 13,797)."
+  "Averaging 35,168 views/day over the last 3 days (30-day baseline: 2,331)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 14032
-  },
-  {
    "date": "2026-09-15",
-   "views": 9242
+   "views": 1013
   },
   {
    "date": "2026-09-16",
-   "views": 4575
+   "views": 1036
   },
   {
    "date": "2026-09-17",
-   "views": 5120
+   "views": 981
   },
   {
    "date": "2026-09-18",
-   "views": 5044
+   "views": 1358
   },
   {
    "date": "2026-09-19",
-   "views": 5300
+   "views": 3926
   },
   {
    "date": "2026-09-20",
-   "views": 5297
+   "views": 3954
   },
   {
    "date": "2026-09-21",
-   "views": 5035
+   "views": 2025
   },
   {
    "date": "2026-09-22",
-   "views": 4739
+   "views": 1534
   },
   {
    "date": "2026-09-23",
-   "views": 5440
+   "views": 1676
   },
   {
    "date": "2026-09-24",
-   "views": 5949
+   "views": 1530
   },
   {
    "date": "2026-09-25",
-   "views": 5889
+   "views": 1265
   },
   {
    "date": "2026-09-26",
-   "views": 6852
+   "views": 1343
   },
   {
    "date": "2026-09-27",
-   "views": 6866
+   "views": 1353
   },
   {
    "date": "2026-09-28",
-   "views": 5639
+   "views": 1195
   },
   {
    "date": "2026-09-29",
-   "views": 6778
+   "views": 1296
   },
   {
    "date": "2026-09-30",
-   "views": 18016
+   "views": 1099
   },
   {
    "date": "2026-10-01",
-   "views": 26696
+   "views": 1055
   },
   {
    "date": "2026-10-02",
-   "views": 31722
+   "views": 942
   },
   {
    "date": "2026-10-03",
-   "views": 32706
+   "views": 1034
   },
   {
    "date": "2026-10-04",
-   "views": 11827
+   "views": 2547
   },
   {
    "date": "2026-10-05",
-   "views": 16177
+   "views": 1879
   },
   {
    "date": "2026-10-06",
-   "views": 37281
+   "views": 3558
   },
   {
    "date": "2026-10-07",
-   "views": 30979
+   "views": 3121
   },
   {
    "date": "2026-10-08",
-   "views": 31361
+   "views": 1800
   },
   {
    "date": "2026-10-09",
-   "views": 29563
+   "views": 1579
   },
   {
    "date": "2026-10-10",
-   "views": 23806
+   "views": 1681
   },
   {
    "date": "2026-10-11",
-   "views": 9073
+   "views": 2283
   },
   {
    "date": "2026-10-12",
-   "views": 7557
+   "views": 2000
   },
   {
    "date": "2026-10-13",
-   "views": 7417
+   "views": 2062
   },
   {
    "date": "2026-10-14",
-   "views": 7390
+   "views": 1853
   },
   {
    "date": "2026-10-15",
-   "views": 7098
+   "views": 2202
   },
   {
    "date": "2026-10-16",
-   "views": 7081
+   "views": 1996
   },
   {
    "date": "2026-10-17",
-   "views": 7427
+   "views": 2633
   },
   {
    "date": "2026-10-18",
-   "views": 6656
+   "views": 4405
   },
   {
    "date": "2026-10-19",
-   "views": 6068
+   "views": 5446
   },
   {
    "date": "2026-10-20",
-   "views": 4830
+   "views": 6086
   },
   {
    "date": "2026-10-21",
-   "views": 41394
+   "views": 7476
   },
   {
    "date": "2026-10-22",
-   "views": 41485
+   "views": 13469
   },
   {
    "date": "2026-10-23",
-   "views": 83223
+   "views": 15215
+  },
+  {
+   "date": "2026-10-24",
+   "views": 76819
   }
  ],
- "wikipedia_title": "XXX:_Return_of_Xander_Cage",
+ "wikipedia_title": "Movsar_Evloev",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

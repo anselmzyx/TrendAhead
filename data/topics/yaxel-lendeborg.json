@@ -1,38 +1,34 @@
 {
  "title": "Yaxel Lendeborg",
  "slug": "yaxel-lendeborg",
- "score": 19,
+ "score": 26,
  "status": "Peaked / fading",
- "change_percent": 1621,
- "growth_ratio": 17.21,
- "recent_avg": 38038,
- "baseline_avg": 2210,
- "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 1846,
+ "growth_ratio": 19.46,
+ "recent_avg": 45195,
+ "baseline_avg": 2323,
+ "explanation": "Attention surged to 19\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35828,
- "latest": 24267,
+ "abs_change": 42872,
+ "latest": 25212,
  "components": {
-  "acceleration": 0.727,
+  "acceleration": 0.759,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.369,
-  "volume": 0.79,
-  "spike_quality": 0.326
+  "persistence": 0.72,
+  "momentum": 0.442,
+  "volume": 0.828,
+  "spike_quality": 0.387
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 38,038 views/day over the last 3 days (30-day baseline: 2,210)."
+  "Averaging 45,195 views/day over the last 3 days (30-day baseline: 2,323)."
  ],
  "history": [
-  {
-   "date": "2026-09-14",
-   "views": 356
-  },
   {
    "date": "2026-09-15",
    "views": 493
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-23",
    "views": 24267
+  },
+  {
+   "date": "2026-10-24",
+   "views": 25212
   }
  ],
  "wikipedia_title": "Yaxel_Lendeborg",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

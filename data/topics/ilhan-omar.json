@@ -1,38 +1,33 @@
 {
  "title": "Ilhan Omar",
  "slug": "ilhan-omar",
- "score": 51,
- "status": "Building",
- "change_percent": 323,
- "growth_ratio": 4.23,
- "recent_avg": 86347,
- "baseline_avg": 20395,
- "explanation": "Attention is 4.2\u00d7 its 30-day baseline.",
+ "score": 32,
+ "status": "Elevated",
+ "change_percent": 306,
+ "growth_ratio": 4.06,
+ "recent_avg": 89556,
+ "baseline_avg": 22034,
+ "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 65952,
- "latest": 103972,
+ "abs_change": 67522,
+ "latest": 61394,
  "components": {
-  "acceleration": 0.369,
-  "anomaly": 0.203,
+  "acceleration": 0.358,
+  "anomaly": 0.206,
   "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.968,
-  "spike_quality": 0.93
+  "momentum": 0.554,
+  "volume": 0.976,
+  "spike_quality": 0.735
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 86,347 views/day over the last 3 days (30-day baseline: 20,395)."
+  "Averaging 89,556 views/day over the last 3 days (30-day baseline: 22,034)."
  ],
  "history": [
-  {
-   "date": "2026-09-14",
-   "views": 6755
-  },
   {
    "date": "2026-09-15",
    "views": 5437
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-23",
    "views": 103972
+  },
+  {
+   "date": "2026-10-24",
+   "views": 61394
   }
  ],
  "wikipedia_title": "Ilhan_Omar",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

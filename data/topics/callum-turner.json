@@ -2,37 +2,31 @@
  "title": "Callum Turner",
  "slug": "callum-turner",
  "score": 29,
- "status": "Breaking out",
- "change_percent": 192,
- "growth_ratio": 2.92,
- "recent_avg": 25144,
- "baseline_avg": 8615,
- "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
+ "status": "Elevated",
+ "change_percent": 294,
+ "growth_ratio": 3.94,
+ "recent_avg": 33795,
+ "baseline_avg": 8584,
+ "explanation": "Attention is 3.9\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 16529,
- "latest": 49808,
+ "abs_change": 25211,
+ "latest": 32614,
  "components": {
-  "acceleration": 0.274,
-  "anomaly": 0.684,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.7,
-  "spike_quality": 0.806
+  "acceleration": 0.35,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.593,
+  "volume": 0.764,
+  "spike_quality": 0.688
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,144 views/day over the last 3 days (30-day baseline: 8,615)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 33,795 views/day over the last 3 days (30-day baseline: 8,584)."
  ],
  "history": [
-  {
-   "date": "2026-09-14",
-   "views": 9862
-  },
   {
    "date": "2026-09-15",
    "views": 8302
@@ -188,11 +182,15 @@
   {
    "date": "2026-10-23",
    "views": 49808
+  },
+  {
+   "date": "2026-10-24",
+   "views": 32614
   }
  ],
  "wikipedia_title": "Callum_Turner",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

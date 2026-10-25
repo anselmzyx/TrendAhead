@@ -1,198 +1,197 @@
 {
- "title": "XXX (film series)",
- "slug": "xxx-film-series",
- "score": 25,
- "status": "Building",
- "change_percent": 77,
- "growth_ratio": 1.77,
- "recent_avg": 45747,
- "baseline_avg": 25853,
- "explanation": "Recent attention is +77% vs its 30-day baseline.",
+ "title": "M\u0101ori people",
+ "slug": "maori-people",
+ "score": 31,
+ "status": "Breaking out",
+ "change_percent": 1415,
+ "growth_ratio": 15.15,
+ "recent_avg": 28560,
+ "baseline_avg": 1885,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 19894,
- "latest": 52841,
+ "abs_change": 26675,
+ "latest": 81051,
  "components": {
-  "acceleration": 0.146,
-  "anomaly": 0.199,
-  "persistence": 0.52,
+  "acceleration": 0.695,
+  "anomaly": 1.0,
+  "persistence": 0.2,
   "momentum": 0.867,
-  "volume": 0.83,
-  "spike_quality": 0.949
+  "volume": 0.728,
+  "spike_quality": 0.577
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,747 views/day over the last 3 days (30-day baseline: 25,853)."
+  "Averaging 28,560 views/day over the last 3 days (30-day baseline: 1,885)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 27286
-  },
-  {
    "date": "2026-09-15",
-   "views": 25826
+   "views": 1928
   },
   {
    "date": "2026-09-16",
-   "views": 44201
+   "views": 1890
   },
   {
    "date": "2026-09-17",
-   "views": 54181
+   "views": 2235
   },
   {
    "date": "2026-09-18",
-   "views": 52129
+   "views": 2160
   },
   {
    "date": "2026-09-19",
-   "views": 57797
+   "views": 2122
   },
   {
    "date": "2026-09-20",
-   "views": 48973
+   "views": 2116
   },
   {
    "date": "2026-09-21",
-   "views": 51404
+   "views": 1896
   },
   {
    "date": "2026-09-22",
-   "views": 32597
+   "views": 1996
   },
   {
    "date": "2026-09-23",
-   "views": 43222
+   "views": 2046
   },
   {
    "date": "2026-09-24",
-   "views": 43454
+   "views": 1948
   },
   {
    "date": "2026-09-25",
-   "views": 41562
+   "views": 1737
   },
   {
    "date": "2026-09-26",
-   "views": 38099
+   "views": 2030
   },
   {
    "date": "2026-09-27",
-   "views": 30672
+   "views": 2181
   },
   {
    "date": "2026-09-28",
-   "views": 40226
+   "views": 2122
   },
   {
    "date": "2026-09-29",
-   "views": 34893
+   "views": 1921
   },
   {
    "date": "2026-09-30",
-   "views": 15354
+   "views": 2401
   },
   {
    "date": "2026-10-01",
-   "views": 15344
+   "views": 1753
   },
   {
    "date": "2026-10-02",
-   "views": 17091
+   "views": 1731
   },
   {
    "date": "2026-10-03",
-   "views": 17584
+   "views": 1808
   },
   {
    "date": "2026-10-04",
-   "views": 16697
+   "views": 1836
   },
   {
    "date": "2026-10-05",
-   "views": 16698
+   "views": 1801
   },
   {
    "date": "2026-10-06",
-   "views": 25398
+   "views": 1826
   },
   {
    "date": "2026-10-07",
-   "views": 29248
+   "views": 1734
   },
   {
    "date": "2026-10-08",
-   "views": 19877
+   "views": 1705
   },
   {
    "date": "2026-10-09",
-   "views": 17560
+   "views": 1718
   },
   {
    "date": "2026-10-10",
-   "views": 20122
+   "views": 1732
   },
   {
    "date": "2026-10-11",
-   "views": 16995
+   "views": 1841
   },
   {
    "date": "2026-10-12",
-   "views": 19476
+   "views": 1800
   },
   {
    "date": "2026-10-13",
-   "views": 19423
+   "views": 1730
   },
   {
    "date": "2026-10-14",
-   "views": 18619
+   "views": 1842
   },
   {
    "date": "2026-10-15",
-   "views": 19582
+   "views": 1809
   },
   {
    "date": "2026-10-16",
-   "views": 22211
+   "views": 1986
   },
   {
    "date": "2026-10-17",
-   "views": 24655
+   "views": 1901
   },
   {
    "date": "2026-10-18",
-   "views": 24767
+   "views": 1992
   },
   {
    "date": "2026-10-19",
-   "views": 21790
+   "views": 1954
   },
   {
    "date": "2026-10-20",
-   "views": 20984
+   "views": 1864
   },
   {
    "date": "2026-10-21",
-   "views": 43280
+   "views": 1816
   },
   {
    "date": "2026-10-22",
-   "views": 41121
+   "views": 2520
   },
   {
    "date": "2026-10-23",
-   "views": 52841
+   "views": 2109
+  },
+  {
+   "date": "2026-10-24",
+   "views": 81051
   }
  ],
- "wikipedia_title": "XXX_(film_series)",
+ "wikipedia_title": "M\u0101ori_people",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

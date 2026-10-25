@@ -1,198 +1,197 @@
 {
- "title": "India at the 2026 Asian Para Games",
- "slug": "india-at-the-2026-asian-para-games",
- "score": 72,
- "status": "Building",
- "change_percent": 1412,
- "growth_ratio": 15.12,
- "recent_avg": 68152,
- "baseline_avg": 4507,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "title": "M\u00f6bius strip",
+ "slug": "mobius-strip",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 2323,
+ "growth_ratio": 24.24,
+ "recent_avg": 19844,
+ "baseline_avg": 819,
+ "explanation": "Attention is 24\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 63645,
- "latest": 76790,
+ "abs_change": 19025,
+ "latest": 55047,
  "components": {
-  "acceleration": 0.694,
-  "anomaly": 0.561,
-  "persistence": 1.0,
+  "acceleration": 0.815,
+  "anomaly": 1.0,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.917,
-  "spike_quality": 0.938
+  "volume": 0.649,
+  "spike_quality": 0.572
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 68,152 views/day over the last 3 days (30-day baseline: 4,507)."
+  "Averaging 19,844 views/day over the last 3 days (30-day baseline: 819)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 160
-  },
-  {
    "date": "2026-09-15",
-   "views": 164
+   "views": 887
   },
   {
    "date": "2026-09-16",
-   "views": 166
+   "views": 803
   },
   {
    "date": "2026-09-17",
-   "views": 188
+   "views": 867
   },
   {
    "date": "2026-09-18",
-   "views": 213
+   "views": 880
   },
   {
    "date": "2026-09-19",
-   "views": 199
+   "views": 995
   },
   {
    "date": "2026-09-20",
-   "views": 389
+   "views": 874
   },
   {
    "date": "2026-09-21",
-   "views": 391
+   "views": 862
   },
   {
    "date": "2026-09-22",
-   "views": 366
+   "views": 768
   },
   {
    "date": "2026-09-23",
-   "views": 356
+   "views": 867
   },
   {
    "date": "2026-09-24",
-   "views": 333
+   "views": 799
   },
   {
    "date": "2026-09-25",
-   "views": 362
+   "views": 898
   },
   {
    "date": "2026-09-26",
-   "views": 465
+   "views": 748
   },
   {
    "date": "2026-09-27",
-   "views": 425
+   "views": 819
   },
   {
    "date": "2026-09-28",
-   "views": 478
+   "views": 818
   },
   {
    "date": "2026-09-29",
-   "views": 626
+   "views": 820
   },
   {
    "date": "2026-09-30",
-   "views": 647
+   "views": 801
   },
   {
    "date": "2026-10-01",
-   "views": 669
+   "views": 804
   },
   {
    "date": "2026-10-02",
-   "views": 1060
+   "views": 835
   },
   {
    "date": "2026-10-03",
-   "views": 1746
+   "views": 809
   },
   {
    "date": "2026-10-04",
-   "views": 1563
+   "views": 809
   },
   {
    "date": "2026-10-05",
-   "views": 1238
+   "views": 864
   },
   {
    "date": "2026-10-06",
-   "views": 833
+   "views": 828
   },
   {
    "date": "2026-10-07",
-   "views": 1621
+   "views": 894
   },
   {
    "date": "2026-10-08",
-   "views": 1994
+   "views": 941
   },
   {
    "date": "2026-10-09",
-   "views": 1398
+   "views": 847
   },
   {
    "date": "2026-10-10",
-   "views": 1167
+   "views": 716
   },
   {
    "date": "2026-10-11",
-   "views": 1177
+   "views": 713
   },
   {
    "date": "2026-10-12",
-   "views": 1635
+   "views": 889
   },
   {
    "date": "2026-10-13",
-   "views": 1864
+   "views": 829
   },
   {
    "date": "2026-10-14",
-   "views": 1717
+   "views": 835
   },
   {
    "date": "2026-10-15",
-   "views": 1917
+   "views": 778
   },
   {
    "date": "2026-10-16",
-   "views": 4420
+   "views": 797
   },
   {
    "date": "2026-10-17",
-   "views": 5964
+   "views": 769
   },
   {
    "date": "2026-10-18",
-   "views": 7011
+   "views": 838
   },
   {
    "date": "2026-10-19",
-   "views": 38265
+   "views": 752
   },
   {
    "date": "2026-10-20",
-   "views": 53500
+   "views": 847
   },
   {
    "date": "2026-10-21",
-   "views": 59658
+   "views": 831
   },
   {
    "date": "2026-10-22",
-   "views": 68007
+   "views": 833
   },
   {
    "date": "2026-10-23",
-   "views": 76790
+   "views": 3651
+  },
+  {
+   "date": "2026-10-24",
+   "views": 55047
   }
  ],
- "wikipedia_title": "India_at_the_2026_Asian_Para_Games",
+ "wikipedia_title": "M\u00f6bius_strip",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }

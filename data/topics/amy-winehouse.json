@@ -1,197 +1,198 @@
 {
- "title": "WhatsApp",
- "slug": "whatsapp",
- "score": 48,
- "status": "Building",
- "change_percent": 309,
- "growth_ratio": 4.09,
- "recent_avg": 47877,
- "baseline_avg": 11700,
- "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
+ "title": "Amy Winehouse",
+ "slug": "amy-winehouse",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 458,
+ "growth_ratio": 5.58,
+ "recent_avg": 32360,
+ "baseline_avg": 5797,
+ "explanation": "Attention is 5.6\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 36177,
- "latest": 47145,
+ "abs_change": 26563,
+ "latest": 74985,
  "components": {
-  "acceleration": 0.36,
-  "anomaly": 0.503,
-  "persistence": 0.92,
-  "momentum": 0.822,
-  "volume": 0.84,
-  "spike_quality": 0.927
+  "acceleration": 0.44,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.755,
+  "spike_quality": 0.719
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 47,877 views/day over the last 3 days (30-day baseline: 11,700)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 32,360 views/day over the last 3 days (30-day baseline: 5,797)."
  ],
  "history": [
   {
-   "date": "2026-09-14",
-   "views": 9313
-  },
-  {
    "date": "2026-09-15",
-   "views": 9477
+   "views": 7737
   },
   {
    "date": "2026-09-16",
-   "views": 9728
+   "views": 5639
   },
   {
    "date": "2026-09-17",
-   "views": 9274
+   "views": 5268
   },
   {
    "date": "2026-09-18",
-   "views": 8599
+   "views": 5232
   },
   {
    "date": "2026-09-19",
-   "views": 8784
+   "views": 5784
   },
   {
    "date": "2026-09-20",
-   "views": 8720
+   "views": 7157
   },
   {
    "date": "2026-09-21",
-   "views": 9170
+   "views": 6642
   },
   {
    "date": "2026-09-22",
-   "views": 9517
+   "views": 5980
   },
   {
    "date": "2026-09-23",
-   "views": 9792
+   "views": 7970
   },
   {
    "date": "2026-09-24",
-   "views": 8750
+   "views": 5607
   },
   {
    "date": "2026-09-25",
-   "views": 9345
+   "views": 5447
   },
   {
    "date": "2026-09-26",
-   "views": 8192
+   "views": 7146
   },
   {
    "date": "2026-09-27",
-   "views": 8690
+   "views": 7717
   },
   {
    "date": "2026-09-28",
-   "views": 9889
+   "views": 5767
   },
   {
    "date": "2026-09-29",
-   "views": 9927
+   "views": 4807
   },
   {
    "date": "2026-09-30",
-   "views": 9543
+   "views": 4863
   },
   {
    "date": "2026-10-01",
-   "views": 9273
+   "views": 4228
   },
   {
    "date": "2026-10-02",
-   "views": 7887
+   "views": 4978
   },
   {
    "date": "2026-10-03",
-   "views": 7999
+   "views": 6698
   },
   {
    "date": "2026-10-04",
-   "views": 7758
+   "views": 5535
   },
   {
    "date": "2026-10-05",
-   "views": 8534
+   "views": 5054
   },
   {
    "date": "2026-10-06",
-   "views": 8752
+   "views": 4448
   },
   {
    "date": "2026-10-07",
-   "views": 8853
+   "views": 5216
   },
   {
    "date": "2026-10-08",
-   "views": 8911
+   "views": 4734
   },
   {
    "date": "2026-10-09",
-   "views": 8811
+   "views": 6300
   },
   {
    "date": "2026-10-10",
-   "views": 9861
+   "views": 6080
   },
   {
    "date": "2026-10-11",
-   "views": 8461
+   "views": 9026
   },
   {
    "date": "2026-10-12",
-   "views": 9590
+   "views": 5994
   },
   {
    "date": "2026-10-13",
-   "views": 9564
+   "views": 5253
   },
   {
    "date": "2026-10-14",
-   "views": 9753
+   "views": 4948
   },
   {
    "date": "2026-10-15",
-   "views": 14079
+   "views": 5444
   },
   {
    "date": "2026-10-16",
-   "views": 14834
+   "views": 5652
   },
   {
    "date": "2026-10-17",
-   "views": 15691
+   "views": 5909
   },
   {
    "date": "2026-10-18",
-   "views": 20228
+   "views": 7082
   },
   {
    "date": "2026-10-19",
-   "views": 24326
+   "views": 5633
   },
   {
    "date": "2026-10-20",
-   "views": 45010
+   "views": 4940
   },
   {
    "date": "2026-10-21",
-   "views": 50928
+   "views": 5449
   },
   {
    "date": "2026-10-22",
-   "views": 45559
+   "views": 6134
   },
   {
    "date": "2026-10-23",
-   "views": 47145
+   "views": 15961
+  },
+  {
+   "date": "2026-10-24",
+   "views": 74985
   }
  ],
- "wikipedia_title": "WhatsApp",
+ "wikipedia_title": "Amy_Winehouse",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-23",
- "generated_at_utc": "2026-10-24T09:45:45+00:00"
+ "data_through": "2026-10-24",
+ "generated_at_utc": "2026-10-25T10:05:35+00:00"
 }
