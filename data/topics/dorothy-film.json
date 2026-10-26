@@ -1,198 +1,197 @@
 {
- "title": "Amy Winehouse",
- "slug": "amy-winehouse",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 458,
- "growth_ratio": 5.58,
- "recent_avg": 32360,
- "baseline_avg": 5797,
- "explanation": "Attention is 5.6\u00d7 its 30-day baseline.",
+ "title": "Dorothy (film)",
+ "slug": "dorothy-film",
+ "score": 26,
+ "status": "Building",
+ "change_percent": 152,
+ "growth_ratio": 2.52,
+ "recent_avg": 78558,
+ "baseline_avg": 31119,
+ "explanation": "Attention is 2.5\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 26563,
- "latest": 74985,
+ "abs_change": 47439,
+ "latest": 81997,
  "components": {
-  "acceleration": 0.44,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.755,
-  "spike_quality": 0.719
+  "acceleration": 0.237,
+  "anomaly": 0.194,
+  "persistence": 0.52,
+  "momentum": 0.768,
+  "volume": 0.948,
+  "spike_quality": 0.87
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,360 views/day over the last 3 days (30-day baseline: 5,797)."
+  "Averaging 78,558 views/day over the last 3 days (30-day baseline: 31,119)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 7737
-  },
-  {
    "date": "2026-09-16",
-   "views": 5639
+   "views": 3090
   },
   {
    "date": "2026-09-17",
-   "views": 5268
+   "views": 3015
   },
   {
    "date": "2026-09-18",
-   "views": 5232
+   "views": 5262
   },
   {
    "date": "2026-09-19",
-   "views": 5784
+   "views": 5873
   },
   {
    "date": "2026-09-20",
-   "views": 7157
+   "views": 7243
   },
   {
    "date": "2026-09-21",
-   "views": 6642
+   "views": 9066
   },
   {
    "date": "2026-09-22",
-   "views": 5980
+   "views": 9335
   },
   {
    "date": "2026-09-23",
-   "views": 7970
+   "views": 12318
   },
   {
    "date": "2026-09-24",
-   "views": 5607
+   "views": 22034
   },
   {
    "date": "2026-09-25",
-   "views": 5447
+   "views": 75360
   },
   {
    "date": "2026-09-26",
-   "views": 7146
+   "views": 90286
   },
   {
    "date": "2026-09-27",
-   "views": 7717
+   "views": 86920
   },
   {
    "date": "2026-09-28",
-   "views": 5767
+   "views": 78994
   },
   {
    "date": "2026-09-29",
-   "views": 4807
+   "views": 59796
   },
   {
    "date": "2026-09-30",
-   "views": 4863
+   "views": 46404
   },
   {
    "date": "2026-10-01",
-   "views": 4228
+   "views": 42276
   },
   {
    "date": "2026-10-02",
-   "views": 4978
+   "views": 39787
   },
   {
    "date": "2026-10-03",
-   "views": 6698
+   "views": 38510
   },
   {
    "date": "2026-10-04",
-   "views": 5535
+   "views": 44527
   },
   {
    "date": "2026-10-05",
-   "views": 5054
+   "views": 39662
   },
   {
    "date": "2026-10-06",
-   "views": 4448
+   "views": 29672
   },
   {
    "date": "2026-10-07",
-   "views": 5216
+   "views": 24181
   },
   {
    "date": "2026-10-08",
-   "views": 4734
+   "views": 21533
   },
   {
    "date": "2026-10-09",
-   "views": 6300
+   "views": 19400
   },
   {
    "date": "2026-10-10",
-   "views": 6080
+   "views": 22415
   },
   {
    "date": "2026-10-11",
-   "views": 9026
+   "views": 21524
   },
   {
    "date": "2026-10-12",
-   "views": 5994
+   "views": 16482
   },
   {
    "date": "2026-10-13",
-   "views": 5253
+   "views": 14359
   },
   {
    "date": "2026-10-14",
-   "views": 4948
+   "views": 13070
   },
   {
    "date": "2026-10-15",
-   "views": 5444
+   "views": 10546
   },
   {
    "date": "2026-10-16",
-   "views": 5652
+   "views": 8824
   },
   {
    "date": "2026-10-17",
-   "views": 5909
+   "views": 9729
   },
   {
    "date": "2026-10-18",
-   "views": 7082
+   "views": 9927
   },
   {
    "date": "2026-10-19",
-   "views": 5633
+   "views": 8565
   },
   {
    "date": "2026-10-20",
-   "views": 4940
+   "views": 8012
   },
   {
    "date": "2026-10-21",
-   "views": 5449
+   "views": 7185
   },
   {
    "date": "2026-10-22",
-   "views": 6134
+   "views": 11273
   },
   {
    "date": "2026-10-23",
-   "views": 15961
+   "views": 67095
   },
   {
    "date": "2026-10-24",
-   "views": 74985
+   "views": 86581
+  },
+  {
+   "date": "2026-10-25",
+   "views": 81997
   }
  ],
- "wikipedia_title": "Amy_Winehouse",
+ "wikipedia_title": "Dorothy_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

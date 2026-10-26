@@ -1,36 +1,34 @@
 {
  "title": "Sean Hannity",
  "slug": "sean-hannity",
- "score": 28,
+ "score": 54,
  "status": "Breaking out",
- "change_percent": 1398,
- "growth_ratio": 14.98,
- "recent_avg": 24779,
- "baseline_avg": 1654,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "change_percent": 3272,
+ "growth_ratio": 33.72,
+ "recent_avg": 55673,
+ "baseline_avg": 1651,
+ "explanation": "Attention is 34\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 23125,
- "latest": 72232,
+ "abs_change": 54022,
+ "latest": 93887,
  "components": {
-  "acceleration": 0.692,
+  "acceleration": 0.899,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.697,
-  "spike_quality": 0.556
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.873,
+  "spike_quality": 0.765
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 24,779 views/day over the last 3 days (30-day baseline: 1,654)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 55,673 views/day over the last 3 days (30-day baseline: 1,651)."
  ],
  "history": [
-  {
-   "date": "2026-09-15",
-   "views": 1309
-  },
   {
    "date": "2026-09-16",
    "views": 1257
@@ -186,11 +184,15 @@
   {
    "date": "2026-10-24",
    "views": 72232
+  },
+  {
+   "date": "2026-10-25",
+   "views": 93887
   }
  ],
  "wikipedia_title": "Sean_Hannity",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

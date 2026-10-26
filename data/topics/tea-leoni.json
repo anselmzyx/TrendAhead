@@ -1,38 +1,33 @@
 {
  "title": "T\u00e9a Leoni",
  "slug": "tea-leoni",
- "score": 66,
- "status": "Building",
- "change_percent": 724,
- "growth_ratio": 8.24,
- "recent_avg": 61534,
- "baseline_avg": 7465,
- "explanation": "Attention is 8.2\u00d7 its 30-day baseline.",
+ "score": 34,
+ "status": "Peaked / fading",
+ "change_percent": 676,
+ "growth_ratio": 7.76,
+ "recent_avg": 65138,
+ "baseline_avg": 8394,
+ "explanation": "Attention surged to 7.8\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 54069,
- "latest": 88011,
+ "abs_change": 56744,
+ "latest": 42638,
  "components": {
-  "acceleration": 0.539,
-  "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 1.0,
-  "volume": 0.895,
-  "spike_quality": 0.873
+  "acceleration": 0.524,
+  "anomaly": 0.961,
+  "persistence": 0.72,
+  "momentum": 0.491,
+  "volume": 0.907,
+  "spike_quality": 0.639
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,534 views/day over the last 3 days (30-day baseline: 7,465)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 65,138 views/day over the last 3 days (30-day baseline: 8,394)."
  ],
  "history": [
-  {
-   "date": "2026-09-15",
-   "views": 3717
-  },
   {
    "date": "2026-09-16",
    "views": 4172
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-24",
    "views": 88011
+  },
+  {
+   "date": "2026-10-25",
+   "views": 42638
   }
  ],
  "wikipedia_title": "T\u00e9a_Leoni",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

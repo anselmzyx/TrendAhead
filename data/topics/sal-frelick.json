@@ -1,196 +1,197 @@
 {
- "title": "Callum Turner",
- "slug": "callum-turner",
- "score": 29,
- "status": "Elevated",
- "change_percent": 294,
- "growth_ratio": 3.94,
- "recent_avg": 33795,
- "baseline_avg": 8584,
- "explanation": "Attention is 3.9\u00d7 its 30-day baseline.",
+ "title": "Sal Frelick",
+ "slug": "sal-frelick",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 1785,
+ "growth_ratio": 18.85,
+ "recent_avg": 18986,
+ "baseline_avg": 1007,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25211,
- "latest": 32614,
+ "abs_change": 17979,
+ "latest": 48254,
  "components": {
-  "acceleration": 0.35,
+  "acceleration": 0.751,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.593,
-  "volume": 0.764,
-  "spike_quality": 0.688
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.639,
+  "spike_quality": 0.604
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 33,795 views/day over the last 3 days (30-day baseline: 8,584)."
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 18,986 views/day over the last 3 days (30-day baseline: 1,007)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 8302
-  },
-  {
    "date": "2026-09-16",
-   "views": 7737
+   "views": 169
   },
   {
    "date": "2026-09-17",
-   "views": 7478
+   "views": 156
   },
   {
    "date": "2026-09-18",
-   "views": 8600
+   "views": 68
   },
   {
    "date": "2026-09-19",
-   "views": 9681
+   "views": 259
   },
   {
    "date": "2026-09-20",
-   "views": 9107
+   "views": 67
   },
   {
    "date": "2026-09-21",
-   "views": 7599
+   "views": 118
   },
   {
    "date": "2026-09-22",
-   "views": 7175
+   "views": 59
   },
   {
    "date": "2026-09-23",
-   "views": 8227
+   "views": 65
   },
   {
    "date": "2026-09-24",
-   "views": 6701
+   "views": 266
   },
   {
    "date": "2026-09-25",
-   "views": 7245
+   "views": 173
   },
   {
    "date": "2026-09-26",
-   "views": 10352
+   "views": 175
   },
   {
    "date": "2026-09-27",
-   "views": 12426
+   "views": 209
   },
   {
    "date": "2026-09-28",
-   "views": 9874
+   "views": 166
   },
   {
    "date": "2026-09-29",
-   "views": 8453
+   "views": 100
   },
   {
    "date": "2026-09-30",
-   "views": 8074
+   "views": 115
   },
   {
    "date": "2026-10-01",
-   "views": 7987
+   "views": 96
   },
   {
    "date": "2026-10-02",
-   "views": 8821
+   "views": 70
   },
   {
    "date": "2026-10-03",
-   "views": 10035
+   "views": 84
   },
   {
    "date": "2026-10-04",
-   "views": 11694
+   "views": 2151
   },
   {
    "date": "2026-10-05",
-   "views": 9591
+   "views": 1571
   },
   {
    "date": "2026-10-06",
-   "views": 7670
+   "views": 652
   },
   {
    "date": "2026-10-07",
-   "views": 7113
+   "views": 2085
   },
   {
    "date": "2026-10-08",
-   "views": 17935
+   "views": 2417
   },
   {
    "date": "2026-10-09",
-   "views": 10893
+   "views": 411
   },
   {
    "date": "2026-10-10",
-   "views": 10665
+   "views": 290
   },
   {
    "date": "2026-10-11",
-   "views": 9011
+   "views": 246
   },
   {
    "date": "2026-10-12",
-   "views": 6966
+   "views": 5044
   },
   {
    "date": "2026-10-13",
-   "views": 5942
+   "views": 1483
   },
   {
    "date": "2026-10-14",
-   "views": 5964
+   "views": 426
   },
   {
    "date": "2026-10-15",
-   "views": 6232
+   "views": 1170
   },
   {
    "date": "2026-10-16",
-   "views": 6495
+   "views": 7722
   },
   {
    "date": "2026-10-17",
-   "views": 7040
+   "views": 818
   },
   {
    "date": "2026-10-18",
-   "views": 8103
+   "views": 412
   },
   {
    "date": "2026-10-19",
-   "views": 6961
+   "views": 289
   },
   {
    "date": "2026-10-20",
-   "views": 7218
+   "views": 575
   },
   {
    "date": "2026-10-21",
-   "views": 6659
+   "views": 339
   },
   {
    "date": "2026-10-22",
-   "views": 18964
+   "views": 601
   },
   {
    "date": "2026-10-23",
-   "views": 49808
+   "views": 1452
   },
   {
    "date": "2026-10-24",
-   "views": 32614
+   "views": 7253
+  },
+  {
+   "date": "2026-10-25",
+   "views": 48254
   }
  ],
- "wikipedia_title": "Callum_Turner",
+ "wikipedia_title": "Sal_Frelick",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Ilhan Omar",
- "slug": "ilhan-omar",
- "score": 32,
- "status": "Elevated",
- "change_percent": 306,
- "growth_ratio": 4.06,
- "recent_avg": 89556,
- "baseline_avg": 22034,
- "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
+ "title": "2026 Serbian parliamentary election",
+ "slug": "2026-serbian-parliamentary-election",
+ "score": 65,
+ "status": "Breaking out",
+ "change_percent": 1998,
+ "growth_ratio": 20.98,
+ "recent_avg": 89682,
+ "baseline_avg": 4275,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 67522,
- "latest": 61394,
+ "abs_change": 85407,
+ "latest": 242482,
  "components": {
-  "acceleration": 0.358,
-  "anomaly": 0.206,
-  "persistence": 0.92,
-  "momentum": 0.554,
+  "acceleration": 0.778,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
   "volume": 0.976,
-  "spike_quality": 0.735
+  "spike_quality": 0.613
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 89,556 views/day over the last 3 days (30-day baseline: 22,034)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 89,682 views/day over the last 3 days (30-day baseline: 4,275)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 5437
-  },
-  {
    "date": "2026-09-16",
-   "views": 3584
+   "views": 3002
   },
   {
    "date": "2026-09-17",
-   "views": 5841
+   "views": 2703
   },
   {
    "date": "2026-09-18",
-   "views": 4848
+   "views": 2822
   },
   {
    "date": "2026-09-19",
-   "views": 3161
+   "views": 2510
   },
   {
    "date": "2026-09-20",
-   "views": 2453
+   "views": 2726
   },
   {
    "date": "2026-09-21",
-   "views": 2573
+   "views": 3029
   },
   {
    "date": "2026-09-22",
-   "views": 2097
+   "views": 2521
   },
   {
    "date": "2026-09-23",
-   "views": 2306
+   "views": 2377
   },
   {
    "date": "2026-09-24",
-   "views": 2021
+   "views": 2202
   },
   {
    "date": "2026-09-25",
-   "views": 2170
+   "views": 2068
   },
   {
    "date": "2026-09-26",
-   "views": 2404
+   "views": 2332
   },
   {
    "date": "2026-09-27",
-   "views": 1945
+   "views": 6742
   },
   {
    "date": "2026-09-28",
-   "views": 1752
+   "views": 8256
   },
   {
    "date": "2026-09-29",
-   "views": 2968
+   "views": 4212
   },
   {
    "date": "2026-09-30",
-   "views": 2098
+   "views": 3708
   },
   {
    "date": "2026-10-01",
-   "views": 2294
+   "views": 2859
   },
   {
    "date": "2026-10-02",
-   "views": 2324
+   "views": 2689
   },
   {
    "date": "2026-10-03",
-   "views": 1826
+   "views": 3262
   },
   {
    "date": "2026-10-04",
-   "views": 2130
+   "views": 6534
   },
   {
    "date": "2026-10-05",
-   "views": 1850
+   "views": 3962
   },
   {
    "date": "2026-10-06",
-   "views": 1673
+   "views": 2972
   },
   {
    "date": "2026-10-07",
-   "views": 1686
+   "views": 3929
   },
   {
    "date": "2026-10-08",
-   "views": 1930
+   "views": 3321
   },
   {
    "date": "2026-10-09",
-   "views": 1883
+   "views": 2999
   },
   {
    "date": "2026-10-10",
-   "views": 1654
+   "views": 3018
   },
   {
    "date": "2026-10-11",
-   "views": 1656
+   "views": 3286
   },
   {
    "date": "2026-10-12",
-   "views": 109068
+   "views": 3280
   },
   {
    "date": "2026-10-13",
-   "views": 100803
+   "views": 3200
   },
   {
    "date": "2026-10-14",
-   "views": 87603
+   "views": 3005
   },
   {
    "date": "2026-10-15",
-   "views": 83752
+   "views": 3276
   },
   {
    "date": "2026-10-16",
-   "views": 51295
+   "views": 4016
   },
   {
    "date": "2026-10-17",
-   "views": 33354
+   "views": 4693
   },
   {
    "date": "2026-10-18",
-   "views": 30756
+   "views": 4366
   },
   {
    "date": "2026-10-19",
-   "views": 30650
+   "views": 4853
   },
   {
    "date": "2026-10-20",
-   "views": 41316
+   "views": 7915
   },
   {
    "date": "2026-10-21",
-   "views": 51766
+   "views": 8320
   },
   {
    "date": "2026-10-22",
-   "views": 103302
+   "views": 10610
   },
   {
    "date": "2026-10-23",
-   "views": 103972
+   "views": 12973
   },
   {
    "date": "2026-10-24",
-   "views": 61394
+   "views": 13591
+  },
+  {
+   "date": "2026-10-25",
+   "views": 242482
   }
  ],
- "wikipedia_title": "Ilhan_Omar",
+ "wikipedia_title": "2026_Serbian_parliamentary_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

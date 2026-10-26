@@ -1,197 +1,198 @@
 {
- "title": "Jacob Misiorowski",
- "slug": "jacob-misiorowski",
- "score": 25,
+ "title": "2026 British Columbia general election",
+ "slug": "2026-british-columbia-general-election",
+ "score": 55,
  "status": "Breaking out",
- "change_percent": 597,
- "growth_ratio": 6.97,
- "recent_avg": 50080,
- "baseline_avg": 7188,
- "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
+ "change_percent": 618,
+ "growth_ratio": 7.18,
+ "recent_avg": 60351,
+ "baseline_avg": 8401,
+ "explanation": "Attention is 7.2\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 42892,
- "latest": 133083,
+ "abs_change": 51950,
+ "latest": 141044,
  "components": {
-  "acceleration": 0.496,
-  "anomaly": 0.223,
-  "persistence": 0.4,
+  "acceleration": 0.504,
+  "anomaly": 1.0,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.85,
-  "spike_quality": 0.597
+  "volume": 0.89,
+  "spike_quality": 0.715
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 50,080 views/day over the last 3 days (30-day baseline: 7,188)."
+  "Averaging 60,351 views/day over the last 3 days (30-day baseline: 8,401)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 1717
-  },
-  {
    "date": "2026-09-16",
-   "views": 2681
+   "views": 0
   },
   {
    "date": "2026-09-17",
-   "views": 1266
+   "views": 0
   },
   {
    "date": "2026-09-18",
-   "views": 1094
+   "views": 0
   },
   {
    "date": "2026-09-19",
-   "views": 1222
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 2160
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 2386
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 1428
+   "views": 8416
   },
   {
    "date": "2026-09-23",
-   "views": 1239
+   "views": 13704
   },
   {
    "date": "2026-09-24",
-   "views": 1262
+   "views": 9312
   },
   {
    "date": "2026-09-25",
-   "views": 1144
+   "views": 8834
   },
   {
    "date": "2026-09-26",
-   "views": 1074
+   "views": 6711
   },
   {
    "date": "2026-09-27",
-   "views": 3141
+   "views": 8127
   },
   {
    "date": "2026-09-28",
-   "views": 3144
+   "views": 8472
   },
   {
    "date": "2026-09-29",
-   "views": 2119
+   "views": 8109
   },
   {
    "date": "2026-09-30",
-   "views": 2526
+   "views": 7512
   },
   {
    "date": "2026-10-01",
-   "views": 2273
+   "views": 7854
   },
   {
    "date": "2026-10-02",
-   "views": 2248
+   "views": 6992
   },
   {
    "date": "2026-10-03",
-   "views": 4763
+   "views": 7227
   },
   {
    "date": "2026-10-04",
-   "views": 24856
+   "views": 7386
   },
   {
    "date": "2026-10-05",
-   "views": 3016
+   "views": 8694
   },
   {
    "date": "2026-10-06",
-   "views": 1805
+   "views": 10894
   },
   {
    "date": "2026-10-07",
-   "views": 2327
+   "views": 8159
   },
   {
    "date": "2026-10-08",
-   "views": 4282
+   "views": 7996
   },
   {
    "date": "2026-10-09",
-   "views": 2392
+   "views": 9177
   },
   {
    "date": "2026-10-10",
-   "views": 1857
+   "views": 5867
   },
   {
    "date": "2026-10-11",
-   "views": 4118
+   "views": 5736
   },
   {
    "date": "2026-10-12",
-   "views": 108386
+   "views": 6041
   },
   {
    "date": "2026-10-13",
-   "views": 6212
+   "views": 7616
   },
   {
    "date": "2026-10-14",
-   "views": 2982
+   "views": 6634
   },
   {
    "date": "2026-10-15",
-   "views": 5640
+   "views": 8443
   },
   {
    "date": "2026-10-16",
-   "views": 8568
+   "views": 7232
   },
   {
    "date": "2026-10-17",
-   "views": 3504
+   "views": 7062
   },
   {
    "date": "2026-10-18",
-   "views": 2267
+   "views": 9761
   },
   {
    "date": "2026-10-19",
-   "views": 1610
+   "views": 9111
   },
   {
    "date": "2026-10-20",
-   "views": 2708
+   "views": 9684
   },
   {
    "date": "2026-10-21",
-   "views": 2747
+   "views": 10729
   },
   {
    "date": "2026-10-22",
-   "views": 3231
+   "views": 12948
   },
   {
    "date": "2026-10-23",
-   "views": 13926
+   "views": 15286
   },
   {
    "date": "2026-10-24",
-   "views": 133083
+   "views": 24723
+  },
+  {
+   "date": "2026-10-25",
+   "views": 141044
   }
  ],
- "wikipedia_title": "Jacob_Misiorowski",
+ "wikipedia_title": "2026_British_Columbia_general_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

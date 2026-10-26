@@ -1,0 +1,197 @@
+{
+ "title": "Alexander Volkanovski",
+ "slug": "alexander-volkanovski",
+ "score": 56,
+ "status": "Building",
+ "change_percent": 1369,
+ "growth_ratio": 14.69,
+ "recent_avg": 58440,
+ "baseline_avg": 3977,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 54463,
+ "latest": 75778,
+ "components": {
+  "acceleration": 0.687,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.721,
+  "volume": 0.883,
+  "spike_quality": 0.777
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 58,440 views/day over the last 3 days (30-day baseline: 3,977)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-16",
+   "views": 1828
+  },
+  {
+   "date": "2026-09-17",
+   "views": 2036
+  },
+  {
+   "date": "2026-09-18",
+   "views": 2202
+  },
+  {
+   "date": "2026-09-19",
+   "views": 3221
+  },
+  {
+   "date": "2026-09-20",
+   "views": 4713
+  },
+  {
+   "date": "2026-09-21",
+   "views": 2619
+  },
+  {
+   "date": "2026-09-22",
+   "views": 2699
+  },
+  {
+   "date": "2026-09-23",
+   "views": 2456
+  },
+  {
+   "date": "2026-09-24",
+   "views": 2360
+  },
+  {
+   "date": "2026-09-25",
+   "views": 2107
+  },
+  {
+   "date": "2026-09-26",
+   "views": 2084
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2016
+  },
+  {
+   "date": "2026-09-28",
+   "views": 1807
+  },
+  {
+   "date": "2026-09-29",
+   "views": 2046
+  },
+  {
+   "date": "2026-09-30",
+   "views": 1914
+  },
+  {
+   "date": "2026-10-01",
+   "views": 1848
+  },
+  {
+   "date": "2026-10-02",
+   "views": 1876
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1846
+  },
+  {
+   "date": "2026-10-04",
+   "views": 3334
+  },
+  {
+   "date": "2026-10-05",
+   "views": 2344
+  },
+  {
+   "date": "2026-10-06",
+   "views": 2330
+  },
+  {
+   "date": "2026-10-07",
+   "views": 2272
+  },
+  {
+   "date": "2026-10-08",
+   "views": 2268
+  },
+  {
+   "date": "2026-10-09",
+   "views": 2719
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2706
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2876
+  },
+  {
+   "date": "2026-10-12",
+   "views": 2642
+  },
+  {
+   "date": "2026-10-13",
+   "views": 3134
+  },
+  {
+   "date": "2026-10-14",
+   "views": 3495
+  },
+  {
+   "date": "2026-10-15",
+   "views": 5732
+  },
+  {
+   "date": "2026-10-16",
+   "views": 7642
+  },
+  {
+   "date": "2026-10-17",
+   "views": 8492
+  },
+  {
+   "date": "2026-10-18",
+   "views": 8838
+  },
+  {
+   "date": "2026-10-19",
+   "views": 8761
+  },
+  {
+   "date": "2026-10-20",
+   "views": 7931
+  },
+  {
+   "date": "2026-10-21",
+   "views": 8731
+  },
+  {
+   "date": "2026-10-22",
+   "views": 10710
+  },
+  {
+   "date": "2026-10-23",
+   "views": 12343
+  },
+  {
+   "date": "2026-10-24",
+   "views": 87200
+  },
+  {
+   "date": "2026-10-25",
+   "views": 75778
+  }
+ ],
+ "wikipedia_title": "Alexander_Volkanovski",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
+}

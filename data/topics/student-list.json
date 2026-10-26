@@ -1,198 +1,197 @@
 {
- "title": "Walker Kessler",
- "slug": "walker-kessler",
- "score": 26,
- "status": "Peaked / fading",
- "change_percent": 2733,
- "growth_ratio": 28.33,
- "recent_avg": 31276,
- "baseline_avg": 1104,
- "explanation": "Attention surged to 28\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Student List",
+ "slug": "student-list",
+ "score": 52,
+ "status": "Breaking out",
+ "change_percent": 1802,
+ "growth_ratio": 19.02,
+ "recent_avg": 34049,
+ "baseline_avg": 1790,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30172,
- "latest": 19817,
+ "abs_change": 32259,
+ "latest": 88912,
  "components": {
-  "acceleration": 0.855,
+  "acceleration": 0.753,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.46,
-  "volume": 0.748,
-  "spike_quality": 0.381
+  "persistence": 0.92,
+  "momentum": 0.867,
+  "volume": 0.766,
+  "spike_quality": 0.648
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 31,276 views/day over the last 3 days (30-day baseline: 1,104)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 34,049 views/day over the last 3 days (30-day baseline: 1,790)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 292
-  },
-  {
    "date": "2026-09-16",
-   "views": 348
+   "views": 1889
   },
   {
    "date": "2026-09-17",
-   "views": 397
+   "views": 1344
   },
   {
    "date": "2026-09-18",
-   "views": 490
+   "views": 1212
   },
   {
    "date": "2026-09-19",
-   "views": 343
+   "views": 1071
   },
   {
    "date": "2026-09-20",
-   "views": 322
+   "views": 1362
   },
   {
    "date": "2026-09-21",
-   "views": 402
+   "views": 1539
   },
   {
    "date": "2026-09-22",
-   "views": 460
+   "views": 1153
   },
   {
    "date": "2026-09-23",
-   "views": 510
+   "views": 1123
   },
   {
    "date": "2026-09-24",
-   "views": 792
+   "views": 814
   },
   {
    "date": "2026-09-25",
-   "views": 1277
+   "views": 808
   },
   {
    "date": "2026-09-26",
-   "views": 950
+   "views": 911
   },
   {
    "date": "2026-09-27",
-   "views": 717
+   "views": 2870
   },
   {
    "date": "2026-09-28",
-   "views": 1116
+   "views": 3446
   },
   {
    "date": "2026-09-29",
-   "views": 1781
+   "views": 1604
   },
   {
    "date": "2026-09-30",
-   "views": 1438
+   "views": 1299
   },
   {
    "date": "2026-10-01",
-   "views": 942
+   "views": 1056
   },
   {
    "date": "2026-10-02",
-   "views": 1032
+   "views": 919
   },
   {
    "date": "2026-10-03",
-   "views": 832
+   "views": 996
   },
   {
    "date": "2026-10-04",
-   "views": 673
+   "views": 1640
   },
   {
    "date": "2026-10-05",
-   "views": 704
+   "views": 1119
   },
   {
    "date": "2026-10-06",
-   "views": 935
+   "views": 966
   },
   {
    "date": "2026-10-07",
-   "views": 697
+   "views": 1463
   },
   {
    "date": "2026-10-08",
-   "views": 597
+   "views": 1191
   },
   {
    "date": "2026-10-09",
-   "views": 1656
+   "views": 1096
   },
   {
    "date": "2026-10-10",
-   "views": 678
+   "views": 1064
   },
   {
    "date": "2026-10-11",
-   "views": 575
+   "views": 1046
   },
   {
    "date": "2026-10-12",
-   "views": 645
+   "views": 1223
   },
   {
    "date": "2026-10-13",
-   "views": 688
+   "views": 1271
   },
   {
    "date": "2026-10-14",
-   "views": 4107
+   "views": 1070
   },
   {
    "date": "2026-10-15",
-   "views": 1202
+   "views": 1176
   },
   {
    "date": "2026-10-16",
-   "views": 944
+   "views": 2066
   },
   {
    "date": "2026-10-17",
-   "views": 2209
+   "views": 2635
   },
   {
    "date": "2026-10-18",
-   "views": 1049
+   "views": 1750
   },
   {
    "date": "2026-10-19",
-   "views": 945
+   "views": 1758
   },
   {
    "date": "2026-10-20",
-   "views": 1215
+   "views": 4462
   },
   {
    "date": "2026-10-21",
-   "views": 1757
+   "views": 4804
   },
   {
    "date": "2026-10-22",
-   "views": 61502
+   "views": 6064
   },
   {
    "date": "2026-10-23",
-   "views": 12508
+   "views": 7373
   },
   {
    "date": "2026-10-24",
-   "views": 19817
+   "views": 5863
+  },
+  {
+   "date": "2026-10-25",
+   "views": 88912
   }
  ],
- "wikipedia_title": "Walker_Kessler",
+ "wikipedia_title": "Student_List",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

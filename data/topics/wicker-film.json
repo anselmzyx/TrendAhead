@@ -1,38 +1,33 @@
 {
  "title": "Wicker (film)",
  "slug": "wicker-film",
- "score": 61,
+ "score": 56,
  "status": "Building",
- "change_percent": 415,
- "growth_ratio": 5.15,
- "recent_avg": 61012,
- "baseline_avg": 11836,
- "explanation": "Attention is 5.2\u00d7 its 30-day baseline.",
+ "change_percent": 499,
+ "growth_ratio": 5.99,
+ "recent_avg": 76909,
+ "baseline_avg": 12845,
+ "explanation": "Attention is 6.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 49176,
- "latest": 83719,
+ "abs_change": 64064,
+ "latest": 81440,
  "components": {
-  "acceleration": 0.419,
-  "anomaly": 0.606,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.893,
-  "spike_quality": 0.901
+  "acceleration": 0.457,
+  "anomaly": 0.723,
+  "persistence": 0.92,
+  "momentum": 0.784,
+  "volume": 0.943,
+  "spike_quality": 0.922
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,012 views/day over the last 3 days (30-day baseline: 11,836)."
+  "Averaging 76,909 views/day over the last 3 days (30-day baseline: 12,845)."
  ],
  "history": [
-  {
-   "date": "2026-09-15",
-   "views": 3792
-  },
   {
    "date": "2026-09-16",
    "views": 4775
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-24",
    "views": 83719
+  },
+  {
+   "date": "2026-10-25",
+   "views": 81440
   }
  ],
  "wikipedia_title": "Wicker_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

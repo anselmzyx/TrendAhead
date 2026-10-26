@@ -1,197 +1,197 @@
 {
- "title": "M\u00f6bius strip",
- "slug": "mobius-strip",
- "score": 38,
+ "title": "The Kinks",
+ "slug": "the-kinks",
+ "score": 30,
  "status": "Breaking out",
- "change_percent": 2323,
- "growth_ratio": 24.24,
- "recent_avg": 19844,
- "baseline_avg": 819,
- "explanation": "Attention is 24\u00d7 its 30-day baseline.",
+ "change_percent": 1077,
+ "growth_ratio": 11.77,
+ "recent_avg": 17386,
+ "baseline_avg": 1477,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 19025,
- "latest": 55047,
+ "abs_change": 15909,
+ "latest": 48566,
  "components": {
-  "acceleration": 0.815,
+  "acceleration": 0.63,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.2,
   "momentum": 1.0,
-  "volume": 0.649,
-  "spike_quality": 0.572
+  "volume": 0.62,
+  "spike_quality": 0.595
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 19,844 views/day over the last 3 days (30-day baseline: 819)."
+  "Averaging 17,386 views/day over the last 3 days (30-day baseline: 1,477)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 887
-  },
-  {
    "date": "2026-09-16",
-   "views": 803
+   "views": 1355
   },
   {
    "date": "2026-09-17",
-   "views": 867
+   "views": 1471
   },
   {
    "date": "2026-09-18",
-   "views": 880
+   "views": 1504
   },
   {
    "date": "2026-09-19",
-   "views": 995
+   "views": 1563
   },
   {
    "date": "2026-09-20",
-   "views": 874
+   "views": 1493
   },
   {
    "date": "2026-09-21",
-   "views": 862
+   "views": 1490
   },
   {
    "date": "2026-09-22",
-   "views": 768
+   "views": 1480
   },
   {
    "date": "2026-09-23",
-   "views": 867
+   "views": 1418
   },
   {
    "date": "2026-09-24",
-   "views": 799
+   "views": 1516
   },
   {
    "date": "2026-09-25",
-   "views": 898
+   "views": 1365
   },
   {
    "date": "2026-09-26",
-   "views": 748
+   "views": 1853
   },
   {
    "date": "2026-09-27",
-   "views": 819
+   "views": 1592
   },
   {
    "date": "2026-09-28",
-   "views": 818
+   "views": 1398
   },
   {
    "date": "2026-09-29",
-   "views": 820
+   "views": 1438
   },
   {
    "date": "2026-09-30",
-   "views": 801
+   "views": 1377
   },
   {
    "date": "2026-10-01",
-   "views": 804
+   "views": 1397
   },
   {
    "date": "2026-10-02",
-   "views": 835
+   "views": 1470
   },
   {
    "date": "2026-10-03",
-   "views": 809
+   "views": 1529
   },
   {
    "date": "2026-10-04",
-   "views": 809
+   "views": 1489
   },
   {
    "date": "2026-10-05",
-   "views": 864
+   "views": 1320
   },
   {
    "date": "2026-10-06",
-   "views": 828
+   "views": 1301
   },
   {
    "date": "2026-10-07",
-   "views": 894
+   "views": 1338
   },
   {
    "date": "2026-10-08",
-   "views": 941
+   "views": 1425
   },
   {
    "date": "2026-10-09",
-   "views": 847
+   "views": 1486
   },
   {
    "date": "2026-10-10",
-   "views": 716
+   "views": 1462
   },
   {
    "date": "2026-10-11",
-   "views": 713
+   "views": 1481
   },
   {
    "date": "2026-10-12",
-   "views": 889
+   "views": 1726
   },
   {
    "date": "2026-10-13",
-   "views": 829
+   "views": 1520
   },
   {
    "date": "2026-10-14",
-   "views": 835
+   "views": 1587
   },
   {
    "date": "2026-10-15",
-   "views": 778
+   "views": 1393
   },
   {
    "date": "2026-10-16",
-   "views": 797
+   "views": 1404
   },
   {
    "date": "2026-10-17",
-   "views": 769
+   "views": 1622
   },
   {
    "date": "2026-10-18",
-   "views": 838
+   "views": 1546
   },
   {
    "date": "2026-10-19",
-   "views": 752
+   "views": 1501
   },
   {
    "date": "2026-10-20",
-   "views": 847
+   "views": 1532
   },
   {
    "date": "2026-10-21",
-   "views": 831
+   "views": 1398
   },
   {
    "date": "2026-10-22",
-   "views": 833
+   "views": 1426
   },
   {
    "date": "2026-10-23",
-   "views": 3651
+   "views": 1472
   },
   {
    "date": "2026-10-24",
-   "views": 55047
+   "views": 2120
+  },
+  {
+   "date": "2026-10-25",
+   "views": 48566
   }
  ],
- "wikipedia_title": "M\u00f6bius_strip",
+ "wikipedia_title": "The_Kinks",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

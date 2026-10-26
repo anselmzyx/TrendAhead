@@ -1,38 +1,33 @@
 {
  "title": "Tim Daly",
  "slug": "tim-daly",
- "score": 60,
- "status": "Building",
- "change_percent": 669,
- "growth_ratio": 7.69,
- "recent_avg": 47166,
- "baseline_avg": 6135,
- "explanation": "Attention is 7.7\u00d7 its 30-day baseline.",
+ "score": 33,
+ "status": "Peaked / fading",
+ "change_percent": 625,
+ "growth_ratio": 7.25,
+ "recent_avg": 49761,
+ "baseline_avg": 6860,
+ "explanation": "Attention surged to 7.2\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 41031,
- "latest": 66139,
+ "abs_change": 42901,
+ "latest": 32723,
  "components": {
-  "acceleration": 0.521,
-  "anomaly": 1.0,
+  "acceleration": 0.507,
+  "anomaly": 0.937,
   "persistence": 0.72,
-  "momentum": 1.0,
-  "volume": 0.837,
-  "spike_quality": 0.879
+  "momentum": 0.497,
+  "volume": 0.848,
+  "spike_quality": 0.649
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,166 views/day over the last 3 days (30-day baseline: 6,135)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 49,761 views/day over the last 3 days (30-day baseline: 6,860)."
  ],
  "history": [
-  {
-   "date": "2026-09-15",
-   "views": 3491
-  },
   {
    "date": "2026-09-16",
    "views": 3818
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-24",
    "views": 66139
+  },
+  {
+   "date": "2026-10-25",
+   "views": 32723
   }
  ],
  "wikipedia_title": "Tim_Daly",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

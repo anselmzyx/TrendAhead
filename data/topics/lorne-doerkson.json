@@ -1,0 +1,197 @@
+{
+ "title": "Lorne Doerkson",
+ "slug": "lorne-doerkson",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 1470,
+ "growth_ratio": 15.7,
+ "recent_avg": 39419,
+ "baseline_avg": 2511,
+ "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 36908,
+ "latest": 108935,
+ "components": {
+  "acceleration": 0.704,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.798,
+  "spike_quality": 0.59
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 39,419 views/day over the last 3 days (30-day baseline: 2,511)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-16",
+   "views": 7
+  },
+  {
+   "date": "2026-09-17",
+   "views": 15
+  },
+  {
+   "date": "2026-09-18",
+   "views": 14
+  },
+  {
+   "date": "2026-09-19",
+   "views": 36
+  },
+  {
+   "date": "2026-09-20",
+   "views": 270
+  },
+  {
+   "date": "2026-09-21",
+   "views": 4539
+  },
+  {
+   "date": "2026-09-22",
+   "views": 6354
+  },
+  {
+   "date": "2026-09-23",
+   "views": 6893
+  },
+  {
+   "date": "2026-09-24",
+   "views": 5263
+  },
+  {
+   "date": "2026-09-25",
+   "views": 4991
+  },
+  {
+   "date": "2026-09-26",
+   "views": 3101
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2323
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2400
+  },
+  {
+   "date": "2026-09-29",
+   "views": 1731
+  },
+  {
+   "date": "2026-09-30",
+   "views": 1229
+  },
+  {
+   "date": "2026-10-01",
+   "views": 1120
+  },
+  {
+   "date": "2026-10-02",
+   "views": 1462
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1178
+  },
+  {
+   "date": "2026-10-04",
+   "views": 1071
+  },
+  {
+   "date": "2026-10-05",
+   "views": 1246
+  },
+  {
+   "date": "2026-10-06",
+   "views": 1731
+  },
+  {
+   "date": "2026-10-07",
+   "views": 1859
+  },
+  {
+   "date": "2026-10-08",
+   "views": 1372
+  },
+  {
+   "date": "2026-10-09",
+   "views": 1599
+  },
+  {
+   "date": "2026-10-10",
+   "views": 1633
+  },
+  {
+   "date": "2026-10-11",
+   "views": 1469
+  },
+  {
+   "date": "2026-10-12",
+   "views": 1392
+  },
+  {
+   "date": "2026-10-13",
+   "views": 1739
+  },
+  {
+   "date": "2026-10-14",
+   "views": 2837
+  },
+  {
+   "date": "2026-10-15",
+   "views": 8627
+  },
+  {
+   "date": "2026-10-16",
+   "views": 2764
+  },
+  {
+   "date": "2026-10-17",
+   "views": 1944
+  },
+  {
+   "date": "2026-10-18",
+   "views": 1908
+  },
+  {
+   "date": "2026-10-19",
+   "views": 2005
+  },
+  {
+   "date": "2026-10-20",
+   "views": 2483
+  },
+  {
+   "date": "2026-10-21",
+   "views": 3478
+  },
+  {
+   "date": "2026-10-22",
+   "views": 2494
+  },
+  {
+   "date": "2026-10-23",
+   "views": 3030
+  },
+  {
+   "date": "2026-10-24",
+   "views": 6293
+  },
+  {
+   "date": "2026-10-25",
+   "views": 108935
+  }
+ ],
+ "wikipedia_title": "Lorne_Doerkson",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
+}

@@ -1,197 +1,197 @@
 {
- "title": "Jack Lowden",
- "slug": "jack-lowden",
- "score": 40,
- "status": "Elevated",
- "change_percent": 465,
- "growth_ratio": 5.65,
- "recent_avg": 50543,
- "baseline_avg": 8944,
- "explanation": "Attention is 5.7\u00d7 its 30-day baseline.",
+ "title": "David Eby",
+ "slug": "david-eby",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": 922,
+ "growth_ratio": 10.22,
+ "recent_avg": 19191,
+ "baseline_avg": 1878,
+ "explanation": "Attention is 10\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 41599,
- "latest": 46243,
+ "abs_change": 17313,
+ "latest": 50839,
  "components": {
-  "acceleration": 0.443,
+  "acceleration": 0.594,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.621,
-  "volume": 0.852,
-  "spike_quality": 0.739
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.642,
+  "spike_quality": 0.635
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 50,543 views/day over the last 3 days (30-day baseline: 8,944)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 19,191 views/day over the last 3 days (30-day baseline: 1,878)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 12357
-  },
-  {
    "date": "2026-09-16",
-   "views": 17801
+   "views": 503
   },
   {
    "date": "2026-09-17",
-   "views": 17790
+   "views": 576
   },
   {
    "date": "2026-09-18",
-   "views": 14014
+   "views": 1017
   },
   {
    "date": "2026-09-19",
-   "views": 13636
+   "views": 1138
   },
   {
    "date": "2026-09-20",
-   "views": 13209
+   "views": 804
   },
   {
    "date": "2026-09-21",
-   "views": 10183
+   "views": 1025
   },
   {
    "date": "2026-09-22",
-   "views": 9498
+   "views": 4691
   },
   {
    "date": "2026-09-23",
-   "views": 11115
+   "views": 5773
   },
   {
    "date": "2026-09-24",
-   "views": 9203
+   "views": 2535
   },
   {
    "date": "2026-09-25",
-   "views": 8060
+   "views": 2544
   },
   {
    "date": "2026-09-26",
-   "views": 8599
+   "views": 1772
   },
   {
    "date": "2026-09-27",
-   "views": 9277
+   "views": 1527
   },
   {
    "date": "2026-09-28",
-   "views": 7226
+   "views": 1245
   },
   {
    "date": "2026-09-29",
-   "views": 6350
+   "views": 1186
   },
   {
    "date": "2026-09-30",
-   "views": 7259
+   "views": 1129
   },
   {
    "date": "2026-10-01",
-   "views": 7667
+   "views": 1123
   },
   {
    "date": "2026-10-02",
-   "views": 7823
+   "views": 1065
   },
   {
    "date": "2026-10-03",
-   "views": 7984
+   "views": 1583
   },
   {
    "date": "2026-10-04",
-   "views": 7976
+   "views": 1084
   },
   {
    "date": "2026-10-05",
-   "views": 8806
+   "views": 1577
   },
   {
    "date": "2026-10-06",
-   "views": 9290
+   "views": 1572
   },
   {
    "date": "2026-10-07",
-   "views": 14581
+   "views": 1307
   },
   {
    "date": "2026-10-08",
-   "views": 11005
+   "views": 1009
   },
   {
    "date": "2026-10-09",
-   "views": 7760
+   "views": 1208
   },
   {
    "date": "2026-10-10",
-   "views": 7803
+   "views": 975
   },
   {
    "date": "2026-10-11",
-   "views": 7977
+   "views": 975
   },
   {
    "date": "2026-10-12",
-   "views": 7012
+   "views": 1098
   },
   {
    "date": "2026-10-13",
-   "views": 5966
+   "views": 2225
   },
   {
    "date": "2026-10-14",
-   "views": 8767
+   "views": 2889
   },
   {
    "date": "2026-10-15",
-   "views": 8726
+   "views": 4807
   },
   {
    "date": "2026-10-16",
-   "views": 8643
+   "views": 2042
   },
   {
    "date": "2026-10-17",
-   "views": 9010
+   "views": 1575
   },
   {
    "date": "2026-10-18",
-   "views": 8962
+   "views": 1982
   },
   {
    "date": "2026-10-19",
-   "views": 9974
+   "views": 1736
   },
   {
    "date": "2026-10-20",
-   "views": 7958
+   "views": 2631
   },
   {
    "date": "2026-10-21",
-   "views": 18028
+   "views": 2118
   },
   {
    "date": "2026-10-22",
-   "views": 39550
+   "views": 2034
   },
   {
    "date": "2026-10-23",
-   "views": 65836
+   "views": 2295
   },
   {
    "date": "2026-10-24",
-   "views": 46243
+   "views": 4440
+  },
+  {
+   "date": "2026-10-25",
+   "views": 50839
   }
  ],
- "wikipedia_title": "Jack_Lowden",
+ "wikipedia_title": "David_Eby",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

@@ -1,197 +1,196 @@
 {
- "title": "M\u0101ori people",
- "slug": "maori-people",
+ "title": "Orion (Star Trek)",
+ "slug": "orion-star-trek",
  "score": 31,
  "status": "Breaking out",
- "change_percent": 1415,
- "growth_ratio": 15.15,
- "recent_avg": 28560,
- "baseline_avg": 1885,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "change_percent": 32257,
+ "growth_ratio": 226.5,
+ "recent_avg": 22650,
+ "baseline_avg": 70,
+ "explanation": "Attention is 226\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26675,
- "latest": 81051,
+ "abs_change": 22580,
+ "latest": 67808,
  "components": {
-  "acceleration": 0.695,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.728,
-  "spike_quality": 0.577
+  "momentum": 0.8,
+  "volume": 0.678,
+  "spike_quality": 0.504
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 28,560 views/day over the last 3 days (30-day baseline: 1,885)."
+  "Averaging 22,650 views/day over the last 3 days (30-day baseline: 70)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 1928
-  },
-  {
    "date": "2026-09-16",
-   "views": 1890
+   "views": 61
   },
   {
    "date": "2026-09-17",
-   "views": 2235
+   "views": 82
   },
   {
    "date": "2026-09-18",
-   "views": 2160
+   "views": 83
   },
   {
    "date": "2026-09-19",
-   "views": 2122
+   "views": 92
   },
   {
    "date": "2026-09-20",
-   "views": 2116
+   "views": 92
   },
   {
    "date": "2026-09-21",
-   "views": 1896
+   "views": 80
   },
   {
    "date": "2026-09-22",
-   "views": 1996
+   "views": 91
   },
   {
    "date": "2026-09-23",
-   "views": 2046
+   "views": 65
   },
   {
    "date": "2026-09-24",
-   "views": 1948
+   "views": 78
   },
   {
    "date": "2026-09-25",
-   "views": 1737
+   "views": 76
   },
   {
    "date": "2026-09-26",
-   "views": 2030
+   "views": 82
   },
   {
    "date": "2026-09-27",
-   "views": 2181
+   "views": 77
   },
   {
    "date": "2026-09-28",
-   "views": 2122
+   "views": 64
   },
   {
    "date": "2026-09-29",
-   "views": 1921
+   "views": 66
   },
   {
    "date": "2026-09-30",
-   "views": 2401
+   "views": 61
   },
   {
    "date": "2026-10-01",
-   "views": 1753
+   "views": 75
   },
   {
    "date": "2026-10-02",
-   "views": 1731
+   "views": 69
   },
   {
    "date": "2026-10-03",
-   "views": 1808
+   "views": 59
   },
   {
    "date": "2026-10-04",
-   "views": 1836
+   "views": 65
   },
   {
    "date": "2026-10-05",
-   "views": 1801
+   "views": 87
   },
   {
    "date": "2026-10-06",
-   "views": 1826
+   "views": 55
   },
   {
    "date": "2026-10-07",
-   "views": 1734
+   "views": 62
   },
   {
    "date": "2026-10-08",
-   "views": 1705
+   "views": 62
   },
   {
    "date": "2026-10-09",
-   "views": 1718
+   "views": 73
   },
   {
    "date": "2026-10-10",
-   "views": 1732
+   "views": 79
   },
   {
    "date": "2026-10-11",
-   "views": 1841
+   "views": 70
   },
   {
    "date": "2026-10-12",
-   "views": 1800
+   "views": 70
   },
   {
    "date": "2026-10-13",
-   "views": 1730
+   "views": 75
   },
   {
    "date": "2026-10-14",
-   "views": 1842
+   "views": 70
   },
   {
    "date": "2026-10-15",
-   "views": 1809
+   "views": 72
   },
   {
    "date": "2026-10-16",
-   "views": 1986
+   "views": 48
   },
   {
    "date": "2026-10-17",
-   "views": 1901
+   "views": 68
   },
   {
    "date": "2026-10-18",
-   "views": 1992
+   "views": 69
   },
   {
    "date": "2026-10-19",
-   "views": 1954
+   "views": 74
   },
   {
    "date": "2026-10-20",
-   "views": 1864
+   "views": 79
   },
   {
    "date": "2026-10-21",
-   "views": 1816
+   "views": 69
   },
   {
    "date": "2026-10-22",
-   "views": 2520
+   "views": 78
   },
   {
    "date": "2026-10-23",
-   "views": 2109
+   "views": 78
   },
   {
    "date": "2026-10-24",
-   "views": 81051
+   "views": 65
+  },
+  {
+   "date": "2026-10-25",
+   "views": 67808
   }
  ],
- "wikipedia_title": "M\u0101ori_people",
+ "wikipedia_title": "Orion_(Star_Trek)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }

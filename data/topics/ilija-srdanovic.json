@@ -1,196 +1,197 @@
 {
- "title": "Nicolas Jackson",
- "slug": "nicolas-jackson",
- "score": 24,
+ "title": "Ilija Srdanovi\u0107",
+ "slug": "ilija-srdanovic",
+ "score": 47,
  "status": "Breaking out",
- "change_percent": 1058,
- "growth_ratio": 11.58,
- "recent_avg": 19960,
- "baseline_avg": 1724,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 2067,
+ "growth_ratio": 21.67,
+ "recent_avg": 18310,
+ "baseline_avg": 845,
+ "explanation": "Attention is 22\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 18236,
- "latest": 57791,
+ "abs_change": 17465,
+ "latest": 48804,
  "components": {
-  "acceleration": 0.626,
-  "anomaly": 0.808,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.65,
-  "spike_quality": 0.579
+  "acceleration": 0.786,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.867,
+  "volume": 0.631,
+  "spike_quality": 0.625
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 19,960 views/day over the last 3 days (30-day baseline: 1,724)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 18,310 views/day over the last 3 days (30-day baseline: 845)."
  ],
  "history": [
   {
-   "date": "2026-09-15",
-   "views": 878
-  },
-  {
    "date": "2026-09-16",
-   "views": 1012
+   "views": 5796
   },
   {
    "date": "2026-09-17",
-   "views": 970
+   "views": 3325
   },
   {
    "date": "2026-09-18",
-   "views": 985
+   "views": 3352
   },
   {
    "date": "2026-09-19",
-   "views": 12966
+   "views": 2112
   },
   {
    "date": "2026-09-20",
-   "views": 5768
+   "views": 1505
   },
   {
    "date": "2026-09-21",
-   "views": 1938
+   "views": 1428
   },
   {
    "date": "2026-09-22",
-   "views": 1584
+   "views": 1141
   },
   {
    "date": "2026-09-23",
-   "views": 1087
+   "views": 816
   },
   {
    "date": "2026-09-24",
-   "views": 847
+   "views": 660
   },
   {
    "date": "2026-09-25",
-   "views": 846
+   "views": 526
   },
   {
    "date": "2026-09-26",
-   "views": 813
+   "views": 640
   },
   {
    "date": "2026-09-27",
-   "views": 556
+   "views": 1525
   },
   {
    "date": "2026-09-28",
-   "views": 546
+   "views": 1700
   },
   {
    "date": "2026-09-29",
-   "views": 713
+   "views": 917
   },
   {
    "date": "2026-09-30",
-   "views": 574
+   "views": 776
   },
   {
    "date": "2026-10-01",
-   "views": 529
+   "views": 596
   },
   {
    "date": "2026-10-02",
-   "views": 523
+   "views": 467
   },
   {
    "date": "2026-10-03",
-   "views": 452
+   "views": 466
   },
   {
    "date": "2026-10-04",
-   "views": 491
+   "views": 665
   },
   {
    "date": "2026-10-05",
-   "views": 480
+   "views": 451
   },
   {
    "date": "2026-10-06",
-   "views": 434
+   "views": 552
   },
   {
    "date": "2026-10-07",
-   "views": 455
+   "views": 747
   },
   {
    "date": "2026-10-08",
-   "views": 495
+   "views": 546
   },
   {
    "date": "2026-10-09",
-   "views": 520
+   "views": 468
   },
   {
    "date": "2026-10-10",
-   "views": 2547
+   "views": 453
   },
   {
    "date": "2026-10-11",
-   "views": 1322
+   "views": 484
   },
   {
    "date": "2026-10-12",
-   "views": 857
+   "views": 578
   },
   {
    "date": "2026-10-13",
-   "views": 927
+   "views": 570
   },
   {
    "date": "2026-10-14",
-   "views": 9345
+   "views": 531
   },
   {
    "date": "2026-10-15",
-   "views": 8575
+   "views": 559
   },
   {
    "date": "2026-10-16",
-   "views": 2986
+   "views": 753
   },
   {
    "date": "2026-10-17",
-   "views": 6225
+   "views": 968
   },
   {
    "date": "2026-10-18",
-   "views": 2950
+   "views": 815
   },
   {
    "date": "2026-10-19",
-   "views": 1358
+   "views": 753
   },
   {
    "date": "2026-10-20",
-   "views": 1077
+   "views": 1686
   },
   {
    "date": "2026-10-21",
-   "views": 1604
+   "views": 1930
   },
   {
    "date": "2026-10-22",
-   "views": 1139
+   "views": 2752
   },
   {
    "date": "2026-10-23",
-   "views": 949
+   "views": 3412
   },
   {
    "date": "2026-10-24",
-   "views": 57791
+   "views": 2715
+  },
+  {
+   "date": "2026-10-25",
+   "views": 48804
   }
  ],
- "wikipedia_title": "Nicolas_Jackson",
+ "wikipedia_title": "Ilija_Srdanovi\u0107",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-24",
- "generated_at_utc": "2026-10-25T10:05:35+00:00"
+ "data_through": "2026-10-25",
+ "generated_at_utc": "2026-10-26T11:29:49+00:00"
 }
