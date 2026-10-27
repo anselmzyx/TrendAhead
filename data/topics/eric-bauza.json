@@ -1,196 +1,197 @@
 {
- "title": "H3h3Productions",
- "slug": "h3h3productions",
- "score": 36,
- "status": "Elevated",
- "change_percent": 19969,
- "growth_ratio": 200.74,
- "recent_avg": 76463,
- "baseline_avg": 381,
- "explanation": "Attention is 201\u00d7 its 30-day baseline.",
+ "title": "Eric Bauza",
+ "slug": "eric-bauza",
+ "score": 40,
+ "status": "Breaking out",
+ "change_percent": 12848,
+ "growth_ratio": 129.51,
+ "recent_avg": 171556,
+ "baseline_avg": 1325,
+ "explanation": "Attention is 130\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 76082,
- "latest": 54066,
+ "abs_change": 170231,
+ "latest": 511715,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.42,
-  "volume": 0.942,
-  "spike_quality": 0.646
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 1.0,
+  "spike_quality": 0.509
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 76,463 views/day over the last 3 days (30-day baseline: 381)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 171,556 views/day over the last 3 days (30-day baseline: 1,325)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 522
-  },
-  {
    "date": "2026-09-17",
-   "views": 390
+   "views": 1981
   },
   {
    "date": "2026-09-18",
-   "views": 394
+   "views": 1697
   },
   {
    "date": "2026-09-19",
-   "views": 323
+   "views": 2024
   },
   {
    "date": "2026-09-20",
-   "views": 325
+   "views": 2152
   },
   {
    "date": "2026-09-21",
-   "views": 318
+   "views": 1744
   },
   {
    "date": "2026-09-22",
-   "views": 364
+   "views": 1571
   },
   {
    "date": "2026-09-23",
-   "views": 328
+   "views": 1459
   },
   {
    "date": "2026-09-24",
-   "views": 298
+   "views": 1391
   },
   {
    "date": "2026-09-25",
-   "views": 303
+   "views": 1299
   },
   {
    "date": "2026-09-26",
-   "views": 315
+   "views": 1390
   },
   {
    "date": "2026-09-27",
-   "views": 265
+   "views": 1469
   },
   {
    "date": "2026-09-28",
-   "views": 290
+   "views": 1271
   },
   {
    "date": "2026-09-29",
-   "views": 507
+   "views": 1659
   },
   {
    "date": "2026-09-30",
-   "views": 648
+   "views": 1529
   },
   {
    "date": "2026-10-01",
-   "views": 503
+   "views": 1434
   },
   {
    "date": "2026-10-02",
-   "views": 468
+   "views": 1482
   },
   {
    "date": "2026-10-03",
-   "views": 1219
+   "views": 1867
   },
   {
    "date": "2026-10-04",
-   "views": 384
+   "views": 1842
   },
   {
    "date": "2026-10-05",
-   "views": 366
+   "views": 1354
   },
   {
    "date": "2026-10-06",
-   "views": 452
+   "views": 1140
   },
   {
    "date": "2026-10-07",
-   "views": 462
+   "views": 1128
   },
   {
    "date": "2026-10-08",
-   "views": 360
+   "views": 1057
   },
   {
    "date": "2026-10-09",
-   "views": 307
+   "views": 953
   },
   {
    "date": "2026-10-10",
-   "views": 309
+   "views": 1220
   },
   {
    "date": "2026-10-11",
-   "views": 297
+   "views": 1290
   },
   {
    "date": "2026-10-12",
-   "views": 326
+   "views": 1062
   },
   {
    "date": "2026-10-13",
-   "views": 290
+   "views": 1105
   },
   {
    "date": "2026-10-14",
-   "views": 281
+   "views": 1147
   },
   {
    "date": "2026-10-15",
-   "views": 364
+   "views": 1189
   },
   {
    "date": "2026-10-16",
-   "views": 286
+   "views": 1171
   },
   {
    "date": "2026-10-17",
-   "views": 270
+   "views": 1463
   },
   {
    "date": "2026-10-18",
-   "views": 317
+   "views": 1622
   },
   {
    "date": "2026-10-19",
-   "views": 309
+   "views": 1366
   },
   {
    "date": "2026-10-20",
-   "views": 266
+   "views": 1160
   },
   {
    "date": "2026-10-21",
-   "views": 255
+   "views": 1309
   },
   {
    "date": "2026-10-22",
-   "views": 382
+   "views": 1206
   },
   {
    "date": "2026-10-23",
-   "views": 91812
+   "views": 1164
   },
   {
    "date": "2026-10-24",
-   "views": 83511
+   "views": 1547
   },
   {
    "date": "2026-10-25",
-   "views": 54066
+   "views": 1406
+  },
+  {
+   "date": "2026-10-26",
+   "views": 511715
   }
  ],
- "wikipedia_title": "H3h3Productions",
+ "wikipedia_title": "Eric_Bauza",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

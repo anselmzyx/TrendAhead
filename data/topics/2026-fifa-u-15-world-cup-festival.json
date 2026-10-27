@@ -1,197 +1,198 @@
 {
- "title": "Dorothy (film)",
- "slug": "dorothy-film",
- "score": 26,
+ "title": "2026 FIFA U-15 World Cup & Festival",
+ "slug": "2026-fifa-u-15-world-cup-festival",
+ "score": 74,
  "status": "Building",
- "change_percent": 152,
- "growth_ratio": 2.52,
- "recent_avg": 78558,
- "baseline_avg": 31119,
- "explanation": "Attention is 2.5\u00d7 its 30-day baseline.",
+ "change_percent": 3252,
+ "growth_ratio": 33.52,
+ "recent_avg": 51380,
+ "baseline_avg": 1533,
+ "explanation": "Attention is 34\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 47439,
- "latest": 81997,
+ "abs_change": 49847,
+ "latest": 80217,
  "components": {
-  "acceleration": 0.237,
-  "anomaly": 0.194,
-  "persistence": 0.52,
-  "momentum": 0.768,
-  "volume": 0.948,
-  "spike_quality": 0.87
+  "acceleration": 0.898,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.855,
+  "spike_quality": 0.815
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 78,558 views/day over the last 3 days (30-day baseline: 31,119)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 51,380 views/day over the last 3 days (30-day baseline: 1,533)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 3090
-  },
-  {
    "date": "2026-09-17",
-   "views": 3015
+   "views": 1913
   },
   {
    "date": "2026-09-18",
-   "views": 5262
+   "views": 1788
   },
   {
    "date": "2026-09-19",
-   "views": 5873
+   "views": 1913
   },
   {
    "date": "2026-09-20",
-   "views": 7243
+   "views": 1240
   },
   {
    "date": "2026-09-21",
-   "views": 9066
+   "views": 1163
   },
   {
    "date": "2026-09-22",
-   "views": 9335
+   "views": 1055
   },
   {
    "date": "2026-09-23",
-   "views": 12318
+   "views": 1017
   },
   {
    "date": "2026-09-24",
-   "views": 22034
+   "views": 1138
   },
   {
    "date": "2026-09-25",
-   "views": 75360
+   "views": 768
   },
   {
    "date": "2026-09-26",
-   "views": 90286
+   "views": 652
   },
   {
    "date": "2026-09-27",
-   "views": 86920
+   "views": 724
   },
   {
    "date": "2026-09-28",
-   "views": 78994
+   "views": 640
   },
   {
    "date": "2026-09-29",
-   "views": 59796
+   "views": 779
   },
   {
    "date": "2026-09-30",
-   "views": 46404
+   "views": 656
   },
   {
    "date": "2026-10-01",
-   "views": 42276
+   "views": 712
   },
   {
    "date": "2026-10-02",
-   "views": 39787
+   "views": 763
   },
   {
    "date": "2026-10-03",
-   "views": 38510
+   "views": 970
   },
   {
    "date": "2026-10-04",
-   "views": 44527
+   "views": 859
   },
   {
    "date": "2026-10-05",
-   "views": 39662
+   "views": 906
   },
   {
    "date": "2026-10-06",
-   "views": 29672
+   "views": 1069
   },
   {
    "date": "2026-10-07",
-   "views": 24181
+   "views": 1027
   },
   {
    "date": "2026-10-08",
-   "views": 21533
+   "views": 903
   },
   {
    "date": "2026-10-09",
-   "views": 19400
+   "views": 859
   },
   {
    "date": "2026-10-10",
-   "views": 22415
+   "views": 801
   },
   {
    "date": "2026-10-11",
-   "views": 21524
+   "views": 699
   },
   {
    "date": "2026-10-12",
-   "views": 16482
+   "views": 1038
   },
   {
    "date": "2026-10-13",
-   "views": 14359
+   "views": 1722
   },
   {
    "date": "2026-10-14",
-   "views": 13070
+   "views": 1298
   },
   {
    "date": "2026-10-15",
-   "views": 10546
+   "views": 1296
   },
   {
    "date": "2026-10-16",
-   "views": 8824
+   "views": 1224
   },
   {
    "date": "2026-10-17",
-   "views": 9729
+   "views": 1196
   },
   {
    "date": "2026-10-18",
-   "views": 9927
+   "views": 1446
   },
   {
    "date": "2026-10-19",
-   "views": 8565
+   "views": 1508
   },
   {
    "date": "2026-10-20",
-   "views": 8012
+   "views": 2714
   },
   {
    "date": "2026-10-21",
-   "views": 7185
+   "views": 4939
   },
   {
    "date": "2026-10-22",
-   "views": 11273
+   "views": 6355
   },
   {
    "date": "2026-10-23",
-   "views": 67095
+   "views": 6329
   },
   {
    "date": "2026-10-24",
-   "views": 86581
+   "views": 27660
   },
   {
    "date": "2026-10-25",
-   "views": 81997
+   "views": 46264
+  },
+  {
+   "date": "2026-10-26",
+   "views": 80217
   }
  ],
- "wikipedia_title": "Dorothy_(film)",
+ "wikipedia_title": "2026_FIFA_U-15_World_Cup_&_Festival",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

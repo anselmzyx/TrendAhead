@@ -1,197 +1,197 @@
 {
- "title": "Sal Frelick",
- "slug": "sal-frelick",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 1785,
- "growth_ratio": 18.85,
- "recent_avg": 18986,
- "baseline_avg": 1007,
- "explanation": "Attention is 19\u00d7 its 30-day baseline.",
+ "title": "Candice Swanepoel",
+ "slug": "candice-swanepoel",
+ "score": 40,
+ "status": "Elevated",
+ "change_percent": 1367,
+ "growth_ratio": 14.67,
+ "recent_avg": 57888,
+ "baseline_avg": 3946,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 17979,
- "latest": 48254,
+ "abs_change": 53942,
+ "latest": 71819,
  "components": {
-  "acceleration": 0.751,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.639,
-  "spike_quality": 0.604
+  "acceleration": 0.687,
+  "anomaly": 0.737,
+  "persistence": 0.68,
+  "momentum": 0.602,
+  "volume": 0.881,
+  "spike_quality": 0.746
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 18,986 views/day over the last 3 days (30-day baseline: 1,007)."
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 57,888 views/day over the last 3 days (30-day baseline: 3,946)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 169
-  },
-  {
    "date": "2026-09-17",
-   "views": 156
+   "views": 430
   },
   {
    "date": "2026-09-18",
-   "views": 68
+   "views": 677
   },
   {
    "date": "2026-09-19",
-   "views": 259
+   "views": 653
   },
   {
    "date": "2026-09-20",
-   "views": 67
+   "views": 635
   },
   {
    "date": "2026-09-21",
-   "views": 118
+   "views": 537
   },
   {
    "date": "2026-09-22",
-   "views": 59
+   "views": 644
   },
   {
    "date": "2026-09-23",
-   "views": 65
+   "views": 632
   },
   {
    "date": "2026-09-24",
-   "views": 266
+   "views": 587
   },
   {
    "date": "2026-09-25",
-   "views": 173
+   "views": 890
   },
   {
    "date": "2026-09-26",
-   "views": 175
+   "views": 1561
   },
   {
    "date": "2026-09-27",
-   "views": 209
+   "views": 1123
   },
   {
    "date": "2026-09-28",
-   "views": 166
+   "views": 874
   },
   {
    "date": "2026-09-29",
-   "views": 100
+   "views": 788
   },
   {
    "date": "2026-09-30",
-   "views": 115
+   "views": 666
   },
   {
    "date": "2026-10-01",
-   "views": 96
+   "views": 600
   },
   {
    "date": "2026-10-02",
-   "views": 70
+   "views": 613
   },
   {
    "date": "2026-10-03",
-   "views": 84
+   "views": 871
   },
   {
    "date": "2026-10-04",
-   "views": 2151
+   "views": 771
   },
   {
    "date": "2026-10-05",
-   "views": 1571
+   "views": 859
   },
   {
    "date": "2026-10-06",
-   "views": 652
+   "views": 895
   },
   {
    "date": "2026-10-07",
-   "views": 2085
+   "views": 809
   },
   {
    "date": "2026-10-08",
-   "views": 2417
+   "views": 786
   },
   {
    "date": "2026-10-09",
-   "views": 411
+   "views": 718
   },
   {
    "date": "2026-10-10",
-   "views": 290
+   "views": 868
   },
   {
    "date": "2026-10-11",
-   "views": 246
+   "views": 815
   },
   {
    "date": "2026-10-12",
-   "views": 5044
+   "views": 695
   },
   {
    "date": "2026-10-13",
-   "views": 1483
+   "views": 1453
   },
   {
    "date": "2026-10-14",
-   "views": 426
+   "views": 1252
   },
   {
    "date": "2026-10-15",
-   "views": 1170
+   "views": 1135
   },
   {
    "date": "2026-10-16",
-   "views": 7722
+   "views": 1227
   },
   {
    "date": "2026-10-17",
-   "views": 818
+   "views": 1447
   },
   {
    "date": "2026-10-18",
-   "views": 412
+   "views": 4003
   },
   {
    "date": "2026-10-19",
-   "views": 289
+   "views": 31347
   },
   {
    "date": "2026-10-20",
-   "views": 575
+   "views": 24429
   },
   {
    "date": "2026-10-21",
-   "views": 339
+   "views": 15537
   },
   {
    "date": "2026-10-22",
-   "views": 601
+   "views": 10730
   },
   {
    "date": "2026-10-23",
-   "views": 1452
+   "views": 10035
   },
   {
    "date": "2026-10-24",
-   "views": 7253
+   "views": 9988
   },
   {
    "date": "2026-10-25",
-   "views": 48254
+   "views": 91857
+  },
+  {
+   "date": "2026-10-26",
+   "views": 71819
   }
  ],
- "wikipedia_title": "Sal_Frelick",
+ "wikipedia_title": "Candice_Swanepoel",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

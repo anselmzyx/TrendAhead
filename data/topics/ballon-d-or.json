@@ -1,197 +1,197 @@
 {
- "title": "Kehlsteinhaus",
- "slug": "kehlsteinhaus",
- "score": 33,
- "status": "Peaked / fading",
- "change_percent": 6057,
- "growth_ratio": 61.59,
- "recent_avg": 57937,
- "baseline_avg": 941,
- "explanation": "Attention surged to 62\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Ballon d'Or",
+ "slug": "ballon-d-or",
+ "score": 57,
+ "status": "Breaking out",
+ "change_percent": 1208,
+ "growth_ratio": 13.08,
+ "recent_avg": 81974,
+ "baseline_avg": 6267,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 56996,
- "latest": 59358,
+ "abs_change": 75707,
+ "latest": 219157,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.657,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.521,
-  "volume": 0.881,
-  "spike_quality": 0.485
+  "persistence": 0.84,
+  "momentum": 0.933,
+  "volume": 0.957,
+  "spike_quality": 0.65
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 57,937 views/day over the last 3 days (30-day baseline: 941)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 81,974 views/day over the last 3 days (30-day baseline: 6,267)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 1071
-  },
-  {
    "date": "2026-09-17",
-   "views": 1049
+   "views": 6475
   },
   {
    "date": "2026-09-18",
-   "views": 946
+   "views": 6563
   },
   {
    "date": "2026-09-19",
-   "views": 1031
+   "views": 6535
   },
   {
    "date": "2026-09-20",
-   "views": 1078
+   "views": 5663
   },
   {
    "date": "2026-09-21",
-   "views": 939
+   "views": 5055
   },
   {
    "date": "2026-09-22",
-   "views": 977
+   "views": 6630
   },
   {
    "date": "2026-09-23",
-   "views": 1035
+   "views": 6400
   },
   {
    "date": "2026-09-24",
-   "views": 944
+   "views": 5980
   },
   {
    "date": "2026-09-25",
-   "views": 878
+   "views": 5801
   },
   {
    "date": "2026-09-26",
-   "views": 969
+   "views": 6522
   },
   {
    "date": "2026-09-27",
-   "views": 1026
+   "views": 6414
   },
   {
    "date": "2026-09-28",
-   "views": 920
+   "views": 5688
   },
   {
    "date": "2026-09-29",
-   "views": 879
+   "views": 5945
   },
   {
    "date": "2026-09-30",
-   "views": 884
+   "views": 5148
   },
   {
    "date": "2026-10-01",
-   "views": 920
+   "views": 4719
   },
   {
    "date": "2026-10-02",
-   "views": 880
+   "views": 5292
   },
   {
    "date": "2026-10-03",
-   "views": 907
+   "views": 5808
   },
   {
    "date": "2026-10-04",
-   "views": 1022
+   "views": 5024
   },
   {
    "date": "2026-10-05",
-   "views": 854
+   "views": 5278
   },
   {
    "date": "2026-10-06",
-   "views": 768
+   "views": 6400
   },
   {
    "date": "2026-10-07",
-   "views": 832
+   "views": 6334
   },
   {
    "date": "2026-10-08",
-   "views": 908
+   "views": 4844
   },
   {
    "date": "2026-10-09",
-   "views": 2311
+   "views": 4369
   },
   {
    "date": "2026-10-10",
-   "views": 1075
+   "views": 4339
   },
   {
    "date": "2026-10-11",
-   "views": 1089
+   "views": 3958
   },
   {
    "date": "2026-10-12",
-   "views": 1119
+   "views": 4271
   },
   {
    "date": "2026-10-13",
-   "views": 926
+   "views": 4906
   },
   {
    "date": "2026-10-14",
-   "views": 801
+   "views": 5498
   },
   {
    "date": "2026-10-15",
-   "views": 780
+   "views": 4426
   },
   {
    "date": "2026-10-16",
-   "views": 823
+   "views": 3999
   },
   {
    "date": "2026-10-17",
-   "views": 862
+   "views": 6510
   },
   {
    "date": "2026-10-18",
-   "views": 826
+   "views": 5218
   },
   {
    "date": "2026-10-19",
-   "views": 794
+   "views": 5961
   },
   {
    "date": "2026-10-20",
-   "views": 813
+   "views": 12084
   },
   {
    "date": "2026-10-21",
-   "views": 696
+   "views": 11680
   },
   {
    "date": "2026-10-22",
-   "views": 680
+   "views": 12928
   },
   {
    "date": "2026-10-23",
-   "views": 3578
+   "views": 12677
   },
   {
    "date": "2026-10-24",
-   "views": 110874
+   "views": 11309
   },
   {
    "date": "2026-10-25",
-   "views": 59358
+   "views": 15455
+  },
+  {
+   "date": "2026-10-26",
+   "views": 219157
   }
  ],
- "wikipedia_title": "Kehlsteinhaus",
+ "wikipedia_title": "Ballon_d'Or",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

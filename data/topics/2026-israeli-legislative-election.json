@@ -1,198 +1,198 @@
 {
- "title": "2026 British Columbia general election",
- "slug": "2026-british-columbia-general-election",
- "score": 55,
- "status": "Breaking out",
- "change_percent": 618,
- "growth_ratio": 7.18,
- "recent_avg": 60351,
- "baseline_avg": 8401,
- "explanation": "Attention is 7.2\u00d7 its 30-day baseline.",
+ "title": "2026 Israeli legislative election",
+ "slug": "2026-israeli-legislative-election",
+ "score": 67,
+ "status": "Building",
+ "change_percent": 387,
+ "growth_ratio": 4.87,
+ "recent_avg": 65742,
+ "baseline_avg": 13505,
+ "explanation": "Attention is 4.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 51950,
- "latest": 141044,
+ "abs_change": 52237,
+ "latest": 117958,
  "components": {
-  "acceleration": 0.504,
+  "acceleration": 0.405,
   "anomaly": 1.0,
-  "persistence": 0.8,
+  "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.89,
-  "spike_quality": 0.715
+  "volume": 0.909,
+  "spike_quality": 0.844
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 60,351 views/day over the last 3 days (30-day baseline: 8,401)."
+  "Averaging 65,742 views/day over the last 3 days (30-day baseline: 13,505)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 0
-  },
-  {
    "date": "2026-09-17",
-   "views": 0
+   "views": 6903
   },
   {
    "date": "2026-09-18",
-   "views": 0
+   "views": 6649
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 6055
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 6505
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 6178
   },
   {
    "date": "2026-09-22",
-   "views": 8416
+   "views": 6383
   },
   {
    "date": "2026-09-23",
-   "views": 13704
+   "views": 7978
   },
   {
    "date": "2026-09-24",
-   "views": 9312
+   "views": 12702
   },
   {
    "date": "2026-09-25",
-   "views": 8834
+   "views": 13003
   },
   {
    "date": "2026-09-26",
-   "views": 6711
+   "views": 9134
   },
   {
    "date": "2026-09-27",
-   "views": 8127
+   "views": 9025
   },
   {
    "date": "2026-09-28",
-   "views": 8472
+   "views": 9008
   },
   {
    "date": "2026-09-29",
-   "views": 8109
+   "views": 9797
   },
   {
    "date": "2026-09-30",
-   "views": 7512
+   "views": 10720
   },
   {
    "date": "2026-10-01",
-   "views": 7854
+   "views": 11997
   },
   {
    "date": "2026-10-02",
-   "views": 6992
+   "views": 12353
   },
   {
    "date": "2026-10-03",
-   "views": 7227
+   "views": 11538
   },
   {
    "date": "2026-10-04",
-   "views": 7386
+   "views": 11591
   },
   {
    "date": "2026-10-05",
-   "views": 8694
+   "views": 12357
   },
   {
    "date": "2026-10-06",
-   "views": 10894
+   "views": 10872
   },
   {
    "date": "2026-10-07",
-   "views": 8159
+   "views": 12818
   },
   {
    "date": "2026-10-08",
-   "views": 7996
+   "views": 11758
   },
   {
    "date": "2026-10-09",
-   "views": 9177
+   "views": 10053
   },
   {
    "date": "2026-10-10",
-   "views": 5867
+   "views": 9149
   },
   {
    "date": "2026-10-11",
-   "views": 5736
+   "views": 10153
   },
   {
    "date": "2026-10-12",
-   "views": 6041
+   "views": 11099
   },
   {
    "date": "2026-10-13",
-   "views": 7616
+   "views": 10577
   },
   {
    "date": "2026-10-14",
-   "views": 6634
+   "views": 11320
   },
   {
    "date": "2026-10-15",
-   "views": 8443
+   "views": 12933
   },
   {
    "date": "2026-10-16",
-   "views": 7232
+   "views": 12341
   },
   {
    "date": "2026-10-17",
-   "views": 7062
+   "views": 11472
   },
   {
    "date": "2026-10-18",
-   "views": 9761
+   "views": 23045
   },
   {
    "date": "2026-10-19",
-   "views": 9111
+   "views": 23751
   },
   {
    "date": "2026-10-20",
-   "views": 9684
+   "views": 21264
   },
   {
    "date": "2026-10-21",
-   "views": 10729
+   "views": 20670
   },
   {
    "date": "2026-10-22",
-   "views": 12948
+   "views": 23405
   },
   {
    "date": "2026-10-23",
-   "views": 15286
+   "views": 25252
   },
   {
    "date": "2026-10-24",
-   "views": 24723
+   "views": 28644
   },
   {
    "date": "2026-10-25",
-   "views": 141044
+   "views": 50624
+  },
+  {
+   "date": "2026-10-26",
+   "views": 117958
   }
  ],
- "wikipedia_title": "2026_British_Columbia_general_election",
+ "wikipedia_title": "2026_Israeli_legislative_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

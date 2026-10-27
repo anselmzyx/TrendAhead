@@ -1,197 +1,197 @@
 {
- "title": "The Kinks",
- "slug": "the-kinks",
- "score": 30,
+ "title": "Workers' Party (Brazil)",
+ "slug": "workers-party-brazil",
+ "score": 32,
  "status": "Breaking out",
- "change_percent": 1077,
- "growth_ratio": 11.77,
- "recent_avg": 17386,
- "baseline_avg": 1477,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 822,
+ "growth_ratio": 9.22,
+ "recent_avg": 29713,
+ "baseline_avg": 3221,
+ "explanation": "Attention is 9.2\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 15909,
- "latest": 48566,
+ "abs_change": 26492,
+ "latest": 72679,
  "components": {
-  "acceleration": 0.63,
-  "anomaly": 1.0,
-  "persistence": 0.2,
+  "acceleration": 0.568,
+  "anomaly": 0.603,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.62,
-  "spike_quality": 0.595
+  "volume": 0.736,
+  "spike_quality": 0.644
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 17,386 views/day over the last 3 days (30-day baseline: 1,477)."
+  "Averaging 29,713 views/day over the last 3 days (30-day baseline: 3,221)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 1355
-  },
-  {
    "date": "2026-09-17",
-   "views": 1471
+   "views": 653
   },
   {
    "date": "2026-09-18",
-   "views": 1504
+   "views": 675
   },
   {
    "date": "2026-09-19",
-   "views": 1563
+   "views": 726
   },
   {
    "date": "2026-09-20",
-   "views": 1493
+   "views": 749
   },
   {
    "date": "2026-09-21",
-   "views": 1490
+   "views": 1070
   },
   {
    "date": "2026-09-22",
-   "views": 1480
+   "views": 1283
   },
   {
    "date": "2026-09-23",
-   "views": 1418
+   "views": 953
   },
   {
    "date": "2026-09-24",
-   "views": 1516
+   "views": 900
   },
   {
    "date": "2026-09-25",
-   "views": 1365
+   "views": 1071
   },
   {
    "date": "2026-09-26",
-   "views": 1853
+   "views": 1455
   },
   {
    "date": "2026-09-27",
-   "views": 1592
+   "views": 1775
   },
   {
    "date": "2026-09-28",
-   "views": 1398
+   "views": 2651
   },
   {
    "date": "2026-09-29",
-   "views": 1438
+   "views": 1935
   },
   {
    "date": "2026-09-30",
-   "views": 1377
+   "views": 1735
   },
   {
    "date": "2026-10-01",
-   "views": 1397
+   "views": 1944
   },
   {
    "date": "2026-10-02",
-   "views": 1470
+   "views": 2573
   },
   {
    "date": "2026-10-03",
-   "views": 1529
+   "views": 3591
   },
   {
    "date": "2026-10-04",
-   "views": 1489
+   "views": 15069
   },
   {
    "date": "2026-10-05",
-   "views": 1320
+   "views": 22547
   },
   {
    "date": "2026-10-06",
-   "views": 1301
+   "views": 6423
   },
   {
    "date": "2026-10-07",
-   "views": 1338
+   "views": 3626
   },
   {
    "date": "2026-10-08",
-   "views": 1425
+   "views": 2676
   },
   {
    "date": "2026-10-09",
-   "views": 1486
+   "views": 1989
   },
   {
    "date": "2026-10-10",
-   "views": 1462
+   "views": 1858
   },
   {
    "date": "2026-10-11",
-   "views": 1481
+   "views": 1614
   },
   {
    "date": "2026-10-12",
-   "views": 1726
+   "views": 1694
   },
   {
    "date": "2026-10-13",
-   "views": 1520
+   "views": 1506
   },
   {
    "date": "2026-10-14",
-   "views": 1587
+   "views": 1423
   },
   {
    "date": "2026-10-15",
-   "views": 1393
+   "views": 1672
   },
   {
    "date": "2026-10-16",
-   "views": 1404
+   "views": 1450
   },
   {
    "date": "2026-10-17",
-   "views": 1622
+   "views": 1526
   },
   {
    "date": "2026-10-18",
-   "views": 1546
+   "views": 1622
   },
   {
    "date": "2026-10-19",
-   "views": 1501
+   "views": 2847
   },
   {
    "date": "2026-10-20",
-   "views": 1532
+   "views": 2041
   },
   {
    "date": "2026-10-21",
-   "views": 1398
+   "views": 1814
   },
   {
    "date": "2026-10-22",
-   "views": 1426
+   "views": 1646
   },
   {
    "date": "2026-10-23",
-   "views": 1472
+   "views": 1967
   },
   {
    "date": "2026-10-24",
-   "views": 2120
+   "views": 3580
   },
   {
    "date": "2026-10-25",
-   "views": 48566
+   "views": 12880
+  },
+  {
+   "date": "2026-10-26",
+   "views": 72679
   }
  ],
- "wikipedia_title": "The_Kinks",
+ "wikipedia_title": "Workers'_Party_(Brazil)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

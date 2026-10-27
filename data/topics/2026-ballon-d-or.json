@@ -1,198 +1,197 @@
 {
- "title": "UFC 333",
- "slug": "ufc-333",
- "score": 28,
- "status": "Peaked / fading",
- "change_percent": 1373,
- "growth_ratio": 14.73,
- "recent_avg": 103570,
- "baseline_avg": 7033,
- "explanation": "Attention surged to 15\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "2026 Ballon d'Or",
+ "slug": "2026-ballon-d-or",
+ "score": 67,
+ "status": "Breaking out",
+ "change_percent": 3776,
+ "growth_ratio": 38.76,
+ "recent_avg": 161913,
+ "baseline_avg": 4177,
+ "explanation": "Attention is 39\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 96537,
- "latest": 65873,
+ "abs_change": 157736,
+ "latest": 452394,
  "components": {
-  "acceleration": 0.688,
+  "acceleration": 0.935,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.376,
+  "persistence": 1.0,
+  "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.366
+  "spike_quality": 0.577
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 103,570 views/day over the last 3 days (30-day baseline: 7,033)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 161,913 views/day over the last 3 days (30-day baseline: 4,177)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 2855
-  },
-  {
    "date": "2026-09-17",
-   "views": 2935
+   "views": 4568
   },
   {
    "date": "2026-09-18",
-   "views": 3883
+   "views": 4672
   },
   {
    "date": "2026-09-19",
-   "views": 6496
+   "views": 5026
   },
   {
    "date": "2026-09-20",
-   "views": 14411
+   "views": 4585
   },
   {
    "date": "2026-09-21",
-   "views": 5783
+   "views": 3675
   },
   {
    "date": "2026-09-22",
-   "views": 4214
+   "views": 4743
   },
   {
    "date": "2026-09-23",
-   "views": 4303
+   "views": 4359
   },
   {
    "date": "2026-09-24",
-   "views": 4016
+   "views": 3857
   },
   {
    "date": "2026-09-25",
-   "views": 4044
+   "views": 3236
   },
   {
    "date": "2026-09-26",
-   "views": 4753
+   "views": 3941
   },
   {
    "date": "2026-09-27",
-   "views": 5874
+   "views": 4073
   },
   {
    "date": "2026-09-28",
-   "views": 3825
+   "views": 4225
   },
   {
    "date": "2026-09-29",
-   "views": 4349
+   "views": 4097
   },
   {
    "date": "2026-09-30",
-   "views": 3846
+   "views": 3338
   },
   {
    "date": "2026-10-01",
-   "views": 3761
+   "views": 2868
   },
   {
    "date": "2026-10-02",
-   "views": 4558
+   "views": 2631
   },
   {
    "date": "2026-10-03",
-   "views": 6637
+   "views": 3222
   },
   {
    "date": "2026-10-04",
-   "views": 15168
+   "views": 3165
   },
   {
    "date": "2026-10-05",
-   "views": 6136
+   "views": 3118
   },
   {
    "date": "2026-10-06",
-   "views": 4613
+   "views": 3734
   },
   {
    "date": "2026-10-07",
-   "views": 4612
+   "views": 3423
   },
   {
    "date": "2026-10-08",
-   "views": 4519
+   "views": 2899
   },
   {
    "date": "2026-10-09",
-   "views": 4888
+   "views": 2709
   },
   {
    "date": "2026-10-10",
-   "views": 6820
+   "views": 2583
   },
   {
    "date": "2026-10-11",
-   "views": 9339
+   "views": 2343
   },
   {
    "date": "2026-10-12",
-   "views": 5170
+   "views": 2462
   },
   {
    "date": "2026-10-13",
-   "views": 5202
+   "views": 3917
   },
   {
    "date": "2026-10-14",
-   "views": 5363
+   "views": 4672
   },
   {
    "date": "2026-10-15",
-   "views": 5674
+   "views": 3183
   },
   {
    "date": "2026-10-16",
-   "views": 5837
+   "views": 2914
   },
   {
    "date": "2026-10-17",
-   "views": 9362
+   "views": 3865
   },
   {
    "date": "2026-10-18",
-   "views": 18915
+   "views": 4063
   },
   {
    "date": "2026-10-19",
-   "views": 11505
+   "views": 5074
   },
   {
    "date": "2026-10-20",
-   "views": 11498
+   "views": 6964
   },
   {
    "date": "2026-10-21",
-   "views": 11641
+   "views": 7112
   },
   {
    "date": "2026-10-22",
-   "views": 14757
+   "views": 9951
   },
   {
    "date": "2026-10-23",
-   "views": 20147
+   "views": 11673
   },
   {
    "date": "2026-10-24",
-   "views": 224691
+   "views": 12065
   },
   {
    "date": "2026-10-25",
-   "views": 65873
+   "views": 21279
+  },
+  {
+   "date": "2026-10-26",
+   "views": 452394
   }
  ],
- "wikipedia_title": "UFC_333",
+ "wikipedia_title": "2026_Ballon_d'Or",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

@@ -1,196 +1,197 @@
 {
- "title": "Orion (Star Trek)",
- "slug": "orion-star-trek",
- "score": 31,
+ "title": "Nicki Minaj",
+ "slug": "nicki-minaj",
+ "score": 39,
  "status": "Breaking out",
- "change_percent": 32257,
- "growth_ratio": 226.5,
- "recent_avg": 22650,
- "baseline_avg": 70,
- "explanation": "Attention is 226\u00d7 its 30-day baseline.",
+ "change_percent": 816,
+ "growth_ratio": 9.16,
+ "recent_avg": 56952,
+ "baseline_avg": 6216,
+ "explanation": "Attention is 9.2\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 22580,
- "latest": 67808,
+ "abs_change": 50736,
+ "latest": 144476,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.678,
-  "spike_quality": 0.504
+  "acceleration": 0.566,
+  "anomaly": 0.961,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.878,
+  "spike_quality": 0.642
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 22,650 views/day over the last 3 days (30-day baseline: 70)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 56,952 views/day over the last 3 days (30-day baseline: 6,216)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 61
-  },
-  {
    "date": "2026-09-17",
-   "views": 82
+   "views": 3465
   },
   {
    "date": "2026-09-18",
-   "views": 83
+   "views": 6513
   },
   {
    "date": "2026-09-19",
-   "views": 92
+   "views": 9290
   },
   {
    "date": "2026-09-20",
-   "views": 92
+   "views": 5191
   },
   {
    "date": "2026-09-21",
-   "views": 80
+   "views": 4411
   },
   {
    "date": "2026-09-22",
-   "views": 91
+   "views": 3874
   },
   {
    "date": "2026-09-23",
-   "views": 65
+   "views": 3515
   },
   {
    "date": "2026-09-24",
-   "views": 78
+   "views": 3421
   },
   {
    "date": "2026-09-25",
-   "views": 76
+   "views": 3676
   },
   {
    "date": "2026-09-26",
-   "views": 82
+   "views": 5384
   },
   {
    "date": "2026-09-27",
-   "views": 77
+   "views": 21144
   },
   {
    "date": "2026-09-28",
-   "views": 64
+   "views": 13995
   },
   {
    "date": "2026-09-29",
-   "views": 66
+   "views": 26132
   },
   {
    "date": "2026-09-30",
-   "views": 61
+   "views": 12363
   },
   {
    "date": "2026-10-01",
-   "views": 75
+   "views": 8087
   },
   {
    "date": "2026-10-02",
-   "views": 69
+   "views": 5490
   },
   {
    "date": "2026-10-03",
-   "views": 59
+   "views": 5311
   },
   {
    "date": "2026-10-04",
-   "views": 65
+   "views": 4551
   },
   {
    "date": "2026-10-05",
-   "views": 87
+   "views": 4166
   },
   {
    "date": "2026-10-06",
-   "views": 55
+   "views": 3707
   },
   {
    "date": "2026-10-07",
-   "views": 62
+   "views": 3603
   },
   {
    "date": "2026-10-08",
-   "views": 62
+   "views": 3468
   },
   {
    "date": "2026-10-09",
-   "views": 73
+   "views": 3790
   },
   {
    "date": "2026-10-10",
-   "views": 79
+   "views": 3889
   },
   {
    "date": "2026-10-11",
-   "views": 70
+   "views": 4124
   },
   {
    "date": "2026-10-12",
-   "views": 70
+   "views": 4549
   },
   {
    "date": "2026-10-13",
-   "views": 75
+   "views": 3717
   },
   {
    "date": "2026-10-14",
-   "views": 70
+   "views": 3557
   },
   {
    "date": "2026-10-15",
-   "views": 72
+   "views": 3206
   },
   {
    "date": "2026-10-16",
-   "views": 48
+   "views": 3327
   },
   {
    "date": "2026-10-17",
-   "views": 68
+   "views": 3747
   },
   {
    "date": "2026-10-18",
-   "views": 69
+   "views": 3766
   },
   {
    "date": "2026-10-19",
-   "views": 74
+   "views": 4173
   },
   {
    "date": "2026-10-20",
-   "views": 79
+   "views": 5530
   },
   {
    "date": "2026-10-21",
-   "views": 69
+   "views": 4903
   },
   {
    "date": "2026-10-22",
-   "views": 78
+   "views": 5140
   },
   {
    "date": "2026-10-23",
-   "views": 78
+   "views": 4566
   },
   {
    "date": "2026-10-24",
-   "views": 65
+   "views": 4228
   },
   {
    "date": "2026-10-25",
-   "views": 67808
+   "views": 22153
+  },
+  {
+   "date": "2026-10-26",
+   "views": 144476
   }
  ],
- "wikipedia_title": "Orion_(Star_Trek)",
+ "wikipedia_title": "Nicki_Minaj",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Chef Damu",
- "slug": "chef-damu",
- "score": 38,
+ "title": "2026 Brazilian general election",
+ "slug": "2026-brazilian-general-election",
+ "score": 36,
  "status": "Breaking out",
- "change_percent": 109218,
- "growth_ratio": 415.41,
- "recent_avg": 41541,
- "baseline_avg": 38,
- "explanation": "Attention is 415\u00d7 its 30-day baseline.",
+ "change_percent": 595,
+ "growth_ratio": 6.95,
+ "recent_avg": 244270,
+ "baseline_avg": 35141,
+ "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 41503,
- "latest": 124496,
+ "abs_change": 209129,
+ "latest": 420940,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.2,
+  "acceleration": 0.496,
+  "anomaly": 0.372,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.809,
-  "spike_quality": 0.501
+  "volume": 1.0,
+  "spike_quality": 0.786
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 41,541 views/day over the last 3 days (30-day baseline: 38)."
+  "Averaging 244,270 views/day over the last 3 days (30-day baseline: 35,141)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 28
-  },
-  {
    "date": "2026-09-17",
-   "views": 32
+   "views": 4335
   },
   {
    "date": "2026-09-18",
-   "views": 19
+   "views": 4394
   },
   {
    "date": "2026-09-19",
-   "views": 44
+   "views": 3859
   },
   {
    "date": "2026-09-20",
-   "views": 43
+   "views": 4998
   },
   {
    "date": "2026-09-21",
-   "views": 49
+   "views": 6476
   },
   {
    "date": "2026-09-22",
-   "views": 63
+   "views": 6834
   },
   {
    "date": "2026-09-23",
-   "views": 69
+   "views": 5785
   },
   {
    "date": "2026-09-24",
-   "views": 50
+   "views": 5899
   },
   {
    "date": "2026-09-25",
-   "views": 49
+   "views": 6840
   },
   {
    "date": "2026-09-26",
-   "views": 42
+   "views": 8940
   },
   {
    "date": "2026-09-27",
-   "views": 34
+   "views": 10695
   },
   {
    "date": "2026-09-28",
-   "views": 35
+   "views": 19044
   },
   {
    "date": "2026-09-29",
-   "views": 25
+   "views": 13848
   },
   {
    "date": "2026-09-30",
-   "views": 33
+   "views": 13723
   },
   {
    "date": "2026-10-01",
-   "views": 40
+   "views": 15037
   },
   {
    "date": "2026-10-02",
-   "views": 33
+   "views": 22723
   },
   {
    "date": "2026-10-03",
-   "views": 39
+   "views": 31850
   },
   {
    "date": "2026-10-04",
-   "views": 35
+   "views": 236023
   },
   {
    "date": "2026-10-05",
-   "views": 29
+   "views": 247828
   },
   {
    "date": "2026-10-06",
-   "views": 41
+   "views": 64532
   },
   {
    "date": "2026-10-07",
-   "views": 31
+   "views": 33226
   },
   {
    "date": "2026-10-08",
-   "views": 28
+   "views": 24410
   },
   {
    "date": "2026-10-09",
-   "views": 48
+   "views": 19956
   },
   {
    "date": "2026-10-10",
-   "views": 33
+   "views": 16838
   },
   {
    "date": "2026-10-11",
-   "views": 23
+   "views": 15741
   },
   {
    "date": "2026-10-12",
-   "views": 31
+   "views": 17118
   },
   {
    "date": "2026-10-13",
-   "views": 32
+   "views": 15445
   },
   {
    "date": "2026-10-14",
-   "views": 55
+   "views": 15995
   },
   {
    "date": "2026-10-15",
-   "views": 53
+   "views": 18205
   },
   {
    "date": "2026-10-16",
-   "views": 32
+   "views": 15725
   },
   {
    "date": "2026-10-17",
-   "views": 27
+   "views": 18277
   },
   {
    "date": "2026-10-18",
-   "views": 30
+   "views": 22465
   },
   {
    "date": "2026-10-19",
-   "views": 36
+   "views": 31879
   },
   {
    "date": "2026-10-20",
-   "views": 51
+   "views": 24493
   },
   {
    "date": "2026-10-21",
-   "views": 36
+   "views": 21116
   },
   {
    "date": "2026-10-22",
-   "views": 35
+   "views": 21291
   },
   {
    "date": "2026-10-23",
-   "views": 63
+   "views": 25060
   },
   {
    "date": "2026-10-24",
-   "views": 65
+   "views": 40087
   },
   {
    "date": "2026-10-25",
-   "views": 124496
+   "views": 271783
+  },
+  {
+   "date": "2026-10-26",
+   "views": 420940
   }
  ],
- "wikipedia_title": "Chef_Damu",
+ "wikipedia_title": "2026_Brazilian_general_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

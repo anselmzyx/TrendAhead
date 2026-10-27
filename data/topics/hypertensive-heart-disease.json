@@ -1,196 +1,197 @@
 {
- "title": "Petr Yan",
- "slug": "petr-yan",
- "score": 43,
- "status": "Elevated",
- "change_percent": 1465,
- "growth_ratio": 15.65,
- "recent_avg": 32619,
- "baseline_avg": 2084,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "title": "Hypertensive heart disease",
+ "slug": "hypertensive-heart-disease",
+ "score": 35,
+ "status": "Breaking out",
+ "change_percent": 13987,
+ "growth_ratio": 140.92,
+ "recent_avg": 28738,
+ "baseline_avg": 204,
+ "explanation": "Attention is 141\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30535,
- "latest": 37076,
+ "abs_change": 28534,
+ "latest": 85830,
  "components": {
-  "acceleration": 0.703,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.611,
-  "volume": 0.757,
-  "spike_quality": 0.652
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.729,
+  "spike_quality": 0.508
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 32,619 views/day over the last 3 days (30-day baseline: 2,084)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 28,738 views/day over the last 3 days (30-day baseline: 204)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 875
-  },
-  {
    "date": "2026-09-17",
-   "views": 1008
+   "views": 186
   },
   {
    "date": "2026-09-18",
-   "views": 1131
+   "views": 203
   },
   {
    "date": "2026-09-19",
-   "views": 2989
+   "views": 340
   },
   {
    "date": "2026-09-20",
-   "views": 3694
+   "views": 286
   },
   {
    "date": "2026-09-21",
-   "views": 2056
+   "views": 213
   },
   {
    "date": "2026-09-22",
-   "views": 2150
+   "views": 198
   },
   {
    "date": "2026-09-23",
-   "views": 2086
+   "views": 196
   },
   {
    "date": "2026-09-24",
-   "views": 1923
+   "views": 232
   },
   {
    "date": "2026-09-25",
-   "views": 1581
+   "views": 206
   },
   {
    "date": "2026-09-26",
-   "views": 1539
+   "views": 313
   },
   {
    "date": "2026-09-27",
-   "views": 1981
+   "views": 210
   },
   {
    "date": "2026-09-28",
-   "views": 1327
+   "views": 200
   },
   {
    "date": "2026-09-29",
-   "views": 1394
+   "views": 198
   },
   {
    "date": "2026-09-30",
-   "views": 1255
+   "views": 158
   },
   {
    "date": "2026-10-01",
-   "views": 1214
+   "views": 150
   },
   {
    "date": "2026-10-02",
-   "views": 1342
+   "views": 185
   },
   {
    "date": "2026-10-03",
-   "views": 1662
+   "views": 228
   },
   {
    "date": "2026-10-04",
-   "views": 2941
+   "views": 268
   },
   {
    "date": "2026-10-05",
-   "views": 1825
+   "views": 243
   },
   {
    "date": "2026-10-06",
-   "views": 1886
+   "views": 262
   },
   {
    "date": "2026-10-07",
-   "views": 1681
+   "views": 246
   },
   {
    "date": "2026-10-08",
-   "views": 1485
+   "views": 239
   },
   {
    "date": "2026-10-09",
-   "views": 1360
+   "views": 197
   },
   {
    "date": "2026-10-10",
-   "views": 1438
+   "views": 193
   },
   {
    "date": "2026-10-11",
-   "views": 1832
+   "views": 163
   },
   {
    "date": "2026-10-12",
-   "views": 1753
+   "views": 168
   },
   {
    "date": "2026-10-13",
-   "views": 1867
+   "views": 167
   },
   {
    "date": "2026-10-14",
-   "views": 1784
+   "views": 176
   },
   {
    "date": "2026-10-15",
-   "views": 1812
+   "views": 209
   },
   {
    "date": "2026-10-16",
-   "views": 1588
+   "views": 174
   },
   {
    "date": "2026-10-17",
-   "views": 1602
+   "views": 179
   },
   {
    "date": "2026-10-18",
-   "views": 2496
+   "views": 182
   },
   {
    "date": "2026-10-19",
-   "views": 3246
+   "views": 154
   },
   {
    "date": "2026-10-20",
-   "views": 4360
+   "views": 165
   },
   {
    "date": "2026-10-21",
-   "views": 4544
+   "views": 184
   },
   {
    "date": "2026-10-22",
-   "views": 5718
+   "views": 279
   },
   {
    "date": "2026-10-23",
-   "views": 6607
+   "views": 190
   },
   {
    "date": "2026-10-24",
-   "views": 54173
+   "views": 178
   },
   {
    "date": "2026-10-25",
-   "views": 37076
+   "views": 206
+  },
+  {
+   "date": "2026-10-26",
+   "views": 85830
   }
  ],
- "wikipedia_title": "Petr_Yan",
+ "wikipedia_title": "Hypertensive_heart_disease",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

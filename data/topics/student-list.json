@@ -1,37 +1,34 @@
 {
  "title": "Student List",
  "slug": "student-list",
- "score": 52,
+ "score": 73,
  "status": "Breaking out",
- "change_percent": 1802,
- "growth_ratio": 19.02,
- "recent_avg": 34049,
- "baseline_avg": 1790,
- "explanation": "Attention is 19\u00d7 its 30-day baseline.",
+ "change_percent": 4589,
+ "growth_ratio": 46.9,
+ "recent_avg": 93732,
+ "baseline_avg": 1999,
+ "explanation": "Attention is 47\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32259,
- "latest": 88912,
+ "abs_change": 91733,
+ "latest": 186420,
  "components": {
-  "acceleration": 0.753,
+  "acceleration": 0.984,
   "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 0.867,
-  "volume": 0.766,
-  "spike_quality": 0.648
+  "momentum": 0.933,
+  "volume": 0.986,
+  "spike_quality": 0.725
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 34,049 views/day over the last 3 days (30-day baseline: 1,790)."
+  "Averaging 93,732 views/day over the last 3 days (30-day baseline: 1,999)."
  ],
  "history": [
-  {
-   "date": "2026-09-16",
-   "views": 1889
-  },
   {
    "date": "2026-09-17",
    "views": 1344
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-25",
    "views": 88912
+  },
+  {
+   "date": "2026-10-26",
+   "views": 186420
   }
  ],
  "wikipedia_title": "Student_List",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

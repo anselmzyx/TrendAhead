@@ -1,197 +1,197 @@
 {
- "title": "T\u00e9a Leoni",
- "slug": "tea-leoni",
- "score": 34,
- "status": "Peaked / fading",
- "change_percent": 676,
- "growth_ratio": 7.76,
- "recent_avg": 65138,
- "baseline_avg": 8394,
- "explanation": "Attention surged to 7.8\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "2022 Brazilian general election",
+ "slug": "2022-brazilian-general-election",
+ "score": 32,
+ "status": "Breaking out",
+ "change_percent": 707,
+ "growth_ratio": 8.07,
+ "recent_avg": 52452,
+ "baseline_avg": 6502,
+ "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 56744,
- "latest": 42638,
+ "abs_change": 45950,
+ "latest": 115745,
  "components": {
-  "acceleration": 0.524,
-  "anomaly": 0.961,
-  "persistence": 0.72,
-  "momentum": 0.491,
-  "volume": 0.907,
-  "spike_quality": 0.639
+  "acceleration": 0.534,
+  "anomaly": 0.401,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.86,
+  "spike_quality": 0.687
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 65,138 views/day over the last 3 days (30-day baseline: 8,394)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 52,452 views/day over the last 3 days (30-day baseline: 6,502)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 4172
-  },
-  {
    "date": "2026-09-17",
-   "views": 5540
+   "views": 949
   },
   {
    "date": "2026-09-18",
-   "views": 6015
+   "views": 1050
   },
   {
    "date": "2026-09-19",
-   "views": 4981
+   "views": 778
   },
   {
    "date": "2026-09-20",
-   "views": 4890
+   "views": 1000
   },
   {
    "date": "2026-09-21",
-   "views": 4219
+   "views": 1371
   },
   {
    "date": "2026-09-22",
-   "views": 3931
+   "views": 1541
   },
   {
    "date": "2026-09-23",
-   "views": 4401
+   "views": 1226
   },
   {
    "date": "2026-09-24",
-   "views": 3494
+   "views": 1224
   },
   {
    "date": "2026-09-25",
-   "views": 3156
+   "views": 1426
   },
   {
    "date": "2026-09-26",
-   "views": 4047
+   "views": 1847
   },
   {
    "date": "2026-09-27",
-   "views": 4206
+   "views": 2072
   },
   {
    "date": "2026-09-28",
-   "views": 3504
+   "views": 3724
   },
   {
    "date": "2026-09-29",
-   "views": 3133
+   "views": 2863
   },
   {
    "date": "2026-09-30",
-   "views": 3975
+   "views": 2532
   },
   {
    "date": "2026-10-01",
-   "views": 5246
+   "views": 2978
   },
   {
    "date": "2026-10-02",
-   "views": 8283
+   "views": 3932
   },
   {
    "date": "2026-10-03",
-   "views": 7234
+   "views": 5734
   },
   {
    "date": "2026-10-04",
-   "views": 7600
+   "views": 39738
   },
   {
    "date": "2026-10-05",
-   "views": 6912
+   "views": 55972
   },
   {
    "date": "2026-10-06",
-   "views": 6184
+   "views": 13494
   },
   {
    "date": "2026-10-07",
-   "views": 5474
+   "views": 7217
   },
   {
    "date": "2026-10-08",
-   "views": 5558
+   "views": 5184
   },
   {
    "date": "2026-10-09",
-   "views": 5064
+   "views": 4005
   },
   {
    "date": "2026-10-10",
-   "views": 10395
+   "views": 3403
   },
   {
    "date": "2026-10-11",
-   "views": 6658
+   "views": 2896
   },
   {
    "date": "2026-10-12",
-   "views": 9562
+   "views": 2882
   },
   {
    "date": "2026-10-13",
-   "views": 8044
+   "views": 2538
   },
   {
    "date": "2026-10-14",
-   "views": 7826
+   "views": 2389
   },
   {
    "date": "2026-10-15",
-   "views": 8041
+   "views": 2543
   },
   {
    "date": "2026-10-16",
-   "views": 10195
+   "views": 2201
   },
   {
    "date": "2026-10-17",
-   "views": 12293
+   "views": 2302
   },
   {
    "date": "2026-10-18",
-   "views": 11648
+   "views": 2407
   },
   {
    "date": "2026-10-19",
-   "views": 22399
+   "views": 4656
   },
   {
    "date": "2026-10-20",
-   "views": 14163
+   "views": 3417
   },
   {
    "date": "2026-10-21",
-   "views": 11310
+   "views": 3118
   },
   {
    "date": "2026-10-22",
-   "views": 31826
+   "views": 2838
   },
   {
    "date": "2026-10-23",
-   "views": 64766
+   "views": 3529
   },
   {
    "date": "2026-10-24",
-   "views": 88011
+   "views": 5989
   },
   {
    "date": "2026-10-25",
-   "views": 42638
+   "views": 35623
+  },
+  {
+   "date": "2026-10-26",
+   "views": 115745
   }
  ],
- "wikipedia_title": "T\u00e9a_Leoni",
+ "wikipedia_title": "2022_Brazilian_general_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

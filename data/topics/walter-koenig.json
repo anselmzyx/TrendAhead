@@ -1,197 +1,197 @@
 {
- "title": "Lorne Doerkson",
- "slug": "lorne-doerkson",
- "score": 41,
+ "title": "Walter Koenig",
+ "slug": "walter-koenig",
+ "score": 39,
  "status": "Breaking out",
- "change_percent": 1470,
- "growth_ratio": 15.7,
- "recent_avg": 39419,
- "baseline_avg": 2511,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "change_percent": 6823,
+ "growth_ratio": 69.2,
+ "recent_avg": 92766,
+ "baseline_avg": 1340,
+ "explanation": "Attention is 69\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 36908,
- "latest": 108935,
+ "abs_change": 91426,
+ "latest": 276569,
  "components": {
-  "acceleration": 0.704,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.798,
-  "spike_quality": 0.59
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.984,
+  "spike_quality": 0.51
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 39,419 views/day over the last 3 days (30-day baseline: 2,511)."
+  "Averaging 92,766 views/day over the last 3 days (30-day baseline: 1,340)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 7
-  },
-  {
    "date": "2026-09-17",
-   "views": 15
+   "views": 1681
   },
   {
    "date": "2026-09-18",
-   "views": 14
+   "views": 1340
   },
   {
    "date": "2026-09-19",
-   "views": 36
+   "views": 1195
   },
   {
    "date": "2026-09-20",
-   "views": 270
+   "views": 1427
   },
   {
    "date": "2026-09-21",
-   "views": 4539
+   "views": 1434
   },
   {
    "date": "2026-09-22",
-   "views": 6354
+   "views": 1261
   },
   {
    "date": "2026-09-23",
-   "views": 6893
+   "views": 2232
   },
   {
    "date": "2026-09-24",
-   "views": 5263
+   "views": 2508
   },
   {
    "date": "2026-09-25",
-   "views": 4991
-  },
-  {
-   "date": "2026-09-26",
-   "views": 3101
-  },
-  {
-   "date": "2026-09-27",
-   "views": 2323
-  },
-  {
-   "date": "2026-09-28",
-   "views": 2400
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1731
-  },
-  {
-   "date": "2026-09-30",
-   "views": 1229
-  },
-  {
-   "date": "2026-10-01",
-   "views": 1120
-  },
-  {
-   "date": "2026-10-02",
-   "views": 1462
-  },
-  {
-   "date": "2026-10-03",
-   "views": 1178
-  },
-  {
-   "date": "2026-10-04",
-   "views": 1071
-  },
-  {
-   "date": "2026-10-05",
-   "views": 1246
-  },
-  {
-   "date": "2026-10-06",
-   "views": 1731
-  },
-  {
-   "date": "2026-10-07",
-   "views": 1859
-  },
-  {
-   "date": "2026-10-08",
-   "views": 1372
-  },
-  {
-   "date": "2026-10-09",
-   "views": 1599
-  },
-  {
-   "date": "2026-10-10",
    "views": 1633
   },
   {
+   "date": "2026-09-26",
+   "views": 2132
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2481
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2164
+  },
+  {
+   "date": "2026-09-29",
+   "views": 2415
+  },
+  {
+   "date": "2026-09-30",
+   "views": 3092
+  },
+  {
+   "date": "2026-10-01",
+   "views": 2164
+  },
+  {
+   "date": "2026-10-02",
+   "views": 1335
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1205
+  },
+  {
+   "date": "2026-10-04",
+   "views": 1117
+  },
+  {
+   "date": "2026-10-05",
+   "views": 1069
+  },
+  {
+   "date": "2026-10-06",
+   "views": 964
+  },
+  {
+   "date": "2026-10-07",
+   "views": 921
+  },
+  {
+   "date": "2026-10-08",
+   "views": 846
+  },
+  {
+   "date": "2026-10-09",
+   "views": 1010
+  },
+  {
+   "date": "2026-10-10",
+   "views": 1061
+  },
+  {
    "date": "2026-10-11",
-   "views": 1469
+   "views": 1037
   },
   {
    "date": "2026-10-12",
-   "views": 1392
+   "views": 1047
   },
   {
    "date": "2026-10-13",
-   "views": 1739
+   "views": 973
   },
   {
    "date": "2026-10-14",
-   "views": 2837
+   "views": 859
   },
   {
    "date": "2026-10-15",
-   "views": 8627
+   "views": 766
   },
   {
    "date": "2026-10-16",
-   "views": 2764
+   "views": 805
   },
   {
    "date": "2026-10-17",
-   "views": 1944
+   "views": 1028
   },
   {
    "date": "2026-10-18",
-   "views": 1908
+   "views": 1233
   },
   {
    "date": "2026-10-19",
-   "views": 2005
+   "views": 1053
   },
   {
    "date": "2026-10-20",
-   "views": 2483
+   "views": 863
   },
   {
    "date": "2026-10-21",
-   "views": 3478
+   "views": 804
   },
   {
    "date": "2026-10-22",
-   "views": 2494
+   "views": 840
   },
   {
    "date": "2026-10-23",
-   "views": 3030
+   "views": 789
   },
   {
    "date": "2026-10-24",
-   "views": 6293
+   "views": 873
   },
   {
    "date": "2026-10-25",
-   "views": 108935
+   "views": 855
+  },
+  {
+   "date": "2026-10-26",
+   "views": 276569
   }
  ],
- "wikipedia_title": "Lorne_Doerkson",
+ "wikipedia_title": "Walter_Koenig",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

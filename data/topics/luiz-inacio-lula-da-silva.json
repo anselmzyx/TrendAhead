@@ -1,197 +1,197 @@
 {
- "title": "Tim Daly",
- "slug": "tim-daly",
- "score": 33,
- "status": "Peaked / fading",
- "change_percent": 625,
- "growth_ratio": 7.25,
- "recent_avg": 49761,
- "baseline_avg": 6860,
- "explanation": "Attention surged to 7.2\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Luiz In\u00e1cio Lula da Silva",
+ "slug": "luiz-inacio-lula-da-silva",
+ "score": 53,
+ "status": "Breaking out",
+ "change_percent": 1520,
+ "growth_ratio": 16.2,
+ "recent_avg": 155185,
+ "baseline_avg": 9578,
+ "explanation": "Attention is 16\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 42901,
- "latest": 32723,
+ "abs_change": 145607,
+ "latest": 396488,
  "components": {
-  "acceleration": 0.507,
-  "anomaly": 0.937,
-  "persistence": 0.72,
-  "momentum": 0.497,
-  "volume": 0.848,
-  "spike_quality": 0.649
+  "acceleration": 0.712,
+  "anomaly": 1.0,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.616
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 49,761 views/day over the last 3 days (30-day baseline: 6,860)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 155,185 views/day over the last 3 days (30-day baseline: 9,578)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 3818
-  },
-  {
    "date": "2026-09-17",
-   "views": 4014
+   "views": 2450
   },
   {
    "date": "2026-09-18",
-   "views": 5155
+   "views": 2401
   },
   {
    "date": "2026-09-19",
-   "views": 4255
+   "views": 2079
   },
   {
    "date": "2026-09-20",
-   "views": 4050
+   "views": 2413
   },
   {
    "date": "2026-09-21",
-   "views": 3632
+   "views": 3368
   },
   {
    "date": "2026-09-22",
-   "views": 3197
+   "views": 5944
   },
   {
    "date": "2026-09-23",
-   "views": 3243
+   "views": 3890
   },
   {
    "date": "2026-09-24",
-   "views": 2974
+   "views": 3384
   },
   {
    "date": "2026-09-25",
-   "views": 2617
+   "views": 3950
   },
   {
    "date": "2026-09-26",
-   "views": 4230
+   "views": 5075
   },
   {
    "date": "2026-09-27",
-   "views": 3607
+   "views": 5336
   },
   {
    "date": "2026-09-28",
-   "views": 2941
+   "views": 7891
   },
   {
    "date": "2026-09-29",
-   "views": 2696
+   "views": 6174
   },
   {
    "date": "2026-09-30",
-   "views": 3179
+   "views": 5390
   },
   {
    "date": "2026-10-01",
-   "views": 3948
+   "views": 5306
   },
   {
    "date": "2026-10-02",
-   "views": 7130
+   "views": 7753
   },
   {
    "date": "2026-10-03",
-   "views": 7820
+   "views": 9935
   },
   {
    "date": "2026-10-04",
-   "views": 7093
+   "views": 35616
   },
   {
    "date": "2026-10-05",
-   "views": 6351
+   "views": 60151
   },
   {
    "date": "2026-10-06",
-   "views": 4816
+   "views": 18588
   },
   {
    "date": "2026-10-07",
-   "views": 4462
+   "views": 10198
   },
   {
    "date": "2026-10-08",
-   "views": 4289
+   "views": 7715
   },
   {
    "date": "2026-10-09",
-   "views": 4207
+   "views": 6340
   },
   {
    "date": "2026-10-10",
-   "views": 7152
+   "views": 5391
   },
   {
    "date": "2026-10-11",
-   "views": 4979
+   "views": 5010
   },
   {
    "date": "2026-10-12",
-   "views": 7867
+   "views": 5359
   },
   {
    "date": "2026-10-13",
-   "views": 6814
+   "views": 4808
   },
   {
    "date": "2026-10-14",
-   "views": 6617
+   "views": 4909
   },
   {
    "date": "2026-10-15",
-   "views": 6608
+   "views": 5560
   },
   {
    "date": "2026-10-16",
-   "views": 8130
+   "views": 4866
   },
   {
    "date": "2026-10-17",
-   "views": 9586
+   "views": 5397
   },
   {
    "date": "2026-10-18",
-   "views": 9286
+   "views": 5777
   },
   {
    "date": "2026-10-19",
-   "views": 17417
+   "views": 12583
   },
   {
    "date": "2026-10-20",
-   "views": 11625
+   "views": 8545
   },
   {
    "date": "2026-10-21",
-   "views": 9169
+   "views": 6593
   },
   {
    "date": "2026-10-22",
-   "views": 24938
+   "views": 6267
   },
   {
    "date": "2026-10-23",
-   "views": 50421
+   "views": 7482
   },
   {
    "date": "2026-10-24",
-   "views": 66139
+   "views": 15713
   },
   {
    "date": "2026-10-25",
-   "views": 32723
+   "views": 53353
+  },
+  {
+   "date": "2026-10-26",
+   "views": 396488
   }
  ],
- "wikipedia_title": "Tim_Daly",
+ "wikipedia_title": "Luiz_In\u00e1cio_Lula_da_Silva",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }

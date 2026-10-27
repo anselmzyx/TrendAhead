@@ -1,197 +1,197 @@
 {
- "title": "David Eby",
- "slug": "david-eby",
- "score": 36,
+ "title": "Eyebrow Talk",
+ "slug": "eyebrow-talk",
+ "score": 40,
  "status": "Breaking out",
- "change_percent": 922,
- "growth_ratio": 10.22,
- "recent_avg": 19191,
- "baseline_avg": 1878,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "change_percent": 258233,
+ "growth_ratio": 232.5,
+ "recent_avg": 23250,
+ "baseline_avg": 9,
+ "explanation": "Attention is 232\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17313,
- "latest": 50839,
+ "abs_change": 23241,
+ "latest": 68616,
  "components": {
-  "acceleration": 0.594,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.642,
-  "spike_quality": 0.635
+  "volume": 0.683,
+  "spike_quality": 0.51
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 19,191 views/day over the last 3 days (30-day baseline: 1,878)."
+  "Averaging 23,250 views/day over the last 3 days (30-day baseline: 9)."
  ],
  "history": [
   {
-   "date": "2026-09-16",
-   "views": 503
-  },
-  {
    "date": "2026-09-17",
-   "views": 576
+   "views": 1
   },
   {
    "date": "2026-09-18",
-   "views": 1017
+   "views": 6
   },
   {
    "date": "2026-09-19",
-   "views": 1138
+   "views": 4
   },
   {
    "date": "2026-09-20",
-   "views": 804
+   "views": 7
   },
   {
    "date": "2026-09-21",
-   "views": 1025
+   "views": 8
   },
   {
    "date": "2026-09-22",
-   "views": 4691
+   "views": 4
   },
   {
    "date": "2026-09-23",
-   "views": 5773
+   "views": 7
   },
   {
    "date": "2026-09-24",
-   "views": 2535
+   "views": 7
   },
   {
    "date": "2026-09-25",
-   "views": 2544
+   "views": 12
   },
   {
    "date": "2026-09-26",
-   "views": 1772
+   "views": 7
   },
   {
    "date": "2026-09-27",
-   "views": 1527
+   "views": 7
   },
   {
    "date": "2026-09-28",
-   "views": 1245
+   "views": 8
   },
   {
    "date": "2026-09-29",
-   "views": 1186
+   "views": 7
   },
   {
    "date": "2026-09-30",
-   "views": 1129
+   "views": 13
   },
   {
    "date": "2026-10-01",
-   "views": 1123
+   "views": 10
   },
   {
    "date": "2026-10-02",
-   "views": 1065
+   "views": 9
   },
   {
    "date": "2026-10-03",
-   "views": 1583
+   "views": 15
   },
   {
    "date": "2026-10-04",
-   "views": 1084
+   "views": 8
   },
   {
    "date": "2026-10-05",
-   "views": 1577
+   "views": 5
   },
   {
    "date": "2026-10-06",
-   "views": 1572
+   "views": 7
   },
   {
    "date": "2026-10-07",
-   "views": 1307
+   "views": 8
   },
   {
    "date": "2026-10-08",
-   "views": 1009
+   "views": 9
   },
   {
    "date": "2026-10-09",
-   "views": 1208
+   "views": 10
   },
   {
    "date": "2026-10-10",
-   "views": 975
+   "views": 6
   },
   {
    "date": "2026-10-11",
-   "views": 975
+   "views": 8
   },
   {
    "date": "2026-10-12",
-   "views": 1098
+   "views": 9
   },
   {
    "date": "2026-10-13",
-   "views": 2225
+   "views": 18
   },
   {
    "date": "2026-10-14",
-   "views": 2889
+   "views": 8
   },
   {
    "date": "2026-10-15",
-   "views": 4807
+   "views": 12
   },
   {
    "date": "2026-10-16",
-   "views": 2042
+   "views": 9
   },
   {
    "date": "2026-10-17",
-   "views": 1575
+   "views": 16
   },
   {
    "date": "2026-10-18",
-   "views": 1982
+   "views": 8
   },
   {
    "date": "2026-10-19",
-   "views": 1736
+   "views": 16
   },
   {
    "date": "2026-10-20",
-   "views": 2631
+   "views": 10
   },
   {
    "date": "2026-10-21",
-   "views": 2118
+   "views": 10
   },
   {
    "date": "2026-10-22",
-   "views": 2034
+   "views": 7
   },
   {
    "date": "2026-10-23",
-   "views": 2295
+   "views": 5
   },
   {
    "date": "2026-10-24",
-   "views": 4440
+   "views": 8
   },
   {
    "date": "2026-10-25",
-   "views": 50839
+   "views": 1125
+  },
+  {
+   "date": "2026-10-26",
+   "views": 68616
   }
  ],
- "wikipedia_title": "David_Eby",
+ "wikipedia_title": "Eyebrow_Talk",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-25",
- "generated_at_utc": "2026-10-26T11:29:49+00:00"
+ "data_through": "2026-10-26",
+ "generated_at_utc": "2026-10-27T10:53:58+00:00"
 }
