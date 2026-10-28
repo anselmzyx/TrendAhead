@@ -1,198 +1,197 @@
 {
- "title": "2026 FIFA U-15 World Cup & Festival",
- "slug": "2026-fifa-u-15-world-cup-festival",
- "score": 74,
- "status": "Building",
- "change_percent": 3252,
- "growth_ratio": 33.52,
- "recent_avg": 51380,
- "baseline_avg": 1533,
- "explanation": "Attention is 34\u00d7 its 30-day baseline.",
+ "title": "Fleetwood Town F.C.",
+ "slug": "fleetwood-town-f-c",
+ "score": 54,
+ "status": "Breaking out",
+ "change_percent": 7166,
+ "growth_ratio": 72.71,
+ "recent_avg": 39017,
+ "baseline_avg": 537,
+ "explanation": "Attention is 73\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 49847,
- "latest": 80217,
+ "abs_change": 38480,
+ "latest": 111350,
  "components": {
-  "acceleration": 0.898,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.855,
-  "spike_quality": 0.815
+  "volume": 0.796,
+  "spike_quality": 0.541
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 51,380 views/day over the last 3 days (30-day baseline: 1,533)."
+  "Averaging 39,017 views/day over the last 3 days (30-day baseline: 537)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 1913
-  },
-  {
    "date": "2026-09-18",
-   "views": 1788
+   "views": 3550
   },
   {
    "date": "2026-09-19",
-   "views": 1913
+   "views": 1220
   },
   {
    "date": "2026-09-20",
-   "views": 1240
+   "views": 571
   },
   {
    "date": "2026-09-21",
-   "views": 1163
+   "views": 491
   },
   {
    "date": "2026-09-22",
-   "views": 1055
+   "views": 546
   },
   {
    "date": "2026-09-23",
-   "views": 1017
+   "views": 424
   },
   {
    "date": "2026-09-24",
-   "views": 1138
+   "views": 407
   },
   {
    "date": "2026-09-25",
-   "views": 768
+   "views": 414
   },
   {
    "date": "2026-09-26",
-   "views": 652
+   "views": 572
   },
   {
    "date": "2026-09-27",
-   "views": 724
+   "views": 380
   },
   {
    "date": "2026-09-28",
-   "views": 640
+   "views": 388
   },
   {
    "date": "2026-09-29",
-   "views": 779
+   "views": 378
   },
   {
    "date": "2026-09-30",
-   "views": 656
+   "views": 393
   },
   {
    "date": "2026-10-01",
-   "views": 712
+   "views": 375
   },
   {
    "date": "2026-10-02",
-   "views": 763
+   "views": 582
   },
   {
    "date": "2026-10-03",
-   "views": 970
+   "views": 493
   },
   {
    "date": "2026-10-04",
-   "views": 859
+   "views": 682
   },
   {
    "date": "2026-10-05",
-   "views": 906
+   "views": 468
   },
   {
    "date": "2026-10-06",
-   "views": 1069
+   "views": 924
   },
   {
    "date": "2026-10-07",
-   "views": 1027
+   "views": 1154
   },
   {
    "date": "2026-10-08",
-   "views": 903
+   "views": 449
   },
   {
    "date": "2026-10-09",
-   "views": 859
+   "views": 472
   },
   {
    "date": "2026-10-10",
-   "views": 801
+   "views": 538
   },
   {
    "date": "2026-10-11",
-   "views": 699
+   "views": 525
   },
   {
    "date": "2026-10-12",
-   "views": 1038
+   "views": 409
   },
   {
    "date": "2026-10-13",
-   "views": 1722
+   "views": 383
   },
   {
    "date": "2026-10-14",
-   "views": 1298
+   "views": 386
   },
   {
    "date": "2026-10-15",
-   "views": 1296
+   "views": 339
   },
   {
    "date": "2026-10-16",
-   "views": 1224
+   "views": 528
   },
   {
    "date": "2026-10-17",
-   "views": 1196
+   "views": 649
   },
   {
    "date": "2026-10-18",
-   "views": 1446
+   "views": 507
   },
   {
    "date": "2026-10-19",
-   "views": 1508
+   "views": 484
   },
   {
    "date": "2026-10-20",
-   "views": 2714
+   "views": 543
   },
   {
    "date": "2026-10-21",
-   "views": 4939
+   "views": 447
   },
   {
    "date": "2026-10-22",
-   "views": 6355
+   "views": 505
   },
   {
    "date": "2026-10-23",
-   "views": 6329
+   "views": 470
   },
   {
    "date": "2026-10-24",
-   "views": 27660
+   "views": 1262
   },
   {
    "date": "2026-10-25",
-   "views": 46264
+   "views": 1454
   },
   {
    "date": "2026-10-26",
-   "views": 80217
+   "views": 4247
+  },
+  {
+   "date": "2026-10-27",
+   "views": 111350
   }
  ],
- "wikipedia_title": "2026_FIFA_U-15_World_Cup_&_Festival",
+ "wikipedia_title": "Fleetwood_Town_F.C.",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

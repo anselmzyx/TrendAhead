@@ -1,198 +1,198 @@
 {
- "title": "Aleksandar Vu\u010di\u0107",
- "slug": "aleksandar-vucic",
- "score": 47,
- "status": "Breaking out",
- "change_percent": 1657,
- "growth_ratio": 17.57,
- "recent_avg": 50710,
- "baseline_avg": 2886,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "title": ".xxx",
+ "slug": "xxx",
+ "score": 42,
+ "status": "Building",
+ "change_percent": 159,
+ "growth_ratio": 2.59,
+ "recent_avg": 259775,
+ "baseline_avg": 100247,
+ "explanation": "Attention is 2.6\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 47824,
- "latest": 103712,
+ "abs_change": 159528,
+ "latest": 362902,
  "components": {
-  "acceleration": 0.733,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.853,
-  "spike_quality": 0.717
+  "acceleration": 0.243,
+  "anomaly": 0.216,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.881
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 50,710 views/day over the last 3 days (30-day baseline: 2,886)."
+  "Averaging 259,775 views/day over the last 3 days (30-day baseline: 100,247)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 1400
-  },
-  {
    "date": "2026-09-18",
-   "views": 1373
+   "views": 86022
   },
   {
    "date": "2026-09-19",
-   "views": 1148
+   "views": 83369
   },
   {
    "date": "2026-09-20",
-   "views": 1231
+   "views": 105258
   },
   {
    "date": "2026-09-21",
-   "views": 1167
+   "views": 135167
   },
   {
    "date": "2026-09-22",
-   "views": 1181
+   "views": 128307
   },
   {
    "date": "2026-09-23",
-   "views": 1255
+   "views": 137118
   },
   {
    "date": "2026-09-24",
-   "views": 1239
+   "views": 170417
   },
   {
    "date": "2026-09-25",
-   "views": 1128
+   "views": 116679
   },
   {
    "date": "2026-09-26",
-   "views": 1245
+   "views": 203690
   },
   {
    "date": "2026-09-27",
-   "views": 11104
+   "views": 186029
   },
   {
    "date": "2026-09-28",
-   "views": 11846
+   "views": 119989
   },
   {
    "date": "2026-09-29",
-   "views": 5946
+   "views": 164698
   },
   {
    "date": "2026-09-30",
-   "views": 4047
+   "views": 151234
   },
   {
    "date": "2026-10-01",
-   "views": 2582
+   "views": 100657
   },
   {
    "date": "2026-10-02",
-   "views": 1995
+   "views": 69782
   },
   {
    "date": "2026-10-03",
-   "views": 2907
+   "views": 110475
   },
   {
    "date": "2026-10-04",
-   "views": 7110
+   "views": 385909
   },
   {
    "date": "2026-10-05",
-   "views": 1747
+   "views": 218299
   },
   {
    "date": "2026-10-06",
-   "views": 1298
+   "views": 87950
   },
   {
    "date": "2026-10-07",
-   "views": 2557
+   "views": 44240
   },
   {
    "date": "2026-10-08",
-   "views": 1974
+   "views": 44288
   },
   {
    "date": "2026-10-09",
-   "views": 1362
+   "views": 45663
   },
   {
    "date": "2026-10-10",
-   "views": 1191
+   "views": 52078
   },
   {
    "date": "2026-10-11",
-   "views": 1359
+   "views": 62779
   },
   {
    "date": "2026-10-12",
-   "views": 1161
+   "views": 53739
   },
   {
    "date": "2026-10-13",
-   "views": 1091
+   "views": 87080
   },
   {
    "date": "2026-10-14",
-   "views": 1027
+   "views": 79339
   },
   {
    "date": "2026-10-15",
-   "views": 1386
+   "views": 76383
   },
   {
    "date": "2026-10-16",
-   "views": 1359
+   "views": 72780
   },
   {
    "date": "2026-10-17",
-   "views": 1567
+   "views": 64865
   },
   {
    "date": "2026-10-18",
-   "views": 1655
+   "views": 56928
   },
   {
    "date": "2026-10-19",
-   "views": 1797
+   "views": 45473
   },
   {
    "date": "2026-10-20",
-   "views": 2467
+   "views": 39907
   },
   {
    "date": "2026-10-21",
-   "views": 2991
+   "views": 25686
   },
   {
    "date": "2026-10-22",
-   "views": 3136
+   "views": 35148
   },
   {
    "date": "2026-10-23",
-   "views": 4319
+   "views": 50651
   },
   {
    "date": "2026-10-24",
-   "views": 3550
+   "views": 155001
   },
   {
    "date": "2026-10-25",
-   "views": 44867
+   "views": 175999
   },
   {
    "date": "2026-10-26",
-   "views": 103712
+   "views": 240423
+  },
+  {
+   "date": "2026-10-27",
+   "views": 362902
   }
  ],
- "wikipedia_title": "Aleksandar_Vu\u010di\u0107",
+ "wikipedia_title": ".xxx",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

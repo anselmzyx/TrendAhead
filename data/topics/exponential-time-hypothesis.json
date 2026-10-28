@@ -1,197 +1,197 @@
 {
- "title": "2022 Brazilian general election",
- "slug": "2022-brazilian-general-election",
- "score": 32,
+ "title": "Exponential time hypothesis",
+ "slug": "exponential-time-hypothesis",
+ "score": 45,
  "status": "Breaking out",
- "change_percent": 707,
- "growth_ratio": 8.07,
- "recent_avg": 52452,
- "baseline_avg": 6502,
- "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
+ "change_percent": 58830,
+ "growth_ratio": 318.22,
+ "recent_avg": 31822,
+ "baseline_avg": 54,
+ "explanation": "Attention is 318\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 45950,
- "latest": 115745,
+ "abs_change": 31768,
+ "latest": 82520,
  "components": {
-  "acceleration": 0.534,
-  "anomaly": 0.401,
+  "acceleration": 1.0,
+  "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.86,
-  "spike_quality": 0.687
+  "volume": 0.751,
+  "spike_quality": 0.58
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 52,452 views/day over the last 3 days (30-day baseline: 6,502)."
+  "Averaging 31,822 views/day over the last 3 days (30-day baseline: 54)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 949
-  },
-  {
    "date": "2026-09-18",
-   "views": 1050
+   "views": 35
   },
   {
    "date": "2026-09-19",
-   "views": 778
+   "views": 27
   },
   {
    "date": "2026-09-20",
-   "views": 1000
+   "views": 29
   },
   {
    "date": "2026-09-21",
-   "views": 1371
+   "views": 53
   },
   {
    "date": "2026-09-22",
-   "views": 1541
+   "views": 46
   },
   {
    "date": "2026-09-23",
-   "views": 1226
+   "views": 41
   },
   {
    "date": "2026-09-24",
-   "views": 1224
+   "views": 27
   },
   {
    "date": "2026-09-25",
-   "views": 1426
+   "views": 37
   },
   {
    "date": "2026-09-26",
-   "views": 1847
+   "views": 17
   },
   {
    "date": "2026-09-27",
-   "views": 2072
+   "views": 39
   },
   {
    "date": "2026-09-28",
-   "views": 3724
+   "views": 34
   },
   {
    "date": "2026-09-29",
-   "views": 2863
+   "views": 32
   },
   {
    "date": "2026-09-30",
-   "views": 2532
+   "views": 34
   },
   {
    "date": "2026-10-01",
-   "views": 2978
+   "views": 29
   },
   {
    "date": "2026-10-02",
-   "views": 3932
+   "views": 20
   },
   {
    "date": "2026-10-03",
-   "views": 5734
+   "views": 27
   },
   {
    "date": "2026-10-04",
-   "views": 39738
+   "views": 25
   },
   {
    "date": "2026-10-05",
-   "views": 55972
+   "views": 35
   },
   {
    "date": "2026-10-06",
-   "views": 13494
+   "views": 348
   },
   {
    "date": "2026-10-07",
-   "views": 7217
+   "views": 121
   },
   {
    "date": "2026-10-08",
-   "views": 5184
+   "views": 56
   },
   {
    "date": "2026-10-09",
-   "views": 4005
+   "views": 61
   },
   {
    "date": "2026-10-10",
-   "views": 3403
+   "views": 51
   },
   {
    "date": "2026-10-11",
-   "views": 2896
+   "views": 29
   },
   {
    "date": "2026-10-12",
-   "views": 2882
+   "views": 36
   },
   {
    "date": "2026-10-13",
-   "views": 2538
+   "views": 48
   },
   {
    "date": "2026-10-14",
-   "views": 2389
+   "views": 40
   },
   {
    "date": "2026-10-15",
-   "views": 2543
+   "views": 37
   },
   {
    "date": "2026-10-16",
-   "views": 2201
+   "views": 22
   },
   {
    "date": "2026-10-17",
-   "views": 2302
+   "views": 71
   },
   {
    "date": "2026-10-18",
-   "views": 2407
+   "views": 66
   },
   {
    "date": "2026-10-19",
-   "views": 4656
+   "views": 74
   },
   {
    "date": "2026-10-20",
-   "views": 3417
+   "views": 53
   },
   {
    "date": "2026-10-21",
-   "views": 3118
+   "views": 57
   },
   {
    "date": "2026-10-22",
-   "views": 2838
+   "views": 53
   },
   {
    "date": "2026-10-23",
-   "views": 3529
+   "views": 44
   },
   {
    "date": "2026-10-24",
-   "views": 5989
+   "views": 29
   },
   {
    "date": "2026-10-25",
-   "views": 35623
+   "views": 37
   },
   {
    "date": "2026-10-26",
-   "views": 115745
+   "views": 12910
+  },
+  {
+   "date": "2026-10-27",
+   "views": 82520
   }
  ],
- "wikipedia_title": "2022_Brazilian_general_election",
+ "wikipedia_title": "Exponential_time_hypothesis",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

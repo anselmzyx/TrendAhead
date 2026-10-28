@@ -1,197 +1,197 @@
 {
- "title": "Wicker (film)",
- "slug": "wicker-film",
- "score": 43,
- "status": "Elevated",
- "change_percent": 440,
- "growth_ratio": 5.4,
- "recent_avg": 80502,
- "baseline_avg": 14920,
- "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
+ "title": "Harry Kane",
+ "slug": "harry-kane",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 920,
+ "growth_ratio": 10.2,
+ "recent_avg": 162268,
+ "baseline_avg": 15902,
+ "explanation": "Attention is 10\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 65582,
- "latest": 76348,
+ "abs_change": 146366,
+ "latest": 358958,
  "components": {
-  "acceleration": 0.431,
-  "anomaly": 0.512,
-  "persistence": 0.84,
-  "momentum": 0.614,
-  "volume": 0.953,
-  "spike_quality": 0.914
+  "acceleration": 0.594,
+  "anomaly": 0.994,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.699
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 80,502 views/day over the last 3 days (30-day baseline: 14,920)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 162,268 views/day over the last 3 days (30-day baseline: 15,902)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 5263
-  },
-  {
    "date": "2026-09-18",
-   "views": 4706
+   "views": 19229
   },
   {
    "date": "2026-09-19",
-   "views": 3958
+   "views": 23565
   },
   {
    "date": "2026-09-20",
-   "views": 3700
+   "views": 10037
   },
   {
    "date": "2026-09-21",
-   "views": 3453
+   "views": 8538
   },
   {
    "date": "2026-09-22",
-   "views": 3481
+   "views": 7070
   },
   {
    "date": "2026-09-23",
-   "views": 3318
+   "views": 7035
   },
   {
    "date": "2026-09-24",
-   "views": 3575
+   "views": 8592
   },
   {
    "date": "2026-09-25",
-   "views": 3479
+   "views": 7442
   },
   {
    "date": "2026-09-26",
-   "views": 4262
+   "views": 18821
   },
   {
    "date": "2026-09-27",
-   "views": 4833
+   "views": 11285
   },
   {
    "date": "2026-09-28",
-   "views": 5026
+   "views": 7265
   },
   {
    "date": "2026-09-29",
-   "views": 7608
+   "views": 22885
   },
   {
    "date": "2026-09-30",
-   "views": 5705
+   "views": 15133
   },
   {
    "date": "2026-10-01",
-   "views": 5612
+   "views": 8202
   },
   {
    "date": "2026-10-02",
-   "views": 4872
+   "views": 6468
   },
   {
    "date": "2026-10-03",
-   "views": 4790
+   "views": 47481
   },
   {
    "date": "2026-10-04",
-   "views": 4677
+   "views": 25512
   },
   {
    "date": "2026-10-05",
-   "views": 4945
+   "views": 14757
   },
   {
    "date": "2026-10-06",
-   "views": 5433
+   "views": 74309
   },
   {
    "date": "2026-10-07",
-   "views": 6126
+   "views": 44897
   },
   {
    "date": "2026-10-08",
-   "views": 10305
+   "views": 13393
   },
   {
    "date": "2026-10-09",
-   "views": 28611
+   "views": 8270
   },
   {
    "date": "2026-10-10",
-   "views": 19753
+   "views": 8223
   },
   {
    "date": "2026-10-11",
-   "views": 16915
+   "views": 6597
   },
   {
    "date": "2026-10-12",
-   "views": 17824
+   "views": 5531
   },
   {
    "date": "2026-10-13",
-   "views": 16906
+   "views": 9398
   },
   {
    "date": "2026-10-14",
-   "views": 17960
+   "views": 10648
   },
   {
    "date": "2026-10-15",
-   "views": 20982
+   "views": 8927
   },
   {
    "date": "2026-10-16",
-   "views": 22554
+   "views": 7522
   },
   {
    "date": "2026-10-17",
-   "views": 21109
+   "views": 10744
   },
   {
    "date": "2026-10-18",
-   "views": 18999
+   "views": 11796
   },
   {
    "date": "2026-10-19",
-   "views": 18067
+   "views": 6932
   },
   {
    "date": "2026-10-20",
-   "views": 18519
+   "views": 6775
   },
   {
    "date": "2026-10-21",
-   "views": 28844
+   "views": 18794
   },
   {
    "date": "2026-10-22",
-   "views": 33749
+   "views": 18191
   },
   {
    "date": "2026-10-23",
-   "views": 65568
+   "views": 11447
   },
   {
    "date": "2026-10-24",
-   "views": 83719
+   "views": 9418
   },
   {
    "date": "2026-10-25",
-   "views": 81440
+   "views": 9785
   },
   {
    "date": "2026-10-26",
-   "views": 76348
+   "views": 118062
+  },
+  {
+   "date": "2026-10-27",
+   "views": 358958
   }
  ],
- "wikipedia_title": "Wicker_(film)",
+ "wikipedia_title": "Harry_Kane",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

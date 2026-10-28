@@ -1,197 +1,197 @@
 {
- "title": "Candice Swanepoel",
- "slug": "candice-swanepoel",
- "score": 40,
- "status": "Elevated",
- "change_percent": 1367,
- "growth_ratio": 14.67,
- "recent_avg": 57888,
- "baseline_avg": 3946,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "title": "2022 Israeli legislative election",
+ "slug": "2022-israeli-legislative-election",
+ "score": 58,
+ "status": "Breaking out",
+ "change_percent": 1518,
+ "growth_ratio": 16.17,
+ "recent_avg": 28454,
+ "baseline_avg": 1759,
+ "explanation": "Attention is 16\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 53942,
- "latest": 71819,
+ "abs_change": 26695,
+ "latest": 67621,
  "components": {
-  "acceleration": 0.687,
-  "anomaly": 0.737,
-  "persistence": 0.68,
-  "momentum": 0.602,
-  "volume": 0.881,
-  "spike_quality": 0.746
+  "acceleration": 0.711,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.727,
+  "spike_quality": 0.677
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 57,888 views/day over the last 3 days (30-day baseline: 3,946)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 28,454 views/day over the last 3 days (30-day baseline: 1,759)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 430
-  },
-  {
    "date": "2026-09-18",
-   "views": 677
+   "views": 978
   },
   {
    "date": "2026-09-19",
-   "views": 653
+   "views": 811
   },
   {
    "date": "2026-09-20",
-   "views": 635
+   "views": 918
   },
   {
    "date": "2026-09-21",
-   "views": 537
+   "views": 818
   },
   {
    "date": "2026-09-22",
-   "views": 644
+   "views": 889
   },
   {
    "date": "2026-09-23",
-   "views": 632
+   "views": 1070
   },
   {
    "date": "2026-09-24",
-   "views": 587
+   "views": 1519
   },
   {
    "date": "2026-09-25",
-   "views": 890
+   "views": 1894
   },
   {
    "date": "2026-09-26",
-   "views": 1561
+   "views": 1200
   },
   {
    "date": "2026-09-27",
-   "views": 1123
+   "views": 1205
   },
   {
    "date": "2026-09-28",
-   "views": 874
+   "views": 1175
   },
   {
    "date": "2026-09-29",
-   "views": 788
+   "views": 1261
   },
   {
    "date": "2026-09-30",
-   "views": 666
+   "views": 1420
   },
   {
    "date": "2026-10-01",
-   "views": 600
+   "views": 1694
   },
   {
    "date": "2026-10-02",
-   "views": 613
+   "views": 1845
   },
   {
    "date": "2026-10-03",
-   "views": 871
+   "views": 1776
   },
   {
    "date": "2026-10-04",
-   "views": 771
+   "views": 1784
   },
   {
    "date": "2026-10-05",
-   "views": 859
+   "views": 1492
   },
   {
    "date": "2026-10-06",
-   "views": 895
+   "views": 1446
   },
   {
    "date": "2026-10-07",
-   "views": 809
+   "views": 1576
   },
   {
    "date": "2026-10-08",
-   "views": 786
+   "views": 1465
   },
   {
    "date": "2026-10-09",
-   "views": 718
+   "views": 1297
   },
   {
    "date": "2026-10-10",
-   "views": 868
+   "views": 1192
   },
   {
    "date": "2026-10-11",
-   "views": 815
+   "views": 1174
   },
   {
    "date": "2026-10-12",
-   "views": 695
+   "views": 1360
   },
   {
    "date": "2026-10-13",
-   "views": 1453
+   "views": 1224
   },
   {
    "date": "2026-10-14",
-   "views": 1252
+   "views": 1357
   },
   {
    "date": "2026-10-15",
-   "views": 1135
+   "views": 1440
   },
   {
    "date": "2026-10-16",
-   "views": 1227
+   "views": 1519
   },
   {
    "date": "2026-10-17",
-   "views": 1447
+   "views": 1317
   },
   {
    "date": "2026-10-18",
-   "views": 4003
+   "views": 2504
   },
   {
    "date": "2026-10-19",
-   "views": 31347
+   "views": 2868
   },
   {
    "date": "2026-10-20",
-   "views": 24429
+   "views": 2597
   },
   {
    "date": "2026-10-21",
-   "views": 15537
+   "views": 2580
   },
   {
    "date": "2026-10-22",
-   "views": 10730
+   "views": 2910
   },
   {
    "date": "2026-10-23",
-   "views": 10035
+   "views": 3095
   },
   {
    "date": "2026-10-24",
-   "views": 9988
+   "views": 3117
   },
   {
    "date": "2026-10-25",
-   "views": 91857
+   "views": 5463
   },
   {
    "date": "2026-10-26",
-   "views": 71819
+   "views": 12278
+  },
+  {
+   "date": "2026-10-27",
+   "views": 67621
   }
  ],
- "wikipedia_title": "Candice_Swanepoel",
+ "wikipedia_title": "2022_Israeli_legislative_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

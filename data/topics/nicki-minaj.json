@@ -1,37 +1,34 @@
 {
  "title": "Nicki Minaj",
  "slug": "nicki-minaj",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 816,
- "growth_ratio": 9.16,
- "recent_avg": 56952,
- "baseline_avg": 6216,
- "explanation": "Attention is 9.2\u00d7 its 30-day baseline.",
+ "score": 65,
+ "status": "Building",
+ "change_percent": 1567,
+ "growth_ratio": 16.67,
+ "recent_avg": 104058,
+ "baseline_avg": 6243,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 50736,
- "latest": 144476,
+ "abs_change": 97815,
+ "latest": 145546,
  "components": {
-  "acceleration": 0.566,
-  "anomaly": 0.961,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.878,
-  "spike_quality": 0.642
+  "acceleration": 0.719,
+  "anomaly": 1.0,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.827
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 56,952 views/day over the last 3 days (30-day baseline: 6,216)."
+  "Averaging 104,058 views/day over the last 3 days (30-day baseline: 6,243)."
  ],
  "history": [
-  {
-   "date": "2026-09-17",
-   "views": 3465
-  },
   {
    "date": "2026-09-18",
    "views": 6513
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-26",
    "views": 144476
+  },
+  {
+   "date": "2026-10-27",
+   "views": 145546
   }
  ],
  "wikipedia_title": "Nicki_Minaj",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

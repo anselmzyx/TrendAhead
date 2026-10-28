@@ -1,37 +1,34 @@
 {
  "title": "Alexia Putellas",
  "slug": "alexia-putellas",
- "score": 37,
+ "score": 63,
  "status": "Breaking out",
- "change_percent": 3110,
- "growth_ratio": 32.11,
- "recent_avg": 42660,
- "baseline_avg": 1329,
- "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "change_percent": 6799,
+ "growth_ratio": 69.0,
+ "recent_avg": 91068,
+ "baseline_avg": 1320,
+ "explanation": "Attention is 69\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41331,
- "latest": 125301,
+ "abs_change": 89748,
+ "latest": 146373,
  "components": {
-  "acceleration": 0.887,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.815,
-  "spike_quality": 0.529
+  "volume": 0.98,
+  "spike_quality": 0.776
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,660 views/day over the last 3 days (30-day baseline: 1,329)."
+  "Averaging 91,068 views/day over the last 3 days (30-day baseline: 1,320)."
  ],
  "history": [
-  {
-   "date": "2026-09-17",
-   "views": 679
-  },
   {
    "date": "2026-09-18",
    "views": 872
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-26",
    "views": 125301
+  },
+  {
+   "date": "2026-10-27",
+   "views": 146373
   }
  ],
  "wikipedia_title": "Alexia_Putellas",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

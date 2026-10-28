@@ -1,38 +1,33 @@
 {
  "title": "Wildwood (film)",
  "slug": "wildwood-film",
- "score": 71,
- "status": "Building",
- "change_percent": 634,
- "growth_ratio": 7.34,
- "recent_avg": 113797,
- "baseline_avg": 15512,
- "explanation": "Attention is 7.3\u00d7 its 30-day baseline.",
+ "score": 41,
+ "status": "Elevated",
+ "change_percent": 494,
+ "growth_ratio": 5.94,
+ "recent_avg": 109932,
+ "baseline_avg": 18519,
+ "explanation": "Attention is 5.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 98285,
- "latest": 126098,
+ "abs_change": 91413,
+ "latest": 85263,
  "components": {
-  "acceleration": 0.509,
-  "anomaly": 0.672,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "acceleration": 0.455,
+  "anomaly": 0.445,
+  "persistence": 0.92,
+  "momentum": 0.606,
   "volume": 1.0,
-  "spike_quality": 0.942
+  "spike_quality": 0.795
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 113,797 views/day over the last 3 days (30-day baseline: 15,512)."
+  "Averaging 109,932 views/day over the last 3 days (30-day baseline: 18,519)."
  ],
  "history": [
-  {
-   "date": "2026-09-17",
-   "views": 7709
-  },
   {
    "date": "2026-09-18",
    "views": 7959
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-26",
    "views": 126098
+  },
+  {
+   "date": "2026-10-27",
+   "views": 85263
   }
  ],
  "wikipedia_title": "Wildwood_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

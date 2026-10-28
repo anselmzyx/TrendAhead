@@ -1,37 +1,32 @@
 {
  "title": "Walter Koenig",
  "slug": "walter-koenig",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 6823,
- "growth_ratio": 69.2,
- "recent_avg": 92766,
- "baseline_avg": 1340,
- "explanation": "Attention is 69\u00d7 its 30-day baseline.",
+ "score": 35,
+ "status": "Elevated",
+ "change_percent": 11817,
+ "growth_ratio": 119.17,
+ "recent_avg": 153254,
+ "baseline_avg": 1286,
+ "explanation": "Attention is 119\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 91426,
- "latest": 276569,
+ "abs_change": 151968,
+ "latest": 182339,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.984,
-  "spike_quality": 0.51
+  "persistence": 0.32,
+  "momentum": 0.529,
+  "volume": 1.0,
+  "spike_quality": 0.565
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 92,766 views/day over the last 3 days (30-day baseline: 1,340)."
+  "Averaging 153,254 views/day over the last 3 days (30-day baseline: 1,286)."
  ],
  "history": [
-  {
-   "date": "2026-09-17",
-   "views": 1681
-  },
   {
    "date": "2026-09-18",
    "views": 1340
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-26",
    "views": 276569
+  },
+  {
+   "date": "2026-10-27",
+   "views": 182339
   }
  ],
  "wikipedia_title": "Walter_Koenig",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

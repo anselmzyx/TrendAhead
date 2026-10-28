@@ -1,198 +1,197 @@
 {
- "title": "2026 Brazilian general election",
- "slug": "2026-brazilian-general-election",
- "score": 36,
+ "title": "Dick Ebersol",
+ "slug": "dick-ebersol",
+ "score": 34,
  "status": "Breaking out",
- "change_percent": 595,
- "growth_ratio": 6.95,
- "recent_avg": 244270,
- "baseline_avg": 35141,
- "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
+ "change_percent": 5807,
+ "growth_ratio": 59.0,
+ "recent_avg": 26463,
+ "baseline_avg": 448,
+ "explanation": "Attention is 59\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 209129,
- "latest": 420940,
+ "abs_change": 26015,
+ "latest": 78580,
  "components": {
-  "acceleration": 0.496,
-  "anomaly": 0.372,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.786
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.711,
+  "spike_quality": 0.518
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 244,270 views/day over the last 3 days (30-day baseline: 35,141)."
+  "Averaging 26,463 views/day over the last 3 days (30-day baseline: 448)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 4335
-  },
-  {
    "date": "2026-09-18",
-   "views": 4394
+   "views": 322
   },
   {
    "date": "2026-09-19",
-   "views": 3859
+   "views": 340
   },
   {
    "date": "2026-09-20",
-   "views": 4998
+   "views": 404
   },
   {
    "date": "2026-09-21",
-   "views": 6476
+   "views": 506
   },
   {
    "date": "2026-09-22",
-   "views": 6834
+   "views": 387
   },
   {
    "date": "2026-09-23",
-   "views": 5785
+   "views": 400
   },
   {
    "date": "2026-09-24",
-   "views": 5899
+   "views": 749
   },
   {
    "date": "2026-09-25",
-   "views": 6840
+   "views": 827
   },
   {
    "date": "2026-09-26",
-   "views": 8940
+   "views": 452
   },
   {
    "date": "2026-09-27",
-   "views": 10695
+   "views": 583
   },
   {
    "date": "2026-09-28",
-   "views": 19044
+   "views": 417
   },
   {
    "date": "2026-09-29",
-   "views": 13848
+   "views": 359
   },
   {
    "date": "2026-09-30",
-   "views": 13723
+   "views": 319
   },
   {
    "date": "2026-10-01",
-   "views": 15037
+   "views": 340
   },
   {
    "date": "2026-10-02",
-   "views": 22723
+   "views": 394
   },
   {
    "date": "2026-10-03",
-   "views": 31850
+   "views": 347
   },
   {
    "date": "2026-10-04",
-   "views": 236023
+   "views": 421
   },
   {
    "date": "2026-10-05",
-   "views": 247828
+   "views": 360
   },
   {
    "date": "2026-10-06",
-   "views": 64532
+   "views": 385
   },
   {
    "date": "2026-10-07",
-   "views": 33226
+   "views": 465
   },
   {
    "date": "2026-10-08",
-   "views": 24410
+   "views": 383
   },
   {
    "date": "2026-10-09",
-   "views": 19956
+   "views": 430
   },
   {
    "date": "2026-10-10",
-   "views": 16838
+   "views": 400
   },
   {
    "date": "2026-10-11",
-   "views": 15741
+   "views": 613
   },
   {
    "date": "2026-10-12",
-   "views": 17118
+   "views": 542
   },
   {
    "date": "2026-10-13",
-   "views": 15445
+   "views": 737
   },
   {
    "date": "2026-10-14",
-   "views": 15995
+   "views": 445
   },
   {
    "date": "2026-10-15",
-   "views": 18205
+   "views": 333
   },
   {
    "date": "2026-10-16",
-   "views": 15725
+   "views": 365
   },
   {
    "date": "2026-10-17",
-   "views": 18277
+   "views": 501
   },
   {
    "date": "2026-10-18",
-   "views": 22465
+   "views": 494
   },
   {
    "date": "2026-10-19",
-   "views": 31879
+   "views": 465
   },
   {
    "date": "2026-10-20",
-   "views": 24493
+   "views": 394
   },
   {
    "date": "2026-10-21",
-   "views": 21116
+   "views": 370
   },
   {
    "date": "2026-10-22",
-   "views": 21291
+   "views": 524
   },
   {
    "date": "2026-10-23",
-   "views": 25060
+   "views": 397
   },
   {
    "date": "2026-10-24",
-   "views": 40087
+   "views": 393
   },
   {
    "date": "2026-10-25",
-   "views": 271783
+   "views": 423
   },
   {
    "date": "2026-10-26",
-   "views": 420940
+   "views": 386
+  },
+  {
+   "date": "2026-10-27",
+   "views": 78580
   }
  ],
- "wikipedia_title": "2026_Brazilian_general_election",
+ "wikipedia_title": "Dick_Ebersol",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

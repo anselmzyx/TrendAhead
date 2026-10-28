@@ -1,197 +1,197 @@
 {
- "title": "Eyebrow Talk",
- "slug": "eyebrow-talk",
- "score": 40,
+ "title": "Tanner McKee",
+ "slug": "tanner-mckee",
+ "score": 37,
  "status": "Breaking out",
- "change_percent": 258233,
- "growth_ratio": 232.5,
- "recent_avg": 23250,
- "baseline_avg": 9,
- "explanation": "Attention is 232\u00d7 its 30-day baseline.",
+ "change_percent": 1143,
+ "growth_ratio": 12.43,
+ "recent_avg": 55521,
+ "baseline_avg": 4466,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 23241,
- "latest": 68616,
+ "abs_change": 51055,
+ "latest": 133210,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
+  "acceleration": 0.644,
+  "anomaly": 0.601,
   "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.683,
-  "spike_quality": 0.51
+  "volume": 0.872,
+  "spike_quality": 0.656
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 23,250 views/day over the last 3 days (30-day baseline: 9)."
+  "Averaging 55,521 views/day over the last 3 days (30-day baseline: 4,466)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 1
-  },
-  {
    "date": "2026-09-18",
-   "views": 6
+   "views": 112
   },
   {
    "date": "2026-09-19",
-   "views": 4
+   "views": 183
   },
   {
    "date": "2026-09-20",
-   "views": 7
+   "views": 271
   },
   {
    "date": "2026-09-21",
-   "views": 8
+   "views": 194
   },
   {
    "date": "2026-09-22",
-   "views": 4
+   "views": 219
   },
   {
    "date": "2026-09-23",
-   "views": 7
+   "views": 222
   },
   {
    "date": "2026-09-24",
-   "views": 7
+   "views": 178
   },
   {
    "date": "2026-09-25",
-   "views": 12
+   "views": 144
   },
   {
    "date": "2026-09-26",
-   "views": 7
+   "views": 117
   },
   {
    "date": "2026-09-27",
-   "views": 7
+   "views": 143
   },
   {
    "date": "2026-09-28",
-   "views": 8
+   "views": 255
   },
   {
    "date": "2026-09-29",
-   "views": 7
+   "views": 2009
   },
   {
    "date": "2026-09-30",
-   "views": 13
+   "views": 278
   },
   {
    "date": "2026-10-01",
-   "views": 10
+   "views": 169
   },
   {
    "date": "2026-10-02",
-   "views": 9
+   "views": 168
   },
   {
    "date": "2026-10-03",
-   "views": 15
+   "views": 146
   },
   {
    "date": "2026-10-04",
-   "views": 8
+   "views": 410
   },
   {
    "date": "2026-10-05",
-   "views": 5
+   "views": 203
   },
   {
    "date": "2026-10-06",
-   "views": 7
+   "views": 149
   },
   {
    "date": "2026-10-07",
-   "views": 8
+   "views": 187
   },
   {
    "date": "2026-10-08",
-   "views": 9
+   "views": 163
   },
   {
    "date": "2026-10-09",
-   "views": 10
+   "views": 606
   },
   {
    "date": "2026-10-10",
-   "views": 6
+   "views": 681
   },
   {
    "date": "2026-10-11",
-   "views": 8
+   "views": 652
   },
   {
    "date": "2026-10-12",
-   "views": 9
+   "views": 231
   },
   {
    "date": "2026-10-13",
-   "views": 18
+   "views": 164
   },
   {
    "date": "2026-10-14",
-   "views": 8
+   "views": 126
   },
   {
    "date": "2026-10-15",
-   "views": 12
+   "views": 18233
   },
   {
    "date": "2026-10-16",
-   "views": 9
+   "views": 18249
   },
   {
    "date": "2026-10-17",
-   "views": 16
+   "views": 12233
   },
   {
    "date": "2026-10-18",
-   "views": 8
+   "views": 40089
   },
   {
    "date": "2026-10-19",
-   "views": 16
+   "views": 14111
   },
   {
    "date": "2026-10-20",
-   "views": 10
+   "views": 8622
   },
   {
    "date": "2026-10-21",
-   "views": 10
+   "views": 5392
   },
   {
    "date": "2026-10-22",
-   "views": 7
+   "views": 4220
   },
   {
    "date": "2026-10-23",
-   "views": 5
+   "views": 3278
   },
   {
    "date": "2026-10-24",
-   "views": 8
+   "views": 2538
   },
   {
    "date": "2026-10-25",
-   "views": 1125
+   "views": 5030
   },
   {
    "date": "2026-10-26",
-   "views": 68616
+   "views": 28322
+  },
+  {
+   "date": "2026-10-27",
+   "views": 133210
   }
  ],
- "wikipedia_title": "Eyebrow_Talk",
+ "wikipedia_title": "Tanner_McKee",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

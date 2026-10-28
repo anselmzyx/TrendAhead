@@ -1,197 +1,197 @@
 {
- "title": "Luiz In\u00e1cio Lula da Silva",
- "slug": "luiz-inacio-lula-da-silva",
- "score": 53,
+ "title": "Susan Saint James",
+ "slug": "susan-saint-james",
+ "score": 40,
  "status": "Breaking out",
- "change_percent": 1520,
- "growth_ratio": 16.2,
- "recent_avg": 155185,
- "baseline_avg": 9578,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "change_percent": 11725,
+ "growth_ratio": 118.26,
+ "recent_avg": 99922,
+ "baseline_avg": 845,
+ "explanation": "Attention is 118\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 145607,
- "latest": 396488,
+ "abs_change": 99077,
+ "latest": 298410,
  "components": {
-  "acceleration": 0.712,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.867,
   "volume": 1.0,
-  "spike_quality": 0.616
+  "spike_quality": 0.509
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 155,185 views/day over the last 3 days (30-day baseline: 9,578)."
+  "Averaging 99,922 views/day over the last 3 days (30-day baseline: 845)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 2450
-  },
-  {
    "date": "2026-09-18",
-   "views": 2401
+   "views": 576
   },
   {
    "date": "2026-09-19",
-   "views": 2079
+   "views": 739
   },
   {
    "date": "2026-09-20",
-   "views": 2413
+   "views": 715
   },
   {
    "date": "2026-09-21",
-   "views": 3368
+   "views": 895
   },
   {
    "date": "2026-09-22",
-   "views": 5944
+   "views": 612
   },
   {
    "date": "2026-09-23",
-   "views": 3890
+   "views": 616
   },
   {
    "date": "2026-09-24",
-   "views": 3384
+   "views": 2801
   },
   {
    "date": "2026-09-25",
-   "views": 3950
+   "views": 3114
   },
   {
    "date": "2026-09-26",
-   "views": 5075
+   "views": 927
   },
   {
    "date": "2026-09-27",
-   "views": 5336
+   "views": 1007
   },
   {
    "date": "2026-09-28",
-   "views": 7891
+   "views": 774
   },
   {
    "date": "2026-09-29",
-   "views": 6174
+   "views": 693
   },
   {
    "date": "2026-09-30",
-   "views": 5390
+   "views": 601
   },
   {
    "date": "2026-10-01",
-   "views": 5306
+   "views": 646
   },
   {
    "date": "2026-10-02",
-   "views": 7753
+   "views": 626
   },
   {
    "date": "2026-10-03",
-   "views": 9935
+   "views": 631
   },
   {
    "date": "2026-10-04",
-   "views": 35616
+   "views": 768
   },
   {
    "date": "2026-10-05",
-   "views": 60151
+   "views": 658
   },
   {
    "date": "2026-10-06",
-   "views": 18588
+   "views": 720
   },
   {
    "date": "2026-10-07",
-   "views": 10198
+   "views": 1089
   },
   {
    "date": "2026-10-08",
-   "views": 7715
+   "views": 703
   },
   {
    "date": "2026-10-09",
-   "views": 6340
+   "views": 944
   },
   {
    "date": "2026-10-10",
-   "views": 5391
+   "views": 714
   },
   {
    "date": "2026-10-11",
-   "views": 5010
+   "views": 888
   },
   {
    "date": "2026-10-12",
-   "views": 5359
+   "views": 743
   },
   {
    "date": "2026-10-13",
-   "views": 4808
+   "views": 1094
   },
   {
    "date": "2026-10-14",
-   "views": 4909
+   "views": 675
   },
   {
    "date": "2026-10-15",
-   "views": 5560
+   "views": 571
   },
   {
    "date": "2026-10-16",
-   "views": 4866
+   "views": 609
   },
   {
    "date": "2026-10-17",
-   "views": 5397
+   "views": 751
   },
   {
    "date": "2026-10-18",
-   "views": 5777
+   "views": 795
   },
   {
    "date": "2026-10-19",
-   "views": 12583
+   "views": 720
   },
   {
    "date": "2026-10-20",
-   "views": 8545
+   "views": 660
   },
   {
    "date": "2026-10-21",
-   "views": 6593
+   "views": 574
   },
   {
    "date": "2026-10-22",
-   "views": 6267
+   "views": 1350
   },
   {
    "date": "2026-10-23",
-   "views": 7482
+   "views": 661
   },
   {
    "date": "2026-10-24",
-   "views": 15713
+   "views": 641
   },
   {
    "date": "2026-10-25",
-   "views": 53353
+   "views": 722
   },
   {
    "date": "2026-10-26",
-   "views": 396488
+   "views": 634
+  },
+  {
+   "date": "2026-10-27",
+   "views": 298410
   }
  ],
- "wikipedia_title": "Luiz_In\u00e1cio_Lula_da_Silva",
+ "wikipedia_title": "Susan_Saint_James",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

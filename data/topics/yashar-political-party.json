@@ -1,197 +1,198 @@
 {
- "title": "Eric Bauza",
- "slug": "eric-bauza",
- "score": 40,
+ "title": "Yashar (political party)",
+ "slug": "yashar-political-party",
+ "score": 66,
  "status": "Breaking out",
- "change_percent": 12848,
- "growth_ratio": 129.51,
- "recent_avg": 171556,
- "baseline_avg": 1325,
- "explanation": "Attention is 130\u00d7 its 30-day baseline.",
+ "change_percent": 1152,
+ "growth_ratio": 12.52,
+ "recent_avg": 47875,
+ "baseline_avg": 3825,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 170231,
- "latest": 511715,
+ "abs_change": 44050,
+ "latest": 92586,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.646,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 1.0,
-  "spike_quality": 0.509
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.84,
+  "spike_quality": 0.764
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 171,556 views/day over the last 3 days (30-day baseline: 1,325)."
+  "Averaging 47,875 views/day over the last 3 days (30-day baseline: 3,825)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 1981
-  },
-  {
    "date": "2026-09-18",
-   "views": 1697
+   "views": 2065
   },
   {
    "date": "2026-09-19",
-   "views": 2024
+   "views": 1835
   },
   {
    "date": "2026-09-20",
-   "views": 2152
-  },
-  {
-   "date": "2026-09-21",
-   "views": 1744
-  },
-  {
-   "date": "2026-09-22",
-   "views": 1571
-  },
-  {
-   "date": "2026-09-23",
-   "views": 1459
-  },
-  {
-   "date": "2026-09-24",
-   "views": 1391
-  },
-  {
-   "date": "2026-09-25",
-   "views": 1299
-  },
-  {
-   "date": "2026-09-26",
-   "views": 1390
-  },
-  {
-   "date": "2026-09-27",
-   "views": 1469
-  },
-  {
-   "date": "2026-09-28",
-   "views": 1271
-  },
-  {
-   "date": "2026-09-29",
    "views": 1659
   },
   {
+   "date": "2026-09-21",
+   "views": 1404
+  },
+  {
+   "date": "2026-09-22",
+   "views": 1631
+  },
+  {
+   "date": "2026-09-23",
+   "views": 2331
+  },
+  {
+   "date": "2026-09-24",
+   "views": 3431
+  },
+  {
+   "date": "2026-09-25",
+   "views": 4448
+  },
+  {
+   "date": "2026-09-26",
+   "views": 2491
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2419
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2714
+  },
+  {
+   "date": "2026-09-29",
+   "views": 2603
+  },
+  {
    "date": "2026-09-30",
-   "views": 1529
+   "views": 2616
   },
   {
    "date": "2026-10-01",
-   "views": 1434
+   "views": 2663
   },
   {
    "date": "2026-10-02",
-   "views": 1482
+   "views": 3402
   },
   {
    "date": "2026-10-03",
-   "views": 1867
+   "views": 3807
   },
   {
    "date": "2026-10-04",
-   "views": 1842
+   "views": 2956
   },
   {
    "date": "2026-10-05",
-   "views": 1354
+   "views": 3353
   },
   {
    "date": "2026-10-06",
-   "views": 1140
+   "views": 3245
   },
   {
    "date": "2026-10-07",
-   "views": 1128
+   "views": 4012
   },
   {
    "date": "2026-10-08",
-   "views": 1057
+   "views": 3259
   },
   {
    "date": "2026-10-09",
-   "views": 953
+   "views": 2572
   },
   {
    "date": "2026-10-10",
-   "views": 1220
+   "views": 2370
   },
   {
    "date": "2026-10-11",
-   "views": 1290
+   "views": 2518
   },
   {
    "date": "2026-10-12",
-   "views": 1062
+   "views": 2900
   },
   {
    "date": "2026-10-13",
-   "views": 1105
+   "views": 2521
   },
   {
    "date": "2026-10-14",
-   "views": 1147
+   "views": 3155
   },
   {
    "date": "2026-10-15",
-   "views": 1189
+   "views": 3738
   },
   {
    "date": "2026-10-16",
-   "views": 1171
+   "views": 3321
   },
   {
    "date": "2026-10-17",
-   "views": 1463
+   "views": 3191
   },
   {
    "date": "2026-10-18",
-   "views": 1622
+   "views": 6517
   },
   {
    "date": "2026-10-19",
-   "views": 1366
+   "views": 6327
   },
   {
    "date": "2026-10-20",
-   "views": 1160
+   "views": 5901
   },
   {
    "date": "2026-10-21",
-   "views": 1309
+   "views": 5687
   },
   {
    "date": "2026-10-22",
-   "views": 1206
+   "views": 5965
   },
   {
    "date": "2026-10-23",
-   "views": 1164
+   "views": 6449
   },
   {
    "date": "2026-10-24",
-   "views": 1547
+   "views": 7616
   },
   {
    "date": "2026-10-25",
-   "views": 1406
+   "views": 17368
   },
   {
    "date": "2026-10-26",
-   "views": 511715
+   "views": 33672
+  },
+  {
+   "date": "2026-10-27",
+   "views": 92586
   }
  ],
- "wikipedia_title": "Eric_Bauza",
+ "wikipedia_title": "Yashar_(political_party)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

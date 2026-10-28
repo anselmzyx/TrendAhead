@@ -1,197 +1,198 @@
 {
- "title": "Billy Evans (businessman)",
- "slug": "billy-evans-businessman",
- "score": 56,
+ "title": "Opinion polling for the 2026 Israeli legislative election",
+ "slug": "opinion-polling-for-the-2026-israeli-legislative-election",
+ "score": 59,
  "status": "Building",
- "change_percent": 1433,
- "growth_ratio": 15.33,
- "recent_avg": 87394,
- "baseline_avg": 5702,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "change_percent": 403,
+ "growth_ratio": 5.03,
+ "recent_avg": 58137,
+ "baseline_avg": 11555,
+ "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 81692,
- "latest": 84320,
+ "abs_change": 46582,
+ "latest": 100265,
  "components": {
-  "acceleration": 0.698,
-  "anomaly": 0.495,
-  "persistence": 0.92,
-  "momentum": 0.729,
-  "volume": 0.971,
-  "spike_quality": 0.896
+  "acceleration": 0.413,
+  "anomaly": 1.0,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.882,
+  "spike_quality": 0.844
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 87,394 views/day over the last 3 days (30-day baseline: 5,702)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 58,137 views/day over the last 3 days (30-day baseline: 11,555)."
  ],
  "history": [
   {
-   "date": "2026-09-17",
-   "views": 0
-  },
-  {
    "date": "2026-09-18",
-   "views": 0
+   "views": 7282
   },
   {
    "date": "2026-09-19",
-   "views": 0
+   "views": 6196
   },
   {
    "date": "2026-09-20",
-   "views": 0
+   "views": 6507
   },
   {
    "date": "2026-09-21",
-   "views": 0
+   "views": 6033
   },
   {
    "date": "2026-09-22",
-   "views": 0
+   "views": 7087
   },
   {
    "date": "2026-09-23",
-   "views": 0
+   "views": 8797
   },
   {
    "date": "2026-09-24",
-   "views": 0
+   "views": 11276
   },
   {
    "date": "2026-09-25",
-   "views": 0
+   "views": 10818
   },
   {
    "date": "2026-09-26",
-   "views": 0
+   "views": 7953
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 8374
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 9220
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 9051
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 9462
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 9892
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 9646
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 8732
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 9217
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 10002
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 9511
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 12175
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 10992
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 9340
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 8153
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 8791
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 9845
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 10130
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 10326
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 10986
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 10120
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 9598
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 18101
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 19021
   },
   {
    "date": "2026-10-20",
-   "views": 5718
+   "views": 17454
   },
   {
    "date": "2026-10-21",
-   "views": 52850
+   "views": 16931
   },
   {
    "date": "2026-10-22",
-   "views": 55574
+   "views": 17578
   },
   {
    "date": "2026-10-23",
-   "views": 56920
+   "views": 18425
   },
   {
    "date": "2026-10-24",
-   "views": 82296
+   "views": 16818
   },
   {
    "date": "2026-10-25",
-   "views": 95566
+   "views": 23371
   },
   {
    "date": "2026-10-26",
-   "views": 84320
+   "views": 50775
+  },
+  {
+   "date": "2026-10-27",
+   "views": 100265
   }
  ],
- "wikipedia_title": "Billy_Evans_(businessman)",
+ "wikipedia_title": "Opinion_polling_for_the_2026_Israeli_legislative_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }

@@ -1,0 +1,197 @@
+{
+ "title": "2026 United States elections",
+ "slug": "2026-united-states-elections",
+ "score": 31,
+ "status": "Elevated",
+ "change_percent": 122,
+ "growth_ratio": 2.22,
+ "recent_avg": 67671,
+ "baseline_avg": 30520,
+ "explanation": "Attention is 2.2\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 37151,
+ "latest": 66149,
+ "components": {
+  "acceleration": 0.204,
+  "anomaly": 0.42,
+  "persistence": 0.64,
+  "momentum": 0.696,
+  "volume": 0.915,
+  "spike_quality": 0.876
+ },
+ "why": [
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 67,671 views/day over the last 3 days (30-day baseline: 30,520)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-18",
+   "views": 21686
+  },
+  {
+   "date": "2026-09-19",
+   "views": 18409
+  },
+  {
+   "date": "2026-09-20",
+   "views": 18460
+  },
+  {
+   "date": "2026-09-21",
+   "views": 20997
+  },
+  {
+   "date": "2026-09-22",
+   "views": 22929
+  },
+  {
+   "date": "2026-09-23",
+   "views": 23069
+  },
+  {
+   "date": "2026-09-24",
+   "views": 20235
+  },
+  {
+   "date": "2026-09-25",
+   "views": 18364
+  },
+  {
+   "date": "2026-09-26",
+   "views": 19542
+  },
+  {
+   "date": "2026-09-27",
+   "views": 17572
+  },
+  {
+   "date": "2026-09-28",
+   "views": 21773
+  },
+  {
+   "date": "2026-09-29",
+   "views": 22145
+  },
+  {
+   "date": "2026-09-30",
+   "views": 20158
+  },
+  {
+   "date": "2026-10-01",
+   "views": 20846
+  },
+  {
+   "date": "2026-10-02",
+   "views": 21527
+  },
+  {
+   "date": "2026-10-03",
+   "views": 21693
+  },
+  {
+   "date": "2026-10-04",
+   "views": 23835
+  },
+  {
+   "date": "2026-10-05",
+   "views": 27907
+  },
+  {
+   "date": "2026-10-06",
+   "views": 28387
+  },
+  {
+   "date": "2026-10-07",
+   "views": 27072
+  },
+  {
+   "date": "2026-10-08",
+   "views": 29506
+  },
+  {
+   "date": "2026-10-09",
+   "views": 30946
+  },
+  {
+   "date": "2026-10-10",
+   "views": 29069
+  },
+  {
+   "date": "2026-10-11",
+   "views": 29877
+  },
+  {
+   "date": "2026-10-12",
+   "views": 34213
+  },
+  {
+   "date": "2026-10-13",
+   "views": 34228
+  },
+  {
+   "date": "2026-10-14",
+   "views": 35082
+  },
+  {
+   "date": "2026-10-15",
+   "views": 35189
+  },
+  {
+   "date": "2026-10-16",
+   "views": 32127
+  },
+  {
+   "date": "2026-10-17",
+   "views": 31730
+  },
+  {
+   "date": "2026-10-18",
+   "views": 34956
+  },
+  {
+   "date": "2026-10-19",
+   "views": 40470
+  },
+  {
+   "date": "2026-10-20",
+   "views": 43689
+  },
+  {
+   "date": "2026-10-21",
+   "views": 44850
+  },
+  {
+   "date": "2026-10-22",
+   "views": 48650
+  },
+  {
+   "date": "2026-10-23",
+   "views": 47215
+  },
+  {
+   "date": "2026-10-24",
+   "views": 42984
+  },
+  {
+   "date": "2026-10-25",
+   "views": 56877
+  },
+  {
+   "date": "2026-10-26",
+   "views": 79986
+  },
+  {
+   "date": "2026-10-27",
+   "views": 66149
+  }
+ ],
+ "wikipedia_title": "2026_United_States_elections",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
+}

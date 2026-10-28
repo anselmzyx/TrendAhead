@@ -1,38 +1,33 @@
 {
  "title": "2026 Serbian parliamentary election",
  "slug": "2026-serbian-parliamentary-election",
- "score": 83,
- "status": "Building",
- "change_percent": 3835,
- "growth_ratio": 39.35,
- "recent_avg": 182155,
- "baseline_avg": 4629,
- "explanation": "Attention is 39\u00d7 its 30-day baseline.",
+ "score": 35,
+ "status": "Peaked / fading",
+ "change_percent": 3984,
+ "growth_ratio": 40.84,
+ "recent_avg": 204542,
+ "baseline_avg": 5008,
+ "explanation": "Attention surged to 41\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 177526,
- "latest": 290392,
+ "abs_change": 199534,
+ "latest": 80751,
  "components": {
-  "acceleration": 0.939,
+  "acceleration": 0.948,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.367,
   "volume": 1.0,
-  "spike_quality": 0.794
+  "spike_quality": 0.465
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 182,155 views/day over the last 3 days (30-day baseline: 4,629)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 204,542 views/day over the last 3 days (30-day baseline: 5,008)."
  ],
  "history": [
-  {
-   "date": "2026-09-17",
-   "views": 2703
-  },
   {
    "date": "2026-09-18",
    "views": 2822
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-26",
    "views": 290392
+  },
+  {
+   "date": "2026-10-27",
+   "views": 80751
   }
  ],
  "wikipedia_title": "2026_Serbian_parliamentary_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-26",
- "generated_at_utc": "2026-10-27T10:53:58+00:00"
+ "data_through": "2026-10-27",
+ "generated_at_utc": "2026-10-28T11:35:04+00:00"
 }
