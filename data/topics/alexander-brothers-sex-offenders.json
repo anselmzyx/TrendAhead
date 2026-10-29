@@ -1,198 +1,198 @@
 {
- "title": "Student List",
- "slug": "student-list",
- "score": 35,
- "status": "Peaked / fading",
- "change_percent": 5074,
- "growth_ratio": 51.74,
- "recent_avg": 112115,
- "baseline_avg": 2167,
- "explanation": "Attention surged to 52\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Alexander brothers (sex offenders)",
+ "slug": "alexander-brothers-sex-offenders",
+ "score": 66,
+ "status": "Breaking out",
+ "change_percent": 4921,
+ "growth_ratio": 50.21,
+ "recent_avg": 49560,
+ "baseline_avg": 987,
+ "explanation": "Attention is 50\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 109948,
- "latest": 61012,
+ "abs_change": 48573,
+ "latest": 101671,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.396,
-  "volume": 1.0,
-  "spike_quality": 0.445
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.848,
+  "spike_quality": 0.701
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 112,115 views/day over the last 3 days (30-day baseline: 2,167)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 49,560 views/day over the last 3 days (30-day baseline: 987)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 1212
-  },
-  {
    "date": "2026-09-19",
-   "views": 1071
+   "views": 185
   },
   {
    "date": "2026-09-20",
-   "views": 1362
+   "views": 207
   },
   {
    "date": "2026-09-21",
-   "views": 1539
+   "views": 217
   },
   {
    "date": "2026-09-22",
-   "views": 1153
+   "views": 243
   },
   {
    "date": "2026-09-23",
-   "views": 1123
+   "views": 206
   },
   {
    "date": "2026-09-24",
-   "views": 814
+   "views": 164
   },
   {
    "date": "2026-09-25",
-   "views": 808
+   "views": 188
   },
   {
    "date": "2026-09-26",
-   "views": 911
+   "views": 205
   },
   {
    "date": "2026-09-27",
-   "views": 2870
+   "views": 181
   },
   {
    "date": "2026-09-28",
-   "views": 3446
+   "views": 571
   },
   {
    "date": "2026-09-29",
-   "views": 1604
+   "views": 262
   },
   {
    "date": "2026-09-30",
-   "views": 1299
+   "views": 259
   },
   {
    "date": "2026-10-01",
-   "views": 1056
+   "views": 252
   },
   {
    "date": "2026-10-02",
-   "views": 919
+   "views": 317
   },
   {
    "date": "2026-10-03",
-   "views": 996
+   "views": 244
   },
   {
    "date": "2026-10-04",
-   "views": 1640
+   "views": 281
   },
   {
    "date": "2026-10-05",
-   "views": 1119
+   "views": 283
   },
   {
    "date": "2026-10-06",
-   "views": 966
+   "views": 908
   },
   {
    "date": "2026-10-07",
-   "views": 1463
+   "views": 1017
   },
   {
    "date": "2026-10-08",
-   "views": 1191
+   "views": 1318
   },
   {
    "date": "2026-10-09",
-   "views": 1096
+   "views": 1130
   },
   {
    "date": "2026-10-10",
-   "views": 1064
+   "views": 714
   },
   {
    "date": "2026-10-11",
-   "views": 1046
+   "views": 558
   },
   {
    "date": "2026-10-12",
-   "views": 1223
+   "views": 458
   },
   {
    "date": "2026-10-13",
-   "views": 1271
+   "views": 417
   },
   {
    "date": "2026-10-14",
-   "views": 1070
+   "views": 2631
   },
   {
    "date": "2026-10-15",
-   "views": 1176
+   "views": 4451
   },
   {
    "date": "2026-10-16",
-   "views": 2066
+   "views": 1683
   },
   {
    "date": "2026-10-17",
-   "views": 2635
+   "views": 831
   },
   {
    "date": "2026-10-18",
-   "views": 1750
+   "views": 1834
   },
   {
    "date": "2026-10-19",
-   "views": 1758
+   "views": 910
   },
   {
    "date": "2026-10-20",
-   "views": 4462
+   "views": 870
   },
   {
    "date": "2026-10-21",
-   "views": 4804
+   "views": 503
   },
   {
    "date": "2026-10-22",
-   "views": 6064
+   "views": 514
   },
   {
    "date": "2026-10-23",
-   "views": 7373
+   "views": 495
   },
   {
    "date": "2026-10-24",
-   "views": 5863
+   "views": 1278
   },
   {
    "date": "2026-10-25",
-   "views": 88912
+   "views": 4238
   },
   {
    "date": "2026-10-26",
-   "views": 186420
+   "views": 5677
   },
   {
    "date": "2026-10-27",
-   "views": 61012
+   "views": 41333
+  },
+  {
+   "date": "2026-10-28",
+   "views": 101671
   }
  ],
- "wikipedia_title": "Student_List",
+ "wikipedia_title": "Alexander_brothers_(sex_offenders)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

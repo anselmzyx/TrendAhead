@@ -1,198 +1,198 @@
 {
- "title": "Opinion polling for the 2026 Israeli legislative election",
- "slug": "opinion-polling-for-the-2026-israeli-legislative-election",
- "score": 59,
+ "title": "Benjamin Netanyahu",
+ "slug": "benjamin-netanyahu",
+ "score": 56,
  "status": "Building",
- "change_percent": 403,
- "growth_ratio": 5.03,
- "recent_avg": 58137,
- "baseline_avg": 11555,
- "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+ "change_percent": 382,
+ "growth_ratio": 4.82,
+ "recent_avg": 85314,
+ "baseline_avg": 17717,
+ "explanation": "Attention is 4.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 46582,
- "latest": 100265,
+ "abs_change": 67597,
+ "latest": 124772,
  "components": {
-  "acceleration": 0.413,
+  "acceleration": 0.402,
   "anomaly": 1.0,
-  "persistence": 0.8,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 0.882,
-  "spike_quality": 0.844
+  "volume": 0.966,
+  "spike_quality": 0.864
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 58,137 views/day over the last 3 days (30-day baseline: 11,555)."
+  "Averaging 85,314 views/day over the last 3 days (30-day baseline: 17,717)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 7282
-  },
-  {
    "date": "2026-09-19",
-   "views": 6196
+   "views": 12048
   },
   {
    "date": "2026-09-20",
-   "views": 6507
+   "views": 13663
   },
   {
    "date": "2026-09-21",
-   "views": 6033
+   "views": 13268
   },
   {
    "date": "2026-09-22",
-   "views": 7087
+   "views": 14091
   },
   {
    "date": "2026-09-23",
-   "views": 8797
+   "views": 16850
   },
   {
    "date": "2026-09-24",
-   "views": 11276
+   "views": 51878
   },
   {
    "date": "2026-09-25",
-   "views": 10818
+   "views": 88063
   },
   {
    "date": "2026-09-26",
-   "views": 7953
+   "views": 32965
   },
   {
    "date": "2026-09-27",
-   "views": 8374
+   "views": 23229
   },
   {
    "date": "2026-09-28",
-   "views": 9220
+   "views": 23513
   },
   {
    "date": "2026-09-29",
-   "views": 9051
+   "views": 20097
   },
   {
    "date": "2026-09-30",
-   "views": 9462
+   "views": 23057
   },
   {
    "date": "2026-10-01",
-   "views": 9892
+   "views": 32980
   },
   {
    "date": "2026-10-02",
-   "views": 9646
+   "views": 21197
   },
   {
    "date": "2026-10-03",
-   "views": 8732
+   "views": 17483
   },
   {
    "date": "2026-10-04",
-   "views": 9217
+   "views": 18006
   },
   {
    "date": "2026-10-05",
-   "views": 10002
+   "views": 15990
   },
   {
    "date": "2026-10-06",
-   "views": 9511
+   "views": 15009
   },
   {
    "date": "2026-10-07",
-   "views": 12175
+   "views": 17197
   },
   {
    "date": "2026-10-08",
-   "views": 10992
+   "views": 14524
   },
   {
    "date": "2026-10-09",
-   "views": 9340
+   "views": 12879
   },
   {
    "date": "2026-10-10",
-   "views": 8153
+   "views": 11950
   },
   {
    "date": "2026-10-11",
-   "views": 8791
+   "views": 11987
   },
   {
    "date": "2026-10-12",
-   "views": 9845
+   "views": 12490
   },
   {
    "date": "2026-10-13",
-   "views": 10130
+   "views": 11264
   },
   {
    "date": "2026-10-14",
-   "views": 10326
+   "views": 11176
   },
   {
    "date": "2026-10-15",
-   "views": 10986
+   "views": 11135
   },
   {
    "date": "2026-10-16",
-   "views": 10120
+   "views": 11666
   },
   {
    "date": "2026-10-17",
-   "views": 9598
+   "views": 10811
   },
   {
    "date": "2026-10-18",
-   "views": 18101
+   "views": 15755
   },
   {
    "date": "2026-10-19",
-   "views": 19021
+   "views": 15888
   },
   {
    "date": "2026-10-20",
-   "views": 17454
+   "views": 16467
   },
   {
    "date": "2026-10-21",
-   "views": 16931
+   "views": 27221
   },
   {
    "date": "2026-10-22",
-   "views": 17578
+   "views": 19809
   },
   {
    "date": "2026-10-23",
-   "views": 18425
+   "views": 17916
   },
   {
    "date": "2026-10-24",
-   "views": 16818
+   "views": 15789
   },
   {
    "date": "2026-10-25",
-   "views": 23371
+   "views": 22063
   },
   {
    "date": "2026-10-26",
-   "views": 50775
+   "views": 38462
   },
   {
    "date": "2026-10-27",
-   "views": 100265
+   "views": 92708
+  },
+  {
+   "date": "2026-10-28",
+   "views": 124772
   }
  ],
- "wikipedia_title": "Opinion_polling_for_the_2026_Israeli_legislative_election",
+ "wikipedia_title": "Benjamin_Netanyahu",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

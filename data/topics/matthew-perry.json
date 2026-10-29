@@ -1,198 +1,198 @@
 {
- "title": "Yashar (political party)",
- "slug": "yashar-political-party",
- "score": 66,
- "status": "Breaking out",
- "change_percent": 1152,
- "growth_ratio": 12.52,
- "recent_avg": 47875,
- "baseline_avg": 3825,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "title": "Matthew Perry",
+ "slug": "matthew-perry",
+ "score": 59,
+ "status": "Building",
+ "change_percent": 884,
+ "growth_ratio": 9.84,
+ "recent_avg": 74093,
+ "baseline_avg": 7533,
+ "explanation": "Attention is 9.8\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 44050,
- "latest": 92586,
+ "abs_change": 66560,
+ "latest": 127771,
  "components": {
-  "acceleration": 0.646,
+  "acceleration": 0.584,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.84,
-  "spike_quality": 0.764
+  "persistence": 0.72,
+  "momentum": 0.933,
+  "volume": 0.935,
+  "spike_quality": 0.806
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,875 views/day over the last 3 days (30-day baseline: 3,825)."
+  "Averaging 74,093 views/day over the last 3 days (30-day baseline: 7,533)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 2065
-  },
-  {
    "date": "2026-09-19",
-   "views": 1835
+   "views": 5459
   },
   {
    "date": "2026-09-20",
-   "views": 1659
+   "views": 5992
   },
   {
    "date": "2026-09-21",
-   "views": 1404
+   "views": 6264
   },
   {
    "date": "2026-09-22",
-   "views": 1631
+   "views": 6146
   },
   {
    "date": "2026-09-23",
-   "views": 2331
+   "views": 6636
   },
   {
    "date": "2026-09-24",
-   "views": 3431
+   "views": 6196
   },
   {
    "date": "2026-09-25",
-   "views": 4448
+   "views": 5510
   },
   {
    "date": "2026-09-26",
-   "views": 2491
+   "views": 6259
   },
   {
    "date": "2026-09-27",
-   "views": 2419
+   "views": 6797
   },
   {
    "date": "2026-09-28",
-   "views": 2714
+   "views": 6139
   },
   {
    "date": "2026-09-29",
-   "views": 2603
+   "views": 12728
   },
   {
    "date": "2026-09-30",
-   "views": 2616
+   "views": 11705
   },
   {
    "date": "2026-10-01",
-   "views": 2663
+   "views": 7805
   },
   {
    "date": "2026-10-02",
-   "views": 3402
+   "views": 6300
   },
   {
    "date": "2026-10-03",
-   "views": 3807
+   "views": 6968
   },
   {
    "date": "2026-10-04",
-   "views": 2956
+   "views": 7577
   },
   {
    "date": "2026-10-05",
-   "views": 3353
+   "views": 6759
   },
   {
    "date": "2026-10-06",
-   "views": 3245
+   "views": 6445
   },
   {
    "date": "2026-10-07",
-   "views": 4012
+   "views": 5920
   },
   {
    "date": "2026-10-08",
-   "views": 3259
+   "views": 5216
   },
   {
    "date": "2026-10-09",
-   "views": 2572
+   "views": 6154
   },
   {
    "date": "2026-10-10",
-   "views": 2370
+   "views": 5931
   },
   {
    "date": "2026-10-11",
-   "views": 2518
+   "views": 6458
   },
   {
    "date": "2026-10-12",
-   "views": 2900
+   "views": 6374
   },
   {
    "date": "2026-10-13",
-   "views": 2521
+   "views": 6267
   },
   {
    "date": "2026-10-14",
-   "views": 3155
+   "views": 6488
   },
   {
    "date": "2026-10-15",
-   "views": 3738
+   "views": 6454
   },
   {
    "date": "2026-10-16",
-   "views": 3321
+   "views": 6189
   },
   {
    "date": "2026-10-17",
-   "views": 3191
+   "views": 6262
   },
   {
    "date": "2026-10-18",
-   "views": 6517
+   "views": 6754
   },
   {
    "date": "2026-10-19",
-   "views": 6327
+   "views": 6404
   },
   {
    "date": "2026-10-20",
-   "views": 5901
+   "views": 6475
   },
   {
    "date": "2026-10-21",
-   "views": 5687
+   "views": 6593
   },
   {
    "date": "2026-10-22",
-   "views": 5965
+   "views": 9421
   },
   {
    "date": "2026-10-23",
-   "views": 6449
+   "views": 7905
   },
   {
    "date": "2026-10-24",
-   "views": 7616
+   "views": 8407
   },
   {
    "date": "2026-10-25",
-   "views": 17368
+   "views": 20829
   },
   {
    "date": "2026-10-26",
-   "views": 33672
+   "views": 15373
   },
   {
    "date": "2026-10-27",
-   "views": 92586
+   "views": 79135
+  },
+  {
+   "date": "2026-10-28",
+   "views": 127771
   }
  ],
- "wikipedia_title": "Yashar_(political_party)",
+ "wikipedia_title": "Matthew_Perry",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

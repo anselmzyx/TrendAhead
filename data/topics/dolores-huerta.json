@@ -1,196 +1,197 @@
 {
- "title": "Andrew Koenig",
- "slug": "andrew-koenig",
- "score": 36,
- "status": "Elevated",
- "change_percent": 3823,
- "growth_ratio": 39.24,
- "recent_avg": 35742,
- "baseline_avg": 911,
- "explanation": "Attention is 39\u00d7 its 30-day baseline.",
+ "title": "Dolores Huerta",
+ "slug": "dolores-huerta",
+ "score": 32,
+ "status": "Breaking out",
+ "change_percent": 3196,
+ "growth_ratio": 32.94,
+ "recent_avg": 25677,
+ "baseline_avg": 779,
+ "explanation": "Attention is 33\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 34831,
- "latest": 46202,
+ "abs_change": 24898,
+ "latest": 76012,
  "components": {
-  "acceleration": 0.938,
+  "acceleration": 0.893,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.657,
-  "volume": 0.777,
-  "spike_quality": 0.64
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.705,
+  "spike_quality": 0.522
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 35,742 views/day over the last 3 days (30-day baseline: 911)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,677 views/day over the last 3 days (30-day baseline: 779)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 636
-  },
-  {
    "date": "2026-09-19",
-   "views": 633
+   "views": 494
   },
   {
    "date": "2026-09-20",
-   "views": 623
+   "views": 491
   },
   {
    "date": "2026-09-21",
-   "views": 604
+   "views": 1005
   },
   {
    "date": "2026-09-22",
-   "views": 554
+   "views": 1174
   },
   {
    "date": "2026-09-23",
-   "views": 678
+   "views": 1270
   },
   {
    "date": "2026-09-24",
-   "views": 692
+   "views": 1241
   },
   {
    "date": "2026-09-25",
-   "views": 551
+   "views": 1086
   },
   {
    "date": "2026-09-26",
-   "views": 585
+   "views": 514
   },
   {
    "date": "2026-09-27",
-   "views": 709
+   "views": 511
   },
   {
    "date": "2026-09-28",
-   "views": 630
+   "views": 1249
   },
   {
    "date": "2026-09-29",
-   "views": 681
+   "views": 1300
   },
   {
    "date": "2026-09-30",
-   "views": 6447
+   "views": 1197
   },
   {
    "date": "2026-10-01",
-   "views": 3629
+   "views": 1258
   },
   {
    "date": "2026-10-02",
-   "views": 1250
+   "views": 1080
   },
   {
    "date": "2026-10-03",
-   "views": 952
+   "views": 405
   },
   {
    "date": "2026-10-04",
-   "views": 851
+   "views": 489
   },
   {
    "date": "2026-10-05",
-   "views": 698
+   "views": 1044
   },
   {
    "date": "2026-10-06",
-   "views": 542
+   "views": 1090
   },
   {
    "date": "2026-10-07",
-   "views": 481
+   "views": 1213
   },
   {
    "date": "2026-10-08",
-   "views": 390
+   "views": 1259
   },
   {
    "date": "2026-10-09",
-   "views": 463
+   "views": 827
   },
   {
    "date": "2026-10-10",
-   "views": 493
+   "views": 469
   },
   {
    "date": "2026-10-11",
-   "views": 691
+   "views": 960
   },
   {
    "date": "2026-10-12",
-   "views": 1059
+   "views": 791
   },
   {
    "date": "2026-10-13",
-   "views": 713
+   "views": 898
   },
   {
    "date": "2026-10-14",
-   "views": 578
+   "views": 878
   },
   {
    "date": "2026-10-15",
-   "views": 463
+   "views": 808
   },
   {
    "date": "2026-10-16",
-   "views": 412
+   "views": 651
   },
   {
    "date": "2026-10-17",
-   "views": 456
+   "views": 364
   },
   {
    "date": "2026-10-18",
-   "views": 674
+   "views": 391
   },
   {
    "date": "2026-10-19",
-   "views": 843
+   "views": 615
   },
   {
    "date": "2026-10-20",
-   "views": 433
+   "views": 589
   },
   {
    "date": "2026-10-21",
-   "views": 424
+   "views": 627
   },
   {
    "date": "2026-10-22",
-   "views": 456
+   "views": 608
   },
   {
    "date": "2026-10-23",
-   "views": 347
+   "views": 522
   },
   {
    "date": "2026-10-24",
-   "views": 421
+   "views": 365
   },
   {
    "date": "2026-10-25",
-   "views": 426
+   "views": 410
   },
   {
    "date": "2026-10-26",
-   "views": 60597
+   "views": 533
   },
   {
    "date": "2026-10-27",
-   "views": 46202
+   "views": 485
+  },
+  {
+   "date": "2026-10-28",
+   "views": 76012
   }
  ],
- "wikipedia_title": "Andrew_Koenig",
+ "wikipedia_title": "Dolores_Huerta",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

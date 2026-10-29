@@ -1,197 +1,198 @@
 {
- "title": "2026 Ballon d'Or",
- "slug": "2026-ballon-d-or",
- "score": 43,
- "status": "Peaked / fading",
- "change_percent": 5227,
- "growth_ratio": 53.27,
- "recent_avg": 237090,
- "baseline_avg": 4451,
- "explanation": "Attention surged to 53\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Together (Israel)",
+ "slug": "together-israel",
+ "score": 69,
+ "status": "Breaking out",
+ "change_percent": 1807,
+ "growth_ratio": 19.07,
+ "recent_avg": 43897,
+ "baseline_avg": 2302,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 232639,
- "latest": 237598,
+ "abs_change": 41595,
+ "latest": 76019,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.754,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.515,
-  "volume": 1.0,
-  "spike_quality": 0.495
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.821,
+  "spike_quality": 0.784
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 237,090 views/day over the last 3 days (30-day baseline: 4,451)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 43,897 views/day over the last 3 days (30-day baseline: 2,302)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 4672
-  },
-  {
    "date": "2026-09-19",
-   "views": 5026
+   "views": 1046
   },
   {
    "date": "2026-09-20",
-   "views": 4585
+   "views": 1098
   },
   {
    "date": "2026-09-21",
-   "views": 3675
+   "views": 906
   },
   {
    "date": "2026-09-22",
-   "views": 4743
+   "views": 986
   },
   {
    "date": "2026-09-23",
-   "views": 4359
+   "views": 1650
   },
   {
    "date": "2026-09-24",
-   "views": 3857
+   "views": 2065
   },
   {
    "date": "2026-09-25",
-   "views": 3236
+   "views": 2020
   },
   {
    "date": "2026-09-26",
-   "views": 3941
+   "views": 1580
   },
   {
    "date": "2026-09-27",
-   "views": 4073
+   "views": 1620
   },
   {
    "date": "2026-09-28",
-   "views": 4225
+   "views": 1578
   },
   {
    "date": "2026-09-29",
-   "views": 4097
+   "views": 1480
   },
   {
    "date": "2026-09-30",
-   "views": 3338
+   "views": 1569
   },
   {
    "date": "2026-10-01",
-   "views": 2868
+   "views": 1819
   },
   {
    "date": "2026-10-02",
-   "views": 2631
+   "views": 2057
   },
   {
    "date": "2026-10-03",
-   "views": 3222
+   "views": 2208
   },
   {
    "date": "2026-10-04",
-   "views": 3165
+   "views": 1932
   },
   {
    "date": "2026-10-05",
-   "views": 3118
+   "views": 1986
   },
   {
    "date": "2026-10-06",
-   "views": 3734
+   "views": 1977
   },
   {
    "date": "2026-10-07",
-   "views": 3423
+   "views": 2208
   },
   {
    "date": "2026-10-08",
-   "views": 2899
+   "views": 1845
   },
   {
    "date": "2026-10-09",
-   "views": 2709
+   "views": 1641
   },
   {
    "date": "2026-10-10",
-   "views": 2583
+   "views": 1589
   },
   {
    "date": "2026-10-11",
-   "views": 2343
+   "views": 1654
   },
   {
    "date": "2026-10-12",
-   "views": 2462
+   "views": 1683
   },
   {
    "date": "2026-10-13",
-   "views": 3917
+   "views": 1429
   },
   {
    "date": "2026-10-14",
-   "views": 4672
+   "views": 1583
   },
   {
    "date": "2026-10-15",
-   "views": 3183
+   "views": 1883
   },
   {
    "date": "2026-10-16",
-   "views": 2914
+   "views": 1819
   },
   {
    "date": "2026-10-17",
-   "views": 3865
+   "views": 1779
   },
   {
    "date": "2026-10-18",
-   "views": 4063
+   "views": 3518
   },
   {
    "date": "2026-10-19",
-   "views": 5074
+   "views": 3499
   },
   {
    "date": "2026-10-20",
-   "views": 6964
+   "views": 3369
   },
   {
    "date": "2026-10-21",
-   "views": 7112
+   "views": 3111
   },
   {
    "date": "2026-10-22",
-   "views": 9951
+   "views": 3174
   },
   {
    "date": "2026-10-23",
-   "views": 11673
+   "views": 3433
   },
   {
    "date": "2026-10-24",
-   "views": 12065
+   "views": 3762
   },
   {
    "date": "2026-10-25",
-   "views": 21279
+   "views": 6288
   },
   {
    "date": "2026-10-26",
-   "views": 452394
+   "views": 14562
   },
   {
    "date": "2026-10-27",
-   "views": 237598
+   "views": 41111
+  },
+  {
+   "date": "2026-10-28",
+   "views": 76019
   }
  ],
- "wikipedia_title": "2026_Ballon_d'Or",
+ "wikipedia_title": "Together_(Israel)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

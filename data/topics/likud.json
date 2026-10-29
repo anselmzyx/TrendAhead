@@ -1,197 +1,198 @@
 {
- "title": "Harry Kane",
- "slug": "harry-kane",
- "score": 48,
- "status": "Breaking out",
- "change_percent": 920,
- "growth_ratio": 10.2,
- "recent_avg": 162268,
- "baseline_avg": 15902,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "title": "Likud",
+ "slug": "likud",
+ "score": 63,
+ "status": "Building",
+ "change_percent": 1346,
+ "growth_ratio": 14.46,
+ "recent_avg": 42992,
+ "baseline_avg": 2973,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 146366,
- "latest": 358958,
+ "abs_change": 40019,
+ "latest": 67622,
  "components": {
-  "acceleration": 0.594,
-  "anomaly": 0.994,
-  "persistence": 0.4,
+  "acceleration": 0.683,
+  "anomaly": 1.0,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.699
+  "volume": 0.817,
+  "spike_quality": 0.816
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 162,268 views/day over the last 3 days (30-day baseline: 15,902)."
+  "Averaging 42,992 views/day over the last 3 days (30-day baseline: 2,973)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 19229
-  },
-  {
    "date": "2026-09-19",
-   "views": 23565
+   "views": 1731
   },
   {
    "date": "2026-09-20",
-   "views": 10037
+   "views": 1869
   },
   {
    "date": "2026-09-21",
-   "views": 8538
+   "views": 1631
   },
   {
    "date": "2026-09-22",
-   "views": 7070
+   "views": 1669
   },
   {
    "date": "2026-09-23",
-   "views": 7035
+   "views": 2143
   },
   {
    "date": "2026-09-24",
-   "views": 8592
+   "views": 3261
   },
   {
    "date": "2026-09-25",
-   "views": 7442
+   "views": 4493
   },
   {
    "date": "2026-09-26",
-   "views": 18821
+   "views": 2551
   },
   {
    "date": "2026-09-27",
-   "views": 11285
+   "views": 2318
   },
   {
    "date": "2026-09-28",
-   "views": 7265
+   "views": 2270
   },
   {
    "date": "2026-09-29",
-   "views": 22885
+   "views": 2248
   },
   {
    "date": "2026-09-30",
-   "views": 15133
+   "views": 2672
   },
   {
    "date": "2026-10-01",
-   "views": 8202
+   "views": 2734
   },
   {
    "date": "2026-10-02",
-   "views": 6468
+   "views": 3381
   },
   {
    "date": "2026-10-03",
-   "views": 47481
+   "views": 3684
   },
   {
    "date": "2026-10-04",
-   "views": 25512
+   "views": 3298
   },
   {
    "date": "2026-10-05",
-   "views": 14757
+   "views": 2932
   },
   {
    "date": "2026-10-06",
-   "views": 74309
+   "views": 2538
   },
   {
    "date": "2026-10-07",
-   "views": 44897
+   "views": 2956
   },
   {
    "date": "2026-10-08",
-   "views": 13393
+   "views": 2660
   },
   {
    "date": "2026-10-09",
-   "views": 8270
+   "views": 2281
   },
   {
    "date": "2026-10-10",
-   "views": 8223
+   "views": 2047
   },
   {
    "date": "2026-10-11",
-   "views": 6597
+   "views": 2227
   },
   {
    "date": "2026-10-12",
-   "views": 5531
+   "views": 2189
   },
   {
    "date": "2026-10-13",
-   "views": 9398
+   "views": 1984
   },
   {
    "date": "2026-10-14",
-   "views": 10648
+   "views": 2212
   },
   {
    "date": "2026-10-15",
-   "views": 8927
+   "views": 2381
   },
   {
    "date": "2026-10-16",
-   "views": 7522
+   "views": 2117
   },
   {
    "date": "2026-10-17",
-   "views": 10744
+   "views": 1993
   },
   {
    "date": "2026-10-18",
-   "views": 11796
+   "views": 3704
   },
   {
    "date": "2026-10-19",
-   "views": 6932
+   "views": 3689
   },
   {
    "date": "2026-10-20",
-   "views": 6775
+   "views": 3681
   },
   {
    "date": "2026-10-21",
-   "views": 18794
+   "views": 3622
   },
   {
    "date": "2026-10-22",
-   "views": 18191
+   "views": 3696
   },
   {
    "date": "2026-10-23",
-   "views": 11447
+   "views": 3766
   },
   {
    "date": "2026-10-24",
-   "views": 9418
+   "views": 4046
   },
   {
    "date": "2026-10-25",
-   "views": 9785
+   "views": 7314
   },
   {
    "date": "2026-10-26",
-   "views": 118062
+   "views": 15602
   },
   {
    "date": "2026-10-27",
-   "views": 358958
+   "views": 45752
+  },
+  {
+   "date": "2026-10-28",
+   "views": 67622
   }
  ],
- "wikipedia_title": "Harry_Kane",
+ "wikipedia_title": "Likud",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

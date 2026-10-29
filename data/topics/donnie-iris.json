@@ -1,37 +1,32 @@
 {
  "title": "Donnie Iris",
  "slug": "donnie-iris",
- "score": 47,
- "status": "Breaking out",
- "change_percent": 9771,
- "growth_ratio": 98.6,
- "recent_avg": 43529,
- "baseline_avg": 441,
- "explanation": "Attention is 99\u00d7 its 30-day baseline.",
+ "score": 38,
+ "status": "Elevated",
+ "change_percent": 15157,
+ "growth_ratio": 152.58,
+ "recent_avg": 67131,
+ "baseline_avg": 440,
+ "explanation": "Attention is 153\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 43088,
- "latest": 115635,
+ "abs_change": 66691,
+ "latest": 70990,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.819,
-  "spike_quality": 0.57
+  "persistence": 0.52,
+  "momentum": 0.568,
+  "volume": 0.913,
+  "spike_quality": 0.557
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 43,529 views/day over the last 3 days (30-day baseline: 441)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 67,131 views/day over the last 3 days (30-day baseline: 440)."
  ],
  "history": [
-  {
-   "date": "2026-09-18",
-   "views": 216
-  },
   {
    "date": "2026-09-19",
    "views": 215
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-27",
    "views": 115635
+  },
+  {
+   "date": "2026-10-28",
+   "views": 70990
   }
  ],
  "wikipedia_title": "Donnie_Iris",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

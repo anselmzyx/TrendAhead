@@ -1,197 +1,198 @@
 {
- "title": "Exponential time hypothesis",
- "slug": "exponential-time-hypothesis",
- "score": 45,
+ "title": "Noah Wyle",
+ "slug": "noah-wyle",
+ "score": 49,
  "status": "Breaking out",
- "change_percent": 58830,
- "growth_ratio": 318.22,
- "recent_avg": 31822,
- "baseline_avg": 54,
- "explanation": "Attention is 318\u00d7 its 30-day baseline.",
+ "change_percent": 1130,
+ "growth_ratio": 12.3,
+ "recent_avg": 44718,
+ "baseline_avg": 3635,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31768,
- "latest": 82520,
+ "abs_change": 41083,
+ "latest": 68886,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.642,
   "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.751,
-  "spike_quality": 0.58
+  "volume": 0.825,
+  "spike_quality": 0.809
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 31,822 views/day over the last 3 days (30-day baseline: 54)."
+  "Averaging 44,718 views/day over the last 3 days (30-day baseline: 3,635)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 35
-  },
-  {
    "date": "2026-09-19",
-   "views": 27
+   "views": 7440
   },
   {
    "date": "2026-09-20",
-   "views": 29
+   "views": 7509
   },
   {
    "date": "2026-09-21",
-   "views": 53
+   "views": 5966
   },
   {
    "date": "2026-09-22",
-   "views": 46
+   "views": 5271
   },
   {
    "date": "2026-09-23",
-   "views": 41
+   "views": 4898
   },
   {
    "date": "2026-09-24",
-   "views": 27
+   "views": 4594
   },
   {
    "date": "2026-09-25",
-   "views": 37
+   "views": 4579
   },
   {
    "date": "2026-09-26",
-   "views": 17
+   "views": 4545
   },
   {
    "date": "2026-09-27",
-   "views": 39
+   "views": 5080
   },
   {
    "date": "2026-09-28",
-   "views": 34
+   "views": 4825
   },
   {
    "date": "2026-09-29",
-   "views": 32
+   "views": 3795
   },
   {
    "date": "2026-09-30",
-   "views": 34
+   "views": 3916
   },
   {
    "date": "2026-10-01",
-   "views": 29
+   "views": 3528
   },
   {
    "date": "2026-10-02",
-   "views": 20
+   "views": 3777
   },
   {
    "date": "2026-10-03",
-   "views": 27
+   "views": 4169
   },
   {
    "date": "2026-10-04",
-   "views": 25
+   "views": 4414
   },
   {
    "date": "2026-10-05",
-   "views": 35
+   "views": 3769
   },
   {
    "date": "2026-10-06",
-   "views": 348
+   "views": 3492
   },
   {
    "date": "2026-10-07",
-   "views": 121
+   "views": 3261
   },
   {
    "date": "2026-10-08",
-   "views": 56
+   "views": 3151
   },
   {
    "date": "2026-10-09",
-   "views": 61
+   "views": 3304
   },
   {
    "date": "2026-10-10",
-   "views": 51
+   "views": 4406
   },
   {
    "date": "2026-10-11",
-   "views": 29
+   "views": 3948
   },
   {
    "date": "2026-10-12",
-   "views": 36
+   "views": 3510
   },
   {
    "date": "2026-10-13",
-   "views": 48
+   "views": 3174
   },
   {
    "date": "2026-10-14",
-   "views": 40
+   "views": 3048
   },
   {
    "date": "2026-10-15",
-   "views": 37
+   "views": 3113
   },
   {
    "date": "2026-10-16",
-   "views": 22
+   "views": 3301
   },
   {
    "date": "2026-10-17",
-   "views": 71
+   "views": 3380
   },
   {
    "date": "2026-10-18",
-   "views": 66
+   "views": 3370
   },
   {
    "date": "2026-10-19",
-   "views": 74
+   "views": 3922
   },
   {
    "date": "2026-10-20",
-   "views": 53
+   "views": 3256
   },
   {
    "date": "2026-10-21",
-   "views": 57
+   "views": 3141
   },
   {
    "date": "2026-10-22",
-   "views": 53
+   "views": 2960
   },
   {
    "date": "2026-10-23",
-   "views": 44
+   "views": 3111
   },
   {
    "date": "2026-10-24",
-   "views": 29
+   "views": 3221
   },
   {
    "date": "2026-10-25",
-   "views": 37
+   "views": 3163
   },
   {
    "date": "2026-10-26",
-   "views": 12910
+   "views": 3238
   },
   {
    "date": "2026-10-27",
-   "views": 82520
+   "views": 62029
+  },
+  {
+   "date": "2026-10-28",
+   "views": 68886
   }
  ],
- "wikipedia_title": "Exponential_time_hypothesis",
+ "wikipedia_title": "Noah_Wyle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

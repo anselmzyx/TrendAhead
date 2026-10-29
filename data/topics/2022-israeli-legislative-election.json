@@ -1,37 +1,34 @@
 {
  "title": "2022 Israeli legislative election",
  "slug": "2022-israeli-legislative-election",
- "score": 58,
+ "score": 76,
  "status": "Breaking out",
- "change_percent": 1518,
- "growth_ratio": 16.17,
- "recent_avg": 28454,
- "baseline_avg": 1759,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "change_percent": 3690,
+ "growth_ratio": 37.9,
+ "recent_avg": 71185,
+ "baseline_avg": 1878,
+ "explanation": "Attention is 38\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26695,
- "latest": 67621,
+ "abs_change": 69307,
+ "latest": 133655,
  "components": {
-  "acceleration": 0.711,
+  "acceleration": 0.929,
   "anomaly": 1.0,
   "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.727,
-  "spike_quality": 0.677
+  "volume": 0.926,
+  "spike_quality": 0.742
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 28,454 views/day over the last 3 days (30-day baseline: 1,759)."
+  "Averaging 71,185 views/day over the last 3 days (30-day baseline: 1,878)."
  ],
  "history": [
-  {
-   "date": "2026-09-18",
-   "views": 978
-  },
   {
    "date": "2026-09-19",
    "views": 811
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-27",
    "views": 67621
+  },
+  {
+   "date": "2026-10-28",
+   "views": 133655
   }
  ],
  "wikipedia_title": "2022_Israeli_legislative_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

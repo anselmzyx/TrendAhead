@@ -1,197 +1,196 @@
 {
- "title": "2026 Serbian parliamentary election",
- "slug": "2026-serbian-parliamentary-election",
- "score": 35,
- "status": "Peaked / fading",
- "change_percent": 3984,
- "growth_ratio": 40.84,
- "recent_avg": 204542,
- "baseline_avg": 5008,
- "explanation": "Attention surged to 41\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Jair Bolsonaro",
+ "slug": "jair-bolsonaro",
+ "score": 37,
+ "status": "Elevated",
+ "change_percent": 987,
+ "growth_ratio": 10.87,
+ "recent_avg": 119021,
+ "baseline_avg": 10945,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 199534,
- "latest": 80751,
+ "abs_change": 108076,
+ "latest": 100598,
  "components": {
-  "acceleration": 0.948,
-  "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.367,
+  "acceleration": 0.61,
+  "anomaly": 0.624,
+  "persistence": 0.72,
+  "momentum": 0.617,
   "volume": 1.0,
-  "spike_quality": 0.465
+  "spike_quality": 0.63
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 204,542 views/day over the last 3 days (30-day baseline: 5,008)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 119,021 views/day over the last 3 days (30-day baseline: 10,945)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 2822
-  },
-  {
    "date": "2026-09-19",
-   "views": 2510
+   "views": 1374
   },
   {
    "date": "2026-09-20",
-   "views": 2726
+   "views": 1733
   },
   {
    "date": "2026-09-21",
-   "views": 3029
+   "views": 1988
   },
   {
    "date": "2026-09-22",
-   "views": 2521
+   "views": 2491
   },
   {
    "date": "2026-09-23",
-   "views": 2377
+   "views": 2052
   },
   {
    "date": "2026-09-24",
-   "views": 2202
+   "views": 1908
   },
   {
    "date": "2026-09-25",
-   "views": 2068
+   "views": 2158
   },
   {
    "date": "2026-09-26",
-   "views": 2332
+   "views": 2965
   },
   {
    "date": "2026-09-27",
-   "views": 6742
+   "views": 3277
   },
   {
    "date": "2026-09-28",
-   "views": 8256
+   "views": 5836
   },
   {
    "date": "2026-09-29",
-   "views": 4212
+   "views": 4308
   },
   {
    "date": "2026-09-30",
-   "views": 3708
+   "views": 3575
   },
   {
    "date": "2026-10-01",
-   "views": 2859
+   "views": 3924
   },
   {
    "date": "2026-10-02",
-   "views": 2689
+   "views": 5453
   },
   {
    "date": "2026-10-03",
-   "views": 3262
+   "views": 7204
   },
   {
    "date": "2026-10-04",
-   "views": 6534
+   "views": 36817
   },
   {
    "date": "2026-10-05",
-   "views": 3962
+   "views": 92753
   },
   {
    "date": "2026-10-06",
-   "views": 2972
+   "views": 24012
   },
   {
    "date": "2026-10-07",
-   "views": 3929
+   "views": 11513
   },
   {
    "date": "2026-10-08",
-   "views": 3321
+   "views": 7981
   },
   {
    "date": "2026-10-09",
-   "views": 2999
+   "views": 6715
   },
   {
    "date": "2026-10-10",
-   "views": 3018
+   "views": 5209
   },
   {
    "date": "2026-10-11",
-   "views": 3286
+   "views": 4651
   },
   {
    "date": "2026-10-12",
-   "views": 3280
+   "views": 4417
   },
   {
    "date": "2026-10-13",
-   "views": 3200
+   "views": 3871
   },
   {
    "date": "2026-10-14",
-   "views": 3005
+   "views": 3725
   },
   {
    "date": "2026-10-15",
-   "views": 3276
+   "views": 3807
   },
   {
    "date": "2026-10-16",
-   "views": 4016
+   "views": 3282
   },
   {
    "date": "2026-10-17",
-   "views": 4693
+   "views": 3594
   },
   {
    "date": "2026-10-18",
-   "views": 4366
+   "views": 3807
   },
   {
    "date": "2026-10-19",
-   "views": 4853
+   "views": 10905
   },
   {
    "date": "2026-10-20",
-   "views": 7915
+   "views": 7033
   },
   {
    "date": "2026-10-21",
-   "views": 8320
+   "views": 4781
   },
   {
    "date": "2026-10-22",
-   "views": 10610
+   "views": 4392
   },
   {
    "date": "2026-10-23",
-   "views": 12973
+   "views": 5074
   },
   {
    "date": "2026-10-24",
-   "views": 13591
+   "views": 9594
   },
   {
    "date": "2026-10-25",
-   "views": 242482
+   "views": 33870
   },
   {
    "date": "2026-10-26",
-   "views": 290392
+   "views": 172365
   },
   {
    "date": "2026-10-27",
-   "views": 80751
+   "views": 84100
+  },
+  {
+   "date": "2026-10-28",
+   "views": 100598
   }
  ],
- "wikipedia_title": "2026_Serbian_parliamentary_election",
+ "wikipedia_title": "Jair_Bolsonaro",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

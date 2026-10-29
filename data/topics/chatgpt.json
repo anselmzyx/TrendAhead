@@ -1,198 +1,197 @@
 {
- "title": "Alexia Putellas",
- "slug": "alexia-putellas",
- "score": 63,
- "status": "Breaking out",
- "change_percent": 6799,
- "growth_ratio": 69.0,
- "recent_avg": 91068,
- "baseline_avg": 1320,
- "explanation": "Attention is 69\u00d7 its 30-day baseline.",
+ "title": "ChatGPT",
+ "slug": "chatgpt",
+ "score": 30,
+ "status": "Building",
+ "change_percent": 174,
+ "growth_ratio": 2.74,
+ "recent_avg": 171968,
+ "baseline_avg": 62796,
+ "explanation": "Attention is 2.7\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 89748,
- "latest": 146373,
+ "abs_change": 109172,
+ "latest": 172227,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.98,
-  "spike_quality": 0.776
+  "acceleration": 0.258,
+  "anomaly": 0.294,
+  "persistence": 0.52,
+  "momentum": 0.762,
+  "volume": 1.0,
+  "spike_quality": 0.94
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 91,068 views/day over the last 3 days (30-day baseline: 1,320)."
+  "Averaging 171,968 views/day over the last 3 days (30-day baseline: 62,796)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 872
-  },
-  {
    "date": "2026-09-19",
-   "views": 1728
+   "views": 59417
   },
   {
    "date": "2026-09-20",
-   "views": 2869
+   "views": 44462
   },
   {
    "date": "2026-09-21",
-   "views": 1788
+   "views": 103332
   },
   {
    "date": "2026-09-22",
-   "views": 1352
+   "views": 89442
   },
   {
    "date": "2026-09-23",
-   "views": 1852
+   "views": 86199
   },
   {
    "date": "2026-09-24",
-   "views": 1414
+   "views": 57281
   },
   {
    "date": "2026-09-25",
-   "views": 953
+   "views": 60279
   },
   {
    "date": "2026-09-26",
-   "views": 2030
+   "views": 40694
   },
   {
    "date": "2026-09-27",
-   "views": 1797
+   "views": 41296
   },
   {
    "date": "2026-09-28",
-   "views": 1121
+   "views": 53948
   },
   {
    "date": "2026-09-29",
-   "views": 868
+   "views": 59608
   },
   {
    "date": "2026-09-30",
-   "views": 1254
+   "views": 48989
   },
   {
    "date": "2026-10-01",
-   "views": 1046
+   "views": 51583
   },
   {
    "date": "2026-10-02",
-   "views": 765
+   "views": 39904
   },
   {
    "date": "2026-10-03",
-   "views": 783
+   "views": 32048
   },
   {
    "date": "2026-10-04",
-   "views": 4013
+   "views": 31434
   },
   {
    "date": "2026-10-05",
-   "views": 3452
+   "views": 47019
   },
   {
    "date": "2026-10-06",
-   "views": 1710
+   "views": 61606
   },
   {
    "date": "2026-10-07",
-   "views": 1270
+   "views": 57391
   },
   {
    "date": "2026-10-08",
-   "views": 1055
+   "views": 49710
   },
   {
    "date": "2026-10-09",
-   "views": 969
+   "views": 50429
   },
   {
    "date": "2026-10-10",
-   "views": 1267
+   "views": 35215
   },
   {
    "date": "2026-10-11",
-   "views": 1208
+   "views": 28298
   },
   {
    "date": "2026-10-12",
-   "views": 1064
+   "views": 39823
   },
   {
    "date": "2026-10-13",
-   "views": 1281
+   "views": 45423
   },
   {
    "date": "2026-10-14",
-   "views": 2001
+   "views": 56162
   },
   {
    "date": "2026-10-15",
-   "views": 903
+   "views": 55448
   },
   {
    "date": "2026-10-16",
-   "views": 805
+   "views": 44509
   },
   {
    "date": "2026-10-17",
-   "views": 785
+   "views": 32506
   },
   {
    "date": "2026-10-18",
-   "views": 1187
+   "views": 32687
   },
   {
    "date": "2026-10-19",
-   "views": 913
+   "views": 100821
   },
   {
    "date": "2026-10-20",
-   "views": 889
+   "views": 140548
   },
   {
    "date": "2026-10-21",
-   "views": 886
+   "views": 163328
   },
   {
    "date": "2026-10-22",
-   "views": 1176
+   "views": 155469
   },
   {
    "date": "2026-10-23",
-   "views": 994
+   "views": 136176
   },
   {
    "date": "2026-10-24",
-   "views": 1151
+   "views": 80659
   },
   {
    "date": "2026-10-25",
-   "views": 1529
+   "views": 71140
   },
   {
    "date": "2026-10-26",
-   "views": 125301
+   "views": 159883
   },
   {
    "date": "2026-10-27",
-   "views": 146373
+   "views": 183795
+  },
+  {
+   "date": "2026-10-28",
+   "views": 172227
   }
  ],
- "wikipedia_title": "Alexia_Putellas",
+ "wikipedia_title": "ChatGPT",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

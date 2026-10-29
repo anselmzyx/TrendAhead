@@ -1,197 +1,198 @@
 {
- "title": "2026 United States elections",
- "slug": "2026-united-states-elections",
- "score": 31,
- "status": "Elevated",
- "change_percent": 122,
- "growth_ratio": 2.22,
- "recent_avg": 67671,
- "baseline_avg": 30520,
- "explanation": "Attention is 2.2\u00d7 its 30-day baseline.",
+ "title": "Ra'am",
+ "slug": "ra-am",
+ "score": 70,
+ "status": "Breaking out",
+ "change_percent": 2638,
+ "growth_ratio": 27.39,
+ "recent_avg": 44664,
+ "baseline_avg": 1631,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 37151,
- "latest": 66149,
+ "abs_change": 43033,
+ "latest": 83439,
  "components": {
-  "acceleration": 0.204,
-  "anomaly": 0.42,
-  "persistence": 0.64,
-  "momentum": 0.696,
-  "volume": 0.915,
-  "spike_quality": 0.876
+  "acceleration": 0.846,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.825,
+  "spike_quality": 0.749
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 67,671 views/day over the last 3 days (30-day baseline: 30,520)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 44,664 views/day over the last 3 days (30-day baseline: 1,631)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 21686
-  },
-  {
    "date": "2026-09-19",
-   "views": 18409
+   "views": 34
   },
   {
    "date": "2026-09-20",
-   "views": 18460
+   "views": 34
   },
   {
    "date": "2026-09-21",
-   "views": 20997
+   "views": 48
   },
   {
    "date": "2026-09-22",
-   "views": 22929
+   "views": 236
   },
   {
    "date": "2026-09-23",
-   "views": 23069
+   "views": 1477
   },
   {
    "date": "2026-09-24",
-   "views": 20235
+   "views": 3361
   },
   {
    "date": "2026-09-25",
-   "views": 18364
+   "views": 2131
   },
   {
    "date": "2026-09-26",
-   "views": 19542
+   "views": 1319
   },
   {
    "date": "2026-09-27",
-   "views": 17572
+   "views": 1270
   },
   {
    "date": "2026-09-28",
-   "views": 21773
+   "views": 1275
   },
   {
    "date": "2026-09-29",
-   "views": 22145
+   "views": 1236
   },
   {
    "date": "2026-09-30",
-   "views": 20158
+   "views": 1156
   },
   {
    "date": "2026-10-01",
-   "views": 20846
+   "views": 1278
   },
   {
    "date": "2026-10-02",
-   "views": 21527
+   "views": 1725
   },
   {
    "date": "2026-10-03",
-   "views": 21693
+   "views": 1716
   },
   {
    "date": "2026-10-04",
-   "views": 23835
+   "views": 1572
   },
   {
    "date": "2026-10-05",
-   "views": 27907
+   "views": 1360
   },
   {
    "date": "2026-10-06",
-   "views": 28387
+   "views": 1333
   },
   {
    "date": "2026-10-07",
-   "views": 27072
+   "views": 1410
   },
   {
    "date": "2026-10-08",
-   "views": 29506
+   "views": 1286
   },
   {
    "date": "2026-10-09",
-   "views": 30946
+   "views": 1091
   },
   {
    "date": "2026-10-10",
-   "views": 29069
+   "views": 951
   },
   {
    "date": "2026-10-11",
-   "views": 29877
+   "views": 1084
   },
   {
    "date": "2026-10-12",
-   "views": 34213
+   "views": 1116
   },
   {
    "date": "2026-10-13",
-   "views": 34228
+   "views": 1043
   },
   {
    "date": "2026-10-14",
-   "views": 35082
+   "views": 1153
   },
   {
    "date": "2026-10-15",
-   "views": 35189
+   "views": 1362
   },
   {
    "date": "2026-10-16",
-   "views": 32127
+   "views": 1434
   },
   {
    "date": "2026-10-17",
-   "views": 31730
+   "views": 1304
   },
   {
    "date": "2026-10-18",
-   "views": 34956
+   "views": 2082
   },
   {
    "date": "2026-10-19",
-   "views": 40470
+   "views": 2070
   },
   {
    "date": "2026-10-20",
-   "views": 43689
+   "views": 2180
   },
   {
    "date": "2026-10-21",
-   "views": 44850
+   "views": 2371
   },
   {
    "date": "2026-10-22",
-   "views": 48650
+   "views": 2405
   },
   {
    "date": "2026-10-23",
-   "views": 47215
+   "views": 2496
   },
   {
    "date": "2026-10-24",
-   "views": 42984
+   "views": 2631
   },
   {
    "date": "2026-10-25",
-   "views": 56877
+   "views": 4218
   },
   {
    "date": "2026-10-26",
-   "views": 79986
+   "views": 8704
   },
   {
    "date": "2026-10-27",
-   "views": 66149
+   "views": 41850
+  },
+  {
+   "date": "2026-10-28",
+   "views": 83439
   }
  ],
- "wikipedia_title": "2026_United_States_elections",
+ "wikipedia_title": "Ra'am",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

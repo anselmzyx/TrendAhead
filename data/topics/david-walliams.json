@@ -1,197 +1,198 @@
 {
- "title": "Tanner McKee",
- "slug": "tanner-mckee",
- "score": 37,
+ "title": "David Walliams",
+ "slug": "david-walliams",
+ "score": 42,
  "status": "Breaking out",
- "change_percent": 1143,
- "growth_ratio": 12.43,
- "recent_avg": 55521,
- "baseline_avg": 4466,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 1192,
+ "growth_ratio": 12.92,
+ "recent_avg": 33155,
+ "baseline_avg": 2567,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 51055,
- "latest": 133210,
+ "abs_change": 30588,
+ "latest": 71358,
  "components": {
-  "acceleration": 0.644,
-  "anomaly": 0.601,
+  "acceleration": 0.654,
+  "anomaly": 1.0,
   "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.872,
-  "spike_quality": 0.656
+  "momentum": 0.933,
+  "volume": 0.76,
+  "spike_quality": 0.708
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 55,521 views/day over the last 3 days (30-day baseline: 4,466)."
+  "Averaging 33,155 views/day over the last 3 days (30-day baseline: 2,567)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 112
-  },
-  {
    "date": "2026-09-19",
-   "views": 183
+   "views": 23560
   },
   {
    "date": "2026-09-20",
-   "views": 271
+   "views": 9134
   },
   {
    "date": "2026-09-21",
-   "views": 194
+   "views": 4998
   },
   {
    "date": "2026-09-22",
-   "views": 219
+   "views": 2823
   },
   {
    "date": "2026-09-23",
-   "views": 222
+   "views": 2920
   },
   {
    "date": "2026-09-24",
-   "views": 178
+   "views": 3123
   },
   {
    "date": "2026-09-25",
-   "views": 144
+   "views": 2656
   },
   {
    "date": "2026-09-26",
-   "views": 117
+   "views": 2383
   },
   {
    "date": "2026-09-27",
-   "views": 143
+   "views": 2292
   },
   {
    "date": "2026-09-28",
-   "views": 255
+   "views": 1926
   },
   {
    "date": "2026-09-29",
-   "views": 2009
+   "views": 1994
   },
   {
    "date": "2026-09-30",
-   "views": 278
+   "views": 1830
   },
   {
    "date": "2026-10-01",
-   "views": 169
+   "views": 1617
   },
   {
    "date": "2026-10-02",
-   "views": 168
+   "views": 1816
   },
   {
    "date": "2026-10-03",
-   "views": 146
+   "views": 1796
   },
   {
    "date": "2026-10-04",
-   "views": 410
+   "views": 1910
   },
   {
    "date": "2026-10-05",
-   "views": 203
+   "views": 1681
   },
   {
    "date": "2026-10-06",
-   "views": 149
+   "views": 1391
   },
   {
    "date": "2026-10-07",
-   "views": 187
+   "views": 1421
   },
   {
    "date": "2026-10-08",
-   "views": 163
+   "views": 1434
   },
   {
    "date": "2026-10-09",
-   "views": 606
+   "views": 1661
   },
   {
    "date": "2026-10-10",
-   "views": 681
+   "views": 1663
   },
   {
    "date": "2026-10-11",
-   "views": 652
+   "views": 1802
   },
   {
    "date": "2026-10-12",
-   "views": 231
+   "views": 1667
   },
   {
    "date": "2026-10-13",
-   "views": 164
+   "views": 1391
   },
   {
    "date": "2026-10-14",
-   "views": 126
+   "views": 2219
   },
   {
    "date": "2026-10-15",
-   "views": 18233
+   "views": 1998
   },
   {
    "date": "2026-10-16",
-   "views": 18249
+   "views": 2741
   },
   {
    "date": "2026-10-17",
-   "views": 12233
+   "views": 8568
   },
   {
    "date": "2026-10-18",
-   "views": 40089
+   "views": 5523
   },
   {
    "date": "2026-10-19",
-   "views": 14111
+   "views": 3143
   },
   {
    "date": "2026-10-20",
-   "views": 8622
+   "views": 5922
   },
   {
    "date": "2026-10-21",
-   "views": 5392
+   "views": 3901
   },
   {
    "date": "2026-10-22",
-   "views": 4220
+   "views": 3578
   },
   {
    "date": "2026-10-23",
-   "views": 3278
+   "views": 2326
   },
   {
    "date": "2026-10-24",
-   "views": 2538
+   "views": 2781
   },
   {
    "date": "2026-10-25",
-   "views": 5030
+   "views": 2621
   },
   {
    "date": "2026-10-26",
-   "views": 28322
+   "views": 2580
   },
   {
    "date": "2026-10-27",
-   "views": 133210
+   "views": 25528
+  },
+  {
+   "date": "2026-10-28",
+   "views": 71358
   }
  ],
- "wikipedia_title": "Tanner_McKee",
+ "wikipedia_title": "David_Walliams",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

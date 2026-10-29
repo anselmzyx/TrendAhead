@@ -1,37 +1,32 @@
 {
  "title": "Dick Ebersol",
  "slug": "dick-ebersol",
- "score": 34,
- "status": "Breaking out",
- "change_percent": 5807,
- "growth_ratio": 59.0,
- "recent_avg": 26463,
- "baseline_avg": 448,
- "explanation": "Attention is 59\u00d7 its 30-day baseline.",
+ "score": 32,
+ "status": "Elevated",
+ "change_percent": 9941,
+ "growth_ratio": 100.4,
+ "recent_avg": 43679,
+ "baseline_avg": 435,
+ "explanation": "Attention is 100\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26015,
- "latest": 78580,
+ "abs_change": 43244,
+ "latest": 52071,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.711,
-  "spike_quality": 0.518
+  "persistence": 0.32,
+  "momentum": 0.531,
+  "volume": 0.82,
+  "spike_quality": 0.569
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 26,463 views/day over the last 3 days (30-day baseline: 448)."
+  "Averaging 43,679 views/day over the last 3 days (30-day baseline: 435)."
  ],
  "history": [
-  {
-   "date": "2026-09-18",
-   "views": 322
-  },
   {
    "date": "2026-09-19",
    "views": 340
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-27",
    "views": 78580
+  },
+  {
+   "date": "2026-10-28",
+   "views": 52071
   }
  ],
  "wikipedia_title": "Dick_Ebersol",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

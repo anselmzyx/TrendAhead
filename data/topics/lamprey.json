@@ -1,198 +1,197 @@
 {
- "title": "Nicki Minaj",
- "slug": "nicki-minaj",
- "score": 65,
- "status": "Building",
- "change_percent": 1567,
- "growth_ratio": 16.67,
- "recent_avg": 104058,
- "baseline_avg": 6243,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "title": "Lamprey",
+ "slug": "lamprey",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": 5397,
+ "growth_ratio": 54.95,
+ "recent_avg": 42988,
+ "baseline_avg": 782,
+ "explanation": "Attention is 55\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 97815,
- "latest": 145546,
+ "abs_change": 42206,
+ "latest": 127597,
  "components": {
-  "acceleration": 0.719,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.827
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.817,
+  "spike_quality": 0.518
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 104,058 views/day over the last 3 days (30-day baseline: 6,243)."
+  "Averaging 42,988 views/day over the last 3 days (30-day baseline: 782)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 6513
-  },
-  {
    "date": "2026-09-19",
-   "views": 9290
+   "views": 818
   },
   {
    "date": "2026-09-20",
-   "views": 5191
+   "views": 789
   },
   {
    "date": "2026-09-21",
-   "views": 4411
+   "views": 752
   },
   {
    "date": "2026-09-22",
-   "views": 3874
+   "views": 776
   },
   {
    "date": "2026-09-23",
-   "views": 3515
+   "views": 740
   },
   {
    "date": "2026-09-24",
-   "views": 3421
+   "views": 772
   },
   {
    "date": "2026-09-25",
-   "views": 3676
+   "views": 635
   },
   {
    "date": "2026-09-26",
-   "views": 5384
+   "views": 641
   },
   {
    "date": "2026-09-27",
-   "views": 21144
+   "views": 3292
   },
   {
    "date": "2026-09-28",
-   "views": 13995
+   "views": 898
   },
   {
    "date": "2026-09-29",
-   "views": 26132
+   "views": 773
   },
   {
    "date": "2026-09-30",
-   "views": 12363
+   "views": 676
   },
   {
    "date": "2026-10-01",
-   "views": 8087
+   "views": 578
   },
   {
    "date": "2026-10-02",
-   "views": 5490
+   "views": 622
   },
   {
    "date": "2026-10-03",
-   "views": 5311
+   "views": 650
   },
   {
    "date": "2026-10-04",
-   "views": 4551
+   "views": 783
   },
   {
    "date": "2026-10-05",
-   "views": 4166
+   "views": 686
   },
   {
    "date": "2026-10-06",
-   "views": 3707
+   "views": 700
   },
   {
    "date": "2026-10-07",
-   "views": 3603
+   "views": 734
   },
   {
    "date": "2026-10-08",
-   "views": 3468
+   "views": 738
   },
   {
    "date": "2026-10-09",
-   "views": 3790
+   "views": 728
   },
   {
    "date": "2026-10-10",
-   "views": 3889
+   "views": 667
   },
   {
    "date": "2026-10-11",
-   "views": 4124
+   "views": 660
   },
   {
    "date": "2026-10-12",
-   "views": 4549
+   "views": 671
   },
   {
    "date": "2026-10-13",
-   "views": 3717
+   "views": 636
   },
   {
    "date": "2026-10-14",
-   "views": 3557
+   "views": 676
   },
   {
    "date": "2026-10-15",
-   "views": 3206
+   "views": 673
   },
   {
    "date": "2026-10-16",
-   "views": 3327
+   "views": 769
   },
   {
    "date": "2026-10-17",
-   "views": 3747
+   "views": 663
   },
   {
    "date": "2026-10-18",
-   "views": 3766
+   "views": 754
   },
   {
    "date": "2026-10-19",
-   "views": 4173
+   "views": 740
   },
   {
    "date": "2026-10-20",
-   "views": 5530
+   "views": 711
   },
   {
    "date": "2026-10-21",
-   "views": 4903
+   "views": 737
   },
   {
    "date": "2026-10-22",
-   "views": 5140
+   "views": 721
   },
   {
    "date": "2026-10-23",
-   "views": 4566
+   "views": 626
   },
   {
    "date": "2026-10-24",
-   "views": 4228
+   "views": 613
   },
   {
    "date": "2026-10-25",
-   "views": 22153
+   "views": 654
   },
   {
    "date": "2026-10-26",
-   "views": 144476
+   "views": 686
   },
   {
    "date": "2026-10-27",
-   "views": 145546
+   "views": 681
+  },
+  {
+   "date": "2026-10-28",
+   "views": 127597
   }
  ],
- "wikipedia_title": "Nicki_Minaj",
+ "wikipedia_title": "Lamprey",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

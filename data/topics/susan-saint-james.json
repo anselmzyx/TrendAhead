@@ -1,37 +1,32 @@
 {
  "title": "Susan Saint James",
  "slug": "susan-saint-james",
- "score": 40,
- "status": "Breaking out",
- "change_percent": 11725,
- "growth_ratio": 118.26,
- "recent_avg": 99922,
- "baseline_avg": 845,
- "explanation": "Attention is 118\u00d7 its 30-day baseline.",
+ "score": 36,
+ "status": "Elevated",
+ "change_percent": 21653,
+ "growth_ratio": 217.48,
+ "recent_avg": 166408,
+ "baseline_avg": 765,
+ "explanation": "Attention is 217\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 99077,
- "latest": 298410,
+ "abs_change": 165643,
+ "latest": 200179,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
+  "persistence": 0.32,
+  "momentum": 0.536,
   "volume": 1.0,
-  "spike_quality": 0.509
+  "spike_quality": 0.572
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 99,922 views/day over the last 3 days (30-day baseline: 845)."
+  "Averaging 166,408 views/day over the last 3 days (30-day baseline: 765)."
  ],
  "history": [
-  {
-   "date": "2026-09-18",
-   "views": 576
-  },
   {
    "date": "2026-09-19",
    "views": 739
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-27",
    "views": 298410
+  },
+  {
+   "date": "2026-10-28",
+   "views": 200179
   }
  ],
  "wikipedia_title": "Susan_Saint_James",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Wildwood (film)",
- "slug": "wildwood-film",
- "score": 41,
+ "title": "Fl\u00e1vio Bolsonaro",
+ "slug": "flavio-bolsonaro",
+ "score": 39,
  "status": "Elevated",
- "change_percent": 494,
- "growth_ratio": 5.94,
- "recent_avg": 109932,
- "baseline_avg": 18519,
- "explanation": "Attention is 5.9\u00d7 its 30-day baseline.",
+ "change_percent": 689,
+ "growth_ratio": 7.89,
+ "recent_avg": 112258,
+ "baseline_avg": 14223,
+ "explanation": "Attention is 7.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 91413,
- "latest": 85263,
+ "abs_change": 98035,
+ "latest": 111517,
  "components": {
-  "acceleration": 0.455,
-  "anomaly": 0.445,
-  "persistence": 0.92,
-  "momentum": 0.606,
+  "acceleration": 0.528,
+  "anomaly": 0.4,
+  "persistence": 0.72,
+  "momentum": 0.72,
   "volume": 1.0,
-  "spike_quality": 0.795
+  "spike_quality": 0.746
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 109,932 views/day over the last 3 days (30-day baseline: 18,519)."
+  "Averaging 112,258 views/day over the last 3 days (30-day baseline: 14,223)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 7959
-  },
-  {
    "date": "2026-09-19",
-   "views": 7607
+   "views": 1069
   },
   {
    "date": "2026-09-20",
-   "views": 7980
+   "views": 1755
   },
   {
    "date": "2026-09-21",
-   "views": 8275
+   "views": 2061
   },
   {
    "date": "2026-09-22",
-   "views": 7017
+   "views": 2345
   },
   {
    "date": "2026-09-23",
-   "views": 6970
+   "views": 1756
   },
   {
    "date": "2026-09-24",
-   "views": 6645
+   "views": 1595
   },
   {
    "date": "2026-09-25",
-   "views": 6156
+   "views": 2283
   },
   {
    "date": "2026-09-26",
-   "views": 6291
+   "views": 3368
   },
   {
    "date": "2026-09-27",
-   "views": 6852
+   "views": 3695
   },
   {
    "date": "2026-09-28",
-   "views": 6890
+   "views": 6764
   },
   {
    "date": "2026-09-29",
-   "views": 7569
+   "views": 4754
   },
   {
    "date": "2026-09-30",
-   "views": 6440
+   "views": 4310
   },
   {
    "date": "2026-10-01",
-   "views": 7412
+   "views": 4763
   },
   {
    "date": "2026-10-02",
-   "views": 7780
+   "views": 7300
   },
   {
    "date": "2026-10-03",
-   "views": 7571
+   "views": 9905
   },
   {
    "date": "2026-10-04",
-   "views": 8838
+   "views": 60066
   },
   {
    "date": "2026-10-05",
-   "views": 7779
+   "views": 128855
   },
   {
    "date": "2026-10-06",
-   "views": 7424
+   "views": 30619
   },
   {
    "date": "2026-10-07",
-   "views": 7676
+   "views": 14098
   },
   {
    "date": "2026-10-08",
-   "views": 7607
+   "views": 9724
   },
   {
    "date": "2026-10-09",
-   "views": 8085
+   "views": 7909
   },
   {
    "date": "2026-10-10",
-   "views": 8350
+   "views": 6094
   },
   {
    "date": "2026-10-11",
-   "views": 20756
+   "views": 5371
   },
   {
    "date": "2026-10-12",
-   "views": 24197
+   "views": 5076
   },
   {
    "date": "2026-10-13",
-   "views": 18538
+   "views": 4252
   },
   {
    "date": "2026-10-14",
-   "views": 14820
+   "views": 4244
   },
   {
    "date": "2026-10-15",
-   "views": 16565
+   "views": 4422
   },
   {
    "date": "2026-10-16",
-   "views": 16297
+   "views": 3618
   },
   {
    "date": "2026-10-17",
-   "views": 14393
+   "views": 4412
   },
   {
    "date": "2026-10-18",
-   "views": 16132
+   "views": 4650
   },
   {
    "date": "2026-10-19",
-   "views": 18175
+   "views": 11429
   },
   {
    "date": "2026-10-20",
-   "views": 26214
+   "views": 7572
   },
   {
    "date": "2026-10-21",
-   "views": 31336
+   "views": 5663
   },
   {
    "date": "2026-10-22",
-   "views": 43895
+   "views": 5182
   },
   {
    "date": "2026-10-23",
-   "views": 78675
+   "views": 5997
   },
   {
    "date": "2026-10-24",
-   "views": 96858
+   "views": 11549
   },
   {
    "date": "2026-10-25",
-   "views": 118435
+   "views": 41015
   },
   {
    "date": "2026-10-26",
-   "views": 126098
+   "views": 147560
   },
   {
    "date": "2026-10-27",
-   "views": 85263
+   "views": 77696
+  },
+  {
+   "date": "2026-10-28",
+   "views": 111517
   }
  ],
- "wikipedia_title": "Wildwood_(film)",
+ "wikipedia_title": "Fl\u00e1vio_Bolsonaro",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

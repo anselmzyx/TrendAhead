@@ -1,38 +1,34 @@
 {
  "title": "Ballon d'Or",
  "slug": "ballon-d-or",
- "score": 75,
- "status": "Building",
- "change_percent": 2515,
- "growth_ratio": 26.15,
- "recent_avg": 168558,
- "baseline_avg": 6445,
- "explanation": "Attention is 26\u00d7 its 30-day baseline.",
+ "score": 31,
+ "status": "Peaked / fading",
+ "change_percent": 2631,
+ "growth_ratio": 27.31,
+ "recent_avg": 184774,
+ "baseline_avg": 6767,
+ "explanation": "Attention surged to 27\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 162113,
- "latest": 271061,
+ "abs_change": 178007,
+ "latest": 64105,
  "components": {
-  "acceleration": 0.834,
+  "acceleration": 0.845,
   "anomaly": 1.0,
   "persistence": 0.84,
-  "momentum": 1.0,
+  "momentum": 0.342,
   "volume": 1.0,
-  "spike_quality": 0.798
+  "spike_quality": 0.441
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 168,558 views/day over the last 3 days (30-day baseline: 6,445)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 184,774 views/day over the last 3 days (30-day baseline: 6,767)."
  ],
  "history": [
-  {
-   "date": "2026-09-18",
-   "views": 6563
-  },
   {
    "date": "2026-09-19",
    "views": 6535
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-27",
    "views": 271061
+  },
+  {
+   "date": "2026-10-28",
+   "views": 64105
   }
  ],
  "wikipedia_title": "Ballon_d'Or",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }

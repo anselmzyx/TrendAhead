@@ -1,196 +1,196 @@
 {
- "title": "Walter Koenig",
- "slug": "walter-koenig",
- "score": 35,
- "status": "Elevated",
- "change_percent": 11817,
- "growth_ratio": 119.17,
- "recent_avg": 153254,
- "baseline_avg": 1286,
- "explanation": "Attention is 119\u00d7 its 30-day baseline.",
+ "title": "2026 Toledo train collision",
+ "slug": "2026-toledo-train-collision",
+ "score": 32,
+ "status": "Breaking out",
+ "change_percent": null,
+ "growth_ratio": 267.02,
+ "recent_avg": 26702,
+ "baseline_avg": 0,
+ "explanation": "Attention is 267\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 151968,
- "latest": 182339,
+ "abs_change": 26702,
+ "latest": 80105,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.529,
-  "volume": 1.0,
-  "spike_quality": 0.565
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.713,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 153,254 views/day over the last 3 days (30-day baseline: 1,286)."
+  "Averaging 26,702 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-18",
-   "views": 1340
-  },
-  {
    "date": "2026-09-19",
-   "views": 1195
+   "views": 0
   },
   {
    "date": "2026-09-20",
-   "views": 1427
+   "views": 0
   },
   {
    "date": "2026-09-21",
-   "views": 1434
+   "views": 0
   },
   {
    "date": "2026-09-22",
-   "views": 1261
+   "views": 0
   },
   {
    "date": "2026-09-23",
-   "views": 2232
+   "views": 0
   },
   {
    "date": "2026-09-24",
-   "views": 2508
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 1633
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 2132
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 2481
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 2164
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 2415
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 3092
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 2164
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 1335
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 1205
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 1117
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 1069
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 964
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 921
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 846
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 1010
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 1061
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 1037
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 1047
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 973
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 859
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 766
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 805
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 1028
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 1233
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 1053
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 863
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 804
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 840
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 789
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 873
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 855
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 276569
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 182339
+   "views": 0
+  },
+  {
+   "date": "2026-10-28",
+   "views": 80105
   }
  ],
- "wikipedia_title": "Walter_Koenig",
+ "wikipedia_title": "2026_Toledo_train_collision",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-27",
- "generated_at_utc": "2026-10-28T11:35:04+00:00"
+ "data_through": "2026-10-28",
+ "generated_at_utc": "2026-10-29T11:42:45+00:00"
 }
