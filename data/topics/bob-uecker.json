@@ -1,197 +1,198 @@
 {
- "title": "Lamprey",
- "slug": "lamprey",
- "score": 36,
+ "title": "Bob Uecker",
+ "slug": "bob-uecker",
+ "score": 64,
  "status": "Breaking out",
- "change_percent": 5397,
- "growth_ratio": 54.95,
- "recent_avg": 42988,
- "baseline_avg": 782,
- "explanation": "Attention is 55\u00d7 its 30-day baseline.",
+ "change_percent": 2188,
+ "growth_ratio": 22.88,
+ "recent_avg": 94083,
+ "baseline_avg": 4112,
+ "explanation": "Attention is 23\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 42206,
- "latest": 127597,
+ "abs_change": 89971,
+ "latest": 205548,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.8,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.817,
-  "spike_quality": 0.518
+  "persistence": 0.72,
+  "momentum": 1.0,
+  "volume": 0.987,
+  "spike_quality": 0.718
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,988 views/day over the last 3 days (30-day baseline: 782)."
+  "Averaging 94,083 views/day over the last 3 days (30-day baseline: 4,112)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 818
-  },
-  {
    "date": "2026-09-20",
-   "views": 789
+   "views": 757
   },
   {
    "date": "2026-09-21",
-   "views": 752
+   "views": 675
   },
   {
    "date": "2026-09-22",
-   "views": 776
+   "views": 615
   },
   {
    "date": "2026-09-23",
-   "views": 740
+   "views": 750
   },
   {
    "date": "2026-09-24",
-   "views": 772
+   "views": 778
   },
   {
    "date": "2026-09-25",
-   "views": 635
+   "views": 878
   },
   {
    "date": "2026-09-26",
-   "views": 641
+   "views": 838
   },
   {
    "date": "2026-09-27",
-   "views": 3292
+   "views": 984
   },
   {
    "date": "2026-09-28",
-   "views": 898
+   "views": 776
   },
   {
    "date": "2026-09-29",
-   "views": 773
+   "views": 1454
   },
   {
    "date": "2026-09-30",
-   "views": 676
+   "views": 1047
   },
   {
    "date": "2026-10-01",
-   "views": 578
+   "views": 822
   },
   {
    "date": "2026-10-02",
-   "views": 622
+   "views": 898
   },
   {
    "date": "2026-10-03",
-   "views": 650
+   "views": 848
   },
   {
    "date": "2026-10-04",
-   "views": 783
+   "views": 2289
   },
   {
    "date": "2026-10-05",
-   "views": 686
+   "views": 1400
   },
   {
    "date": "2026-10-06",
-   "views": 700
+   "views": 1016
   },
   {
    "date": "2026-10-07",
-   "views": 734
+   "views": 886
   },
   {
    "date": "2026-10-08",
-   "views": 738
+   "views": 2652
   },
   {
    "date": "2026-10-09",
-   "views": 728
+   "views": 1319
   },
   {
    "date": "2026-10-10",
-   "views": 667
+   "views": 1090
   },
   {
    "date": "2026-10-11",
-   "views": 660
+   "views": 1096
   },
   {
    "date": "2026-10-12",
-   "views": 671
+   "views": 5199
   },
   {
    "date": "2026-10-13",
-   "views": 636
+   "views": 2875
   },
   {
    "date": "2026-10-14",
-   "views": 676
+   "views": 1460
   },
   {
    "date": "2026-10-15",
-   "views": 673
+   "views": 3912
   },
   {
    "date": "2026-10-16",
-   "views": 769
+   "views": 19316
   },
   {
    "date": "2026-10-17",
-   "views": 663
+   "views": 9308
   },
   {
    "date": "2026-10-18",
-   "views": 754
+   "views": 3162
   },
   {
    "date": "2026-10-19",
-   "views": 740
+   "views": 2014
   },
   {
    "date": "2026-10-20",
-   "views": 711
+   "views": 2746
   },
   {
    "date": "2026-10-21",
-   "views": 737
+   "views": 4230
   },
   {
    "date": "2026-10-22",
-   "views": 721
+   "views": 4939
   },
   {
    "date": "2026-10-23",
-   "views": 626
+   "views": 10261
   },
   {
    "date": "2026-10-24",
-   "views": 613
+   "views": 19949
   },
   {
    "date": "2026-10-25",
-   "views": 654
+   "views": 11264
   },
   {
    "date": "2026-10-26",
-   "views": 686
+   "views": 4135
   },
   {
    "date": "2026-10-27",
-   "views": 681
+   "views": 9097
   },
   {
    "date": "2026-10-28",
-   "views": 127597
+   "views": 67603
+  },
+  {
+   "date": "2026-10-29",
+   "views": 205548
   }
  ],
- "wikipedia_title": "Lamprey",
+ "wikipedia_title": "Bob_Uecker",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

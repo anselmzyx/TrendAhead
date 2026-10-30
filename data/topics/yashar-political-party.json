@@ -1,197 +1,197 @@
 {
- "title": "Fleetwood Town F.C.",
- "slug": "fleetwood-town-f-c",
- "score": 59,
- "status": "Elevated",
- "change_percent": 12139,
- "growth_ratio": 122.33,
- "recent_avg": 69886,
- "baseline_avg": 571,
- "explanation": "Attention is 122\u00d7 its 30-day baseline.",
+ "title": "Yashar (political party)",
+ "slug": "yashar-political-party",
+ "score": 34,
+ "status": "Peaked / fading",
+ "change_percent": 1516,
+ "growth_ratio": 16.16,
+ "recent_avg": 85571,
+ "baseline_avg": 5295,
+ "explanation": "Attention surged to 16\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 69315,
- "latest": 94061,
+ "abs_change": 80276,
+ "latest": 38698,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.711,
   "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 0.707,
-  "volume": 0.922,
-  "spike_quality": 0.701
+  "momentum": 0.385,
+  "volume": 0.966,
+  "spike_quality": 0.51
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 69,886 views/day over the last 3 days (30-day baseline: 571)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 85,571 views/day over the last 3 days (30-day baseline: 5,295)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 1220
-  },
-  {
    "date": "2026-09-20",
-   "views": 571
+   "views": 1659
   },
   {
    "date": "2026-09-21",
-   "views": 491
+   "views": 1404
   },
   {
    "date": "2026-09-22",
-   "views": 546
+   "views": 1631
   },
   {
    "date": "2026-09-23",
-   "views": 424
+   "views": 2331
   },
   {
    "date": "2026-09-24",
-   "views": 407
+   "views": 3431
   },
   {
    "date": "2026-09-25",
-   "views": 414
+   "views": 4448
   },
   {
    "date": "2026-09-26",
-   "views": 572
+   "views": 2491
   },
   {
    "date": "2026-09-27",
-   "views": 380
+   "views": 2419
   },
   {
    "date": "2026-09-28",
-   "views": 388
+   "views": 2714
   },
   {
    "date": "2026-09-29",
-   "views": 378
+   "views": 2603
   },
   {
    "date": "2026-09-30",
-   "views": 393
+   "views": 2616
   },
   {
    "date": "2026-10-01",
-   "views": 375
+   "views": 2663
   },
   {
    "date": "2026-10-02",
-   "views": 582
+   "views": 3402
   },
   {
    "date": "2026-10-03",
-   "views": 493
+   "views": 3807
   },
   {
    "date": "2026-10-04",
-   "views": 682
+   "views": 2956
   },
   {
    "date": "2026-10-05",
-   "views": 468
+   "views": 3353
   },
   {
    "date": "2026-10-06",
-   "views": 924
+   "views": 3245
   },
   {
    "date": "2026-10-07",
-   "views": 1154
+   "views": 4012
   },
   {
    "date": "2026-10-08",
-   "views": 449
+   "views": 3259
   },
   {
    "date": "2026-10-09",
-   "views": 472
+   "views": 2572
   },
   {
    "date": "2026-10-10",
-   "views": 538
+   "views": 2370
   },
   {
    "date": "2026-10-11",
-   "views": 525
+   "views": 2518
   },
   {
    "date": "2026-10-12",
-   "views": 409
+   "views": 2900
   },
   {
    "date": "2026-10-13",
-   "views": 383
+   "views": 2521
   },
   {
    "date": "2026-10-14",
-   "views": 386
+   "views": 3155
   },
   {
    "date": "2026-10-15",
-   "views": 339
+   "views": 3738
   },
   {
    "date": "2026-10-16",
-   "views": 528
+   "views": 3321
   },
   {
    "date": "2026-10-17",
-   "views": 649
+   "views": 3191
   },
   {
    "date": "2026-10-18",
-   "views": 507
+   "views": 6517
   },
   {
    "date": "2026-10-19",
-   "views": 484
+   "views": 6327
   },
   {
    "date": "2026-10-20",
-   "views": 543
+   "views": 5901
   },
   {
    "date": "2026-10-21",
-   "views": 447
+   "views": 5687
   },
   {
    "date": "2026-10-22",
-   "views": 505
+   "views": 5965
   },
   {
    "date": "2026-10-23",
-   "views": 470
+   "views": 6449
   },
   {
    "date": "2026-10-24",
-   "views": 1262
+   "views": 7616
   },
   {
    "date": "2026-10-25",
-   "views": 1454
+   "views": 17368
   },
   {
    "date": "2026-10-26",
-   "views": 4247
+   "views": 33672
   },
   {
    "date": "2026-10-27",
-   "views": 111350
+   "views": 92586
   },
   {
    "date": "2026-10-28",
-   "views": 94061
+   "views": 125428
+  },
+  {
+   "date": "2026-10-29",
+   "views": 38698
   }
  ],
- "wikipedia_title": "Fleetwood_Town_F.C.",
+ "wikipedia_title": "Yashar_(political_party)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

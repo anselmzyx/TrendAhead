@@ -1,36 +1,33 @@
 {
  "title": "2026 Toledo train collision",
  "slug": "2026-toledo-train-collision",
- "score": 32,
+ "score": 44,
  "status": "Breaking out",
  "change_percent": null,
- "growth_ratio": 267.02,
- "recent_avg": 26702,
+ "growth_ratio": 514.29,
+ "recent_avg": 51429,
  "baseline_avg": 0,
- "explanation": "Attention is 267\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 514\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26702,
- "latest": 80105,
+ "abs_change": 51429,
+ "latest": 74182,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.713,
-  "spike_quality": 0.5
+  "persistence": 0.32,
+  "momentum": 0.689,
+  "volume": 0.856,
+  "spike_quality": 0.743
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 26,702 views/day over the last 3 days (30-day baseline: 0)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 51,429 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
-  {
-   "date": "2026-09-19",
-   "views": 0
-  },
   {
    "date": "2026-09-20",
    "views": 0
@@ -186,11 +183,15 @@
   {
    "date": "2026-10-28",
    "views": 80105
+  },
+  {
+   "date": "2026-10-29",
+   "views": 74182
   }
  ],
  "wikipedia_title": "2026_Toledo_train_collision",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

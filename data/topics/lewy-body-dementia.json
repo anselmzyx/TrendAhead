@@ -1,198 +1,197 @@
 {
- "title": "Together (Israel)",
- "slug": "together-israel",
- "score": 69,
+ "title": "Lewy body dementia",
+ "slug": "lewy-body-dementia",
+ "score": 35,
  "status": "Breaking out",
- "change_percent": 1807,
- "growth_ratio": 19.07,
- "recent_avg": 43897,
- "baseline_avg": 2302,
- "explanation": "Attention is 19\u00d7 its 30-day baseline.",
+ "change_percent": 2349,
+ "growth_ratio": 24.49,
+ "recent_avg": 55328,
+ "baseline_avg": 2259,
+ "explanation": "Attention is 24\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41595,
- "latest": 76019,
+ "abs_change": 53069,
+ "latest": 161848,
  "components": {
-  "acceleration": 0.754,
+  "acceleration": 0.818,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.821,
-  "spike_quality": 0.784
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.871,
+  "spike_quality": 0.541
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 43,897 views/day over the last 3 days (30-day baseline: 2,302)."
+  "Averaging 55,328 views/day over the last 3 days (30-day baseline: 2,259)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 1046
-  },
-  {
    "date": "2026-09-20",
-   "views": 1098
+   "views": 2718
   },
   {
    "date": "2026-09-21",
-   "views": 906
+   "views": 2447
   },
   {
    "date": "2026-09-22",
-   "views": 986
+   "views": 2638
   },
   {
    "date": "2026-09-23",
-   "views": 1650
+   "views": 2317
   },
   {
    "date": "2026-09-24",
-   "views": 2065
+   "views": 2151
   },
   {
    "date": "2026-09-25",
-   "views": 2020
+   "views": 2198
   },
   {
    "date": "2026-09-26",
-   "views": 1580
+   "views": 2776
   },
   {
    "date": "2026-09-27",
-   "views": 1620
+   "views": 2474
   },
   {
    "date": "2026-09-28",
-   "views": 1578
+   "views": 2286
   },
   {
    "date": "2026-09-29",
-   "views": 1480
+   "views": 2477
   },
   {
    "date": "2026-09-30",
-   "views": 1569
+   "views": 2394
   },
   {
    "date": "2026-10-01",
-   "views": 1819
+   "views": 2496
   },
   {
    "date": "2026-10-02",
-   "views": 2057
+   "views": 2597
   },
   {
    "date": "2026-10-03",
-   "views": 2208
+   "views": 2924
   },
   {
    "date": "2026-10-04",
-   "views": 1932
+   "views": 2798
   },
   {
    "date": "2026-10-05",
-   "views": 1986
+   "views": 2253
   },
   {
    "date": "2026-10-06",
-   "views": 1977
+   "views": 2323
   },
   {
    "date": "2026-10-07",
-   "views": 2208
+   "views": 2187
   },
   {
    "date": "2026-10-08",
-   "views": 1845
+   "views": 2059
   },
   {
    "date": "2026-10-09",
-   "views": 1641
+   "views": 1976
   },
   {
    "date": "2026-10-10",
-   "views": 1589
+   "views": 2542
   },
   {
    "date": "2026-10-11",
-   "views": 1654
+   "views": 2443
   },
   {
    "date": "2026-10-12",
-   "views": 1683
+   "views": 2358
   },
   {
    "date": "2026-10-13",
-   "views": 1429
+   "views": 2468
   },
   {
    "date": "2026-10-14",
-   "views": 1583
+   "views": 2240
   },
   {
    "date": "2026-10-15",
-   "views": 1883
+   "views": 1936
   },
   {
    "date": "2026-10-16",
-   "views": 1819
+   "views": 2099
   },
   {
    "date": "2026-10-17",
-   "views": 1779
+   "views": 2219
   },
   {
    "date": "2026-10-18",
-   "views": 3518
+   "views": 2205
   },
   {
    "date": "2026-10-19",
-   "views": 3499
+   "views": 2227
   },
   {
    "date": "2026-10-20",
-   "views": 3369
+   "views": 1840
   },
   {
    "date": "2026-10-21",
-   "views": 3111
+   "views": 1923
   },
   {
    "date": "2026-10-22",
-   "views": 3174
+   "views": 1944
   },
   {
    "date": "2026-10-23",
-   "views": 3433
+   "views": 1788
   },
   {
    "date": "2026-10-24",
-   "views": 3762
+   "views": 2068
   },
   {
    "date": "2026-10-25",
-   "views": 6288
+   "views": 2234
   },
   {
    "date": "2026-10-26",
-   "views": 14562
+   "views": 2002
   },
   {
    "date": "2026-10-27",
-   "views": 41111
+   "views": 2169
   },
   {
    "date": "2026-10-28",
-   "views": 76019
+   "views": 1966
+  },
+  {
+   "date": "2026-10-29",
+   "views": 161848
   }
  ],
- "wikipedia_title": "Together_(Israel)",
+ "wikipedia_title": "Lewy_body_dementia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

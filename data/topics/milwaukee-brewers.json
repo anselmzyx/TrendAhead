@@ -1,198 +1,198 @@
 {
- "title": "Ra'am",
- "slug": "ra-am",
- "score": 70,
- "status": "Breaking out",
- "change_percent": 2638,
- "growth_ratio": 27.39,
- "recent_avg": 44664,
- "baseline_avg": 1631,
- "explanation": "Attention is 27\u00d7 its 30-day baseline.",
+ "title": "Milwaukee Brewers",
+ "slug": "milwaukee-brewers",
+ "score": 47,
+ "status": "Building",
+ "change_percent": 497,
+ "growth_ratio": 5.97,
+ "recent_avg": 95173,
+ "baseline_avg": 15941,
+ "explanation": "Attention is 6.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 43033,
- "latest": 83439,
+ "abs_change": 79232,
+ "latest": 185722,
  "components": {
-  "acceleration": 0.846,
-  "anomaly": 1.0,
-  "persistence": 1.0,
+  "acceleration": 0.457,
+  "anomaly": 0.419,
+  "persistence": 0.72,
   "momentum": 1.0,
-  "volume": 0.825,
-  "spike_quality": 0.749
+  "volume": 0.989,
+  "spike_quality": 0.812
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 44,664 views/day over the last 3 days (30-day baseline: 1,631)."
+  "Averaging 95,173 views/day over the last 3 days (30-day baseline: 15,941)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 34
-  },
-  {
    "date": "2026-09-20",
-   "views": 34
+   "views": 1462
   },
   {
    "date": "2026-09-21",
-   "views": 48
+   "views": 1913
   },
   {
    "date": "2026-09-22",
-   "views": 236
+   "views": 1488
   },
   {
    "date": "2026-09-23",
-   "views": 1477
+   "views": 1768
   },
   {
    "date": "2026-09-24",
-   "views": 3361
+   "views": 1974
   },
   {
    "date": "2026-09-25",
-   "views": 2131
+   "views": 2558
   },
   {
    "date": "2026-09-26",
-   "views": 1319
+   "views": 2137
   },
   {
    "date": "2026-09-27",
-   "views": 1270
+   "views": 2582
   },
   {
    "date": "2026-09-28",
-   "views": 1275
+   "views": 2662
   },
   {
    "date": "2026-09-29",
-   "views": 1236
+   "views": 2536
   },
   {
    "date": "2026-09-30",
-   "views": 1156
+   "views": 2547
   },
   {
    "date": "2026-10-01",
-   "views": 1278
+   "views": 3233
   },
   {
    "date": "2026-10-02",
-   "views": 1725
+   "views": 2773
   },
   {
    "date": "2026-10-03",
-   "views": 1716
+   "views": 2871
   },
   {
    "date": "2026-10-04",
-   "views": 1572
+   "views": 10844
   },
   {
    "date": "2026-10-05",
-   "views": 1360
+   "views": 5466
   },
   {
    "date": "2026-10-06",
-   "views": 1333
+   "views": 3867
   },
   {
    "date": "2026-10-07",
-   "views": 1410
+   "views": 6417
   },
   {
    "date": "2026-10-08",
-   "views": 1286
+   "views": 12626
   },
   {
    "date": "2026-10-09",
-   "views": 1091
+   "views": 4627
   },
   {
    "date": "2026-10-10",
-   "views": 951
+   "views": 2728
   },
   {
    "date": "2026-10-11",
-   "views": 1084
+   "views": 6893
   },
   {
    "date": "2026-10-12",
-   "views": 1116
+   "views": 31841
   },
   {
    "date": "2026-10-13",
-   "views": 1043
+   "views": 22466
   },
   {
    "date": "2026-10-14",
-   "views": 1153
+   "views": 8451
   },
   {
    "date": "2026-10-15",
-   "views": 1362
+   "views": 42401
   },
   {
    "date": "2026-10-16",
-   "views": 1434
+   "views": 91434
   },
   {
    "date": "2026-10-17",
-   "views": 1304
+   "views": 18701
   },
   {
    "date": "2026-10-18",
-   "views": 2082
+   "views": 12742
   },
   {
    "date": "2026-10-19",
-   "views": 2070
+   "views": 10091
   },
   {
    "date": "2026-10-20",
-   "views": 2180
+   "views": 32296
   },
   {
    "date": "2026-10-21",
-   "views": 2371
+   "views": 12121
   },
   {
    "date": "2026-10-22",
-   "views": 2405
+   "views": 9406
   },
   {
    "date": "2026-10-23",
-   "views": 2496
+   "views": 16049
   },
   {
    "date": "2026-10-24",
-   "views": 2631
+   "views": 49416
   },
   {
    "date": "2026-10-25",
-   "views": 4218
+   "views": 37012
   },
   {
    "date": "2026-10-26",
-   "views": 8704
+   "views": 11117
   },
   {
    "date": "2026-10-27",
-   "views": 41850
+   "views": 49178
   },
   {
    "date": "2026-10-28",
-   "views": 83439
+   "views": 50619
+  },
+  {
+   "date": "2026-10-29",
+   "views": 185722
   }
  ],
- "wikipedia_title": "Ra'am",
+ "wikipedia_title": "Milwaukee_Brewers",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

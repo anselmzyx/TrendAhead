@@ -1,198 +1,197 @@
 {
- "title": "David Walliams",
- "slug": "david-walliams",
- "score": 42,
+ "title": "Wendy Neuss",
+ "slug": "wendy-neuss",
+ "score": 37,
  "status": "Breaking out",
- "change_percent": 1192,
- "growth_ratio": 12.92,
- "recent_avg": 33155,
- "baseline_avg": 2567,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "change_percent": 13337,
+ "growth_ratio": 134.47,
+ "recent_avg": 38162,
+ "baseline_avg": 284,
+ "explanation": "Attention is 134\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30588,
- "latest": 71358,
+ "abs_change": 37878,
+ "latest": 113901,
  "components": {
-  "acceleration": 0.654,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.2,
   "momentum": 0.933,
-  "volume": 0.76,
-  "spike_quality": 0.708
+  "volume": 0.791,
+  "spike_quality": 0.508
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 33,155 views/day over the last 3 days (30-day baseline: 2,567)."
+  "Averaging 38,162 views/day over the last 3 days (30-day baseline: 284)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 23560
-  },
-  {
    "date": "2026-09-20",
-   "views": 9134
+   "views": 309
   },
   {
    "date": "2026-09-21",
-   "views": 4998
+   "views": 320
   },
   {
    "date": "2026-09-22",
-   "views": 2823
+   "views": 430
   },
   {
    "date": "2026-09-23",
-   "views": 2920
+   "views": 368
   },
   {
    "date": "2026-09-24",
-   "views": 3123
+   "views": 409
   },
   {
    "date": "2026-09-25",
-   "views": 2656
+   "views": 307
   },
   {
    "date": "2026-09-26",
-   "views": 2383
+   "views": 306
   },
   {
    "date": "2026-09-27",
-   "views": 2292
+   "views": 363
   },
   {
    "date": "2026-09-28",
-   "views": 1926
+   "views": 548
   },
   {
    "date": "2026-09-29",
-   "views": 1994
+   "views": 344
   },
   {
    "date": "2026-09-30",
-   "views": 1830
+   "views": 284
   },
   {
    "date": "2026-10-01",
-   "views": 1617
+   "views": 291
   },
   {
    "date": "2026-10-02",
-   "views": 1816
+   "views": 303
   },
   {
    "date": "2026-10-03",
-   "views": 1796
+   "views": 293
   },
   {
    "date": "2026-10-04",
-   "views": 1910
+   "views": 307
   },
   {
    "date": "2026-10-05",
-   "views": 1681
+   "views": 261
   },
   {
    "date": "2026-10-06",
-   "views": 1391
+   "views": 247
   },
   {
    "date": "2026-10-07",
-   "views": 1421
+   "views": 279
   },
   {
    "date": "2026-10-08",
-   "views": 1434
+   "views": 273
   },
   {
    "date": "2026-10-09",
-   "views": 1661
+   "views": 249
   },
   {
    "date": "2026-10-10",
-   "views": 1663
+   "views": 281
   },
   {
    "date": "2026-10-11",
-   "views": 1802
+   "views": 272
   },
   {
    "date": "2026-10-12",
-   "views": 1667
+   "views": 264
   },
   {
    "date": "2026-10-13",
-   "views": 1391
+   "views": 270
   },
   {
    "date": "2026-10-14",
-   "views": 2219
+   "views": 262
   },
   {
    "date": "2026-10-15",
-   "views": 1998
+   "views": 244
   },
   {
    "date": "2026-10-16",
-   "views": 2741
+   "views": 236
   },
   {
    "date": "2026-10-17",
-   "views": 8568
+   "views": 324
   },
   {
    "date": "2026-10-18",
-   "views": 5523
+   "views": 272
   },
   {
    "date": "2026-10-19",
-   "views": 3143
+   "views": 230
   },
   {
    "date": "2026-10-20",
-   "views": 5922
+   "views": 272
   },
   {
    "date": "2026-10-21",
-   "views": 3901
+   "views": 223
   },
   {
    "date": "2026-10-22",
-   "views": 3578
+   "views": 227
   },
   {
    "date": "2026-10-23",
-   "views": 2326
+   "views": 238
   },
   {
    "date": "2026-10-24",
-   "views": 2781
+   "views": 289
   },
   {
    "date": "2026-10-25",
-   "views": 2621
+   "views": 273
   },
   {
    "date": "2026-10-26",
-   "views": 2580
+   "views": 295
   },
   {
    "date": "2026-10-27",
-   "views": 25528
+   "views": 291
   },
   {
    "date": "2026-10-28",
-   "views": 71358
+   "views": 294
+  },
+  {
+   "date": "2026-10-29",
+   "views": 113901
   }
  ],
- "wikipedia_title": "David_Walliams",
+ "wikipedia_title": "Wendy_Neuss",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

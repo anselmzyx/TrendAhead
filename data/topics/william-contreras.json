@@ -1,196 +1,197 @@
 {
- "title": "Jair Bolsonaro",
- "slug": "jair-bolsonaro",
- "score": 37,
- "status": "Elevated",
- "change_percent": 987,
- "growth_ratio": 10.87,
- "recent_avg": 119021,
- "baseline_avg": 10945,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "title": "William Contreras",
+ "slug": "william-contreras",
+ "score": 63,
+ "status": "Breaking out",
+ "change_percent": 1744,
+ "growth_ratio": 18.44,
+ "recent_avg": 94168,
+ "baseline_avg": 5107,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 108076,
- "latest": 100598,
+ "abs_change": 89061,
+ "latest": 228487,
  "components": {
-  "acceleration": 0.61,
-  "anomaly": 0.624,
-  "persistence": 0.72,
-  "momentum": 0.617,
-  "volume": 1.0,
-  "spike_quality": 0.63
+  "acceleration": 0.745,
+  "anomaly": 1.0,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.987,
+  "spike_quality": 0.687
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 119,021 views/day over the last 3 days (30-day baseline: 10,945)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 94,168 views/day over the last 3 days (30-day baseline: 5,107)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 1374
-  },
-  {
    "date": "2026-09-20",
-   "views": 1733
+   "views": 177
   },
   {
    "date": "2026-09-21",
-   "views": 1988
+   "views": 409
   },
   {
    "date": "2026-09-22",
-   "views": 2491
+   "views": 203
   },
   {
    "date": "2026-09-23",
-   "views": 2052
+   "views": 534
   },
   {
    "date": "2026-09-24",
-   "views": 1908
+   "views": 361
   },
   {
    "date": "2026-09-25",
-   "views": 2158
+   "views": 303
   },
   {
    "date": "2026-09-26",
-   "views": 2965
+   "views": 765
   },
   {
    "date": "2026-09-27",
-   "views": 3277
+   "views": 460
   },
   {
    "date": "2026-09-28",
-   "views": 5836
+   "views": 217
   },
   {
    "date": "2026-09-29",
-   "views": 4308
+   "views": 226
   },
   {
    "date": "2026-09-30",
-   "views": 3575
+   "views": 832
   },
   {
    "date": "2026-10-01",
-   "views": 3924
+   "views": 1652
   },
   {
    "date": "2026-10-02",
-   "views": 5453
+   "views": 353
   },
   {
    "date": "2026-10-03",
-   "views": 7204
+   "views": 290
   },
   {
    "date": "2026-10-04",
-   "views": 36817
+   "views": 10761
   },
   {
    "date": "2026-10-05",
-   "views": 92753
+   "views": 1595
   },
   {
    "date": "2026-10-06",
-   "views": 24012
+   "views": 1302
   },
   {
    "date": "2026-10-07",
-   "views": 11513
+   "views": 8831
   },
   {
    "date": "2026-10-08",
-   "views": 7981
+   "views": 4243
   },
   {
    "date": "2026-10-09",
-   "views": 6715
+   "views": 718
   },
   {
    "date": "2026-10-10",
-   "views": 5209
+   "views": 499
   },
   {
    "date": "2026-10-11",
-   "views": 4651
+   "views": 423
   },
   {
    "date": "2026-10-12",
-   "views": 4417
+   "views": 17712
   },
   {
    "date": "2026-10-13",
-   "views": 3871
+   "views": 18862
   },
   {
    "date": "2026-10-14",
-   "views": 3725
+   "views": 3383
   },
   {
    "date": "2026-10-15",
-   "views": 3807
+   "views": 7603
   },
   {
    "date": "2026-10-16",
-   "views": 3282
+   "views": 13353
   },
   {
    "date": "2026-10-17",
-   "views": 3594
+   "views": 2043
   },
   {
    "date": "2026-10-18",
-   "views": 3807
+   "views": 1069
   },
   {
    "date": "2026-10-19",
-   "views": 10905
+   "views": 739
   },
   {
    "date": "2026-10-20",
-   "views": 7033
+   "views": 1109
   },
   {
    "date": "2026-10-21",
-   "views": 4781
+   "views": 632
   },
   {
    "date": "2026-10-22",
-   "views": 4392
+   "views": 785
   },
   {
    "date": "2026-10-23",
-   "views": 5074
+   "views": 1748
   },
   {
    "date": "2026-10-24",
-   "views": 9594
+   "views": 20733
   },
   {
    "date": "2026-10-25",
-   "views": 33870
+   "views": 27456
   },
   {
    "date": "2026-10-26",
-   "views": 172365
+   "views": 3595
   },
   {
    "date": "2026-10-27",
-   "views": 84100
+   "views": 24622
   },
   {
    "date": "2026-10-28",
-   "views": 100598
+   "views": 29395
+  },
+  {
+   "date": "2026-10-29",
+   "views": 228487
   }
  ],
- "wikipedia_title": "Jair_Bolsonaro",
+ "wikipedia_title": "William_Contreras",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

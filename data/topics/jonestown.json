@@ -1,196 +1,197 @@
 {
- "title": "Donnie Iris",
- "slug": "donnie-iris",
- "score": 38,
- "status": "Elevated",
- "change_percent": 15157,
- "growth_ratio": 152.58,
- "recent_avg": 67131,
- "baseline_avg": 440,
- "explanation": "Attention is 153\u00d7 its 30-day baseline.",
+ "title": "Jonestown",
+ "slug": "jonestown",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 919,
+ "growth_ratio": 10.19,
+ "recent_avg": 33253,
+ "baseline_avg": 3263,
+ "explanation": "Attention is 10\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 66691,
- "latest": 70990,
+ "abs_change": 29990,
+ "latest": 90259,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.593,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.568,
-  "volume": 0.913,
-  "spike_quality": 0.557
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.761,
+  "spike_quality": 0.62
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 67,131 views/day over the last 3 days (30-day baseline: 440)."
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 33,253 views/day over the last 3 days (30-day baseline: 3,263)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 215
-  },
-  {
    "date": "2026-09-20",
-   "views": 199
+   "views": 3163
   },
   {
    "date": "2026-09-21",
-   "views": 207
+   "views": 3664
   },
   {
    "date": "2026-09-22",
-   "views": 192
+   "views": 3637
   },
   {
    "date": "2026-09-23",
-   "views": 198
+   "views": 3370
   },
   {
    "date": "2026-09-24",
-   "views": 179
+   "views": 3266
   },
   {
    "date": "2026-09-25",
-   "views": 229
+   "views": 2991
   },
   {
    "date": "2026-09-26",
-   "views": 192
+   "views": 3199
   },
   {
    "date": "2026-09-27",
-   "views": 180
+   "views": 3287
   },
   {
    "date": "2026-09-28",
-   "views": 234
+   "views": 3266
   },
   {
    "date": "2026-09-29",
-   "views": 745
+   "views": 2969
   },
   {
    "date": "2026-09-30",
-   "views": 622
+   "views": 2789
   },
   {
    "date": "2026-10-01",
-   "views": 446
+   "views": 2828
   },
   {
    "date": "2026-10-02",
-   "views": 321
+   "views": 2832
   },
   {
    "date": "2026-10-03",
-   "views": 236
+   "views": 2796
   },
   {
    "date": "2026-10-04",
-   "views": 240
+   "views": 3166
   },
   {
    "date": "2026-10-05",
-   "views": 501
+   "views": 3082
   },
   {
    "date": "2026-10-06",
-   "views": 389
+   "views": 3866
   },
   {
    "date": "2026-10-07",
-   "views": 235
+   "views": 3559
   },
   {
    "date": "2026-10-08",
-   "views": 376
+   "views": 3164
   },
   {
    "date": "2026-10-09",
-   "views": 1795
+   "views": 3088
   },
   {
    "date": "2026-10-10",
-   "views": 2286
+   "views": 3013
   },
   {
    "date": "2026-10-11",
-   "views": 1012
+   "views": 3204
   },
   {
    "date": "2026-10-12",
-   "views": 452
+   "views": 3272
   },
   {
    "date": "2026-10-13",
-   "views": 294
+   "views": 3170
   },
   {
    "date": "2026-10-14",
-   "views": 334
+   "views": 3158
   },
   {
    "date": "2026-10-15",
-   "views": 235
+   "views": 3736
   },
   {
    "date": "2026-10-16",
-   "views": 225
+   "views": 3182
   },
   {
    "date": "2026-10-17",
-   "views": 263
+   "views": 3107
   },
   {
    "date": "2026-10-18",
-   "views": 225
+   "views": 3135
   },
   {
    "date": "2026-10-19",
-   "views": 229
+   "views": 3898
   },
   {
    "date": "2026-10-20",
-   "views": 185
+   "views": 3982
   },
   {
    "date": "2026-10-21",
-   "views": 201
+   "views": 3446
   },
   {
    "date": "2026-10-22",
-   "views": 182
+   "views": 3107
   },
   {
    "date": "2026-10-23",
-   "views": 210
+   "views": 4126
   },
   {
    "date": "2026-10-24",
-   "views": 170
+   "views": 3128
   },
   {
    "date": "2026-10-25",
-   "views": 184
+   "views": 3133
   },
   {
    "date": "2026-10-26",
-   "views": 14768
+   "views": 3390
   },
   {
    "date": "2026-10-27",
-   "views": 115635
+   "views": 3881
   },
   {
    "date": "2026-10-28",
-   "views": 70990
+   "views": 5620
+  },
+  {
+   "date": "2026-10-29",
+   "views": 90259
   }
  ],
- "wikipedia_title": "Donnie_Iris",
+ "wikipedia_title": "Jonestown",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

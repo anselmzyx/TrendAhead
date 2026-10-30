@@ -1,38 +1,33 @@
 {
  "title": ".xxx",
  "slug": "xxx",
- "score": 55,
+ "score": 45,
  "status": "Building",
- "change_percent": 239,
- "growth_ratio": 3.39,
- "recent_avg": 346877,
- "baseline_avg": 102225,
- "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
+ "change_percent": 284,
+ "growth_ratio": 3.84,
+ "recent_avg": 396818,
+ "baseline_avg": 103449,
+ "explanation": "Attention is 3.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 244652,
- "latest": 437305,
+ "abs_change": 293369,
+ "latest": 390246,
  "components": {
-  "acceleration": 0.312,
-  "anomaly": 0.325,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "acceleration": 0.344,
+  "anomaly": 0.38,
+  "persistence": 0.92,
+  "momentum": 0.735,
   "volume": 1.0,
-  "spike_quality": 0.908
+  "spike_quality": 0.889
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 346,877 views/day over the last 3 days (30-day baseline: 102,225)."
+  "Averaging 396,818 views/day over the last 3 days (30-day baseline: 103,449)."
  ],
  "history": [
-  {
-   "date": "2026-09-19",
-   "views": 83369
-  },
   {
    "date": "2026-09-20",
    "views": 105258
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-28",
    "views": 437305
+  },
+  {
+   "date": "2026-10-29",
+   "views": 390246
   }
  ],
  "wikipedia_title": ".xxx",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

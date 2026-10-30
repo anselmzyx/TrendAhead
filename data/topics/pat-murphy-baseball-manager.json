@@ -1,197 +1,198 @@
 {
- "title": "Fl\u00e1vio Bolsonaro",
- "slug": "flavio-bolsonaro",
- "score": 39,
- "status": "Elevated",
- "change_percent": 689,
+ "title": "Pat Murphy (baseball manager)",
+ "slug": "pat-murphy-baseball-manager",
+ "score": 42,
+ "status": "Breaking out",
+ "change_percent": 690,
  "growth_ratio": 7.89,
- "recent_avg": 112258,
- "baseline_avg": 14223,
+ "recent_avg": 87477,
+ "baseline_avg": 11080,
  "explanation": "Attention is 7.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 98035,
- "latest": 111517,
+ "abs_change": 76397,
+ "latest": 196456,
  "components": {
   "acceleration": 0.528,
-  "anomaly": 0.4,
-  "persistence": 0.72,
-  "momentum": 0.72,
-  "volume": 1.0,
-  "spike_quality": 0.746
+  "anomaly": 0.502,
+  "persistence": 0.64,
+  "momentum": 0.867,
+  "volume": 0.971,
+  "spike_quality": 0.751
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 112,258 views/day over the last 3 days (30-day baseline: 14,223)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 87,477 views/day over the last 3 days (30-day baseline: 11,080)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 1069
-  },
-  {
    "date": "2026-09-20",
-   "views": 1755
+   "views": 401
   },
   {
    "date": "2026-09-21",
-   "views": 2061
+   "views": 1495
   },
   {
    "date": "2026-09-22",
-   "views": 2345
+   "views": 1243
   },
   {
    "date": "2026-09-23",
-   "views": 1756
+   "views": 929
   },
   {
    "date": "2026-09-24",
-   "views": 1595
+   "views": 828
   },
   {
    "date": "2026-09-25",
-   "views": 2283
+   "views": 1266
   },
   {
    "date": "2026-09-26",
-   "views": 3368
+   "views": 1268
   },
   {
    "date": "2026-09-27",
-   "views": 3695
+   "views": 2036
   },
   {
    "date": "2026-09-28",
-   "views": 6764
+   "views": 1101
   },
   {
    "date": "2026-09-29",
-   "views": 4754
+   "views": 630
   },
   {
    "date": "2026-09-30",
-   "views": 4310
+   "views": 791
   },
   {
    "date": "2026-10-01",
-   "views": 4763
+   "views": 998
   },
   {
    "date": "2026-10-02",
-   "views": 7300
+   "views": 812
   },
   {
    "date": "2026-10-03",
-   "views": 9905
+   "views": 985
   },
   {
    "date": "2026-10-04",
-   "views": 60066
+   "views": 6805
   },
   {
    "date": "2026-10-05",
-   "views": 128855
+   "views": 2421
   },
   {
    "date": "2026-10-06",
-   "views": 30619
+   "views": 1161
   },
   {
    "date": "2026-10-07",
-   "views": 14098
+   "views": 10901
   },
   {
    "date": "2026-10-08",
-   "views": 9724
+   "views": 14527
   },
   {
    "date": "2026-10-09",
-   "views": 7909
+   "views": 3057
   },
   {
    "date": "2026-10-10",
-   "views": 6094
+   "views": 2012
   },
   {
    "date": "2026-10-11",
-   "views": 5371
+   "views": 2222
   },
   {
    "date": "2026-10-12",
-   "views": 5076
+   "views": 33083
   },
   {
    "date": "2026-10-13",
-   "views": 4252
+   "views": 17895
   },
   {
    "date": "2026-10-14",
-   "views": 4244
+   "views": 5864
   },
   {
    "date": "2026-10-15",
-   "views": 4422
+   "views": 28732
   },
   {
    "date": "2026-10-16",
-   "views": 3618
+   "views": 73145
   },
   {
    "date": "2026-10-17",
-   "views": 4412
+   "views": 15806
   },
   {
    "date": "2026-10-18",
-   "views": 4650
+   "views": 6244
   },
   {
    "date": "2026-10-19",
-   "views": 11429
+   "views": 3535
   },
   {
    "date": "2026-10-20",
-   "views": 7572
+   "views": 5381
   },
   {
    "date": "2026-10-21",
-   "views": 5663
+   "views": 5100
   },
   {
    "date": "2026-10-22",
-   "views": 5182
+   "views": 4740
   },
   {
    "date": "2026-10-23",
-   "views": 5997
+   "views": 6603
   },
   {
    "date": "2026-10-24",
-   "views": 11549
+   "views": 33931
   },
   {
    "date": "2026-10-25",
-   "views": 41015
+   "views": 29344
   },
   {
    "date": "2026-10-26",
-   "views": 147560
+   "views": 12549
   },
   {
    "date": "2026-10-27",
-   "views": 77696
+   "views": 35539
   },
   {
    "date": "2026-10-28",
-   "views": 111517
+   "views": 30437
+  },
+  {
+   "date": "2026-10-29",
+   "views": 196456
   }
  ],
- "wikipedia_title": "Fl\u00e1vio_Bolsonaro",
+ "wikipedia_title": "Pat_Murphy_(baseball_manager)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

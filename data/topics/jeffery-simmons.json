@@ -1,198 +1,197 @@
 {
- "title": "Likud",
- "slug": "likud",
- "score": 63,
- "status": "Building",
- "change_percent": 1346,
- "growth_ratio": 14.46,
- "recent_avg": 42992,
- "baseline_avg": 2973,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "title": "Jeffery Simmons",
+ "slug": "jeffery-simmons",
+ "score": 57,
+ "status": "Breaking out",
+ "change_percent": 7905,
+ "growth_ratio": 80.0,
+ "recent_avg": 42268,
+ "baseline_avg": 528,
+ "explanation": "Attention is 80\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 40019,
- "latest": 67622,
+ "abs_change": 41740,
+ "latest": 122632,
  "components": {
-  "acceleration": 0.683,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.8,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.817,
-  "spike_quality": 0.816
+  "volume": 0.813,
+  "spike_quality": 0.531
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,992 views/day over the last 3 days (30-day baseline: 2,973)."
+  "Averaging 42,268 views/day over the last 3 days (30-day baseline: 528)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 1731
-  },
-  {
    "date": "2026-09-20",
-   "views": 1869
+   "views": 3610
   },
   {
    "date": "2026-09-21",
-   "views": 1631
+   "views": 3392
   },
   {
    "date": "2026-09-22",
-   "views": 1669
+   "views": 1033
   },
   {
    "date": "2026-09-23",
-   "views": 2143
+   "views": 583
   },
   {
    "date": "2026-09-24",
-   "views": 3261
+   "views": 464
   },
   {
    "date": "2026-09-25",
-   "views": 4493
+   "views": 443
   },
   {
    "date": "2026-09-26",
-   "views": 2551
+   "views": 473
   },
   {
    "date": "2026-09-27",
-   "views": 2318
+   "views": 1030
   },
   {
    "date": "2026-09-28",
-   "views": 2270
+   "views": 643
   },
   {
    "date": "2026-09-29",
-   "views": 2248
+   "views": 473
   },
   {
    "date": "2026-09-30",
-   "views": 2672
+   "views": 423
   },
   {
    "date": "2026-10-01",
-   "views": 2734
+   "views": 382
   },
   {
    "date": "2026-10-02",
-   "views": 3381
+   "views": 406
   },
   {
    "date": "2026-10-03",
-   "views": 3684
+   "views": 441
   },
   {
    "date": "2026-10-04",
-   "views": 3298
+   "views": 590
   },
   {
    "date": "2026-10-05",
-   "views": 2932
+   "views": 652
   },
   {
    "date": "2026-10-06",
-   "views": 2538
+   "views": 505
   },
   {
    "date": "2026-10-07",
-   "views": 2956
+   "views": 386
   },
   {
    "date": "2026-10-08",
-   "views": 2660
+   "views": 309
   },
   {
    "date": "2026-10-09",
-   "views": 2281
+   "views": 260
   },
   {
    "date": "2026-10-10",
-   "views": 2047
+   "views": 202
   },
   {
    "date": "2026-10-11",
-   "views": 2227
+   "views": 694
   },
   {
    "date": "2026-10-12",
-   "views": 2189
+   "views": 505
   },
   {
    "date": "2026-10-13",
-   "views": 1984
+   "views": 355
   },
   {
    "date": "2026-10-14",
-   "views": 2212
+   "views": 314
   },
   {
    "date": "2026-10-15",
-   "views": 2381
+   "views": 338
   },
   {
    "date": "2026-10-16",
-   "views": 2117
+   "views": 274
   },
   {
    "date": "2026-10-17",
-   "views": 1993
+   "views": 263
   },
   {
    "date": "2026-10-18",
-   "views": 3704
+   "views": 1194
   },
   {
    "date": "2026-10-19",
-   "views": 3689
+   "views": 795
   },
   {
    "date": "2026-10-20",
-   "views": 3681
+   "views": 444
   },
   {
    "date": "2026-10-21",
-   "views": 3622
+   "views": 655
   },
   {
    "date": "2026-10-22",
-   "views": 3696
+   "views": 610
   },
   {
    "date": "2026-10-23",
-   "views": 3766
+   "views": 513
   },
   {
    "date": "2026-10-24",
-   "views": 4046
+   "views": 419
   },
   {
    "date": "2026-10-25",
-   "views": 7314
+   "views": 909
   },
   {
    "date": "2026-10-26",
-   "views": 15602
+   "views": 866
   },
   {
    "date": "2026-10-27",
-   "views": 45752
+   "views": 1573
   },
   {
    "date": "2026-10-28",
-   "views": 67622
+   "views": 2598
+  },
+  {
+   "date": "2026-10-29",
+   "views": 122632
   }
  ],
- "wikipedia_title": "Likud",
+ "wikipedia_title": "Jeffery_Simmons",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "2022 Israeli legislative election",
- "slug": "2022-israeli-legislative-election",
- "score": 76,
+ "title": "Brett Sylvia",
+ "slug": "brett-sylvia",
+ "score": 38,
  "status": "Breaking out",
- "change_percent": 3690,
- "growth_ratio": 37.9,
- "recent_avg": 71185,
- "baseline_avg": 1878,
- "explanation": "Attention is 38\u00d7 its 30-day baseline.",
+ "change_percent": 122412,
+ "growth_ratio": 196.02,
+ "recent_avg": 19602,
+ "baseline_avg": 16,
+ "explanation": "Attention is 196\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 69307,
- "latest": 133655,
+ "abs_change": 19586,
+ "latest": 58565,
  "components": {
-  "acceleration": 0.929,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 1.0,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.926,
-  "spike_quality": 0.742
+  "volume": 0.646,
+  "spike_quality": 0.503
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 71,185 views/day over the last 3 days (30-day baseline: 1,878)."
+  "Averaging 19,602 views/day over the last 3 days (30-day baseline: 16)."
  ],
  "history": [
   {
-   "date": "2026-09-19",
-   "views": 811
-  },
-  {
    "date": "2026-09-20",
-   "views": 918
+   "views": 17
   },
   {
    "date": "2026-09-21",
-   "views": 818
+   "views": 20
   },
   {
    "date": "2026-09-22",
-   "views": 889
+   "views": 32
   },
   {
    "date": "2026-09-23",
-   "views": 1070
+   "views": 24
   },
   {
    "date": "2026-09-24",
-   "views": 1519
+   "views": 22
   },
   {
    "date": "2026-09-25",
-   "views": 1894
+   "views": 16
   },
   {
    "date": "2026-09-26",
-   "views": 1200
+   "views": 12
   },
   {
    "date": "2026-09-27",
-   "views": 1205
+   "views": 17
   },
   {
    "date": "2026-09-28",
-   "views": 1175
+   "views": 19
   },
   {
    "date": "2026-09-29",
-   "views": 1261
+   "views": 15
   },
   {
    "date": "2026-09-30",
-   "views": 1420
+   "views": 17
   },
   {
    "date": "2026-10-01",
-   "views": 1694
+   "views": 23
   },
   {
    "date": "2026-10-02",
-   "views": 1845
+   "views": 22
   },
   {
    "date": "2026-10-03",
-   "views": 1776
+   "views": 22
   },
   {
    "date": "2026-10-04",
-   "views": 1784
+   "views": 15
   },
   {
    "date": "2026-10-05",
-   "views": 1492
+   "views": 8
   },
   {
    "date": "2026-10-06",
-   "views": 1446
+   "views": 13
   },
   {
    "date": "2026-10-07",
-   "views": 1576
+   "views": 15
   },
   {
    "date": "2026-10-08",
-   "views": 1465
+   "views": 16
   },
   {
    "date": "2026-10-09",
-   "views": 1297
+   "views": 21
   },
   {
    "date": "2026-10-10",
-   "views": 1192
+   "views": 19
   },
   {
    "date": "2026-10-11",
-   "views": 1174
+   "views": 8
   },
   {
    "date": "2026-10-12",
-   "views": 1360
+   "views": 19
   },
   {
    "date": "2026-10-13",
-   "views": 1224
+   "views": 14
   },
   {
    "date": "2026-10-14",
-   "views": 1357
+   "views": 21
   },
   {
    "date": "2026-10-15",
-   "views": 1440
+   "views": 17
   },
   {
    "date": "2026-10-16",
-   "views": 1519
+   "views": 27
   },
   {
    "date": "2026-10-17",
-   "views": 1317
+   "views": 8
   },
   {
    "date": "2026-10-18",
-   "views": 2504
+   "views": 7
   },
   {
    "date": "2026-10-19",
-   "views": 2868
+   "views": 21
   },
   {
    "date": "2026-10-20",
-   "views": 2597
+   "views": 18
   },
   {
    "date": "2026-10-21",
-   "views": 2580
+   "views": 17
   },
   {
    "date": "2026-10-22",
-   "views": 2910
+   "views": 18
   },
   {
    "date": "2026-10-23",
-   "views": 3095
+   "views": 10
   },
   {
    "date": "2026-10-24",
-   "views": 3117
+   "views": 7
   },
   {
    "date": "2026-10-25",
-   "views": 5463
+   "views": 11
   },
   {
    "date": "2026-10-26",
-   "views": 12278
+   "views": 19
   },
   {
    "date": "2026-10-27",
-   "views": 67621
+   "views": 21
   },
   {
    "date": "2026-10-28",
-   "views": 133655
+   "views": 221
+  },
+  {
+   "date": "2026-10-29",
+   "views": 58565
   }
  ],
- "wikipedia_title": "2022_Israeli_legislative_election",
+ "wikipedia_title": "Brett_Sylvia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-28",
- "generated_at_utc": "2026-10-29T11:42:45+00:00"
+ "data_through": "2026-10-29",
+ "generated_at_utc": "2026-10-30T11:35:01+00:00"
 }
