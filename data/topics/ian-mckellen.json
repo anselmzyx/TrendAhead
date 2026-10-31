@@ -1,197 +1,198 @@
 {
- "title": "Gadi Eisenkot",
- "slug": "gadi-eisenkot",
- "score": 35,
- "status": "Peaked / fading",
- "change_percent": 1604,
- "growth_ratio": 17.04,
- "recent_avg": 139838,
- "baseline_avg": 8208,
- "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Ian McKellen",
+ "slug": "ian-mckellen",
+ "score": 52,
+ "status": "Breaking out",
+ "change_percent": 1750,
+ "growth_ratio": 18.5,
+ "recent_avg": 115701,
+ "baseline_avg": 6255,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 131630,
- "latest": 53899,
+ "abs_change": 109446,
+ "latest": 213817,
  "components": {
-  "acceleration": 0.725,
+  "acceleration": 0.746,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.374,
+  "persistence": 0.4,
+  "momentum": 0.933,
   "volume": 1.0,
-  "spike_quality": 0.529
+  "spike_quality": 0.748
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 139,838 views/day over the last 3 days (30-day baseline: 8,208)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 115,701 views/day over the last 3 days (30-day baseline: 6,255)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 1863
-  },
-  {
    "date": "2026-09-21",
-   "views": 1500
+   "views": 6864
   },
   {
    "date": "2026-09-22",
-   "views": 1732
+   "views": 5361
   },
   {
    "date": "2026-09-23",
-   "views": 2286
+   "views": 5936
   },
   {
    "date": "2026-09-24",
-   "views": 4062
+   "views": 5821
   },
   {
    "date": "2026-09-25",
-   "views": 6946
+   "views": 5254
   },
   {
    "date": "2026-09-26",
-   "views": 3100
+   "views": 6463
   },
   {
    "date": "2026-09-27",
-   "views": 2531
+   "views": 6864
   },
   {
    "date": "2026-09-28",
-   "views": 3048
+   "views": 7619
   },
   {
    "date": "2026-09-29",
-   "views": 3340
+   "views": 7337
   },
   {
    "date": "2026-09-30",
-   "views": 2964
+   "views": 5987
   },
   {
    "date": "2026-10-01",
-   "views": 3092
+   "views": 6344
   },
   {
    "date": "2026-10-02",
-   "views": 3910
+   "views": 6977
   },
   {
    "date": "2026-10-03",
-   "views": 4813
+   "views": 6940
   },
   {
    "date": "2026-10-04",
-   "views": 3310
+   "views": 7334
   },
   {
    "date": "2026-10-05",
-   "views": 3811
+   "views": 5777
   },
   {
    "date": "2026-10-06",
-   "views": 3508
+   "views": 5110
   },
   {
    "date": "2026-10-07",
-   "views": 4906
+   "views": 6198
   },
   {
    "date": "2026-10-08",
-   "views": 4005
+   "views": 6745
   },
   {
    "date": "2026-10-09",
-   "views": 2872
+   "views": 6610
   },
   {
    "date": "2026-10-10",
-   "views": 2556
+   "views": 7811
   },
   {
    "date": "2026-10-11",
-   "views": 2973
+   "views": 7404
   },
   {
    "date": "2026-10-12",
-   "views": 3564
+   "views": 6321
   },
   {
    "date": "2026-10-13",
-   "views": 3296
+   "views": 5388
   },
   {
    "date": "2026-10-14",
-   "views": 4430
+   "views": 5421
   },
   {
    "date": "2026-10-15",
-   "views": 5355
+   "views": 5291
   },
   {
    "date": "2026-10-16",
-   "views": 4282
+   "views": 5744
   },
   {
    "date": "2026-10-17",
-   "views": 3777
+   "views": 6809
   },
   {
    "date": "2026-10-18",
-   "views": 8115
+   "views": 6929
   },
   {
    "date": "2026-10-19",
-   "views": 9001
+   "views": 5615
   },
   {
    "date": "2026-10-20",
-   "views": 8223
+   "views": 5276
   },
   {
    "date": "2026-10-21",
-   "views": 8312
+   "views": 5068
   },
   {
    "date": "2026-10-22",
-   "views": 10135
+   "views": 5187
   },
   {
    "date": "2026-10-23",
-   "views": 11931
+   "views": 5608
   },
   {
    "date": "2026-10-24",
-   "views": 14407
+   "views": 6635
   },
   {
    "date": "2026-10-25",
-   "views": 34374
+   "views": 6482
   },
   {
    "date": "2026-10-26",
-   "views": 65407
+   "views": 6009
   },
   {
    "date": "2026-10-27",
-   "views": 179535
+   "views": 5666
   },
   {
    "date": "2026-10-28",
-   "views": 186080
+   "views": 5456
   },
   {
    "date": "2026-10-29",
-   "views": 53899
+   "views": 127831
+  },
+  {
+   "date": "2026-10-30",
+   "views": 213817
   }
  ],
- "wikipedia_title": "Gadi_Eisenkot",
+ "wikipedia_title": "Ian_McKellen",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

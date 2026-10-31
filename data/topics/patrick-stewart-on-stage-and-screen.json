@@ -1,36 +1,32 @@
 {
  "title": "Patrick Stewart on stage and screen",
  "slug": "patrick-stewart-on-stage-and-screen",
- "score": 36,
- "status": "Breaking out",
- "change_percent": 25365,
- "growth_ratio": 254.34,
- "recent_avg": 71046,
- "baseline_avg": 279,
- "explanation": "Attention is 254\u00d7 its 30-day baseline.",
+ "score": 31,
+ "status": "Elevated",
+ "change_percent": 39780,
+ "growth_ratio": 398.42,
+ "recent_avg": 110866,
+ "baseline_avg": 278,
+ "explanation": "Attention is 398\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 70767,
- "latest": 212550,
+ "abs_change": 110588,
+ "latest": 119754,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.926,
-  "spike_quality": 0.505
+  "persistence": 0.32,
+  "momentum": 0.471,
+  "volume": 1.0,
+  "spike_quality": 0.494
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 71,046 views/day over the last 3 days (30-day baseline: 279)."
+  "Averaging 110,866 views/day over the last 3 days (30-day baseline: 278)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 322
-  },
   {
    "date": "2026-09-21",
    "views": 242
@@ -186,11 +182,15 @@
   {
    "date": "2026-10-29",
    "views": 212550
+  },
+  {
+   "date": "2026-10-30",
+   "views": 119754
   }
  ],
  "wikipedia_title": "Patrick_Stewart_on_stage_and_screen",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

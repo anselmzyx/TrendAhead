@@ -1,36 +1,34 @@
 {
  "title": "Sunny Ozell",
  "slug": "sunny-ozell",
- "score": 38,
+ "score": 59,
  "status": "Breaking out",
- "change_percent": 12121,
- "growth_ratio": 122.21,
- "recent_avg": 116100,
- "baseline_avg": 950,
- "explanation": "Attention is 122\u00d7 its 30-day baseline.",
+ "change_percent": 29749,
+ "growth_ratio": 298.62,
+ "recent_avg": 278794,
+ "baseline_avg": 934,
+ "explanation": "Attention is 299\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 115150,
- "latest": 346682,
+ "abs_change": 277860,
+ "latest": 488907,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
+  "persistence": 0.4,
+  "momentum": 0.933,
   "volume": 1.0,
-  "spike_quality": 0.509
+  "spike_quality": 0.744
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 116,100 views/day over the last 3 days (30-day baseline: 950)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 278,794 views/day over the last 3 days (30-day baseline: 934)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 1011
-  },
   {
    "date": "2026-09-21",
    "views": 1249
@@ -186,11 +184,15 @@
   {
    "date": "2026-10-29",
    "views": 346682
+  },
+  {
+   "date": "2026-10-30",
+   "views": 488907
   }
  ],
  "wikipedia_title": "Sunny_Ozell",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

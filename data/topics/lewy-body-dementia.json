@@ -1,37 +1,33 @@
 {
  "title": "Lewy body dementia",
  "slug": "lewy-body-dementia",
- "score": 35,
+ "score": 51,
  "status": "Breaking out",
- "change_percent": 2349,
- "growth_ratio": 24.49,
- "recent_avg": 55328,
- "baseline_avg": 2259,
- "explanation": "Attention is 24\u00d7 its 30-day baseline.",
+ "change_percent": 4709,
+ "growth_ratio": 48.09,
+ "recent_avg": 108157,
+ "baseline_avg": 2249,
+ "explanation": "Attention is 48\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 53069,
- "latest": 161848,
+ "abs_change": 105908,
+ "latest": 160656,
  "components": {
-  "acceleration": 0.818,
+  "acceleration": 0.99,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.871,
-  "spike_quality": 0.541
+  "persistence": 0.32,
+  "momentum": 0.729,
+  "volume": 1.0,
+  "spike_quality": 0.796
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 55,328 views/day over the last 3 days (30-day baseline: 2,259)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 108,157 views/day over the last 3 days (30-day baseline: 2,249)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 2718
-  },
   {
    "date": "2026-09-21",
    "views": 2447
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-29",
    "views": 161848
+  },
+  {
+   "date": "2026-10-30",
+   "views": 160656
   }
  ],
  "wikipedia_title": "Lewy_body_dementia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

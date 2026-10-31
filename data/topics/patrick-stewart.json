@@ -1,36 +1,32 @@
 {
  "title": "Patrick Stewart",
  "slug": "patrick-stewart",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 20373,
- "growth_ratio": 204.73,
- "recent_avg": 788201,
- "baseline_avg": 3850,
- "explanation": "Attention is 205\u00d7 its 30-day baseline.",
+ "score": 42,
+ "status": "Elevated",
+ "change_percent": 36893,
+ "growth_ratio": 369.9,
+ "recent_avg": 1414238,
+ "baseline_avg": 3823,
+ "explanation": "Attention is 370\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 784351,
- "latest": 2356552,
+ "abs_change": 1410415,
+ "latest": 1882386,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
+  "persistence": 0.32,
+  "momentum": 0.613,
   "volume": 1.0,
-  "spike_quality": 0.506
+  "spike_quality": 0.66
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 788,201 views/day over the last 3 days (30-day baseline: 3,850)."
+  "Averaging 1,414,238 views/day over the last 3 days (30-day baseline: 3,823)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 4323
-  },
   {
    "date": "2026-09-21",
    "views": 4274
@@ -186,11 +182,15 @@
   {
    "date": "2026-10-29",
    "views": 2356552
+  },
+  {
+   "date": "2026-10-30",
+   "views": 1882386
   }
  ],
  "wikipedia_title": "Patrick_Stewart",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

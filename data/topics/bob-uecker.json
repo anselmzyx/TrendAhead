@@ -1,38 +1,34 @@
 {
  "title": "Bob Uecker",
  "slug": "bob-uecker",
- "score": 64,
- "status": "Breaking out",
- "change_percent": 2188,
- "growth_ratio": 22.88,
- "recent_avg": 94083,
- "baseline_avg": 4112,
- "explanation": "Attention is 23\u00d7 its 30-day baseline.",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 2282,
+ "growth_ratio": 23.82,
+ "recent_avg": 104366,
+ "baseline_avg": 4382,
+ "explanation": "Attention surged to 24\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 89971,
- "latest": 205548,
+ "abs_change": 99984,
+ "latest": 39946,
  "components": {
-  "acceleration": 0.8,
+  "acceleration": 0.81,
   "anomaly": 1.0,
   "persistence": 0.72,
-  "momentum": 1.0,
-  "volume": 0.987,
-  "spike_quality": 0.718
+  "momentum": 0.317,
+  "volume": 1.0,
+  "spike_quality": 0.345
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 94,083 views/day over the last 3 days (30-day baseline: 4,112)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 104,366 views/day over the last 3 days (30-day baseline: 4,382)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 757
-  },
   {
    "date": "2026-09-21",
    "views": 675
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-29",
    "views": 205548
+  },
+  {
+   "date": "2026-10-30",
+   "views": 39946
   }
  ],
  "wikipedia_title": "Bob_Uecker",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

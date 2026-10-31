@@ -1,197 +1,198 @@
 {
- "title": "2026 Israeli legislative election",
- "slug": "2026-israeli-legislative-election",
- "score": 38,
+ "title": "Cooper Pratt",
+ "slug": "cooper-pratt",
+ "score": 26,
  "status": "Peaked / fading",
- "change_percent": 2945,
- "growth_ratio": 30.45,
- "recent_avg": 576024,
- "baseline_avg": 18918,
- "explanation": "Attention surged to 30\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 2604,
+ "growth_ratio": 27.04,
+ "recent_avg": 87900,
+ "baseline_avg": 3251,
+ "explanation": "Attention surged to 27\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 557106,
- "latest": 363543,
+ "abs_change": 84649,
+ "latest": 18997,
  "components": {
-  "acceleration": 0.873,
+  "acceleration": 0.843,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.436,
-  "volume": 1.0,
-  "spike_quality": 0.503
+  "persistence": 0.72,
+  "momentum": 0.287,
+  "volume": 0.972,
+  "spike_quality": 0.409
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 576,024 views/day over the last 3 days (30-day baseline: 18,918)."
+  "Averaging 87,900 views/day over the last 3 days (30-day baseline: 3,251)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 6505
-  },
-  {
    "date": "2026-09-21",
-   "views": 6178
+   "views": 614
   },
   {
    "date": "2026-09-22",
-   "views": 6383
+   "views": 177
   },
   {
    "date": "2026-09-23",
-   "views": 7978
+   "views": 290
   },
   {
    "date": "2026-09-24",
-   "views": 12702
+   "views": 191
   },
   {
    "date": "2026-09-25",
-   "views": 13003
+   "views": 176
   },
   {
    "date": "2026-09-26",
-   "views": 9134
+   "views": 210
   },
   {
    "date": "2026-09-27",
-   "views": 9025
+   "views": 195
   },
   {
    "date": "2026-09-28",
-   "views": 9008
+   "views": 81
   },
   {
    "date": "2026-09-29",
-   "views": 9797
+   "views": 71
   },
   {
    "date": "2026-09-30",
-   "views": 10720
+   "views": 69
   },
   {
    "date": "2026-10-01",
-   "views": 11997
+   "views": 78
   },
   {
    "date": "2026-10-02",
-   "views": 12353
+   "views": 61
   },
   {
    "date": "2026-10-03",
-   "views": 11538
+   "views": 84
   },
   {
    "date": "2026-10-04",
-   "views": 11591
+   "views": 2614
   },
   {
    "date": "2026-10-05",
-   "views": 12357
+   "views": 354
   },
   {
    "date": "2026-10-06",
-   "views": 10872
+   "views": 156
   },
   {
    "date": "2026-10-07",
-   "views": 12818
+   "views": 3835
   },
   {
    "date": "2026-10-08",
-   "views": 11758
+   "views": 5455
   },
   {
    "date": "2026-10-09",
-   "views": 10053
+   "views": 2341
   },
   {
    "date": "2026-10-10",
-   "views": 9149
+   "views": 1269
   },
   {
    "date": "2026-10-11",
-   "views": 10153
+   "views": 615
   },
   {
    "date": "2026-10-12",
-   "views": 11099
+   "views": 9876
   },
   {
    "date": "2026-10-13",
-   "views": 10577
+   "views": 1629
   },
   {
    "date": "2026-10-14",
-   "views": 11320
+   "views": 553
   },
   {
    "date": "2026-10-15",
-   "views": 12933
+   "views": 5622
   },
   {
    "date": "2026-10-16",
-   "views": 12341
+   "views": 10985
   },
   {
    "date": "2026-10-17",
-   "views": 11472
+   "views": 1894
   },
   {
    "date": "2026-10-18",
-   "views": 23045
+   "views": 837
   },
   {
    "date": "2026-10-19",
-   "views": 23751
+   "views": 547
   },
   {
    "date": "2026-10-20",
-   "views": 21264
+   "views": 701
   },
   {
    "date": "2026-10-21",
-   "views": 20670
+   "views": 562
   },
   {
    "date": "2026-10-22",
-   "views": 23405
+   "views": 608
   },
   {
    "date": "2026-10-23",
-   "views": 25252
+   "views": 936
   },
   {
    "date": "2026-10-24",
-   "views": 28644
+   "views": 11282
   },
   {
    "date": "2026-10-25",
-   "views": 50624
+   "views": 23676
   },
   {
    "date": "2026-10-26",
-   "views": 117958
+   "views": 2641
   },
   {
    "date": "2026-10-27",
-   "views": 438729
+   "views": 8097
   },
   {
    "date": "2026-10-28",
-   "views": 925801
+   "views": 113736
   },
   {
    "date": "2026-10-29",
-   "views": 363543
+   "views": 130967
+  },
+  {
+   "date": "2026-10-30",
+   "views": 18997
   }
  ],
- "wikipedia_title": "2026_Israeli_legislative_election",
+ "wikipedia_title": "Cooper_Pratt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

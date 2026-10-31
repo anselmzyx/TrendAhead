@@ -1,197 +1,198 @@
 {
- "title": "Yashar (political party)",
- "slug": "yashar-political-party",
- "score": 34,
+ "title": "Lamprey",
+ "slug": "lamprey",
+ "score": 23,
  "status": "Peaked / fading",
- "change_percent": 1516,
- "growth_ratio": 16.16,
- "recent_avg": 85571,
- "baseline_avg": 5295,
- "explanation": "Attention surged to 16\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 8251,
+ "growth_ratio": 83.53,
+ "recent_avg": 58205,
+ "baseline_avg": 697,
+ "explanation": "Attention surged to 84\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 80276,
- "latest": 38698,
+ "abs_change": 57508,
+ "latest": 33726,
  "components": {
-  "acceleration": 0.711,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.385,
-  "volume": 0.966,
-  "spike_quality": 0.51
+  "persistence": 0.52,
+  "momentum": 0.425,
+  "volume": 0.882,
+  "spike_quality": 0.296
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 85,571 views/day over the last 3 days (30-day baseline: 5,295)."
+  "Averaging 58,205 views/day over the last 3 days (30-day baseline: 697)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 1659
-  },
-  {
    "date": "2026-09-21",
-   "views": 1404
+   "views": 752
   },
   {
    "date": "2026-09-22",
-   "views": 1631
+   "views": 776
   },
   {
    "date": "2026-09-23",
-   "views": 2331
+   "views": 740
   },
   {
    "date": "2026-09-24",
-   "views": 3431
+   "views": 772
   },
   {
    "date": "2026-09-25",
-   "views": 4448
+   "views": 635
   },
   {
    "date": "2026-09-26",
-   "views": 2491
+   "views": 641
   },
   {
    "date": "2026-09-27",
-   "views": 2419
+   "views": 3292
   },
   {
    "date": "2026-09-28",
-   "views": 2714
+   "views": 898
   },
   {
    "date": "2026-09-29",
-   "views": 2603
+   "views": 773
   },
   {
    "date": "2026-09-30",
-   "views": 2616
+   "views": 676
   },
   {
    "date": "2026-10-01",
-   "views": 2663
+   "views": 578
   },
   {
    "date": "2026-10-02",
-   "views": 3402
+   "views": 622
   },
   {
    "date": "2026-10-03",
-   "views": 3807
+   "views": 650
   },
   {
    "date": "2026-10-04",
-   "views": 2956
+   "views": 783
   },
   {
    "date": "2026-10-05",
-   "views": 3353
+   "views": 686
   },
   {
    "date": "2026-10-06",
-   "views": 3245
+   "views": 700
   },
   {
    "date": "2026-10-07",
-   "views": 4012
+   "views": 734
   },
   {
    "date": "2026-10-08",
-   "views": 3259
+   "views": 738
   },
   {
    "date": "2026-10-09",
-   "views": 2572
+   "views": 728
   },
   {
    "date": "2026-10-10",
-   "views": 2370
+   "views": 667
   },
   {
    "date": "2026-10-11",
-   "views": 2518
+   "views": 660
   },
   {
    "date": "2026-10-12",
-   "views": 2900
+   "views": 671
   },
   {
    "date": "2026-10-13",
-   "views": 2521
+   "views": 636
   },
   {
    "date": "2026-10-14",
-   "views": 3155
+   "views": 676
   },
   {
    "date": "2026-10-15",
-   "views": 3738
+   "views": 673
   },
   {
    "date": "2026-10-16",
-   "views": 3321
+   "views": 769
   },
   {
    "date": "2026-10-17",
-   "views": 3191
+   "views": 663
   },
   {
    "date": "2026-10-18",
-   "views": 6517
+   "views": 754
   },
   {
    "date": "2026-10-19",
-   "views": 6327
+   "views": 740
   },
   {
    "date": "2026-10-20",
-   "views": 5901
+   "views": 711
   },
   {
    "date": "2026-10-21",
-   "views": 5687
+   "views": 737
   },
   {
    "date": "2026-10-22",
-   "views": 5965
+   "views": 721
   },
   {
    "date": "2026-10-23",
-   "views": 6449
+   "views": 626
   },
   {
    "date": "2026-10-24",
-   "views": 7616
+   "views": 613
   },
   {
    "date": "2026-10-25",
-   "views": 17368
+   "views": 654
   },
   {
    "date": "2026-10-26",
-   "views": 33672
+   "views": 686
   },
   {
    "date": "2026-10-27",
-   "views": 92586
+   "views": 681
   },
   {
    "date": "2026-10-28",
-   "views": 125428
+   "views": 127597
   },
   {
    "date": "2026-10-29",
-   "views": 38698
+   "views": 13293
+  },
+  {
+   "date": "2026-10-30",
+   "views": 33726
   }
  ],
- "wikipedia_title": "Yashar_(political_party)",
+ "wikipedia_title": "Lamprey",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

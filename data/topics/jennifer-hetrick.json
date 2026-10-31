@@ -1,198 +1,198 @@
 {
- "title": "Milwaukee Brewers",
- "slug": "milwaukee-brewers",
- "score": 47,
- "status": "Building",
- "change_percent": 497,
- "growth_ratio": 5.97,
- "recent_avg": 95173,
- "baseline_avg": 15941,
- "explanation": "Attention is 6.0\u00d7 its 30-day baseline.",
+ "title": "Jennifer Hetrick",
+ "slug": "jennifer-hetrick",
+ "score": 57,
+ "status": "Breaking out",
+ "change_percent": 24199,
+ "growth_ratio": 242.96,
+ "recent_avg": 71682,
+ "baseline_avg": 295,
+ "explanation": "Attention is 243\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 79232,
- "latest": 185722,
+ "abs_change": 71387,
+ "latest": 125642,
  "components": {
-  "acceleration": 0.457,
-  "anomaly": 0.419,
-  "persistence": 0.72,
-  "momentum": 1.0,
-  "volume": 0.989,
-  "spike_quality": 0.812
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.928,
+  "spike_quality": 0.744
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 95,173 views/day over the last 3 days (30-day baseline: 15,941)."
+  "Averaging 71,682 views/day over the last 3 days (30-day baseline: 295)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 1462
-  },
-  {
    "date": "2026-09-21",
-   "views": 1913
+   "views": 95
   },
   {
    "date": "2026-09-22",
-   "views": 1488
+   "views": 106
   },
   {
    "date": "2026-09-23",
-   "views": 1768
+   "views": 98
   },
   {
    "date": "2026-09-24",
-   "views": 1974
+   "views": 94
   },
   {
    "date": "2026-09-25",
-   "views": 2558
+   "views": 88
   },
   {
    "date": "2026-09-26",
-   "views": 2137
+   "views": 117
   },
   {
    "date": "2026-09-27",
-   "views": 2582
+   "views": 153
   },
   {
    "date": "2026-09-28",
-   "views": 2662
+   "views": 547
   },
   {
    "date": "2026-09-29",
-   "views": 2536
+   "views": 410
   },
   {
    "date": "2026-09-30",
-   "views": 2547
+   "views": 238
   },
   {
    "date": "2026-10-01",
-   "views": 3233
+   "views": 393
   },
   {
    "date": "2026-10-02",
-   "views": 2773
+   "views": 467
   },
   {
    "date": "2026-10-03",
-   "views": 2871
+   "views": 351
   },
   {
    "date": "2026-10-04",
-   "views": 10844
+   "views": 242
   },
   {
    "date": "2026-10-05",
-   "views": 5466
+   "views": 278
   },
   {
    "date": "2026-10-06",
-   "views": 3867
+   "views": 266
   },
   {
    "date": "2026-10-07",
-   "views": 6417
+   "views": 284
   },
   {
    "date": "2026-10-08",
-   "views": 12626
+   "views": 253
   },
   {
    "date": "2026-10-09",
-   "views": 4627
+   "views": 208
   },
   {
    "date": "2026-10-10",
-   "views": 2728
+   "views": 676
   },
   {
    "date": "2026-10-11",
-   "views": 6893
+   "views": 312
   },
   {
    "date": "2026-10-12",
-   "views": 31841
+   "views": 275
   },
   {
    "date": "2026-10-13",
-   "views": 22466
+   "views": 219
   },
   {
    "date": "2026-10-14",
-   "views": 8451
+   "views": 285
   },
   {
    "date": "2026-10-15",
-   "views": 42401
+   "views": 227
   },
   {
    "date": "2026-10-16",
-   "views": 91434
+   "views": 199
   },
   {
    "date": "2026-10-17",
-   "views": 18701
+   "views": 248
   },
   {
    "date": "2026-10-18",
-   "views": 12742
+   "views": 219
   },
   {
    "date": "2026-10-19",
-   "views": 10091
+   "views": 260
   },
   {
    "date": "2026-10-20",
-   "views": 32296
+   "views": 279
   },
   {
    "date": "2026-10-21",
-   "views": 12121
+   "views": 213
   },
   {
    "date": "2026-10-22",
-   "views": 9406
+   "views": 231
   },
   {
    "date": "2026-10-23",
-   "views": 16049
+   "views": 218
   },
   {
    "date": "2026-10-24",
-   "views": 49416
+   "views": 255
   },
   {
    "date": "2026-10-25",
-   "views": 37012
+   "views": 265
   },
   {
    "date": "2026-10-26",
-   "views": 11117
+   "views": 268
   },
   {
    "date": "2026-10-27",
-   "views": 49178
+   "views": 265
   },
   {
    "date": "2026-10-28",
-   "views": 50619
+   "views": 246
   },
   {
    "date": "2026-10-29",
-   "views": 185722
+   "views": 89157
+  },
+  {
+   "date": "2026-10-30",
+   "views": 125642
   }
  ],
- "wikipedia_title": "Milwaukee_Brewers",
+ "wikipedia_title": "Jennifer_Hetrick",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

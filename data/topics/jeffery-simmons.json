@@ -1,37 +1,34 @@
 {
  "title": "Jeffery Simmons",
  "slug": "jeffery-simmons",
- "score": 57,
- "status": "Breaking out",
- "change_percent": 7905,
- "growth_ratio": 80.0,
- "recent_avg": 42268,
- "baseline_avg": 528,
- "explanation": "Attention is 80\u00d7 its 30-day baseline.",
+ "score": 32,
+ "status": "Peaked / fading",
+ "change_percent": 10657,
+ "growth_ratio": 107.48,
+ "recent_avg": 58731,
+ "baseline_avg": 546,
+ "explanation": "Attention surged to 107\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41740,
- "latest": 122632,
+ "abs_change": 58185,
+ "latest": 50964,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.813,
-  "spike_quality": 0.531
+  "persistence": 0.84,
+  "momentum": 0.449,
+  "volume": 0.884,
+  "spike_quality": 0.394
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,268 views/day over the last 3 days (30-day baseline: 528)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 58,731 views/day over the last 3 days (30-day baseline: 546)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 3610
-  },
   {
    "date": "2026-09-21",
    "views": 3392
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-29",
    "views": 122632
+  },
+  {
+   "date": "2026-10-30",
+   "views": 50964
   }
  ],
  "wikipedia_title": "Jeffery_Simmons",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

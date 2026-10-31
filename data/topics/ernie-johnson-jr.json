@@ -1,37 +1,34 @@
 {
  "title": "Ernie Johnson Jr.",
  "slug": "ernie-johnson-jr",
- "score": 60,
- "status": "Breaking out",
- "change_percent": 6856,
- "growth_ratio": 69.54,
- "recent_avg": 27337,
- "baseline_avg": 393,
- "explanation": "Attention is 70\u00d7 its 30-day baseline.",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 7748,
+ "growth_ratio": 78.55,
+ "recent_avg": 32018,
+ "baseline_avg": 408,
+ "explanation": "Attention surged to 79\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26944,
- "latest": 57112,
+ "abs_change": 31610,
+ "latest": 14654,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.718,
-  "spike_quality": 0.693
+  "persistence": 0.72,
+  "momentum": 0.354,
+  "volume": 0.753,
+  "spike_quality": 0.374
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,337 views/day over the last 3 days (30-day baseline: 393)."
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 32,018 views/day over the last 3 days (30-day baseline: 408)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 179
-  },
   {
    "date": "2026-09-21",
    "views": 176
@@ -187,11 +184,15 @@
   {
    "date": "2026-10-29",
    "views": 57112
+  },
+  {
+   "date": "2026-10-30",
+   "views": 14654
   }
  ],
  "wikipedia_title": "Ernie_Johnson_Jr.",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

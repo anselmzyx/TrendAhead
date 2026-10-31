@@ -1,197 +1,198 @@
 {
- "title": "Benjamin Netanyahu",
- "slug": "benjamin-netanyahu",
- "score": 34,
- "status": "Peaked / fading",
- "change_percent": 420,
- "growth_ratio": 5.2,
- "recent_avg": 93044,
- "baseline_avg": 17900,
- "explanation": "Attention surged to 5.2\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Maya Jama",
+ "slug": "maya-jama",
+ "score": 24,
+ "status": "Breaking out",
+ "change_percent": 186,
+ "growth_ratio": 2.86,
+ "recent_avg": 64239,
+ "baseline_avg": 22452,
+ "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 75144,
- "latest": 61651,
+ "abs_change": 41787,
+ "latest": 139120,
  "components": {
-  "acceleration": 0.421,
-  "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.496,
-  "volume": 0.984,
-  "spike_quality": 0.635
+  "acceleration": 0.269,
+  "anomaly": 0.247,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.904,
+  "spike_quality": 0.788
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 93,044 views/day over the last 3 days (30-day baseline: 17,900)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 64,239 views/day over the last 3 days (30-day baseline: 22,452)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 13663
-  },
-  {
    "date": "2026-09-21",
-   "views": 13268
+   "views": 2722
   },
   {
    "date": "2026-09-22",
-   "views": 14091
+   "views": 2815
   },
   {
    "date": "2026-09-23",
-   "views": 16850
+   "views": 2268
   },
   {
    "date": "2026-09-24",
-   "views": 51878
+   "views": 2736
   },
   {
    "date": "2026-09-25",
-   "views": 88063
+   "views": 2727
   },
   {
    "date": "2026-09-26",
-   "views": 32965
+   "views": 2427
   },
   {
    "date": "2026-09-27",
-   "views": 23229
+   "views": 3009
   },
   {
    "date": "2026-09-28",
-   "views": 23513
+   "views": 2752
   },
   {
    "date": "2026-09-29",
-   "views": 20097
+   "views": 2868
   },
   {
    "date": "2026-09-30",
-   "views": 23057
+   "views": 3053
   },
   {
    "date": "2026-10-01",
-   "views": 32980
+   "views": 64411
   },
   {
    "date": "2026-10-02",
-   "views": 21197
+   "views": 62875
   },
   {
    "date": "2026-10-03",
-   "views": 17483
+   "views": 36240
   },
   {
    "date": "2026-10-04",
-   "views": 18006
+   "views": 25523
   },
   {
    "date": "2026-10-05",
-   "views": 15990
+   "views": 13289
   },
   {
    "date": "2026-10-06",
-   "views": 15009
+   "views": 8606
   },
   {
    "date": "2026-10-07",
-   "views": 17197
+   "views": 7746
   },
   {
    "date": "2026-10-08",
-   "views": 14524
+   "views": 31708
   },
   {
    "date": "2026-10-09",
-   "views": 12879
+   "views": 40984
   },
   {
    "date": "2026-10-10",
-   "views": 11950
+   "views": 25737
   },
   {
    "date": "2026-10-11",
-   "views": 11987
+   "views": 17834
   },
   {
    "date": "2026-10-12",
-   "views": 12490
+   "views": 11846
   },
   {
    "date": "2026-10-13",
-   "views": 11264
+   "views": 8008
   },
   {
    "date": "2026-10-14",
-   "views": 11176
+   "views": 6562
   },
   {
    "date": "2026-10-15",
-   "views": 11135
+   "views": 22046
   },
   {
    "date": "2026-10-16",
-   "views": 11666
+   "views": 44515
   },
   {
    "date": "2026-10-17",
-   "views": 10811
+   "views": 30782
   },
   {
    "date": "2026-10-18",
-   "views": 15755
+   "views": 22530
   },
   {
    "date": "2026-10-19",
-   "views": 15888
+   "views": 13072
   },
   {
    "date": "2026-10-20",
-   "views": 16467
+   "views": 8122
   },
   {
    "date": "2026-10-21",
-   "views": 27221
+   "views": 6407
   },
   {
    "date": "2026-10-22",
-   "views": 19809
+   "views": 23099
   },
   {
    "date": "2026-10-23",
-   "views": 17916
+   "views": 51251
   },
   {
    "date": "2026-10-24",
-   "views": 15789
+   "views": 35113
   },
   {
    "date": "2026-10-25",
-   "views": 22063
+   "views": 20906
   },
   {
    "date": "2026-10-26",
-   "views": 38462
+   "views": 14653
   },
   {
    "date": "2026-10-27",
-   "views": 92708
+   "views": 11025
   },
   {
    "date": "2026-10-28",
-   "views": 124772
+   "views": 10969
   },
   {
    "date": "2026-10-29",
-   "views": 61651
+   "views": 42629
+  },
+  {
+   "date": "2026-10-30",
+   "views": 139120
   }
  ],
- "wikipedia_title": "Benjamin_Netanyahu",
+ "wikipedia_title": "Maya_Jama",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

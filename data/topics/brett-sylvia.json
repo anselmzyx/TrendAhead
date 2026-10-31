@@ -1,37 +1,32 @@
 {
  "title": "Brett Sylvia",
  "slug": "brett-sylvia",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 122412,
- "growth_ratio": 196.02,
- "recent_avg": 19602,
+ "score": 32,
+ "status": "Elevated",
+ "change_percent": 192838,
+ "growth_ratio": 308.7,
+ "recent_avg": 30870,
  "baseline_avg": 16,
- "explanation": "Attention is 196\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 309\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 19586,
- "latest": 58565,
+ "abs_change": 30854,
+ "latest": 33823,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.646,
+  "persistence": 0.52,
+  "momentum": 0.547,
+  "volume": 0.745,
   "spike_quality": 0.503
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 19,602 views/day over the last 3 days (30-day baseline: 16)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 30,870 views/day over the last 3 days (30-day baseline: 16)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 17
-  },
   {
    "date": "2026-09-21",
    "views": 20
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-29",
    "views": 58565
+  },
+  {
+   "date": "2026-10-30",
+   "views": 33823
   }
  ],
  "wikipedia_title": "Brett_Sylvia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

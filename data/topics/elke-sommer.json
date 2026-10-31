@@ -1,197 +1,196 @@
 {
- "title": "Dolores Huerta",
- "slug": "dolores-huerta",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 6011,
- "growth_ratio": 61.11,
- "recent_avg": 47666,
- "baseline_avg": 780,
- "explanation": "Attention is 61\u00d7 its 30-day baseline.",
+ "title": "Elke Sommer",
+ "slug": "elke-sommer",
+ "score": 33,
+ "status": "Elevated",
+ "change_percent": 9428,
+ "growth_ratio": 95.32,
+ "recent_avg": 50023,
+ "baseline_avg": 525,
+ "explanation": "Attention is 95\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 46886,
- "latest": 66501,
+ "abs_change": 49498,
+ "latest": 60095,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.32,
-  "momentum": 0.658,
-  "volume": 0.839,
-  "spike_quality": 0.715
+  "momentum": 0.536,
+  "volume": 0.85,
+  "spike_quality": 0.576
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 47,666 views/day over the last 3 days (30-day baseline: 780)."
+  "Averaging 50,023 views/day over the last 3 days (30-day baseline: 525)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 491
-  },
-  {
    "date": "2026-09-21",
-   "views": 1005
+   "views": 776
   },
   {
    "date": "2026-09-22",
-   "views": 1174
+   "views": 510
   },
   {
    "date": "2026-09-23",
-   "views": 1270
+   "views": 552
   },
   {
    "date": "2026-09-24",
-   "views": 1241
+   "views": 449
   },
   {
    "date": "2026-09-25",
-   "views": 1086
+   "views": 400
   },
   {
    "date": "2026-09-26",
-   "views": 514
+   "views": 452
   },
   {
    "date": "2026-09-27",
-   "views": 511
+   "views": 439
   },
   {
    "date": "2026-09-28",
-   "views": 1249
+   "views": 415
   },
   {
    "date": "2026-09-29",
-   "views": 1300
+   "views": 427
   },
   {
    "date": "2026-09-30",
-   "views": 1197
-  },
-  {
-   "date": "2026-10-01",
-   "views": 1258
-  },
-  {
-   "date": "2026-10-02",
-   "views": 1080
-  },
-  {
-   "date": "2026-10-03",
-   "views": 405
-  },
-  {
-   "date": "2026-10-04",
-   "views": 489
-  },
-  {
-   "date": "2026-10-05",
-   "views": 1044
-  },
-  {
-   "date": "2026-10-06",
-   "views": 1090
-  },
-  {
-   "date": "2026-10-07",
-   "views": 1213
-  },
-  {
-   "date": "2026-10-08",
-   "views": 1259
-  },
-  {
-   "date": "2026-10-09",
-   "views": 827
-  },
-  {
-   "date": "2026-10-10",
-   "views": 469
-  },
-  {
-   "date": "2026-10-11",
-   "views": 960
-  },
-  {
-   "date": "2026-10-12",
-   "views": 791
-  },
-  {
-   "date": "2026-10-13",
-   "views": 898
-  },
-  {
-   "date": "2026-10-14",
-   "views": 878
-  },
-  {
-   "date": "2026-10-15",
-   "views": 808
-  },
-  {
-   "date": "2026-10-16",
-   "views": 651
-  },
-  {
-   "date": "2026-10-17",
    "views": 364
   },
   {
+   "date": "2026-10-01",
+   "views": 420
+  },
+  {
+   "date": "2026-10-02",
+   "views": 371
+  },
+  {
+   "date": "2026-10-03",
+   "views": 547
+  },
+  {
+   "date": "2026-10-04",
+   "views": 560
+  },
+  {
+   "date": "2026-10-05",
+   "views": 428
+  },
+  {
+   "date": "2026-10-06",
+   "views": 419
+  },
+  {
+   "date": "2026-10-07",
+   "views": 435
+  },
+  {
+   "date": "2026-10-08",
+   "views": 411
+  },
+  {
+   "date": "2026-10-09",
+   "views": 432
+  },
+  {
+   "date": "2026-10-10",
+   "views": 416
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2762
+  },
+  {
+   "date": "2026-10-12",
+   "views": 567
+  },
+  {
+   "date": "2026-10-13",
+   "views": 443
+  },
+  {
+   "date": "2026-10-14",
+   "views": 605
+  },
+  {
+   "date": "2026-10-15",
+   "views": 414
+  },
+  {
+   "date": "2026-10-16",
+   "views": 361
+  },
+  {
+   "date": "2026-10-17",
+   "views": 400
+  },
+  {
    "date": "2026-10-18",
-   "views": 391
+   "views": 458
   },
   {
    "date": "2026-10-19",
-   "views": 615
+   "views": 423
   },
   {
    "date": "2026-10-20",
-   "views": 589
+   "views": 293
   },
   {
    "date": "2026-10-21",
-   "views": 627
-  },
-  {
-   "date": "2026-10-22",
-   "views": 608
-  },
-  {
-   "date": "2026-10-23",
-   "views": 522
-  },
-  {
-   "date": "2026-10-24",
    "views": 365
   },
   {
+   "date": "2026-10-22",
+   "views": 349
+  },
+  {
+   "date": "2026-10-23",
+   "views": 343
+  },
+  {
+   "date": "2026-10-24",
+   "views": 582
+  },
+  {
    "date": "2026-10-25",
-   "views": 410
+   "views": 728
   },
   {
    "date": "2026-10-26",
-   "views": 533
+   "views": 608
   },
   {
    "date": "2026-10-27",
-   "views": 485
+   "views": 397
   },
   {
    "date": "2026-10-28",
-   "views": 76012
+   "views": 376
   },
   {
    "date": "2026-10-29",
-   "views": 66501
+   "views": 89598
+  },
+  {
+   "date": "2026-10-30",
+   "views": 60095
   }
  ],
- "wikipedia_title": "Dolores_Huerta",
+ "wikipedia_title": "Elke_Sommer",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "William Contreras",
- "slug": "william-contreras",
- "score": 63,
+ "title": "Veronika Slowikowska",
+ "slug": "veronika-slowikowska",
+ "score": 34,
  "status": "Breaking out",
- "change_percent": 1744,
- "growth_ratio": 18.44,
- "recent_avg": 94168,
- "baseline_avg": 5107,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "change_percent": 742,
+ "growth_ratio": 8.41,
+ "recent_avg": 20273,
+ "baseline_avg": 2409,
+ "explanation": "Attention is 8.4\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 89061,
- "latest": 228487,
+ "abs_change": 17864,
+ "latest": 55259,
  "components": {
-  "acceleration": 0.745,
+  "acceleration": 0.544,
   "anomaly": 1.0,
-  "persistence": 0.8,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.987,
-  "spike_quality": 0.687
+  "volume": 0.653,
+  "spike_quality": 0.595
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 94,168 views/day over the last 3 days (30-day baseline: 5,107)."
+  "Averaging 20,273 views/day over the last 3 days (30-day baseline: 2,409)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 177
-  },
-  {
    "date": "2026-09-21",
-   "views": 409
+   "views": 1256
   },
   {
    "date": "2026-09-22",
-   "views": 203
+   "views": 1352
   },
   {
    "date": "2026-09-23",
-   "views": 534
+   "views": 1465
   },
   {
    "date": "2026-09-24",
-   "views": 361
+   "views": 1318
   },
   {
    "date": "2026-09-25",
-   "views": 303
+   "views": 1254
   },
   {
    "date": "2026-09-26",
-   "views": 765
+   "views": 1352
   },
   {
    "date": "2026-09-27",
-   "views": 460
+   "views": 6352
   },
   {
    "date": "2026-09-28",
-   "views": 217
+   "views": 4017
   },
   {
    "date": "2026-09-29",
-   "views": 226
+   "views": 2855
   },
   {
    "date": "2026-09-30",
-   "views": 832
+   "views": 2175
   },
   {
    "date": "2026-10-01",
-   "views": 1652
+   "views": 3031
   },
   {
    "date": "2026-10-02",
-   "views": 353
+   "views": 2944
   },
   {
    "date": "2026-10-03",
-   "views": 290
+   "views": 2218
   },
   {
    "date": "2026-10-04",
-   "views": 10761
+   "views": 4832
   },
   {
    "date": "2026-10-05",
-   "views": 1595
+   "views": 3565
   },
   {
    "date": "2026-10-06",
-   "views": 1302
+   "views": 2763
   },
   {
    "date": "2026-10-07",
-   "views": 8831
+   "views": 4028
   },
   {
    "date": "2026-10-08",
-   "views": 4243
+   "views": 3475
   },
   {
    "date": "2026-10-09",
-   "views": 718
+   "views": 2120
   },
   {
    "date": "2026-10-10",
-   "views": 499
+   "views": 1860
   },
   {
    "date": "2026-10-11",
-   "views": 423
+   "views": 4370
   },
   {
    "date": "2026-10-12",
-   "views": 17712
+   "views": 3307
   },
   {
    "date": "2026-10-13",
-   "views": 18862
+   "views": 2482
   },
   {
    "date": "2026-10-14",
-   "views": 3383
+   "views": 2238
   },
   {
    "date": "2026-10-15",
-   "views": 7603
+   "views": 1840
   },
   {
    "date": "2026-10-16",
-   "views": 13353
+   "views": 1677
   },
   {
    "date": "2026-10-17",
-   "views": 2043
+   "views": 1625
   },
   {
    "date": "2026-10-18",
-   "views": 1069
+   "views": 2410
   },
   {
    "date": "2026-10-19",
-   "views": 739
+   "views": 1629
   },
   {
    "date": "2026-10-20",
-   "views": 1109
+   "views": 1499
   },
   {
    "date": "2026-10-21",
-   "views": 632
+   "views": 1399
   },
   {
    "date": "2026-10-22",
-   "views": 785
+   "views": 1398
   },
   {
    "date": "2026-10-23",
-   "views": 1748
+   "views": 1272
   },
   {
    "date": "2026-10-24",
-   "views": 20733
+   "views": 1078
   },
   {
    "date": "2026-10-25",
-   "views": 27456
+   "views": 1473
   },
   {
    "date": "2026-10-26",
-   "views": 3595
+   "views": 1330
   },
   {
    "date": "2026-10-27",
-   "views": 24622
+   "views": 1369
   },
   {
    "date": "2026-10-28",
-   "views": 29395
+   "views": 1854
   },
   {
    "date": "2026-10-29",
-   "views": 228487
+   "views": 3706
+  },
+  {
+   "date": "2026-10-30",
+   "views": 55259
   }
  ],
- "wikipedia_title": "William_Contreras",
+ "wikipedia_title": "Veronika_Slowikowska",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

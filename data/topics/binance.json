@@ -1,198 +1,197 @@
 {
- "title": "Pat Murphy (baseball manager)",
- "slug": "pat-murphy-baseball-manager",
- "score": 42,
+ "title": "Binance",
+ "slug": "binance",
+ "score": 37,
  "status": "Breaking out",
- "change_percent": 690,
- "growth_ratio": 7.89,
- "recent_avg": 87477,
- "baseline_avg": 11080,
- "explanation": "Attention is 7.9\u00d7 its 30-day baseline.",
+ "change_percent": 2920,
+ "growth_ratio": 30.2,
+ "recent_avg": 18091,
+ "baseline_avg": 599,
+ "explanation": "Attention is 30\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 76397,
- "latest": 196456,
+ "abs_change": 17492,
+ "latest": 50826,
  "components": {
-  "acceleration": 0.528,
-  "anomaly": 0.502,
-  "persistence": 0.64,
-  "momentum": 0.867,
-  "volume": 0.971,
-  "spike_quality": 0.751
+  "acceleration": 0.871,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.629,
+  "spike_quality": 0.562
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 87,477 views/day over the last 3 days (30-day baseline: 11,080)."
+  "Averaging 18,091 views/day over the last 3 days (30-day baseline: 599)."
  ],
  "history": [
   {
-   "date": "2026-09-20",
-   "views": 401
-  },
-  {
    "date": "2026-09-21",
-   "views": 1495
+   "views": 743
   },
   {
    "date": "2026-09-22",
-   "views": 1243
+   "views": 913
   },
   {
    "date": "2026-09-23",
-   "views": 929
+   "views": 846
   },
   {
    "date": "2026-09-24",
-   "views": 828
+   "views": 758
   },
   {
    "date": "2026-09-25",
-   "views": 1266
+   "views": 729
   },
   {
    "date": "2026-09-26",
-   "views": 1268
+   "views": 671
   },
   {
    "date": "2026-09-27",
-   "views": 2036
+   "views": 697
   },
   {
    "date": "2026-09-28",
-   "views": 1101
+   "views": 698
   },
   {
    "date": "2026-09-29",
-   "views": 630
+   "views": 653
   },
   {
    "date": "2026-09-30",
-   "views": 791
+   "views": 580
   },
   {
    "date": "2026-10-01",
-   "views": 998
+   "views": 671
   },
   {
    "date": "2026-10-02",
-   "views": 812
+   "views": 588
   },
   {
    "date": "2026-10-03",
-   "views": 985
+   "views": 450
   },
   {
    "date": "2026-10-04",
-   "views": 6805
+   "views": 573
   },
   {
    "date": "2026-10-05",
-   "views": 2421
+   "views": 547
   },
   {
    "date": "2026-10-06",
-   "views": 1161
+   "views": 585
   },
   {
    "date": "2026-10-07",
-   "views": 10901
+   "views": 620
   },
   {
    "date": "2026-10-08",
-   "views": 14527
+   "views": 629
   },
   {
    "date": "2026-10-09",
-   "views": 3057
+   "views": 659
   },
   {
    "date": "2026-10-10",
-   "views": 2012
+   "views": 550
   },
   {
    "date": "2026-10-11",
-   "views": 2222
+   "views": 512
   },
   {
    "date": "2026-10-12",
-   "views": 33083
+   "views": 556
   },
   {
    "date": "2026-10-13",
-   "views": 17895
+   "views": 689
   },
   {
    "date": "2026-10-14",
-   "views": 5864
+   "views": 692
   },
   {
    "date": "2026-10-15",
-   "views": 28732
+   "views": 604
   },
   {
    "date": "2026-10-16",
-   "views": 73145
+   "views": 553
   },
   {
    "date": "2026-10-17",
-   "views": 15806
+   "views": 531
   },
   {
    "date": "2026-10-18",
-   "views": 6244
+   "views": 470
   },
   {
    "date": "2026-10-19",
-   "views": 3535
+   "views": 509
   },
   {
    "date": "2026-10-20",
-   "views": 5381
+   "views": 610
   },
   {
    "date": "2026-10-21",
-   "views": 5100
+   "views": 607
   },
   {
    "date": "2026-10-22",
-   "views": 4740
+   "views": 587
   },
   {
    "date": "2026-10-23",
-   "views": 6603
+   "views": 614
   },
   {
    "date": "2026-10-24",
-   "views": 33931
+   "views": 621
   },
   {
    "date": "2026-10-25",
-   "views": 29344
+   "views": 548
   },
   {
    "date": "2026-10-26",
-   "views": 12549
+   "views": 716
   },
   {
    "date": "2026-10-27",
-   "views": 35539
+   "views": 749
   },
   {
    "date": "2026-10-28",
-   "views": 30437
+   "views": 676
   },
   {
    "date": "2026-10-29",
-   "views": 196456
+   "views": 2770
+  },
+  {
+   "date": "2026-10-30",
+   "views": 50826
   }
  ],
- "wikipedia_title": "Pat_Murphy_(baseball_manager)",
+ "wikipedia_title": "Binance",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }

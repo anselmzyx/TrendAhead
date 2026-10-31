@@ -1,0 +1,198 @@
+{
+ "title": "Star Trek: The Next Generation",
+ "slug": "star-trek-the-next-generation",
+ "score": 44,
+ "status": "Breaking out",
+ "change_percent": 1260,
+ "growth_ratio": 13.6,
+ "recent_avg": 31109,
+ "baseline_avg": 2287,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 28822,
+ "latest": 55263,
+ "components": {
+  "acceleration": 0.667,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.746,
+  "spike_quality": 0.773
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 31,109 views/day over the last 3 days (30-day baseline: 2,287)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-21",
+   "views": 2560
+  },
+  {
+   "date": "2026-09-22",
+   "views": 2892
+  },
+  {
+   "date": "2026-09-23",
+   "views": 2612
+  },
+  {
+   "date": "2026-09-24",
+   "views": 2527
+  },
+  {
+   "date": "2026-09-25",
+   "views": 2379
+  },
+  {
+   "date": "2026-09-26",
+   "views": 2598
+  },
+  {
+   "date": "2026-09-27",
+   "views": 2649
+  },
+  {
+   "date": "2026-09-28",
+   "views": 2820
+  },
+  {
+   "date": "2026-09-29",
+   "views": 2626
+  },
+  {
+   "date": "2026-09-30",
+   "views": 2422
+  },
+  {
+   "date": "2026-10-01",
+   "views": 2350
+  },
+  {
+   "date": "2026-10-02",
+   "views": 2148
+  },
+  {
+   "date": "2026-10-03",
+   "views": 2285
+  },
+  {
+   "date": "2026-10-04",
+   "views": 2165
+  },
+  {
+   "date": "2026-10-05",
+   "views": 2244
+  },
+  {
+   "date": "2026-10-06",
+   "views": 2097
+  },
+  {
+   "date": "2026-10-07",
+   "views": 2233
+  },
+  {
+   "date": "2026-10-08",
+   "views": 2177
+  },
+  {
+   "date": "2026-10-09",
+   "views": 2128
+  },
+  {
+   "date": "2026-10-10",
+   "views": 1999
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2126
+  },
+  {
+   "date": "2026-10-12",
+   "views": 2150
+  },
+  {
+   "date": "2026-10-13",
+   "views": 2117
+  },
+  {
+   "date": "2026-10-14",
+   "views": 2214
+  },
+  {
+   "date": "2026-10-15",
+   "views": 2122
+  },
+  {
+   "date": "2026-10-16",
+   "views": 2153
+  },
+  {
+   "date": "2026-10-17",
+   "views": 2127
+  },
+  {
+   "date": "2026-10-18",
+   "views": 1937
+  },
+  {
+   "date": "2026-10-19",
+   "views": 2212
+  },
+  {
+   "date": "2026-10-20",
+   "views": 2264
+  },
+  {
+   "date": "2026-10-21",
+   "views": 2301
+  },
+  {
+   "date": "2026-10-22",
+   "views": 2326
+  },
+  {
+   "date": "2026-10-23",
+   "views": 2220
+  },
+  {
+   "date": "2026-10-24",
+   "views": 2228
+  },
+  {
+   "date": "2026-10-25",
+   "views": 2093
+  },
+  {
+   "date": "2026-10-26",
+   "views": 3132
+  },
+  {
+   "date": "2026-10-27",
+   "views": 3207
+  },
+  {
+   "date": "2026-10-28",
+   "views": 2811
+  },
+  {
+   "date": "2026-10-29",
+   "views": 35253
+  },
+  {
+   "date": "2026-10-30",
+   "views": 55263
+  }
+ ],
+ "wikipedia_title": "Star_Trek:_The_Next_Generation",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
+}

@@ -1,37 +1,33 @@
 {
  "title": "Matthew Perry",
  "slug": "matthew-perry",
- "score": 52,
+ "score": 37,
  "status": "Elevated",
- "change_percent": 1189,
- "growth_ratio": 12.89,
- "recent_avg": 101027,
- "baseline_avg": 7837,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "change_percent": 895,
+ "growth_ratio": 9.95,
+ "recent_avg": 101936,
+ "baseline_avg": 10248,
+ "explanation": "Attention is 9.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 93190,
- "latest": 96174,
+ "abs_change": 91688,
+ "latest": 81862,
  "components": {
-  "acceleration": 0.654,
-  "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.652,
+  "acceleration": 0.587,
+  "anomaly": 0.695,
+  "persistence": 0.76,
+  "momentum": 0.451,
   "volume": 1.0,
-  "spike_quality": 0.75
+  "spike_quality": 0.73
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 101,027 views/day over the last 3 days (30-day baseline: 7,837)."
+  "Averaging 101,936 views/day over the last 3 days (30-day baseline: 10,248)."
  ],
  "history": [
-  {
-   "date": "2026-09-20",
-   "views": 5992
-  },
   {
    "date": "2026-09-21",
    "views": 6264
@@ -187,11 +183,15 @@
   {
    "date": "2026-10-29",
    "views": 96174
+  },
+  {
+   "date": "2026-10-30",
+   "views": 81862
   }
  ],
  "wikipedia_title": "Matthew_Perry",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-29",
- "generated_at_utc": "2026-10-30T11:35:01+00:00"
+ "data_through": "2026-10-30",
+ "generated_at_utc": "2026-10-31T11:10:08+00:00"
 }
