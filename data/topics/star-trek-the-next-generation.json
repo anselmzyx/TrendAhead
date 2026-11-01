@@ -1,38 +1,33 @@
 {
  "title": "Star Trek: The Next Generation",
  "slug": "star-trek-the-next-generation",
- "score": 44,
- "status": "Breaking out",
- "change_percent": 1260,
- "growth_ratio": 13.6,
- "recent_avg": 31109,
+ "score": 28,
+ "status": "Peaked / fading",
+ "change_percent": 1568,
+ "growth_ratio": 16.68,
+ "recent_avg": 38153,
  "baseline_avg": 2287,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 28822,
- "latest": 55263,
+ "abs_change": 35866,
+ "latest": 23943,
  "components": {
-  "acceleration": 0.667,
+  "acceleration": 0.719,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.746,
-  "spike_quality": 0.773
+  "persistence": 0.52,
+  "momentum": 0.46,
+  "volume": 0.791,
+  "spike_quality": 0.544
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 31,109 views/day over the last 3 days (30-day baseline: 2,287)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 38,153 views/day over the last 3 days (30-day baseline: 2,287)."
  ],
  "history": [
-  {
-   "date": "2026-09-21",
-   "views": 2560
-  },
   {
    "date": "2026-09-22",
    "views": 2892
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-30",
    "views": 55263
+  },
+  {
+   "date": "2026-10-31",
+   "views": 23943
   }
  ],
  "wikipedia_title": "Star_Trek:_The_Next_Generation",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

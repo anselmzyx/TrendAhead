@@ -1,197 +1,197 @@
 {
- "title": ".xxx",
- "slug": "xxx",
- "score": 35,
- "status": "Elevated",
- "change_percent": 261,
- "growth_ratio": 3.61,
- "recent_avg": 395212,
- "baseline_avg": 109345,
- "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
+ "title": "XNXX",
+ "slug": "xnxx",
+ "score": 33,
+ "status": "Building",
+ "change_percent": 116,
+ "growth_ratio": 2.16,
+ "recent_avg": 55529,
+ "baseline_avg": 25664,
+ "explanation": "Attention is 2.2\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 285867,
- "latest": 358084,
+ "abs_change": 29865,
+ "latest": 55581,
  "components": {
-  "acceleration": 0.328,
-  "anomaly": 0.321,
-  "persistence": 0.84,
-  "momentum": 0.558,
-  "volume": 1.0,
-  "spike_quality": 0.872
+  "acceleration": 0.197,
+  "anomaly": 0.392,
+  "persistence": 0.72,
+  "momentum": 0.731,
+  "volume": 0.872,
+  "spike_quality": 0.907
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 395,212 views/day over the last 3 days (30-day baseline: 109,345)."
+  "Averaging 55,529 views/day over the last 3 days (30-day baseline: 25,664)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 135167
-  },
-  {
    "date": "2026-09-22",
-   "views": 128307
+   "views": 19790
   },
   {
    "date": "2026-09-23",
-   "views": 137118
+   "views": 17698
   },
   {
    "date": "2026-09-24",
-   "views": 170417
+   "views": 22447
   },
   {
    "date": "2026-09-25",
-   "views": 116679
+   "views": 24161
   },
   {
    "date": "2026-09-26",
-   "views": 203690
+   "views": 16712
   },
   {
    "date": "2026-09-27",
-   "views": 186029
+   "views": 17228
   },
   {
    "date": "2026-09-28",
-   "views": 119989
+   "views": 16425
   },
   {
    "date": "2026-09-29",
-   "views": 164698
+   "views": 17353
   },
   {
    "date": "2026-09-30",
-   "views": 151234
+   "views": 19516
   },
   {
    "date": "2026-10-01",
-   "views": 100657
+   "views": 20351
   },
   {
    "date": "2026-10-02",
-   "views": 69782
+   "views": 19253
   },
   {
    "date": "2026-10-03",
-   "views": 110475
+   "views": 20245
   },
   {
    "date": "2026-10-04",
-   "views": 385909
+   "views": 22393
   },
   {
    "date": "2026-10-05",
-   "views": 218299
+   "views": 17227
   },
   {
    "date": "2026-10-06",
-   "views": 87950
+   "views": 18122
   },
   {
    "date": "2026-10-07",
-   "views": 44240
+   "views": 19040
   },
   {
    "date": "2026-10-08",
-   "views": 44288
+   "views": 21057
   },
   {
    "date": "2026-10-09",
-   "views": 45663
+   "views": 23581
   },
   {
    "date": "2026-10-10",
-   "views": 52078
+   "views": 24209
   },
   {
    "date": "2026-10-11",
-   "views": 62779
+   "views": 18538
   },
   {
    "date": "2026-10-12",
-   "views": 53739
+   "views": 20402
   },
   {
    "date": "2026-10-13",
-   "views": 87080
+   "views": 20283
   },
   {
    "date": "2026-10-14",
-   "views": 79339
+   "views": 20993
   },
   {
    "date": "2026-10-15",
-   "views": 76383
+   "views": 21905
   },
   {
    "date": "2026-10-16",
-   "views": 72780
+   "views": 28642
   },
   {
    "date": "2026-10-17",
-   "views": 64865
+   "views": 31766
   },
   {
    "date": "2026-10-18",
-   "views": 56928
+   "views": 40766
   },
   {
    "date": "2026-10-19",
-   "views": 45473
+   "views": 29283
   },
   {
    "date": "2026-10-20",
-   "views": 39907
+   "views": 17720
   },
   {
    "date": "2026-10-21",
-   "views": 25686
+   "views": 34431
   },
   {
    "date": "2026-10-22",
-   "views": 35148
+   "views": 37061
   },
   {
    "date": "2026-10-23",
-   "views": 50651
+   "views": 33298
   },
   {
    "date": "2026-10-24",
-   "views": 155001
+   "views": 30302
   },
   {
    "date": "2026-10-25",
-   "views": 175999
+   "views": 26037
   },
   {
    "date": "2026-10-26",
-   "views": 240423
+   "views": 36184
   },
   {
    "date": "2026-10-27",
-   "views": 362902
+   "views": 36771
   },
   {
    "date": "2026-10-28",
-   "views": 437305
+   "views": 43205
   },
   {
    "date": "2026-10-29",
-   "views": 390246
+   "views": 48215
   },
   {
    "date": "2026-10-30",
-   "views": 358084
+   "views": 62792
+  },
+  {
+   "date": "2026-10-31",
+   "views": 55581
   }
  ],
- "wikipedia_title": ".xxx",
+ "wikipedia_title": "XNXX",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

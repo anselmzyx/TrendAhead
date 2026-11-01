@@ -1,196 +1,196 @@
 {
- "title": "Patrick Stewart on stage and screen",
- "slug": "patrick-stewart-on-stage-and-screen",
- "score": 31,
- "status": "Elevated",
- "change_percent": 39780,
- "growth_ratio": 398.42,
- "recent_avg": 110866,
- "baseline_avg": 278,
- "explanation": "Attention is 398\u00d7 its 30-day baseline.",
+ "title": "Omar Abdullah",
+ "slug": "omar-abdullah",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 9641,
+ "growth_ratio": 97.36,
+ "recent_avg": 51435,
+ "baseline_avg": 528,
+ "explanation": "Attention is 97\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 110588,
- "latest": 119754,
+ "abs_change": 50907,
+ "latest": 153421,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.471,
-  "volume": 1.0,
-  "spike_quality": 0.494
+  "persistence": 0.4,
+  "momentum": 0.8,
+  "volume": 0.856,
+  "spike_quality": 0.515
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 110,866 views/day over the last 3 days (30-day baseline: 278)."
+  "Averaging 51,435 views/day over the last 3 days (30-day baseline: 528)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 242
-  },
-  {
    "date": "2026-09-22",
-   "views": 314
+   "views": 342
   },
   {
    "date": "2026-09-23",
-   "views": 262
+   "views": 428
   },
   {
    "date": "2026-09-24",
-   "views": 270
-  },
-  {
-   "date": "2026-09-25",
-   "views": 294
-  },
-  {
-   "date": "2026-09-26",
-   "views": 327
-  },
-  {
-   "date": "2026-09-27",
-   "views": 328
-  },
-  {
-   "date": "2026-09-28",
-   "views": 326
-  },
-  {
-   "date": "2026-09-29",
-   "views": 282
-  },
-  {
-   "date": "2026-09-30",
-   "views": 269
-  },
-  {
-   "date": "2026-10-01",
-   "views": 280
-  },
-  {
-   "date": "2026-10-02",
-   "views": 268
-  },
-  {
-   "date": "2026-10-03",
-   "views": 292
-  },
-  {
-   "date": "2026-10-04",
-   "views": 295
-  },
-  {
-   "date": "2026-10-05",
-   "views": 289
-  },
-  {
-   "date": "2026-10-06",
-   "views": 235
-  },
-  {
-   "date": "2026-10-07",
-   "views": 295
-  },
-  {
-   "date": "2026-10-08",
-   "views": 298
-  },
-  {
-   "date": "2026-10-09",
-   "views": 222
-  },
-  {
-   "date": "2026-10-10",
-   "views": 283
-  },
-  {
-   "date": "2026-10-11",
-   "views": 279
-  },
-  {
-   "date": "2026-10-12",
-   "views": 252
-  },
-  {
-   "date": "2026-10-13",
-   "views": 278
-  },
-  {
-   "date": "2026-10-14",
-   "views": 243
-  },
-  {
-   "date": "2026-10-15",
-   "views": 246
-  },
-  {
-   "date": "2026-10-16",
-   "views": 263
-  },
-  {
-   "date": "2026-10-17",
-   "views": 268
-  },
-  {
-   "date": "2026-10-18",
-   "views": 307
-  },
-  {
-   "date": "2026-10-19",
    "views": 340
   },
   {
+   "date": "2026-09-25",
+   "views": 552
+  },
+  {
+   "date": "2026-09-26",
+   "views": 963
+  },
+  {
+   "date": "2026-09-27",
+   "views": 561
+  },
+  {
+   "date": "2026-09-28",
+   "views": 437
+  },
+  {
+   "date": "2026-09-29",
+   "views": 525
+  },
+  {
+   "date": "2026-09-30",
+   "views": 518
+  },
+  {
+   "date": "2026-10-01",
+   "views": 1209
+  },
+  {
+   "date": "2026-10-02",
+   "views": 558
+  },
+  {
+   "date": "2026-10-03",
+   "views": 341
+  },
+  {
+   "date": "2026-10-04",
+   "views": 351
+  },
+  {
+   "date": "2026-10-05",
+   "views": 328
+  },
+  {
+   "date": "2026-10-06",
+   "views": 285
+  },
+  {
+   "date": "2026-10-07",
+   "views": 430
+  },
+  {
+   "date": "2026-10-08",
+   "views": 462
+  },
+  {
+   "date": "2026-10-09",
+   "views": 491
+  },
+  {
+   "date": "2026-10-10",
+   "views": 491
+  },
+  {
+   "date": "2026-10-11",
+   "views": 423
+  },
+  {
+   "date": "2026-10-12",
+   "views": 395
+  },
+  {
+   "date": "2026-10-13",
+   "views": 390
+  },
+  {
+   "date": "2026-10-14",
+   "views": 357
+  },
+  {
+   "date": "2026-10-15",
+   "views": 371
+  },
+  {
+   "date": "2026-10-16",
+   "views": 592
+  },
+  {
+   "date": "2026-10-17",
+   "views": 437
+  },
+  {
+   "date": "2026-10-18",
+   "views": 503
+  },
+  {
+   "date": "2026-10-19",
+   "views": 384
+  },
+  {
    "date": "2026-10-20",
-   "views": 271
+   "views": 441
   },
   {
    "date": "2026-10-21",
-   "views": 251
+   "views": 435
   },
   {
    "date": "2026-10-22",
-   "views": 266
+   "views": 394
   },
   {
    "date": "2026-10-23",
-   "views": 257
+   "views": 494
   },
   {
    "date": "2026-10-24",
-   "views": 293
+   "views": 1102
   },
   {
    "date": "2026-10-25",
-   "views": 289
+   "views": 1029
   },
   {
    "date": "2026-10-26",
-   "views": 315
+   "views": 727
   },
   {
    "date": "2026-10-27",
-   "views": 296
+   "views": 796
   },
   {
    "date": "2026-10-28",
-   "views": 293
+   "views": 590
   },
   {
    "date": "2026-10-29",
-   "views": 212550
+   "views": 444
   },
   {
    "date": "2026-10-30",
-   "views": 119754
+   "views": 441
+  },
+  {
+   "date": "2026-10-31",
+   "views": 153421
   }
  ],
- "wikipedia_title": "Patrick_Stewart_on_stage_and_screen",
+ "wikipedia_title": "Omar_Abdullah",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

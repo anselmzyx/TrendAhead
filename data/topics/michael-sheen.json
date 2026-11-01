@@ -1,196 +1,197 @@
 {
- "title": "Brett Sylvia",
- "slug": "brett-sylvia",
- "score": 32,
+ "title": "Michael Sheen",
+ "slug": "michael-sheen",
+ "score": 21,
  "status": "Elevated",
- "change_percent": 192838,
- "growth_ratio": 308.7,
- "recent_avg": 30870,
- "baseline_avg": 16,
- "explanation": "Attention is 309\u00d7 its 30-day baseline.",
+ "change_percent": 189,
+ "growth_ratio": 2.89,
+ "recent_avg": 53900,
+ "baseline_avg": 18643,
+ "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 30854,
- "latest": 33823,
+ "abs_change": 35257,
+ "latest": 43128,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
+  "acceleration": 0.271,
+  "anomaly": 0.347,
   "persistence": 0.52,
-  "momentum": 0.547,
-  "volume": 0.745,
-  "spike_quality": 0.503
+  "momentum": 0.574,
+  "volume": 0.866,
+  "spike_quality": 0.704
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 30,870 views/day over the last 3 days (30-day baseline: 16)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 53,900 views/day over the last 3 days (30-day baseline: 18,643)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 20
-  },
-  {
    "date": "2026-09-22",
-   "views": 32
+   "views": 8351
   },
   {
    "date": "2026-09-23",
-   "views": 24
+   "views": 6221
   },
   {
    "date": "2026-09-24",
-   "views": 22
+   "views": 6100
   },
   {
    "date": "2026-09-25",
-   "views": 16
+   "views": 5886
   },
   {
    "date": "2026-09-26",
-   "views": 12
+   "views": 6726
   },
   {
    "date": "2026-09-27",
-   "views": 17
+   "views": 7362
   },
   {
    "date": "2026-09-28",
-   "views": 19
+   "views": 5810
   },
   {
    "date": "2026-09-29",
-   "views": 15
+   "views": 7203
   },
   {
    "date": "2026-09-30",
-   "views": 17
+   "views": 6660
   },
   {
    "date": "2026-10-01",
-   "views": 23
+   "views": 33646
   },
   {
    "date": "2026-10-02",
-   "views": 22
+   "views": 32908
   },
   {
    "date": "2026-10-03",
-   "views": 22
+   "views": 21941
   },
   {
    "date": "2026-10-04",
-   "views": 15
+   "views": 16297
   },
   {
    "date": "2026-10-05",
-   "views": 8
+   "views": 16564
   },
   {
    "date": "2026-10-06",
-   "views": 13
+   "views": 11336
   },
   {
    "date": "2026-10-07",
-   "views": 15
+   "views": 10318
   },
   {
    "date": "2026-10-08",
-   "views": 16
+   "views": 16791
   },
   {
    "date": "2026-10-09",
-   "views": 21
+   "views": 33744
   },
   {
    "date": "2026-10-10",
-   "views": 19
+   "views": 20584
   },
   {
    "date": "2026-10-11",
-   "views": 8
+   "views": 14905
   },
   {
    "date": "2026-10-12",
-   "views": 19
+   "views": 12211
   },
   {
    "date": "2026-10-13",
-   "views": 14
+   "views": 10171
   },
   {
    "date": "2026-10-14",
-   "views": 21
+   "views": 8236
   },
   {
    "date": "2026-10-15",
-   "views": 17
+   "views": 46189
   },
   {
    "date": "2026-10-16",
-   "views": 27
+   "views": 39174
   },
   {
    "date": "2026-10-17",
-   "views": 8
+   "views": 23352
   },
   {
    "date": "2026-10-18",
-   "views": 7
+   "views": 19321
   },
   {
    "date": "2026-10-19",
-   "views": 21
+   "views": 13288
   },
   {
    "date": "2026-10-20",
-   "views": 18
+   "views": 10833
   },
   {
    "date": "2026-10-21",
-   "views": 17
+   "views": 10309
   },
   {
    "date": "2026-10-22",
-   "views": 18
+   "views": 16351
   },
   {
    "date": "2026-10-23",
-   "views": 10
+   "views": 33481
   },
   {
    "date": "2026-10-24",
-   "views": 7
+   "views": 23233
   },
   {
    "date": "2026-10-25",
-   "views": 11
+   "views": 16616
   },
   {
    "date": "2026-10-26",
-   "views": 19
+   "views": 12407
   },
   {
    "date": "2026-10-27",
-   "views": 21
+   "views": 9808
   },
   {
    "date": "2026-10-28",
-   "views": 221
+   "views": 11416
   },
   {
    "date": "2026-10-29",
-   "views": 58565
+   "views": 49324
   },
   {
    "date": "2026-10-30",
-   "views": 33823
+   "views": 69248
+  },
+  {
+   "date": "2026-10-31",
+   "views": 43128
   }
  ],
- "wikipedia_title": "Brett_Sylvia",
+ "wikipedia_title": "Michael_Sheen",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Matthew Perry",
- "slug": "matthew-perry",
- "score": 37,
- "status": "Elevated",
- "change_percent": 895,
- "growth_ratio": 9.95,
- "recent_avg": 101936,
- "baseline_avg": 10248,
- "explanation": "Attention is 9.9\u00d7 its 30-day baseline.",
+ "title": "Halloween",
+ "slug": "halloween",
+ "score": 72,
+ "status": "Building",
+ "change_percent": 764,
+ "growth_ratio": 8.64,
+ "recent_avg": 109135,
+ "baseline_avg": 12626,
+ "explanation": "Attention is 8.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 91688,
- "latest": 81862,
+ "abs_change": 96509,
+ "latest": 202666,
  "components": {
-  "acceleration": 0.587,
-  "anomaly": 0.695,
-  "persistence": 0.76,
-  "momentum": 0.451,
+  "acceleration": 0.551,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.73
+  "spike_quality": 0.808
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 101,936 views/day over the last 3 days (30-day baseline: 10,248)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 109,135 views/day over the last 3 days (30-day baseline: 12,626)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 6264
-  },
-  {
    "date": "2026-09-22",
-   "views": 6146
+   "views": 4805
   },
   {
    "date": "2026-09-23",
-   "views": 6636
+   "views": 4321
   },
   {
    "date": "2026-09-24",
-   "views": 6196
+   "views": 4353
   },
   {
    "date": "2026-09-25",
-   "views": 5510
+   "views": 4474
   },
   {
    "date": "2026-09-26",
-   "views": 6259
+   "views": 4110
   },
   {
    "date": "2026-09-27",
-   "views": 6797
+   "views": 4906
   },
   {
    "date": "2026-09-28",
-   "views": 6139
+   "views": 5552
   },
   {
    "date": "2026-09-29",
-   "views": 12728
+   "views": 5669
   },
   {
    "date": "2026-09-30",
-   "views": 11705
+   "views": 6444
   },
   {
    "date": "2026-10-01",
-   "views": 7805
+   "views": 9322
   },
   {
    "date": "2026-10-02",
-   "views": 6300
+   "views": 8793
   },
   {
    "date": "2026-10-03",
-   "views": 6968
+   "views": 7552
   },
   {
    "date": "2026-10-04",
-   "views": 7577
+   "views": 8138
   },
   {
    "date": "2026-10-05",
-   "views": 6759
+   "views": 9256
   },
   {
    "date": "2026-10-06",
-   "views": 6445
+   "views": 10026
   },
   {
    "date": "2026-10-07",
-   "views": 5920
+   "views": 9224
   },
   {
    "date": "2026-10-08",
-   "views": 5216
+   "views": 9016
   },
   {
    "date": "2026-10-09",
-   "views": 6154
+   "views": 8712
   },
   {
    "date": "2026-10-10",
-   "views": 5931
+   "views": 8644
   },
   {
    "date": "2026-10-11",
-   "views": 6458
+   "views": 9000
   },
   {
    "date": "2026-10-12",
-   "views": 6374
+   "views": 9813
   },
   {
    "date": "2026-10-13",
-   "views": 6267
+   "views": 10156
   },
   {
    "date": "2026-10-14",
-   "views": 6488
+   "views": 10284
   },
   {
    "date": "2026-10-15",
-   "views": 6454
+   "views": 11534
   },
   {
    "date": "2026-10-16",
-   "views": 6189
+   "views": 12035
   },
   {
    "date": "2026-10-17",
-   "views": 6262
+   "views": 11545
   },
   {
    "date": "2026-10-18",
-   "views": 6754
+   "views": 11957
   },
   {
    "date": "2026-10-19",
-   "views": 6404
+   "views": 13702
   },
   {
    "date": "2026-10-20",
-   "views": 6475
+   "views": 13862
   },
   {
    "date": "2026-10-21",
-   "views": 6593
+   "views": 14172
   },
   {
    "date": "2026-10-22",
-   "views": 9421
+   "views": 15641
   },
   {
    "date": "2026-10-23",
-   "views": 7905
+   "views": 16393
   },
   {
    "date": "2026-10-24",
-   "views": 8407
+   "views": 16039
   },
   {
    "date": "2026-10-25",
-   "views": 20829
+   "views": 18880
   },
   {
    "date": "2026-10-26",
-   "views": 15373
+   "views": 25068
   },
   {
    "date": "2026-10-27",
-   "views": 79135
+   "views": 26503
   },
   {
    "date": "2026-10-28",
-   "views": 127771
+   "views": 31396
   },
   {
    "date": "2026-10-29",
-   "views": 96174
+   "views": 42067
   },
   {
    "date": "2026-10-30",
-   "views": 81862
+   "views": 82673
+  },
+  {
+   "date": "2026-10-31",
+   "views": 202666
   }
  ],
- "wikipedia_title": "Matthew_Perry",
+ "wikipedia_title": "Halloween",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

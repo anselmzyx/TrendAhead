@@ -1,198 +1,198 @@
 {
- "title": "Ernie Johnson Jr.",
- "slug": "ernie-johnson-jr",
- "score": 25,
- "status": "Peaked / fading",
- "change_percent": 7748,
- "growth_ratio": 78.55,
- "recent_avg": 32018,
- "baseline_avg": 408,
- "explanation": "Attention surged to 79\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Christian M'billi",
+ "slug": "christian-m-billi",
+ "score": 61,
+ "status": "Breaking out",
+ "change_percent": 1587,
+ "growth_ratio": 16.88,
+ "recent_avg": 28078,
+ "baseline_avg": 1664,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31610,
- "latest": 14654,
+ "abs_change": 26414,
+ "latest": 63614,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.722,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.354,
-  "volume": 0.753,
-  "spike_quality": 0.374
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.724,
+  "spike_quality": 0.72
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 32,018 views/day over the last 3 days (30-day baseline: 408)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 28,078 views/day over the last 3 days (30-day baseline: 1,664)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 176
-  },
-  {
    "date": "2026-09-22",
-   "views": 206
+   "views": 1138
   },
   {
    "date": "2026-09-23",
-   "views": 219
+   "views": 854
   },
   {
    "date": "2026-09-24",
-   "views": 199
+   "views": 614
   },
   {
    "date": "2026-09-25",
-   "views": 203
+   "views": 655
   },
   {
    "date": "2026-09-26",
-   "views": 206
+   "views": 966
   },
   {
    "date": "2026-09-27",
-   "views": 176
+   "views": 910
   },
   {
    "date": "2026-09-28",
-   "views": 177
+   "views": 683
   },
   {
    "date": "2026-09-29",
-   "views": 305
+   "views": 1149
   },
   {
    "date": "2026-09-30",
-   "views": 351
+   "views": 1581
   },
   {
    "date": "2026-10-01",
-   "views": 311
+   "views": 929
   },
   {
    "date": "2026-10-02",
-   "views": 279
+   "views": 928
   },
   {
    "date": "2026-10-03",
-   "views": 208
+   "views": 1141
   },
   {
    "date": "2026-10-04",
-   "views": 231
+   "views": 903
   },
   {
    "date": "2026-10-05",
-   "views": 197
+   "views": 798
   },
   {
    "date": "2026-10-06",
-   "views": 214
+   "views": 958
   },
   {
    "date": "2026-10-07",
-   "views": 182
+   "views": 1280
   },
   {
    "date": "2026-10-08",
-   "views": 233
+   "views": 1031
   },
   {
    "date": "2026-10-09",
-   "views": 198
+   "views": 1231
   },
   {
    "date": "2026-10-10",
-   "views": 171
+   "views": 1344
   },
   {
    "date": "2026-10-11",
-   "views": 186
+   "views": 1169
   },
   {
    "date": "2026-10-12",
-   "views": 286
+   "views": 1119
   },
   {
    "date": "2026-10-13",
-   "views": 261
+   "views": 977
   },
   {
    "date": "2026-10-14",
-   "views": 240
+   "views": 1136
   },
   {
    "date": "2026-10-15",
-   "views": 242
+   "views": 1245
   },
   {
    "date": "2026-10-16",
-   "views": 279
+   "views": 1025
   },
   {
    "date": "2026-10-17",
-   "views": 384
+   "views": 1563
   },
   {
    "date": "2026-10-18",
-   "views": 408
+   "views": 1789
   },
   {
    "date": "2026-10-19",
-   "views": 232
+   "views": 1269
   },
   {
    "date": "2026-10-20",
-   "views": 477
+   "views": 1158
   },
   {
    "date": "2026-10-21",
-   "views": 646
+   "views": 1587
   },
   {
    "date": "2026-10-22",
-   "views": 1670
+   "views": 1588
   },
   {
    "date": "2026-10-23",
-   "views": 1181
+   "views": 1318
   },
   {
    "date": "2026-10-24",
-   "views": 744
+   "views": 1785
   },
   {
    "date": "2026-10-25",
-   "views": 914
+   "views": 2763
   },
   {
    "date": "2026-10-26",
-   "views": 410
+   "views": 4064
   },
   {
    "date": "2026-10-27",
-   "views": 612
+   "views": 4707
   },
   {
    "date": "2026-10-28",
-   "views": 24288
+   "views": 6370
   },
   {
    "date": "2026-10-29",
-   "views": 57112
+   "views": 7625
   },
   {
    "date": "2026-10-30",
-   "views": 14654
+   "views": 12995
+  },
+  {
+   "date": "2026-10-31",
+   "views": 63614
   }
  ],
- "wikipedia_title": "Ernie_Johnson_Jr.",
+ "wikipedia_title": "Christian_M'billi",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

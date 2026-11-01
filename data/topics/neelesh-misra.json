@@ -1,197 +1,197 @@
 {
- "title": "Veronika Slowikowska",
- "slug": "veronika-slowikowska",
- "score": 34,
+ "title": "Neelesh Misra",
+ "slug": "neelesh-misra",
+ "score": 36,
  "status": "Breaking out",
- "change_percent": 742,
- "growth_ratio": 8.41,
- "recent_avg": 20273,
- "baseline_avg": 2409,
- "explanation": "Attention is 8.4\u00d7 its 30-day baseline.",
+ "change_percent": 25225,
+ "growth_ratio": 252.97,
+ "recent_avg": 37481,
+ "baseline_avg": 148,
+ "explanation": "Attention is 253\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17864,
- "latest": 55259,
+ "abs_change": 37333,
+ "latest": 112170,
  "components": {
-  "acceleration": 0.544,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.653,
-  "spike_quality": 0.595
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.787,
+  "spike_quality": 0.504
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 20,273 views/day over the last 3 days (30-day baseline: 2,409)."
+  "Averaging 37,481 views/day over the last 3 days (30-day baseline: 148)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 1256
-  },
-  {
    "date": "2026-09-22",
-   "views": 1352
+   "views": 134
   },
   {
    "date": "2026-09-23",
-   "views": 1465
+   "views": 132
   },
   {
    "date": "2026-09-24",
-   "views": 1318
+   "views": 129
   },
   {
    "date": "2026-09-25",
-   "views": 1254
+   "views": 129
   },
   {
    "date": "2026-09-26",
-   "views": 1352
+   "views": 178
   },
   {
    "date": "2026-09-27",
-   "views": 6352
+   "views": 142
   },
   {
    "date": "2026-09-28",
-   "views": 4017
+   "views": 122
   },
   {
    "date": "2026-09-29",
-   "views": 2855
+   "views": 143
   },
   {
    "date": "2026-09-30",
-   "views": 2175
+   "views": 120
   },
   {
    "date": "2026-10-01",
-   "views": 3031
+   "views": 162
   },
   {
    "date": "2026-10-02",
-   "views": 2944
+   "views": 124
   },
   {
    "date": "2026-10-03",
-   "views": 2218
+   "views": 97
   },
   {
    "date": "2026-10-04",
-   "views": 4832
+   "views": 96
   },
   {
    "date": "2026-10-05",
-   "views": 3565
+   "views": 96
   },
   {
    "date": "2026-10-06",
-   "views": 2763
+   "views": 102
   },
   {
    "date": "2026-10-07",
-   "views": 4028
+   "views": 90
   },
   {
    "date": "2026-10-08",
-   "views": 3475
+   "views": 108
   },
   {
    "date": "2026-10-09",
-   "views": 2120
+   "views": 142
   },
   {
    "date": "2026-10-10",
-   "views": 1860
+   "views": 136
   },
   {
    "date": "2026-10-11",
-   "views": 4370
+   "views": 166
   },
   {
    "date": "2026-10-12",
-   "views": 3307
+   "views": 130
   },
   {
    "date": "2026-10-13",
-   "views": 2482
+   "views": 136
   },
   {
    "date": "2026-10-14",
-   "views": 2238
+   "views": 106
   },
   {
    "date": "2026-10-15",
-   "views": 1840
+   "views": 107
   },
   {
    "date": "2026-10-16",
-   "views": 1677
+   "views": 259
   },
   {
    "date": "2026-10-17",
-   "views": 1625
+   "views": 176
   },
   {
    "date": "2026-10-18",
-   "views": 2410
+   "views": 233
   },
   {
    "date": "2026-10-19",
-   "views": 1629
+   "views": 198
   },
   {
    "date": "2026-10-20",
-   "views": 1499
+   "views": 176
   },
   {
    "date": "2026-10-21",
-   "views": 1399
+   "views": 123
   },
   {
    "date": "2026-10-22",
-   "views": 1398
+   "views": 141
   },
   {
    "date": "2026-10-23",
-   "views": 1272
+   "views": 278
   },
   {
    "date": "2026-10-24",
-   "views": 1078
+   "views": 214
   },
   {
    "date": "2026-10-25",
-   "views": 1473
+   "views": 170
   },
   {
    "date": "2026-10-26",
-   "views": 1330
+   "views": 147
   },
   {
    "date": "2026-10-27",
-   "views": 1369
+   "views": 131
   },
   {
    "date": "2026-10-28",
-   "views": 1854
+   "views": 138
   },
   {
    "date": "2026-10-29",
-   "views": 3706
+   "views": 116
   },
   {
    "date": "2026-10-30",
-   "views": 55259
+   "views": 157
+  },
+  {
+   "date": "2026-10-31",
+   "views": 112170
   }
  ],
- "wikipedia_title": "Veronika_Slowikowska",
+ "wikipedia_title": "Neelesh_Misra",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

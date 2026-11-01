@@ -1,197 +1,197 @@
 {
- "title": "Binance",
- "slug": "binance",
- "score": 37,
+ "title": "Suspension of Bogdan \u015awi\u0119czkowski",
+ "slug": "suspension-of-bogdan-swieczkowski",
+ "score": 39,
  "status": "Breaking out",
- "change_percent": 2920,
- "growth_ratio": 30.2,
- "recent_avg": 18091,
- "baseline_avg": 599,
- "explanation": "Attention is 30\u00d7 its 30-day baseline.",
+ "change_percent": null,
+ "growth_ratio": 286.52,
+ "recent_avg": 28652,
+ "baseline_avg": 0,
+ "explanation": "Attention is 287\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17492,
- "latest": 50826,
+ "abs_change": 28652,
+ "latest": 84378,
  "components": {
-  "acceleration": 0.871,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 0.933,
-  "volume": 0.629,
-  "spike_quality": 0.562
+  "volume": 0.729,
+  "spike_quality": 0.511
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 18,091 views/day over the last 3 days (30-day baseline: 599)."
+  "Averaging 28,652 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 743
-  },
-  {
    "date": "2026-09-22",
-   "views": 913
+   "views": 0
   },
   {
    "date": "2026-09-23",
-   "views": 846
+   "views": 0
   },
   {
    "date": "2026-09-24",
-   "views": 758
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 729
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 671
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 697
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 698
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 653
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 580
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 671
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 588
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 450
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 573
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 547
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 585
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 620
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 629
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 659
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 550
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 512
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 556
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 689
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 692
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 604
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 553
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 531
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 470
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 509
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 610
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 607
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 587
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 614
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 621
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 548
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 716
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 749
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 676
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 2770
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 50826
+   "views": 1578
+  },
+  {
+   "date": "2026-10-31",
+   "views": 84378
   }
  ],
- "wikipedia_title": "Binance",
+ "wikipedia_title": "Suspension_of_Bogdan_\u015awi\u0119czkowski",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

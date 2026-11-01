@@ -1,38 +1,34 @@
 {
  "title": "Sunny Ozell",
  "slug": "sunny-ozell",
- "score": 59,
- "status": "Breaking out",
- "change_percent": 29749,
- "growth_ratio": 298.62,
- "recent_avg": 278794,
- "baseline_avg": 934,
- "explanation": "Attention is 299\u00d7 its 30-day baseline.",
+ "score": 28,
+ "status": "Peaked / fading",
+ "change_percent": 35727,
+ "growth_ratio": 358.1,
+ "recent_avg": 320652,
+ "baseline_avg": 895,
+ "explanation": "Attention surged to 358\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 277860,
- "latest": 488907,
+ "abs_change": 319757,
+ "latest": 126366,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
+  "persistence": 0.52,
+  "momentum": 0.355,
   "volume": 1.0,
-  "spike_quality": 0.744
+  "spike_quality": 0.417
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 278,794 views/day over the last 3 days (30-day baseline: 934)."
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 320,652 views/day over the last 3 days (30-day baseline: 895)."
  ],
  "history": [
-  {
-   "date": "2026-09-21",
-   "views": 1249
-  },
   {
    "date": "2026-09-22",
    "views": 1551
@@ -188,11 +184,15 @@
   {
    "date": "2026-10-30",
    "views": 488907
+  },
+  {
+   "date": "2026-10-31",
+   "views": 126366
   }
  ],
  "wikipedia_title": "Sunny_Ozell",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

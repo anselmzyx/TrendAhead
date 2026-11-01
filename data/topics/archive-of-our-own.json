@@ -1,38 +1,33 @@
 {
  "title": "Archive of Our Own",
  "slug": "archive-of-our-own",
- "score": 43,
- "status": "Breaking out",
- "change_percent": 1651,
- "growth_ratio": 17.51,
- "recent_avg": 28021,
- "baseline_avg": 1600,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "score": 45,
+ "status": "Elevated",
+ "change_percent": 2568,
+ "growth_ratio": 26.68,
+ "recent_avg": 42640,
+ "baseline_avg": 1598,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26421,
- "latest": 55142,
+ "abs_change": 41042,
+ "latest": 45549,
  "components": {
-  "acceleration": 0.732,
+  "acceleration": 0.839,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.724,
-  "spike_quality": 0.731
+  "persistence": 0.52,
+  "momentum": 0.696,
+  "volume": 0.815,
+  "spike_quality": 0.758
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 28,021 views/day over the last 3 days (30-day baseline: 1,600)."
+  "Averaging 42,640 views/day over the last 3 days (30-day baseline: 1,598)."
  ],
  "history": [
-  {
-   "date": "2026-09-21",
-   "views": 1348
-  },
   {
    "date": "2026-09-22",
    "views": 1587
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-30",
    "views": 55142
+  },
+  {
+   "date": "2026-10-31",
+   "views": 45549
   }
  ],
  "wikipedia_title": "Archive_of_Our_Own",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

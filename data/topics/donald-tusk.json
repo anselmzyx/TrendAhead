@@ -1,198 +1,197 @@
 {
- "title": "Barbara Barrie",
- "slug": "barbara-barrie",
- "score": 27,
- "status": "Peaked / fading",
- "change_percent": 24088,
- "growth_ratio": 242.14,
- "recent_avg": 97721,
- "baseline_avg": 404,
- "explanation": "Attention surged to 242\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Donald Tusk",
+ "slug": "donald-tusk",
+ "score": 43,
+ "status": "Breaking out",
+ "change_percent": 1982,
+ "growth_ratio": 20.81,
+ "recent_avg": 32022,
+ "baseline_avg": 1538,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 97317,
- "latest": 59210,
+ "abs_change": 30484,
+ "latest": 69471,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.776,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.393,
-  "volume": 0.995,
-  "spike_quality": 0.381
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.753,
+  "spike_quality": 0.688
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 97,721 views/day over the last 3 days (30-day baseline: 404)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 32,022 views/day over the last 3 days (30-day baseline: 1,538)."
  ],
  "history": [
   {
-   "date": "2026-09-21",
-   "views": 399
-  },
-  {
    "date": "2026-09-22",
-   "views": 389
+   "views": 1322
   },
   {
    "date": "2026-09-23",
-   "views": 330
+   "views": 1305
   },
   {
    "date": "2026-09-24",
-   "views": 252
+   "views": 1473
   },
   {
    "date": "2026-09-25",
-   "views": 296
+   "views": 1319
   },
   {
    "date": "2026-09-26",
-   "views": 469
+   "views": 1107
   },
   {
    "date": "2026-09-27",
-   "views": 419
+   "views": 1130
   },
   {
    "date": "2026-09-28",
-   "views": 335
+   "views": 1091
   },
   {
    "date": "2026-09-29",
-   "views": 359
+   "views": 1071
   },
   {
    "date": "2026-09-30",
-   "views": 323
+   "views": 935
   },
   {
    "date": "2026-10-01",
-   "views": 454
+   "views": 861
   },
   {
    "date": "2026-10-02",
-   "views": 472
+   "views": 962
   },
   {
    "date": "2026-10-03",
-   "views": 450
+   "views": 890
   },
   {
    "date": "2026-10-04",
-   "views": 507
+   "views": 1047
   },
   {
    "date": "2026-10-05",
-   "views": 464
+   "views": 1044
   },
   {
    "date": "2026-10-06",
-   "views": 347
+   "views": 1081
   },
   {
    "date": "2026-10-07",
-   "views": 325
+   "views": 1056
   },
   {
    "date": "2026-10-08",
-   "views": 425
+   "views": 1283
   },
   {
    "date": "2026-10-09",
-   "views": 384
+   "views": 1167
   },
   {
    "date": "2026-10-10",
-   "views": 468
+   "views": 1010
   },
   {
    "date": "2026-10-11",
-   "views": 353
+   "views": 3582
   },
   {
    "date": "2026-10-12",
-   "views": 323
+   "views": 2478
   },
   {
    "date": "2026-10-13",
-   "views": 343
+   "views": 1408
   },
   {
    "date": "2026-10-14",
-   "views": 299
+   "views": 1181
   },
   {
    "date": "2026-10-15",
-   "views": 366
+   "views": 1140
   },
   {
    "date": "2026-10-16",
-   "views": 299
+   "views": 1174
   },
   {
    "date": "2026-10-17",
-   "views": 351
+   "views": 907
   },
   {
    "date": "2026-10-18",
-   "views": 328
+   "views": 2027
   },
   {
    "date": "2026-10-19",
-   "views": 377
+   "views": 2129
   },
   {
    "date": "2026-10-20",
-   "views": 318
+   "views": 1997
   },
   {
    "date": "2026-10-21",
-   "views": 538
+   "views": 2006
   },
   {
    "date": "2026-10-22",
-   "views": 355
+   "views": 2478
   },
   {
    "date": "2026-10-23",
-   "views": 789
+   "views": 2600
   },
   {
    "date": "2026-10-24",
-   "views": 389
+   "views": 2139
   },
   {
    "date": "2026-10-25",
-   "views": 439
+   "views": 1735
   },
   {
    "date": "2026-10-26",
-   "views": 467
+   "views": 1920
   },
   {
    "date": "2026-10-27",
-   "views": 460
+   "views": 1551
   },
   {
    "date": "2026-10-28",
-   "views": 50216
+   "views": 1296
   },
   {
    "date": "2026-10-29",
-   "views": 183737
+   "views": 1238
   },
   {
    "date": "2026-10-30",
-   "views": 59210
+   "views": 25358
+  },
+  {
+   "date": "2026-10-31",
+   "views": 69471
   }
  ],
- "wikipedia_title": "Barbara_Barrie",
+ "wikipedia_title": "Donald_Tusk",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }

@@ -2,37 +2,31 @@
  "title": "Maya Jama",
  "slug": "maya-jama",
  "score": 24,
- "status": "Breaking out",
- "change_percent": 186,
- "growth_ratio": 2.86,
- "recent_avg": 64239,
- "baseline_avg": 22452,
- "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
+ "status": "Elevated",
+ "change_percent": 300,
+ "growth_ratio": 4.0,
+ "recent_avg": 90800,
+ "baseline_avg": 22726,
+ "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 41787,
- "latest": 139120,
+ "abs_change": 68074,
+ "latest": 90652,
  "components": {
-  "acceleration": 0.269,
-  "anomaly": 0.247,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.904,
-  "spike_quality": 0.788
+  "acceleration": 0.354,
+  "anomaly": 0.409,
+  "persistence": 0.52,
+  "momentum": 0.591,
+  "volume": 0.979,
+  "spike_quality": 0.663
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 64,239 views/day over the last 3 days (30-day baseline: 22,452)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 90,800 views/day over the last 3 days (30-day baseline: 22,726)."
  ],
  "history": [
-  {
-   "date": "2026-09-21",
-   "views": 2722
-  },
   {
    "date": "2026-09-22",
    "views": 2815
@@ -188,11 +182,15 @@
   {
    "date": "2026-10-30",
    "views": 139120
+  },
+  {
+   "date": "2026-10-31",
+   "views": 90652
   }
  ],
  "wikipedia_title": "Maya_Jama",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-30",
- "generated_at_utc": "2026-10-31T11:10:08+00:00"
+ "data_through": "2026-10-31",
+ "generated_at_utc": "2026-11-01T11:59:54+00:00"
 }
