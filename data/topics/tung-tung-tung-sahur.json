@@ -1,198 +1,197 @@
 {
- "title": "Patrick Stewart",
- "slug": "patrick-stewart",
- "score": 21,
- "status": "Peaked / fading",
- "change_percent": 41315,
- "growth_ratio": 414.18,
- "recent_avg": 1563019,
- "baseline_avg": 3774,
- "explanation": "Attention surged to 414\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Tung Tung Tung Sahur",
+ "slug": "tung-tung-tung-sahur",
+ "score": 34,
+ "status": "Breaking out",
+ "change_percent": 1104,
+ "growth_ratio": 12.04,
+ "recent_avg": 68015,
+ "baseline_avg": 5647,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 1559245,
- "latest": 450119,
+ "abs_change": 62368,
+ "latest": 192363,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.636,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.181,
-  "volume": 1.0,
-  "spike_quality": 0.387
+  "persistence": 0.2,
+  "momentum": 0.867,
+  "volume": 0.916,
+  "spike_quality": 0.594
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 1,563,019 views/day over the last 3 days (30-day baseline: 3,774)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 68,015 views/day over the last 3 days (30-day baseline: 5,647)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 4616
-  },
-  {
    "date": "2026-09-23",
-   "views": 4017
+   "views": 6234
   },
   {
    "date": "2026-09-24",
-   "views": 4216
+   "views": 6183
   },
   {
    "date": "2026-09-25",
-   "views": 3976
+   "views": 5696
   },
   {
    "date": "2026-09-26",
-   "views": 4520
+   "views": 3679
   },
   {
    "date": "2026-09-27",
-   "views": 5080
+   "views": 3945
   },
   {
    "date": "2026-09-28",
-   "views": 5261
+   "views": 5378
   },
   {
    "date": "2026-09-29",
-   "views": 4470
+   "views": 5357
   },
   {
    "date": "2026-09-30",
-   "views": 4030
+   "views": 5818
   },
   {
    "date": "2026-10-01",
-   "views": 3736
+   "views": 5820
   },
   {
    "date": "2026-10-02",
-   "views": 3953
+   "views": 6158
   },
   {
    "date": "2026-10-03",
-   "views": 4395
+   "views": 3795
   },
   {
    "date": "2026-10-04",
-   "views": 4240
+   "views": 3639
   },
   {
    "date": "2026-10-05",
-   "views": 3724
+   "views": 5449
   },
   {
    "date": "2026-10-06",
-   "views": 3293
+   "views": 5699
   },
   {
    "date": "2026-10-07",
-   "views": 3628
+   "views": 5837
   },
   {
    "date": "2026-10-08",
-   "views": 3446
+   "views": 6040
   },
   {
    "date": "2026-10-09",
-   "views": 3389
+   "views": 6693
   },
   {
    "date": "2026-10-10",
-   "views": 4064
+   "views": 4598
   },
   {
    "date": "2026-10-11",
-   "views": 3862
+   "views": 5263
   },
   {
    "date": "2026-10-12",
-   "views": 3762
+   "views": 5756
   },
   {
    "date": "2026-10-13",
-   "views": 3594
+   "views": 8263
   },
   {
    "date": "2026-10-14",
-   "views": 3324
+   "views": 7990
   },
   {
    "date": "2026-10-15",
-   "views": 3225
+   "views": 6608
   },
   {
    "date": "2026-10-16",
-   "views": 3207
+   "views": 6154
   },
   {
    "date": "2026-10-17",
-   "views": 4538
+   "views": 3690
   },
   {
    "date": "2026-10-18",
-   "views": 3963
+   "views": 3920
   },
   {
    "date": "2026-10-19",
-   "views": 3312
+   "views": 5822
   },
   {
    "date": "2026-10-20",
-   "views": 3369
+   "views": 5798
   },
   {
    "date": "2026-10-21",
-   "views": 3195
+   "views": 5662
   },
   {
    "date": "2026-10-22",
-   "views": 3301
+   "views": 6049
   },
   {
    "date": "2026-10-23",
-   "views": 3347
+   "views": 5929
   },
   {
    "date": "2026-10-24",
-   "views": 4141
+   "views": 3969
   },
   {
    "date": "2026-10-25",
-   "views": 4089
+   "views": 3732
   },
   {
    "date": "2026-10-26",
-   "views": 4563
+   "views": 5813
   },
   {
    "date": "2026-10-27",
-   "views": 4277
+   "views": 6429
   },
   {
    "date": "2026-10-28",
-   "views": 3775
+   "views": 6318
   },
   {
    "date": "2026-10-29",
-   "views": 2356552
+   "views": 6698
   },
   {
    "date": "2026-10-30",
-   "views": 1882386
+   "views": 6825
   },
   {
    "date": "2026-10-31",
-   "views": 450119
+   "views": 4857
+  },
+  {
+   "date": "2026-11-01",
+   "views": 192363
   }
  ],
- "wikipedia_title": "Patrick_Stewart",
+ "wikipedia_title": "Tung_Tung_Tung_Sahur",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

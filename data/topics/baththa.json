@@ -1,38 +1,33 @@
 {
  "title": "Baththa",
  "slug": "baththa",
- "score": 44,
+ "score": 39,
  "status": "Building",
- "change_percent": 294,
- "growth_ratio": 3.94,
- "recent_avg": 61784,
- "baseline_avg": 15690,
- "explanation": "Attention is 3.9\u00d7 its 30-day baseline.",
+ "change_percent": 268,
+ "growth_ratio": 3.68,
+ "recent_avg": 64436,
+ "baseline_avg": 17526,
+ "explanation": "Attention is 3.7\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 46094,
- "latest": 68012,
+ "abs_change": 46910,
+ "latest": 63049,
  "components": {
-  "acceleration": 0.35,
-  "anomaly": 0.516,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.895,
-  "spike_quality": 0.927
+  "acceleration": 0.333,
+  "anomaly": 0.428,
+  "persistence": 0.72,
+  "momentum": 0.756,
+  "volume": 0.905,
+  "spike_quality": 0.912
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,784 views/day over the last 3 days (30-day baseline: 15,690)."
+  "Averaging 64,436 views/day over the last 3 days (30-day baseline: 17,526)."
  ],
  "history": [
-  {
-   "date": "2026-09-22",
-   "views": 0
-  },
   {
    "date": "2026-09-23",
    "views": 0
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-31",
    "views": 68012
+  },
+  {
+   "date": "2026-11-01",
+   "views": 63049
   }
  ],
  "wikipedia_title": "Baththa",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

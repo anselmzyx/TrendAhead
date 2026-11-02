@@ -1,197 +1,198 @@
 {
- "title": "William Shatner",
- "slug": "william-shatner",
- "score": 29,
- "status": "Peaked / fading",
- "change_percent": 646,
- "growth_ratio": 7.46,
- "recent_avg": 66002,
- "baseline_avg": 8847,
- "explanation": "Attention surged to 7.5\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "All Saints' Day",
+ "slug": "all-saints-day",
+ "score": 67,
+ "status": "Building",
+ "change_percent": 1332,
+ "growth_ratio": 14.32,
+ "recent_avg": 31976,
+ "baseline_avg": 2233,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 57155,
- "latest": 34715,
+ "abs_change": 29743,
+ "latest": 52015,
  "components": {
-  "acceleration": 0.514,
-  "anomaly": 0.737,
-  "persistence": 0.76,
-  "momentum": 0.432,
-  "volume": 0.91,
-  "spike_quality": 0.597
+  "acceleration": 0.68,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.752,
+  "spike_quality": 0.828
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 66,002 views/day over the last 3 days (30-day baseline: 8,847)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 31,976 views/day over the last 3 days (30-day baseline: 2,233)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 9661
-  },
-  {
    "date": "2026-09-23",
-   "views": 7581
+   "views": 737
   },
   {
    "date": "2026-09-24",
-   "views": 6424
+   "views": 727
   },
   {
    "date": "2026-09-25",
-   "views": 6249
+   "views": 687
   },
   {
    "date": "2026-09-26",
-   "views": 8190
+   "views": 667
   },
   {
    "date": "2026-09-27",
-   "views": 9442
+   "views": 767
   },
   {
    "date": "2026-09-28",
-   "views": 6441
+   "views": 904
   },
   {
    "date": "2026-09-29",
-   "views": 6405
+   "views": 979
   },
   {
    "date": "2026-09-30",
-   "views": 5458
+   "views": 994
   },
   {
    "date": "2026-10-01",
-   "views": 5510
+   "views": 1261
   },
   {
    "date": "2026-10-02",
-   "views": 5555
+   "views": 1083
   },
   {
    "date": "2026-10-03",
-   "views": 7535
+   "views": 1117
   },
   {
    "date": "2026-10-04",
-   "views": 6342
+   "views": 1261
   },
   {
    "date": "2026-10-05",
-   "views": 5437
+   "views": 1271
   },
   {
    "date": "2026-10-06",
-   "views": 4505
+   "views": 1356
   },
   {
    "date": "2026-10-07",
-   "views": 6114
+   "views": 1324
   },
   {
    "date": "2026-10-08",
-   "views": 6198
+   "views": 1575
   },
   {
    "date": "2026-10-09",
-   "views": 6645
+   "views": 1348
   },
   {
    "date": "2026-10-10",
-   "views": 8125
+   "views": 1298
   },
   {
    "date": "2026-10-11",
-   "views": 6426
+   "views": 1378
   },
   {
    "date": "2026-10-12",
-   "views": 5890
+   "views": 1541
   },
   {
    "date": "2026-10-13",
-   "views": 14490
+   "views": 1658
   },
   {
    "date": "2026-10-14",
-   "views": 9353
+   "views": 1686
   },
   {
    "date": "2026-10-15",
-   "views": 6812
+   "views": 1642
   },
   {
    "date": "2026-10-16",
-   "views": 6114
+   "views": 1661
   },
   {
    "date": "2026-10-17",
-   "views": 10211
+   "views": 1694
   },
   {
    "date": "2026-10-18",
-   "views": 8723
+   "views": 2005
   },
   {
    "date": "2026-10-19",
-   "views": 5613
+   "views": 2159
   },
   {
    "date": "2026-10-20",
-   "views": 4996
+   "views": 1967
   },
   {
    "date": "2026-10-21",
-   "views": 5225
+   "views": 2086
   },
   {
    "date": "2026-10-22",
-   "views": 4553
+   "views": 2205
   },
   {
    "date": "2026-10-23",
-   "views": 4937
+   "views": 2372
   },
   {
    "date": "2026-10-24",
-   "views": 5592
+   "views": 2466
   },
   {
    "date": "2026-10-25",
-   "views": 5610
+   "views": 3526
   },
   {
    "date": "2026-10-26",
-   "views": 39456
+   "views": 4571
   },
   {
    "date": "2026-10-27",
-   "views": 32979
+   "views": 5127
   },
   {
    "date": "2026-10-28",
-   "views": 14608
+   "views": 5876
   },
   {
    "date": "2026-10-29",
-   "views": 73664
+   "views": 7494
   },
   {
    "date": "2026-10-30",
-   "views": 89627
+   "views": 13841
   },
   {
    "date": "2026-10-31",
-   "views": 34715
+   "views": 30071
+  },
+  {
+   "date": "2026-11-01",
+   "views": 52015
   }
  ],
- "wikipedia_title": "William_Shatner",
+ "wikipedia_title": "All_Saints'_Day",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

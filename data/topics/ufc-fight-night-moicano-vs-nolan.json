@@ -1,196 +1,198 @@
 {
- "title": "Maya Jama",
- "slug": "maya-jama",
- "score": 24,
- "status": "Elevated",
- "change_percent": 300,
- "growth_ratio": 4.0,
- "recent_avg": 90800,
- "baseline_avg": 22726,
- "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
+ "title": "UFC Fight Night: Moicano vs. Nolan",
+ "slug": "ufc-fight-night-moicano-vs-nolan",
+ "score": 46,
+ "status": "Building",
+ "change_percent": 602,
+ "growth_ratio": 7.02,
+ "recent_avg": 25280,
+ "baseline_avg": 3600,
+ "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 68074,
- "latest": 90652,
+ "abs_change": 21680,
+ "latest": 45782,
  "components": {
-  "acceleration": 0.354,
-  "anomaly": 0.409,
-  "persistence": 0.52,
-  "momentum": 0.591,
-  "volume": 0.979,
-  "spike_quality": 0.663
+  "acceleration": 0.498,
+  "anomaly": 0.939,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.701,
+  "spike_quality": 0.803
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 90,800 views/day over the last 3 days (30-day baseline: 22,726)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,280 views/day over the last 3 days (30-day baseline: 3,600)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 2815
-  },
-  {
    "date": "2026-09-23",
-   "views": 2268
+   "views": 2098
   },
   {
    "date": "2026-09-24",
-   "views": 2736
+   "views": 1937
   },
   {
    "date": "2026-09-25",
-   "views": 2727
+   "views": 2021
   },
   {
    "date": "2026-09-26",
-   "views": 2427
+   "views": 2444
   },
   {
    "date": "2026-09-27",
-   "views": 3009
+   "views": 2963
   },
   {
    "date": "2026-09-28",
-   "views": 2752
+   "views": 1991
   },
   {
    "date": "2026-09-29",
-   "views": 2868
+   "views": 2634
   },
   {
    "date": "2026-09-30",
-   "views": 3053
+   "views": 2213
   },
   {
    "date": "2026-10-01",
-   "views": 64411
+   "views": 2064
   },
   {
    "date": "2026-10-02",
-   "views": 62875
+   "views": 2229
   },
   {
    "date": "2026-10-03",
-   "views": 36240
+   "views": 2998
   },
   {
    "date": "2026-10-04",
-   "views": 25523
+   "views": 8038
   },
   {
    "date": "2026-10-05",
-   "views": 13289
+   "views": 3231
   },
   {
    "date": "2026-10-06",
-   "views": 8606
+   "views": 2198
   },
   {
    "date": "2026-10-07",
-   "views": 7746
+   "views": 1983
   },
   {
    "date": "2026-10-08",
-   "views": 31708
+   "views": 2002
   },
   {
    "date": "2026-10-09",
-   "views": 40984
+   "views": 2207
   },
   {
    "date": "2026-10-10",
-   "views": 25737
+   "views": 2726
   },
   {
    "date": "2026-10-11",
-   "views": 17834
+   "views": 3554
   },
   {
    "date": "2026-10-12",
-   "views": 11846
+   "views": 2166
   },
   {
    "date": "2026-10-13",
-   "views": 8008
+   "views": 2192
   },
   {
    "date": "2026-10-14",
-   "views": 6562
+   "views": 2150
   },
   {
    "date": "2026-10-15",
-   "views": 22046
+   "views": 2221
   },
   {
    "date": "2026-10-16",
-   "views": 44515
+   "views": 2331
   },
   {
    "date": "2026-10-17",
-   "views": 30782
+   "views": 2800
   },
   {
    "date": "2026-10-18",
-   "views": 22530
+   "views": 4827
   },
   {
    "date": "2026-10-19",
-   "views": 13072
+   "views": 2775
   },
   {
    "date": "2026-10-20",
-   "views": 8122
+   "views": 2599
   },
   {
    "date": "2026-10-21",
-   "views": 6407
+   "views": 2397
   },
   {
    "date": "2026-10-22",
-   "views": 23099
+   "views": 2606
   },
   {
    "date": "2026-10-23",
-   "views": 51251
+   "views": 2772
   },
   {
    "date": "2026-10-24",
-   "views": 35113
+   "views": 10923
   },
   {
    "date": "2026-10-25",
-   "views": 20906
+   "views": 10354
   },
   {
    "date": "2026-10-26",
-   "views": 14653
+   "views": 5910
   },
   {
    "date": "2026-10-27",
-   "views": 11025
+   "views": 4314
   },
   {
    "date": "2026-10-28",
-   "views": 10969
+   "views": 4420
   },
   {
    "date": "2026-10-29",
-   "views": 42629
+   "views": 4814
   },
   {
    "date": "2026-10-30",
-   "views": 139120
+   "views": 6358
   },
   {
    "date": "2026-10-31",
-   "views": 90652
+   "views": 23699
+  },
+  {
+   "date": "2026-11-01",
+   "views": 45782
   }
  ],
- "wikipedia_title": "Maya_Jama",
+ "wikipedia_title": "UFC_Fight_Night:_Moicano_vs._Nolan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

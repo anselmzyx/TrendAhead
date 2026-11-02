@@ -1,197 +1,198 @@
 {
- "title": "Suspension of Bogdan \u015awi\u0119czkowski",
- "slug": "suspension-of-bogdan-swieczkowski",
- "score": 39,
- "status": "Breaking out",
- "change_percent": null,
- "growth_ratio": 286.52,
- "recent_avg": 28652,
- "baseline_avg": 0,
- "explanation": "Attention is 287\u00d7 its 30-day baseline.",
+ "title": "Canelo \u00c1lvarez",
+ "slug": "canelo-alvarez",
+ "score": 66,
+ "status": "Building",
+ "change_percent": 848,
+ "growth_ratio": 9.48,
+ "recent_avg": 46409,
+ "baseline_avg": 4898,
+ "explanation": "Attention is 9.5\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 28652,
- "latest": 84378,
+ "abs_change": 41511,
+ "latest": 69177,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.575,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.729,
-  "spike_quality": 0.511
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.833,
+  "spike_quality": 0.847
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 28,652 views/day over the last 3 days (30-day baseline: 0)."
+  "Averaging 46,409 views/day over the last 3 days (30-day baseline: 4,898)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 0
-  },
-  {
    "date": "2026-09-23",
-   "views": 0
+   "views": 2898
   },
   {
    "date": "2026-09-24",
-   "views": 0
+   "views": 2776
   },
   {
    "date": "2026-09-25",
-   "views": 0
+   "views": 2792
   },
   {
    "date": "2026-09-26",
-   "views": 0
+   "views": 3511
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 3326
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 3093
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 2975
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 3891
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 3206
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 3481
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 3485
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 3448
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 3451
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 3456
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 4282
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 4061
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 4013
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 7753
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 6566
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 5890
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 4094
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 3717
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 5991
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 4069
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 6646
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 6269
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 4413
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 3578
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 3489
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 3852
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 3481
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 4100
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 4587
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 5916
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 5189
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 10610
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 9951
   },
   {
    "date": "2026-10-30",
-   "views": 1578
+   "views": 11690
   },
   {
    "date": "2026-10-31",
-   "views": 84378
+   "views": 58360
+  },
+  {
+   "date": "2026-11-01",
+   "views": 69177
   }
  ],
- "wikipedia_title": "Suspension_of_Bogdan_\u015awi\u0119czkowski",
+ "wikipedia_title": "Canelo_\u00c1lvarez",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

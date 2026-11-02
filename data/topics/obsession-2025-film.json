@@ -1,197 +1,198 @@
 {
- "title": "Michael Sheen",
- "slug": "michael-sheen",
- "score": 21,
- "status": "Elevated",
- "change_percent": 189,
- "growth_ratio": 2.89,
- "recent_avg": 53900,
- "baseline_avg": 18643,
- "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
+ "title": "Obsession (2025 film)",
+ "slug": "obsession-2025-film",
+ "score": 51,
+ "status": "Building",
+ "change_percent": 150,
+ "growth_ratio": 2.5,
+ "recent_avg": 69749,
+ "baseline_avg": 27929,
+ "explanation": "Attention is 2.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 35257,
- "latest": 43128,
+ "abs_change": 41820,
+ "latest": 91786,
  "components": {
-  "acceleration": 0.271,
-  "anomaly": 0.347,
-  "persistence": 0.52,
-  "momentum": 0.574,
-  "volume": 0.866,
-  "spike_quality": 0.704
+  "acceleration": 0.234,
+  "anomaly": 0.985,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.922,
+  "spike_quality": 0.922
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 53,900 views/day over the last 3 days (30-day baseline: 18,643)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 69,749 views/day over the last 3 days (30-day baseline: 27,929)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 8351
-  },
-  {
    "date": "2026-09-23",
-   "views": 6221
+   "views": 24807
   },
   {
    "date": "2026-09-24",
-   "views": 6100
+   "views": 24970
   },
   {
    "date": "2026-09-25",
-   "views": 5886
+   "views": 26913
   },
   {
    "date": "2026-09-26",
-   "views": 6726
+   "views": 34323
   },
   {
    "date": "2026-09-27",
-   "views": 7362
+   "views": 39040
   },
   {
    "date": "2026-09-28",
-   "views": 5810
+   "views": 31913
   },
   {
    "date": "2026-09-29",
-   "views": 7203
+   "views": 27248
   },
   {
    "date": "2026-09-30",
-   "views": 6660
+   "views": 26826
   },
   {
    "date": "2026-10-01",
-   "views": 33646
+   "views": 25831
   },
   {
    "date": "2026-10-02",
-   "views": 32908
+   "views": 27499
   },
   {
    "date": "2026-10-03",
-   "views": 21941
+   "views": 33241
   },
   {
    "date": "2026-10-04",
-   "views": 16297
+   "views": 33627
   },
   {
    "date": "2026-10-05",
-   "views": 16564
+   "views": 26329
   },
   {
    "date": "2026-10-06",
-   "views": 11336
+   "views": 22620
   },
   {
    "date": "2026-10-07",
-   "views": 10318
+   "views": 22299
   },
   {
    "date": "2026-10-08",
-   "views": 16791
+   "views": 21993
   },
   {
    "date": "2026-10-09",
-   "views": 33744
+   "views": 24126
   },
   {
    "date": "2026-10-10",
-   "views": 20584
+   "views": 29964
   },
   {
    "date": "2026-10-11",
-   "views": 14905
+   "views": 30192
   },
   {
    "date": "2026-10-12",
-   "views": 12211
+   "views": 27126
   },
   {
    "date": "2026-10-13",
-   "views": 10171
+   "views": 22311
   },
   {
    "date": "2026-10-14",
-   "views": 8236
+   "views": 21117
   },
   {
    "date": "2026-10-15",
-   "views": 46189
+   "views": 23210
   },
   {
    "date": "2026-10-16",
-   "views": 39174
+   "views": 23207
   },
   {
    "date": "2026-10-17",
-   "views": 23352
+   "views": 30133
   },
   {
    "date": "2026-10-18",
-   "views": 19321
+   "views": 31734
   },
   {
    "date": "2026-10-19",
-   "views": 13288
+   "views": 25682
   },
   {
    "date": "2026-10-20",
-   "views": 10833
+   "views": 27626
   },
   {
    "date": "2026-10-21",
-   "views": 10309
+   "views": 28268
   },
   {
    "date": "2026-10-22",
-   "views": 16351
+   "views": 29867
   },
   {
    "date": "2026-10-23",
-   "views": 33481
+   "views": 29013
   },
   {
    "date": "2026-10-24",
-   "views": 23233
+   "views": 34686
   },
   {
    "date": "2026-10-25",
-   "views": 16616
+   "views": 35992
   },
   {
    "date": "2026-10-26",
-   "views": 12407
+   "views": 29517
   },
   {
    "date": "2026-10-27",
-   "views": 9808
+   "views": 26888
   },
   {
    "date": "2026-10-28",
-   "views": 11416
+   "views": 29994
   },
   {
    "date": "2026-10-29",
-   "views": 49324
+   "views": 36940
   },
   {
    "date": "2026-10-30",
-   "views": 69248
+   "views": 47564
   },
   {
    "date": "2026-10-31",
-   "views": 43128
+   "views": 69897
+  },
+  {
+   "date": "2026-11-01",
+   "views": 91786
   }
  ],
- "wikipedia_title": "Michael_Sheen",
+ "wikipedia_title": "Obsession_(2025_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

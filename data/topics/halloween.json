@@ -1,38 +1,33 @@
 {
  "title": "Halloween",
  "slug": "halloween",
- "score": 72,
- "status": "Building",
- "change_percent": 764,
- "growth_ratio": 8.64,
- "recent_avg": 109135,
- "baseline_avg": 12626,
- "explanation": "Attention is 8.6\u00d7 its 30-day baseline.",
+ "score": 39,
+ "status": "Peaked / fading",
+ "change_percent": 819,
+ "growth_ratio": 9.19,
+ "recent_avg": 127164,
+ "baseline_avg": 13839,
+ "explanation": "Attention surged to 9.2\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 96509,
- "latest": 202666,
+ "abs_change": 113325,
+ "latest": 96152,
  "components": {
-  "acceleration": 0.551,
+  "acceleration": 0.567,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.485,
   "volume": 1.0,
-  "spike_quality": 0.808
+  "spike_quality": 0.587
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 109,135 views/day over the last 3 days (30-day baseline: 12,626)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 127,164 views/day over the last 3 days (30-day baseline: 13,839)."
  ],
  "history": [
-  {
-   "date": "2026-09-22",
-   "views": 4805
-  },
   {
    "date": "2026-09-23",
    "views": 4321
@@ -188,11 +183,15 @@
   {
    "date": "2026-10-31",
    "views": 202666
+  },
+  {
+   "date": "2026-11-01",
+   "views": 96152
   }
  ],
  "wikipedia_title": "Halloween",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

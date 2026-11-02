@@ -1,197 +1,197 @@
 {
- "title": "Ian McKellen",
- "slug": "ian-mckellen",
- "score": 30,
- "status": "Peaked / fading",
- "change_percent": 2190,
- "growth_ratio": 22.9,
- "recent_avg": 141582,
- "baseline_avg": 6183,
- "explanation": "Attention surged to 23\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Heidi Klum",
+ "slug": "heidi-klum",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 1114,
+ "growth_ratio": 12.14,
+ "recent_avg": 54826,
+ "baseline_avg": 4516,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 135399,
- "latest": 83097,
+ "abs_change": 50310,
+ "latest": 141812,
  "components": {
-  "acceleration": 0.8,
+  "acceleration": 0.638,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.433,
-  "volume": 1.0,
-  "spike_quality": 0.499
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.869,
+  "spike_quality": 0.629
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 141,582 views/day over the last 3 days (30-day baseline: 6,183)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 54,826 views/day over the last 3 days (30-day baseline: 4,516)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 5361
-  },
-  {
    "date": "2026-09-23",
-   "views": 5936
+   "views": 2776
   },
   {
    "date": "2026-09-24",
-   "views": 5821
+   "views": 2585
   },
   {
    "date": "2026-09-25",
-   "views": 5254
+   "views": 2711
   },
   {
    "date": "2026-09-26",
-   "views": 6463
+   "views": 2863
   },
   {
    "date": "2026-09-27",
-   "views": 6864
+   "views": 2758
   },
   {
    "date": "2026-09-28",
-   "views": 7619
+   "views": 5516
   },
   {
    "date": "2026-09-29",
-   "views": 7337
+   "views": 2380
   },
   {
    "date": "2026-09-30",
-   "views": 5987
+   "views": 2169
   },
   {
    "date": "2026-10-01",
-   "views": 6344
+   "views": 2227
   },
   {
    "date": "2026-10-02",
-   "views": 6977
+   "views": 2477
   },
   {
    "date": "2026-10-03",
-   "views": 6940
+   "views": 8809
   },
   {
    "date": "2026-10-04",
-   "views": 7334
+   "views": 11690
   },
   {
    "date": "2026-10-05",
-   "views": 5777
+   "views": 6149
   },
   {
    "date": "2026-10-06",
-   "views": 5110
+   "views": 4950
   },
   {
    "date": "2026-10-07",
-   "views": 6198
+   "views": 4466
   },
   {
    "date": "2026-10-08",
-   "views": 6745
+   "views": 3213
   },
   {
    "date": "2026-10-09",
-   "views": 6610
+   "views": 5028
   },
   {
    "date": "2026-10-10",
-   "views": 7811
+   "views": 8177
   },
   {
    "date": "2026-10-11",
-   "views": 7404
+   "views": 6002
   },
   {
    "date": "2026-10-12",
-   "views": 6321
+   "views": 3539
   },
   {
    "date": "2026-10-13",
-   "views": 5388
+   "views": 2877
   },
   {
    "date": "2026-10-14",
-   "views": 5421
+   "views": 2462
   },
   {
    "date": "2026-10-15",
-   "views": 5291
+   "views": 2602
   },
   {
    "date": "2026-10-16",
-   "views": 5744
+   "views": 2570
   },
   {
    "date": "2026-10-17",
-   "views": 6809
+   "views": 2478
   },
   {
    "date": "2026-10-18",
-   "views": 6929
+   "views": 2723
   },
   {
    "date": "2026-10-19",
-   "views": 5615
+   "views": 5984
   },
   {
    "date": "2026-10-20",
-   "views": 5276
+   "views": 4562
   },
   {
    "date": "2026-10-21",
-   "views": 5068
+   "views": 3505
   },
   {
    "date": "2026-10-22",
-   "views": 5187
+   "views": 3305
   },
   {
    "date": "2026-10-23",
-   "views": 5608
+   "views": 2964
   },
   {
    "date": "2026-10-24",
-   "views": 6635
+   "views": 4583
   },
   {
    "date": "2026-10-25",
-   "views": 6482
+   "views": 8246
   },
   {
    "date": "2026-10-26",
-   "views": 6009
+   "views": 5359
   },
   {
    "date": "2026-10-27",
-   "views": 5666
+   "views": 4082
   },
   {
    "date": "2026-10-28",
-   "views": 5456
+   "views": 4100
   },
   {
    "date": "2026-10-29",
-   "views": 127831
+   "views": 4181
   },
   {
    "date": "2026-10-30",
-   "views": 213817
+   "views": 7643
   },
   {
    "date": "2026-10-31",
-   "views": 83097
+   "views": 15022
+  },
+  {
+   "date": "2026-11-01",
+   "views": 141812
   }
  ],
- "wikipedia_title": "Ian_McKellen",
+ "wikipedia_title": "Heidi_Klum",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

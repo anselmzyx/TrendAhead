@@ -1,198 +1,197 @@
 {
- "title": "Lewy body dementia",
- "slug": "lewy-body-dementia",
- "score": 23,
- "status": "Peaked / fading",
- "change_percent": 5196,
- "growth_ratio": 52.95,
- "recent_avg": 118525,
- "baseline_avg": 2238,
- "explanation": "Attention surged to 53\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Learjet 60",
+ "slug": "learjet-60",
+ "score": 34,
+ "status": "Breaking out",
+ "change_percent": 13088,
+ "growth_ratio": 131.84,
+ "recent_avg": 16221,
+ "baseline_avg": 123,
+ "explanation": "Attention is 132\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 116287,
- "latest": 33070,
+ "abs_change": 16098,
+ "latest": 48391,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.189,
-  "volume": 1.0,
-  "spike_quality": 0.426
+  "persistence": 0.4,
+  "momentum": 0.867,
+  "volume": 0.605,
+  "spike_quality": 0.51
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 118,525 views/day over the last 3 days (30-day baseline: 2,238)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 16,221 views/day over the last 3 days (30-day baseline: 123)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 2638
-  },
-  {
    "date": "2026-09-23",
-   "views": 2317
+   "views": 123
   },
   {
    "date": "2026-09-24",
-   "views": 2151
+   "views": 118
   },
   {
    "date": "2026-09-25",
-   "views": 2198
+   "views": 118
   },
   {
    "date": "2026-09-26",
-   "views": 2776
+   "views": 96
   },
   {
    "date": "2026-09-27",
-   "views": 2474
+   "views": 109
   },
   {
    "date": "2026-09-28",
-   "views": 2286
+   "views": 126
   },
   {
    "date": "2026-09-29",
-   "views": 2477
+   "views": 119
   },
   {
    "date": "2026-09-30",
-   "views": 2394
+   "views": 108
   },
   {
    "date": "2026-10-01",
-   "views": 2496
+   "views": 93
   },
   {
    "date": "2026-10-02",
-   "views": 2597
+   "views": 85
   },
   {
    "date": "2026-10-03",
-   "views": 2924
+   "views": 121
   },
   {
    "date": "2026-10-04",
-   "views": 2798
+   "views": 125
   },
   {
    "date": "2026-10-05",
-   "views": 2253
+   "views": 242
   },
   {
    "date": "2026-10-06",
-   "views": 2323
+   "views": 288
   },
   {
    "date": "2026-10-07",
-   "views": 2187
+   "views": 148
   },
   {
    "date": "2026-10-08",
-   "views": 2059
+   "views": 134
   },
   {
    "date": "2026-10-09",
-   "views": 1976
+   "views": 113
   },
   {
    "date": "2026-10-10",
-   "views": 2542
+   "views": 123
   },
   {
    "date": "2026-10-11",
-   "views": 2443
+   "views": 107
   },
   {
    "date": "2026-10-12",
-   "views": 2358
+   "views": 142
   },
   {
    "date": "2026-10-13",
-   "views": 2468
+   "views": 108
   },
   {
    "date": "2026-10-14",
-   "views": 2240
+   "views": 103
   },
   {
    "date": "2026-10-15",
-   "views": 1936
+   "views": 102
   },
   {
    "date": "2026-10-16",
-   "views": 2099
+   "views": 112
   },
   {
    "date": "2026-10-17",
-   "views": 2219
+   "views": 106
   },
   {
    "date": "2026-10-18",
-   "views": 2205
+   "views": 98
   },
   {
    "date": "2026-10-19",
-   "views": 2227
+   "views": 77
   },
   {
    "date": "2026-10-20",
-   "views": 1840
+   "views": 108
   },
   {
    "date": "2026-10-21",
-   "views": 1923
+   "views": 119
   },
   {
    "date": "2026-10-22",
-   "views": 1944
+   "views": 95
   },
   {
    "date": "2026-10-23",
-   "views": 1788
+   "views": 106
   },
   {
    "date": "2026-10-24",
-   "views": 2068
+   "views": 83
   },
   {
    "date": "2026-10-25",
-   "views": 2234
+   "views": 100
   },
   {
    "date": "2026-10-26",
-   "views": 2002
+   "views": 106
   },
   {
    "date": "2026-10-27",
-   "views": 2169
+   "views": 108
   },
   {
    "date": "2026-10-28",
-   "views": 1966
+   "views": 200
   },
   {
    "date": "2026-10-29",
-   "views": 161848
+   "views": 131
   },
   {
    "date": "2026-10-30",
-   "views": 160656
+   "views": 159
   },
   {
    "date": "2026-10-31",
-   "views": 33070
+   "views": 112
+  },
+  {
+   "date": "2026-11-01",
+   "views": 48391
   }
  ],
- "wikipedia_title": "Lewy_body_dementia",
+ "wikipedia_title": "Learjet_60",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

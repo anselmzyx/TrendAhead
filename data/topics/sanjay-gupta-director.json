@@ -1,37 +1,32 @@
 {
  "title": "Sanjay Gupta (director)",
  "slug": "sanjay-gupta-director",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 27272,
- "growth_ratio": 273.06,
- "recent_avg": 56386,
- "baseline_avg": 206,
- "explanation": "Attention is 273\u00d7 its 30-day baseline.",
+ "score": 33,
+ "status": "Elevated",
+ "change_percent": 42965,
+ "growth_ratio": 431.42,
+ "recent_avg": 89145,
+ "baseline_avg": 207,
+ "explanation": "Attention is 431\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 56180,
- "latest": 168695,
+ "abs_change": 88938,
+ "latest": 98434,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.876,
-  "spike_quality": 0.504
+  "persistence": 0.32,
+  "momentum": 0.55,
+  "volume": 0.975,
+  "spike_quality": 0.508
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 56,386 views/day over the last 3 days (30-day baseline: 206)."
+  "Averaging 89,145 views/day over the last 3 days (30-day baseline: 207)."
  ],
  "history": [
-  {
-   "date": "2026-09-22",
-   "views": 203
-  },
   {
    "date": "2026-09-23",
    "views": 190
@@ -187,11 +182,15 @@
   {
    "date": "2026-10-31",
    "views": 168695
+  },
+  {
+   "date": "2026-11-01",
+   "views": 98434
   }
  ],
  "wikipedia_title": "Sanjay_Gupta_(director)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

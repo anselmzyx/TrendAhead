@@ -1,145 +1,141 @@
 {
- "title": "Elke Sommer",
- "slug": "elke-sommer",
- "score": 21,
- "status": "Peaked / fading",
- "change_percent": 10805,
- "growth_ratio": 108.95,
- "recent_avg": 57032,
- "baseline_avg": 523,
- "explanation": "Attention surged to 109\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Breast implant",
+ "slug": "breast-implant",
+ "score": 52,
+ "status": "Breaking out",
+ "change_percent": 10075,
+ "growth_ratio": 101.59,
+ "recent_avg": 29303,
+ "baseline_avg": 288,
+ "explanation": "Attention is 102\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 56509,
- "latest": 21403,
+ "abs_change": 29015,
+ "latest": 53211,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.21,
-  "volume": 0.878,
-  "spike_quality": 0.401
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.733,
+  "spike_quality": 0.735
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 57,032 views/day over the last 3 days (30-day baseline: 523)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 29,303 views/day over the last 3 days (30-day baseline: 288)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 510
-  },
-  {
    "date": "2026-09-23",
-   "views": 552
+   "views": 273
   },
   {
    "date": "2026-09-24",
-   "views": 449
+   "views": 279
   },
   {
    "date": "2026-09-25",
-   "views": 400
+   "views": 292
   },
   {
    "date": "2026-09-26",
-   "views": 452
+   "views": 292
   },
   {
    "date": "2026-09-27",
-   "views": 439
+   "views": 312
   },
   {
    "date": "2026-09-28",
-   "views": 415
+   "views": 303
   },
   {
    "date": "2026-09-29",
-   "views": 427
+   "views": 263
   },
   {
    "date": "2026-09-30",
-   "views": 364
+   "views": 310
   },
   {
    "date": "2026-10-01",
-   "views": 420
+   "views": 266
   },
   {
    "date": "2026-10-02",
-   "views": 371
+   "views": 296
   },
   {
    "date": "2026-10-03",
-   "views": 547
+   "views": 272
   },
   {
    "date": "2026-10-04",
-   "views": 560
+   "views": 309
   },
   {
    "date": "2026-10-05",
-   "views": 428
+   "views": 268
   },
   {
    "date": "2026-10-06",
-   "views": 419
+   "views": 269
   },
   {
    "date": "2026-10-07",
-   "views": 435
+   "views": 366
   },
   {
    "date": "2026-10-08",
-   "views": 411
+   "views": 264
   },
   {
    "date": "2026-10-09",
-   "views": 432
+   "views": 297
   },
   {
    "date": "2026-10-10",
-   "views": 416
+   "views": 312
   },
   {
    "date": "2026-10-11",
-   "views": 2762
+   "views": 290
   },
   {
    "date": "2026-10-12",
-   "views": 567
+   "views": 266
   },
   {
    "date": "2026-10-13",
-   "views": 443
+   "views": 274
   },
   {
    "date": "2026-10-14",
-   "views": 605
+   "views": 264
   },
   {
    "date": "2026-10-15",
-   "views": 414
+   "views": 310
   },
   {
    "date": "2026-10-16",
-   "views": 361
+   "views": 271
   },
   {
    "date": "2026-10-17",
-   "views": 400
+   "views": 334
   },
   {
    "date": "2026-10-18",
-   "views": 458
+   "views": 283
   },
   {
    "date": "2026-10-19",
-   "views": 423
+   "views": 264
   },
   {
    "date": "2026-10-20",
@@ -147,52 +143,56 @@
   },
   {
    "date": "2026-10-21",
-   "views": 365
+   "views": 275
   },
   {
    "date": "2026-10-22",
-   "views": 349
+   "views": 273
   },
   {
    "date": "2026-10-23",
-   "views": 343
+   "views": 338
   },
   {
    "date": "2026-10-24",
-   "views": 582
+   "views": 299
   },
   {
    "date": "2026-10-25",
-   "views": 728
+   "views": 273
   },
   {
    "date": "2026-10-26",
-   "views": 608
+   "views": 293
   },
   {
    "date": "2026-10-27",
-   "views": 397
+   "views": 275
   },
   {
    "date": "2026-10-28",
-   "views": 376
+   "views": 303
   },
   {
    "date": "2026-10-29",
-   "views": 89598
+   "views": 246
   },
   {
    "date": "2026-10-30",
-   "views": 60095
+   "views": 306
   },
   {
    "date": "2026-10-31",
-   "views": 21403
+   "views": 34391
+  },
+  {
+   "date": "2026-11-01",
+   "views": 53211
   }
  ],
- "wikipedia_title": "Elke_Sommer",
+ "wikipedia_title": "Breast_implant",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

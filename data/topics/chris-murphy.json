@@ -1,198 +1,197 @@
 {
- "title": "Jonestown",
- "slug": "jonestown",
- "score": 30,
- "status": "Peaked / fading",
- "change_percent": 2637,
- "growth_ratio": 27.37,
- "recent_avg": 91991,
- "baseline_avg": 3361,
- "explanation": "Attention surged to 27\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Chris Murphy",
+ "slug": "chris-murphy",
+ "score": 47,
+ "status": "Breaking out",
+ "change_percent": 2934,
+ "growth_ratio": 30.34,
+ "recent_avg": 29881,
+ "baseline_avg": 985,
+ "explanation": "Attention is 30\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 88630,
- "latest": 42413,
+ "abs_change": 28896,
+ "latest": 78612,
  "components": {
-  "acceleration": 0.846,
+  "acceleration": 0.872,
   "anomaly": 1.0,
   "persistence": 0.72,
-  "momentum": 0.378,
-  "volume": 0.982,
-  "spike_quality": 0.445
+  "momentum": 0.867,
+  "volume": 0.738,
+  "spike_quality": 0.601
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 91,991 views/day over the last 3 days (30-day baseline: 3,361)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 29,881 views/day over the last 3 days (30-day baseline: 985)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 3637
-  },
-  {
    "date": "2026-09-23",
-   "views": 3370
+   "views": 905
   },
   {
    "date": "2026-09-24",
-   "views": 3266
+   "views": 628
   },
   {
    "date": "2026-09-25",
-   "views": 2991
+   "views": 565
   },
   {
    "date": "2026-09-26",
-   "views": 3199
+   "views": 495
   },
   {
    "date": "2026-09-27",
-   "views": 3287
+   "views": 434
   },
   {
    "date": "2026-09-28",
-   "views": 3266
+   "views": 436
   },
   {
    "date": "2026-09-29",
-   "views": 2969
+   "views": 587
   },
   {
    "date": "2026-09-30",
-   "views": 2789
+   "views": 545
   },
   {
    "date": "2026-10-01",
-   "views": 2828
+   "views": 546
   },
   {
    "date": "2026-10-02",
-   "views": 2832
+   "views": 495
   },
   {
    "date": "2026-10-03",
-   "views": 2796
+   "views": 499
   },
   {
    "date": "2026-10-04",
-   "views": 3166
+   "views": 715
   },
   {
    "date": "2026-10-05",
-   "views": 3082
+   "views": 1026
   },
   {
    "date": "2026-10-06",
-   "views": 3866
+   "views": 955
   },
   {
    "date": "2026-10-07",
-   "views": 3559
+   "views": 1860
   },
   {
    "date": "2026-10-08",
-   "views": 3164
+   "views": 1909
   },
   {
    "date": "2026-10-09",
-   "views": 3088
+   "views": 1927
   },
   {
    "date": "2026-10-10",
-   "views": 3013
+   "views": 1088
   },
   {
    "date": "2026-10-11",
-   "views": 3204
+   "views": 1552
   },
   {
    "date": "2026-10-12",
-   "views": 3272
+   "views": 928
   },
   {
    "date": "2026-10-13",
-   "views": 3170
+   "views": 746
   },
   {
    "date": "2026-10-14",
-   "views": 3158
+   "views": 845
   },
   {
    "date": "2026-10-15",
-   "views": 3736
+   "views": 772
   },
   {
    "date": "2026-10-16",
-   "views": 3182
+   "views": 980
   },
   {
    "date": "2026-10-17",
-   "views": 3107
+   "views": 824
   },
   {
    "date": "2026-10-18",
-   "views": 3135
+   "views": 639
   },
   {
    "date": "2026-10-19",
-   "views": 3898
+   "views": 583
   },
   {
    "date": "2026-10-20",
-   "views": 3982
+   "views": 724
   },
   {
    "date": "2026-10-21",
-   "views": 3446
+   "views": 990
   },
   {
    "date": "2026-10-22",
-   "views": 3107
+   "views": 942
   },
   {
    "date": "2026-10-23",
-   "views": 4126
+   "views": 851
   },
   {
    "date": "2026-10-24",
-   "views": 3128
+   "views": 638
   },
   {
    "date": "2026-10-25",
-   "views": 3133
+   "views": 590
   },
   {
    "date": "2026-10-26",
-   "views": 3390
+   "views": 625
   },
   {
    "date": "2026-10-27",
-   "views": 3881
+   "views": 638
   },
   {
    "date": "2026-10-28",
-   "views": 5620
+   "views": 613
   },
   {
    "date": "2026-10-29",
-   "views": 90259
+   "views": 3498
   },
   {
    "date": "2026-10-30",
-   "views": 143302
+   "views": 8060
   },
   {
    "date": "2026-10-31",
-   "views": 42413
+   "views": 2971
+  },
+  {
+   "date": "2026-11-01",
+   "views": 78612
   }
  ],
- "wikipedia_title": "Jonestown",
+ "wikipedia_title": "Chris_Murphy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

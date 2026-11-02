@@ -1,198 +1,198 @@
 {
- "title": "Jennifer Hetrick",
- "slug": "jennifer-hetrick",
- "score": 27,
- "status": "Peaked / fading",
- "change_percent": 28806,
- "growth_ratio": 289.06,
- "recent_avg": 82383,
- "baseline_avg": 285,
- "explanation": "Attention surged to 289\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Gracie Abrams",
+ "slug": "gracie-abrams",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": 430,
+ "growth_ratio": 5.3,
+ "recent_avg": 21083,
+ "baseline_avg": 3979,
+ "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 82098,
- "latest": 32349,
+ "abs_change": 17104,
+ "latest": 48569,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.426,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.354,
-  "volume": 0.958,
-  "spike_quality": 0.417
+  "momentum": 0.867,
+  "volume": 0.662,
+  "spike_quality": 0.737
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 82,383 views/day over the last 3 days (30-day baseline: 285)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 21,083 views/day over the last 3 days (30-day baseline: 3,979)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 106
-  },
-  {
    "date": "2026-09-23",
-   "views": 98
+   "views": 4203
   },
   {
    "date": "2026-09-24",
-   "views": 94
+   "views": 4571
   },
   {
    "date": "2026-09-25",
-   "views": 88
+   "views": 4289
   },
   {
    "date": "2026-09-26",
-   "views": 117
+   "views": 4352
   },
   {
    "date": "2026-09-27",
-   "views": 153
+   "views": 4973
   },
   {
    "date": "2026-09-28",
-   "views": 547
+   "views": 4371
   },
   {
    "date": "2026-09-29",
-   "views": 410
+   "views": 5991
   },
   {
    "date": "2026-09-30",
-   "views": 238
+   "views": 5279
   },
   {
    "date": "2026-10-01",
-   "views": 393
+   "views": 4462
   },
   {
    "date": "2026-10-02",
-   "views": 467
+   "views": 3815
   },
   {
    "date": "2026-10-03",
-   "views": 351
+   "views": 3818
   },
   {
    "date": "2026-10-04",
-   "views": 242
+   "views": 3791
   },
   {
    "date": "2026-10-05",
-   "views": 278
+   "views": 3851
   },
   {
    "date": "2026-10-06",
-   "views": 266
+   "views": 3287
   },
   {
    "date": "2026-10-07",
-   "views": 284
+   "views": 3315
   },
   {
    "date": "2026-10-08",
-   "views": 253
+   "views": 4970
   },
   {
    "date": "2026-10-09",
-   "views": 208
+   "views": 4780
   },
   {
    "date": "2026-10-10",
-   "views": 676
+   "views": 3722
   },
   {
    "date": "2026-10-11",
-   "views": 312
+   "views": 4349
   },
   {
    "date": "2026-10-12",
-   "views": 275
+   "views": 3883
   },
   {
    "date": "2026-10-13",
-   "views": 219
+   "views": 3518
   },
   {
    "date": "2026-10-14",
-   "views": 285
+   "views": 3409
   },
   {
    "date": "2026-10-15",
-   "views": 227
+   "views": 3947
   },
   {
    "date": "2026-10-16",
-   "views": 199
+   "views": 3727
   },
   {
    "date": "2026-10-17",
-   "views": 248
+   "views": 4398
   },
   {
    "date": "2026-10-18",
-   "views": 219
+   "views": 3883
   },
   {
    "date": "2026-10-19",
-   "views": 260
+   "views": 3258
   },
   {
    "date": "2026-10-20",
-   "views": 279
+   "views": 3478
   },
   {
    "date": "2026-10-21",
-   "views": 213
+   "views": 3051
   },
   {
    "date": "2026-10-22",
-   "views": 231
+   "views": 3618
   },
   {
    "date": "2026-10-23",
-   "views": 218
+   "views": 3605
   },
   {
    "date": "2026-10-24",
-   "views": 255
+   "views": 3452
   },
   {
    "date": "2026-10-25",
-   "views": 265
+   "views": 4254
   },
   {
    "date": "2026-10-26",
-   "views": 268
+   "views": 3641
   },
   {
    "date": "2026-10-27",
-   "views": 265
+   "views": 3371
   },
   {
    "date": "2026-10-28",
-   "views": 246
+   "views": 5522
   },
   {
    "date": "2026-10-29",
-   "views": 89157
+   "views": 5926
   },
   {
    "date": "2026-10-30",
-   "views": 125642
+   "views": 7798
   },
   {
    "date": "2026-10-31",
-   "views": 32349
+   "views": 6882
+  },
+  {
+   "date": "2026-11-01",
+   "views": 48569
   }
  ],
- "wikipedia_title": "Jennifer_Hetrick",
+ "wikipedia_title": "Gracie_Abrams",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }

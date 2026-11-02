@@ -1,197 +1,197 @@
 {
- "title": "Donald Tusk",
- "slug": "donald-tusk",
- "score": 43,
+ "title": "Ciara Mageean",
+ "slug": "ciara-mageean",
+ "score": 42,
  "status": "Breaking out",
- "change_percent": 1982,
- "growth_ratio": 20.81,
- "recent_avg": 32022,
- "baseline_avg": 1538,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "change_percent": 34428,
+ "growth_ratio": 346.14,
+ "recent_avg": 46267,
+ "baseline_avg": 134,
+ "explanation": "Attention is 346\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30484,
- "latest": 69471,
+ "abs_change": 46133,
+ "latest": 138465,
  "components": {
-  "acceleration": 0.776,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 0.933,
-  "volume": 0.753,
-  "spike_quality": 0.688
+  "volume": 0.833,
+  "spike_quality": 0.505
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,022 views/day over the last 3 days (30-day baseline: 1,538)."
+  "Averaging 46,267 views/day over the last 3 days (30-day baseline: 134)."
  ],
  "history": [
   {
-   "date": "2026-09-22",
-   "views": 1322
-  },
-  {
    "date": "2026-09-23",
-   "views": 1305
+   "views": 51
   },
   {
    "date": "2026-09-24",
-   "views": 1473
+   "views": 48
   },
   {
    "date": "2026-09-25",
-   "views": 1319
+   "views": 62
   },
   {
    "date": "2026-09-26",
-   "views": 1107
+   "views": 65
   },
   {
    "date": "2026-09-27",
-   "views": 1130
+   "views": 66
   },
   {
    "date": "2026-09-28",
-   "views": 1091
+   "views": 65
   },
   {
    "date": "2026-09-29",
-   "views": 1071
+   "views": 46
   },
   {
    "date": "2026-09-30",
-   "views": 935
+   "views": 91
   },
   {
    "date": "2026-10-01",
-   "views": 861
+   "views": 91
   },
   {
    "date": "2026-10-02",
-   "views": 962
+   "views": 64
   },
   {
    "date": "2026-10-03",
-   "views": 890
+   "views": 50
   },
   {
    "date": "2026-10-04",
-   "views": 1047
+   "views": 35
   },
   {
    "date": "2026-10-05",
-   "views": 1044
+   "views": 41
   },
   {
    "date": "2026-10-06",
-   "views": 1081
+   "views": 37
   },
   {
    "date": "2026-10-07",
-   "views": 1056
+   "views": 40
   },
   {
    "date": "2026-10-08",
-   "views": 1283
+   "views": 40
   },
   {
    "date": "2026-10-09",
-   "views": 1167
+   "views": 34
   },
   {
    "date": "2026-10-10",
-   "views": 1010
+   "views": 34
   },
   {
    "date": "2026-10-11",
-   "views": 3582
+   "views": 40
   },
   {
    "date": "2026-10-12",
-   "views": 2478
+   "views": 117
   },
   {
    "date": "2026-10-13",
-   "views": 1408
+   "views": 1154
   },
   {
    "date": "2026-10-14",
-   "views": 1181
+   "views": 421
   },
   {
    "date": "2026-10-15",
-   "views": 1140
+   "views": 223
   },
   {
    "date": "2026-10-16",
-   "views": 1174
+   "views": 147
   },
   {
    "date": "2026-10-17",
-   "views": 907
+   "views": 118
   },
   {
    "date": "2026-10-18",
-   "views": 2027
+   "views": 65
   },
   {
    "date": "2026-10-19",
-   "views": 2129
+   "views": 58
   },
   {
    "date": "2026-10-20",
-   "views": 1997
+   "views": 48
   },
   {
    "date": "2026-10-21",
-   "views": 2006
+   "views": 49
   },
   {
    "date": "2026-10-22",
-   "views": 2478
+   "views": 53
   },
   {
    "date": "2026-10-23",
-   "views": 2600
+   "views": 54
   },
   {
    "date": "2026-10-24",
-   "views": 2139
+   "views": 64
   },
   {
    "date": "2026-10-25",
-   "views": 1735
+   "views": 66
   },
   {
    "date": "2026-10-26",
-   "views": 1920
+   "views": 286
   },
   {
    "date": "2026-10-27",
-   "views": 1551
+   "views": 265
   },
   {
    "date": "2026-10-28",
-   "views": 1296
+   "views": 141
   },
   {
    "date": "2026-10-29",
-   "views": 1238
+   "views": 84
   },
   {
    "date": "2026-10-30",
-   "views": 25358
+   "views": 61
   },
   {
    "date": "2026-10-31",
-   "views": 69471
+   "views": 275
+  },
+  {
+   "date": "2026-11-01",
+   "views": 138465
   }
  ],
- "wikipedia_title": "Donald_Tusk",
+ "wikipedia_title": "Ciara_Mageean",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-10-31",
- "generated_at_utc": "2026-11-01T11:59:54+00:00"
+ "data_through": "2026-11-01",
+ "generated_at_utc": "2026-11-02T13:47:38+00:00"
 }
