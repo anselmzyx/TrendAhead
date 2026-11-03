@@ -1,198 +1,198 @@
 {
- "title": "Canelo \u00c1lvarez",
- "slug": "canelo-alvarez",
- "score": 66,
- "status": "Building",
- "change_percent": 848,
- "growth_ratio": 9.48,
- "recent_avg": 46409,
- "baseline_avg": 4898,
+ "title": "Kimi Antonelli",
+ "slug": "kimi-antonelli",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 847,
+ "growth_ratio": 9.47,
+ "recent_avg": 106942,
+ "baseline_avg": 11298,
  "explanation": "Attention is 9.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 41511,
- "latest": 69177,
+ "abs_change": 95644,
+ "latest": 206706,
  "components": {
   "acceleration": 0.575,
-  "anomaly": 1.0,
-  "persistence": 0.92,
+  "anomaly": 0.913,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.833,
-  "spike_quality": 0.847
+  "volume": 1.0,
+  "spike_quality": 0.749
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 46,409 views/day over the last 3 days (30-day baseline: 4,898)."
+  "Averaging 106,942 views/day over the last 3 days (30-day baseline: 11,298)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 2898
-  },
-  {
    "date": "2026-09-24",
-   "views": 2776
+   "views": 3878
   },
   {
    "date": "2026-09-25",
-   "views": 2792
+   "views": 4440
   },
   {
    "date": "2026-09-26",
-   "views": 3511
+   "views": 8488
   },
   {
    "date": "2026-09-27",
-   "views": 3326
+   "views": 5353
   },
   {
    "date": "2026-09-28",
-   "views": 3093
+   "views": 5148
   },
   {
    "date": "2026-09-29",
-   "views": 2975
+   "views": 4178
   },
   {
    "date": "2026-09-30",
-   "views": 3891
+   "views": 4547
   },
   {
    "date": "2026-10-01",
-   "views": 3206
+   "views": 5306
   },
   {
    "date": "2026-10-02",
-   "views": 3481
+   "views": 6714
   },
   {
    "date": "2026-10-03",
-   "views": 3485
+   "views": 10107
   },
   {
    "date": "2026-10-04",
-   "views": 3448
+   "views": 30813
   },
   {
    "date": "2026-10-05",
-   "views": 3451
+   "views": 14536
   },
   {
    "date": "2026-10-06",
-   "views": 3456
+   "views": 8453
   },
   {
    "date": "2026-10-07",
-   "views": 4282
+   "views": 6671
   },
   {
    "date": "2026-10-08",
-   "views": 4061
+   "views": 6369
   },
   {
    "date": "2026-10-09",
-   "views": 4013
+   "views": 6181
   },
   {
    "date": "2026-10-10",
-   "views": 7753
+   "views": 9815
   },
   {
    "date": "2026-10-11",
-   "views": 6566
+   "views": 27558
   },
   {
    "date": "2026-10-12",
-   "views": 5890
+   "views": 15383
   },
   {
    "date": "2026-10-13",
-   "views": 4094
+   "views": 7733
   },
   {
    "date": "2026-10-14",
-   "views": 3717
+   "views": 5524
   },
   {
    "date": "2026-10-15",
-   "views": 5991
+   "views": 5127
   },
   {
    "date": "2026-10-16",
-   "views": 4069
+   "views": 4694
   },
   {
    "date": "2026-10-17",
-   "views": 6646
+   "views": 4263
   },
   {
    "date": "2026-10-18",
-   "views": 6269
+   "views": 4196
   },
   {
    "date": "2026-10-19",
-   "views": 4413
+   "views": 4213
   },
   {
    "date": "2026-10-20",
-   "views": 3578
+   "views": 4292
   },
   {
    "date": "2026-10-21",
-   "views": 3489
+   "views": 4151
   },
   {
    "date": "2026-10-22",
-   "views": 3852
+   "views": 3996
   },
   {
    "date": "2026-10-23",
-   "views": 3481
+   "views": 7020
   },
   {
    "date": "2026-10-24",
-   "views": 4100
+   "views": 10474
   },
   {
    "date": "2026-10-25",
-   "views": 4587
+   "views": 46602
   },
   {
    "date": "2026-10-26",
-   "views": 5916
+   "views": 38918
   },
   {
    "date": "2026-10-27",
-   "views": 5189
+   "views": 13230
   },
   {
    "date": "2026-10-28",
-   "views": 10610
+   "views": 9362
   },
   {
    "date": "2026-10-29",
-   "views": 9951
+   "views": 8466
   },
   {
    "date": "2026-10-30",
-   "views": 11690
+   "views": 8787
   },
   {
    "date": "2026-10-31",
-   "views": 58360
+   "views": 10125
   },
   {
    "date": "2026-11-01",
-   "views": 69177
+   "views": 103995
+  },
+  {
+   "date": "2026-11-02",
+   "views": 206706
   }
  ],
- "wikipedia_title": "Canelo_\u00c1lvarez",
+ "wikipedia_title": "Kimi_Antonelli",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

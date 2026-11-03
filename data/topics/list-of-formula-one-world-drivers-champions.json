@@ -1,198 +1,198 @@
 {
- "title": "UFC Fight Night: Moicano vs. Nolan",
- "slug": "ufc-fight-night-moicano-vs-nolan",
- "score": 46,
- "status": "Building",
- "change_percent": 602,
- "growth_ratio": 7.02,
- "recent_avg": 25280,
- "baseline_avg": 3600,
- "explanation": "Attention is 7.0\u00d7 its 30-day baseline.",
+ "title": "List of Formula One World Drivers' Champions",
+ "slug": "list-of-formula-one-world-drivers-champions",
+ "score": 40,
+ "status": "Breaking out",
+ "change_percent": 439,
+ "growth_ratio": 5.39,
+ "recent_avg": 36728,
+ "baseline_avg": 6815,
+ "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 21680,
- "latest": 45782,
+ "abs_change": 29913,
+ "latest": 67466,
  "components": {
-  "acceleration": 0.498,
-  "anomaly": 0.939,
-  "persistence": 0.6,
+  "acceleration": 0.431,
+  "anomaly": 0.891,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.701,
-  "spike_quality": 0.803
+  "volume": 0.782,
+  "spike_quality": 0.783
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,280 views/day over the last 3 days (30-day baseline: 3,600)."
+  "Averaging 36,728 views/day over the last 3 days (30-day baseline: 6,815)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 2098
-  },
-  {
    "date": "2026-09-24",
-   "views": 1937
+   "views": 3493
   },
   {
    "date": "2026-09-25",
-   "views": 2021
+   "views": 3928
   },
   {
    "date": "2026-09-26",
-   "views": 2444
+   "views": 6017
   },
   {
    "date": "2026-09-27",
-   "views": 2963
+   "views": 4489
   },
   {
    "date": "2026-09-28",
-   "views": 1991
+   "views": 3865
   },
   {
    "date": "2026-09-29",
-   "views": 2634
+   "views": 3781
   },
   {
    "date": "2026-09-30",
-   "views": 2213
+   "views": 3684
   },
   {
    "date": "2026-10-01",
-   "views": 2064
+   "views": 3716
   },
   {
    "date": "2026-10-02",
-   "views": 2229
+   "views": 5001
   },
   {
    "date": "2026-10-03",
-   "views": 2998
+   "views": 7708
   },
   {
    "date": "2026-10-04",
-   "views": 8038
+   "views": 17896
   },
   {
    "date": "2026-10-05",
-   "views": 3231
+   "views": 10064
   },
   {
    "date": "2026-10-06",
-   "views": 2198
+   "views": 7507
   },
   {
    "date": "2026-10-07",
-   "views": 1983
+   "views": 6773
   },
   {
    "date": "2026-10-08",
-   "views": 2002
+   "views": 6103
   },
   {
    "date": "2026-10-09",
-   "views": 2207
+   "views": 5981
   },
   {
    "date": "2026-10-10",
-   "views": 2726
+   "views": 8634
   },
   {
    "date": "2026-10-11",
-   "views": 3554
+   "views": 15673
   },
   {
    "date": "2026-10-12",
-   "views": 2166
+   "views": 9306
   },
   {
    "date": "2026-10-13",
-   "views": 2192
+   "views": 6923
   },
   {
    "date": "2026-10-14",
-   "views": 2150
+   "views": 5494
   },
   {
    "date": "2026-10-15",
-   "views": 2221
+   "views": 4937
   },
   {
    "date": "2026-10-16",
-   "views": 2331
+   "views": 4517
   },
   {
    "date": "2026-10-17",
-   "views": 2800
+   "views": 4438
   },
   {
    "date": "2026-10-18",
-   "views": 4827
+   "views": 4655
   },
   {
    "date": "2026-10-19",
-   "views": 2775
+   "views": 4575
   },
   {
    "date": "2026-10-20",
-   "views": 2599
+   "views": 4203
   },
   {
    "date": "2026-10-21",
-   "views": 2397
+   "views": 4244
   },
   {
    "date": "2026-10-22",
-   "views": 2606
+   "views": 3879
   },
   {
    "date": "2026-10-23",
-   "views": 2772
+   "views": 4465
   },
   {
    "date": "2026-10-24",
-   "views": 10923
+   "views": 5013
   },
   {
    "date": "2026-10-25",
-   "views": 10354
+   "views": 11415
   },
   {
    "date": "2026-10-26",
-   "views": 5910
+   "views": 10350
   },
   {
    "date": "2026-10-27",
-   "views": 4314
+   "views": 6209
   },
   {
    "date": "2026-10-28",
-   "views": 4420
+   "views": 4946
   },
   {
    "date": "2026-10-29",
-   "views": 4814
+   "views": 4560
   },
   {
    "date": "2026-10-30",
-   "views": 6358
+   "views": 5259
   },
   {
    "date": "2026-10-31",
-   "views": 23699
+   "views": 5974
   },
   {
    "date": "2026-11-01",
-   "views": 45782
+   "views": 36743
+  },
+  {
+   "date": "2026-11-02",
+   "views": 67466
   }
  ],
- "wikipedia_title": "UFC_Fight_Night:_Moicano_vs._Nolan",
+ "wikipedia_title": "List_of_Formula_One_World_Drivers'_Champions",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

@@ -1,196 +1,196 @@
 {
- "title": "Neelesh Misra",
- "slug": "neelesh-misra",
- "score": 35,
- "status": "Elevated",
- "change_percent": 42006,
- "growth_ratio": 420.3,
- "recent_avg": 61896,
- "baseline_avg": 147,
- "explanation": "Attention is 420\u00d7 its 30-day baseline.",
+ "title": "2026 Palm Beach County Learjet 60 crash",
+ "slug": "2026-palm-beach-county-learjet-60-crash",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": null,
+ "growth_ratio": 736.53,
+ "recent_avg": 73653,
+ "baseline_avg": 0,
+ "explanation": "Attention is 737\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 61749,
- "latest": 73362,
+ "abs_change": 73653,
+ "latest": 220959,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.592,
-  "volume": 0.896,
-  "spike_quality": 0.559
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.934,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 61,896 views/day over the last 3 days (30-day baseline: 147)."
+  "Averaging 73,653 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 132
-  },
-  {
    "date": "2026-09-24",
-   "views": 129
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 129
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 178
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 142
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 122
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 143
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 120
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 162
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 124
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 97
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 96
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 96
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 102
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 90
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 108
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 142
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 136
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 166
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 130
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 136
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 106
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 107
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 259
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 176
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 233
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 198
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 176
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 123
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 141
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 278
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 214
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 170
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 147
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 131
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 138
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 116
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 157
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 112170
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 73362
+   "views": 0
+  },
+  {
+   "date": "2026-11-02",
+   "views": 220959
   }
  ],
- "wikipedia_title": "Neelesh_Misra",
+ "wikipedia_title": "2026_Palm_Beach_County_Learjet_60_crash",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

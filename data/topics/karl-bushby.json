@@ -1,197 +1,198 @@
 {
- "title": "Tung Tung Tung Sahur",
- "slug": "tung-tung-tung-sahur",
- "score": 34,
+ "title": "Karl Bushby",
+ "slug": "karl-bushby",
+ "score": 30,
  "status": "Breaking out",
- "change_percent": 1104,
- "growth_ratio": 12.04,
- "recent_avg": 68015,
- "baseline_avg": 5647,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 417,
+ "growth_ratio": 5.17,
+ "recent_avg": 67574,
+ "baseline_avg": 13072,
+ "explanation": "Attention is 5.2\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 62368,
- "latest": 192363,
+ "abs_change": 54502,
+ "latest": 147561,
  "components": {
-  "acceleration": 0.636,
-  "anomaly": 1.0,
-  "persistence": 0.2,
+  "acceleration": 0.42,
+  "anomaly": 0.337,
+  "persistence": 0.52,
   "momentum": 0.867,
-  "volume": 0.916,
-  "spike_quality": 0.594
+  "volume": 0.915,
+  "spike_quality": 0.712
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 68,015 views/day over the last 3 days (30-day baseline: 5,647)."
+  "Averaging 67,574 views/day over the last 3 days (30-day baseline: 13,072)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 6234
-  },
-  {
    "date": "2026-09-24",
-   "views": 6183
+   "views": 9337
   },
   {
    "date": "2026-09-25",
-   "views": 5696
+   "views": 3665
   },
   {
    "date": "2026-09-26",
-   "views": 3679
+   "views": 10223
   },
   {
    "date": "2026-09-27",
-   "views": 3945
+   "views": 8332
   },
   {
    "date": "2026-09-28",
-   "views": 5378
+   "views": 4648
   },
   {
    "date": "2026-09-29",
-   "views": 5357
+   "views": 2408
   },
   {
    "date": "2026-09-30",
-   "views": 5818
+   "views": 2177
   },
   {
    "date": "2026-10-01",
-   "views": 5820
+   "views": 1889
   },
   {
    "date": "2026-10-02",
-   "views": 6158
+   "views": 1762
   },
   {
    "date": "2026-10-03",
-   "views": 3795
+   "views": 3635
   },
   {
    "date": "2026-10-04",
-   "views": 3639
+   "views": 6671
   },
   {
    "date": "2026-10-05",
-   "views": 5449
+   "views": 4459
   },
   {
    "date": "2026-10-06",
-   "views": 5699
+   "views": 13700
   },
   {
    "date": "2026-10-07",
-   "views": 5837
+   "views": 76279
   },
   {
    "date": "2026-10-08",
-   "views": 6040
+   "views": 57336
   },
   {
    "date": "2026-10-09",
-   "views": 6693
+   "views": 32961
   },
   {
    "date": "2026-10-10",
-   "views": 4598
+   "views": 24316
   },
   {
    "date": "2026-10-11",
-   "views": 5263
+   "views": 23892
   },
   {
    "date": "2026-10-12",
-   "views": 5756
+   "views": 17051
   },
   {
    "date": "2026-10-13",
-   "views": 8263
+   "views": 14125
   },
   {
    "date": "2026-10-14",
-   "views": 7990
+   "views": 9307
   },
   {
    "date": "2026-10-15",
-   "views": 6608
+   "views": 7686
   },
   {
    "date": "2026-10-16",
-   "views": 6154
+   "views": 6173
   },
   {
    "date": "2026-10-17",
-   "views": 3690
+   "views": 7226
   },
   {
    "date": "2026-10-18",
-   "views": 3920
+   "views": 5096
   },
   {
    "date": "2026-10-19",
-   "views": 5822
+   "views": 3890
   },
   {
    "date": "2026-10-20",
-   "views": 5798
+   "views": 3426
   },
   {
    "date": "2026-10-21",
-   "views": 5662
+   "views": 4618
   },
   {
    "date": "2026-10-22",
-   "views": 6049
+   "views": 9633
   },
   {
    "date": "2026-10-23",
-   "views": 5929
+   "views": 7930
   },
   {
    "date": "2026-10-24",
-   "views": 3969
+   "views": 6058
   },
   {
    "date": "2026-10-25",
-   "views": 3732
+   "views": 4848
   },
   {
    "date": "2026-10-26",
-   "views": 5813
+   "views": 8905
   },
   {
    "date": "2026-10-27",
-   "views": 6429
+   "views": 4476
   },
   {
    "date": "2026-10-28",
-   "views": 6318
+   "views": 4112
   },
   {
    "date": "2026-10-29",
-   "views": 6698
+   "views": 11383
   },
   {
    "date": "2026-10-30",
-   "views": 6825
+   "views": 9322
   },
   {
    "date": "2026-10-31",
-   "views": 4857
+   "views": 28548
   },
   {
    "date": "2026-11-01",
-   "views": 192363
+   "views": 26614
+  },
+  {
+   "date": "2026-11-02",
+   "views": 147561
   }
  ],
- "wikipedia_title": "Tung_Tung_Tung_Sahur",
+ "wikipedia_title": "Karl_Bushby",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

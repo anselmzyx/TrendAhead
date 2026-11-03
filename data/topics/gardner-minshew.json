@@ -1,196 +1,196 @@
 {
- "title": "Nidhi Razdan",
- "slug": "nidhi-razdan",
- "score": 35,
+ "title": "Gardner Minshew",
+ "slug": "gardner-minshew",
+ "score": 33,
  "status": "Elevated",
- "change_percent": 65189,
- "growth_ratio": 652.03,
- "recent_avg": 163876,
- "baseline_avg": 251,
- "explanation": "Attention is 652\u00d7 its 30-day baseline.",
+ "change_percent": 5736,
+ "growth_ratio": 58.31,
+ "recent_avg": 36357,
+ "baseline_avg": 623,
+ "explanation": "Attention is 58\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 163625,
- "latest": 187499,
+ "abs_change": 35734,
+ "latest": 44640,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.32,
-  "momentum": 0.57,
-  "volume": 1.0,
-  "spike_quality": 0.532
+  "momentum": 0.551,
+  "volume": 0.78,
+  "spike_quality": 0.594
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 163,876 views/day over the last 3 days (30-day baseline: 251)."
+  "Averaging 36,357 views/day over the last 3 days (30-day baseline: 623)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 202
-  },
-  {
    "date": "2026-09-24",
-   "views": 204
+   "views": 1027
   },
   {
    "date": "2026-09-25",
-   "views": 135
+   "views": 1133
   },
   {
    "date": "2026-09-26",
-   "views": 244
+   "views": 695
   },
   {
    "date": "2026-09-27",
-   "views": 233
+   "views": 1540
   },
   {
    "date": "2026-09-28",
-   "views": 126
+   "views": 1355
   },
   {
    "date": "2026-09-29",
-   "views": 207
+   "views": 1027
   },
   {
    "date": "2026-09-30",
-   "views": 158
+   "views": 478
   },
   {
    "date": "2026-10-01",
-   "views": 141
+   "views": 469
   },
   {
    "date": "2026-10-02",
-   "views": 168
+   "views": 544
   },
   {
    "date": "2026-10-03",
-   "views": 126
+   "views": 470
   },
   {
    "date": "2026-10-04",
-   "views": 135
+   "views": 1173
   },
   {
    "date": "2026-10-05",
-   "views": 118
+   "views": 758
   },
   {
    "date": "2026-10-06",
-   "views": 103
+   "views": 502
   },
   {
    "date": "2026-10-07",
-   "views": 113
+   "views": 412
   },
   {
    "date": "2026-10-08",
-   "views": 149
+   "views": 382
   },
   {
    "date": "2026-10-09",
-   "views": 215
+   "views": 511
   },
   {
    "date": "2026-10-10",
-   "views": 224
+   "views": 482
   },
   {
    "date": "2026-10-11",
-   "views": 314
+   "views": 950
   },
   {
    "date": "2026-10-12",
-   "views": 257
+   "views": 789
   },
   {
    "date": "2026-10-13",
-   "views": 241
+   "views": 599
   },
   {
    "date": "2026-10-14",
-   "views": 160
+   "views": 445
   },
   {
    "date": "2026-10-15",
-   "views": 174
+   "views": 574
   },
   {
    "date": "2026-10-16",
-   "views": 615
+   "views": 564
   },
   {
    "date": "2026-10-17",
-   "views": 343
+   "views": 493
   },
   {
    "date": "2026-10-18",
-   "views": 415
+   "views": 1410
   },
   {
    "date": "2026-10-19",
-   "views": 419
+   "views": 1121
   },
   {
    "date": "2026-10-20",
-   "views": 340
+   "views": 879
   },
   {
    "date": "2026-10-21",
-   "views": 254
+   "views": 489
   },
   {
    "date": "2026-10-22",
-   "views": 269
+   "views": 383
   },
   {
    "date": "2026-10-23",
-   "views": 512
+   "views": 521
   },
   {
    "date": "2026-10-24",
-   "views": 446
+   "views": 391
   },
   {
    "date": "2026-10-25",
-   "views": 283
+   "views": 862
   },
   {
    "date": "2026-10-26",
-   "views": 215
+   "views": 764
   },
   {
    "date": "2026-10-27",
-   "views": 232
+   "views": 627
   },
   {
    "date": "2026-10-28",
-   "views": 200
+   "views": 399
   },
   {
    "date": "2026-10-29",
-   "views": 201
+   "views": 347
   },
   {
    "date": "2026-10-30",
-   "views": 226
+   "views": 394
   },
   {
    "date": "2026-10-31",
-   "views": 303902
+   "views": 349
   },
   {
    "date": "2026-11-01",
-   "views": 187499
+   "views": 64081
+  },
+  {
+   "date": "2026-11-02",
+   "views": 44640
   }
  ],
- "wikipedia_title": "Nidhi_Razdan",
+ "wikipedia_title": "Gardner_Minshew",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

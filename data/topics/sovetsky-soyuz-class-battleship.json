@@ -1,196 +1,197 @@
 {
- "title": "Sanjay Gupta (director)",
- "slug": "sanjay-gupta-director",
- "score": 33,
- "status": "Elevated",
- "change_percent": 42965,
- "growth_ratio": 431.42,
- "recent_avg": 89145,
- "baseline_avg": 207,
- "explanation": "Attention is 431\u00d7 its 30-day baseline.",
+ "title": "Sovetsky Soyuz-class battleship",
+ "slug": "sovetsky-soyuz-class-battleship",
+ "score": 37,
+ "status": "Breaking out",
+ "change_percent": 9331,
+ "growth_ratio": 94.54,
+ "recent_avg": 18202,
+ "baseline_avg": 193,
+ "explanation": "Attention is 95\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 88938,
- "latest": 98434,
+ "abs_change": 18009,
+ "latest": 53573,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.55,
-  "volume": 0.975,
-  "spike_quality": 0.508
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.63,
+  "spike_quality": 0.519
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 89,145 views/day over the last 3 days (30-day baseline: 207)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 18,202 views/day over the last 3 days (30-day baseline: 193)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 190
-  },
-  {
    "date": "2026-09-24",
-   "views": 156
-  },
-  {
-   "date": "2026-09-25",
-   "views": 202
-  },
-  {
-   "date": "2026-09-26",
-   "views": 179
-  },
-  {
-   "date": "2026-09-27",
-   "views": 192
-  },
-  {
-   "date": "2026-09-28",
-   "views": 255
-  },
-  {
-   "date": "2026-09-29",
-   "views": 152
-  },
-  {
-   "date": "2026-09-30",
-   "views": 171
-  },
-  {
-   "date": "2026-10-01",
-   "views": 165
-  },
-  {
-   "date": "2026-10-02",
-   "views": 218
-  },
-  {
-   "date": "2026-10-03",
-   "views": 168
-  },
-  {
-   "date": "2026-10-04",
-   "views": 197
-  },
-  {
-   "date": "2026-10-05",
-   "views": 209
-  },
-  {
-   "date": "2026-10-06",
-   "views": 223
-  },
-  {
-   "date": "2026-10-07",
-   "views": 227
-  },
-  {
-   "date": "2026-10-08",
    "views": 245
   },
   {
-   "date": "2026-10-09",
-   "views": 198
+   "date": "2026-09-25",
+   "views": 174
   },
   {
-   "date": "2026-10-10",
-   "views": 197
+   "date": "2026-09-26",
+   "views": 192
   },
   {
-   "date": "2026-10-11",
-   "views": 234
-  },
-  {
-   "date": "2026-10-12",
-   "views": 260
-  },
-  {
-   "date": "2026-10-13",
-   "views": 308
-  },
-  {
-   "date": "2026-10-14",
-   "views": 227
-  },
-  {
-   "date": "2026-10-15",
-   "views": 232
-  },
-  {
-   "date": "2026-10-16",
-   "views": 228
-  },
-  {
-   "date": "2026-10-17",
-   "views": 240
-  },
-  {
-   "date": "2026-10-18",
-   "views": 212
-  },
-  {
-   "date": "2026-10-19",
-   "views": 227
-  },
-  {
-   "date": "2026-10-20",
-   "views": 185
-  },
-  {
-   "date": "2026-10-21",
-   "views": 168
-  },
-  {
-   "date": "2026-10-22",
-   "views": 208
-  },
-  {
-   "date": "2026-10-23",
-   "views": 214
-  },
-  {
-   "date": "2026-10-24",
-   "views": 201
-  },
-  {
-   "date": "2026-10-25",
+   "date": "2026-09-27",
    "views": 199
   },
   {
+   "date": "2026-09-28",
+   "views": 207
+  },
+  {
+   "date": "2026-09-29",
+   "views": 218
+  },
+  {
+   "date": "2026-09-30",
+   "views": 168
+  },
+  {
+   "date": "2026-10-01",
+   "views": 192
+  },
+  {
+   "date": "2026-10-02",
+   "views": 192
+  },
+  {
+   "date": "2026-10-03",
+   "views": 225
+  },
+  {
+   "date": "2026-10-04",
+   "views": 196
+  },
+  {
+   "date": "2026-10-05",
+   "views": 196
+  },
+  {
+   "date": "2026-10-06",
+   "views": 167
+  },
+  {
+   "date": "2026-10-07",
+   "views": 277
+  },
+  {
+   "date": "2026-10-08",
+   "views": 228
+  },
+  {
+   "date": "2026-10-09",
+   "views": 154
+  },
+  {
+   "date": "2026-10-10",
+   "views": 272
+  },
+  {
+   "date": "2026-10-11",
+   "views": 232
+  },
+  {
+   "date": "2026-10-12",
+   "views": 215
+  },
+  {
+   "date": "2026-10-13",
+   "views": 204
+  },
+  {
+   "date": "2026-10-14",
+   "views": 179
+  },
+  {
+   "date": "2026-10-15",
+   "views": 218
+  },
+  {
+   "date": "2026-10-16",
+   "views": 170
+  },
+  {
+   "date": "2026-10-17",
+   "views": 162
+  },
+  {
+   "date": "2026-10-18",
+   "views": 173
+  },
+  {
+   "date": "2026-10-19",
+   "views": 148
+  },
+  {
+   "date": "2026-10-20",
+   "views": 188
+  },
+  {
+   "date": "2026-10-21",
+   "views": 219
+  },
+  {
+   "date": "2026-10-22",
+   "views": 158
+  },
+  {
+   "date": "2026-10-23",
+   "views": 185
+  },
+  {
+   "date": "2026-10-24",
+   "views": 152
+  },
+  {
+   "date": "2026-10-25",
+   "views": 151
+  },
+  {
    "date": "2026-10-26",
-   "views": 161
+   "views": 145
   },
   {
    "date": "2026-10-27",
-   "views": 165
+   "views": 158
   },
   {
    "date": "2026-10-28",
-   "views": 156
+   "views": 176
   },
   {
    "date": "2026-10-29",
-   "views": 156
+   "views": 192
   },
   {
    "date": "2026-10-30",
-   "views": 307
+   "views": 252
   },
   {
    "date": "2026-10-31",
-   "views": 168695
+   "views": 242
   },
   {
    "date": "2026-11-01",
-   "views": 98434
+   "views": 792
+  },
+  {
+   "date": "2026-11-02",
+   "views": 53573
   }
  ],
- "wikipedia_title": "Sanjay_Gupta_(director)",
+ "wikipedia_title": "Sovetsky_Soyuz-class_battleship",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

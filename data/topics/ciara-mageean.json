@@ -1,37 +1,34 @@
 {
  "title": "Ciara Mageean",
  "slug": "ciara-mageean",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 34428,
- "growth_ratio": 346.14,
- "recent_avg": 46267,
- "baseline_avg": 134,
- "explanation": "Attention is 346\u00d7 its 30-day baseline.",
+ "score": 28,
+ "status": "Peaked / fading",
+ "change_percent": 49556,
+ "growth_ratio": 497.8,
+ "recent_avg": 66042,
+ "baseline_avg": 133,
+ "explanation": "Attention surged to 498\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 46133,
- "latest": 138465,
+ "abs_change": 65909,
+ "latest": 59386,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.833,
-  "spike_quality": 0.505
+  "persistence": 0.52,
+  "momentum": 0.457,
+  "volume": 0.91,
+  "spike_quality": 0.391
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 46,267 views/day over the last 3 days (30-day baseline: 134)."
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 66,042 views/day over the last 3 days (30-day baseline: 133)."
  ],
  "history": [
-  {
-   "date": "2026-09-23",
-   "views": 51
-  },
   {
    "date": "2026-09-24",
    "views": 48
@@ -187,11 +184,15 @@
   {
    "date": "2026-11-01",
    "views": 138465
+  },
+  {
+   "date": "2026-11-02",
+   "views": 59386
   }
  ],
  "wikipedia_title": "Ciara_Mageean",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

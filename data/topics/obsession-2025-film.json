@@ -1,38 +1,33 @@
 {
  "title": "Obsession (2025 film)",
  "slug": "obsession-2025-film",
- "score": 51,
- "status": "Building",
- "change_percent": 150,
- "growth_ratio": 2.5,
- "recent_avg": 69749,
- "baseline_avg": 27929,
+ "score": 32,
+ "status": "Elevated",
+ "change_percent": 152,
+ "growth_ratio": 2.52,
+ "recent_avg": 72148,
+ "baseline_avg": 28620,
  "explanation": "Attention is 2.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 41820,
- "latest": 91786,
+ "abs_change": 43528,
+ "latest": 54762,
  "components": {
-  "acceleration": 0.234,
-  "anomaly": 0.985,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.922,
-  "spike_quality": 0.922
+  "acceleration": 0.236,
+  "anomaly": 0.79,
+  "persistence": 0.72,
+  "momentum": 0.558,
+  "volume": 0.929,
+  "spike_quality": 0.732
  },
  "why": [
   "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 69,749 views/day over the last 3 days (30-day baseline: 27,929)."
+  "Averaging 72,148 views/day over the last 3 days (30-day baseline: 28,620)."
  ],
  "history": [
-  {
-   "date": "2026-09-23",
-   "views": 24807
-  },
   {
    "date": "2026-09-24",
    "views": 24970
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-01",
    "views": 91786
+  },
+  {
+   "date": "2026-11-02",
+   "views": 54762
   }
  ],
  "wikipedia_title": "Obsession_(2025_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

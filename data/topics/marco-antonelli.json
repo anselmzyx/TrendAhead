@@ -1,197 +1,198 @@
 {
- "title": "Chris Murphy",
- "slug": "chris-murphy",
- "score": 47,
+ "title": "Marco Antonelli",
+ "slug": "marco-antonelli",
+ "score": 45,
  "status": "Breaking out",
- "change_percent": 2934,
- "growth_ratio": 30.34,
- "recent_avg": 29881,
- "baseline_avg": 985,
- "explanation": "Attention is 30\u00d7 its 30-day baseline.",
+ "change_percent": 1367,
+ "growth_ratio": 14.67,
+ "recent_avg": 30948,
+ "baseline_avg": 2110,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 28896,
- "latest": 78612,
+ "abs_change": 28838,
+ "latest": 58642,
  "components": {
-  "acceleration": 0.872,
+  "acceleration": 0.687,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.867,
-  "volume": 0.738,
-  "spike_quality": 0.601
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.745,
+  "spike_quality": 0.742
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 29,881 views/day over the last 3 days (30-day baseline: 985)."
+  "Averaging 30,948 views/day over the last 3 days (30-day baseline: 2,110)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 905
-  },
-  {
    "date": "2026-09-24",
-   "views": 628
+   "views": 725
   },
   {
    "date": "2026-09-25",
-   "views": 565
+   "views": 795
   },
   {
    "date": "2026-09-26",
-   "views": 495
+   "views": 1387
   },
   {
    "date": "2026-09-27",
-   "views": 434
+   "views": 900
   },
   {
    "date": "2026-09-28",
-   "views": 436
+   "views": 718
   },
   {
    "date": "2026-09-29",
-   "views": 587
+   "views": 604
   },
   {
    "date": "2026-09-30",
-   "views": 545
+   "views": 722
   },
   {
    "date": "2026-10-01",
-   "views": 546
+   "views": 876
   },
   {
    "date": "2026-10-02",
-   "views": 495
+   "views": 1139
   },
   {
    "date": "2026-10-03",
-   "views": 499
+   "views": 1729
   },
   {
    "date": "2026-10-04",
-   "views": 715
+   "views": 5291
   },
   {
    "date": "2026-10-05",
-   "views": 1026
+   "views": 2645
   },
   {
    "date": "2026-10-06",
-   "views": 955
+   "views": 1524
   },
   {
    "date": "2026-10-07",
-   "views": 1860
+   "views": 1228
   },
   {
    "date": "2026-10-08",
-   "views": 1909
+   "views": 1291
   },
   {
    "date": "2026-10-09",
-   "views": 1927
+   "views": 1055
   },
   {
    "date": "2026-10-10",
-   "views": 1088
+   "views": 1880
   },
   {
    "date": "2026-10-11",
-   "views": 1552
+   "views": 5832
   },
   {
    "date": "2026-10-12",
-   "views": 928
+   "views": 2988
   },
   {
    "date": "2026-10-13",
-   "views": 746
+   "views": 1339
   },
   {
    "date": "2026-10-14",
-   "views": 845
+   "views": 879
   },
   {
    "date": "2026-10-15",
-   "views": 772
+   "views": 807
   },
   {
    "date": "2026-10-16",
-   "views": 980
+   "views": 686
   },
   {
    "date": "2026-10-17",
-   "views": 824
+   "views": 702
   },
   {
    "date": "2026-10-18",
-   "views": 639
+   "views": 661
   },
   {
    "date": "2026-10-19",
-   "views": 583
+   "views": 576
   },
   {
    "date": "2026-10-20",
-   "views": 724
+   "views": 653
   },
   {
    "date": "2026-10-21",
-   "views": 990
-  },
-  {
-   "date": "2026-10-22",
-   "views": 942
-  },
-  {
-   "date": "2026-10-23",
-   "views": 851
-  },
-  {
-   "date": "2026-10-24",
-   "views": 638
-  },
-  {
-   "date": "2026-10-25",
-   "views": 590
-  },
-  {
-   "date": "2026-10-26",
    "views": 625
   },
   {
+   "date": "2026-10-22",
+   "views": 624
+  },
+  {
+   "date": "2026-10-23",
+   "views": 1187
+  },
+  {
+   "date": "2026-10-24",
+   "views": 1952
+  },
+  {
+   "date": "2026-10-25",
+   "views": 10277
+  },
+  {
+   "date": "2026-10-26",
+   "views": 7399
+  },
+  {
    "date": "2026-10-27",
-   "views": 638
+   "views": 2380
   },
   {
    "date": "2026-10-28",
-   "views": 613
+   "views": 1720
   },
   {
    "date": "2026-10-29",
-   "views": 3498
+   "views": 1528
   },
   {
    "date": "2026-10-30",
-   "views": 8060
+   "views": 1825
   },
   {
    "date": "2026-10-31",
-   "views": 2971
+   "views": 2101
   },
   {
    "date": "2026-11-01",
-   "views": 78612
+   "views": 32102
+  },
+  {
+   "date": "2026-11-02",
+   "views": 58642
   }
  ],
- "wikipedia_title": "Chris_Murphy",
+ "wikipedia_title": "Marco_Antonelli",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

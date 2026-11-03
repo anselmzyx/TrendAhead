@@ -1,198 +1,198 @@
 {
- "title": "Breast implant",
- "slug": "breast-implant",
- "score": 52,
- "status": "Breaking out",
- "change_percent": 10075,
- "growth_ratio": 101.59,
- "recent_avg": 29303,
- "baseline_avg": 288,
- "explanation": "Attention is 102\u00d7 its 30-day baseline.",
+ "title": "2026 United States elections",
+ "slug": "2026-united-states-elections",
+ "score": 50,
+ "status": "Building",
+ "change_percent": 202,
+ "growth_ratio": 3.02,
+ "recent_avg": 122215,
+ "baseline_avg": 40513,
+ "explanation": "Attention is 3.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 29015,
- "latest": 53211,
+ "abs_change": 81702,
+ "latest": 201102,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.733,
-  "spike_quality": 0.735
+  "acceleration": 0.282,
+  "anomaly": 0.492,
+  "persistence": 0.84,
+  "momentum": 0.933,
+  "volume": 1.0,
+  "spike_quality": 0.903
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 29,303 views/day over the last 3 days (30-day baseline: 288)."
+  "Averaging 122,215 views/day over the last 3 days (30-day baseline: 40,513)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 273
-  },
-  {
    "date": "2026-09-24",
-   "views": 279
+   "views": 20235
   },
   {
    "date": "2026-09-25",
-   "views": 292
+   "views": 18364
   },
   {
    "date": "2026-09-26",
-   "views": 292
+   "views": 19542
   },
   {
    "date": "2026-09-27",
-   "views": 312
+   "views": 17572
   },
   {
    "date": "2026-09-28",
-   "views": 303
+   "views": 21773
   },
   {
    "date": "2026-09-29",
-   "views": 263
+   "views": 22145
   },
   {
    "date": "2026-09-30",
-   "views": 310
+   "views": 20158
   },
   {
    "date": "2026-10-01",
-   "views": 266
+   "views": 20846
   },
   {
    "date": "2026-10-02",
-   "views": 296
+   "views": 21527
   },
   {
    "date": "2026-10-03",
-   "views": 272
+   "views": 21693
   },
   {
    "date": "2026-10-04",
-   "views": 309
+   "views": 23835
   },
   {
    "date": "2026-10-05",
-   "views": 268
+   "views": 27907
   },
   {
    "date": "2026-10-06",
-   "views": 269
+   "views": 28387
   },
   {
    "date": "2026-10-07",
-   "views": 366
+   "views": 27072
   },
   {
    "date": "2026-10-08",
-   "views": 264
+   "views": 29506
   },
   {
    "date": "2026-10-09",
-   "views": 297
+   "views": 30946
   },
   {
    "date": "2026-10-10",
-   "views": 312
+   "views": 29069
   },
   {
    "date": "2026-10-11",
-   "views": 290
+   "views": 29877
   },
   {
    "date": "2026-10-12",
-   "views": 266
+   "views": 34213
   },
   {
    "date": "2026-10-13",
-   "views": 274
+   "views": 34228
   },
   {
    "date": "2026-10-14",
-   "views": 264
+   "views": 35082
   },
   {
    "date": "2026-10-15",
-   "views": 310
+   "views": 35189
   },
   {
    "date": "2026-10-16",
-   "views": 271
+   "views": 32127
   },
   {
    "date": "2026-10-17",
-   "views": 334
+   "views": 31730
   },
   {
    "date": "2026-10-18",
-   "views": 283
+   "views": 34956
   },
   {
    "date": "2026-10-19",
-   "views": 264
+   "views": 40470
   },
   {
    "date": "2026-10-20",
-   "views": 293
+   "views": 43689
   },
   {
    "date": "2026-10-21",
-   "views": 275
+   "views": 44850
   },
   {
    "date": "2026-10-22",
-   "views": 273
+   "views": 48650
   },
   {
    "date": "2026-10-23",
-   "views": 338
+   "views": 47215
   },
   {
    "date": "2026-10-24",
-   "views": 299
+   "views": 42984
   },
   {
    "date": "2026-10-25",
-   "views": 273
+   "views": 56877
   },
   {
    "date": "2026-10-26",
-   "views": 293
+   "views": 79986
   },
   {
    "date": "2026-10-27",
-   "views": 275
+   "views": 66149
   },
   {
    "date": "2026-10-28",
-   "views": 303
+   "views": 71701
   },
   {
    "date": "2026-10-29",
-   "views": 246
+   "views": 69515
   },
   {
    "date": "2026-10-30",
-   "views": 306
+   "views": 75111
   },
   {
    "date": "2026-10-31",
-   "views": 34391
+   "views": 71088
   },
   {
    "date": "2026-11-01",
-   "views": 53211
+   "views": 94454
+  },
+  {
+   "date": "2026-11-02",
+   "views": 201102
   }
  ],
- "wikipedia_title": "Breast_implant",
+ "wikipedia_title": "2026_United_States_elections",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

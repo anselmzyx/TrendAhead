@@ -1,37 +1,33 @@
 {
  "title": "Nocturne (TV series)",
  "slug": "nocturne-tv-series",
- "score": 59,
- "status": "Building",
- "change_percent": 1277,
- "growth_ratio": 13.77,
- "recent_avg": 59145,
- "baseline_avg": 4296,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "score": 36,
+ "status": "Elevated",
+ "change_percent": 880,
+ "growth_ratio": 9.8,
+ "recent_avg": 55970,
+ "baseline_avg": 5709,
+ "explanation": "Attention is 9.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 54849,
- "latest": 59441,
+ "abs_change": 50261,
+ "latest": 43874,
  "components": {
-  "acceleration": 0.67,
-  "anomaly": 1.0,
+  "acceleration": 0.584,
+  "anomaly": 0.539,
   "persistence": 0.84,
-  "momentum": 0.752,
-  "volume": 0.886,
-  "spike_quality": 0.867
+  "momentum": 0.474,
+  "volume": 0.874,
+  "spike_quality": 0.773
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 59,145 views/day over the last 3 days (30-day baseline: 4,296)."
+  "Averaging 55,970 views/day over the last 3 days (30-day baseline: 5,709)."
  ],
  "history": [
-  {
-   "date": "2026-09-23",
-   "views": 771
-  },
   {
    "date": "2026-09-24",
    "views": 1221
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-01",
    "views": 59441
+  },
+  {
+   "date": "2026-11-02",
+   "views": 43874
   }
  ],
  "wikipedia_title": "Nocturne_(TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

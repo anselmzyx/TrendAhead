@@ -1,197 +1,198 @@
 {
- "title": "Halloween",
- "slug": "halloween",
- "score": 39,
- "status": "Peaked / fading",
- "change_percent": 819,
- "growth_ratio": 9.19,
- "recent_avg": 127164,
- "baseline_avg": 13839,
- "explanation": "Attention surged to 9.2\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "United States midterm election",
+ "slug": "united-states-midterm-election",
+ "score": 59,
+ "status": "Building",
+ "change_percent": 242,
+ "growth_ratio": 3.42,
+ "recent_avg": 80013,
+ "baseline_avg": 23392,
+ "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 113325,
- "latest": 96152,
+ "abs_change": 56621,
+ "latest": 131229,
  "components": {
-  "acceleration": 0.567,
-  "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.485,
-  "volume": 1.0,
-  "spike_quality": 0.587
+  "acceleration": 0.314,
+  "anomaly": 0.586,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.952,
+  "spike_quality": 0.889
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 127,164 views/day over the last 3 days (30-day baseline: 13,839)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 80,013 views/day over the last 3 days (30-day baseline: 23,392)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 4321
-  },
-  {
    "date": "2026-09-24",
-   "views": 4353
+   "views": 10604
   },
   {
    "date": "2026-09-25",
-   "views": 4474
+   "views": 9161
   },
   {
    "date": "2026-09-26",
-   "views": 4110
+   "views": 11009
   },
   {
    "date": "2026-09-27",
-   "views": 4906
+   "views": 9163
   },
   {
    "date": "2026-09-28",
-   "views": 5552
+   "views": 11508
   },
   {
    "date": "2026-09-29",
-   "views": 5669
+   "views": 12701
   },
   {
    "date": "2026-09-30",
-   "views": 6444
+   "views": 10495
   },
   {
    "date": "2026-10-01",
-   "views": 9322
+   "views": 10562
   },
   {
    "date": "2026-10-02",
-   "views": 8793
+   "views": 11877
   },
   {
    "date": "2026-10-03",
-   "views": 7552
+   "views": 11890
   },
   {
    "date": "2026-10-04",
-   "views": 8138
+   "views": 13143
   },
   {
    "date": "2026-10-05",
-   "views": 9256
+   "views": 15798
   },
   {
    "date": "2026-10-06",
-   "views": 10026
+   "views": 13273
   },
   {
    "date": "2026-10-07",
-   "views": 9224
+   "views": 12024
   },
   {
    "date": "2026-10-08",
-   "views": 9016
+   "views": 15548
   },
   {
    "date": "2026-10-09",
-   "views": 8712
+   "views": 16469
   },
   {
    "date": "2026-10-10",
-   "views": 8644
+   "views": 15505
   },
   {
    "date": "2026-10-11",
-   "views": 9000
+   "views": 15976
   },
   {
    "date": "2026-10-12",
-   "views": 9813
+   "views": 19426
   },
   {
    "date": "2026-10-13",
-   "views": 10156
+   "views": 20666
   },
   {
    "date": "2026-10-14",
-   "views": 10284
+   "views": 21340
   },
   {
    "date": "2026-10-15",
-   "views": 11534
+   "views": 21626
   },
   {
    "date": "2026-10-16",
-   "views": 12035
+   "views": 19702
   },
   {
    "date": "2026-10-17",
-   "views": 11545
+   "views": 21987
   },
   {
    "date": "2026-10-18",
-   "views": 11957
+   "views": 21609
   },
   {
    "date": "2026-10-19",
-   "views": 13702
+   "views": 26034
   },
   {
    "date": "2026-10-20",
-   "views": 13862
+   "views": 29842
   },
   {
    "date": "2026-10-21",
-   "views": 14172
+   "views": 29025
   },
   {
    "date": "2026-10-22",
-   "views": 15641
+   "views": 30262
   },
   {
    "date": "2026-10-23",
-   "views": 16393
+   "views": 30059
   },
   {
    "date": "2026-10-24",
-   "views": 16039
+   "views": 24802
   },
   {
    "date": "2026-10-25",
-   "views": 18880
+   "views": 34677
   },
   {
    "date": "2026-10-26",
-   "views": 25068
+   "views": 44139
   },
   {
    "date": "2026-10-27",
-   "views": 26503
+   "views": 37339
   },
   {
    "date": "2026-10-28",
-   "views": 31396
+   "views": 35785
   },
   {
    "date": "2026-10-29",
-   "views": 42067
+   "views": 37063
   },
   {
    "date": "2026-10-30",
-   "views": 82673
+   "views": 44326
   },
   {
    "date": "2026-10-31",
-   "views": 202666
+   "views": 45896
   },
   {
    "date": "2026-11-01",
-   "views": 96152
+   "views": 62914
+  },
+  {
+   "date": "2026-11-02",
+   "views": 131229
   }
  ],
- "wikipedia_title": "Halloween",
+ "wikipedia_title": "United_States_midterm_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }

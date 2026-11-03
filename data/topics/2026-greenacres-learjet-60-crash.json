@@ -1,197 +1,197 @@
 {
- "title": "Tom Kaulitz",
- "slug": "tom-kaulitz",
- "score": 41,
+ "title": "2026 Greenacres Learjet 60 crash",
+ "slug": "2026-greenacres-learjet-60-crash",
+ "score": 45,
  "status": "Breaking out",
- "change_percent": 1165,
- "growth_ratio": 12.65,
- "recent_avg": 17655,
- "baseline_avg": 1396,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "change_percent": null,
+ "growth_ratio": 544.92,
+ "recent_avg": 54492,
+ "baseline_avg": 0,
+ "explanation": "Attention is 545\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 16259,
- "latest": 45507,
+ "abs_change": 54492,
+ "latest": 152110,
  "components": {
-  "acceleration": 0.649,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.623,
-  "spike_quality": 0.629
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.868,
+  "spike_quality": 0.541
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 17,655 views/day over the last 3 days (30-day baseline: 1,396)."
+  "Averaging 54,492 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-23",
-   "views": 839
-  },
-  {
    "date": "2026-09-24",
-   "views": 761
+   "views": 0
   },
   {
    "date": "2026-09-25",
-   "views": 842
+   "views": 0
   },
   {
    "date": "2026-09-26",
-   "views": 919
+   "views": 0
   },
   {
    "date": "2026-09-27",
-   "views": 857
+   "views": 0
   },
   {
    "date": "2026-09-28",
-   "views": 1430
+   "views": 0
   },
   {
    "date": "2026-09-29",
-   "views": 824
+   "views": 0
   },
   {
    "date": "2026-09-30",
-   "views": 724
+   "views": 0
   },
   {
    "date": "2026-10-01",
-   "views": 692
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 774
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 2780
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 3681
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 1902
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 1511
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 1422
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 1119
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 1576
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 2898
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 2303
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 1210
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 1067
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 994
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 969
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 857
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 772
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 833
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 1036
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 931
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 824
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 766
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 771
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 1263
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 2769
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 1662
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 1203
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 1172
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 1388
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 2462
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 4996
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 45507
+   "views": 11366
+  },
+  {
+   "date": "2026-11-02",
+   "views": 152110
   }
  ],
- "wikipedia_title": "Tom_Kaulitz",
+ "wikipedia_title": "2026_Greenacres_Learjet_60_crash",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-01",
- "generated_at_utc": "2026-11-02T13:47:38+00:00"
+ "data_through": "2026-11-02",
+ "generated_at_utc": "2026-11-03T12:58:16+00:00"
 }
