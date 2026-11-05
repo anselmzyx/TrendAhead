@@ -1,197 +1,197 @@
 {
- "title": "Learjet 60",
- "slug": "learjet-60",
- "score": 51,
+ "title": "Ann Richards",
+ "slug": "ann-richards",
+ "score": 50,
  "status": "Breaking out",
- "change_percent": 82968,
- "growth_ratio": 832.46,
- "recent_avg": 103835,
- "baseline_avg": 125,
- "explanation": "Attention is 832\u00d7 its 30-day baseline.",
+ "change_percent": 2597,
+ "growth_ratio": 26.96,
+ "recent_avg": 47837,
+ "baseline_avg": 1774,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 103710,
- "latest": 263003,
+ "abs_change": 46063,
+ "latest": 133555,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.842,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.72,
   "momentum": 0.933,
-  "volume": 1.0,
-  "spike_quality": 0.592
+  "volume": 0.84,
+  "spike_quality": 0.577
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 103,835 views/day over the last 3 days (30-day baseline: 125)."
+  "Averaging 47,837 views/day over the last 3 days (30-day baseline: 1,774)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 118
-  },
-  {
-   "date": "2026-09-25",
-   "views": 118
-  },
-  {
    "date": "2026-09-26",
-   "views": 96
+   "views": 1131
   },
   {
    "date": "2026-09-27",
-   "views": 109
+   "views": 962
   },
   {
    "date": "2026-09-28",
-   "views": 126
+   "views": 1068
   },
   {
    "date": "2026-09-29",
-   "views": 119
+   "views": 1061
   },
   {
    "date": "2026-09-30",
-   "views": 108
+   "views": 958
   },
   {
    "date": "2026-10-01",
-   "views": 93
+   "views": 1101
   },
   {
    "date": "2026-10-02",
-   "views": 85
+   "views": 1217
   },
   {
    "date": "2026-10-03",
-   "views": 121
+   "views": 1273
   },
   {
    "date": "2026-10-04",
-   "views": 125
+   "views": 1469
   },
   {
    "date": "2026-10-05",
-   "views": 242
+   "views": 1339
   },
   {
    "date": "2026-10-06",
-   "views": 288
+   "views": 1325
   },
   {
    "date": "2026-10-07",
-   "views": 148
+   "views": 1273
   },
   {
    "date": "2026-10-08",
-   "views": 134
+   "views": 1435
   },
   {
    "date": "2026-10-09",
-   "views": 113
+   "views": 1195
   },
   {
    "date": "2026-10-10",
-   "views": 123
+   "views": 1188
   },
   {
    "date": "2026-10-11",
-   "views": 107
+   "views": 1248
   },
   {
    "date": "2026-10-12",
-   "views": 142
+   "views": 1106
   },
   {
    "date": "2026-10-13",
-   "views": 108
+   "views": 1580
   },
   {
    "date": "2026-10-14",
-   "views": 103
+   "views": 1500
   },
   {
    "date": "2026-10-15",
-   "views": 102
+   "views": 1700
   },
   {
    "date": "2026-10-16",
-   "views": 112
+   "views": 1321
   },
   {
    "date": "2026-10-17",
-   "views": 106
+   "views": 1542
   },
   {
    "date": "2026-10-18",
-   "views": 98
+   "views": 1464
   },
   {
    "date": "2026-10-19",
-   "views": 77
+   "views": 1749
   },
   {
    "date": "2026-10-20",
-   "views": 108
+   "views": 2136
   },
   {
    "date": "2026-10-21",
-   "views": 119
+   "views": 2224
   },
   {
    "date": "2026-10-22",
-   "views": 95
+   "views": 1897
   },
   {
    "date": "2026-10-23",
-   "views": 106
+   "views": 1801
   },
   {
    "date": "2026-10-24",
-   "views": 83
+   "views": 1839
   },
   {
    "date": "2026-10-25",
-   "views": 100
+   "views": 2278
   },
   {
    "date": "2026-10-26",
-   "views": 106
+   "views": 2622
   },
   {
    "date": "2026-10-27",
-   "views": 108
+   "views": 2265
   },
   {
    "date": "2026-10-28",
-   "views": 200
+   "views": 2084
   },
   {
    "date": "2026-10-29",
-   "views": 131
+   "views": 2299
   },
   {
    "date": "2026-10-30",
-   "views": 159
+   "views": 2209
   },
   {
    "date": "2026-10-31",
-   "views": 112
+   "views": 2216
   },
   {
    "date": "2026-11-01",
-   "views": 48391
+   "views": 3651
   },
   {
    "date": "2026-11-02",
-   "views": 263003
+   "views": 3317
+  },
+  {
+   "date": "2026-11-03",
+   "views": 6640
+  },
+  {
+   "date": "2026-11-04",
+   "views": 133555
   }
  ],
- "wikipedia_title": "Learjet_60",
+ "wikipedia_title": "Ann_Richards",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

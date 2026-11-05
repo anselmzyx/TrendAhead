@@ -1,197 +1,197 @@
 {
- "title": "Nocturne (TV series)",
- "slug": "nocturne-tv-series",
- "score": 36,
- "status": "Elevated",
- "change_percent": 880,
- "growth_ratio": 9.8,
- "recent_avg": 55970,
- "baseline_avg": 5709,
- "explanation": "Attention is 9.8\u00d7 its 30-day baseline.",
+ "title": "Byron Donalds",
+ "slug": "byron-donalds",
+ "score": 63,
+ "status": "Breaking out",
+ "change_percent": 2238,
+ "growth_ratio": 23.37,
+ "recent_avg": 131812,
+ "baseline_avg": 5639,
+ "explanation": "Attention is 23\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 50261,
- "latest": 43874,
+ "abs_change": 126173,
+ "latest": 362265,
  "components": {
-  "acceleration": 0.584,
-  "anomaly": 0.539,
-  "persistence": 0.84,
-  "momentum": 0.474,
-  "volume": 0.874,
-  "spike_quality": 0.773
+  "acceleration": 0.806,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.595
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 55,970 views/day over the last 3 days (30-day baseline: 5,709)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 131,812 views/day over the last 3 days (30-day baseline: 5,639)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 1221
-  },
-  {
-   "date": "2026-09-25",
-   "views": 1392
-  },
-  {
    "date": "2026-09-26",
-   "views": 1018
+   "views": 3417
   },
   {
    "date": "2026-09-27",
-   "views": 1196
+   "views": 3718
   },
   {
    "date": "2026-09-28",
-   "views": 3062
+   "views": 3657
   },
   {
    "date": "2026-09-29",
-   "views": 11819
+   "views": 3497
   },
   {
    "date": "2026-09-30",
-   "views": 11024
+   "views": 3793
   },
   {
    "date": "2026-10-01",
-   "views": 5353
+   "views": 5129
   },
   {
    "date": "2026-10-02",
-   "views": 3150
+   "views": 4476
   },
   {
    "date": "2026-10-03",
-   "views": 2779
+   "views": 3519
   },
   {
    "date": "2026-10-04",
-   "views": 2615
+   "views": 4633
   },
   {
    "date": "2026-10-05",
-   "views": 2169
+   "views": 4083
   },
   {
    "date": "2026-10-06",
-   "views": 1781
+   "views": 3856
   },
   {
    "date": "2026-10-07",
-   "views": 1601
+   "views": 4084
   },
   {
    "date": "2026-10-08",
-   "views": 1565
+   "views": 3091
   },
   {
    "date": "2026-10-09",
-   "views": 1662
+   "views": 3196
   },
   {
    "date": "2026-10-10",
-   "views": 1615
+   "views": 3126
   },
   {
    "date": "2026-10-11",
-   "views": 1555
+   "views": 3452
   },
   {
    "date": "2026-10-12",
-   "views": 1536
+   "views": 3876
   },
   {
    "date": "2026-10-13",
-   "views": 1520
+   "views": 3993
   },
   {
    "date": "2026-10-14",
-   "views": 1691
+   "views": 3568
   },
   {
    "date": "2026-10-15",
-   "views": 1521
+   "views": 3934
   },
   {
    "date": "2026-10-16",
-   "views": 1675
+   "views": 4043
   },
   {
    "date": "2026-10-17",
-   "views": 1708
+   "views": 4269
   },
   {
    "date": "2026-10-18",
-   "views": 1732
+   "views": 4287
   },
   {
    "date": "2026-10-19",
-   "views": 4596
+   "views": 5548
   },
   {
    "date": "2026-10-20",
-   "views": 6491
+   "views": 5975
   },
   {
    "date": "2026-10-21",
-   "views": 6314
+   "views": 6522
   },
   {
    "date": "2026-10-22",
-   "views": 6963
+   "views": 6111
   },
   {
    "date": "2026-10-23",
-   "views": 5874
+   "views": 7483
   },
   {
    "date": "2026-10-24",
-   "views": 6416
+   "views": 10888
   },
   {
    "date": "2026-10-25",
-   "views": 7608
+   "views": 6823
   },
   {
    "date": "2026-10-26",
-   "views": 6054
+   "views": 6544
   },
   {
    "date": "2026-10-27",
-   "views": 9308
+   "views": 7419
   },
   {
    "date": "2026-10-28",
-   "views": 7949
+   "views": 7275
   },
   {
    "date": "2026-10-29",
-   "views": 13064
+   "views": 7687
   },
   {
    "date": "2026-10-30",
-   "views": 53400
+   "views": 9691
   },
   {
    "date": "2026-10-31",
-   "views": 64594
+   "views": 11058
   },
   {
    "date": "2026-11-01",
-   "views": 59441
+   "views": 9146
   },
   {
    "date": "2026-11-02",
-   "views": 43874
+   "views": 10359
+  },
+  {
+   "date": "2026-11-03",
+   "views": 22813
+  },
+  {
+   "date": "2026-11-04",
+   "views": 362265
   }
  ],
- "wikipedia_title": "Nocturne_(TV_series)",
+ "wikipedia_title": "Byron_Donalds",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

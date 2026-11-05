@@ -1,198 +1,197 @@
 {
- "title": "XNXX",
- "slug": "xnxx",
- "score": 50,
- "status": "Building",
- "change_percent": 163,
- "growth_ratio": 2.63,
- "recent_avg": 73978,
- "baseline_avg": 28136,
- "explanation": "Attention is 2.6\u00d7 its 30-day baseline.",
+ "title": "2028 United States Senate elections",
+ "slug": "2028-united-states-senate-elections",
+ "score": 64,
+ "status": "Breaking out",
+ "change_percent": 2879,
+ "growth_ratio": 29.8,
+ "recent_avg": 90867,
+ "baseline_avg": 3050,
+ "explanation": "Attention is 30\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 45842,
- "latest": 97222,
+ "abs_change": 87817,
+ "latest": 244552,
  "components": {
-  "acceleration": 0.247,
-  "anomaly": 0.435,
+  "acceleration": 0.868,
+  "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 0.933,
-  "volume": 0.935,
-  "spike_quality": 0.946
+  "momentum": 1.0,
+  "volume": 0.979,
+  "spike_quality": 0.597
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 73,978 views/day over the last 3 days (30-day baseline: 28,136)."
+  "Averaging 90,867 views/day over the last 3 days (30-day baseline: 3,050)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 22447
-  },
-  {
-   "date": "2026-09-25",
-   "views": 24161
-  },
-  {
    "date": "2026-09-26",
-   "views": 16712
+   "views": 2108
   },
   {
    "date": "2026-09-27",
-   "views": 17228
+   "views": 1943
   },
   {
    "date": "2026-09-28",
-   "views": 16425
+   "views": 2239
   },
   {
    "date": "2026-09-29",
-   "views": 17353
+   "views": 2649
   },
   {
    "date": "2026-09-30",
-   "views": 19516
+   "views": 2233
   },
   {
    "date": "2026-10-01",
-   "views": 20351
+   "views": 1912
   },
   {
    "date": "2026-10-02",
-   "views": 19253
+   "views": 2074
   },
   {
    "date": "2026-10-03",
-   "views": 20245
+   "views": 2323
   },
   {
    "date": "2026-10-04",
-   "views": 22393
+   "views": 2137
   },
   {
    "date": "2026-10-05",
-   "views": 17227
+   "views": 2477
   },
   {
    "date": "2026-10-06",
-   "views": 18122
+   "views": 2876
   },
   {
    "date": "2026-10-07",
-   "views": 19040
+   "views": 3103
   },
   {
    "date": "2026-10-08",
-   "views": 21057
+   "views": 2660
   },
   {
    "date": "2026-10-09",
-   "views": 23581
+   "views": 2267
   },
   {
    "date": "2026-10-10",
-   "views": 24209
+   "views": 2070
   },
   {
    "date": "2026-10-11",
-   "views": 18538
+   "views": 2425
   },
   {
    "date": "2026-10-12",
-   "views": 20402
+   "views": 3023
   },
   {
    "date": "2026-10-13",
-   "views": 20283
+   "views": 2945
   },
   {
    "date": "2026-10-14",
-   "views": 20993
+   "views": 2647
   },
   {
    "date": "2026-10-15",
-   "views": 21905
+   "views": 2761
   },
   {
    "date": "2026-10-16",
-   "views": 28642
+   "views": 2209
   },
   {
    "date": "2026-10-17",
-   "views": 31766
+   "views": 2023
   },
   {
    "date": "2026-10-18",
-   "views": 40766
+   "views": 2209
   },
   {
    "date": "2026-10-19",
-   "views": 29283
+   "views": 2691
   },
   {
    "date": "2026-10-20",
-   "views": 17720
+   "views": 2812
   },
   {
    "date": "2026-10-21",
-   "views": 34431
+   "views": 2849
   },
   {
    "date": "2026-10-22",
-   "views": 37061
+   "views": 3105
   },
   {
    "date": "2026-10-23",
-   "views": 33298
+   "views": 2671
   },
   {
    "date": "2026-10-24",
-   "views": 30302
+   "views": 2490
   },
   {
    "date": "2026-10-25",
-   "views": 26037
+   "views": 2504
   },
   {
    "date": "2026-10-26",
-   "views": 36184
+   "views": 3397
   },
   {
    "date": "2026-10-27",
-   "views": 36771
+   "views": 3787
   },
   {
    "date": "2026-10-28",
-   "views": 43205
+   "views": 4261
   },
   {
    "date": "2026-10-29",
-   "views": 48215
+   "views": 5114
   },
   {
    "date": "2026-10-30",
-   "views": 62792
+   "views": 6077
   },
   {
    "date": "2026-10-31",
-   "views": 55581
+   "views": 4689
   },
   {
    "date": "2026-11-01",
-   "views": 69132
+   "views": 4889
   },
   {
    "date": "2026-11-02",
-   "views": 97222
+   "views": 13165
+  },
+  {
+   "date": "2026-11-03",
+   "views": 14885
+  },
+  {
+   "date": "2026-11-04",
+   "views": 244552
   }
  ],
- "wikipedia_title": "XNXX",
+ "wikipedia_title": "2028_United_States_Senate_elections",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

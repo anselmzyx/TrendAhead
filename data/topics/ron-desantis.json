@@ -1,198 +1,197 @@
 {
- "title": "Karl Bushby",
- "slug": "karl-bushby",
- "score": 30,
+ "title": "Ron DeSantis",
+ "slug": "ron-desantis",
+ "score": 50,
  "status": "Breaking out",
- "change_percent": 417,
- "growth_ratio": 5.17,
- "recent_avg": 67574,
- "baseline_avg": 13072,
- "explanation": "Attention is 5.2\u00d7 its 30-day baseline.",
+ "change_percent": 1834,
+ "growth_ratio": 19.34,
+ "recent_avg": 59093,
+ "baseline_avg": 3055,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 54502,
- "latest": 147561,
+ "abs_change": 56038,
+ "latest": 155958,
  "components": {
-  "acceleration": 0.42,
-  "anomaly": 0.337,
-  "persistence": 0.52,
-  "momentum": 0.867,
-  "volume": 0.915,
-  "spike_quality": 0.712
+  "acceleration": 0.757,
+  "anomaly": 1.0,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.886,
+  "spike_quality": 0.608
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 67,574 views/day over the last 3 days (30-day baseline: 13,072)."
+  "Averaging 59,093 views/day over the last 3 days (30-day baseline: 3,055)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 9337
-  },
-  {
-   "date": "2026-09-25",
-   "views": 3665
-  },
-  {
    "date": "2026-09-26",
-   "views": 10223
+   "views": 1685
   },
   {
    "date": "2026-09-27",
-   "views": 8332
+   "views": 1828
   },
   {
    "date": "2026-09-28",
-   "views": 4648
+   "views": 1753
   },
   {
    "date": "2026-09-29",
-   "views": 2408
+   "views": 1904
   },
   {
    "date": "2026-09-30",
-   "views": 2177
+   "views": 1782
   },
   {
    "date": "2026-10-01",
-   "views": 1889
+   "views": 2040
   },
   {
    "date": "2026-10-02",
-   "views": 1762
+   "views": 1807
   },
   {
    "date": "2026-10-03",
-   "views": 3635
+   "views": 1841
   },
   {
    "date": "2026-10-04",
-   "views": 6671
+   "views": 2276
   },
   {
    "date": "2026-10-05",
-   "views": 4459
+   "views": 1948
   },
   {
    "date": "2026-10-06",
-   "views": 13700
+   "views": 1833
   },
   {
    "date": "2026-10-07",
-   "views": 76279
+   "views": 2460
   },
   {
    "date": "2026-10-08",
-   "views": 57336
+   "views": 2881
   },
   {
    "date": "2026-10-09",
-   "views": 32961
+   "views": 7177
   },
   {
    "date": "2026-10-10",
-   "views": 24316
+   "views": 5925
   },
   {
    "date": "2026-10-11",
-   "views": 23892
+   "views": 3412
   },
   {
    "date": "2026-10-12",
-   "views": 17051
+   "views": 2719
   },
   {
    "date": "2026-10-13",
-   "views": 14125
+   "views": 2466
   },
   {
    "date": "2026-10-14",
-   "views": 9307
+   "views": 2173
   },
   {
    "date": "2026-10-15",
-   "views": 7686
+   "views": 2247
   },
   {
    "date": "2026-10-16",
-   "views": 6173
+   "views": 2140
   },
   {
    "date": "2026-10-17",
-   "views": 7226
+   "views": 2335
   },
   {
    "date": "2026-10-18",
-   "views": 5096
+   "views": 2369
   },
   {
    "date": "2026-10-19",
-   "views": 3890
+   "views": 2976
   },
   {
    "date": "2026-10-20",
-   "views": 3426
+   "views": 3067
   },
   {
    "date": "2026-10-21",
-   "views": 4618
+   "views": 3962
   },
   {
    "date": "2026-10-22",
-   "views": 9633
+   "views": 2817
   },
   {
    "date": "2026-10-23",
-   "views": 7930
+   "views": 3248
   },
   {
    "date": "2026-10-24",
-   "views": 6058
+   "views": 3420
   },
   {
    "date": "2026-10-25",
-   "views": 4848
+   "views": 2616
   },
   {
    "date": "2026-10-26",
-   "views": 8905
+   "views": 2928
   },
   {
    "date": "2026-10-27",
-   "views": 4476
+   "views": 2877
   },
   {
    "date": "2026-10-28",
-   "views": 4112
+   "views": 3352
   },
   {
    "date": "2026-10-29",
-   "views": 11383
+   "views": 3023
   },
   {
    "date": "2026-10-30",
-   "views": 9322
+   "views": 3588
   },
   {
    "date": "2026-10-31",
-   "views": 28548
+   "views": 3821
   },
   {
    "date": "2026-11-01",
-   "views": 26614
+   "views": 3767
   },
   {
    "date": "2026-11-02",
-   "views": 147561
+   "views": 8403
+  },
+  {
+   "date": "2026-11-03",
+   "views": 12918
+  },
+  {
+   "date": "2026-11-04",
+   "views": 155958
   }
  ],
- "wikipedia_title": "Karl_Bushby",
+ "wikipedia_title": "Ron_DeSantis",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

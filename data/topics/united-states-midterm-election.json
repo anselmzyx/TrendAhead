@@ -1,42 +1,34 @@
 {
  "title": "United States midterm election",
  "slug": "united-states-midterm-election",
- "score": 59,
+ "score": 74,
  "status": "Building",
- "change_percent": 242,
- "growth_ratio": 3.42,
- "recent_avg": 80013,
- "baseline_avg": 23392,
- "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
+ "change_percent": 1041,
+ "growth_ratio": 11.41,
+ "recent_avg": 299761,
+ "baseline_avg": 26272,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 56621,
- "latest": 131229,
+ "abs_change": 273489,
+ "latest": 523575,
  "components": {
-  "acceleration": 0.314,
-  "anomaly": 0.586,
+  "acceleration": 0.622,
+  "anomaly": 1.0,
   "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.952,
-  "spike_quality": 0.889
+  "volume": 1.0,
+  "spike_quality": 0.803
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 80,013 views/day over the last 3 days (30-day baseline: 23,392)."
+  "Averaging 299,761 views/day over the last 3 days (30-day baseline: 26,272)."
  ],
  "history": [
-  {
-   "date": "2026-09-24",
-   "views": 10604
-  },
-  {
-   "date": "2026-09-25",
-   "views": 9161
-  },
   {
    "date": "2026-09-26",
    "views": 11009
@@ -188,11 +180,19 @@
   {
    "date": "2026-11-02",
    "views": 131229
+  },
+  {
+   "date": "2026-11-03",
+   "views": 244478
+  },
+  {
+   "date": "2026-11-04",
+   "views": 523575
   }
  ],
  "wikipedia_title": "United_States_midterm_election",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

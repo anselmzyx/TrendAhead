@@ -1,197 +1,197 @@
 {
- "title": "2026 Greenacres Learjet 60 crash",
- "slug": "2026-greenacres-learjet-60-crash",
- "score": 45,
+ "title": "Red states and blue states",
+ "slug": "red-states-and-blue-states",
+ "score": 65,
  "status": "Breaking out",
- "change_percent": null,
- "growth_ratio": 544.92,
- "recent_avg": 54492,
- "baseline_avg": 0,
- "explanation": "Attention is 545\u00d7 its 30-day baseline.",
+ "change_percent": 2444,
+ "growth_ratio": 25.44,
+ "recent_avg": 85728,
+ "baseline_avg": 3370,
+ "explanation": "Attention is 25\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 54492,
- "latest": 152110,
+ "abs_change": 82358,
+ "latest": 214095,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.827,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.868,
-  "spike_quality": 0.541
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.967,
+  "spike_quality": 0.639
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 54,492 views/day over the last 3 days (30-day baseline: 0)."
+  "Averaging 85,728 views/day over the last 3 days (30-day baseline: 3,370)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 0
-  },
-  {
-   "date": "2026-09-25",
-   "views": 0
-  },
-  {
    "date": "2026-09-26",
-   "views": 0
+   "views": 1410
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 1489
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 1536
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 1590
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 1643
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 1797
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 1670
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 1745
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 1786
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 2036
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 2419
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 2478
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 2599
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 2274
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 2199
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 2189
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 2280
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 2415
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 2473
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 2666
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 2648
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 2277
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 2448
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 2847
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 3483
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 3728
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 4055
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 4039
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 3906
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 4183
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 4642
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 4681
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 4983
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 5371
   },
   {
    "date": "2026-10-30",
-   "views": 0
+   "views": 6381
   },
   {
    "date": "2026-10-31",
-   "views": 0
+   "views": 5784
   },
   {
    "date": "2026-11-01",
-   "views": 11366
+   "views": 6073
   },
   {
    "date": "2026-11-02",
-   "views": 152110
+   "views": 8619
+  },
+  {
+   "date": "2026-11-03",
+   "views": 34471
+  },
+  {
+   "date": "2026-11-04",
+   "views": 214095
   }
  ],
- "wikipedia_title": "2026_Greenacres_Learjet_60_crash",
+ "wikipedia_title": "Red_states_and_blue_states",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

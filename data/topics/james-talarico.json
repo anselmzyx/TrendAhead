@@ -1,198 +1,197 @@
 {
- "title": "Marco Antonelli",
- "slug": "marco-antonelli",
- "score": 45,
+ "title": "James Talarico",
+ "slug": "james-talarico",
+ "score": 58,
  "status": "Breaking out",
- "change_percent": 1367,
- "growth_ratio": 14.67,
- "recent_avg": 30948,
- "baseline_avg": 2110,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "change_percent": 1229,
+ "growth_ratio": 13.29,
+ "recent_avg": 474820,
+ "baseline_avg": 35727,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 28838,
- "latest": 58642,
+ "abs_change": 439093,
+ "latest": 1256040,
  "components": {
-  "acceleration": 0.687,
+  "acceleration": 0.661,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.745,
-  "spike_quality": 0.742
+  "volume": 1.0,
+  "spike_quality": 0.629
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,948 views/day over the last 3 days (30-day baseline: 2,110)."
+  "Averaging 474,820 views/day over the last 3 days (30-day baseline: 35,727)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 725
-  },
-  {
-   "date": "2026-09-25",
-   "views": 795
-  },
-  {
    "date": "2026-09-26",
-   "views": 1387
+   "views": 11980
   },
   {
    "date": "2026-09-27",
-   "views": 900
+   "views": 11795
   },
   {
    "date": "2026-09-28",
-   "views": 718
+   "views": 13569
   },
   {
    "date": "2026-09-29",
-   "views": 604
+   "views": 13770
   },
   {
    "date": "2026-09-30",
-   "views": 722
+   "views": 14833
   },
   {
    "date": "2026-10-01",
-   "views": 876
+   "views": 14609
   },
   {
    "date": "2026-10-02",
-   "views": 1139
+   "views": 13101
   },
   {
    "date": "2026-10-03",
-   "views": 1729
+   "views": 14278
   },
   {
    "date": "2026-10-04",
-   "views": 5291
+   "views": 17361
   },
   {
    "date": "2026-10-05",
-   "views": 2645
+   "views": 16845
   },
   {
    "date": "2026-10-06",
-   "views": 1524
+   "views": 16210
   },
   {
    "date": "2026-10-07",
-   "views": 1228
+   "views": 20285
   },
   {
    "date": "2026-10-08",
-   "views": 1291
+   "views": 24631
   },
   {
    "date": "2026-10-09",
-   "views": 1055
+   "views": 31515
   },
   {
    "date": "2026-10-10",
-   "views": 1880
+   "views": 29355
   },
   {
    "date": "2026-10-11",
-   "views": 5832
+   "views": 30116
   },
   {
    "date": "2026-10-12",
-   "views": 2988
+   "views": 40703
   },
   {
    "date": "2026-10-13",
-   "views": 1339
+   "views": 43363
   },
   {
    "date": "2026-10-14",
-   "views": 879
+   "views": 47317
   },
   {
    "date": "2026-10-15",
-   "views": 807
+   "views": 98368
   },
   {
    "date": "2026-10-16",
-   "views": 686
+   "views": 39109
   },
   {
    "date": "2026-10-17",
-   "views": 702
+   "views": 25772
   },
   {
    "date": "2026-10-18",
-   "views": 661
+   "views": 28395
   },
   {
    "date": "2026-10-19",
-   "views": 576
+   "views": 45169
   },
   {
    "date": "2026-10-20",
-   "views": 653
+   "views": 39065
   },
   {
    "date": "2026-10-21",
-   "views": 625
+   "views": 37142
   },
   {
    "date": "2026-10-22",
-   "views": 624
+   "views": 37853
   },
   {
    "date": "2026-10-23",
-   "views": 1187
+   "views": 33918
   },
   {
    "date": "2026-10-24",
-   "views": 1952
+   "views": 34334
   },
   {
    "date": "2026-10-25",
-   "views": 10277
+   "views": 30081
   },
   {
    "date": "2026-10-26",
-   "views": 7399
+   "views": 28682
   },
   {
    "date": "2026-10-27",
-   "views": 2380
+   "views": 35699
   },
   {
    "date": "2026-10-28",
-   "views": 1720
+   "views": 38715
   },
   {
    "date": "2026-10-29",
-   "views": 1528
+   "views": 39357
   },
   {
    "date": "2026-10-30",
-   "views": 1825
+   "views": 42210
   },
   {
    "date": "2026-10-31",
-   "views": 2101
+   "views": 49602
   },
   {
    "date": "2026-11-01",
-   "views": 32102
+   "views": 56366
   },
   {
    "date": "2026-11-02",
-   "views": 58642
+   "views": 62655
+  },
+  {
+   "date": "2026-11-03",
+   "views": 105766
+  },
+  {
+   "date": "2026-11-04",
+   "views": 1256040
   }
  ],
- "wikipedia_title": "Marco_Antonelli",
+ "wikipedia_title": "James_Talarico",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

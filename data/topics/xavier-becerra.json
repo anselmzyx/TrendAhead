@@ -1,198 +1,197 @@
 {
- "title": "Kimi Antonelli",
- "slug": "kimi-antonelli",
- "score": 48,
+ "title": "Xavier Becerra",
+ "slug": "xavier-becerra",
+ "score": 53,
  "status": "Breaking out",
- "change_percent": 847,
- "growth_ratio": 9.47,
- "recent_avg": 106942,
- "baseline_avg": 11298,
- "explanation": "Attention is 9.5\u00d7 its 30-day baseline.",
+ "change_percent": 2013,
+ "growth_ratio": 21.12,
+ "recent_avg": 77976,
+ "baseline_avg": 3691,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 95644,
- "latest": 206706,
+ "abs_change": 74285,
+ "latest": 202392,
  "components": {
-  "acceleration": 0.575,
-  "anomaly": 0.913,
-  "persistence": 0.4,
+  "acceleration": 0.78,
+  "anomaly": 1.0,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.749
+  "volume": 0.946,
+  "spike_quality": 0.622
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 106,942 views/day over the last 3 days (30-day baseline: 11,298)."
+  "Averaging 77,976 views/day over the last 3 days (30-day baseline: 3,691)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 3878
-  },
-  {
-   "date": "2026-09-25",
-   "views": 4440
-  },
-  {
    "date": "2026-09-26",
-   "views": 8488
+   "views": 1442
   },
   {
    "date": "2026-09-27",
-   "views": 5353
+   "views": 1628
   },
   {
    "date": "2026-09-28",
-   "views": 5148
+   "views": 1682
   },
   {
    "date": "2026-09-29",
-   "views": 4178
+   "views": 1980
   },
   {
    "date": "2026-09-30",
-   "views": 4547
+   "views": 3368
   },
   {
    "date": "2026-10-01",
-   "views": 5306
+   "views": 15423
   },
   {
    "date": "2026-10-02",
-   "views": 6714
+   "views": 5205
   },
   {
    "date": "2026-10-03",
-   "views": 10107
+   "views": 3464
   },
   {
    "date": "2026-10-04",
-   "views": 30813
+   "views": 3680
   },
   {
    "date": "2026-10-05",
-   "views": 14536
+   "views": 4784
   },
   {
    "date": "2026-10-06",
-   "views": 8453
+   "views": 4317
   },
   {
    "date": "2026-10-07",
-   "views": 6671
+   "views": 4384
   },
   {
    "date": "2026-10-08",
-   "views": 6369
+   "views": 3767
   },
   {
    "date": "2026-10-09",
-   "views": 6181
+   "views": 3205
   },
   {
    "date": "2026-10-10",
-   "views": 9815
+   "views": 3046
   },
   {
    "date": "2026-10-11",
-   "views": 27558
+   "views": 2703
   },
   {
    "date": "2026-10-12",
-   "views": 15383
+   "views": 2671
   },
   {
    "date": "2026-10-13",
-   "views": 7733
+   "views": 2332
   },
   {
    "date": "2026-10-14",
-   "views": 5524
+   "views": 3793
   },
   {
    "date": "2026-10-15",
-   "views": 5127
+   "views": 2844
   },
   {
    "date": "2026-10-16",
-   "views": 4694
+   "views": 2652
   },
   {
    "date": "2026-10-17",
-   "views": 4263
+   "views": 2519
   },
   {
    "date": "2026-10-18",
-   "views": 4196
+   "views": 2656
   },
   {
    "date": "2026-10-19",
-   "views": 4213
+   "views": 2831
   },
   {
    "date": "2026-10-20",
-   "views": 4292
+   "views": 3018
   },
   {
    "date": "2026-10-21",
-   "views": 4151
+   "views": 3603
   },
   {
    "date": "2026-10-22",
-   "views": 3996
+   "views": 3196
   },
   {
    "date": "2026-10-23",
-   "views": 7020
+   "views": 3195
   },
   {
    "date": "2026-10-24",
-   "views": 10474
+   "views": 4120
   },
   {
    "date": "2026-10-25",
-   "views": 46602
+   "views": 3535
   },
   {
    "date": "2026-10-26",
-   "views": 38918
+   "views": 3932
   },
   {
    "date": "2026-10-27",
-   "views": 13230
+   "views": 4380
   },
   {
    "date": "2026-10-28",
-   "views": 9362
+   "views": 4314
   },
   {
    "date": "2026-10-29",
-   "views": 8466
+   "views": 5609
   },
   {
    "date": "2026-10-30",
-   "views": 8787
+   "views": 5552
   },
   {
    "date": "2026-10-31",
-   "views": 10125
+   "views": 5121
   },
   {
    "date": "2026-11-01",
-   "views": 103995
+   "views": 5513
   },
   {
    "date": "2026-11-02",
-   "views": 206706
+   "views": 9409
+  },
+  {
+   "date": "2026-11-03",
+   "views": 22126
+  },
+  {
+   "date": "2026-11-04",
+   "views": 202392
   }
  ],
- "wikipedia_title": "Kimi_Antonelli",
+ "wikipedia_title": "Xavier_Becerra",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

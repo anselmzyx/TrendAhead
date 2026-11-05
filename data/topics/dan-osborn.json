@@ -1,198 +1,197 @@
 {
- "title": "Ciara Mageean",
- "slug": "ciara-mageean",
- "score": 28,
- "status": "Peaked / fading",
- "change_percent": 49556,
- "growth_ratio": 497.8,
- "recent_avg": 66042,
- "baseline_avg": 133,
- "explanation": "Attention surged to 498\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Dan Osborn",
+ "slug": "dan-osborn",
+ "score": 55,
+ "status": "Breaking out",
+ "change_percent": 4878,
+ "growth_ratio": 49.78,
+ "recent_avg": 94691,
+ "baseline_avg": 1902,
+ "explanation": "Attention is 50\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 65909,
- "latest": 59386,
+ "abs_change": 92789,
+ "latest": 273151,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.999,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.457,
-  "volume": 0.91,
-  "spike_quality": 0.391
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.988,
+  "spike_quality": 0.543
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 66,042 views/day over the last 3 days (30-day baseline: 133)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 94,691 views/day over the last 3 days (30-day baseline: 1,902)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 48
-  },
-  {
-   "date": "2026-09-25",
-   "views": 62
-  },
-  {
    "date": "2026-09-26",
-   "views": 65
+   "views": 2270
   },
   {
    "date": "2026-09-27",
-   "views": 66
+   "views": 1229
   },
   {
    "date": "2026-09-28",
-   "views": 65
+   "views": 1016
   },
   {
    "date": "2026-09-29",
-   "views": 46
+   "views": 1492
   },
   {
    "date": "2026-09-30",
-   "views": 91
+   "views": 1419
   },
   {
    "date": "2026-10-01",
-   "views": 91
+   "views": 1159
   },
   {
    "date": "2026-10-02",
-   "views": 64
+   "views": 1017
   },
   {
    "date": "2026-10-03",
-   "views": 50
+   "views": 1894
   },
   {
    "date": "2026-10-04",
-   "views": 35
+   "views": 975
   },
   {
    "date": "2026-10-05",
-   "views": 41
+   "views": 2000
   },
   {
    "date": "2026-10-06",
-   "views": 37
+   "views": 4199
   },
   {
    "date": "2026-10-07",
-   "views": 40
+   "views": 2541
   },
   {
    "date": "2026-10-08",
-   "views": 40
+   "views": 1614
   },
   {
    "date": "2026-10-09",
-   "views": 34
+   "views": 1160
   },
   {
    "date": "2026-10-10",
-   "views": 34
+   "views": 1127
   },
   {
    "date": "2026-10-11",
-   "views": 40
+   "views": 940
   },
   {
    "date": "2026-10-12",
-   "views": 117
+   "views": 1452
   },
   {
    "date": "2026-10-13",
-   "views": 1154
+   "views": 1616
   },
   {
    "date": "2026-10-14",
-   "views": 421
+   "views": 1802
   },
   {
    "date": "2026-10-15",
-   "views": 223
+   "views": 1777
   },
   {
    "date": "2026-10-16",
-   "views": 147
+   "views": 1364
   },
   {
    "date": "2026-10-17",
-   "views": 118
+   "views": 1166
   },
   {
    "date": "2026-10-18",
-   "views": 65
+   "views": 1522
   },
   {
    "date": "2026-10-19",
-   "views": 58
+   "views": 1442
   },
   {
    "date": "2026-10-20",
-   "views": 48
+   "views": 1519
   },
   {
    "date": "2026-10-21",
-   "views": 49
+   "views": 1524
   },
   {
    "date": "2026-10-22",
-   "views": 53
+   "views": 3371
   },
   {
    "date": "2026-10-23",
-   "views": 54
+   "views": 2279
   },
   {
    "date": "2026-10-24",
-   "views": 64
+   "views": 1519
   },
   {
    "date": "2026-10-25",
-   "views": 66
+   "views": 1389
   },
   {
    "date": "2026-10-26",
-   "views": 286
+   "views": 2099
   },
   {
    "date": "2026-10-27",
-   "views": 265
+   "views": 2084
   },
   {
    "date": "2026-10-28",
-   "views": 141
+   "views": 2077
   },
   {
    "date": "2026-10-29",
-   "views": 84
+   "views": 2320
   },
   {
    "date": "2026-10-30",
-   "views": 61
+   "views": 3006
   },
   {
    "date": "2026-10-31",
-   "views": 275
+   "views": 2526
   },
   {
    "date": "2026-11-01",
-   "views": 138465
+   "views": 2763
   },
   {
    "date": "2026-11-02",
-   "views": 59386
+   "views": 3750
+  },
+  {
+   "date": "2026-11-03",
+   "views": 7171
+  },
+  {
+   "date": "2026-11-04",
+   "views": 273151
   }
  ],
- "wikipedia_title": "Ciara_Mageean",
+ "wikipedia_title": "Dan_Osborn",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

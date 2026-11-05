@@ -1,197 +1,197 @@
 {
- "title": "Learjet",
- "slug": "learjet",
- "score": 44,
+ "title": "Democratic Party (United States)",
+ "slug": "democratic-party-united-states",
+ "score": 60,
  "status": "Breaking out",
- "change_percent": 6995,
- "growth_ratio": 70.86,
- "recent_avg": 25044,
- "baseline_avg": 353,
- "explanation": "Attention is 71\u00d7 its 30-day baseline.",
+ "change_percent": 1215,
+ "growth_ratio": 13.15,
+ "recent_avg": 106723,
+ "baseline_avg": 8114,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 24691,
- "latest": 64003,
+ "abs_change": 98609,
+ "latest": 256501,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.659,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.699,
-  "spike_quality": 0.594
+  "volume": 1.0,
+  "spike_quality": 0.673
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,044 views/day over the last 3 days (30-day baseline: 353)."
+  "Averaging 106,723 views/day over the last 3 days (30-day baseline: 8,114)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 358
-  },
-  {
-   "date": "2026-09-25",
-   "views": 373
-  },
-  {
    "date": "2026-09-26",
-   "views": 422
+   "views": 5812
   },
   {
    "date": "2026-09-27",
-   "views": 370
+   "views": 5956
   },
   {
    "date": "2026-09-28",
-   "views": 413
+   "views": 6029
   },
   {
    "date": "2026-09-29",
-   "views": 370
+   "views": 6013
   },
   {
    "date": "2026-09-30",
-   "views": 334
+   "views": 6132
   },
   {
    "date": "2026-10-01",
-   "views": 364
+   "views": 5982
   },
   {
    "date": "2026-10-02",
-   "views": 357
+   "views": 6192
   },
   {
    "date": "2026-10-03",
-   "views": 475
+   "views": 5484
   },
   {
    "date": "2026-10-04",
-   "views": 469
+   "views": 5992
   },
   {
    "date": "2026-10-05",
-   "views": 387
+   "views": 6186
   },
   {
    "date": "2026-10-06",
-   "views": 432
+   "views": 6203
   },
   {
    "date": "2026-10-07",
-   "views": 395
+   "views": 6456
   },
   {
    "date": "2026-10-08",
-   "views": 428
+   "views": 6397
   },
   {
    "date": "2026-10-09",
-   "views": 340
+   "views": 6501
   },
   {
    "date": "2026-10-10",
-   "views": 365
+   "views": 6685
   },
   {
    "date": "2026-10-11",
-   "views": 313
+   "views": 6663
   },
   {
    "date": "2026-10-12",
-   "views": 365
+   "views": 6942
   },
   {
    "date": "2026-10-13",
-   "views": 365
+   "views": 7410
   },
   {
    "date": "2026-10-14",
-   "views": 361
+   "views": 7284
   },
   {
    "date": "2026-10-15",
-   "views": 350
+   "views": 7506
   },
   {
    "date": "2026-10-16",
-   "views": 321
+   "views": 7260
   },
   {
    "date": "2026-10-17",
-   "views": 283
+   "views": 7237
   },
   {
    "date": "2026-10-18",
-   "views": 281
+   "views": 7844
   },
   {
    "date": "2026-10-19",
-   "views": 333
+   "views": 8114
   },
   {
    "date": "2026-10-20",
-   "views": 425
+   "views": 8491
   },
   {
    "date": "2026-10-21",
-   "views": 401
+   "views": 8395
   },
   {
    "date": "2026-10-22",
-   "views": 322
+   "views": 9141
   },
   {
    "date": "2026-10-23",
-   "views": 379
+   "views": 8752
   },
   {
    "date": "2026-10-24",
-   "views": 279
+   "views": 7926
   },
   {
    "date": "2026-10-25",
-   "views": 320
+   "views": 9376
   },
   {
    "date": "2026-10-26",
-   "views": 323
+   "views": 10347
   },
   {
    "date": "2026-10-27",
-   "views": 290
+   "views": 10297
   },
   {
    "date": "2026-10-28",
-   "views": 296
+   "views": 9973
   },
   {
    "date": "2026-10-29",
-   "views": 337
+   "views": 10660
   },
   {
    "date": "2026-10-30",
-   "views": 247
+   "views": 10842
   },
   {
    "date": "2026-10-31",
-   "views": 253
+   "views": 10121
   },
   {
    "date": "2026-11-01",
-   "views": 10877
+   "views": 12921
   },
   {
    "date": "2026-11-02",
-   "views": 64003
+   "views": 20077
+  },
+  {
+   "date": "2026-11-03",
+   "views": 43592
+  },
+  {
+   "date": "2026-11-04",
+   "views": 256501
   }
  ],
- "wikipedia_title": "Learjet",
+ "wikipedia_title": "Democratic_Party_(United_States)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

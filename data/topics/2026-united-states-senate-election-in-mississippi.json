@@ -1,197 +1,197 @@
 {
- "title": "Lenny Kravitz",
- "slug": "lenny-kravitz",
- "score": 30,
+ "title": "2026 United States Senate election in Mississippi",
+ "slug": "2026-united-states-senate-election-in-mississippi",
+ "score": 49,
  "status": "Breaking out",
- "change_percent": 438,
- "growth_ratio": 5.38,
- "recent_avg": 21502,
- "baseline_avg": 3998,
- "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
+ "change_percent": 2010,
+ "growth_ratio": 21.1,
+ "recent_avg": 51318,
+ "baseline_avg": 2432,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17504,
- "latest": 54406,
+ "abs_change": 48886,
+ "latest": 141842,
  "components": {
-  "acceleration": 0.43,
+  "acceleration": 0.779,
   "anomaly": 1.0,
-  "persistence": 0.2,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 0.666,
-  "spike_quality": 0.673
+  "volume": 0.855,
+  "spike_quality": 0.59
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 21,502 views/day over the last 3 days (30-day baseline: 3,998)."
+  "Averaging 51,318 views/day over the last 3 days (30-day baseline: 2,432)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 6076
-  },
-  {
-   "date": "2026-09-25",
-   "views": 5797
-  },
-  {
    "date": "2026-09-26",
-   "views": 6263
+   "views": 1053
   },
   {
    "date": "2026-09-27",
-   "views": 5638
+   "views": 1157
   },
   {
    "date": "2026-09-28",
-   "views": 4523
+   "views": 1814
   },
   {
    "date": "2026-09-29",
-   "views": 4901
+   "views": 2004
   },
   {
    "date": "2026-09-30",
-   "views": 4537
+   "views": 1229
   },
   {
    "date": "2026-10-01",
-   "views": 4003
+   "views": 1258
   },
   {
    "date": "2026-10-02",
-   "views": 4218
+   "views": 1247
   },
   {
    "date": "2026-10-03",
-   "views": 4952
+   "views": 1189
   },
   {
    "date": "2026-10-04",
-   "views": 4949
+   "views": 985
   },
   {
    "date": "2026-10-05",
-   "views": 3969
+   "views": 1104
   },
   {
    "date": "2026-10-06",
-   "views": 3918
+   "views": 1112
   },
   {
    "date": "2026-10-07",
-   "views": 3566
+   "views": 1134
   },
   {
    "date": "2026-10-08",
-   "views": 3464
+   "views": 1395
   },
   {
    "date": "2026-10-09",
-   "views": 3514
+   "views": 1084
   },
   {
    "date": "2026-10-10",
-   "views": 3892
+   "views": 1063
   },
   {
    "date": "2026-10-11",
-   "views": 3866
+   "views": 957
   },
   {
    "date": "2026-10-12",
-   "views": 3626
+   "views": 1460
   },
   {
    "date": "2026-10-13",
-   "views": 3312
+   "views": 1385
   },
   {
    "date": "2026-10-14",
-   "views": 3985
+   "views": 2811
   },
   {
    "date": "2026-10-15",
-   "views": 3823
+   "views": 3405
   },
   {
    "date": "2026-10-16",
-   "views": 3838
+   "views": 1853
   },
   {
    "date": "2026-10-17",
-   "views": 4514
+   "views": 1590
   },
   {
    "date": "2026-10-18",
-   "views": 4204
+   "views": 1864
   },
   {
    "date": "2026-10-19",
-   "views": 4894
+   "views": 2135
   },
   {
    "date": "2026-10-20",
-   "views": 7107
+   "views": 3208
   },
   {
    "date": "2026-10-21",
-   "views": 4216
+   "views": 3986
   },
   {
    "date": "2026-10-22",
-   "views": 3584
+   "views": 3877
   },
   {
    "date": "2026-10-23",
-   "views": 3859
+   "views": 3295
   },
   {
    "date": "2026-10-24",
-   "views": 4273
+   "views": 2847
   },
   {
    "date": "2026-10-25",
-   "views": 4169
+   "views": 2686
   },
   {
    "date": "2026-10-26",
-   "views": 3316
+   "views": 3833
   },
   {
    "date": "2026-10-27",
-   "views": 3215
+   "views": 5016
   },
   {
    "date": "2026-10-28",
-   "views": 3341
+   "views": 3953
   },
   {
    "date": "2026-10-29",
-   "views": 3162
+   "views": 3509
   },
   {
    "date": "2026-10-30",
-   "views": 3193
+   "views": 3405
   },
   {
    "date": "2026-10-31",
-   "views": 4334
+   "views": 3303
   },
   {
    "date": "2026-11-01",
-   "views": 5767
+   "views": 3513
   },
   {
    "date": "2026-11-02",
-   "views": 54406
+   "views": 5952
+  },
+  {
+   "date": "2026-11-03",
+   "views": 6161
+  },
+  {
+   "date": "2026-11-04",
+   "views": 141842
   }
  ],
- "wikipedia_title": "Lenny_Kravitz",
+ "wikipedia_title": "2026_United_States_Senate_election_in_Mississippi",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

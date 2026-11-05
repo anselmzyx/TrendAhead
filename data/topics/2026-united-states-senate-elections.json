@@ -1,198 +1,198 @@
 {
- "title": "List of Formula One World Drivers' Champions",
- "slug": "list-of-formula-one-world-drivers-champions",
- "score": 40,
+ "title": "2026 United States Senate elections",
+ "slug": "2026-united-states-senate-elections",
+ "score": 61,
  "status": "Breaking out",
- "change_percent": 439,
- "growth_ratio": 5.39,
- "recent_avg": 36728,
- "baseline_avg": 6815,
- "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
+ "change_percent": 983,
+ "growth_ratio": 10.83,
+ "recent_avg": 215505,
+ "baseline_avg": 19906,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 29913,
- "latest": 67466,
+ "abs_change": 195599,
+ "latest": 493851,
  "components": {
-  "acceleration": 0.431,
-  "anomaly": 0.891,
-  "persistence": 0.4,
+  "acceleration": 0.609,
+  "anomaly": 1.0,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.782,
-  "spike_quality": 0.783
+  "volume": 1.0,
+  "spike_quality": 0.708
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 36,728 views/day over the last 3 days (30-day baseline: 6,815)."
+  "Averaging 215,505 views/day over the last 3 days (30-day baseline: 19,906)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 3493
-  },
-  {
-   "date": "2026-09-25",
-   "views": 3928
-  },
-  {
    "date": "2026-09-26",
-   "views": 6017
+   "views": 12067
   },
   {
    "date": "2026-09-27",
-   "views": 4489
+   "views": 11519
   },
   {
    "date": "2026-09-28",
-   "views": 3865
+   "views": 13101
   },
   {
    "date": "2026-09-29",
-   "views": 3781
+   "views": 14312
   },
   {
    "date": "2026-09-30",
-   "views": 3684
+   "views": 13521
   },
   {
    "date": "2026-10-01",
-   "views": 3716
+   "views": 13154
   },
   {
    "date": "2026-10-02",
-   "views": 5001
+   "views": 14092
   },
   {
    "date": "2026-10-03",
-   "views": 7708
+   "views": 14173
   },
   {
    "date": "2026-10-04",
-   "views": 17896
+   "views": 13285
   },
   {
    "date": "2026-10-05",
-   "views": 10064
+   "views": 14957
   },
   {
    "date": "2026-10-06",
-   "views": 7507
+   "views": 17192
   },
   {
    "date": "2026-10-07",
-   "views": 6773
+   "views": 18007
   },
   {
    "date": "2026-10-08",
-   "views": 6103
+   "views": 17051
   },
   {
    "date": "2026-10-09",
-   "views": 5981
+   "views": 16625
   },
   {
    "date": "2026-10-10",
-   "views": 8634
+   "views": 14843
   },
   {
    "date": "2026-10-11",
-   "views": 15673
+   "views": 14886
   },
   {
    "date": "2026-10-12",
-   "views": 9306
+   "views": 18127
   },
   {
    "date": "2026-10-13",
-   "views": 6923
+   "views": 17697
   },
   {
    "date": "2026-10-14",
-   "views": 5494
+   "views": 17222
   },
   {
    "date": "2026-10-15",
-   "views": 4937
+   "views": 17275
   },
   {
    "date": "2026-10-16",
-   "views": 4517
+   "views": 16856
   },
   {
    "date": "2026-10-17",
-   "views": 4438
+   "views": 14989
   },
   {
    "date": "2026-10-18",
-   "views": 4655
+   "views": 15764
   },
   {
    "date": "2026-10-19",
-   "views": 4575
+   "views": 19067
   },
   {
    "date": "2026-10-20",
-   "views": 4203
+   "views": 20894
   },
   {
    "date": "2026-10-21",
-   "views": 4244
+   "views": 21716
   },
   {
    "date": "2026-10-22",
-   "views": 3879
+   "views": 23252
   },
   {
    "date": "2026-10-23",
-   "views": 4465
+   "views": 20230
   },
   {
    "date": "2026-10-24",
-   "views": 5013
+   "views": 17319
   },
   {
    "date": "2026-10-25",
-   "views": 11415
+   "views": 18257
   },
   {
    "date": "2026-10-26",
-   "views": 10350
+   "views": 23628
   },
   {
    "date": "2026-10-27",
-   "views": 6209
+   "views": 25534
   },
   {
    "date": "2026-10-28",
-   "views": 4946
+   "views": 26406
   },
   {
    "date": "2026-10-29",
-   "views": 4560
+   "views": 28724
   },
   {
    "date": "2026-10-30",
-   "views": 5259
+   "views": 31205
   },
   {
    "date": "2026-10-31",
-   "views": 5974
+   "views": 27666
   },
   {
    "date": "2026-11-01",
-   "views": 36743
+   "views": 34336
   },
   {
    "date": "2026-11-02",
-   "views": 67466
+   "views": 61876
+  },
+  {
+   "date": "2026-11-03",
+   "views": 90787
+  },
+  {
+   "date": "2026-11-04",
+   "views": 493851
   }
  ],
- "wikipedia_title": "List_of_Formula_One_World_Drivers'_Champions",
+ "wikipedia_title": "2026_United_States_Senate_elections",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

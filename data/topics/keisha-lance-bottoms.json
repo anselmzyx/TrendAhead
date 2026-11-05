@@ -1,196 +1,197 @@
 {
- "title": "2026 Palm Beach County Learjet 60 crash",
- "slug": "2026-palm-beach-county-learjet-60-crash",
- "score": 36,
+ "title": "Keisha Lance Bottoms",
+ "slug": "keisha-lance-bottoms",
+ "score": 54,
  "status": "Breaking out",
- "change_percent": null,
- "growth_ratio": 736.53,
- "recent_avg": 73653,
- "baseline_avg": 0,
- "explanation": "Attention is 737\u00d7 its 30-day baseline.",
+ "change_percent": 3466,
+ "growth_ratio": 35.66,
+ "recent_avg": 151108,
+ "baseline_avg": 4238,
+ "explanation": "Attention is 36\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 73653,
- "latest": 220959,
+ "abs_change": 146870,
+ "latest": 431379,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.914,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.934,
-  "spike_quality": 0.5
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.563
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 73,653 views/day over the last 3 days (30-day baseline: 0)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 151,108 views/day over the last 3 days (30-day baseline: 4,238)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 0
-  },
-  {
-   "date": "2026-09-25",
-   "views": 0
-  },
-  {
    "date": "2026-09-26",
-   "views": 0
+   "views": 1645
   },
   {
    "date": "2026-09-27",
-   "views": 0
+   "views": 1742
   },
   {
    "date": "2026-09-28",
-   "views": 0
+   "views": 2464
   },
   {
    "date": "2026-09-29",
-   "views": 0
+   "views": 1979
   },
   {
    "date": "2026-09-30",
-   "views": 0
+   "views": 1932
   },
   {
    "date": "2026-10-01",
-   "views": 0
+   "views": 1780
   },
   {
    "date": "2026-10-02",
-   "views": 0
+   "views": 1818
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 1695
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 1962
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 2291
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 2256
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 4863
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 3300
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 3701
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 2193
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 2379
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 2395
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 4024
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 3039
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 3320
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 3656
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 4437
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 4736
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 4304
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 3681
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 4031
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 4138
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 5240
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 4081
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 4548
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 4289
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 4438
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 7604
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 13208
   },
   {
    "date": "2026-10-30",
-   "views": 0
+   "views": 6793
   },
   {
    "date": "2026-10-31",
-   "views": 0
+   "views": 5240
   },
   {
    "date": "2026-11-01",
-   "views": 0
+   "views": 5298
   },
   {
    "date": "2026-11-02",
-   "views": 220959
+   "views": 6887
+  },
+  {
+   "date": "2026-11-03",
+   "views": 15059
+  },
+  {
+   "date": "2026-11-04",
+   "views": 431379
   }
  ],
- "wikipedia_title": "2026_Palm_Beach_County_Learjet_60_crash",
+ "wikipedia_title": "Keisha_Lance_Bottoms",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

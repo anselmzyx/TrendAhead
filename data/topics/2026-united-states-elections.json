@@ -1,42 +1,34 @@
 {
  "title": "2026 United States elections",
  "slug": "2026-united-states-elections",
- "score": 50,
- "status": "Building",
- "change_percent": 202,
- "growth_ratio": 3.02,
- "recent_avg": 122215,
- "baseline_avg": 40513,
- "explanation": "Attention is 3.0\u00d7 its 30-day baseline.",
+ "score": 70,
+ "status": "Breaking out",
+ "change_percent": 1252,
+ "growth_ratio": 13.52,
+ "recent_avg": 603247,
+ "baseline_avg": 44619,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 81702,
- "latest": 201102,
+ "abs_change": 558628,
+ "latest": 1153444,
  "components": {
-  "acceleration": 0.282,
-  "anomaly": 0.492,
-  "persistence": 0.84,
-  "momentum": 0.933,
+  "acceleration": 0.666,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.903
+  "spike_quality": 0.766
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 122,215 views/day over the last 3 days (30-day baseline: 40,513)."
+  "Averaging 603,247 views/day over the last 3 days (30-day baseline: 44,619)."
  ],
  "history": [
-  {
-   "date": "2026-09-24",
-   "views": 20235
-  },
-  {
-   "date": "2026-09-25",
-   "views": 18364
-  },
   {
    "date": "2026-09-26",
    "views": 19542
@@ -188,11 +180,19 @@
   {
    "date": "2026-11-02",
    "views": 201102
+  },
+  {
+   "date": "2026-11-03",
+   "views": 455194
+  },
+  {
+   "date": "2026-11-04",
+   "views": 1153444
   }
  ],
  "wikipedia_title": "2026_United_States_elections",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

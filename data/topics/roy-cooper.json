@@ -1,196 +1,197 @@
 {
- "title": "Gardner Minshew",
- "slug": "gardner-minshew",
- "score": 33,
- "status": "Elevated",
- "change_percent": 5736,
- "growth_ratio": 58.31,
- "recent_avg": 36357,
- "baseline_avg": 623,
- "explanation": "Attention is 58\u00d7 its 30-day baseline.",
+ "title": "Roy Cooper",
+ "slug": "roy-cooper",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 1560,
+ "growth_ratio": 16.6,
+ "recent_avg": 42530,
+ "baseline_avg": 2562,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35734,
- "latest": 44640,
+ "abs_change": 39968,
+ "latest": 108116,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.718,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.551,
-  "volume": 0.78,
-  "spike_quality": 0.594
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.814,
+  "spike_quality": 0.631
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 36,357 views/day over the last 3 days (30-day baseline: 623)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 42,530 views/day over the last 3 days (30-day baseline: 2,562)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 1027
-  },
-  {
-   "date": "2026-09-25",
-   "views": 1133
-  },
-  {
    "date": "2026-09-26",
-   "views": 695
+   "views": 1505
   },
   {
    "date": "2026-09-27",
-   "views": 1540
+   "views": 1460
   },
   {
    "date": "2026-09-28",
-   "views": 1355
+   "views": 1755
   },
   {
    "date": "2026-09-29",
-   "views": 1027
+   "views": 1938
   },
   {
    "date": "2026-09-30",
-   "views": 478
+   "views": 1559
   },
   {
    "date": "2026-10-01",
-   "views": 469
+   "views": 1590
   },
   {
    "date": "2026-10-02",
-   "views": 544
+   "views": 3307
   },
   {
    "date": "2026-10-03",
-   "views": 470
+   "views": 2615
   },
   {
    "date": "2026-10-04",
-   "views": 1173
+   "views": 2227
   },
   {
    "date": "2026-10-05",
-   "views": 758
+   "views": 2369
   },
   {
    "date": "2026-10-06",
-   "views": 502
+   "views": 2501
   },
   {
    "date": "2026-10-07",
-   "views": 412
+   "views": 1999
   },
   {
    "date": "2026-10-08",
-   "views": 382
+   "views": 1763
   },
   {
    "date": "2026-10-09",
-   "views": 511
+   "views": 1600
   },
   {
    "date": "2026-10-10",
-   "views": 482
+   "views": 1580
   },
   {
    "date": "2026-10-11",
-   "views": 950
+   "views": 1493
   },
   {
    "date": "2026-10-12",
-   "views": 789
+   "views": 2066
   },
   {
    "date": "2026-10-13",
-   "views": 599
+   "views": 2210
   },
   {
    "date": "2026-10-14",
-   "views": 445
+   "views": 2124
   },
   {
    "date": "2026-10-15",
-   "views": 574
+   "views": 3026
   },
   {
    "date": "2026-10-16",
-   "views": 564
+   "views": 2920
   },
   {
    "date": "2026-10-17",
-   "views": 493
+   "views": 2161
   },
   {
    "date": "2026-10-18",
-   "views": 1410
+   "views": 2124
   },
   {
    "date": "2026-10-19",
-   "views": 1121
+   "views": 2335
   },
   {
    "date": "2026-10-20",
-   "views": 879
+   "views": 2810
   },
   {
    "date": "2026-10-21",
-   "views": 489
+   "views": 3951
   },
   {
    "date": "2026-10-22",
-   "views": 383
+   "views": 3217
   },
   {
    "date": "2026-10-23",
-   "views": 521
+   "views": 3590
   },
   {
    "date": "2026-10-24",
-   "views": 391
+   "views": 2921
   },
   {
    "date": "2026-10-25",
-   "views": 862
+   "views": 2974
   },
   {
    "date": "2026-10-26",
-   "views": 764
+   "views": 2694
   },
   {
    "date": "2026-10-27",
-   "views": 627
+   "views": 3138
   },
   {
    "date": "2026-10-28",
-   "views": 399
+   "views": 2647
   },
   {
    "date": "2026-10-29",
-   "views": 347
+   "views": 2692
   },
   {
    "date": "2026-10-30",
-   "views": 394
+   "views": 2922
   },
   {
    "date": "2026-10-31",
-   "views": 349
+   "views": 2638
   },
   {
    "date": "2026-11-01",
-   "views": 64081
+   "views": 3562
   },
   {
    "date": "2026-11-02",
-   "views": 44640
+   "views": 6440
+  },
+  {
+   "date": "2026-11-03",
+   "views": 13035
+  },
+  {
+   "date": "2026-11-04",
+   "views": 108116
   }
  ],
- "wikipedia_title": "Gardner_Minshew",
+ "wikipedia_title": "Roy_Cooper",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Jack Campbell (American football)",
- "slug": "jack-campbell-american-football",
- "score": 51,
+ "title": "Greg Abbott",
+ "slug": "greg-abbott",
+ "score": 53,
  "status": "Breaking out",
- "change_percent": 14941,
- "growth_ratio": 150.24,
- "recent_avg": 59564,
- "baseline_avg": 396,
- "explanation": "Attention is 150\u00d7 its 30-day baseline.",
+ "change_percent": 2623,
+ "growth_ratio": 27.23,
+ "recent_avg": 116918,
+ "baseline_avg": 4293,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 59168,
- "latest": 128845,
+ "abs_change": 112625,
+ "latest": 327943,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.845,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.887,
-  "spike_quality": 0.665
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.573
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 59,564 views/day over the last 3 days (30-day baseline: 396)."
+  "Averaging 116,918 views/day over the last 3 days (30-day baseline: 4,293)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 229
-  },
-  {
-   "date": "2026-09-25",
-   "views": 294
-  },
-  {
    "date": "2026-09-26",
-   "views": 327
+   "views": 2517
   },
   {
    "date": "2026-09-27",
-   "views": 787
+   "views": 2235
   },
   {
    "date": "2026-09-28",
-   "views": 384
+   "views": 2495
   },
   {
    "date": "2026-09-29",
-   "views": 255
+   "views": 2931
   },
   {
    "date": "2026-09-30",
-   "views": 221
+   "views": 2542
   },
   {
    "date": "2026-10-01",
-   "views": 232
+   "views": 2811
   },
   {
    "date": "2026-10-02",
-   "views": 235
+   "views": 2449
   },
   {
    "date": "2026-10-03",
-   "views": 261
+   "views": 2635
   },
   {
    "date": "2026-10-04",
-   "views": 243
+   "views": 3077
   },
   {
    "date": "2026-10-05",
-   "views": 2670
+   "views": 2913
   },
   {
    "date": "2026-10-06",
-   "views": 406
+   "views": 2936
   },
   {
    "date": "2026-10-07",
-   "views": 249
+   "views": 3333
   },
   {
    "date": "2026-10-08",
-   "views": 249
+   "views": 4288
   },
   {
    "date": "2026-10-09",
-   "views": 242
+   "views": 3362
   },
   {
    "date": "2026-10-10",
-   "views": 294
+   "views": 3292
   },
   {
    "date": "2026-10-11",
-   "views": 487
+   "views": 3999
   },
   {
    "date": "2026-10-12",
-   "views": 381
+   "views": 3316
   },
   {
    "date": "2026-10-13",
-   "views": 211
+   "views": 3630
   },
   {
    "date": "2026-10-14",
-   "views": 576
+   "views": 3322
   },
   {
    "date": "2026-10-15",
-   "views": 459
+   "views": 3953
   },
   {
    "date": "2026-10-16",
-   "views": 419
+   "views": 3706
   },
   {
    "date": "2026-10-17",
-   "views": 279
+   "views": 3855
   },
   {
    "date": "2026-10-18",
-   "views": 326
+   "views": 3529
   },
   {
    "date": "2026-10-19",
-   "views": 348
+   "views": 4217
   },
   {
    "date": "2026-10-20",
-   "views": 293
+   "views": 4844
   },
   {
    "date": "2026-10-21",
-   "views": 228
+   "views": 4610
   },
   {
    "date": "2026-10-22",
-   "views": 202
+   "views": 5044
   },
   {
    "date": "2026-10-23",
-   "views": 180
+   "views": 4709
   },
   {
    "date": "2026-10-24",
-   "views": 178
+   "views": 4834
   },
   {
    "date": "2026-10-25",
-   "views": 1053
+   "views": 5401
   },
   {
    "date": "2026-10-26",
-   "views": 424
+   "views": 4998
   },
   {
    "date": "2026-10-27",
-   "views": 211
+   "views": 5597
   },
   {
    "date": "2026-10-28",
-   "views": 188
+   "views": 5448
   },
   {
    "date": "2026-10-29",
-   "views": 194
+   "views": 6465
   },
   {
    "date": "2026-10-30",
-   "views": 176
+   "views": 5482
   },
   {
    "date": "2026-10-31",
-   "views": 145
+   "views": 5689
   },
   {
    "date": "2026-11-01",
-   "views": 49701
+   "views": 6319
   },
   {
    "date": "2026-11-02",
-   "views": 128845
+   "views": 7464
+  },
+  {
+   "date": "2026-11-03",
+   "views": 15347
+  },
+  {
+   "date": "2026-11-04",
+   "views": 327943
   }
  ],
- "wikipedia_title": "Jack_Campbell_(American_football)",
+ "wikipedia_title": "Greg_Abbott",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "Haley Stevens",
- "slug": "haley-stevens",
- "score": 80,
+ "title": "Hakeem Jeffries",
+ "slug": "hakeem-jeffries",
+ "score": 58,
  "status": "Breaking out",
- "change_percent": 10263,
- "growth_ratio": 103.64,
- "recent_avg": 320624,
- "baseline_avg": 3094,
- "explanation": "Attention is 104\u00d7 its 30-day baseline.",
+ "change_percent": 3380,
+ "growth_ratio": 34.8,
+ "recent_avg": 76464,
+ "baseline_avg": 2197,
+ "explanation": "Attention is 35\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 317530,
- "latest": 548345,
+ "abs_change": 74267,
+ "latest": 214253,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.907,
   "anomaly": 1.0,
-  "persistence": 0.92,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.766
+  "volume": 0.942,
+  "spike_quality": 0.566
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 320,624 views/day over the last 3 days (30-day baseline: 3,094)."
+  "Averaging 76,464 views/day over the last 3 days (30-day baseline: 2,197)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 923
-  },
-  {
-   "date": "2026-09-25",
-   "views": 851
-  },
-  {
    "date": "2026-09-26",
-   "views": 718
+   "views": 1305
   },
   {
    "date": "2026-09-27",
-   "views": 695
+   "views": 1215
   },
   {
    "date": "2026-09-28",
-   "views": 730
+   "views": 1522
   },
   {
    "date": "2026-09-29",
-   "views": 711
+   "views": 2240
   },
   {
    "date": "2026-09-30",
-   "views": 713
+   "views": 2646
   },
   {
    "date": "2026-10-01",
-   "views": 618
+   "views": 1352
   },
   {
    "date": "2026-10-02",
-   "views": 564
+   "views": 1436
   },
   {
    "date": "2026-10-03",
-   "views": 570
+   "views": 1331
   },
   {
    "date": "2026-10-04",
-   "views": 571
+   "views": 1184
   },
   {
    "date": "2026-10-05",
-   "views": 594
+   "views": 1631
   },
   {
    "date": "2026-10-06",
-   "views": 2111
+   "views": 1655
   },
   {
    "date": "2026-10-07",
-   "views": 1765
+   "views": 1266
   },
   {
    "date": "2026-10-08",
-   "views": 1613
+   "views": 1667
   },
   {
    "date": "2026-10-09",
-   "views": 2513
+   "views": 1455
   },
   {
    "date": "2026-10-10",
-   "views": 1384
+   "views": 1273
   },
   {
    "date": "2026-10-11",
-   "views": 1425
+   "views": 1363
   },
   {
    "date": "2026-10-12",
-   "views": 1261
+   "views": 1824
   },
   {
    "date": "2026-10-13",
-   "views": 1006
+   "views": 1634
   },
   {
    "date": "2026-10-14",
-   "views": 1065
+   "views": 1900
   },
   {
    "date": "2026-10-15",
-   "views": 1180
+   "views": 1828
   },
   {
    "date": "2026-10-16",
-   "views": 2153
+   "views": 1857
   },
   {
    "date": "2026-10-17",
-   "views": 1672
+   "views": 1858
   },
   {
    "date": "2026-10-18",
-   "views": 2984
+   "views": 1895
   },
   {
    "date": "2026-10-19",
-   "views": 3009
+   "views": 2149
   },
   {
    "date": "2026-10-20",
-   "views": 2523
+   "views": 2320
   },
   {
    "date": "2026-10-21",
-   "views": 2129
+   "views": 2053
   },
   {
    "date": "2026-10-22",
-   "views": 2262
+   "views": 2685
   },
   {
    "date": "2026-10-23",
-   "views": 1862
+   "views": 2978
   },
   {
    "date": "2026-10-24",
-   "views": 1681
+   "views": 2329
   },
   {
    "date": "2026-10-25",
-   "views": 3674
+   "views": 4105
   },
   {
    "date": "2026-10-26",
-   "views": 4116
+   "views": 3609
   },
   {
    "date": "2026-10-27",
-   "views": 3581
+   "views": 2889
   },
   {
    "date": "2026-10-28",
-   "views": 4150
+   "views": 2818
   },
   {
    "date": "2026-10-29",
-   "views": 20771
+   "views": 2944
   },
   {
    "date": "2026-10-30",
-   "views": 18004
+   "views": 2800
   },
   {
    "date": "2026-10-31",
-   "views": 53379
+   "views": 2764
   },
   {
    "date": "2026-11-01",
-   "views": 360148
+   "views": 3846
   },
   {
    "date": "2026-11-02",
-   "views": 548345
+   "views": 5424
+  },
+  {
+   "date": "2026-11-03",
+   "views": 9716
+  },
+  {
+   "date": "2026-11-04",
+   "views": 214253
   }
  ],
- "wikipedia_title": "Haley_Stevens",
+ "wikipedia_title": "Hakeem_Jeffries",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

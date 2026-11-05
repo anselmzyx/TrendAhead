@@ -1,198 +1,197 @@
 {
- "title": "Heidi Klum",
- "slug": "heidi-klum",
- "score": 26,
- "status": "Peaked / fading",
- "change_percent": 1367,
- "growth_ratio": 14.67,
- "recent_avg": 68935,
- "baseline_avg": 4698,
- "explanation": "Attention surged to 15\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Ted Cruz",
+ "slug": "ted-cruz",
+ "score": 49,
+ "status": "Breaking out",
+ "change_percent": 977,
+ "growth_ratio": 10.77,
+ "recent_avg": 45374,
+ "baseline_avg": 4212,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 64237,
- "latest": 49970,
+ "abs_change": 41162,
+ "latest": 119679,
  "components": {
-  "acceleration": 0.687,
+  "acceleration": 0.608,
   "anomaly": 1.0,
   "persistence": 0.72,
-  "momentum": 0.411,
-  "volume": 0.919,
-  "spike_quality": 0.395
+  "momentum": 0.933,
+  "volume": 0.828,
+  "spike_quality": 0.665
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 68,935 views/day over the last 3 days (30-day baseline: 4,698)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 45,374 views/day over the last 3 days (30-day baseline: 4,212)."
  ],
  "history": [
   {
-   "date": "2026-09-24",
-   "views": 2585
-  },
-  {
-   "date": "2026-09-25",
-   "views": 2711
-  },
-  {
    "date": "2026-09-26",
-   "views": 2863
+   "views": 2524
   },
   {
    "date": "2026-09-27",
-   "views": 2758
+   "views": 2398
   },
   {
    "date": "2026-09-28",
-   "views": 5516
+   "views": 2415
   },
   {
    "date": "2026-09-29",
-   "views": 2380
+   "views": 3351
   },
   {
    "date": "2026-09-30",
-   "views": 2169
+   "views": 3229
   },
   {
    "date": "2026-10-01",
-   "views": 2227
+   "views": 3050
   },
   {
    "date": "2026-10-02",
-   "views": 2477
+   "views": 3056
   },
   {
    "date": "2026-10-03",
-   "views": 8809
+   "views": 2845
   },
   {
    "date": "2026-10-04",
-   "views": 11690
+   "views": 3353
   },
   {
    "date": "2026-10-05",
-   "views": 6149
+   "views": 2762
   },
   {
    "date": "2026-10-06",
-   "views": 4950
+   "views": 2634
   },
   {
    "date": "2026-10-07",
-   "views": 4466
+   "views": 2887
   },
   {
    "date": "2026-10-08",
-   "views": 3213
+   "views": 3011
   },
   {
    "date": "2026-10-09",
-   "views": 5028
+   "views": 2788
   },
   {
    "date": "2026-10-10",
-   "views": 8177
+   "views": 2444
   },
   {
    "date": "2026-10-11",
-   "views": 6002
+   "views": 2412
   },
   {
    "date": "2026-10-12",
-   "views": 3539
+   "views": 2708
   },
   {
    "date": "2026-10-13",
-   "views": 2877
+   "views": 2925
   },
   {
    "date": "2026-10-14",
-   "views": 2462
+   "views": 2612
   },
   {
    "date": "2026-10-15",
-   "views": 2602
+   "views": 2781
   },
   {
    "date": "2026-10-16",
-   "views": 2570
+   "views": 2671
   },
   {
    "date": "2026-10-17",
-   "views": 2478
+   "views": 2591
   },
   {
    "date": "2026-10-18",
-   "views": 2723
+   "views": 2876
   },
   {
    "date": "2026-10-19",
-   "views": 5984
+   "views": 3158
   },
   {
    "date": "2026-10-20",
-   "views": 4562
+   "views": 3245
   },
   {
    "date": "2026-10-21",
-   "views": 3505
+   "views": 3676
   },
   {
    "date": "2026-10-22",
-   "views": 3305
+   "views": 3657
   },
   {
    "date": "2026-10-23",
-   "views": 2964
+   "views": 4715
   },
   {
    "date": "2026-10-24",
-   "views": 4583
+   "views": 5012
   },
   {
    "date": "2026-10-25",
-   "views": 8246
+   "views": 6785
   },
   {
    "date": "2026-10-26",
-   "views": 5359
+   "views": 6715
   },
   {
    "date": "2026-10-27",
-   "views": 4082
+   "views": 4423
   },
   {
    "date": "2026-10-28",
-   "views": 4100
+   "views": 9849
   },
   {
    "date": "2026-10-29",
-   "views": 4181
+   "views": 8987
   },
   {
    "date": "2026-10-30",
-   "views": 7643
+   "views": 6293
   },
   {
    "date": "2026-10-31",
-   "views": 15022
+   "views": 7960
   },
   {
    "date": "2026-11-01",
-   "views": 141812
+   "views": 7576
   },
   {
    "date": "2026-11-02",
-   "views": 49970
+   "views": 6235
+  },
+  {
+   "date": "2026-11-03",
+   "views": 10208
+  },
+  {
+   "date": "2026-11-04",
+   "views": 119679
   }
  ],
- "wikipedia_title": "Heidi_Klum",
+ "wikipedia_title": "Ted_Cruz",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-02",
- "generated_at_utc": "2026-11-03T12:58:16+00:00"
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
 }

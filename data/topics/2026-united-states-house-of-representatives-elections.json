@@ -1,0 +1,197 @@
+{
+ "title": "2026 United States House of Representatives elections",
+ "slug": "2026-united-states-house-of-representatives-elections",
+ "score": 61,
+ "status": "Breaking out",
+ "change_percent": 1288,
+ "growth_ratio": 13.88,
+ "recent_avg": 107487,
+ "baseline_avg": 7742,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 99745,
+ "latest": 249406,
+ "components": {
+  "acceleration": 0.672,
+  "anomaly": 1.0,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.684
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 107,487 views/day over the last 3 days (30-day baseline: 7,742)."
+ ],
+ "history": [
+  {
+   "date": "2026-09-26",
+   "views": 5253
+  },
+  {
+   "date": "2026-09-27",
+   "views": 4955
+  },
+  {
+   "date": "2026-09-28",
+   "views": 5479
+  },
+  {
+   "date": "2026-09-29",
+   "views": 5872
+  },
+  {
+   "date": "2026-09-30",
+   "views": 5343
+  },
+  {
+   "date": "2026-10-01",
+   "views": 5305
+  },
+  {
+   "date": "2026-10-02",
+   "views": 5327
+  },
+  {
+   "date": "2026-10-03",
+   "views": 5310
+  },
+  {
+   "date": "2026-10-04",
+   "views": 5275
+  },
+  {
+   "date": "2026-10-05",
+   "views": 6456
+  },
+  {
+   "date": "2026-10-06",
+   "views": 6189
+  },
+  {
+   "date": "2026-10-07",
+   "views": 6255
+  },
+  {
+   "date": "2026-10-08",
+   "views": 6363
+  },
+  {
+   "date": "2026-10-09",
+   "views": 6450
+  },
+  {
+   "date": "2026-10-10",
+   "views": 6098
+  },
+  {
+   "date": "2026-10-11",
+   "views": 5823
+  },
+  {
+   "date": "2026-10-12",
+   "views": 6906
+  },
+  {
+   "date": "2026-10-13",
+   "views": 7142
+  },
+  {
+   "date": "2026-10-14",
+   "views": 7690
+  },
+  {
+   "date": "2026-10-15",
+   "views": 7434
+  },
+  {
+   "date": "2026-10-16",
+   "views": 7264
+  },
+  {
+   "date": "2026-10-17",
+   "views": 6770
+  },
+  {
+   "date": "2026-10-18",
+   "views": 6725
+  },
+  {
+   "date": "2026-10-19",
+   "views": 7992
+  },
+  {
+   "date": "2026-10-20",
+   "views": 8189
+  },
+  {
+   "date": "2026-10-21",
+   "views": 8400
+  },
+  {
+   "date": "2026-10-22",
+   "views": 8436
+  },
+  {
+   "date": "2026-10-23",
+   "views": 8865
+  },
+  {
+   "date": "2026-10-24",
+   "views": 7754
+  },
+  {
+   "date": "2026-10-25",
+   "views": 7824
+  },
+  {
+   "date": "2026-10-26",
+   "views": 9908
+  },
+  {
+   "date": "2026-10-27",
+   "views": 9400
+  },
+  {
+   "date": "2026-10-28",
+   "views": 9674
+  },
+  {
+   "date": "2026-10-29",
+   "views": 9425
+  },
+  {
+   "date": "2026-10-30",
+   "views": 10190
+  },
+  {
+   "date": "2026-10-31",
+   "views": 9783
+  },
+  {
+   "date": "2026-11-01",
+   "views": 12269
+  },
+  {
+   "date": "2026-11-02",
+   "views": 22748
+  },
+  {
+   "date": "2026-11-03",
+   "views": 50307
+  },
+  {
+   "date": "2026-11-04",
+   "views": 249406
+  }
+ ],
+ "wikipedia_title": "2026_United_States_House_of_Representatives_elections",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-04",
+ "generated_at_utc": "2026-11-05T13:27:41+00:00"
+}
