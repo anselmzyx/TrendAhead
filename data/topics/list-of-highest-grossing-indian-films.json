@@ -1,0 +1,198 @@
+{
+ "title": "List of highest-grossing Indian films",
+ "slug": "list-of-highest-grossing-indian-films",
+ "score": 38,
+ "status": "Building",
+ "change_percent": 168,
+ "growth_ratio": 2.68,
+ "recent_avg": 49427,
+ "baseline_avg": 18414,
+ "explanation": "Attention is 2.7\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 31013,
+ "latest": 78704,
+ "components": {
+  "acceleration": 0.252,
+  "anomaly": 0.509,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.847,
+  "spike_quality": 0.886
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 49,427 views/day over the last 3 days (30-day baseline: 18,414)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 7555
+  },
+  {
+   "date": "2026-10-02",
+   "views": 9637
+  },
+  {
+   "date": "2026-10-03",
+   "views": 9322
+  },
+  {
+   "date": "2026-10-04",
+   "views": 10885
+  },
+  {
+   "date": "2026-10-05",
+   "views": 11263
+  },
+  {
+   "date": "2026-10-06",
+   "views": 10039
+  },
+  {
+   "date": "2026-10-07",
+   "views": 9272
+  },
+  {
+   "date": "2026-10-08",
+   "views": 8955
+  },
+  {
+   "date": "2026-10-09",
+   "views": 8883
+  },
+  {
+   "date": "2026-10-10",
+   "views": 11000
+  },
+  {
+   "date": "2026-10-11",
+   "views": 11824
+  },
+  {
+   "date": "2026-10-12",
+   "views": 10989
+  },
+  {
+   "date": "2026-10-13",
+   "views": 10282
+  },
+  {
+   "date": "2026-10-14",
+   "views": 10362
+  },
+  {
+   "date": "2026-10-15",
+   "views": 11486
+  },
+  {
+   "date": "2026-10-16",
+   "views": 13284
+  },
+  {
+   "date": "2026-10-17",
+   "views": 14313
+  },
+  {
+   "date": "2026-10-18",
+   "views": 18332
+  },
+  {
+   "date": "2026-10-19",
+   "views": 23305
+  },
+  {
+   "date": "2026-10-20",
+   "views": 24118
+  },
+  {
+   "date": "2026-10-21",
+   "views": 24900
+  },
+  {
+   "date": "2026-10-22",
+   "views": 25478
+  },
+  {
+   "date": "2026-10-23",
+   "views": 25034
+  },
+  {
+   "date": "2026-10-24",
+   "views": 25612
+  },
+  {
+   "date": "2026-10-25",
+   "views": 24682
+  },
+  {
+   "date": "2026-10-26",
+   "views": 29231
+  },
+  {
+   "date": "2026-10-27",
+   "views": 24178
+  },
+  {
+   "date": "2026-10-28",
+   "views": 20941
+  },
+  {
+   "date": "2026-10-29",
+   "views": 18933
+  },
+  {
+   "date": "2026-10-30",
+   "views": 16566
+  },
+  {
+   "date": "2026-10-31",
+   "views": 16447
+  },
+  {
+   "date": "2026-11-01",
+   "views": 18313
+  },
+  {
+   "date": "2026-11-02",
+   "views": 20835
+  },
+  {
+   "date": "2026-11-03",
+   "views": 18379
+  },
+  {
+   "date": "2026-11-04",
+   "views": 15910
+  },
+  {
+   "date": "2026-11-05",
+   "views": 22410
+  },
+  {
+   "date": "2026-11-06",
+   "views": 27440
+  },
+  {
+   "date": "2026-11-07",
+   "views": 28024
+  },
+  {
+   "date": "2026-11-08",
+   "views": 41553
+  },
+  {
+   "date": "2026-11-09",
+   "views": 78704
+  }
+ ],
+ "wikipedia_title": "List_of_highest-grossing_Indian_films",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

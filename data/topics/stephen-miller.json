@@ -1,0 +1,197 @@
+{
+ "title": "Stephen Miller",
+ "slug": "stephen-miller",
+ "score": 23,
+ "status": "Peaked / fading",
+ "change_percent": 1813,
+ "growth_ratio": 19.14,
+ "recent_avg": 218636,
+ "baseline_avg": 11426,
+ "explanation": "Attention surged to 19\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 207210,
+ "latest": 117127,
+ "components": {
+  "acceleration": 0.754,
+  "anomaly": 0.533,
+  "persistence": 0.64,
+  "momentum": 0.255,
+  "volume": 1.0,
+  "spike_quality": 0.499
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 218,636 views/day over the last 3 days (30-day baseline: 11,426)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 2457
+  },
+  {
+   "date": "2026-10-02",
+   "views": 3573
+  },
+  {
+   "date": "2026-10-03",
+   "views": 3599
+  },
+  {
+   "date": "2026-10-04",
+   "views": 2246
+  },
+  {
+   "date": "2026-10-05",
+   "views": 2160
+  },
+  {
+   "date": "2026-10-06",
+   "views": 1995
+  },
+  {
+   "date": "2026-10-07",
+   "views": 2005
+  },
+  {
+   "date": "2026-10-08",
+   "views": 2693
+  },
+  {
+   "date": "2026-10-09",
+   "views": 3859
+  },
+  {
+   "date": "2026-10-10",
+   "views": 3218
+  },
+  {
+   "date": "2026-10-11",
+   "views": 3398
+  },
+  {
+   "date": "2026-10-12",
+   "views": 3203
+  },
+  {
+   "date": "2026-10-13",
+   "views": 3201
+  },
+  {
+   "date": "2026-10-14",
+   "views": 4530
+  },
+  {
+   "date": "2026-10-15",
+   "views": 4793
+  },
+  {
+   "date": "2026-10-16",
+   "views": 4692
+  },
+  {
+   "date": "2026-10-17",
+   "views": 3997
+  },
+  {
+   "date": "2026-10-18",
+   "views": 2885
+  },
+  {
+   "date": "2026-10-19",
+   "views": 2953
+  },
+  {
+   "date": "2026-10-20",
+   "views": 2802
+  },
+  {
+   "date": "2026-10-21",
+   "views": 3432
+  },
+  {
+   "date": "2026-10-22",
+   "views": 2491
+  },
+  {
+   "date": "2026-10-23",
+   "views": 2350
+  },
+  {
+   "date": "2026-10-24",
+   "views": 1946
+  },
+  {
+   "date": "2026-10-25",
+   "views": 2038
+  },
+  {
+   "date": "2026-10-26",
+   "views": 1937
+  },
+  {
+   "date": "2026-10-27",
+   "views": 1865
+  },
+  {
+   "date": "2026-10-28",
+   "views": 1798
+  },
+  {
+   "date": "2026-10-29",
+   "views": 1876
+  },
+  {
+   "date": "2026-10-30",
+   "views": 3880
+  },
+  {
+   "date": "2026-10-31",
+   "views": 6809
+  },
+  {
+   "date": "2026-11-01",
+   "views": 9132
+  },
+  {
+   "date": "2026-11-02",
+   "views": 9146
+  },
+  {
+   "date": "2026-11-03",
+   "views": 6284
+  },
+  {
+   "date": "2026-11-04",
+   "views": 10803
+  },
+  {
+   "date": "2026-11-05",
+   "views": 10530
+  },
+  {
+   "date": "2026-11-06",
+   "views": 220230
+  },
+  {
+   "date": "2026-11-07",
+   "views": 373906
+  },
+  {
+   "date": "2026-11-08",
+   "views": 164875
+  },
+  {
+   "date": "2026-11-09",
+   "views": 117127
+  }
+ ],
+ "wikipedia_title": "Stephen_Miller",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

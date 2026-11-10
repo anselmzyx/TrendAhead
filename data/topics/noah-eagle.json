@@ -1,197 +1,197 @@
 {
- "title": "Xavier Becerra",
- "slug": "xavier-becerra",
- "score": 53,
+ "title": "Noah Eagle",
+ "slug": "noah-eagle",
+ "score": 41,
  "status": "Breaking out",
- "change_percent": 2013,
- "growth_ratio": 21.12,
- "recent_avg": 77976,
- "baseline_avg": 3691,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "change_percent": 6815,
+ "growth_ratio": 69.09,
+ "recent_avg": 22128,
+ "baseline_avg": 320,
+ "explanation": "Attention is 69\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 74285,
- "latest": 202392,
+ "abs_change": 21808,
+ "latest": 62304,
  "components": {
-  "acceleration": 0.78,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.946,
-  "spike_quality": 0.622
+  "volume": 0.672,
+  "spike_quality": 0.539
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 77,976 views/day over the last 3 days (30-day baseline: 3,691)."
+  "Averaging 22,128 views/day over the last 3 days (30-day baseline: 320)."
  ],
  "history": [
   {
-   "date": "2026-09-26",
-   "views": 1442
-  },
-  {
-   "date": "2026-09-27",
-   "views": 1628
-  },
-  {
-   "date": "2026-09-28",
-   "views": 1682
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1980
-  },
-  {
-   "date": "2026-09-30",
-   "views": 3368
-  },
-  {
    "date": "2026-10-01",
-   "views": 15423
+   "views": 135
   },
   {
    "date": "2026-10-02",
-   "views": 5205
+   "views": 306
   },
   {
    "date": "2026-10-03",
-   "views": 3464
+   "views": 290
   },
   {
    "date": "2026-10-04",
-   "views": 3680
+   "views": 1015
   },
   {
    "date": "2026-10-05",
-   "views": 4784
+   "views": 248
   },
   {
    "date": "2026-10-06",
-   "views": 4317
+   "views": 155
   },
   {
    "date": "2026-10-07",
-   "views": 4384
+   "views": 230
   },
   {
    "date": "2026-10-08",
-   "views": 3767
+   "views": 156
   },
   {
    "date": "2026-10-09",
-   "views": 3205
+   "views": 132
   },
   {
    "date": "2026-10-10",
-   "views": 3046
+   "views": 215
   },
   {
    "date": "2026-10-11",
-   "views": 2703
+   "views": 927
   },
   {
    "date": "2026-10-12",
-   "views": 2671
+   "views": 143
   },
   {
    "date": "2026-10-13",
-   "views": 2332
+   "views": 127
   },
   {
    "date": "2026-10-14",
-   "views": 3793
+   "views": 124
   },
   {
    "date": "2026-10-15",
-   "views": 2844
+   "views": 130
   },
   {
    "date": "2026-10-16",
-   "views": 2652
+   "views": 140
   },
   {
    "date": "2026-10-17",
-   "views": 2519
+   "views": 287
   },
   {
    "date": "2026-10-18",
-   "views": 2656
+   "views": 482
   },
   {
    "date": "2026-10-19",
-   "views": 2831
+   "views": 186
   },
   {
    "date": "2026-10-20",
-   "views": 3018
+   "views": 159
   },
   {
    "date": "2026-10-21",
-   "views": 3603
+   "views": 1622
   },
   {
    "date": "2026-10-22",
-   "views": 3196
+   "views": 222
   },
   {
    "date": "2026-10-23",
-   "views": 3195
+   "views": 178
   },
   {
    "date": "2026-10-24",
-   "views": 4120
+   "views": 283
   },
   {
    "date": "2026-10-25",
-   "views": 3535
+   "views": 442
   },
   {
    "date": "2026-10-26",
-   "views": 3932
+   "views": 170
   },
   {
    "date": "2026-10-27",
-   "views": 4380
+   "views": 192
   },
   {
    "date": "2026-10-28",
-   "views": 4314
+   "views": 448
   },
   {
    "date": "2026-10-29",
-   "views": 5609
+   "views": 128
   },
   {
    "date": "2026-10-30",
-   "views": 5552
+   "views": 171
   },
   {
    "date": "2026-10-31",
-   "views": 5121
+   "views": 738
   },
   {
    "date": "2026-11-01",
-   "views": 5513
+   "views": 1221
   },
   {
    "date": "2026-11-02",
-   "views": 9409
+   "views": 184
   },
   {
    "date": "2026-11-03",
-   "views": 22126
+   "views": 113
   },
   {
    "date": "2026-11-04",
-   "views": 202392
+   "views": 101
+  },
+  {
+   "date": "2026-11-05",
+   "views": 96
+  },
+  {
+   "date": "2026-11-06",
+   "views": 92
+  },
+  {
+   "date": "2026-11-07",
+   "views": 149
+  },
+  {
+   "date": "2026-11-08",
+   "views": 3932
+  },
+  {
+   "date": "2026-11-09",
+   "views": 62304
   }
  ],
- "wikipedia_title": "Xavier_Becerra",
+ "wikipedia_title": "Noah_Eagle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-04",
- "generated_at_utc": "2026-11-05T13:27:41+00:00"
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
 }

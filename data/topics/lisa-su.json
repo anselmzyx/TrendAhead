@@ -1,197 +1,197 @@
 {
- "title": "Greg Abbott",
- "slug": "greg-abbott",
- "score": 53,
+ "title": "Lisa Su",
+ "slug": "lisa-su",
+ "score": 48,
  "status": "Breaking out",
- "change_percent": 2623,
- "growth_ratio": 27.23,
- "recent_avg": 116918,
- "baseline_avg": 4293,
- "explanation": "Attention is 27\u00d7 its 30-day baseline.",
+ "change_percent": 1628,
+ "growth_ratio": 17.28,
+ "recent_avg": 36182,
+ "baseline_avg": 2094,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 112625,
- "latest": 327943,
+ "abs_change": 34088,
+ "latest": 89426,
  "components": {
-  "acceleration": 0.845,
+  "acceleration": 0.728,
   "anomaly": 1.0,
   "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.573
+  "volume": 0.779,
+  "spike_quality": 0.639
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 116,918 views/day over the last 3 days (30-day baseline: 4,293)."
+  "Averaging 36,182 views/day over the last 3 days (30-day baseline: 2,094)."
  ],
  "history": [
   {
-   "date": "2026-09-26",
-   "views": 2517
-  },
-  {
-   "date": "2026-09-27",
-   "views": 2235
-  },
-  {
-   "date": "2026-09-28",
-   "views": 2495
-  },
-  {
-   "date": "2026-09-29",
-   "views": 2931
-  },
-  {
-   "date": "2026-09-30",
-   "views": 2542
-  },
-  {
    "date": "2026-10-01",
-   "views": 2811
+   "views": 3285
   },
   {
    "date": "2026-10-02",
-   "views": 2449
+   "views": 2153
   },
   {
    "date": "2026-10-03",
-   "views": 2635
+   "views": 2162
   },
   {
    "date": "2026-10-04",
-   "views": 3077
+   "views": 2140
   },
   {
    "date": "2026-10-05",
-   "views": 2913
+   "views": 2150
   },
   {
    "date": "2026-10-06",
-   "views": 2936
+   "views": 2363
   },
   {
    "date": "2026-10-07",
-   "views": 3333
+   "views": 2576
   },
   {
    "date": "2026-10-08",
-   "views": 4288
+   "views": 4135
   },
   {
    "date": "2026-10-09",
-   "views": 3362
+   "views": 4774
   },
   {
    "date": "2026-10-10",
-   "views": 3292
+   "views": 2868
   },
   {
    "date": "2026-10-11",
-   "views": 3999
+   "views": 2156
   },
   {
    "date": "2026-10-12",
-   "views": 3316
+   "views": 1920
   },
   {
    "date": "2026-10-13",
-   "views": 3630
+   "views": 1700
   },
   {
    "date": "2026-10-14",
-   "views": 3322
+   "views": 1682
   },
   {
    "date": "2026-10-15",
-   "views": 3953
+   "views": 1795
   },
   {
    "date": "2026-10-16",
-   "views": 3706
+   "views": 3539
   },
   {
    "date": "2026-10-17",
-   "views": 3855
+   "views": 2015
   },
   {
    "date": "2026-10-18",
-   "views": 3529
+   "views": 1881
   },
   {
    "date": "2026-10-19",
-   "views": 4217
+   "views": 1752
   },
   {
    "date": "2026-10-20",
-   "views": 4844
+   "views": 2190
   },
   {
    "date": "2026-10-21",
-   "views": 4610
+   "views": 1681
   },
   {
    "date": "2026-10-22",
-   "views": 5044
+   "views": 1822
   },
   {
    "date": "2026-10-23",
-   "views": 4709
+   "views": 1914
   },
   {
    "date": "2026-10-24",
-   "views": 4834
+   "views": 1811
   },
   {
    "date": "2026-10-25",
-   "views": 5401
+   "views": 1498
   },
   {
    "date": "2026-10-26",
-   "views": 4998
+   "views": 1440
   },
   {
    "date": "2026-10-27",
-   "views": 5597
+   "views": 1397
   },
   {
    "date": "2026-10-28",
-   "views": 5448
+   "views": 1339
   },
   {
    "date": "2026-10-29",
-   "views": 6465
+   "views": 2206
   },
   {
    "date": "2026-10-30",
-   "views": 5482
+   "views": 2240
   },
   {
    "date": "2026-10-31",
-   "views": 5689
+   "views": 1568
   },
   {
    "date": "2026-11-01",
-   "views": 6319
+   "views": 1168
   },
   {
    "date": "2026-11-02",
-   "views": 7464
+   "views": 1377
   },
   {
    "date": "2026-11-03",
-   "views": 15347
+   "views": 2265
   },
   {
    "date": "2026-11-04",
-   "views": 327943
+   "views": 2652
+  },
+  {
+   "date": "2026-11-05",
+   "views": 2007
+  },
+  {
+   "date": "2026-11-06",
+   "views": 2035
+  },
+  {
+   "date": "2026-11-07",
+   "views": 5179
+  },
+  {
+   "date": "2026-11-08",
+   "views": 13941
+  },
+  {
+   "date": "2026-11-09",
+   "views": 89426
   }
  ],
- "wikipedia_title": "Greg_Abbott",
+ "wikipedia_title": "Lisa_Su",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-04",
- "generated_at_utc": "2026-11-05T13:27:41+00:00"
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
 }

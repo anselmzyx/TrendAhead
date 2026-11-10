@@ -1,0 +1,197 @@
+{
+ "title": "Diwali",
+ "slug": "diwali",
+ "score": 48,
+ "status": "Elevated",
+ "change_percent": 681,
+ "growth_ratio": 7.81,
+ "recent_avg": 87323,
+ "baseline_avg": 11183,
+ "explanation": "Attention is 7.8\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 76140,
+ "latest": 86467,
+ "components": {
+  "acceleration": 0.525,
+  "anomaly": 0.888,
+  "persistence": 0.92,
+  "momentum": 0.623,
+  "volume": 0.971,
+  "spike_quality": 0.744
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 87,323 views/day over the last 3 days (30-day baseline: 11,183)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 16911
+  },
+  {
+   "date": "2026-10-02",
+   "views": 17721
+  },
+  {
+   "date": "2026-10-03",
+   "views": 19516
+  },
+  {
+   "date": "2026-10-04",
+   "views": 20056
+  },
+  {
+   "date": "2026-10-05",
+   "views": 21193
+  },
+  {
+   "date": "2026-10-06",
+   "views": 21463
+  },
+  {
+   "date": "2026-10-07",
+   "views": 21844
+  },
+  {
+   "date": "2026-10-08",
+   "views": 10722
+  },
+  {
+   "date": "2026-10-09",
+   "views": 7260
+  },
+  {
+   "date": "2026-10-10",
+   "views": 7368
+  },
+  {
+   "date": "2026-10-11",
+   "views": 7750
+  },
+  {
+   "date": "2026-10-12",
+   "views": 7828
+  },
+  {
+   "date": "2026-10-13",
+   "views": 6883
+  },
+  {
+   "date": "2026-10-14",
+   "views": 5544
+  },
+  {
+   "date": "2026-10-15",
+   "views": 6070
+  },
+  {
+   "date": "2026-10-16",
+   "views": 6424
+  },
+  {
+   "date": "2026-10-17",
+   "views": 6458
+  },
+  {
+   "date": "2026-10-18",
+   "views": 6527
+  },
+  {
+   "date": "2026-10-19",
+   "views": 8018
+  },
+  {
+   "date": "2026-10-20",
+   "views": 6499
+  },
+  {
+   "date": "2026-10-21",
+   "views": 11632
+  },
+  {
+   "date": "2026-10-22",
+   "views": 12318
+  },
+  {
+   "date": "2026-10-23",
+   "views": 15173
+  },
+  {
+   "date": "2026-10-24",
+   "views": 8086
+  },
+  {
+   "date": "2026-10-25",
+   "views": 7330
+  },
+  {
+   "date": "2026-10-26",
+   "views": 8388
+  },
+  {
+   "date": "2026-10-27",
+   "views": 7010
+  },
+  {
+   "date": "2026-10-28",
+   "views": 7777
+  },
+  {
+   "date": "2026-10-29",
+   "views": 9121
+  },
+  {
+   "date": "2026-10-30",
+   "views": 9242
+  },
+  {
+   "date": "2026-10-31",
+   "views": 8735
+  },
+  {
+   "date": "2026-11-01",
+   "views": 10104
+  },
+  {
+   "date": "2026-11-02",
+   "views": 14860
+  },
+  {
+   "date": "2026-11-03",
+   "views": 15783
+  },
+  {
+   "date": "2026-11-04",
+   "views": 18444
+  },
+  {
+   "date": "2026-11-05",
+   "views": 28130
+  },
+  {
+   "date": "2026-11-06",
+   "views": 50000
+  },
+  {
+   "date": "2026-11-07",
+   "views": 52715
+  },
+  {
+   "date": "2026-11-08",
+   "views": 122787
+  },
+  {
+   "date": "2026-11-09",
+   "views": 86467
+  }
+ ],
+ "wikipedia_title": "Diwali",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

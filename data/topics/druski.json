@@ -1,197 +1,197 @@
 {
- "title": "Red states and blue states",
- "slug": "red-states-and-blue-states",
- "score": 65,
- "status": "Breaking out",
- "change_percent": 2444,
- "growth_ratio": 25.44,
- "recent_avg": 85728,
- "baseline_avg": 3370,
- "explanation": "Attention is 25\u00d7 its 30-day baseline.",
+ "title": "Druski",
+ "slug": "druski",
+ "score": 39,
+ "status": "Peaked / fading",
+ "change_percent": 2080,
+ "growth_ratio": 21.8,
+ "recent_avg": 64994,
+ "baseline_avg": 2981,
+ "explanation": "Attention surged to 22\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 82358,
- "latest": 214095,
+ "abs_change": 62013,
+ "latest": 65043,
  "components": {
-  "acceleration": 0.827,
+  "acceleration": 0.788,
   "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.967,
-  "spike_quality": 0.639
+  "momentum": 0.52,
+  "volume": 0.906,
+  "spike_quality": 0.52
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 85,728 views/day over the last 3 days (30-day baseline: 3,370)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 64,994 views/day over the last 3 days (30-day baseline: 2,981)."
  ],
  "history": [
   {
-   "date": "2026-09-26",
-   "views": 1410
-  },
-  {
-   "date": "2026-09-27",
-   "views": 1489
-  },
-  {
-   "date": "2026-09-28",
-   "views": 1536
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1590
-  },
-  {
-   "date": "2026-09-30",
-   "views": 1643
-  },
-  {
    "date": "2026-10-01",
-   "views": 1797
+   "views": 4358
   },
   {
    "date": "2026-10-02",
-   "views": 1670
+   "views": 2467
   },
   {
    "date": "2026-10-03",
-   "views": 1745
+   "views": 1954
   },
   {
    "date": "2026-10-04",
-   "views": 1786
+   "views": 1874
   },
   {
    "date": "2026-10-05",
-   "views": 2036
+   "views": 1684
   },
   {
    "date": "2026-10-06",
-   "views": 2419
+   "views": 1344
   },
   {
    "date": "2026-10-07",
-   "views": 2478
+   "views": 1423
   },
   {
    "date": "2026-10-08",
-   "views": 2599
+   "views": 1412
   },
   {
    "date": "2026-10-09",
-   "views": 2274
+   "views": 3705
   },
   {
    "date": "2026-10-10",
-   "views": 2199
+   "views": 3114
   },
   {
    "date": "2026-10-11",
-   "views": 2189
+   "views": 2383
   },
   {
    "date": "2026-10-12",
-   "views": 2280
+   "views": 2225
   },
   {
    "date": "2026-10-13",
-   "views": 2415
+   "views": 6332
   },
   {
    "date": "2026-10-14",
-   "views": 2473
+   "views": 4709
   },
   {
    "date": "2026-10-15",
-   "views": 2666
+   "views": 3093
   },
   {
    "date": "2026-10-16",
-   "views": 2648
+   "views": 2788
   },
   {
    "date": "2026-10-17",
-   "views": 2277
+   "views": 2307
   },
   {
    "date": "2026-10-18",
-   "views": 2448
+   "views": 2829
   },
   {
    "date": "2026-10-19",
-   "views": 2847
+   "views": 1884
   },
   {
    "date": "2026-10-20",
-   "views": 3483
+   "views": 1551
   },
   {
    "date": "2026-10-21",
-   "views": 3728
+   "views": 1611
   },
   {
    "date": "2026-10-22",
-   "views": 4055
+   "views": 4955
   },
   {
    "date": "2026-10-23",
-   "views": 4039
+   "views": 3027
   },
   {
    "date": "2026-10-24",
-   "views": 3906
+   "views": 2270
   },
   {
    "date": "2026-10-25",
-   "views": 4183
+   "views": 2283
   },
   {
    "date": "2026-10-26",
-   "views": 4642
+   "views": 1658
   },
   {
    "date": "2026-10-27",
-   "views": 4681
+   "views": 1401
   },
   {
    "date": "2026-10-28",
-   "views": 4983
+   "views": 1370
   },
   {
    "date": "2026-10-29",
-   "views": 5371
+   "views": 1228
   },
   {
    "date": "2026-10-30",
-   "views": 6381
+   "views": 1134
   },
   {
    "date": "2026-10-31",
-   "views": 5784
+   "views": 1240
   },
   {
    "date": "2026-11-01",
-   "views": 6073
+   "views": 5131
   },
   {
    "date": "2026-11-02",
-   "views": 8619
+   "views": 3183
   },
   {
    "date": "2026-11-03",
-   "views": 34471
+   "views": 2728
   },
   {
    "date": "2026-11-04",
-   "views": 214095
+   "views": 4436
+  },
+  {
+   "date": "2026-11-05",
+   "views": 5753
+  },
+  {
+   "date": "2026-11-06",
+   "views": 7703
+  },
+  {
+   "date": "2026-11-07",
+   "views": 7912
+  },
+  {
+   "date": "2026-11-08",
+   "views": 122026
+  },
+  {
+   "date": "2026-11-09",
+   "views": 65043
   }
  ],
- "wikipedia_title": "Red_states_and_blue_states",
+ "wikipedia_title": "Druski",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-04",
- "generated_at_utc": "2026-11-05T13:27:41+00:00"
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
 }

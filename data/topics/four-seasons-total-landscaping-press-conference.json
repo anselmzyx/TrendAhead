@@ -1,0 +1,198 @@
+{
+ "title": "Four Seasons Total Landscaping press conference",
+ "slug": "four-seasons-total-landscaping-press-conference",
+ "score": 22,
+ "status": "Peaked / fading",
+ "change_percent": 4304,
+ "growth_ratio": 44.05,
+ "recent_avg": 23428,
+ "baseline_avg": 532,
+ "explanation": "Attention surged to 44\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 22896,
+ "latest": 11878,
+ "components": {
+  "acceleration": 0.968,
+  "anomaly": 1.0,
+  "persistence": 0.64,
+  "momentum": 0.355,
+  "volume": 0.685,
+  "spike_quality": 0.355
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 23,428 views/day over the last 3 days (30-day baseline: 532)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 474
+  },
+  {
+   "date": "2026-10-02",
+   "views": 539
+  },
+  {
+   "date": "2026-10-03",
+   "views": 243
+  },
+  {
+   "date": "2026-10-04",
+   "views": 243
+  },
+  {
+   "date": "2026-10-05",
+   "views": 253
+  },
+  {
+   "date": "2026-10-06",
+   "views": 195
+  },
+  {
+   "date": "2026-10-07",
+   "views": 231
+  },
+  {
+   "date": "2026-10-08",
+   "views": 256
+  },
+  {
+   "date": "2026-10-09",
+   "views": 288
+  },
+  {
+   "date": "2026-10-10",
+   "views": 226
+  },
+  {
+   "date": "2026-10-11",
+   "views": 196
+  },
+  {
+   "date": "2026-10-12",
+   "views": 709
+  },
+  {
+   "date": "2026-10-13",
+   "views": 1236
+  },
+  {
+   "date": "2026-10-14",
+   "views": 544
+  },
+  {
+   "date": "2026-10-15",
+   "views": 375
+  },
+  {
+   "date": "2026-10-16",
+   "views": 632
+  },
+  {
+   "date": "2026-10-17",
+   "views": 445
+  },
+  {
+   "date": "2026-10-18",
+   "views": 276
+  },
+  {
+   "date": "2026-10-19",
+   "views": 276
+  },
+  {
+   "date": "2026-10-20",
+   "views": 276
+  },
+  {
+   "date": "2026-10-21",
+   "views": 185
+  },
+  {
+   "date": "2026-10-22",
+   "views": 282
+  },
+  {
+   "date": "2026-10-23",
+   "views": 276
+  },
+  {
+   "date": "2026-10-24",
+   "views": 233
+  },
+  {
+   "date": "2026-10-25",
+   "views": 407
+  },
+  {
+   "date": "2026-10-26",
+   "views": 466
+  },
+  {
+   "date": "2026-10-27",
+   "views": 428
+  },
+  {
+   "date": "2026-10-28",
+   "views": 347
+  },
+  {
+   "date": "2026-10-29",
+   "views": 591
+  },
+  {
+   "date": "2026-10-30",
+   "views": 810
+  },
+  {
+   "date": "2026-10-31",
+   "views": 396
+  },
+  {
+   "date": "2026-11-01",
+   "views": 337
+  },
+  {
+   "date": "2026-11-02",
+   "views": 473
+  },
+  {
+   "date": "2026-11-03",
+   "views": 1849
+  },
+  {
+   "date": "2026-11-04",
+   "views": 1641
+  },
+  {
+   "date": "2026-11-05",
+   "views": 895
+  },
+  {
+   "date": "2026-11-06",
+   "views": 603
+  },
+  {
+   "date": "2026-11-07",
+   "views": 12291
+  },
+  {
+   "date": "2026-11-08",
+   "views": 46115
+  },
+  {
+   "date": "2026-11-09",
+   "views": 11878
+  }
+ ],
+ "wikipedia_title": "Four_Seasons_Total_Landscaping_press_conference",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

@@ -1,0 +1,197 @@
+{
+ "title": "The Odyssey (2026 film)",
+ "slug": "the-odyssey-2026-film",
+ "score": 32,
+ "status": "Building",
+ "change_percent": 118,
+ "growth_ratio": 2.18,
+ "recent_avg": 52386,
+ "baseline_avg": 24057,
+ "explanation": "Attention is 2.2\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 28329,
+ "latest": 54384,
+ "components": {
+  "acceleration": 0.199,
+  "anomaly": 0.723,
+  "persistence": 0.52,
+  "momentum": 0.73,
+  "volume": 0.86,
+  "spike_quality": 0.872
+ },
+ "why": [
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 52,386 views/day over the last 3 days (30-day baseline: 24,057)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 31513
+  },
+  {
+   "date": "2026-10-02",
+   "views": 31338
+  },
+  {
+   "date": "2026-10-03",
+   "views": 34414
+  },
+  {
+   "date": "2026-10-04",
+   "views": 38575
+  },
+  {
+   "date": "2026-10-05",
+   "views": 33320
+  },
+  {
+   "date": "2026-10-06",
+   "views": 29114
+  },
+  {
+   "date": "2026-10-07",
+   "views": 30229
+  },
+  {
+   "date": "2026-10-08",
+   "views": 27785
+  },
+  {
+   "date": "2026-10-09",
+   "views": 27911
+  },
+  {
+   "date": "2026-10-10",
+   "views": 31761
+  },
+  {
+   "date": "2026-10-11",
+   "views": 34702
+  },
+  {
+   "date": "2026-10-12",
+   "views": 31111
+  },
+  {
+   "date": "2026-10-13",
+   "views": 27061
+  },
+  {
+   "date": "2026-10-14",
+   "views": 27490
+  },
+  {
+   "date": "2026-10-15",
+   "views": 23762
+  },
+  {
+   "date": "2026-10-16",
+   "views": 23196
+  },
+  {
+   "date": "2026-10-17",
+   "views": 25836
+  },
+  {
+   "date": "2026-10-18",
+   "views": 27162
+  },
+  {
+   "date": "2026-10-19",
+   "views": 25391
+  },
+  {
+   "date": "2026-10-20",
+   "views": 22470
+  },
+  {
+   "date": "2026-10-21",
+   "views": 20946
+  },
+  {
+   "date": "2026-10-22",
+   "views": 20044
+  },
+  {
+   "date": "2026-10-23",
+   "views": 20737
+  },
+  {
+   "date": "2026-10-24",
+   "views": 23033
+  },
+  {
+   "date": "2026-10-25",
+   "views": 24866
+  },
+  {
+   "date": "2026-10-26",
+   "views": 24204
+  },
+  {
+   "date": "2026-10-27",
+   "views": 23447
+  },
+  {
+   "date": "2026-10-28",
+   "views": 21674
+  },
+  {
+   "date": "2026-10-29",
+   "views": 20685
+  },
+  {
+   "date": "2026-10-30",
+   "views": 19876
+  },
+  {
+   "date": "2026-10-31",
+   "views": 21943
+  },
+  {
+   "date": "2026-11-01",
+   "views": 23889
+  },
+  {
+   "date": "2026-11-02",
+   "views": 21578
+  },
+  {
+   "date": "2026-11-03",
+   "views": 19563
+  },
+  {
+   "date": "2026-11-04",
+   "views": 17389
+  },
+  {
+   "date": "2026-11-05",
+   "views": 19721
+  },
+  {
+   "date": "2026-11-06",
+   "views": 22476
+  },
+  {
+   "date": "2026-11-07",
+   "views": 41150
+  },
+  {
+   "date": "2026-11-08",
+   "views": 61624
+  },
+  {
+   "date": "2026-11-09",
+   "views": 54384
+  }
+ ],
+ "wikipedia_title": "The_Odyssey_(2026_film)",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

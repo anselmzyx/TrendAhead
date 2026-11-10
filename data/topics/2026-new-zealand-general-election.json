@@ -1,0 +1,198 @@
+{
+ "title": "2026 New Zealand general election",
+ "slug": "2026-new-zealand-general-election",
+ "score": 24,
+ "status": "Peaked / fading",
+ "change_percent": 1217,
+ "growth_ratio": 13.17,
+ "recent_avg": 63293,
+ "baseline_avg": 4805,
+ "explanation": "Attention surged to 13\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 58488,
+ "latest": 28495,
+ "components": {
+  "acceleration": 0.659,
+  "anomaly": 1.0,
+  "persistence": 0.84,
+  "momentum": 0.227,
+  "volume": 0.901,
+  "spike_quality": 0.449
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 63,293 views/day over the last 3 days (30-day baseline: 4,805)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 3551
+  },
+  {
+   "date": "2026-10-02",
+   "views": 2191
+  },
+  {
+   "date": "2026-10-03",
+   "views": 2393
+  },
+  {
+   "date": "2026-10-04",
+   "views": 2906
+  },
+  {
+   "date": "2026-10-05",
+   "views": 3499
+  },
+  {
+   "date": "2026-10-06",
+   "views": 4671
+  },
+  {
+   "date": "2026-10-07",
+   "views": 4039
+  },
+  {
+   "date": "2026-10-08",
+   "views": 3363
+  },
+  {
+   "date": "2026-10-09",
+   "views": 2777
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2496
+  },
+  {
+   "date": "2026-10-11",
+   "views": 3144
+  },
+  {
+   "date": "2026-10-12",
+   "views": 2944
+  },
+  {
+   "date": "2026-10-13",
+   "views": 4293
+  },
+  {
+   "date": "2026-10-14",
+   "views": 4065
+  },
+  {
+   "date": "2026-10-15",
+   "views": 3276
+  },
+  {
+   "date": "2026-10-16",
+   "views": 2809
+  },
+  {
+   "date": "2026-10-17",
+   "views": 2570
+  },
+  {
+   "date": "2026-10-18",
+   "views": 3114
+  },
+  {
+   "date": "2026-10-19",
+   "views": 3354
+  },
+  {
+   "date": "2026-10-20",
+   "views": 3800
+  },
+  {
+   "date": "2026-10-21",
+   "views": 3503
+  },
+  {
+   "date": "2026-10-22",
+   "views": 3576
+  },
+  {
+   "date": "2026-10-23",
+   "views": 3505
+  },
+  {
+   "date": "2026-10-24",
+   "views": 3115
+  },
+  {
+   "date": "2026-10-25",
+   "views": 4221
+  },
+  {
+   "date": "2026-10-26",
+   "views": 6969
+  },
+  {
+   "date": "2026-10-27",
+   "views": 5520
+  },
+  {
+   "date": "2026-10-28",
+   "views": 5584
+  },
+  {
+   "date": "2026-10-29",
+   "views": 5110
+  },
+  {
+   "date": "2026-10-30",
+   "views": 4337
+  },
+  {
+   "date": "2026-10-31",
+   "views": 4091
+  },
+  {
+   "date": "2026-11-01",
+   "views": 5180
+  },
+  {
+   "date": "2026-11-02",
+   "views": 6139
+  },
+  {
+   "date": "2026-11-03",
+   "views": 6575
+  },
+  {
+   "date": "2026-11-04",
+   "views": 8701
+  },
+  {
+   "date": "2026-11-05",
+   "views": 9433
+  },
+  {
+   "date": "2026-11-06",
+   "views": 16590
+  },
+  {
+   "date": "2026-11-07",
+   "views": 106387
+  },
+  {
+   "date": "2026-11-08",
+   "views": 54997
+  },
+  {
+   "date": "2026-11-09",
+   "views": 28495
+  }
+ ],
+ "wikipedia_title": "2026_New_Zealand_general_election",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

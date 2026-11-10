@@ -1,0 +1,197 @@
+{
+ "title": "I, Robot (film)",
+ "slug": "i-robot-film",
+ "score": 26,
+ "status": "Peaked / fading",
+ "change_percent": 245,
+ "growth_ratio": 3.45,
+ "recent_avg": 58663,
+ "baseline_avg": 17000,
+ "explanation": "Attention surged to 3.5\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 41663,
+ "latest": 36665,
+ "components": {
+  "acceleration": 0.317,
+  "anomaly": 0.525,
+  "persistence": 0.72,
+  "momentum": 0.481,
+  "volume": 0.884,
+  "spike_quality": 0.662
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 58,663 views/day over the last 3 days (30-day baseline: 17,000)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 16291
+  },
+  {
+   "date": "2026-10-02",
+   "views": 16462
+  },
+  {
+   "date": "2026-10-03",
+   "views": 12264
+  },
+  {
+   "date": "2026-10-04",
+   "views": 10270
+  },
+  {
+   "date": "2026-10-05",
+   "views": 17982
+  },
+  {
+   "date": "2026-10-06",
+   "views": 17247
+  },
+  {
+   "date": "2026-10-07",
+   "views": 15968
+  },
+  {
+   "date": "2026-10-08",
+   "views": 14786
+  },
+  {
+   "date": "2026-10-09",
+   "views": 22911
+  },
+  {
+   "date": "2026-10-10",
+   "views": 16482
+  },
+  {
+   "date": "2026-10-11",
+   "views": 13640
+  },
+  {
+   "date": "2026-10-12",
+   "views": 20002
+  },
+  {
+   "date": "2026-10-13",
+   "views": 14588
+  },
+  {
+   "date": "2026-10-14",
+   "views": 9349
+  },
+  {
+   "date": "2026-10-15",
+   "views": 10254
+  },
+  {
+   "date": "2026-10-16",
+   "views": 12466
+  },
+  {
+   "date": "2026-10-17",
+   "views": 8802
+  },
+  {
+   "date": "2026-10-18",
+   "views": 7991
+  },
+  {
+   "date": "2026-10-19",
+   "views": 13270
+  },
+  {
+   "date": "2026-10-20",
+   "views": 15043
+  },
+  {
+   "date": "2026-10-21",
+   "views": 13883
+  },
+  {
+   "date": "2026-10-22",
+   "views": 14018
+  },
+  {
+   "date": "2026-10-23",
+   "views": 15275
+  },
+  {
+   "date": "2026-10-24",
+   "views": 17704
+  },
+  {
+   "date": "2026-10-25",
+   "views": 11115
+  },
+  {
+   "date": "2026-10-26",
+   "views": 9735
+  },
+  {
+   "date": "2026-10-27",
+   "views": 10305
+  },
+  {
+   "date": "2026-10-28",
+   "views": 19664
+  },
+  {
+   "date": "2026-10-29",
+   "views": 12761
+  },
+  {
+   "date": "2026-10-30",
+   "views": 18420
+  },
+  {
+   "date": "2026-10-31",
+   "views": 28166
+  },
+  {
+   "date": "2026-11-01",
+   "views": 23170
+  },
+  {
+   "date": "2026-11-02",
+   "views": 18342
+  },
+  {
+   "date": "2026-11-03",
+   "views": 16963
+  },
+  {
+   "date": "2026-11-04",
+   "views": 37443
+  },
+  {
+   "date": "2026-11-05",
+   "views": 18762
+  },
+  {
+   "date": "2026-11-06",
+   "views": 44700
+  },
+  {
+   "date": "2026-11-07",
+   "views": 61048
+  },
+  {
+   "date": "2026-11-08",
+   "views": 78275
+  },
+  {
+   "date": "2026-11-09",
+   "views": 36665
+  }
+ ],
+ "wikipedia_title": "I,_Robot_(film)",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

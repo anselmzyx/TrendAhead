@@ -1,197 +1,197 @@
 {
- "title": "Roy Cooper",
- "slug": "roy-cooper",
- "score": 48,
+ "title": "Alice S. Huang",
+ "slug": "alice-s-huang",
+ "score": 56,
  "status": "Breaking out",
- "change_percent": 1560,
- "growth_ratio": 16.6,
- "recent_avg": 42530,
- "baseline_avg": 2562,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "change_percent": 18899,
+ "growth_ratio": 189.52,
+ "recent_avg": 30778,
+ "baseline_avg": 162,
+ "explanation": "Attention is 190\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 39968,
- "latest": 108116,
+ "abs_change": 30616,
+ "latest": 75261,
  "components": {
-  "acceleration": 0.718,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
+  "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.814,
-  "spike_quality": 0.631
+  "volume": 0.744,
+  "spike_quality": 0.613
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,530 views/day over the last 3 days (30-day baseline: 2,562)."
+  "Averaging 30,778 views/day over the last 3 days (30-day baseline: 162)."
  ],
  "history": [
   {
-   "date": "2026-09-26",
-   "views": 1505
-  },
-  {
-   "date": "2026-09-27",
-   "views": 1460
-  },
-  {
-   "date": "2026-09-28",
-   "views": 1755
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1938
-  },
-  {
-   "date": "2026-09-30",
-   "views": 1559
-  },
-  {
    "date": "2026-10-01",
-   "views": 1590
+   "views": 33
   },
   {
    "date": "2026-10-02",
-   "views": 3307
+   "views": 8
   },
   {
    "date": "2026-10-03",
-   "views": 2615
+   "views": 13
   },
   {
    "date": "2026-10-04",
-   "views": 2227
+   "views": 10
   },
   {
    "date": "2026-10-05",
-   "views": 2369
+   "views": 17
   },
   {
    "date": "2026-10-06",
-   "views": 2501
+   "views": 19
   },
   {
    "date": "2026-10-07",
-   "views": 1999
+   "views": 14
   },
   {
    "date": "2026-10-08",
-   "views": 1763
+   "views": 23
   },
   {
    "date": "2026-10-09",
-   "views": 1600
+   "views": 14
   },
   {
    "date": "2026-10-10",
-   "views": 1580
+   "views": 21
   },
   {
    "date": "2026-10-11",
-   "views": 1493
+   "views": 6
   },
   {
    "date": "2026-10-12",
-   "views": 2066
+   "views": 16
   },
   {
    "date": "2026-10-13",
-   "views": 2210
+   "views": 37
   },
   {
    "date": "2026-10-14",
-   "views": 2124
+   "views": 20
   },
   {
    "date": "2026-10-15",
-   "views": 3026
+   "views": 12
   },
   {
    "date": "2026-10-16",
-   "views": 2920
+   "views": 13
   },
   {
    "date": "2026-10-17",
-   "views": 2161
+   "views": 10
   },
   {
    "date": "2026-10-18",
-   "views": 2124
+   "views": 21
   },
   {
    "date": "2026-10-19",
-   "views": 2335
+   "views": 17
   },
   {
    "date": "2026-10-20",
-   "views": 2810
+   "views": 18
   },
   {
    "date": "2026-10-21",
-   "views": 3951
+   "views": 15
   },
   {
    "date": "2026-10-22",
-   "views": 3217
+   "views": 10
   },
   {
    "date": "2026-10-23",
-   "views": 3590
+   "views": 10
   },
   {
    "date": "2026-10-24",
-   "views": 2921
+   "views": 8
   },
   {
    "date": "2026-10-25",
-   "views": 2974
+   "views": 11
   },
   {
    "date": "2026-10-26",
-   "views": 2694
+   "views": 6
   },
   {
    "date": "2026-10-27",
-   "views": 3138
+   "views": 19
   },
   {
    "date": "2026-10-28",
-   "views": 2647
+   "views": 16
   },
   {
    "date": "2026-10-29",
-   "views": 2692
+   "views": 1385
   },
   {
    "date": "2026-10-30",
-   "views": 2922
+   "views": 1265
   },
   {
    "date": "2026-10-31",
-   "views": 2638
+   "views": 488
   },
   {
    "date": "2026-11-01",
-   "views": 3562
+   "views": 216
   },
   {
    "date": "2026-11-02",
-   "views": 6440
+   "views": 160
   },
   {
    "date": "2026-11-03",
-   "views": 13035
+   "views": 176
   },
   {
    "date": "2026-11-04",
-   "views": 108116
+   "views": 96
+  },
+  {
+   "date": "2026-11-05",
+   "views": 146
+  },
+  {
+   "date": "2026-11-06",
+   "views": 617
+  },
+  {
+   "date": "2026-11-07",
+   "views": 4020
+  },
+  {
+   "date": "2026-11-08",
+   "views": 13054
+  },
+  {
+   "date": "2026-11-09",
+   "views": 75261
   }
  ],
- "wikipedia_title": "Roy_Cooper",
+ "wikipedia_title": "Alice_S._Huang",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-04",
- "generated_at_utc": "2026-11-05T13:27:41+00:00"
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
 }

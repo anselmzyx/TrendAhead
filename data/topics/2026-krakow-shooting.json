@@ -1,197 +1,197 @@
 {
- "title": "Ron DeSantis",
- "slug": "ron-desantis",
- "score": 50,
- "status": "Breaking out",
- "change_percent": 1834,
- "growth_ratio": 19.34,
- "recent_avg": 59093,
- "baseline_avg": 3055,
- "explanation": "Attention is 19\u00d7 its 30-day baseline.",
+ "title": "2026 Krak\u00f3w shooting",
+ "slug": "2026-krakow-shooting",
+ "score": 52,
+ "status": "Elevated",
+ "change_percent": null,
+ "growth_ratio": 1125.54,
+ "recent_avg": 112554,
+ "baseline_avg": 0,
+ "explanation": "Attention is 1126\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 56038,
- "latest": 155958,
+ "abs_change": 112554,
+ "latest": 114724,
  "components": {
-  "acceleration": 0.757,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.886,
-  "spike_quality": 0.608
+  "persistence": 0.52,
+  "momentum": 0.678,
+  "volume": 1.0,
+  "spike_quality": 0.732
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 59,093 views/day over the last 3 days (30-day baseline: 3,055)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 112,554 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-09-26",
-   "views": 1685
-  },
-  {
-   "date": "2026-09-27",
-   "views": 1828
-  },
-  {
-   "date": "2026-09-28",
-   "views": 1753
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1904
-  },
-  {
-   "date": "2026-09-30",
-   "views": 1782
-  },
-  {
    "date": "2026-10-01",
-   "views": 2040
+   "views": 0
   },
   {
    "date": "2026-10-02",
-   "views": 1807
+   "views": 0
   },
   {
    "date": "2026-10-03",
-   "views": 1841
+   "views": 0
   },
   {
    "date": "2026-10-04",
-   "views": 2276
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 1948
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 1833
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 2460
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 2881
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 7177
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 5925
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 3412
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 2719
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 2466
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 2173
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 2247
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 2140
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 2335
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 2369
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 2976
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 3067
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 3962
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 2817
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 3248
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 3420
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 2616
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 2928
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 2877
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 3352
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 3023
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 3588
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 3821
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 3767
+   "views": 0
   },
   {
    "date": "2026-11-02",
-   "views": 8403
+   "views": 0
   },
   {
    "date": "2026-11-03",
-   "views": 12918
+   "views": 0
   },
   {
    "date": "2026-11-04",
-   "views": 155958
+   "views": 0
+  },
+  {
+   "date": "2026-11-05",
+   "views": 0
+  },
+  {
+   "date": "2026-11-06",
+   "views": 0
+  },
+  {
+   "date": "2026-11-07",
+   "views": 78832
+  },
+  {
+   "date": "2026-11-08",
+   "views": 144105
+  },
+  {
+   "date": "2026-11-09",
+   "views": 114724
   }
  ],
- "wikipedia_title": "Ron_DeSantis",
+ "wikipedia_title": "2026_Krak\u00f3w_shooting",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-04",
- "generated_at_utc": "2026-11-05T13:27:41+00:00"
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
 }

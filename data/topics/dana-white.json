@@ -1,0 +1,198 @@
+{
+ "title": "Dana White",
+ "slug": "dana-white",
+ "score": 28,
+ "status": "Peaked / fading",
+ "change_percent": 5682,
+ "growth_ratio": 57.81,
+ "recent_avg": 78294,
+ "baseline_avg": 1354,
+ "explanation": "Attention surged to 58\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 76940,
+ "latest": 33616,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.372,
+  "volume": 0.947,
+  "spike_quality": 0.442
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 78,294 views/day over the last 3 days (30-day baseline: 1,354)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-01",
+   "views": 1666
+  },
+  {
+   "date": "2026-10-02",
+   "views": 1482
+  },
+  {
+   "date": "2026-10-03",
+   "views": 1408
+  },
+  {
+   "date": "2026-10-04",
+   "views": 1906
+  },
+  {
+   "date": "2026-10-05",
+   "views": 4738
+  },
+  {
+   "date": "2026-10-06",
+   "views": 5401
+  },
+  {
+   "date": "2026-10-07",
+   "views": 3600
+  },
+  {
+   "date": "2026-10-08",
+   "views": 2539
+  },
+  {
+   "date": "2026-10-09",
+   "views": 2080
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2062
+  },
+  {
+   "date": "2026-10-11",
+   "views": 1671
+  },
+  {
+   "date": "2026-10-12",
+   "views": 1521
+  },
+  {
+   "date": "2026-10-13",
+   "views": 1737
+  },
+  {
+   "date": "2026-10-14",
+   "views": 1434
+  },
+  {
+   "date": "2026-10-15",
+   "views": 1294
+  },
+  {
+   "date": "2026-10-16",
+   "views": 1325
+  },
+  {
+   "date": "2026-10-17",
+   "views": 1615
+  },
+  {
+   "date": "2026-10-18",
+   "views": 1634
+  },
+  {
+   "date": "2026-10-19",
+   "views": 1325
+  },
+  {
+   "date": "2026-10-20",
+   "views": 1126
+  },
+  {
+   "date": "2026-10-21",
+   "views": 1135
+  },
+  {
+   "date": "2026-10-22",
+   "views": 1097
+  },
+  {
+   "date": "2026-10-23",
+   "views": 1145
+  },
+  {
+   "date": "2026-10-24",
+   "views": 1762
+  },
+  {
+   "date": "2026-10-25",
+   "views": 1396
+  },
+  {
+   "date": "2026-10-26",
+   "views": 1144
+  },
+  {
+   "date": "2026-10-27",
+   "views": 1088
+  },
+  {
+   "date": "2026-10-28",
+   "views": 1075
+  },
+  {
+   "date": "2026-10-29",
+   "views": 1108
+  },
+  {
+   "date": "2026-10-30",
+   "views": 1022
+  },
+  {
+   "date": "2026-10-31",
+   "views": 1024
+  },
+  {
+   "date": "2026-11-01",
+   "views": 999
+  },
+  {
+   "date": "2026-11-02",
+   "views": 1007
+  },
+  {
+   "date": "2026-11-03",
+   "views": 993
+  },
+  {
+   "date": "2026-11-04",
+   "views": 1048
+  },
+  {
+   "date": "2026-11-05",
+   "views": 1118
+  },
+  {
+   "date": "2026-11-06",
+   "views": 1108
+  },
+  {
+   "date": "2026-11-07",
+   "views": 84324
+  },
+  {
+   "date": "2026-11-08",
+   "views": 116941
+  },
+  {
+   "date": "2026-11-09",
+   "views": 33616
+  }
+ ],
+ "wikipedia_title": "Dana_White",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
+}

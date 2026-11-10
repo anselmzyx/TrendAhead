@@ -1,197 +1,197 @@
 {
- "title": "Keisha Lance Bottoms",
- "slug": "keisha-lance-bottoms",
- "score": 54,
+ "title": "Nvidia",
+ "slug": "nvidia",
+ "score": 42,
  "status": "Breaking out",
- "change_percent": 3466,
- "growth_ratio": 35.66,
- "recent_avg": 151108,
- "baseline_avg": 4238,
- "explanation": "Attention is 36\u00d7 its 30-day baseline.",
+ "change_percent": 953,
+ "growth_ratio": 10.53,
+ "recent_avg": 55251,
+ "baseline_avg": 5246,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 146870,
- "latest": 431379,
+ "abs_change": 50005,
+ "latest": 142333,
  "components": {
-  "acceleration": 0.914,
+  "acceleration": 0.602,
   "anomaly": 1.0,
-  "persistence": 0.6,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.563
+  "volume": 0.871,
+  "spike_quality": 0.632
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 151,108 views/day over the last 3 days (30-day baseline: 4,238)."
+  "Averaging 55,251 views/day over the last 3 days (30-day baseline: 5,246)."
  ],
  "history": [
   {
-   "date": "2026-09-26",
-   "views": 1645
-  },
-  {
-   "date": "2026-09-27",
-   "views": 1742
-  },
-  {
-   "date": "2026-09-28",
-   "views": 2464
-  },
-  {
-   "date": "2026-09-29",
-   "views": 1979
-  },
-  {
-   "date": "2026-09-30",
-   "views": 1932
-  },
-  {
    "date": "2026-10-01",
-   "views": 1780
+   "views": 5277
   },
   {
    "date": "2026-10-02",
-   "views": 1818
+   "views": 4992
   },
   {
    "date": "2026-10-03",
-   "views": 1695
+   "views": 4586
   },
   {
    "date": "2026-10-04",
-   "views": 1962
+   "views": 4094
   },
   {
    "date": "2026-10-05",
-   "views": 2291
+   "views": 4837
   },
   {
    "date": "2026-10-06",
-   "views": 2256
+   "views": 5246
   },
   {
    "date": "2026-10-07",
-   "views": 4863
+   "views": 5673
   },
   {
    "date": "2026-10-08",
-   "views": 3300
+   "views": 6972
   },
   {
    "date": "2026-10-09",
-   "views": 3701
+   "views": 5529
   },
   {
    "date": "2026-10-10",
-   "views": 2193
+   "views": 4169
   },
   {
    "date": "2026-10-11",
-   "views": 2379
+   "views": 4412
   },
   {
    "date": "2026-10-12",
-   "views": 2395
+   "views": 4968
   },
   {
    "date": "2026-10-13",
-   "views": 4024
+   "views": 5153
   },
   {
    "date": "2026-10-14",
-   "views": 3039
+   "views": 5297
   },
   {
    "date": "2026-10-15",
-   "views": 3320
+   "views": 6295
   },
   {
    "date": "2026-10-16",
-   "views": 3656
+   "views": 6885
   },
   {
    "date": "2026-10-17",
-   "views": 4437
+   "views": 4554
   },
   {
    "date": "2026-10-18",
-   "views": 4736
+   "views": 4985
   },
   {
    "date": "2026-10-19",
-   "views": 4304
+   "views": 6137
   },
   {
    "date": "2026-10-20",
-   "views": 3681
+   "views": 6351
   },
   {
    "date": "2026-10-21",
-   "views": 4031
+   "views": 5736
   },
   {
    "date": "2026-10-22",
-   "views": 4138
+   "views": 6412
   },
   {
    "date": "2026-10-23",
-   "views": 5240
+   "views": 6012
   },
   {
    "date": "2026-10-24",
-   "views": 4081
+   "views": 5532
   },
   {
    "date": "2026-10-25",
-   "views": 4548
+   "views": 4918
   },
   {
    "date": "2026-10-26",
-   "views": 4289
+   "views": 5353
   },
   {
    "date": "2026-10-27",
-   "views": 4438
+   "views": 4431
   },
   {
    "date": "2026-10-28",
-   "views": 7604
+   "views": 4367
   },
   {
    "date": "2026-10-29",
-   "views": 13208
+   "views": 6090
   },
   {
    "date": "2026-10-30",
-   "views": 6793
+   "views": 6889
   },
   {
    "date": "2026-10-31",
-   "views": 5240
+   "views": 4177
   },
   {
    "date": "2026-11-01",
-   "views": 5298
+   "views": 3510
   },
   {
    "date": "2026-11-02",
-   "views": 6887
+   "views": 4035
   },
   {
    "date": "2026-11-03",
-   "views": 15059
+   "views": 4743
   },
   {
    "date": "2026-11-04",
-   "views": 431379
+   "views": 4112
+  },
+  {
+   "date": "2026-11-05",
+   "views": 4743
+  },
+  {
+   "date": "2026-11-06",
+   "views": 4626
+  },
+  {
+   "date": "2026-11-07",
+   "views": 5535
+  },
+  {
+   "date": "2026-11-08",
+   "views": 17886
+  },
+  {
+   "date": "2026-11-09",
+   "views": 142333
   }
  ],
- "wikipedia_title": "Keisha_Lance_Bottoms",
+ "wikipedia_title": "Nvidia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-04",
- "generated_at_utc": "2026-11-05T13:27:41+00:00"
+ "data_through": "2026-11-09",
+ "generated_at_utc": "2026-11-10T13:44:23+00:00"
 }
