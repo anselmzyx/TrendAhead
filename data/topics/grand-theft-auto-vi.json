@@ -1,197 +1,198 @@
 {
- "title": "Ramayana: Part 1",
- "slug": "ramayana-part-1",
- "score": 55,
- "status": "Elevated",
- "change_percent": 867,
- "growth_ratio": 9.67,
- "recent_avg": 757777,
- "baseline_avg": 78371,
- "explanation": "Attention is 9.7\u00d7 its 30-day baseline.",
+ "title": "Grand Theft Auto VI",
+ "slug": "grand-theft-auto-vi",
+ "score": 46,
+ "status": "Building",
+ "change_percent": 137,
+ "growth_ratio": 2.37,
+ "recent_avg": 46231,
+ "baseline_avg": 19484,
+ "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 679406,
- "latest": 830892,
+ "abs_change": 26747,
+ "latest": 64375,
  "components": {
-  "acceleration": 0.58,
-  "anomaly": 0.404,
-  "persistence": 0.84,
-  "momentum": 0.8,
-  "volume": 1.0,
-  "spike_quality": 0.957
+  "acceleration": 0.221,
+  "anomaly": 0.518,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.832,
+  "spike_quality": 0.933
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 757,777 views/day over the last 3 days (30-day baseline: 78,371)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 46,231 views/day over the last 3 days (30-day baseline: 19,484)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 7302
-  },
-  {
    "date": "2026-10-02",
-   "views": 7342
+   "views": 10694
   },
   {
    "date": "2026-10-03",
-   "views": 7667
+   "views": 10524
   },
   {
    "date": "2026-10-04",
-   "views": 8586
+   "views": 11260
   },
   {
    "date": "2026-10-05",
-   "views": 6942
+   "views": 11710
   },
   {
    "date": "2026-10-06",
-   "views": 6654
+   "views": 11189
   },
   {
    "date": "2026-10-07",
-   "views": 7793
+   "views": 11167
   },
   {
    "date": "2026-10-08",
-   "views": 6898
+   "views": 13625
   },
   {
    "date": "2026-10-09",
-   "views": 6352
+   "views": 13178
   },
   {
    "date": "2026-10-10",
-   "views": 6722
+   "views": 11323
   },
   {
    "date": "2026-10-11",
-   "views": 8293
+   "views": 11832
   },
   {
    "date": "2026-10-12",
-   "views": 8075
+   "views": 12257
   },
   {
    "date": "2026-10-13",
-   "views": 7988
+   "views": 12997
   },
   {
    "date": "2026-10-14",
-   "views": 7637
+   "views": 14840
   },
   {
    "date": "2026-10-15",
-   "views": 21394
+   "views": 26444
   },
   {
    "date": "2026-10-16",
-   "views": 32193
+   "views": 24167
   },
   {
    "date": "2026-10-17",
-   "views": 27932
+   "views": 18934
   },
   {
    "date": "2026-10-18",
-   "views": 25859
+   "views": 17809
   },
   {
    "date": "2026-10-19",
-   "views": 26555
+   "views": 20011
   },
   {
    "date": "2026-10-20",
-   "views": 37540
+   "views": 19236
   },
   {
    "date": "2026-10-21",
-   "views": 39950
+   "views": 18073
   },
   {
    "date": "2026-10-22",
-   "views": 36555
+   "views": 18007
   },
   {
    "date": "2026-10-23",
-   "views": 31216
+   "views": 16054
   },
   {
    "date": "2026-10-24",
-   "views": 29515
+   "views": 15460
   },
   {
    "date": "2026-10-25",
-   "views": 34893
+   "views": 16864
   },
   {
    "date": "2026-10-26",
-   "views": 33429
+   "views": 17068
   },
   {
    "date": "2026-10-27",
-   "views": 33288
+   "views": 18261
   },
   {
    "date": "2026-10-28",
-   "views": 49331
+   "views": 17894
   },
   {
    "date": "2026-10-29",
-   "views": 51131
+   "views": 21871
   },
   {
    "date": "2026-10-30",
-   "views": 49705
+   "views": 19387
   },
   {
    "date": "2026-10-31",
-   "views": 52126
+   "views": 17007
   },
   {
    "date": "2026-11-01",
-   "views": 55707
+   "views": 21786
   },
   {
    "date": "2026-11-02",
-   "views": 60024
+   "views": 25348
   },
   {
    "date": "2026-11-03",
-   "views": 72890
+   "views": 26490
   },
   {
    "date": "2026-11-04",
-   "views": 103372
+   "views": 25664
   },
   {
    "date": "2026-11-05",
-   "views": 609307
+   "views": 28655
   },
   {
    "date": "2026-11-06",
-   "views": 785245
+   "views": 29530
   },
   {
    "date": "2026-11-07",
-   "views": 726004
+   "views": 28079
   },
   {
    "date": "2026-11-08",
-   "views": 716434
+   "views": 31048
   },
   {
    "date": "2026-11-09",
-   "views": 830892
+   "views": 43270
+  },
+  {
+   "date": "2026-11-10",
+   "views": 64375
   }
  ],
- "wikipedia_title": "Ramayana:_Part_1",
+ "wikipedia_title": "Grand_Theft_Auto_VI",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

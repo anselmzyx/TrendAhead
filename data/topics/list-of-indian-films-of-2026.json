@@ -1,197 +1,197 @@
 {
- "title": "L. K. Advani",
- "slug": "l-k-advani",
- "score": 24,
- "status": "Peaked / fading",
- "change_percent": 972,
- "growth_ratio": 10.72,
- "recent_avg": 28111,
- "baseline_avg": 2623,
- "explanation": "Attention surged to 11\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "List of Indian films of 2026",
+ "slug": "list-of-indian-films-of-2026",
+ "score": 33,
+ "status": "Elevated",
+ "change_percent": 205,
+ "growth_ratio": 3.05,
+ "recent_avg": 38636,
+ "baseline_avg": 12684,
+ "explanation": "Attention is 3.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 25488,
- "latest": 25741,
+ "abs_change": 25952,
+ "latest": 36913,
  "components": {
-  "acceleration": 0.606,
-  "anomaly": 0.881,
+  "acceleration": 0.285,
+  "anomaly": 0.986,
   "persistence": 0.52,
-  "momentum": 0.505,
-  "volume": 0.724,
-  "spike_quality": 0.503
+  "momentum": 0.661,
+  "volume": 0.793,
+  "spike_quality": 0.794
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 28,111 views/day over the last 3 days (30-day baseline: 2,623)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 38,636 views/day over the last 3 days (30-day baseline: 12,684)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 991
-  },
-  {
    "date": "2026-10-02",
-   "views": 1144
+   "views": 10711
   },
   {
    "date": "2026-10-03",
-   "views": 882
+   "views": 9926
   },
   {
    "date": "2026-10-04",
-   "views": 1002
+   "views": 10959
   },
   {
    "date": "2026-10-05",
-   "views": 914
+   "views": 10133
   },
   {
    "date": "2026-10-06",
-   "views": 952
+   "views": 8752
   },
   {
    "date": "2026-10-07",
-   "views": 5797
+   "views": 10218
   },
   {
    "date": "2026-10-08",
-   "views": 8667
+   "views": 11738
   },
   {
    "date": "2026-10-09",
-   "views": 3748
+   "views": 10910
   },
   {
    "date": "2026-10-10",
-   "views": 1827
+   "views": 12103
   },
   {
    "date": "2026-10-11",
-   "views": 1536
+   "views": 13512
   },
   {
    "date": "2026-10-12",
-   "views": 1475
+   "views": 12107
   },
   {
    "date": "2026-10-13",
-   "views": 1454
+   "views": 11379
   },
   {
    "date": "2026-10-14",
-   "views": 1239
+   "views": 9289
   },
   {
    "date": "2026-10-15",
-   "views": 1240
+   "views": 9317
   },
   {
    "date": "2026-10-16",
-   "views": 5014
+   "views": 9819
   },
   {
    "date": "2026-10-17",
-   "views": 12858
+   "views": 10632
   },
   {
    "date": "2026-10-18",
-   "views": 6624
+   "views": 12559
   },
   {
    "date": "2026-10-19",
-   "views": 8706
+   "views": 13324
   },
   {
    "date": "2026-10-20",
-   "views": 4403
+   "views": 13238
   },
   {
    "date": "2026-10-21",
-   "views": 2620
+   "views": 17088
   },
   {
    "date": "2026-10-22",
-   "views": 1392
+   "views": 11109
   },
   {
    "date": "2026-10-23",
-   "views": 1247
+   "views": 10356
   },
   {
    "date": "2026-10-24",
-   "views": 1203
+   "views": 10959
   },
   {
    "date": "2026-10-25",
-   "views": 1201
+   "views": 16137
   },
   {
    "date": "2026-10-26",
-   "views": 1072
+   "views": 20356
   },
   {
    "date": "2026-10-27",
-   "views": 985
+   "views": 18469
   },
   {
    "date": "2026-10-28",
-   "views": 958
+   "views": 15514
   },
   {
    "date": "2026-10-29",
-   "views": 886
+   "views": 14119
   },
   {
    "date": "2026-10-30",
-   "views": 950
+   "views": 13120
   },
   {
    "date": "2026-10-31",
-   "views": 1167
+   "views": 12279
   },
   {
    "date": "2026-11-01",
-   "views": 1113
+   "views": 13010
   },
   {
    "date": "2026-11-02",
-   "views": 1063
+   "views": 13385
   },
   {
    "date": "2026-11-03",
-   "views": 948
+   "views": 11503
   },
   {
    "date": "2026-11-04",
-   "views": 967
+   "views": 9229
   },
   {
    "date": "2026-11-05",
-   "views": 1034
+   "views": 10435
   },
   {
    "date": "2026-11-06",
-   "views": 1095
+   "views": 11704
   },
   {
    "date": "2026-11-07",
-   "views": 7970
+   "views": 13569
   },
   {
    "date": "2026-11-08",
-   "views": 50622
+   "views": 30996
   },
   {
    "date": "2026-11-09",
-   "views": 25741
+   "views": 47998
+  },
+  {
+   "date": "2026-11-10",
+   "views": 36913
   }
  ],
- "wikipedia_title": "L._K._Advani",
+ "wikipedia_title": "List_of_Indian_films_of_2026",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

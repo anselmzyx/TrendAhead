@@ -1,198 +1,198 @@
 {
- "title": "Godzilla Minus Zero",
- "slug": "godzilla-minus-zero",
- "score": 68,
+ "title": "Jemima Goldsmith",
+ "slug": "jemima-goldsmith",
+ "score": 66,
  "status": "Building",
- "change_percent": 630,
- "growth_ratio": 7.3,
- "recent_avg": 143481,
- "baseline_avg": 19668,
- "explanation": "Attention is 7.3\u00d7 its 30-day baseline.",
+ "change_percent": 1975,
+ "growth_ratio": 20.75,
+ "recent_avg": 54865,
+ "baseline_avg": 2644,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 123813,
- "latest": 147576,
+ "abs_change": 52221,
+ "latest": 96742,
  "components": {
-  "acceleration": 0.508,
-  "anomaly": 0.473,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.969
+  "acceleration": 0.775,
+  "anomaly": 1.0,
+  "persistence": 0.84,
+  "momentum": 0.933,
+  "volume": 0.87,
+  "spike_quality": 0.808
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 143,481 views/day over the last 3 days (30-day baseline: 19,668)."
+  "Averaging 54,865 views/day over the last 3 days (30-day baseline: 2,644)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 8796
-  },
-  {
    "date": "2026-10-02",
-   "views": 10144
+   "views": 874
   },
   {
    "date": "2026-10-03",
-   "views": 8951
+   "views": 879
   },
   {
    "date": "2026-10-04",
-   "views": 7678
+   "views": 1019
   },
   {
    "date": "2026-10-05",
-   "views": 7166
+   "views": 1736
   },
   {
    "date": "2026-10-06",
-   "views": 9070
+   "views": 1155
   },
   {
    "date": "2026-10-07",
-   "views": 8976
+   "views": 2675
   },
   {
    "date": "2026-10-08",
-   "views": 8756
+   "views": 1484
   },
   {
    "date": "2026-10-09",
-   "views": 8204
+   "views": 890
   },
   {
    "date": "2026-10-10",
-   "views": 7697
+   "views": 926
   },
   {
    "date": "2026-10-11",
-   "views": 14116
+   "views": 1222
   },
   {
    "date": "2026-10-12",
-   "views": 11710
+   "views": 2608
   },
   {
    "date": "2026-10-13",
-   "views": 8945
+   "views": 1405
   },
   {
    "date": "2026-10-14",
-   "views": 7726
+   "views": 3113
   },
   {
    "date": "2026-10-15",
-   "views": 7260
+   "views": 3009
   },
   {
    "date": "2026-10-16",
-   "views": 7730
+   "views": 2122
   },
   {
    "date": "2026-10-17",
-   "views": 7095
+   "views": 1394
   },
   {
    "date": "2026-10-18",
-   "views": 6666
+   "views": 1472
   },
   {
    "date": "2026-10-19",
-   "views": 7595
+   "views": 1548
   },
   {
    "date": "2026-10-20",
-   "views": 7327
+   "views": 1618
   },
   {
    "date": "2026-10-21",
-   "views": 7235
+   "views": 1282
   },
   {
    "date": "2026-10-22",
-   "views": 7407
+   "views": 1341
   },
   {
    "date": "2026-10-23",
-   "views": 7377
+   "views": 1176
   },
   {
    "date": "2026-10-24",
-   "views": 7481
+   "views": 918
   },
   {
    "date": "2026-10-25",
-   "views": 8082
+   "views": 883
   },
   {
    "date": "2026-10-26",
-   "views": 8502
+   "views": 1081
   },
   {
    "date": "2026-10-27",
-   "views": 9360
+   "views": 1193
   },
   {
    "date": "2026-10-28",
-   "views": 12311
+   "views": 1749
   },
   {
    "date": "2026-10-29",
-   "views": 15438
+   "views": 2734
   },
   {
    "date": "2026-10-30",
-   "views": 14617
+   "views": 1295
   },
   {
    "date": "2026-10-31",
-   "views": 16432
+   "views": 1045
   },
   {
    "date": "2026-11-01",
-   "views": 18113
+   "views": 906
   },
   {
    "date": "2026-11-02",
-   "views": 23658
+   "views": 994
   },
   {
    "date": "2026-11-03",
-   "views": 48349
+   "views": 1100
   },
   {
    "date": "2026-11-04",
-   "views": 74443
+   "views": 826
   },
   {
    "date": "2026-11-05",
-   "views": 77851
+   "views": 14011
   },
   {
    "date": "2026-11-06",
-   "views": 122560
+   "views": 14756
   },
   {
    "date": "2026-11-07",
-   "views": 137744
+   "views": 10692
   },
   {
    "date": "2026-11-08",
-   "views": 145122
+   "views": 8970
   },
   {
    "date": "2026-11-09",
-   "views": 147576
+   "views": 58883
+  },
+  {
+   "date": "2026-11-10",
+   "views": 96742
   }
  ],
- "wikipedia_title": "Godzilla_Minus_Zero",
+ "wikipedia_title": "Jemima_Goldsmith",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

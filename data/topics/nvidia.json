@@ -1,37 +1,33 @@
 {
  "title": "Nvidia",
  "slug": "nvidia",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 953,
- "growth_ratio": 10.53,
- "recent_avg": 55251,
- "baseline_avg": 5246,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "score": 48,
+ "status": "Building",
+ "change_percent": 1721,
+ "growth_ratio": 18.21,
+ "recent_avg": 94690,
+ "baseline_avg": 5199,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 50005,
- "latest": 142333,
+ "abs_change": 89491,
+ "latest": 123851,
  "components": {
-  "acceleration": 0.602,
+  "acceleration": 0.742,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.871,
-  "spike_quality": 0.632
+  "persistence": 0.52,
+  "momentum": 0.722,
+  "volume": 0.988,
+  "spike_quality": 0.744
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 55,251 views/day over the last 3 days (30-day baseline: 5,246)."
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 94,690 views/day over the last 3 days (30-day baseline: 5,199)."
  ],
  "history": [
-  {
-   "date": "2026-10-01",
-   "views": 5277
-  },
   {
    "date": "2026-10-02",
    "views": 4992
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-09",
    "views": 142333
+  },
+  {
+   "date": "2026-11-10",
+   "views": 123851
   }
  ],
  "wikipedia_title": "Nvidia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

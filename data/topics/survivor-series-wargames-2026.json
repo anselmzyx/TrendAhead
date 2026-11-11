@@ -1,197 +1,197 @@
 {
- "title": "Godzilla Minus One",
- "slug": "godzilla-minus-one",
- "score": 50,
- "status": "Building",
- "change_percent": 529,
- "growth_ratio": 6.29,
- "recent_avg": 51772,
- "baseline_avg": 8236,
- "explanation": "Attention is 6.3\u00d7 its 30-day baseline.",
+ "title": "Survivor Series: WarGames (2026)",
+ "slug": "survivor-series-wargames-2026",
+ "score": 44,
+ "status": "Elevated",
+ "change_percent": 574,
+ "growth_ratio": 6.74,
+ "recent_avg": 39392,
+ "baseline_avg": 5842,
+ "explanation": "Attention is 6.7\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 43536,
- "latest": 51174,
+ "abs_change": 33550,
+ "latest": 82896,
  "components": {
-  "acceleration": 0.47,
-  "anomaly": 0.497,
-  "persistence": 0.92,
-  "momentum": 0.769,
-  "volume": 0.857,
-  "spike_quality": 0.94
+  "acceleration": 0.488,
+  "anomaly": 0.588,
+  "persistence": 0.84,
+  "momentum": 0.8,
+  "volume": 0.798,
+  "spike_quality": 0.807
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 51,772 views/day over the last 3 days (30-day baseline: 8,236)."
+  "Averaging 39,392 views/day over the last 3 days (30-day baseline: 5,842)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 3802
-  },
-  {
    "date": "2026-10-02",
-   "views": 4494
+   "views": 1410
   },
   {
    "date": "2026-10-03",
-   "views": 4539
+   "views": 2489
   },
   {
    "date": "2026-10-04",
-   "views": 4228
+   "views": 1648
   },
   {
    "date": "2026-10-05",
-   "views": 3266
+   "views": 1607
   },
   {
    "date": "2026-10-06",
-   "views": 4247
+   "views": 2912
   },
   {
    "date": "2026-10-07",
-   "views": 4383
+   "views": 1765
   },
   {
    "date": "2026-10-08",
-   "views": 4241
+   "views": 1558
   },
   {
    "date": "2026-10-09",
-   "views": 3949
+   "views": 1739
   },
   {
    "date": "2026-10-10",
-   "views": 4323
+   "views": 4858
   },
   {
    "date": "2026-10-11",
-   "views": 7267
+   "views": 8523
   },
   {
    "date": "2026-10-12",
-   "views": 6446
+   "views": 3739
   },
   {
    "date": "2026-10-13",
-   "views": 4693
+   "views": 7957
   },
   {
    "date": "2026-10-14",
-   "views": 4166
+   "views": 3853
   },
   {
    "date": "2026-10-15",
-   "views": 3669
+   "views": 2782
   },
   {
    "date": "2026-10-16",
-   "views": 4058
+   "views": 2601
   },
   {
    "date": "2026-10-17",
-   "views": 4556
+   "views": 3702
   },
   {
    "date": "2026-10-18",
-   "views": 4320
+   "views": 2580
   },
   {
    "date": "2026-10-19",
-   "views": 4179
+   "views": 2505
   },
   {
    "date": "2026-10-20",
-   "views": 3784
+   "views": 7170
   },
   {
    "date": "2026-10-21",
-   "views": 3532
+   "views": 3776
   },
   {
    "date": "2026-10-22",
-   "views": 3768
+   "views": 3029
   },
   {
    "date": "2026-10-23",
-   "views": 3738
+   "views": 3244
   },
   {
    "date": "2026-10-24",
-   "views": 4146
+   "views": 5469
   },
   {
    "date": "2026-10-25",
-   "views": 4566
+   "views": 3436
   },
   {
    "date": "2026-10-26",
-   "views": 4433
+   "views": 3201
   },
   {
    "date": "2026-10-27",
-   "views": 4827
+   "views": 5315
   },
   {
    "date": "2026-10-28",
-   "views": 5644
+   "views": 3507
   },
   {
    "date": "2026-10-29",
-   "views": 6305
+   "views": 3162
   },
   {
    "date": "2026-10-30",
-   "views": 6639
+   "views": 3084
   },
   {
    "date": "2026-10-31",
-   "views": 7434
+   "views": 5640
   },
   {
    "date": "2026-11-01",
-   "views": 8660
+   "views": 5712
   },
   {
    "date": "2026-11-02",
-   "views": 10751
+   "views": 4637
   },
   {
    "date": "2026-11-03",
-   "views": 17669
+   "views": 13399
   },
   {
    "date": "2026-11-04",
-   "views": 23257
+   "views": 5285
   },
   {
    "date": "2026-11-05",
-   "views": 28377
+   "views": 5494
   },
   {
    "date": "2026-11-06",
-   "views": 43683
+   "views": 13019
   },
   {
    "date": "2026-11-07",
-   "views": 50171
+   "views": 32847
   },
   {
    "date": "2026-11-08",
-   "views": 53971
+   "views": 22250
   },
   {
    "date": "2026-11-09",
-   "views": 51174
+   "views": 13030
+  },
+  {
+   "date": "2026-11-10",
+   "views": 82896
   }
  ],
- "wikipedia_title": "Godzilla_Minus_One",
+ "wikipedia_title": "Survivor_Series:_WarGames_(2026)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

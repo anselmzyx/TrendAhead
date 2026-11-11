@@ -1,197 +1,198 @@
 {
- "title": "Jensen Huang",
- "slug": "jensen-huang",
- "score": 58,
+ "title": "James Gunn",
+ "slug": "james-gunn",
+ "score": 41,
  "status": "Breaking out",
- "change_percent": 4046,
- "growth_ratio": 41.46,
- "recent_avg": 296320,
- "baseline_avg": 7147,
- "explanation": "Attention is 41\u00d7 its 30-day baseline.",
+ "change_percent": 661,
+ "growth_ratio": 7.61,
+ "recent_avg": 29718,
+ "baseline_avg": 3905,
+ "explanation": "Attention is 7.6\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 289173,
- "latest": 733363,
+ "abs_change": 25813,
+ "latest": 50786,
  "components": {
-  "acceleration": 0.952,
+  "acceleration": 0.519,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.614
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.737,
+  "spike_quality": 0.787
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 296,320 views/day over the last 3 days (30-day baseline: 7,147)."
+  "Averaging 29,718 views/day over the last 3 days (30-day baseline: 3,905)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 8385
-  },
-  {
    "date": "2026-10-02",
-   "views": 6367
+   "views": 4394
   },
   {
    "date": "2026-10-03",
-   "views": 6178
+   "views": 4401
   },
   {
    "date": "2026-10-04",
-   "views": 5251
+   "views": 4869
   },
   {
    "date": "2026-10-05",
-   "views": 6210
+   "views": 6306
   },
   {
    "date": "2026-10-06",
-   "views": 6864
+   "views": 5192
   },
   {
    "date": "2026-10-07",
-   "views": 6782
+   "views": 4334
   },
   {
    "date": "2026-10-08",
-   "views": 7985
+   "views": 4001
   },
   {
    "date": "2026-10-09",
-   "views": 7631
+   "views": 3896
   },
   {
    "date": "2026-10-10",
-   "views": 5921
+   "views": 4211
   },
   {
    "date": "2026-10-11",
-   "views": 5497
+   "views": 4147
   },
   {
    "date": "2026-10-12",
-   "views": 5059
+   "views": 4022
   },
   {
    "date": "2026-10-13",
-   "views": 5184
+   "views": 4190
   },
   {
    "date": "2026-10-14",
-   "views": 6452
+   "views": 3870
   },
   {
    "date": "2026-10-15",
-   "views": 7762
+   "views": 3799
   },
   {
    "date": "2026-10-16",
-   "views": 7744
+   "views": 3719
   },
   {
    "date": "2026-10-17",
-   "views": 6414
+   "views": 3623
   },
   {
    "date": "2026-10-18",
-   "views": 7696
+   "views": 3765
   },
   {
    "date": "2026-10-19",
-   "views": 7313
+   "views": 3665
   },
   {
    "date": "2026-10-20",
-   "views": 10450
+   "views": 4495
   },
   {
    "date": "2026-10-21",
-   "views": 8175
+   "views": 3929
   },
   {
    "date": "2026-10-22",
-   "views": 8928
+   "views": 4077
   },
   {
    "date": "2026-10-23",
-   "views": 8059
+   "views": 4509
   },
   {
    "date": "2026-10-24",
-   "views": 8318
+   "views": 4836
   },
   {
    "date": "2026-10-25",
-   "views": 6523
+   "views": 4964
   },
   {
    "date": "2026-10-26",
-   "views": 6412
+   "views": 4899
   },
   {
    "date": "2026-10-27",
-   "views": 5581
+   "views": 4233
   },
   {
    "date": "2026-10-28",
-   "views": 5183
+   "views": 4035
   },
   {
    "date": "2026-10-29",
-   "views": 13876
+   "views": 3678
   },
   {
    "date": "2026-10-30",
-   "views": 12234
+   "views": 3999
   },
   {
    "date": "2026-10-31",
-   "views": 7094
+   "views": 4322
   },
   {
    "date": "2026-11-01",
-   "views": 5539
+   "views": 4130
   },
   {
    "date": "2026-11-02",
-   "views": 5265
+   "views": 4001
   },
   {
    "date": "2026-11-03",
-   "views": 6492
+   "views": 3166
   },
   {
    "date": "2026-11-04",
-   "views": 4768
+   "views": 2491
   },
   {
    "date": "2026-11-05",
-   "views": 4819
+   "views": 2763
   },
   {
    "date": "2026-11-06",
-   "views": 6023
+   "views": 2745
   },
   {
    "date": "2026-11-07",
-   "views": 33238
+   "views": 2978
   },
   {
    "date": "2026-11-08",
-   "views": 122360
+   "views": 2973
   },
   {
    "date": "2026-11-09",
-   "views": 733363
+   "views": 35395
+  },
+  {
+   "date": "2026-11-10",
+   "views": 50786
   }
  ],
- "wikipedia_title": "Jensen_Huang",
+ "wikipedia_title": "James_Gunn",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

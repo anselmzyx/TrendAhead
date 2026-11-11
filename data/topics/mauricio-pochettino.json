@@ -1,198 +1,197 @@
 {
- "title": "Four Seasons Total Landscaping press conference",
- "slug": "four-seasons-total-landscaping-press-conference",
- "score": 22,
- "status": "Peaked / fading",
- "change_percent": 4304,
- "growth_ratio": 44.05,
- "recent_avg": 23428,
- "baseline_avg": 532,
- "explanation": "Attention surged to 44\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Mauricio Pochettino",
+ "slug": "mauricio-pochettino",
+ "score": 52,
+ "status": "Breaking out",
+ "change_percent": 3471,
+ "growth_ratio": 35.7,
+ "recent_avg": 31637,
+ "baseline_avg": 886,
+ "explanation": "Attention is 36\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 22896,
- "latest": 11878,
+ "abs_change": 30751,
+ "latest": 73306,
  "components": {
-  "acceleration": 0.968,
+  "acceleration": 0.914,
   "anomaly": 1.0,
-  "persistence": 0.64,
-  "momentum": 0.355,
-  "volume": 0.685,
-  "spike_quality": 0.355
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.75,
+  "spike_quality": 0.646
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 23,428 views/day over the last 3 days (30-day baseline: 532)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 31,637 views/day over the last 3 days (30-day baseline: 886)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 474
-  },
-  {
    "date": "2026-10-02",
-   "views": 539
+   "views": 790
   },
   {
    "date": "2026-10-03",
-   "views": 243
+   "views": 1362
   },
   {
    "date": "2026-10-04",
-   "views": 243
+   "views": 5499
   },
   {
    "date": "2026-10-05",
-   "views": 253
+   "views": 1242
   },
   {
    "date": "2026-10-06",
-   "views": 195
+   "views": 1038
   },
   {
    "date": "2026-10-07",
-   "views": 231
+   "views": 3682
   },
   {
    "date": "2026-10-08",
-   "views": 256
+   "views": 840
   },
   {
    "date": "2026-10-09",
-   "views": 288
+   "views": 939
   },
   {
    "date": "2026-10-10",
-   "views": 226
+   "views": 919
   },
   {
    "date": "2026-10-11",
-   "views": 196
+   "views": 894
   },
   {
    "date": "2026-10-12",
-   "views": 709
+   "views": 600
   },
   {
    "date": "2026-10-13",
-   "views": 1236
+   "views": 578
   },
   {
    "date": "2026-10-14",
-   "views": 544
+   "views": 577
   },
   {
    "date": "2026-10-15",
-   "views": 375
+   "views": 1349
   },
   {
    "date": "2026-10-16",
-   "views": 632
+   "views": 924
   },
   {
    "date": "2026-10-17",
-   "views": 445
+   "views": 1096
   },
   {
    "date": "2026-10-18",
-   "views": 276
+   "views": 651
   },
   {
    "date": "2026-10-19",
-   "views": 276
+   "views": 802
   },
   {
    "date": "2026-10-20",
-   "views": 276
+   "views": 835
   },
   {
    "date": "2026-10-21",
-   "views": 185
+   "views": 907
   },
   {
    "date": "2026-10-22",
-   "views": 282
+   "views": 1144
   },
   {
    "date": "2026-10-23",
-   "views": 276
+   "views": 732
   },
   {
    "date": "2026-10-24",
-   "views": 233
+   "views": 757
   },
   {
    "date": "2026-10-25",
-   "views": 407
+   "views": 964
   },
   {
    "date": "2026-10-26",
-   "views": 466
+   "views": 1046
   },
   {
    "date": "2026-10-27",
-   "views": 428
+   "views": 1692
   },
   {
    "date": "2026-10-28",
-   "views": 347
+   "views": 978
   },
   {
    "date": "2026-10-29",
-   "views": 591
+   "views": 791
   },
   {
    "date": "2026-10-30",
-   "views": 810
+   "views": 995
   },
   {
    "date": "2026-10-31",
-   "views": 396
+   "views": 1276
   },
   {
    "date": "2026-11-01",
-   "views": 337
+   "views": 802
   },
   {
    "date": "2026-11-02",
-   "views": 473
+   "views": 718
   },
   {
    "date": "2026-11-03",
-   "views": 1849
+   "views": 781
   },
   {
    "date": "2026-11-04",
-   "views": 1641
+   "views": 662
   },
   {
    "date": "2026-11-05",
-   "views": 895
+   "views": 899
   },
   {
    "date": "2026-11-06",
-   "views": 603
+   "views": 582
   },
   {
    "date": "2026-11-07",
-   "views": 12291
+   "views": 694
   },
   {
    "date": "2026-11-08",
-   "views": 46115
+   "views": 1384
   },
   {
    "date": "2026-11-09",
-   "views": 11878
+   "views": 20220
+  },
+  {
+   "date": "2026-11-10",
+   "views": 73306
   }
  ],
- "wikipedia_title": "Four_Seasons_Total_Landscaping_press_conference",
+ "wikipedia_title": "Mauricio_Pochettino",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

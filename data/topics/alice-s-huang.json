@@ -1,37 +1,33 @@
 {
  "title": "Alice S. Huang",
  "slug": "alice-s-huang",
- "score": 56,
- "status": "Breaking out",
- "change_percent": 18899,
- "growth_ratio": 189.52,
- "recent_avg": 30778,
- "baseline_avg": 162,
- "explanation": "Attention is 190\u00d7 its 30-day baseline.",
+ "score": 40,
+ "status": "Peaked / fading",
+ "change_percent": 14336,
+ "growth_ratio": 144.54,
+ "recent_avg": 42732,
+ "baseline_avg": 296,
+ "explanation": "Attention surged to 145\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30616,
- "latest": 75261,
+ "abs_change": 42436,
+ "latest": 39880,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.744,
-  "spike_quality": 0.613
+  "persistence": 0.92,
+  "momentum": 0.518,
+  "volume": 0.815,
+  "spike_quality": 0.518
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,778 views/day over the last 3 days (30-day baseline: 162)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 42,732 views/day over the last 3 days (30-day baseline: 296)."
  ],
  "history": [
-  {
-   "date": "2026-10-01",
-   "views": 33
-  },
   {
    "date": "2026-10-02",
    "views": 8
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-09",
    "views": 75261
+  },
+  {
+   "date": "2026-11-10",
+   "views": 39880
   }
  ],
  "wikipedia_title": "Alice_S._Huang",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

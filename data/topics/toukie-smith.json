@@ -1,198 +1,197 @@
 {
- "title": "Karlie Kloss",
- "slug": "karlie-kloss",
- "score": 41,
+ "title": "Toukie Smith",
+ "slug": "toukie-smith",
+ "score": 47,
  "status": "Breaking out",
- "change_percent": 1269,
- "growth_ratio": 13.69,
- "recent_avg": 26175,
- "baseline_avg": 1912,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "change_percent": 8961,
+ "growth_ratio": 90.48,
+ "recent_avg": 32438,
+ "baseline_avg": 358,
+ "explanation": "Attention is 90\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 24263,
- "latest": 51699,
+ "abs_change": 32080,
+ "latest": 73111,
  "components": {
-  "acceleration": 0.669,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.4,
   "momentum": 0.933,
-  "volume": 0.709,
-  "spike_quality": 0.728
+  "volume": 0.756,
+  "spike_quality": 0.653
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 26,175 views/day over the last 3 days (30-day baseline: 1,912)."
+  "Averaging 32,438 views/day over the last 3 days (30-day baseline: 358)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 912
-  },
-  {
    "date": "2026-10-02",
-   "views": 994
+   "views": 428
   },
   {
    "date": "2026-10-03",
-   "views": 935
+   "views": 384
   },
   {
    "date": "2026-10-04",
-   "views": 1100
+   "views": 341
   },
   {
    "date": "2026-10-05",
-   "views": 1100
+   "views": 420
   },
   {
    "date": "2026-10-06",
-   "views": 950
+   "views": 336
   },
   {
    "date": "2026-10-07",
-   "views": 881
+   "views": 303
   },
   {
    "date": "2026-10-08",
-   "views": 1361
+   "views": 273
   },
   {
    "date": "2026-10-09",
-   "views": 1544
+   "views": 250
   },
   {
    "date": "2026-10-10",
-   "views": 1177
+   "views": 293
   },
   {
    "date": "2026-10-11",
-   "views": 939
+   "views": 368
   },
   {
    "date": "2026-10-12",
-   "views": 945
+   "views": 349
   },
   {
    "date": "2026-10-13",
-   "views": 1019
+   "views": 352
   },
   {
    "date": "2026-10-14",
-   "views": 1011
+   "views": 249
   },
   {
    "date": "2026-10-15",
-   "views": 944
+   "views": 257
   },
   {
    "date": "2026-10-16",
-   "views": 1006
+   "views": 370
   },
   {
    "date": "2026-10-17",
-   "views": 1110
+   "views": 346
   },
   {
    "date": "2026-10-18",
-   "views": 1531
+   "views": 313
   },
   {
    "date": "2026-10-19",
-   "views": 3693
+   "views": 241
   },
   {
    "date": "2026-10-20",
-   "views": 2914
+   "views": 248
   },
   {
    "date": "2026-10-21",
-   "views": 2111
+   "views": 271
   },
   {
    "date": "2026-10-22",
-   "views": 1973
+   "views": 363
   },
   {
    "date": "2026-10-23",
-   "views": 2458
+   "views": 332
   },
   {
    "date": "2026-10-24",
-   "views": 2060
+   "views": 407
   },
   {
    "date": "2026-10-25",
-   "views": 1810
+   "views": 778
   },
   {
    "date": "2026-10-26",
-   "views": 1995
+   "views": 768
   },
   {
    "date": "2026-10-27",
-   "views": 2149
+   "views": 318
   },
   {
    "date": "2026-10-28",
-   "views": 1974
+   "views": 319
   },
   {
    "date": "2026-10-29",
-   "views": 2573
+   "views": 251
   },
   {
    "date": "2026-10-30",
-   "views": 3930
+   "views": 224
   },
   {
    "date": "2026-10-31",
-   "views": 4958
+   "views": 232
   },
   {
    "date": "2026-11-01",
-   "views": 2097
+   "views": 210
   },
   {
    "date": "2026-11-02",
-   "views": 1792
+   "views": 374
   },
   {
    "date": "2026-11-03",
-   "views": 1769
+   "views": 444
   },
   {
    "date": "2026-11-04",
-   "views": 1455
+   "views": 407
   },
   {
    "date": "2026-11-05",
-   "views": 1572
+   "views": 448
   },
   {
    "date": "2026-11-06",
-   "views": 1496
+   "views": 466
   },
   {
    "date": "2026-11-07",
-   "views": 1486
+   "views": 507
   },
   {
    "date": "2026-11-08",
-   "views": 25340
+   "views": 497
   },
   {
    "date": "2026-11-09",
-   "views": 51699
+   "views": 23706
+  },
+  {
+   "date": "2026-11-10",
+   "views": 73111
   }
  ],
- "wikipedia_title": "Karlie_Kloss",
+ "wikipedia_title": "Toukie_Smith",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

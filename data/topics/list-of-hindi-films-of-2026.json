@@ -1,197 +1,197 @@
 {
- "title": "The Odyssey (2026 film)",
- "slug": "the-odyssey-2026-film",
- "score": 32,
+ "title": "List of Hindi films of 2026",
+ "slug": "list-of-hindi-films-of-2026",
+ "score": 34,
  "status": "Building",
- "change_percent": 118,
- "growth_ratio": 2.18,
- "recent_avg": 52386,
- "baseline_avg": 24057,
- "explanation": "Attention is 2.2\u00d7 its 30-day baseline.",
+ "change_percent": 135,
+ "growth_ratio": 2.35,
+ "recent_avg": 41287,
+ "baseline_avg": 17599,
+ "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 28329,
- "latest": 54384,
+ "abs_change": 23688,
+ "latest": 42990,
  "components": {
-  "acceleration": 0.199,
-  "anomaly": 0.723,
+  "acceleration": 0.218,
+  "anomaly": 0.901,
   "persistence": 0.52,
-  "momentum": 0.73,
-  "volume": 0.86,
-  "spike_quality": 0.872
+  "momentum": 0.718,
+  "volume": 0.808,
+  "spike_quality": 0.865
  },
  "why": [
   "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 52,386 views/day over the last 3 days (30-day baseline: 24,057)."
+  "Averaging 41,287 views/day over the last 3 days (30-day baseline: 17,599)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 31513
-  },
-  {
    "date": "2026-10-02",
-   "views": 31338
+   "views": 22631
   },
   {
    "date": "2026-10-03",
-   "views": 34414
+   "views": 25438
   },
   {
    "date": "2026-10-04",
-   "views": 38575
+   "views": 39550
   },
   {
    "date": "2026-10-05",
-   "views": 33320
+   "views": 36701
   },
   {
    "date": "2026-10-06",
-   "views": 29114
+   "views": 30345
   },
   {
    "date": "2026-10-07",
-   "views": 30229
+   "views": 26765
   },
   {
    "date": "2026-10-08",
-   "views": 27785
+   "views": 21491
   },
   {
    "date": "2026-10-09",
-   "views": 27911
+   "views": 20799
   },
   {
    "date": "2026-10-10",
-   "views": 31761
+   "views": 22822
   },
   {
    "date": "2026-10-11",
-   "views": 34702
+   "views": 23509
   },
   {
    "date": "2026-10-12",
-   "views": 31111
+   "views": 21755
   },
   {
    "date": "2026-10-13",
-   "views": 27061
+   "views": 20796
   },
   {
    "date": "2026-10-14",
-   "views": 27490
+   "views": 18052
   },
   {
    "date": "2026-10-15",
-   "views": 23762
+   "views": 19164
   },
   {
    "date": "2026-10-16",
-   "views": 23196
+   "views": 18958
   },
   {
    "date": "2026-10-17",
-   "views": 25836
+   "views": 18641
   },
   {
    "date": "2026-10-18",
-   "views": 27162
+   "views": 18566
   },
   {
    "date": "2026-10-19",
-   "views": 25391
+   "views": 17250
   },
   {
    "date": "2026-10-20",
-   "views": 22470
+   "views": 16493
   },
   {
    "date": "2026-10-21",
-   "views": 20946
+   "views": 16332
   },
   {
    "date": "2026-10-22",
-   "views": 20044
+   "views": 15937
   },
   {
    "date": "2026-10-23",
-   "views": 20737
+   "views": 17543
   },
   {
    "date": "2026-10-24",
-   "views": 23033
+   "views": 17801
   },
   {
    "date": "2026-10-25",
-   "views": 24866
+   "views": 16580
   },
   {
    "date": "2026-10-26",
-   "views": 24204
+   "views": 15915
   },
   {
    "date": "2026-10-27",
-   "views": 23447
+   "views": 14892
   },
   {
    "date": "2026-10-28",
-   "views": 21674
+   "views": 14708
   },
   {
    "date": "2026-10-29",
-   "views": 20685
+   "views": 15459
   },
   {
    "date": "2026-10-30",
-   "views": 19876
+   "views": 16788
   },
   {
    "date": "2026-10-31",
-   "views": 21943
+   "views": 16514
   },
   {
    "date": "2026-11-01",
-   "views": 23889
+   "views": 15373
   },
   {
    "date": "2026-11-02",
-   "views": 21578
+   "views": 14279
   },
   {
    "date": "2026-11-03",
-   "views": 19563
+   "views": 13535
   },
   {
    "date": "2026-11-04",
-   "views": 17389
+   "views": 12806
   },
   {
    "date": "2026-11-05",
-   "views": 19721
+   "views": 16553
   },
   {
    "date": "2026-11-06",
-   "views": 22476
+   "views": 19512
   },
   {
    "date": "2026-11-07",
-   "views": 41150
+   "views": 20628
   },
   {
    "date": "2026-11-08",
-   "views": 61624
+   "views": 31106
   },
   {
    "date": "2026-11-09",
-   "views": 54384
+   "views": 49765
+  },
+  {
+   "date": "2026-11-10",
+   "views": 42990
   }
  ],
- "wikipedia_title": "The_Odyssey_(2026_film)",
+ "wikipedia_title": "List_of_Hindi_films_of_2026",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

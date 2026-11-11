@@ -1,197 +1,197 @@
 {
- "title": "Ross Douthat",
- "slug": "ross-douthat",
- "score": 47,
+ "title": "Carson Wentz",
+ "slug": "carson-wentz",
+ "score": 57,
  "status": "Breaking out",
- "change_percent": 1676,
- "growth_ratio": 17.76,
- "recent_avg": 17530,
- "baseline_avg": 987,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "change_percent": 3160,
+ "growth_ratio": 32.6,
+ "recent_avg": 56724,
+ "baseline_avg": 1740,
+ "explanation": "Attention is 33\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 16543,
- "latest": 45272,
+ "abs_change": 54984,
+ "latest": 158702,
  "components": {
-  "acceleration": 0.735,
-  "anomaly": 0.859,
+  "acceleration": 0.891,
+  "anomaly": 1.0,
   "persistence": 0.8,
   "momentum": 1.0,
-  "volume": 0.622,
-  "spike_quality": 0.677
+  "volume": 0.877,
+  "spike_quality": 0.583
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 17,530 views/day over the last 3 days (30-day baseline: 987)."
+  "Averaging 56,724 views/day over the last 3 days (30-day baseline: 1,740)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 368
-  },
-  {
    "date": "2026-10-02",
-   "views": 334
+   "views": 1149
   },
   {
    "date": "2026-10-03",
-   "views": 267
+   "views": 1143
   },
   {
    "date": "2026-10-04",
-   "views": 644
+   "views": 2348
   },
   {
    "date": "2026-10-05",
-   "views": 2298
+   "views": 1984
   },
   {
    "date": "2026-10-06",
-   "views": 529
+   "views": 1181
   },
   {
    "date": "2026-10-07",
-   "views": 335
+   "views": 1152
   },
   {
    "date": "2026-10-08",
-   "views": 850
+   "views": 1083
   },
   {
    "date": "2026-10-09",
-   "views": 522
+   "views": 1184
   },
   {
    "date": "2026-10-10",
-   "views": 399
+   "views": 1017
   },
   {
    "date": "2026-10-11",
-   "views": 473
+   "views": 1994
   },
   {
    "date": "2026-10-12",
-   "views": 412
+   "views": 1624
   },
   {
    "date": "2026-10-13",
-   "views": 290
+   "views": 1347
   },
   {
    "date": "2026-10-14",
-   "views": 253
+   "views": 892
   },
   {
    "date": "2026-10-15",
-   "views": 482
+   "views": 1495
   },
   {
    "date": "2026-10-16",
-   "views": 366
+   "views": 1631
   },
   {
    "date": "2026-10-17",
-   "views": 246
+   "views": 1194
   },
   {
    "date": "2026-10-18",
-   "views": 504
+   "views": 1941
   },
   {
    "date": "2026-10-19",
-   "views": 468
+   "views": 2621
   },
   {
    "date": "2026-10-20",
-   "views": 392
+   "views": 1733
   },
   {
    "date": "2026-10-21",
-   "views": 333
+   "views": 1050
   },
   {
    "date": "2026-10-22",
-   "views": 367
+   "views": 812
   },
   {
    "date": "2026-10-23",
-   "views": 291
+   "views": 941
   },
   {
    "date": "2026-10-24",
-   "views": 198
+   "views": 718
   },
   {
    "date": "2026-10-25",
-   "views": 289
+   "views": 1959
   },
   {
    "date": "2026-10-26",
-   "views": 294
+   "views": 2141
   },
   {
    "date": "2026-10-27",
-   "views": 248
+   "views": 1851
   },
   {
    "date": "2026-10-28",
-   "views": 232
+   "views": 924
   },
   {
    "date": "2026-10-29",
-   "views": 328
+   "views": 857
   },
   {
    "date": "2026-10-30",
-   "views": 328
+   "views": 967
   },
   {
    "date": "2026-10-31",
-   "views": 264
+   "views": 793
   },
   {
    "date": "2026-11-01",
-   "views": 261
+   "views": 1785
   },
   {
    "date": "2026-11-02",
-   "views": 8189
+   "views": 2416
   },
   {
    "date": "2026-11-03",
-   "views": 7944
+   "views": 1597
   },
   {
    "date": "2026-11-04",
-   "views": 1603
+   "views": 1042
   },
   {
    "date": "2026-11-05",
-   "views": 1125
+   "views": 5098
   },
   {
    "date": "2026-11-06",
-   "views": 1660
+   "views": 5979
   },
   {
    "date": "2026-11-07",
-   "views": 3117
+   "views": 2605
   },
   {
    "date": "2026-11-08",
-   "views": 4201
+   "views": 3217
   },
   {
    "date": "2026-11-09",
-   "views": 45272
+   "views": 8253
+  },
+  {
+   "date": "2026-11-10",
+   "views": 158702
   }
  ],
- "wikipedia_title": "Ross_Douthat",
+ "wikipedia_title": "Carson_Wentz",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "2026 Krak\u00f3w shooting",
- "slug": "2026-krakow-shooting",
- "score": 52,
- "status": "Elevated",
- "change_percent": null,
- "growth_ratio": 1125.54,
- "recent_avg": 112554,
- "baseline_avg": 0,
- "explanation": "Attention is 1126\u00d7 its 30-day baseline.",
+ "title": "The End of Everything (Harrison novel)",
+ "slug": "the-end-of-everything-harrison-novel",
+ "score": 61,
+ "status": "Breaking out",
+ "change_percent": 12523,
+ "growth_ratio": 126.15,
+ "recent_avg": 33704,
+ "baseline_avg": 267,
+ "explanation": "Attention is 126\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 112554,
- "latest": 114724,
+ "abs_change": 33437,
+ "latest": 80691,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.678,
-  "volume": 1.0,
-  "spike_quality": 0.732
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.764,
+  "spike_quality": 0.625
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 112,554 views/day over the last 3 days (30-day baseline: 0)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 33,704 views/day over the last 3 days (30-day baseline: 267)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 0
-  },
-  {
    "date": "2026-10-02",
-   "views": 0
+   "views": 175
   },
   {
    "date": "2026-10-03",
-   "views": 0
+   "views": 173
   },
   {
    "date": "2026-10-04",
-   "views": 0
+   "views": 232
   },
   {
    "date": "2026-10-05",
-   "views": 0
+   "views": 193
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 167
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 191
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 181
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 172
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 195
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 498
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 296
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 377
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 390
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 252
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 248
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 162
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 242
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 243
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 185
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 159
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 183
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 257
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 233
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 253
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 264
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 226
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 229
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 217
   },
   {
    "date": "2026-10-30",
-   "views": 0
+   "views": 187
   },
   {
    "date": "2026-10-31",
-   "views": 0
+   "views": 189
   },
   {
    "date": "2026-11-01",
-   "views": 0
+   "views": 252
   },
   {
    "date": "2026-11-02",
-   "views": 0
+   "views": 262
   },
   {
    "date": "2026-11-03",
-   "views": 0
+   "views": 216
   },
   {
    "date": "2026-11-04",
-   "views": 0
+   "views": 190
   },
   {
    "date": "2026-11-05",
-   "views": 0
+   "views": 261
   },
   {
    "date": "2026-11-06",
-   "views": 0
+   "views": 631
   },
   {
    "date": "2026-11-07",
-   "views": 78832
+   "views": 546
   },
   {
    "date": "2026-11-08",
-   "views": 144105
+   "views": 609
   },
   {
    "date": "2026-11-09",
-   "views": 114724
+   "views": 19813
+  },
+  {
+   "date": "2026-11-10",
+   "views": 80691
   }
  ],
- "wikipedia_title": "2026_Krak\u00f3w_shooting",
+ "wikipedia_title": "The_End_of_Everything_(Harrison_novel)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Tommy Walsh (builder)",
- "slug": "tommy-walsh-builder",
- "score": 42,
+ "title": "SS Edmund Fitzgerald",
+ "slug": "ss-edmund-fitzgerald",
+ "score": 64,
  "status": "Breaking out",
- "change_percent": 12244,
- "growth_ratio": 123.31,
- "recent_avg": 45056,
- "baseline_avg": 365,
- "explanation": "Attention is 123\u00d7 its 30-day baseline.",
+ "change_percent": 1016,
+ "growth_ratio": 11.15,
+ "recent_avg": 67255,
+ "baseline_avg": 6029,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 44691,
- "latest": 134173,
+ "abs_change": 61226,
+ "latest": 163598,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.617,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.827,
-  "spike_quality": 0.508
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.914,
+  "spike_quality": 0.704
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,056 views/day over the last 3 days (30-day baseline: 365)."
+  "Averaging 67,255 views/day over the last 3 days (30-day baseline: 6,029)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 186
-  },
-  {
    "date": "2026-10-02",
-   "views": 1019
+   "views": 3004
   },
   {
    "date": "2026-10-03",
-   "views": 203
+   "views": 3180
   },
   {
    "date": "2026-10-04",
-   "views": 177
+   "views": 3069
   },
   {
    "date": "2026-10-05",
-   "views": 232
+   "views": 2707
   },
   {
    "date": "2026-10-06",
-   "views": 1318
+   "views": 2260
   },
   {
    "date": "2026-10-07",
-   "views": 192
+   "views": 2806
   },
   {
    "date": "2026-10-08",
-   "views": 1537
+   "views": 2665
   },
   {
    "date": "2026-10-09",
-   "views": 262
+   "views": 2648
   },
   {
    "date": "2026-10-10",
-   "views": 674
+   "views": 2662
   },
   {
    "date": "2026-10-11",
-   "views": 142
+   "views": 2697
   },
   {
    "date": "2026-10-12",
-   "views": 173
+   "views": 3183
   },
   {
    "date": "2026-10-13",
-   "views": 172
+   "views": 3756
   },
   {
    "date": "2026-10-14",
-   "views": 150
+   "views": 3515
   },
   {
    "date": "2026-10-15",
-   "views": 1797
+   "views": 4898
   },
   {
    "date": "2026-10-16",
-   "views": 235
+   "views": 5631
   },
   {
    "date": "2026-10-17",
-   "views": 1001
+   "views": 5809
   },
   {
    "date": "2026-10-18",
-   "views": 327
+   "views": 3936
   },
   {
    "date": "2026-10-19",
-   "views": 87
+   "views": 3562
   },
   {
    "date": "2026-10-20",
-   "views": 131
+   "views": 3271
   },
   {
    "date": "2026-10-21",
-   "views": 81
+   "views": 3394
   },
   {
    "date": "2026-10-22",
-   "views": 69
+   "views": 4288
   },
   {
    "date": "2026-10-23",
-   "views": 80
+   "views": 3924
   },
   {
    "date": "2026-10-24",
-   "views": 106
+   "views": 3954
   },
   {
    "date": "2026-10-25",
-   "views": 730
+   "views": 3247
   },
   {
    "date": "2026-10-26",
-   "views": 120
+   "views": 3595
   },
   {
    "date": "2026-10-27",
-   "views": 91
+   "views": 3703
   },
   {
    "date": "2026-10-28",
-   "views": 437
+   "views": 4733
   },
   {
    "date": "2026-10-29",
-   "views": 99
+   "views": 5459
   },
   {
    "date": "2026-10-30",
-   "views": 90
+   "views": 5054
   },
   {
    "date": "2026-10-31",
-   "views": 406
+   "views": 5593
   },
   {
    "date": "2026-11-01",
-   "views": 722
+   "views": 8870
   },
   {
    "date": "2026-11-02",
-   "views": 463
+   "views": 15256
   },
   {
    "date": "2026-11-03",
-   "views": 289
+   "views": 14609
   },
   {
    "date": "2026-11-04",
-   "views": 136
+   "views": 10698
   },
   {
    "date": "2026-11-05",
-   "views": 77
+   "views": 12203
   },
   {
    "date": "2026-11-06",
-   "views": 278
+   "views": 13251
   },
   {
    "date": "2026-11-07",
-   "views": 200
+   "views": 13485
   },
   {
    "date": "2026-11-08",
-   "views": 796
+   "views": 13632
   },
   {
    "date": "2026-11-09",
-   "views": 134173
+   "views": 24535
+  },
+  {
+   "date": "2026-11-10",
+   "views": 163598
   }
  ],
- "wikipedia_title": "Tommy_Walsh_(builder)",
+ "wikipedia_title": "SS_Edmund_Fitzgerald",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }

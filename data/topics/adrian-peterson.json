@@ -1,198 +1,197 @@
 {
- "title": "Scene (2026 film)",
- "slug": "scene-2026-film",
- "score": 64,
- "status": "Building",
- "change_percent": 1025,
- "growth_ratio": 11.25,
- "recent_avg": 173519,
- "baseline_avg": 15422,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "title": "Adrian Peterson",
+ "slug": "adrian-peterson",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 1577,
+ "growth_ratio": 16.77,
+ "recent_avg": 29079,
+ "baseline_avg": 1734,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 158097,
- "latest": 175996,
+ "abs_change": 27345,
+ "latest": 82217,
  "components": {
-  "acceleration": 0.619,
-  "anomaly": 0.568,
-  "persistence": 0.92,
-  "momentum": 0.867,
-  "volume": 1.0,
-  "spike_quality": 0.945
+  "acceleration": 0.721,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.732,
+  "spike_quality": 0.573
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 173,519 views/day over the last 3 days (30-day baseline: 15,422)."
+  "Averaging 29,079 views/day over the last 3 days (30-day baseline: 1,734)."
  ],
  "history": [
   {
-   "date": "2026-10-01",
-   "views": 1983
-  },
-  {
    "date": "2026-10-02",
-   "views": 2613
+   "views": 1777
   },
   {
    "date": "2026-10-03",
-   "views": 2749
+   "views": 2004
   },
   {
    "date": "2026-10-04",
-   "views": 3177
+   "views": 2284
   },
   {
    "date": "2026-10-05",
-   "views": 3066
+   "views": 2062
   },
   {
    "date": "2026-10-06",
-   "views": 3228
+   "views": 2463
   },
   {
    "date": "2026-10-07",
-   "views": 3143
+   "views": 1890
   },
   {
    "date": "2026-10-08",
-   "views": 5600
+   "views": 1697
   },
   {
    "date": "2026-10-09",
-   "views": 5225
+   "views": 1880
   },
   {
    "date": "2026-10-10",
-   "views": 3930
+   "views": 1917
   },
   {
    "date": "2026-10-11",
-   "views": 3198
+   "views": 2013
   },
   {
    "date": "2026-10-12",
-   "views": 2966
+   "views": 2120
   },
   {
    "date": "2026-10-13",
-   "views": 2884
+   "views": 1860
   },
   {
    "date": "2026-10-14",
-   "views": 2297
+   "views": 1711
   },
   {
    "date": "2026-10-15",
-   "views": 2640
+   "views": 2275
   },
   {
    "date": "2026-10-16",
-   "views": 2761
+   "views": 2724
   },
   {
    "date": "2026-10-17",
-   "views": 2840
+   "views": 2465
   },
   {
    "date": "2026-10-18",
-   "views": 3528
+   "views": 1828
   },
   {
    "date": "2026-10-19",
-   "views": 5849
+   "views": 1749
   },
   {
    "date": "2026-10-20",
-   "views": 7869
+   "views": 1873
   },
   {
    "date": "2026-10-21",
-   "views": 6262
+   "views": 1471
   },
   {
    "date": "2026-10-22",
-   "views": 11707
+   "views": 1601
   },
   {
    "date": "2026-10-23",
-   "views": 13569
+   "views": 1727
   },
   {
    "date": "2026-10-24",
-   "views": 9447
+   "views": 1351
   },
   {
    "date": "2026-10-25",
-   "views": 9864
+   "views": 1821
   },
   {
    "date": "2026-10-26",
-   "views": 18101
+   "views": 1628
   },
   {
    "date": "2026-10-27",
-   "views": 14467
+   "views": 1418
   },
   {
    "date": "2026-10-28",
-   "views": 13648
+   "views": 1304
   },
   {
    "date": "2026-10-29",
-   "views": 11703
+   "views": 1216
   },
   {
    "date": "2026-10-30",
-   "views": 9208
+   "views": 1434
   },
   {
    "date": "2026-10-31",
-   "views": 17936
+   "views": 1291
   },
   {
    "date": "2026-11-01",
-   "views": 32330
+   "views": 1579
   },
   {
    "date": "2026-11-02",
-   "views": 20421
+   "views": 1425
   },
   {
    "date": "2026-11-03",
-   "views": 18895
+   "views": 1525
   },
   {
    "date": "2026-11-04",
-   "views": 17665
+   "views": 1321
   },
   {
    "date": "2026-11-05",
-   "views": 25986
+   "views": 1844
   },
   {
    "date": "2026-11-06",
-   "views": 159862
+   "views": 2185
   },
   {
    "date": "2026-11-07",
-   "views": 175681
+   "views": 1475
   },
   {
    "date": "2026-11-08",
-   "views": 168880
+   "views": 2122
   },
   {
    "date": "2026-11-09",
-   "views": 175996
+   "views": 2897
+  },
+  {
+   "date": "2026-11-10",
+   "views": 82217
   }
  ],
- "wikipedia_title": "Scene_(2026_film)",
+ "wikipedia_title": "Adrian_Peterson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-09",
- "generated_at_utc": "2026-11-10T13:44:23+00:00"
+ "data_through": "2026-11-10",
+ "generated_at_utc": "2026-11-11T12:55:23+00:00"
 }
