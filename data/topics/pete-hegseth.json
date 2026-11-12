@@ -1,197 +1,197 @@
 {
- "title": "Survivor Series: WarGames (2026)",
- "slug": "survivor-series-wargames-2026",
- "score": 44,
+ "title": "Pete Hegseth",
+ "slug": "pete-hegseth",
+ "score": 32,
  "status": "Elevated",
- "change_percent": 574,
- "growth_ratio": 6.74,
- "recent_avg": 39392,
- "baseline_avg": 5842,
- "explanation": "Attention is 6.7\u00d7 its 30-day baseline.",
+ "change_percent": 432,
+ "growth_ratio": 5.32,
+ "recent_avg": 92540,
+ "baseline_avg": 17400,
+ "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 33550,
- "latest": 82896,
+ "abs_change": 75140,
+ "latest": 80358,
  "components": {
-  "acceleration": 0.488,
-  "anomaly": 0.588,
-  "persistence": 0.84,
-  "momentum": 0.8,
-  "volume": 0.798,
-  "spike_quality": 0.807
+  "acceleration": 0.427,
+  "anomaly": 0.511,
+  "persistence": 0.64,
+  "momentum": 0.578,
+  "volume": 0.983,
+  "spike_quality": 0.739
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 39,392 views/day over the last 3 days (30-day baseline: 5,842)."
+  "Averaging 92,540 views/day over the last 3 days (30-day baseline: 17,400)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 1410
-  },
-  {
    "date": "2026-10-03",
-   "views": 2489
+   "views": 14797
   },
   {
    "date": "2026-10-04",
-   "views": 1648
+   "views": 20519
   },
   {
    "date": "2026-10-05",
-   "views": 1607
+   "views": 14137
   },
   {
    "date": "2026-10-06",
-   "views": 2912
+   "views": 11640
   },
   {
    "date": "2026-10-07",
-   "views": 1765
+   "views": 11414
   },
   {
    "date": "2026-10-08",
-   "views": 1558
+   "views": 16387
   },
   {
    "date": "2026-10-09",
-   "views": 1739
+   "views": 45588
   },
   {
    "date": "2026-10-10",
-   "views": 4858
+   "views": 26029
   },
   {
    "date": "2026-10-11",
-   "views": 8523
+   "views": 19686
   },
   {
    "date": "2026-10-12",
-   "views": 3739
+   "views": 14050
   },
   {
    "date": "2026-10-13",
-   "views": 7957
+   "views": 11303
   },
   {
    "date": "2026-10-14",
-   "views": 3853
+   "views": 11178
   },
   {
    "date": "2026-10-15",
-   "views": 2782
+   "views": 14759
   },
   {
    "date": "2026-10-16",
-   "views": 2601
+   "views": 12231
   },
   {
    "date": "2026-10-17",
-   "views": 3702
+   "views": 12740
   },
   {
    "date": "2026-10-18",
-   "views": 2580
+   "views": 12932
   },
   {
    "date": "2026-10-19",
-   "views": 2505
+   "views": 11423
   },
   {
    "date": "2026-10-20",
-   "views": 7170
+   "views": 10266
   },
   {
    "date": "2026-10-21",
-   "views": 3776
+   "views": 8322
   },
   {
    "date": "2026-10-22",
-   "views": 3029
+   "views": 9689
   },
   {
    "date": "2026-10-23",
-   "views": 3244
+   "views": 9329
   },
   {
    "date": "2026-10-24",
-   "views": 5469
+   "views": 6849
   },
   {
    "date": "2026-10-25",
-   "views": 3436
+   "views": 9271
   },
   {
    "date": "2026-10-26",
-   "views": 3201
+   "views": 11387
   },
   {
    "date": "2026-10-27",
-   "views": 5315
+   "views": 10547
   },
   {
    "date": "2026-10-28",
-   "views": 3507
+   "views": 10356
   },
   {
    "date": "2026-10-29",
-   "views": 3162
+   "views": 14621
   },
   {
    "date": "2026-10-30",
-   "views": 3084
+   "views": 12684
   },
   {
    "date": "2026-10-31",
-   "views": 5640
+   "views": 10281
   },
   {
    "date": "2026-11-01",
-   "views": 5712
+   "views": 9248
   },
   {
    "date": "2026-11-02",
-   "views": 4637
+   "views": 9957
   },
   {
    "date": "2026-11-03",
-   "views": 13399
+   "views": 9324
   },
   {
    "date": "2026-11-04",
-   "views": 5285
+   "views": 33839
   },
   {
    "date": "2026-11-05",
-   "views": 5494
+   "views": 69597
   },
   {
    "date": "2026-11-06",
-   "views": 13019
+   "views": 63696
   },
   {
    "date": "2026-11-07",
-   "views": 32847
+   "views": 30445
   },
   {
    "date": "2026-11-08",
-   "views": 22250
+   "views": 25957
   },
   {
    "date": "2026-11-09",
-   "views": 13030
+   "views": 69574
   },
   {
    "date": "2026-11-10",
-   "views": 82896
+   "views": 127687
+  },
+  {
+   "date": "2026-11-11",
+   "views": 80358
   }
  ],
- "wikipedia_title": "Survivor_Series:_WarGames_(2026)",
+ "wikipedia_title": "Pete_Hegseth",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

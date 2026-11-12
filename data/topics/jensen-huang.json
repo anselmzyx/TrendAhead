@@ -1,196 +1,197 @@
 {
- "title": "Lisa Su",
- "slug": "lisa-su",
- "score": 44,
- "status": "Elevated",
- "change_percent": 2499,
- "growth_ratio": 25.99,
- "recent_avg": 55338,
- "baseline_avg": 2129,
- "explanation": "Attention is 26\u00d7 its 30-day baseline.",
+ "title": "Jensen Huang",
+ "slug": "jensen-huang",
+ "score": 38,
+ "status": "Peaked / fading",
+ "change_percent": 4464,
+ "growth_ratio": 45.64,
+ "recent_avg": 539180,
+ "baseline_avg": 11813,
+ "explanation": "Attention surged to 46\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 53209,
- "latest": 62648,
+ "abs_change": 527367,
+ "latest": 341625,
  "components": {
-  "acceleration": 0.833,
+  "acceleration": 0.977,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.62,
-  "volume": 0.872,
-  "spike_quality": 0.64
+  "persistence": 0.84,
+  "momentum": 0.346,
+  "volume": 1.0,
+  "spike_quality": 0.576
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 55,338 views/day over the last 3 days (30-day baseline: 2,129)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 539,180 views/day over the last 3 days (30-day baseline: 11,813)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 2153
-  },
-  {
    "date": "2026-10-03",
-   "views": 2162
+   "views": 6178
   },
   {
    "date": "2026-10-04",
-   "views": 2140
+   "views": 5251
   },
   {
    "date": "2026-10-05",
-   "views": 2150
+   "views": 6210
   },
   {
    "date": "2026-10-06",
-   "views": 2363
+   "views": 6864
   },
   {
    "date": "2026-10-07",
-   "views": 2576
+   "views": 6782
   },
   {
    "date": "2026-10-08",
-   "views": 4135
+   "views": 7985
   },
   {
    "date": "2026-10-09",
-   "views": 4774
+   "views": 7631
   },
   {
    "date": "2026-10-10",
-   "views": 2868
+   "views": 5921
   },
   {
    "date": "2026-10-11",
-   "views": 2156
+   "views": 5497
   },
   {
    "date": "2026-10-12",
-   "views": 1920
+   "views": 5059
   },
   {
    "date": "2026-10-13",
-   "views": 1700
+   "views": 5184
   },
   {
    "date": "2026-10-14",
-   "views": 1682
+   "views": 6452
   },
   {
    "date": "2026-10-15",
-   "views": 1795
+   "views": 7762
   },
   {
    "date": "2026-10-16",
-   "views": 3539
+   "views": 7744
   },
   {
    "date": "2026-10-17",
-   "views": 2015
+   "views": 6414
   },
   {
    "date": "2026-10-18",
-   "views": 1881
+   "views": 7696
   },
   {
    "date": "2026-10-19",
-   "views": 1752
+   "views": 7313
   },
   {
    "date": "2026-10-20",
-   "views": 2190
+   "views": 10450
   },
   {
    "date": "2026-10-21",
-   "views": 1681
+   "views": 8175
   },
   {
    "date": "2026-10-22",
-   "views": 1822
+   "views": 8928
   },
   {
    "date": "2026-10-23",
-   "views": 1914
+   "views": 8059
   },
   {
    "date": "2026-10-24",
-   "views": 1811
+   "views": 8318
   },
   {
    "date": "2026-10-25",
-   "views": 1498
+   "views": 6523
   },
   {
    "date": "2026-10-26",
-   "views": 1440
+   "views": 6412
   },
   {
    "date": "2026-10-27",
-   "views": 1397
+   "views": 5581
   },
   {
    "date": "2026-10-28",
-   "views": 1339
+   "views": 5183
   },
   {
    "date": "2026-10-29",
-   "views": 2206
+   "views": 13876
   },
   {
    "date": "2026-10-30",
-   "views": 2240
+   "views": 12234
   },
   {
    "date": "2026-10-31",
-   "views": 1568
+   "views": 7094
   },
   {
    "date": "2026-11-01",
-   "views": 1168
+   "views": 5539
   },
   {
    "date": "2026-11-02",
-   "views": 1377
+   "views": 5265
   },
   {
    "date": "2026-11-03",
-   "views": 2265
+   "views": 6492
   },
   {
    "date": "2026-11-04",
-   "views": 2652
+   "views": 4768
   },
   {
    "date": "2026-11-05",
-   "views": 2007
+   "views": 4819
   },
   {
    "date": "2026-11-06",
-   "views": 2035
+   "views": 6023
   },
   {
    "date": "2026-11-07",
-   "views": 5179
+   "views": 33238
   },
   {
    "date": "2026-11-08",
-   "views": 13941
+   "views": 122360
   },
   {
    "date": "2026-11-09",
-   "views": 89426
+   "views": 733363
   },
   {
    "date": "2026-11-10",
-   "views": 62648
+   "views": 542553
+  },
+  {
+   "date": "2026-11-11",
+   "views": 341625
   }
  ],
- "wikipedia_title": "Lisa_Su",
+ "wikipedia_title": "Jensen_Huang",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

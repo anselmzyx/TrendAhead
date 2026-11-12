@@ -1,38 +1,33 @@
 {
  "title": "SS Edmund Fitzgerald",
  "slug": "ss-edmund-fitzgerald",
- "score": 64,
- "status": "Breaking out",
- "change_percent": 1016,
- "growth_ratio": 11.15,
- "recent_avg": 67255,
- "baseline_avg": 6029,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "score": 62,
+ "status": "Building",
+ "change_percent": 1652,
+ "growth_ratio": 17.52,
+ "recent_avg": 112032,
+ "baseline_avg": 6396,
+ "explanation": "Attention is 18\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 61226,
- "latest": 163598,
+ "abs_change": 105636,
+ "latest": 147962,
  "components": {
-  "acceleration": 0.617,
+  "acceleration": 0.732,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.914,
-  "spike_quality": 0.704
+  "persistence": 0.92,
+  "momentum": 0.743,
+  "volume": 1.0,
+  "spike_quality": 0.79
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 67,255 views/day over the last 3 days (30-day baseline: 6,029)."
+  "Averaging 112,032 views/day over the last 3 days (30-day baseline: 6,396)."
  ],
  "history": [
-  {
-   "date": "2026-10-02",
-   "views": 3004
-  },
   {
    "date": "2026-10-03",
    "views": 3180
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-10",
    "views": 163598
+  },
+  {
+   "date": "2026-11-11",
+   "views": 147962
   }
  ],
  "wikipedia_title": "SS_Edmund_Fitzgerald",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

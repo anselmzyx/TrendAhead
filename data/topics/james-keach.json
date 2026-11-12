@@ -1,197 +1,196 @@
 {
- "title": "Alice S. Huang",
- "slug": "alice-s-huang",
- "score": 40,
- "status": "Peaked / fading",
- "change_percent": 14336,
- "growth_ratio": 144.54,
- "recent_avg": 42732,
- "baseline_avg": 296,
- "explanation": "Attention surged to 145\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "James Keach",
+ "slug": "james-keach",
+ "score": 32,
+ "status": "Breaking out",
+ "change_percent": 3308,
+ "growth_ratio": 34.09,
+ "recent_avg": 33601,
+ "baseline_avg": 986,
+ "explanation": "Attention is 34\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 42436,
- "latest": 39880,
+ "abs_change": 32615,
+ "latest": 99527,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.902,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.518,
-  "volume": 0.815,
-  "spike_quality": 0.518
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.763,
+  "spike_quality": 0.525
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 42,732 views/day over the last 3 days (30-day baseline: 296)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 33,601 views/day over the last 3 days (30-day baseline: 986)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 8
-  },
-  {
    "date": "2026-10-03",
-   "views": 13
+   "views": 804
   },
   {
    "date": "2026-10-04",
-   "views": 10
+   "views": 839
   },
   {
    "date": "2026-10-05",
-   "views": 17
+   "views": 784
   },
   {
    "date": "2026-10-06",
-   "views": 19
+   "views": 729
   },
   {
    "date": "2026-10-07",
-   "views": 14
+   "views": 730
   },
   {
    "date": "2026-10-08",
-   "views": 23
+   "views": 740
   },
   {
    "date": "2026-10-09",
-   "views": 14
+   "views": 623
   },
   {
    "date": "2026-10-10",
-   "views": 21
+   "views": 885
   },
   {
    "date": "2026-10-11",
-   "views": 6
+   "views": 834
   },
   {
    "date": "2026-10-12",
-   "views": 16
+   "views": 883
   },
   {
    "date": "2026-10-13",
-   "views": 37
+   "views": 706
   },
   {
    "date": "2026-10-14",
-   "views": 20
+   "views": 607
   },
   {
    "date": "2026-10-15",
-   "views": 12
+   "views": 695
   },
   {
    "date": "2026-10-16",
-   "views": 13
+   "views": 579
   },
   {
    "date": "2026-10-17",
-   "views": 10
+   "views": 1325
   },
   {
    "date": "2026-10-18",
-   "views": 21
+   "views": 6190
   },
   {
    "date": "2026-10-19",
-   "views": 17
+   "views": 1551
   },
   {
    "date": "2026-10-20",
-   "views": 18
+   "views": 983
   },
   {
    "date": "2026-10-21",
-   "views": 15
+   "views": 976
   },
   {
    "date": "2026-10-22",
-   "views": 10
+   "views": 1069
   },
   {
    "date": "2026-10-23",
-   "views": 10
+   "views": 800
   },
   {
    "date": "2026-10-24",
-   "views": 8
+   "views": 902
   },
   {
    "date": "2026-10-25",
-   "views": 11
+   "views": 771
   },
   {
    "date": "2026-10-26",
-   "views": 6
+   "views": 824
   },
   {
    "date": "2026-10-27",
-   "views": 19
+   "views": 663
   },
   {
    "date": "2026-10-28",
-   "views": 16
+   "views": 615
   },
   {
    "date": "2026-10-29",
-   "views": 1385
+   "views": 686
   },
   {
    "date": "2026-10-30",
-   "views": 1265
+   "views": 658
   },
   {
    "date": "2026-10-31",
-   "views": 488
+   "views": 726
   },
   {
    "date": "2026-11-01",
-   "views": 216
+   "views": 703
   },
   {
    "date": "2026-11-02",
-   "views": 160
+   "views": 602
   },
   {
    "date": "2026-11-03",
-   "views": 176
+   "views": 569
   },
   {
    "date": "2026-11-04",
-   "views": 96
+   "views": 539
   },
   {
    "date": "2026-11-05",
-   "views": 146
+   "views": 593
   },
   {
    "date": "2026-11-06",
-   "views": 617
+   "views": 891
   },
   {
    "date": "2026-11-07",
-   "views": 4020
+   "views": 911
   },
   {
    "date": "2026-11-08",
-   "views": 13054
+   "views": 838
   },
   {
    "date": "2026-11-09",
-   "views": 75261
+   "views": 662
   },
   {
    "date": "2026-11-10",
-   "views": 39880
+   "views": 615
+  },
+  {
+   "date": "2026-11-11",
+   "views": 99527
   }
  ],
- "wikipedia_title": "Alice_S._Huang",
+ "wikipedia_title": "James_Keach",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

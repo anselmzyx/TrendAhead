@@ -1,197 +1,198 @@
 {
- "title": "Adrian Peterson",
- "slug": "adrian-peterson",
- "score": 39,
+ "title": "The Lord of the Rings: The Rings of Power season 3",
+ "slug": "the-lord-of-the-rings-the-rings-of-power-season-3",
+ "score": 53,
  "status": "Breaking out",
- "change_percent": 1577,
- "growth_ratio": 16.77,
- "recent_avg": 29079,
- "baseline_avg": 1734,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "change_percent": 920,
+ "growth_ratio": 10.2,
+ "recent_avg": 22548,
+ "baseline_avg": 2210,
+ "explanation": "Attention is 10\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 27345,
- "latest": 82217,
+ "abs_change": 20338,
+ "latest": 53372,
  "components": {
-  "acceleration": 0.721,
+  "acceleration": 0.594,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.732,
-  "spike_quality": 0.573
+  "volume": 0.677,
+  "spike_quality": 0.712
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 29,079 views/day over the last 3 days (30-day baseline: 1,734)."
+  "Averaging 22,548 views/day over the last 3 days (30-day baseline: 2,210)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 1777
-  },
-  {
    "date": "2026-10-03",
-   "views": 2004
+   "views": 857
   },
   {
    "date": "2026-10-04",
-   "views": 2284
+   "views": 989
   },
   {
    "date": "2026-10-05",
-   "views": 2062
+   "views": 1029
   },
   {
    "date": "2026-10-06",
-   "views": 2463
+   "views": 1033
   },
   {
    "date": "2026-10-07",
-   "views": 1890
+   "views": 975
   },
   {
    "date": "2026-10-08",
-   "views": 1697
+   "views": 981
   },
   {
    "date": "2026-10-09",
-   "views": 1880
+   "views": 952
   },
   {
    "date": "2026-10-10",
-   "views": 1917
+   "views": 1111
   },
   {
    "date": "2026-10-11",
-   "views": 2013
+   "views": 1204
   },
   {
    "date": "2026-10-12",
-   "views": 2120
+   "views": 1126
   },
   {
    "date": "2026-10-13",
-   "views": 1860
+   "views": 1085
   },
   {
    "date": "2026-10-14",
-   "views": 1711
+   "views": 1077
   },
   {
    "date": "2026-10-15",
-   "views": 2275
+   "views": 1065
   },
   {
    "date": "2026-10-16",
-   "views": 2724
+   "views": 938
   },
   {
    "date": "2026-10-17",
-   "views": 2465
+   "views": 954
   },
   {
    "date": "2026-10-18",
-   "views": 1828
+   "views": 1093
   },
   {
    "date": "2026-10-19",
-   "views": 1749
+   "views": 1223
   },
   {
    "date": "2026-10-20",
-   "views": 1873
+   "views": 1519
   },
   {
    "date": "2026-10-21",
-   "views": 1471
+   "views": 2576
   },
   {
    "date": "2026-10-22",
-   "views": 1601
+   "views": 3609
   },
   {
    "date": "2026-10-23",
-   "views": 1727
+   "views": 3044
   },
   {
    "date": "2026-10-24",
-   "views": 1351
+   "views": 2263
   },
   {
    "date": "2026-10-25",
-   "views": 1821
+   "views": 2253
   },
   {
    "date": "2026-10-26",
-   "views": 1628
+   "views": 2247
   },
   {
    "date": "2026-10-27",
-   "views": 1418
+   "views": 2027
   },
   {
    "date": "2026-10-28",
-   "views": 1304
+   "views": 2239
   },
   {
    "date": "2026-10-29",
-   "views": 1216
+   "views": 2416
   },
   {
    "date": "2026-10-30",
-   "views": 1434
+   "views": 2165
   },
   {
    "date": "2026-10-31",
-   "views": 1291
+   "views": 1868
   },
   {
    "date": "2026-11-01",
-   "views": 1579
+   "views": 2257
   },
   {
    "date": "2026-11-02",
-   "views": 1425
+   "views": 2799
   },
   {
    "date": "2026-11-03",
-   "views": 1525
+   "views": 3072
   },
   {
    "date": "2026-11-04",
-   "views": 1321
+   "views": 2880
   },
   {
    "date": "2026-11-05",
-   "views": 1844
+   "views": 3529
   },
   {
    "date": "2026-11-06",
-   "views": 2185
+   "views": 3889
   },
   {
    "date": "2026-11-07",
-   "views": 1475
+   "views": 3855
   },
   {
    "date": "2026-11-08",
-   "views": 2122
+   "views": 4910
   },
   {
    "date": "2026-11-09",
-   "views": 2897
+   "views": 5679
   },
   {
    "date": "2026-11-10",
-   "views": 82217
+   "views": 8592
+  },
+  {
+   "date": "2026-11-11",
+   "views": 53372
   }
  ],
- "wikipedia_title": "Adrian_Peterson",
+ "wikipedia_title": "The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

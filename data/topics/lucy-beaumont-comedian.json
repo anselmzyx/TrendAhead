@@ -1,197 +1,197 @@
 {
- "title": "Carson Wentz",
- "slug": "carson-wentz",
- "score": 57,
+ "title": "Lucy Beaumont (comedian)",
+ "slug": "lucy-beaumont-comedian",
+ "score": 38,
  "status": "Breaking out",
- "change_percent": 3160,
- "growth_ratio": 32.6,
- "recent_avg": 56724,
- "baseline_avg": 1740,
- "explanation": "Attention is 33\u00d7 its 30-day baseline.",
+ "change_percent": 1192,
+ "growth_ratio": 12.92,
+ "recent_avg": 34270,
+ "baseline_avg": 2653,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 54984,
- "latest": 158702,
+ "abs_change": 31617,
+ "latest": 87015,
  "components": {
-  "acceleration": 0.891,
+  "acceleration": 0.654,
   "anomaly": 1.0,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.877,
-  "spike_quality": 0.583
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.767,
+  "spike_quality": 0.619
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 56,724 views/day over the last 3 days (30-day baseline: 1,740)."
+  "Averaging 34,270 views/day over the last 3 days (30-day baseline: 2,653)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 1149
-  },
-  {
    "date": "2026-10-03",
-   "views": 1143
+   "views": 2344
   },
   {
    "date": "2026-10-04",
-   "views": 2348
+   "views": 6739
   },
   {
    "date": "2026-10-05",
-   "views": 1984
+   "views": 3524
   },
   {
    "date": "2026-10-06",
-   "views": 1181
+   "views": 2398
   },
   {
    "date": "2026-10-07",
-   "views": 1152
+   "views": 2270
   },
   {
    "date": "2026-10-08",
-   "views": 1083
+   "views": 1901
   },
   {
    "date": "2026-10-09",
-   "views": 1184
+   "views": 2005
   },
   {
    "date": "2026-10-10",
-   "views": 1017
+   "views": 1964
   },
   {
    "date": "2026-10-11",
-   "views": 1994
+   "views": 3109
   },
   {
    "date": "2026-10-12",
-   "views": 1624
+   "views": 3607
   },
   {
    "date": "2026-10-13",
-   "views": 1347
+   "views": 2926
   },
   {
    "date": "2026-10-14",
-   "views": 892
+   "views": 1903
   },
   {
    "date": "2026-10-15",
-   "views": 1495
+   "views": 3687
   },
   {
    "date": "2026-10-16",
-   "views": 1631
+   "views": 15365
   },
   {
    "date": "2026-10-17",
-   "views": 1194
+   "views": 3431
   },
   {
    "date": "2026-10-18",
-   "views": 1941
+   "views": 2830
   },
   {
    "date": "2026-10-19",
-   "views": 2621
+   "views": 2190
   },
   {
    "date": "2026-10-20",
-   "views": 1733
+   "views": 1846
   },
   {
    "date": "2026-10-21",
-   "views": 1050
+   "views": 6983
   },
   {
    "date": "2026-10-22",
-   "views": 812
+   "views": 2113
   },
   {
    "date": "2026-10-23",
-   "views": 941
+   "views": 1740
   },
   {
    "date": "2026-10-24",
-   "views": 718
+   "views": 1818
   },
   {
    "date": "2026-10-25",
-   "views": 1959
+   "views": 1736
   },
   {
    "date": "2026-10-26",
-   "views": 2141
+   "views": 1719
   },
   {
    "date": "2026-10-27",
-   "views": 1851
+   "views": 1874
   },
   {
    "date": "2026-10-28",
-   "views": 924
+   "views": 1336
   },
   {
    "date": "2026-10-29",
-   "views": 857
+   "views": 1502
   },
   {
    "date": "2026-10-30",
-   "views": 967
+   "views": 1408
   },
   {
    "date": "2026-10-31",
-   "views": 793
+   "views": 1637
   },
   {
    "date": "2026-11-01",
-   "views": 1785
+   "views": 1891
   },
   {
    "date": "2026-11-02",
-   "views": 2416
+   "views": 1587
   },
   {
    "date": "2026-11-03",
-   "views": 1597
+   "views": 1493
   },
   {
    "date": "2026-11-04",
-   "views": 1042
+   "views": 1480
   },
   {
    "date": "2026-11-05",
-   "views": 5098
+   "views": 1630
   },
   {
    "date": "2026-11-06",
-   "views": 5979
+   "views": 1846
   },
   {
    "date": "2026-11-07",
-   "views": 2605
+   "views": 1485
   },
   {
    "date": "2026-11-08",
-   "views": 3217
+   "views": 1447
   },
   {
    "date": "2026-11-09",
-   "views": 8253
+   "views": 1391
   },
   {
    "date": "2026-11-10",
-   "views": 158702
+   "views": 14403
+  },
+  {
+   "date": "2026-11-11",
+   "views": 87015
   }
  ],
- "wikipedia_title": "Carson_Wentz",
+ "wikipedia_title": "Lucy_Beaumont_(comedian)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "List of Indian films of 2026",
- "slug": "list-of-indian-films-of-2026",
- "score": 33,
- "status": "Elevated",
- "change_percent": 205,
- "growth_ratio": 3.05,
- "recent_avg": 38636,
- "baseline_avg": 12684,
- "explanation": "Attention is 3.0\u00d7 its 30-day baseline.",
+ "title": "Armistice Day",
+ "slug": "armistice-day",
+ "score": 57,
+ "status": "Breaking out",
+ "change_percent": 2471,
+ "growth_ratio": 25.72,
+ "recent_avg": 24656,
+ "baseline_avg": 959,
+ "explanation": "Attention is 26\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 25952,
- "latest": 36913,
+ "abs_change": 23697,
+ "latest": 55444,
  "components": {
-  "acceleration": 0.285,
-  "anomaly": 0.986,
-  "persistence": 0.52,
-  "momentum": 0.661,
-  "volume": 0.793,
-  "spike_quality": 0.794
+  "acceleration": 0.83,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.933,
+  "volume": 0.696,
+  "spike_quality": 0.711
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 38,636 views/day over the last 3 days (30-day baseline: 12,684)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 24,656 views/day over the last 3 days (30-day baseline: 959)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 10711
-  },
-  {
    "date": "2026-10-03",
-   "views": 9926
+   "views": 246
   },
   {
    "date": "2026-10-04",
-   "views": 10959
+   "views": 267
   },
   {
    "date": "2026-10-05",
-   "views": 10133
+   "views": 342
   },
   {
    "date": "2026-10-06",
-   "views": 8752
+   "views": 274
   },
   {
    "date": "2026-10-07",
-   "views": 10218
+   "views": 333
   },
   {
    "date": "2026-10-08",
-   "views": 11738
+   "views": 347
   },
   {
    "date": "2026-10-09",
-   "views": 10910
+   "views": 325
   },
   {
    "date": "2026-10-10",
-   "views": 12103
+   "views": 293
   },
   {
    "date": "2026-10-11",
-   "views": 13512
+   "views": 347
   },
   {
    "date": "2026-10-12",
-   "views": 12107
+   "views": 486
   },
   {
    "date": "2026-10-13",
-   "views": 11379
+   "views": 435
   },
   {
    "date": "2026-10-14",
-   "views": 9289
+   "views": 381
   },
   {
    "date": "2026-10-15",
-   "views": 9317
+   "views": 408
   },
   {
    "date": "2026-10-16",
-   "views": 9819
+   "views": 338
   },
   {
    "date": "2026-10-17",
-   "views": 10632
+   "views": 254
   },
   {
    "date": "2026-10-18",
-   "views": 12559
+   "views": 306
   },
   {
    "date": "2026-10-19",
-   "views": 13324
+   "views": 370
   },
   {
    "date": "2026-10-20",
-   "views": 13238
+   "views": 383
   },
   {
    "date": "2026-10-21",
-   "views": 17088
+   "views": 401
   },
   {
    "date": "2026-10-22",
-   "views": 11109
+   "views": 485
   },
   {
    "date": "2026-10-23",
-   "views": 10356
+   "views": 453
   },
   {
    "date": "2026-10-24",
-   "views": 10959
+   "views": 400
   },
   {
    "date": "2026-10-25",
-   "views": 16137
+   "views": 430
   },
   {
    "date": "2026-10-26",
-   "views": 20356
+   "views": 558
   },
   {
    "date": "2026-10-27",
-   "views": 18469
+   "views": 650
   },
   {
    "date": "2026-10-28",
-   "views": 15514
+   "views": 605
   },
   {
    "date": "2026-10-29",
-   "views": 14119
+   "views": 773
   },
   {
    "date": "2026-10-30",
-   "views": 13120
+   "views": 707
   },
   {
    "date": "2026-10-31",
-   "views": 12279
+   "views": 1004
   },
   {
    "date": "2026-11-01",
-   "views": 13010
+   "views": 1121
   },
   {
    "date": "2026-11-02",
-   "views": 13385
+   "views": 1394
   },
   {
    "date": "2026-11-03",
-   "views": 11503
+   "views": 1482
   },
   {
    "date": "2026-11-04",
-   "views": 9229
+   "views": 1519
   },
   {
    "date": "2026-11-05",
-   "views": 10435
+   "views": 1789
   },
   {
    "date": "2026-11-06",
-   "views": 11704
+   "views": 2049
   },
   {
    "date": "2026-11-07",
-   "views": 13569
+   "views": 2473
   },
   {
    "date": "2026-11-08",
-   "views": 30996
+   "views": 6469
   },
   {
    "date": "2026-11-09",
-   "views": 47998
+   "views": 5852
   },
   {
    "date": "2026-11-10",
-   "views": 36913
+   "views": 12673
+  },
+  {
+   "date": "2026-11-11",
+   "views": 55444
   }
  ],
- "wikipedia_title": "List_of_Indian_films_of_2026",
+ "wikipedia_title": "Armistice_Day",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

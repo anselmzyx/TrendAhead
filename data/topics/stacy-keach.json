@@ -1,198 +1,196 @@
 {
- "title": "James Gunn",
- "slug": "james-gunn",
- "score": 41,
+ "title": "Stacy Keach",
+ "slug": "stacy-keach",
+ "score": 38,
  "status": "Breaking out",
- "change_percent": 661,
- "growth_ratio": 7.61,
- "recent_avg": 29718,
- "baseline_avg": 3905,
- "explanation": "Attention is 7.6\u00d7 its 30-day baseline.",
+ "change_percent": 9416,
+ "growth_ratio": 95.16,
+ "recent_avg": 188706,
+ "baseline_avg": 1983,
+ "explanation": "Attention is 95\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25813,
- "latest": 50786,
+ "abs_change": 186723,
+ "latest": 562990,
  "components": {
-  "acceleration": 0.519,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.737,
-  "spike_quality": 0.787
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 1.0,
+  "spike_quality": 0.511
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 29,718 views/day over the last 3 days (30-day baseline: 3,905)."
+  "Averaging 188,706 views/day over the last 3 days (30-day baseline: 1,983)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 4394
-  },
-  {
    "date": "2026-10-03",
-   "views": 4401
+   "views": 1765
   },
   {
    "date": "2026-10-04",
-   "views": 4869
+   "views": 1912
   },
   {
    "date": "2026-10-05",
-   "views": 6306
+   "views": 1691
   },
   {
    "date": "2026-10-06",
-   "views": 5192
+   "views": 1442
   },
   {
    "date": "2026-10-07",
-   "views": 4334
+   "views": 1663
   },
   {
    "date": "2026-10-08",
-   "views": 4001
+   "views": 1446
   },
   {
    "date": "2026-10-09",
-   "views": 3896
+   "views": 1469
   },
   {
    "date": "2026-10-10",
-   "views": 4211
+   "views": 1848
   },
   {
    "date": "2026-10-11",
-   "views": 4147
+   "views": 1981
   },
   {
    "date": "2026-10-12",
-   "views": 4022
+   "views": 1930
   },
   {
    "date": "2026-10-13",
-   "views": 4190
+   "views": 1679
   },
   {
    "date": "2026-10-14",
-   "views": 3870
+   "views": 1510
   },
   {
    "date": "2026-10-15",
-   "views": 3799
+   "views": 1799
   },
   {
    "date": "2026-10-16",
-   "views": 3719
+   "views": 1610
   },
   {
    "date": "2026-10-17",
-   "views": 3623
+   "views": 1988
   },
   {
    "date": "2026-10-18",
-   "views": 3765
+   "views": 3305
   },
   {
    "date": "2026-10-19",
-   "views": 3665
+   "views": 2108
   },
   {
    "date": "2026-10-20",
-   "views": 4495
+   "views": 1624
   },
   {
    "date": "2026-10-21",
-   "views": 3929
+   "views": 1552
   },
   {
    "date": "2026-10-22",
-   "views": 4077
+   "views": 1674
   },
   {
    "date": "2026-10-23",
-   "views": 4509
+   "views": 1800
   },
   {
    "date": "2026-10-24",
-   "views": 4836
+   "views": 2636
   },
   {
    "date": "2026-10-25",
-   "views": 4964
+   "views": 1946
   },
   {
    "date": "2026-10-26",
-   "views": 4899
+   "views": 1914
   },
   {
    "date": "2026-10-27",
-   "views": 4233
+   "views": 1537
   },
   {
    "date": "2026-10-28",
-   "views": 4035
+   "views": 1803
   },
   {
    "date": "2026-10-29",
-   "views": 3678
+   "views": 2673
   },
   {
    "date": "2026-10-30",
-   "views": 3999
+   "views": 2455
   },
   {
    "date": "2026-10-31",
-   "views": 4322
+   "views": 2456
   },
   {
    "date": "2026-11-01",
-   "views": 4130
+   "views": 2310
   },
   {
    "date": "2026-11-02",
-   "views": 4001
+   "views": 1864
   },
   {
    "date": "2026-11-03",
-   "views": 3166
+   "views": 1703
   },
   {
    "date": "2026-11-04",
-   "views": 2491
+   "views": 1627
   },
   {
    "date": "2026-11-05",
-   "views": 2763
+   "views": 1856
   },
   {
    "date": "2026-11-06",
-   "views": 2745
+   "views": 1655
   },
   {
    "date": "2026-11-07",
-   "views": 2978
+   "views": 2360
   },
   {
    "date": "2026-11-08",
-   "views": 2973
+   "views": 2290
   },
   {
    "date": "2026-11-09",
-   "views": 35395
+   "views": 1699
   },
   {
    "date": "2026-11-10",
-   "views": 50786
+   "views": 1430
+  },
+  {
+   "date": "2026-11-11",
+   "views": 562990
   }
  ],
- "wikipedia_title": "James_Gunn",
+ "wikipedia_title": "Stacy_Keach",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

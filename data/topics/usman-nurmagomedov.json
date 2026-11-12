@@ -1,197 +1,197 @@
 {
- "title": "Mookuthi Amman 2",
- "slug": "mookuthi-amman-2",
- "score": 43,
- "status": "Elevated",
- "change_percent": 1497,
- "growth_ratio": 15.96,
- "recent_avg": 40107,
- "baseline_avg": 2512,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "title": "Usman Nurmagomedov",
+ "slug": "usman-nurmagomedov",
+ "score": 37,
+ "status": "Breaking out",
+ "change_percent": 3470,
+ "growth_ratio": 35.69,
+ "recent_avg": 21669,
+ "baseline_avg": 607,
+ "explanation": "Attention is 36\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 37595,
- "latest": 32115,
+ "abs_change": 21062,
+ "latest": 62847,
  "components": {
-  "acceleration": 0.708,
-  "anomaly": 0.535,
-  "persistence": 0.92,
-  "momentum": 0.616,
-  "volume": 0.802,
-  "spike_quality": 0.775
+  "acceleration": 0.914,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.668,
+  "spike_quality": 0.535
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 40,107 views/day over the last 3 days (30-day baseline: 2,512)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 21,669 views/day over the last 3 days (30-day baseline: 607)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 448
-  },
-  {
    "date": "2026-10-03",
-   "views": 442
+   "views": 1087
   },
   {
    "date": "2026-10-04",
-   "views": 463
+   "views": 933
   },
   {
    "date": "2026-10-05",
-   "views": 352
+   "views": 826
   },
   {
    "date": "2026-10-06",
-   "views": 354
+   "views": 673
   },
   {
    "date": "2026-10-07",
-   "views": 317
+   "views": 577
   },
   {
    "date": "2026-10-08",
-   "views": 347
+   "views": 535
   },
   {
    "date": "2026-10-09",
-   "views": 282
+   "views": 556
   },
   {
    "date": "2026-10-10",
-   "views": 320
+   "views": 599
   },
   {
    "date": "2026-10-11",
-   "views": 394
+   "views": 552
   },
   {
    "date": "2026-10-12",
-   "views": 279
+   "views": 481
   },
   {
    "date": "2026-10-13",
-   "views": 193
+   "views": 428
   },
   {
    "date": "2026-10-14",
-   "views": 188
+   "views": 436
   },
   {
    "date": "2026-10-15",
-   "views": 227
+   "views": 412
   },
   {
    "date": "2026-10-16",
-   "views": 495
+   "views": 491
   },
   {
    "date": "2026-10-17",
-   "views": 595
+   "views": 613
   },
   {
    "date": "2026-10-18",
-   "views": 676
+   "views": 720
   },
   {
    "date": "2026-10-19",
-   "views": 812
+   "views": 615
   },
   {
    "date": "2026-10-20",
-   "views": 669
+   "views": 445
   },
   {
    "date": "2026-10-21",
-   "views": 1503
+   "views": 501
   },
   {
    "date": "2026-10-22",
-   "views": 1413
+   "views": 499
   },
   {
    "date": "2026-10-23",
-   "views": 871
+   "views": 535
   },
   {
    "date": "2026-10-24",
-   "views": 848
+   "views": 1131
   },
   {
    "date": "2026-10-25",
-   "views": 781
+   "views": 972
   },
   {
    "date": "2026-10-26",
-   "views": 800
+   "views": 730
   },
   {
    "date": "2026-10-27",
-   "views": 754
+   "views": 628
   },
   {
    "date": "2026-10-28",
-   "views": 1161
+   "views": 702
   },
   {
    "date": "2026-10-29",
-   "views": 1575
+   "views": 987
   },
   {
    "date": "2026-10-30",
-   "views": 1173
+   "views": 1015
   },
   {
    "date": "2026-10-31",
-   "views": 937
+   "views": 832
   },
   {
    "date": "2026-11-01",
-   "views": 1215
+   "views": 610
   },
   {
    "date": "2026-11-02",
-   "views": 1298
+   "views": 533
   },
   {
    "date": "2026-11-03",
-   "views": 1480
+   "views": 528
   },
   {
    "date": "2026-11-04",
-   "views": 1565
+   "views": 422
   },
   {
    "date": "2026-11-05",
-   "views": 2145
+   "views": 439
   },
   {
    "date": "2026-11-06",
-   "views": 12028
+   "views": 376
   },
   {
    "date": "2026-11-07",
-   "views": 38689
+   "views": 413
   },
   {
    "date": "2026-11-08",
-   "views": 41893
+   "views": 571
   },
   {
    "date": "2026-11-09",
-   "views": 46313
+   "views": 504
   },
   {
    "date": "2026-11-10",
-   "views": 32115
+   "views": 1657
+  },
+  {
+   "date": "2026-11-11",
+   "views": 62847
   }
  ],
- "wikipedia_title": "Mookuthi_Amman_2",
+ "wikipedia_title": "Usman_Nurmagomedov",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

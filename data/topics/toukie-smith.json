@@ -1,37 +1,33 @@
 {
  "title": "Toukie Smith",
  "slug": "toukie-smith",
- "score": 47,
- "status": "Breaking out",
- "change_percent": 8961,
- "growth_ratio": 90.48,
- "recent_avg": 32438,
- "baseline_avg": 358,
- "explanation": "Attention is 90\u00d7 its 30-day baseline.",
+ "score": 33,
+ "status": "Peaked / fading",
+ "change_percent": 12029,
+ "growth_ratio": 121.38,
+ "recent_avg": 44514,
+ "baseline_avg": 367,
+ "explanation": "Attention surged to 121\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32080,
- "latest": 73111,
+ "abs_change": 44147,
+ "latest": 36725,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.756,
-  "spike_quality": 0.653
+  "persistence": 0.52,
+  "momentum": 0.501,
+  "volume": 0.824,
+  "spike_quality": 0.52
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,438 views/day over the last 3 days (30-day baseline: 358)."
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 44,514 views/day over the last 3 days (30-day baseline: 367)."
  ],
  "history": [
-  {
-   "date": "2026-10-02",
-   "views": 428
-  },
   {
    "date": "2026-10-03",
    "views": 384
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-10",
    "views": 73111
+  },
+  {
+   "date": "2026-11-11",
+   "views": 36725
   }
  ],
  "wikipedia_title": "Toukie_Smith",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

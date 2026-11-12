@@ -1,37 +1,32 @@
 {
  "title": "David Walliams",
  "slug": "david-walliams",
- "score": 42,
- "status": "Breaking out",
- "change_percent": 908,
- "growth_ratio": 10.08,
- "recent_avg": 188035,
- "baseline_avg": 18660,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "score": 37,
+ "status": "Elevated",
+ "change_percent": 1411,
+ "growth_ratio": 15.11,
+ "recent_avg": 290522,
+ "baseline_avg": 19223,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 169375,
- "latest": 512804,
+ "abs_change": 271299,
+ "latest": 325997,
  "components": {
-  "acceleration": 0.591,
-  "anomaly": 0.639,
+  "acceleration": 0.694,
+  "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.933,
+  "momentum": 0.581,
   "volume": 1.0,
-  "spike_quality": 0.688
+  "spike_quality": 0.604
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 188,035 views/day over the last 3 days (30-day baseline: 18,660)."
+  "Averaging 290,522 views/day over the last 3 days (30-day baseline: 19,223)."
  ],
  "history": [
-  {
-   "date": "2026-10-02",
-   "views": 1816
-  },
   {
    "date": "2026-10-03",
    "views": 1796
@@ -187,11 +182,15 @@
   {
    "date": "2026-11-10",
    "views": 512804
+  },
+  {
+   "date": "2026-11-11",
+   "views": 325997
   }
  ],
  "wikipedia_title": "David_Walliams",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }

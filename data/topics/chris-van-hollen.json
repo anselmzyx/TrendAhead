@@ -1,197 +1,198 @@
 {
- "title": "List of Hindi films of 2026",
- "slug": "list-of-hindi-films-of-2026",
- "score": 34,
+ "title": "Chris Van Hollen",
+ "slug": "chris-van-hollen",
+ "score": 54,
  "status": "Building",
- "change_percent": 135,
- "growth_ratio": 2.35,
- "recent_avg": 41287,
- "baseline_avg": 17599,
- "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
+ "change_percent": 746,
+ "growth_ratio": 8.46,
+ "recent_avg": 47713,
+ "baseline_avg": 5639,
+ "explanation": "Attention is 8.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 23688,
- "latest": 42990,
+ "abs_change": 42074,
+ "latest": 59326,
  "components": {
-  "acceleration": 0.218,
-  "anomaly": 0.901,
-  "persistence": 0.52,
-  "momentum": 0.718,
-  "volume": 0.808,
-  "spike_quality": 0.865
+  "acceleration": 0.546,
+  "anomaly": 0.338,
+  "persistence": 0.84,
+  "momentum": 1.0,
+  "volume": 0.839,
+  "spike_quality": 0.962
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 41,287 views/day over the last 3 days (30-day baseline: 17,599)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 47,713 views/day over the last 3 days (30-day baseline: 5,639)."
  ],
  "history": [
   {
-   "date": "2026-10-02",
-   "views": 22631
-  },
-  {
    "date": "2026-10-03",
-   "views": 25438
+   "views": 1593
   },
   {
    "date": "2026-10-04",
-   "views": 39550
+   "views": 943
   },
   {
    "date": "2026-10-05",
-   "views": 36701
+   "views": 853
   },
   {
    "date": "2026-10-06",
-   "views": 30345
+   "views": 934
   },
   {
    "date": "2026-10-07",
-   "views": 26765
+   "views": 695
   },
   {
    "date": "2026-10-08",
-   "views": 21491
+   "views": 787
   },
   {
    "date": "2026-10-09",
-   "views": 20799
+   "views": 740
   },
   {
    "date": "2026-10-10",
-   "views": 22822
+   "views": 622
   },
   {
    "date": "2026-10-11",
-   "views": 23509
+   "views": 698
   },
   {
    "date": "2026-10-12",
-   "views": 21755
+   "views": 774
   },
   {
    "date": "2026-10-13",
-   "views": 20796
+   "views": 755
   },
   {
    "date": "2026-10-14",
-   "views": 18052
+   "views": 671
   },
   {
    "date": "2026-10-15",
-   "views": 19164
+   "views": 748
   },
   {
    "date": "2026-10-16",
-   "views": 18958
+   "views": 582
   },
   {
    "date": "2026-10-17",
-   "views": 18641
+   "views": 576
   },
   {
    "date": "2026-10-18",
-   "views": 18566
+   "views": 591
   },
   {
    "date": "2026-10-19",
-   "views": 17250
+   "views": 617
   },
   {
    "date": "2026-10-20",
-   "views": 16493
+   "views": 725
   },
   {
    "date": "2026-10-21",
-   "views": 16332
+   "views": 703
   },
   {
    "date": "2026-10-22",
-   "views": 15937
+   "views": 700
   },
   {
    "date": "2026-10-23",
-   "views": 17543
+   "views": 628
   },
   {
    "date": "2026-10-24",
-   "views": 17801
+   "views": 560
   },
   {
    "date": "2026-10-25",
-   "views": 16580
+   "views": 1173
   },
   {
    "date": "2026-10-26",
-   "views": 15915
+   "views": 1013
   },
   {
    "date": "2026-10-27",
-   "views": 14892
+   "views": 794
   },
   {
    "date": "2026-10-28",
-   "views": 14708
+   "views": 742
   },
   {
    "date": "2026-10-29",
-   "views": 15459
+   "views": 699
   },
   {
    "date": "2026-10-30",
-   "views": 16788
+   "views": 709
   },
   {
    "date": "2026-10-31",
-   "views": 16514
+   "views": 674
   },
   {
    "date": "2026-11-01",
-   "views": 15373
+   "views": 1127
   },
   {
    "date": "2026-11-02",
-   "views": 14279
+   "views": 1624
   },
   {
    "date": "2026-11-03",
-   "views": 13535
+   "views": 1741
   },
   {
    "date": "2026-11-04",
-   "views": 12806
+   "views": 7557
   },
   {
    "date": "2026-11-05",
-   "views": 16553
+   "views": 40433
   },
   {
    "date": "2026-11-06",
-   "views": 19512
+   "views": 50005
   },
   {
    "date": "2026-11-07",
-   "views": 20628
+   "views": 32483
   },
   {
    "date": "2026-11-08",
-   "views": 31106
+   "views": 18448
   },
   {
    "date": "2026-11-09",
-   "views": 49765
+   "views": 33681
   },
   {
    "date": "2026-11-10",
-   "views": 42990
+   "views": 50131
+  },
+  {
+   "date": "2026-11-11",
+   "views": 59326
   }
  ],
- "wikipedia_title": "List_of_Hindi_films_of_2026",
+ "wikipedia_title": "Chris_Van_Hollen",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-10",
- "generated_at_utc": "2026-11-11T12:55:23+00:00"
+ "data_through": "2026-11-11",
+ "generated_at_utc": "2026-11-12T13:57:39+00:00"
 }
