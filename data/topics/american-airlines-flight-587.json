@@ -1,197 +1,197 @@
 {
- "title": "Jemima Goldsmith",
- "slug": "jemima-goldsmith",
- "score": 32,
- "status": "Peaked / fading",
- "change_percent": 2058,
- "growth_ratio": 21.58,
- "recent_avg": 62857,
- "baseline_avg": 2913,
- "explanation": "Attention surged to 22\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "American Airlines Flight 587",
+ "slug": "american-airlines-flight-587",
+ "score": 37,
+ "status": "Breaking out",
+ "change_percent": 1963,
+ "growth_ratio": 20.63,
+ "recent_avg": 20832,
+ "baseline_avg": 1010,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 59944,
- "latest": 32946,
+ "abs_change": 19822,
+ "latest": 59568,
  "components": {
-  "acceleration": 0.785,
+  "acceleration": 0.774,
   "anomaly": 1.0,
-  "persistence": 0.76,
-  "momentum": 0.404,
-  "volume": 0.899,
-  "spike_quality": 0.515
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.659,
+  "spike_quality": 0.568
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 62,857 views/day over the last 3 days (30-day baseline: 2,913)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 20,832 views/day over the last 3 days (30-day baseline: 1,010)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 879
-  },
-  {
    "date": "2026-10-04",
-   "views": 1019
+   "views": 1158
   },
   {
    "date": "2026-10-05",
-   "views": 1736
+   "views": 1215
   },
   {
    "date": "2026-10-06",
-   "views": 1155
+   "views": 1316
   },
   {
    "date": "2026-10-07",
-   "views": 2675
+   "views": 1275
   },
   {
    "date": "2026-10-08",
-   "views": 1484
+   "views": 1145
   },
   {
    "date": "2026-10-09",
-   "views": 890
+   "views": 963
   },
   {
    "date": "2026-10-10",
-   "views": 926
+   "views": 875
   },
   {
    "date": "2026-10-11",
-   "views": 1222
+   "views": 815
   },
   {
    "date": "2026-10-12",
-   "views": 2608
+   "views": 833
   },
   {
    "date": "2026-10-13",
-   "views": 1405
+   "views": 876
   },
   {
    "date": "2026-10-14",
-   "views": 3113
+   "views": 928
   },
   {
    "date": "2026-10-15",
-   "views": 3009
+   "views": 940
   },
   {
    "date": "2026-10-16",
-   "views": 2122
+   "views": 766
   },
   {
    "date": "2026-10-17",
-   "views": 1394
+   "views": 670
   },
   {
    "date": "2026-10-18",
-   "views": 1472
+   "views": 852
   },
   {
    "date": "2026-10-19",
-   "views": 1548
-  },
-  {
-   "date": "2026-10-20",
-   "views": 1618
-  },
-  {
-   "date": "2026-10-21",
-   "views": 1282
-  },
-  {
-   "date": "2026-10-22",
-   "views": 1341
-  },
-  {
-   "date": "2026-10-23",
-   "views": 1176
-  },
-  {
-   "date": "2026-10-24",
-   "views": 918
-  },
-  {
-   "date": "2026-10-25",
-   "views": 883
-  },
-  {
-   "date": "2026-10-26",
-   "views": 1081
-  },
-  {
-   "date": "2026-10-27",
-   "views": 1193
-  },
-  {
-   "date": "2026-10-28",
-   "views": 1749
-  },
-  {
-   "date": "2026-10-29",
-   "views": 2734
-  },
-  {
-   "date": "2026-10-30",
-   "views": 1295
-  },
-  {
-   "date": "2026-10-31",
-   "views": 1045
-  },
-  {
-   "date": "2026-11-01",
-   "views": 906
-  },
-  {
-   "date": "2026-11-02",
-   "views": 994
-  },
-  {
-   "date": "2026-11-03",
-   "views": 1100
-  },
-  {
-   "date": "2026-11-04",
    "views": 826
   },
   {
+   "date": "2026-10-20",
+   "views": 702
+  },
+  {
+   "date": "2026-10-21",
+   "views": 707
+  },
+  {
+   "date": "2026-10-22",
+   "views": 688
+  },
+  {
+   "date": "2026-10-23",
+   "views": 704
+  },
+  {
+   "date": "2026-10-24",
+   "views": 759
+  },
+  {
+   "date": "2026-10-25",
+   "views": 905
+  },
+  {
+   "date": "2026-10-26",
+   "views": 796
+  },
+  {
+   "date": "2026-10-27",
+   "views": 739
+  },
+  {
+   "date": "2026-10-28",
+   "views": 752
+  },
+  {
+   "date": "2026-10-29",
+   "views": 688
+  },
+  {
+   "date": "2026-10-30",
+   "views": 1051
+  },
+  {
+   "date": "2026-10-31",
+   "views": 656
+  },
+  {
+   "date": "2026-11-01",
+   "views": 880
+  },
+  {
+   "date": "2026-11-02",
+   "views": 2822
+  },
+  {
+   "date": "2026-11-03",
+   "views": 2387
+  },
+  {
+   "date": "2026-11-04",
+   "views": 1334
+  },
+  {
    "date": "2026-11-05",
-   "views": 14011
+   "views": 1289
   },
   {
    "date": "2026-11-06",
-   "views": 14756
+   "views": 1371
   },
   {
    "date": "2026-11-07",
-   "views": 10692
+   "views": 1224
   },
   {
    "date": "2026-11-08",
-   "views": 8970
+   "views": 1171
   },
   {
    "date": "2026-11-09",
-   "views": 58883
+   "views": 1170
   },
   {
    "date": "2026-11-10",
-   "views": 96742
+   "views": 1254
   },
   {
    "date": "2026-11-11",
-   "views": 32946
+   "views": 1675
+  },
+  {
+   "date": "2026-11-12",
+   "views": 59568
   }
  ],
- "wikipedia_title": "Jemima_Goldsmith",
+ "wikipedia_title": "American_Airlines_Flight_587",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

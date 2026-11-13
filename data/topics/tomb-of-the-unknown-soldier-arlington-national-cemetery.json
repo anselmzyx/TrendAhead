@@ -1,197 +1,197 @@
 {
- "title": "Thomas Massie",
- "slug": "thomas-massie",
- "score": 34,
- "status": "Peaked / fading",
- "change_percent": 1581,
- "growth_ratio": 16.81,
- "recent_avg": 106209,
- "baseline_avg": 6317,
- "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Tomb of the Unknown Soldier (Arlington National Cemetery)",
+ "slug": "tomb-of-the-unknown-soldier-arlington-national-cemetery",
+ "score": 68,
+ "status": "Breaking out",
+ "change_percent": 12905,
+ "growth_ratio": 130.11,
+ "recent_avg": 58263,
+ "baseline_avg": 448,
+ "explanation": "Attention is 130\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 99892,
- "latest": 60197,
+ "abs_change": 57815,
+ "latest": 137779,
  "components": {
-  "acceleration": 0.721,
-  "anomaly": 0.974,
-  "persistence": 0.76,
-  "momentum": 0.417,
-  "volume": 1.0,
-  "spike_quality": 0.533
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.883,
+  "spike_quality": 0.632
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 106,209 views/day over the last 3 days (30-day baseline: 6,317)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 58,263 views/day over the last 3 days (30-day baseline: 448)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 1510
-  },
-  {
    "date": "2026-10-04",
-   "views": 1557
+   "views": 287
   },
   {
    "date": "2026-10-05",
-   "views": 1656
+   "views": 262
   },
   {
    "date": "2026-10-06",
-   "views": 1575
+   "views": 271
   },
   {
    "date": "2026-10-07",
-   "views": 1666
+   "views": 301
   },
   {
    "date": "2026-10-08",
-   "views": 1754
+   "views": 291
   },
   {
    "date": "2026-10-09",
-   "views": 1759
+   "views": 303
   },
   {
    "date": "2026-10-10",
-   "views": 1552
+   "views": 444
   },
   {
    "date": "2026-10-11",
-   "views": 1608
+   "views": 477
   },
   {
    "date": "2026-10-12",
-   "views": 1790
+   "views": 366
   },
   {
    "date": "2026-10-13",
-   "views": 1786
+   "views": 327
   },
   {
    "date": "2026-10-14",
-   "views": 2397
+   "views": 335
   },
   {
    "date": "2026-10-15",
-   "views": 2557
+   "views": 344
   },
   {
    "date": "2026-10-16",
-   "views": 2483
+   "views": 312
   },
   {
    "date": "2026-10-17",
-   "views": 2551
+   "views": 283
   },
   {
    "date": "2026-10-18",
-   "views": 2316
+   "views": 276
   },
   {
    "date": "2026-10-19",
-   "views": 2053
+   "views": 651
   },
   {
    "date": "2026-10-20",
-   "views": 2142
+   "views": 368
   },
   {
    "date": "2026-10-21",
-   "views": 1876
+   "views": 334
   },
   {
    "date": "2026-10-22",
-   "views": 1822
+   "views": 328
   },
   {
    "date": "2026-10-23",
-   "views": 1905
+   "views": 372
   },
   {
    "date": "2026-10-24",
-   "views": 1657
+   "views": 444
   },
   {
    "date": "2026-10-25",
-   "views": 1607
+   "views": 400
   },
   {
    "date": "2026-10-26",
-   "views": 1965
+   "views": 400
   },
   {
    "date": "2026-10-27",
-   "views": 2449
+   "views": 362
   },
   {
    "date": "2026-10-28",
-   "views": 2196
+   "views": 318
   },
   {
    "date": "2026-10-29",
-   "views": 2118
+   "views": 354
   },
   {
    "date": "2026-10-30",
-   "views": 2530
+   "views": 403
   },
   {
    "date": "2026-10-31",
-   "views": 2176
+   "views": 326
   },
   {
    "date": "2026-11-01",
-   "views": 2111
+   "views": 386
   },
   {
    "date": "2026-11-02",
-   "views": 2825
+   "views": 333
   },
   {
    "date": "2026-11-03",
-   "views": 5139
+   "views": 392
   },
   {
    "date": "2026-11-04",
-   "views": 31284
+   "views": 928
   },
   {
    "date": "2026-11-05",
-   "views": 43248
+   "views": 481
   },
   {
    "date": "2026-11-06",
-   "views": 30950
+   "views": 590
   },
   {
    "date": "2026-11-07",
-   "views": 16262
+   "views": 680
   },
   {
    "date": "2026-11-08",
-   "views": 12166
+   "views": 886
   },
   {
    "date": "2026-11-09",
-   "views": 91803
+   "views": 978
   },
   {
    "date": "2026-11-10",
-   "views": 166628
+   "views": 1092
   },
   {
    "date": "2026-11-11",
-   "views": 60197
+   "views": 35918
+  },
+  {
+   "date": "2026-11-12",
+   "views": 137779
   }
  ],
- "wikipedia_title": "Thomas_Massie",
+ "wikipedia_title": "Tomb_of_the_Unknown_Soldier_(Arlington_National_Cemetery)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

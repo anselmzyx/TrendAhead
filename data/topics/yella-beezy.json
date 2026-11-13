@@ -1,198 +1,197 @@
 {
- "title": "Veterans Day",
- "slug": "veterans-day",
- "score": 63,
+ "title": "Yella Beezy",
+ "slug": "yella-beezy",
+ "score": 50,
  "status": "Breaking out",
- "change_percent": 1900,
- "growth_ratio": 20.0,
- "recent_avg": 34300,
- "baseline_avg": 1715,
- "explanation": "Attention is 20\u00d7 its 30-day baseline.",
+ "change_percent": 6275,
+ "growth_ratio": 63.8,
+ "recent_avg": 40865,
+ "baseline_avg": 641,
+ "explanation": "Attention is 64\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32585,
- "latest": 70250,
+ "abs_change": 40224,
+ "latest": 96701,
  "components": {
-  "acceleration": 0.766,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.768,
-  "spike_quality": 0.749
+  "volume": 0.806,
+  "spike_quality": 0.635
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 34,300 views/day over the last 3 days (30-day baseline: 1,715)."
+  "Averaging 40,865 views/day over the last 3 days (30-day baseline: 641)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 327
-  },
-  {
    "date": "2026-10-04",
-   "views": 367
+   "views": 163
   },
   {
    "date": "2026-10-05",
-   "views": 617
+   "views": 147
   },
   {
    "date": "2026-10-06",
-   "views": 623
+   "views": 254
   },
   {
    "date": "2026-10-07",
-   "views": 600
+   "views": 277
   },
   {
    "date": "2026-10-08",
-   "views": 588
+   "views": 240
   },
   {
    "date": "2026-10-09",
-   "views": 626
+   "views": 220
   },
   {
    "date": "2026-10-10",
-   "views": 379
+   "views": 162
   },
   {
    "date": "2026-10-11",
-   "views": 446
+   "views": 168
   },
   {
    "date": "2026-10-12",
-   "views": 1007
+   "views": 154
   },
   {
    "date": "2026-10-13",
-   "views": 913
+   "views": 182
   },
   {
    "date": "2026-10-14",
-   "views": 824
+   "views": 176
   },
   {
    "date": "2026-10-15",
-   "views": 755
+   "views": 161
   },
   {
    "date": "2026-10-16",
-   "views": 659
+   "views": 181
   },
   {
    "date": "2026-10-17",
-   "views": 361
+   "views": 220
   },
   {
    "date": "2026-10-18",
-   "views": 429
+   "views": 172
   },
   {
    "date": "2026-10-19",
-   "views": 875
+   "views": 164
   },
   {
    "date": "2026-10-20",
-   "views": 957
+   "views": 257
   },
   {
    "date": "2026-10-21",
-   "views": 896
+   "views": 240
   },
   {
    "date": "2026-10-22",
-   "views": 966
+   "views": 186
   },
   {
    "date": "2026-10-23",
-   "views": 973
+   "views": 216
   },
   {
    "date": "2026-10-24",
-   "views": 519
+   "views": 214
   },
   {
    "date": "2026-10-25",
-   "views": 539
+   "views": 242
   },
   {
    "date": "2026-10-26",
-   "views": 1398
+   "views": 540
   },
   {
    "date": "2026-10-27",
-   "views": 1398
+   "views": 1791
   },
   {
    "date": "2026-10-28",
-   "views": 1542
+   "views": 2151
   },
   {
    "date": "2026-10-29",
-   "views": 1467
+   "views": 2376
   },
   {
    "date": "2026-10-30",
-   "views": 1398
+   "views": 1329
   },
   {
    "date": "2026-10-31",
-   "views": 953
+   "views": 563
   },
   {
    "date": "2026-11-01",
-   "views": 1520
+   "views": 458
   },
   {
    "date": "2026-11-02",
-   "views": 3577
+   "views": 1150
   },
   {
    "date": "2026-11-03",
-   "views": 3184
+   "views": 960
   },
   {
    "date": "2026-11-04",
-   "views": 3713
+   "views": 858
   },
   {
    "date": "2026-11-05",
-   "views": 4475
+   "views": 957
   },
   {
    "date": "2026-11-06",
-   "views": 5040
+   "views": 1197
   },
   {
    "date": "2026-11-07",
-   "views": 3846
+   "views": 679
   },
   {
    "date": "2026-11-08",
-   "views": 6443
+   "views": 420
   },
   {
    "date": "2026-11-09",
-   "views": 13018
+   "views": 855
   },
   {
    "date": "2026-11-10",
-   "views": 19633
+   "views": 927
   },
   {
    "date": "2026-11-11",
-   "views": 70250
+   "views": 24967
+  },
+  {
+   "date": "2026-11-12",
+   "views": 96701
   }
  ],
- "wikipedia_title": "Veterans_Day",
+ "wikipedia_title": "Yella_Beezy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

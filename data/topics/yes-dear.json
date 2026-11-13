@@ -1,196 +1,197 @@
 {
- "title": "David Walliams",
- "slug": "david-walliams",
- "score": 37,
- "status": "Elevated",
- "change_percent": 1411,
- "growth_ratio": 15.11,
- "recent_avg": 290522,
- "baseline_avg": 19223,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "title": "Yes, Dear",
+ "slug": "yes-dear",
+ "score": 33,
+ "status": "Breaking out",
+ "change_percent": 4424,
+ "growth_ratio": 45.22,
+ "recent_avg": 20676,
+ "baseline_avg": 457,
+ "explanation": "Attention is 45\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 271299,
- "latest": 325997,
+ "abs_change": 20219,
+ "latest": 61246,
  "components": {
-  "acceleration": 0.694,
+  "acceleration": 0.974,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.581,
-  "volume": 1.0,
-  "spike_quality": 0.604
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.658,
+  "spike_quality": 0.519
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 290,522 views/day over the last 3 days (30-day baseline: 19,223)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 20,676 views/day over the last 3 days (30-day baseline: 457)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 1796
-  },
-  {
    "date": "2026-10-04",
-   "views": 1910
+   "views": 405
   },
   {
    "date": "2026-10-05",
-   "views": 1681
+   "views": 301
   },
   {
    "date": "2026-10-06",
-   "views": 1391
+   "views": 250
   },
   {
    "date": "2026-10-07",
-   "views": 1421
+   "views": 244
   },
   {
    "date": "2026-10-08",
-   "views": 1434
+   "views": 295
   },
   {
    "date": "2026-10-09",
-   "views": 1661
+   "views": 241
   },
   {
    "date": "2026-10-10",
-   "views": 1663
+   "views": 296
   },
   {
    "date": "2026-10-11",
-   "views": 1802
+   "views": 289
   },
   {
    "date": "2026-10-12",
-   "views": 1667
+   "views": 257
   },
   {
    "date": "2026-10-13",
-   "views": 1391
+   "views": 277
   },
   {
    "date": "2026-10-14",
-   "views": 2219
+   "views": 277
   },
   {
    "date": "2026-10-15",
-   "views": 1998
+   "views": 273
   },
   {
    "date": "2026-10-16",
-   "views": 2741
+   "views": 258
   },
   {
    "date": "2026-10-17",
-   "views": 8568
+   "views": 371
   },
   {
    "date": "2026-10-18",
-   "views": 5523
+   "views": 347
   },
   {
    "date": "2026-10-19",
-   "views": 3143
+   "views": 336
   },
   {
    "date": "2026-10-20",
-   "views": 5922
+   "views": 283
   },
   {
    "date": "2026-10-21",
-   "views": 3901
+   "views": 2951
   },
   {
    "date": "2026-10-22",
-   "views": 3578
+   "views": 1025
   },
   {
    "date": "2026-10-23",
-   "views": 2326
+   "views": 586
   },
   {
    "date": "2026-10-24",
-   "views": 2781
+   "views": 479
   },
   {
    "date": "2026-10-25",
-   "views": 2621
+   "views": 578
   },
   {
    "date": "2026-10-26",
-   "views": 2580
+   "views": 427
   },
   {
    "date": "2026-10-27",
-   "views": 25528
+   "views": 416
   },
   {
    "date": "2026-10-28",
-   "views": 71358
+   "views": 336
   },
   {
    "date": "2026-10-29",
-   "views": 41230
+   "views": 453
   },
   {
    "date": "2026-10-30",
-   "views": 24185
+   "views": 378
   },
   {
    "date": "2026-10-31",
-   "views": 15054
+   "views": 377
   },
   {
    "date": "2026-11-01",
-   "views": 13062
+   "views": 349
   },
   {
    "date": "2026-11-02",
-   "views": 10910
+   "views": 319
   },
   {
    "date": "2026-11-03",
-   "views": 110365
+   "views": 270
   },
   {
    "date": "2026-11-04",
-   "views": 74140
+   "views": 254
   },
   {
    "date": "2026-11-05",
-   "views": 53727
+   "views": 283
   },
   {
    "date": "2026-11-06",
-   "views": 39045
+   "views": 252
   },
   {
    "date": "2026-11-07",
-   "views": 25116
+   "views": 346
   },
   {
    "date": "2026-11-08",
-   "views": 18535
+   "views": 348
   },
   {
    "date": "2026-11-09",
-   "views": 32765
+   "views": 322
   },
   {
    "date": "2026-11-10",
-   "views": 512804
+   "views": 291
   },
   {
    "date": "2026-11-11",
-   "views": 325997
+   "views": 492
+  },
+  {
+   "date": "2026-11-12",
+   "views": 61246
   }
  ],
- "wikipedia_title": "David_Walliams",
+ "wikipedia_title": "Yes,_Dear",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

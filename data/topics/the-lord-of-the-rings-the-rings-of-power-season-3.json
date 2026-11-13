@@ -1,38 +1,34 @@
 {
  "title": "The Lord of the Rings: The Rings of Power season 3",
  "slug": "the-lord-of-the-rings-the-rings-of-power-season-3",
- "score": 53,
- "status": "Breaking out",
- "change_percent": 920,
- "growth_ratio": 10.2,
- "recent_avg": 22548,
- "baseline_avg": 2210,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "score": 71,
+ "status": "Building",
+ "change_percent": 1640,
+ "growth_ratio": 17.4,
+ "recent_avg": 41095,
+ "baseline_avg": 2362,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 20338,
- "latest": 53372,
+ "abs_change": 38733,
+ "latest": 61322,
  "components": {
-  "acceleration": 0.594,
+  "acceleration": 0.73,
   "anomaly": 1.0,
-  "persistence": 0.92,
+  "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.677,
-  "spike_quality": 0.712
+  "volume": 0.807,
+  "spike_quality": 0.831
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 22,548 views/day over the last 3 days (30-day baseline: 2,210)."
+  "Averaging 41,095 views/day over the last 3 days (30-day baseline: 2,362)."
  ],
  "history": [
-  {
-   "date": "2026-10-03",
-   "views": 857
-  },
   {
    "date": "2026-10-04",
    "views": 989
@@ -188,11 +184,15 @@
   {
    "date": "2026-11-11",
    "views": 53372
+  },
+  {
+   "date": "2026-11-12",
+   "views": 61322
   }
  ],
  "wikipedia_title": "The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

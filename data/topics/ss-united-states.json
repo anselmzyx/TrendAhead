@@ -1,196 +1,198 @@
 {
- "title": "Jim Jordan",
- "slug": "jim-jordan",
- "score": 40,
- "status": "Elevated",
- "change_percent": 2791,
- "growth_ratio": 28.91,
- "recent_avg": 37118,
- "baseline_avg": 1284,
- "explanation": "Attention is 29\u00d7 its 30-day baseline.",
+ "title": "SS United States",
+ "slug": "ss-united-states",
+ "score": 78,
+ "status": "Breaking out",
+ "change_percent": 3059,
+ "growth_ratio": 31.59,
+ "recent_avg": 126965,
+ "baseline_avg": 4019,
+ "explanation": "Attention is 32\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 35834,
- "latest": 48051,
+ "abs_change": 122946,
+ "latest": 241627,
  "components": {
-  "acceleration": 0.86,
+  "acceleration": 0.883,
   "anomaly": 1.0,
-  "persistence": 0.56,
-  "momentum": 0.603,
-  "volume": 0.785,
-  "spike_quality": 0.687
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.747
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 37,118 views/day over the last 3 days (30-day baseline: 1,284)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 126,965 views/day over the last 3 days (30-day baseline: 4,019)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 336
-  },
-  {
    "date": "2026-10-04",
-   "views": 408
+   "views": 523
   },
   {
    "date": "2026-10-05",
-   "views": 744
+   "views": 604
   },
   {
    "date": "2026-10-06",
-   "views": 601
+   "views": 694
   },
   {
    "date": "2026-10-07",
-   "views": 591
+   "views": 603
   },
   {
    "date": "2026-10-08",
-   "views": 562
-  },
-  {
-   "date": "2026-10-09",
-   "views": 471
-  },
-  {
-   "date": "2026-10-10",
-   "views": 386
-  },
-  {
-   "date": "2026-10-11",
-   "views": 296
-  },
-  {
-   "date": "2026-10-12",
-   "views": 399
-  },
-  {
-   "date": "2026-10-13",
-   "views": 493
-  },
-  {
-   "date": "2026-10-14",
-   "views": 621
-  },
-  {
-   "date": "2026-10-15",
-   "views": 1001
-  },
-  {
-   "date": "2026-10-16",
-   "views": 719
-  },
-  {
-   "date": "2026-10-17",
-   "views": 766
-  },
-  {
-   "date": "2026-10-18",
-   "views": 425
-  },
-  {
-   "date": "2026-10-19",
-   "views": 608
-  },
-  {
-   "date": "2026-10-20",
-   "views": 549
-  },
-  {
-   "date": "2026-10-21",
-   "views": 548
-  },
-  {
-   "date": "2026-10-22",
-   "views": 664
-  },
-  {
-   "date": "2026-10-23",
    "views": 584
   },
   {
+   "date": "2026-10-09",
+   "views": 587
+  },
+  {
+   "date": "2026-10-10",
+   "views": 1139
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2778
+  },
+  {
+   "date": "2026-10-12",
+   "views": 2894
+  },
+  {
+   "date": "2026-10-13",
+   "views": 4706
+  },
+  {
+   "date": "2026-10-14",
+   "views": 2130
+  },
+  {
+   "date": "2026-10-15",
+   "views": 1416
+  },
+  {
+   "date": "2026-10-16",
+   "views": 955
+  },
+  {
+   "date": "2026-10-17",
+   "views": 1034
+  },
+  {
+   "date": "2026-10-18",
+   "views": 1436
+  },
+  {
+   "date": "2026-10-19",
+   "views": 2012
+  },
+  {
+   "date": "2026-10-20",
+   "views": 1423
+  },
+  {
+   "date": "2026-10-21",
+   "views": 979
+  },
+  {
+   "date": "2026-10-22",
+   "views": 2728
+  },
+  {
+   "date": "2026-10-23",
+   "views": 2207
+  },
+  {
    "date": "2026-10-24",
-   "views": 530
+   "views": 1741
   },
   {
    "date": "2026-10-25",
-   "views": 387
+   "views": 2075
   },
   {
    "date": "2026-10-26",
-   "views": 498
+   "views": 6772
   },
   {
    "date": "2026-10-27",
-   "views": 560
+   "views": 12267
   },
   {
    "date": "2026-10-28",
-   "views": 612
+   "views": 10690
   },
   {
    "date": "2026-10-29",
-   "views": 657
+   "views": 4299
   },
   {
    "date": "2026-10-30",
-   "views": 645
+   "views": 2298
   },
   {
    "date": "2026-10-31",
-   "views": 430
+   "views": 1426
   },
   {
    "date": "2026-11-01",
-   "views": 512
+   "views": 2749
   },
   {
    "date": "2026-11-02",
-   "views": 665
+   "views": 3974
   },
   {
    "date": "2026-11-03",
-   "views": 860
+   "views": 3101
   },
   {
    "date": "2026-11-04",
-   "views": 11127
+   "views": 2179
   },
   {
    "date": "2026-11-05",
-   "views": 5814
+   "views": 2156
   },
   {
    "date": "2026-11-06",
-   "views": 3152
+   "views": 4348
   },
   {
    "date": "2026-11-07",
-   "views": 2054
+   "views": 3325
   },
   {
    "date": "2026-11-08",
-   "views": 1956
+   "views": 14961
   },
   {
    "date": "2026-11-09",
-   "views": 1902
+   "views": 15517
   },
   {
    "date": "2026-11-10",
-   "views": 61400
+   "views": 21728
   },
   {
    "date": "2026-11-11",
-   "views": 48051
+   "views": 117540
+  },
+  {
+   "date": "2026-11-12",
+   "views": 241627
   }
  ],
- "wikipedia_title": "Jim_Jordan",
+ "wikipedia_title": "SS_United_States",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

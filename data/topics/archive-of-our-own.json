@@ -1,198 +1,198 @@
 {
- "title": "Armistice Day",
- "slug": "armistice-day",
- "score": 57,
- "status": "Breaking out",
- "change_percent": 2471,
- "growth_ratio": 25.72,
- "recent_avg": 24656,
- "baseline_avg": 959,
- "explanation": "Attention is 26\u00d7 its 30-day baseline.",
+ "title": "Archive of Our Own",
+ "slug": "archive-of-our-own",
+ "score": 43,
+ "status": "Building",
+ "change_percent": 180,
+ "growth_ratio": 2.8,
+ "recent_avg": 64032,
+ "baseline_avg": 22874,
+ "explanation": "Attention is 2.8\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 23697,
- "latest": 55444,
+ "abs_change": 41158,
+ "latest": 99746,
  "components": {
-  "acceleration": 0.83,
-  "anomaly": 1.0,
+  "acceleration": 0.263,
+  "anomaly": 0.146,
   "persistence": 0.92,
   "momentum": 0.933,
-  "volume": 0.696,
-  "spike_quality": 0.711
+  "volume": 0.903,
+  "spike_quality": 0.927
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 24,656 views/day over the last 3 days (30-day baseline: 959)."
+  "Averaging 64,032 views/day over the last 3 days (30-day baseline: 22,874)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 246
-  },
-  {
    "date": "2026-10-04",
-   "views": 267
+   "views": 1390
   },
   {
    "date": "2026-10-05",
-   "views": 342
+   "views": 1516
   },
   {
    "date": "2026-10-06",
-   "views": 274
+   "views": 1527
   },
   {
    "date": "2026-10-07",
-   "views": 333
+   "views": 1468
   },
   {
    "date": "2026-10-08",
-   "views": 347
+   "views": 1364
   },
   {
    "date": "2026-10-09",
-   "views": 325
+   "views": 1306
   },
   {
    "date": "2026-10-10",
-   "views": 293
+   "views": 1306
   },
   {
    "date": "2026-10-11",
-   "views": 347
+   "views": 1371
   },
   {
    "date": "2026-10-12",
-   "views": 486
+   "views": 1415
   },
   {
    "date": "2026-10-13",
-   "views": 435
+   "views": 1441
   },
   {
    "date": "2026-10-14",
-   "views": 381
+   "views": 1455
   },
   {
    "date": "2026-10-15",
-   "views": 408
+   "views": 1531
   },
   {
    "date": "2026-10-16",
-   "views": 338
+   "views": 1913
   },
   {
    "date": "2026-10-17",
-   "views": 254
+   "views": 1955
   },
   {
    "date": "2026-10-18",
-   "views": 306
+   "views": 2111
   },
   {
    "date": "2026-10-19",
-   "views": 370
+   "views": 2070
   },
   {
    "date": "2026-10-20",
-   "views": 383
+   "views": 1760
   },
   {
    "date": "2026-10-21",
-   "views": 401
+   "views": 1763
   },
   {
    "date": "2026-10-22",
-   "views": 485
+   "views": 1631
   },
   {
    "date": "2026-10-23",
-   "views": 453
+   "views": 1539
   },
   {
    "date": "2026-10-24",
-   "views": 400
+   "views": 1731
   },
   {
    "date": "2026-10-25",
-   "views": 430
+   "views": 1795
   },
   {
    "date": "2026-10-26",
-   "views": 558
+   "views": 1791
   },
   {
    "date": "2026-10-27",
-   "views": 650
+   "views": 1818
   },
   {
    "date": "2026-10-28",
-   "views": 605
+   "views": 1691
   },
   {
    "date": "2026-10-29",
-   "views": 773
+   "views": 27230
   },
   {
    "date": "2026-10-30",
-   "views": 707
+   "views": 55142
   },
   {
    "date": "2026-10-31",
-   "views": 1004
+   "views": 45549
   },
   {
    "date": "2026-11-01",
-   "views": 1121
+   "views": 43286
   },
   {
    "date": "2026-11-02",
-   "views": 1394
+   "views": 78713
   },
   {
    "date": "2026-11-03",
-   "views": 1482
+   "views": 85012
   },
   {
    "date": "2026-11-04",
-   "views": 1519
+   "views": 78683
   },
   {
    "date": "2026-11-05",
-   "views": 1789
+   "views": 62148
   },
   {
    "date": "2026-11-06",
-   "views": 2049
+   "views": 46593
   },
   {
    "date": "2026-11-07",
-   "views": 2473
+   "views": 37233
   },
   {
    "date": "2026-11-08",
-   "views": 6469
+   "views": 43788
   },
   {
    "date": "2026-11-09",
-   "views": 5852
+   "views": 52047
   },
   {
    "date": "2026-11-10",
-   "views": 12673
+   "views": 36360
   },
   {
    "date": "2026-11-11",
-   "views": 55444
+   "views": 55989
+  },
+  {
+   "date": "2026-11-12",
+   "views": 99746
   }
  ],
- "wikipedia_title": "Armistice_Day",
+ "wikipedia_title": "Archive_of_Our_Own",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

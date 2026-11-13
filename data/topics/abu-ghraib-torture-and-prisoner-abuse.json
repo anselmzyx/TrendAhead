@@ -1,197 +1,197 @@
 {
- "title": "Toukie Smith",
- "slug": "toukie-smith",
- "score": 33,
- "status": "Peaked / fading",
- "change_percent": 12029,
- "growth_ratio": 121.38,
- "recent_avg": 44514,
- "baseline_avg": 367,
- "explanation": "Attention surged to 121\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Abu Ghraib torture and prisoner abuse",
+ "slug": "abu-ghraib-torture-and-prisoner-abuse",
+ "score": 32,
+ "status": "Breaking out",
+ "change_percent": 1065,
+ "growth_ratio": 11.64,
+ "recent_avg": 23140,
+ "baseline_avg": 1987,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 44147,
- "latest": 36725,
+ "abs_change": 21153,
+ "latest": 64718,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.627,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.501,
-  "volume": 0.824,
-  "spike_quality": 0.52
+  "persistence": 0.2,
+  "momentum": 1.0,
+  "volume": 0.682,
+  "spike_quality": 0.594
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 44,514 views/day over the last 3 days (30-day baseline: 367)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 23,140 views/day over the last 3 days (30-day baseline: 1,987)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 384
-  },
-  {
    "date": "2026-10-04",
-   "views": 341
+   "views": 2184
   },
   {
    "date": "2026-10-05",
-   "views": 420
+   "views": 2184
   },
   {
    "date": "2026-10-06",
-   "views": 336
+   "views": 2643
   },
   {
    "date": "2026-10-07",
-   "views": 303
+   "views": 5987
   },
   {
    "date": "2026-10-08",
-   "views": 273
+   "views": 5918
   },
   {
    "date": "2026-10-09",
-   "views": 250
+   "views": 4522
   },
   {
    "date": "2026-10-10",
-   "views": 293
+   "views": 3687
   },
   {
    "date": "2026-10-11",
-   "views": 368
+   "views": 3114
   },
   {
    "date": "2026-10-12",
-   "views": 349
+   "views": 2826
   },
   {
    "date": "2026-10-13",
-   "views": 352
+   "views": 3248
   },
   {
    "date": "2026-10-14",
-   "views": 249
+   "views": 2567
   },
   {
    "date": "2026-10-15",
-   "views": 257
+   "views": 2215
   },
   {
    "date": "2026-10-16",
-   "views": 370
+   "views": 1935
   },
   {
    "date": "2026-10-17",
-   "views": 346
+   "views": 1752
   },
   {
    "date": "2026-10-18",
-   "views": 313
+   "views": 1638
   },
   {
    "date": "2026-10-19",
-   "views": 241
+   "views": 1963
   },
   {
    "date": "2026-10-20",
-   "views": 248
+   "views": 1728
   },
   {
    "date": "2026-10-21",
-   "views": 271
+   "views": 1963
   },
   {
    "date": "2026-10-22",
-   "views": 363
+   "views": 1939
   },
   {
    "date": "2026-10-23",
-   "views": 332
+   "views": 1897
   },
   {
    "date": "2026-10-24",
-   "views": 407
+   "views": 1788
   },
   {
    "date": "2026-10-25",
-   "views": 778
+   "views": 1836
   },
   {
    "date": "2026-10-26",
-   "views": 768
+   "views": 1993
   },
   {
    "date": "2026-10-27",
-   "views": 318
+   "views": 1980
   },
   {
    "date": "2026-10-28",
-   "views": 319
+   "views": 1874
   },
   {
    "date": "2026-10-29",
-   "views": 251
+   "views": 1815
   },
   {
    "date": "2026-10-30",
-   "views": 224
+   "views": 1584
   },
   {
    "date": "2026-10-31",
-   "views": 232
+   "views": 1527
   },
   {
    "date": "2026-11-01",
-   "views": 210
+   "views": 1491
   },
   {
    "date": "2026-11-02",
-   "views": 374
+   "views": 1749
   },
   {
    "date": "2026-11-03",
-   "views": 444
+   "views": 1753
   },
   {
    "date": "2026-11-04",
-   "views": 407
+   "views": 1752
   },
   {
    "date": "2026-11-05",
-   "views": 448
+   "views": 2007
   },
   {
    "date": "2026-11-06",
-   "views": 466
+   "views": 2042
   },
   {
    "date": "2026-11-07",
-   "views": 507
+   "views": 1722
   },
   {
    "date": "2026-11-08",
-   "views": 497
+   "views": 1859
   },
   {
    "date": "2026-11-09",
-   "views": 23706
+   "views": 2063
   },
   {
    "date": "2026-11-10",
-   "views": 73111
+   "views": 2113
   },
   {
    "date": "2026-11-11",
-   "views": 36725
+   "views": 2589
+  },
+  {
+   "date": "2026-11-12",
+   "views": 64718
   }
  ],
- "wikipedia_title": "Toukie_Smith",
+ "wikipedia_title": "Abu_Ghraib_torture_and_prisoner_abuse",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

@@ -1,196 +1,197 @@
 {
- "title": "James Keach",
- "slug": "james-keach",
- "score": 32,
+ "title": "Alice Huang (executive)",
+ "slug": "alice-huang-executive",
+ "score": 56,
  "status": "Breaking out",
- "change_percent": 3308,
- "growth_ratio": 34.09,
- "recent_avg": 33601,
- "baseline_avg": 986,
- "explanation": "Attention is 34\u00d7 its 30-day baseline.",
+ "change_percent": 117215,
+ "growth_ratio": 563.11,
+ "recent_avg": 56311,
+ "baseline_avg": 48,
+ "explanation": "Attention is 563\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32615,
- "latest": 99527,
+ "abs_change": 56263,
+ "latest": 160121,
  "components": {
-  "acceleration": 0.902,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.763,
-  "spike_quality": 0.525
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.875,
+  "spike_quality": 0.535
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 33,601 views/day over the last 3 days (30-day baseline: 986)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 56,311 views/day over the last 3 days (30-day baseline: 48)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 804
-  },
-  {
    "date": "2026-10-04",
-   "views": 839
+   "views": 0
   },
   {
    "date": "2026-10-05",
-   "views": 784
+   "views": 0
   },
   {
    "date": "2026-10-06",
-   "views": 729
+   "views": 0
   },
   {
    "date": "2026-10-07",
-   "views": 730
+   "views": 0
   },
   {
    "date": "2026-10-08",
-   "views": 740
+   "views": 0
   },
   {
    "date": "2026-10-09",
-   "views": 623
+   "views": 0
   },
   {
    "date": "2026-10-10",
-   "views": 885
+   "views": 0
   },
   {
    "date": "2026-10-11",
-   "views": 834
+   "views": 0
   },
   {
    "date": "2026-10-12",
-   "views": 883
+   "views": 0
   },
   {
    "date": "2026-10-13",
-   "views": 706
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 607
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 695
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 579
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 1325
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 6190
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 1551
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 983
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 976
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 1069
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 800
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 902
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 771
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 824
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 663
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 615
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 686
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 658
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 726
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 703
+   "views": 0
   },
   {
    "date": "2026-11-02",
-   "views": 602
+   "views": 0
   },
   {
    "date": "2026-11-03",
-   "views": 569
+   "views": 0
   },
   {
    "date": "2026-11-04",
-   "views": 539
+   "views": 0
   },
   {
    "date": "2026-11-05",
-   "views": 593
+   "views": 0
   },
   {
    "date": "2026-11-06",
-   "views": 891
+   "views": 0
   },
   {
    "date": "2026-11-07",
-   "views": 911
+   "views": 0
   },
   {
    "date": "2026-11-08",
-   "views": 838
+   "views": 0
   },
   {
    "date": "2026-11-09",
-   "views": 662
+   "views": 1442
   },
   {
    "date": "2026-11-10",
-   "views": 615
+   "views": 3959
   },
   {
    "date": "2026-11-11",
-   "views": 99527
+   "views": 4853
+  },
+  {
+   "date": "2026-11-12",
+   "views": 160121
   }
  ],
- "wikipedia_title": "James_Keach",
+ "wikipedia_title": "Alice_Huang_(executive)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

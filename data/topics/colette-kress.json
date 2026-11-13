@@ -1,197 +1,197 @@
 {
- "title": "SS Edmund Fitzgerald",
- "slug": "ss-edmund-fitzgerald",
- "score": 62,
- "status": "Building",
- "change_percent": 1652,
- "growth_ratio": 17.52,
- "recent_avg": 112032,
- "baseline_avg": 6396,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "title": "Colette Kress",
+ "slug": "colette-kress",
+ "score": 59,
+ "status": "Breaking out",
+ "change_percent": 59503,
+ "growth_ratio": 595.96,
+ "recent_avg": 157353,
+ "baseline_avg": 264,
+ "explanation": "Attention is 596\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 105636,
- "latest": 147962,
+ "abs_change": 157089,
+ "latest": 463931,
  "components": {
-  "acceleration": 0.732,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 0.743,
+  "momentum": 0.933,
   "volume": 1.0,
-  "spike_quality": 0.79
+  "spike_quality": 0.516
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 112,032 views/day over the last 3 days (30-day baseline: 6,396)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 157,353 views/day over the last 3 days (30-day baseline: 264)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 3180
-  },
-  {
    "date": "2026-10-04",
-   "views": 3069
+   "views": 69
   },
   {
    "date": "2026-10-05",
-   "views": 2707
+   "views": 112
   },
   {
    "date": "2026-10-06",
-   "views": 2260
+   "views": 106
   },
   {
    "date": "2026-10-07",
-   "views": 2806
+   "views": 116
   },
   {
    "date": "2026-10-08",
-   "views": 2665
+   "views": 95
   },
   {
    "date": "2026-10-09",
-   "views": 2648
+   "views": 101
   },
   {
    "date": "2026-10-10",
-   "views": 2662
+   "views": 78
   },
   {
    "date": "2026-10-11",
-   "views": 2697
+   "views": 98
   },
   {
    "date": "2026-10-12",
-   "views": 3183
+   "views": 85
   },
   {
    "date": "2026-10-13",
-   "views": 3756
+   "views": 103
   },
   {
    "date": "2026-10-14",
-   "views": 3515
+   "views": 128
   },
   {
    "date": "2026-10-15",
-   "views": 4898
+   "views": 110
   },
   {
    "date": "2026-10-16",
-   "views": 5631
+   "views": 133
   },
   {
    "date": "2026-10-17",
-   "views": 5809
+   "views": 99
   },
   {
    "date": "2026-10-18",
-   "views": 3936
+   "views": 96
   },
   {
    "date": "2026-10-19",
-   "views": 3562
+   "views": 123
   },
   {
    "date": "2026-10-20",
-   "views": 3271
+   "views": 139
   },
   {
    "date": "2026-10-21",
-   "views": 3394
+   "views": 133
   },
   {
    "date": "2026-10-22",
-   "views": 4288
+   "views": 118
   },
   {
    "date": "2026-10-23",
-   "views": 3924
+   "views": 147
   },
   {
    "date": "2026-10-24",
-   "views": 3954
+   "views": 117
   },
   {
    "date": "2026-10-25",
-   "views": 3247
+   "views": 91
   },
   {
    "date": "2026-10-26",
-   "views": 3595
+   "views": 94
   },
   {
    "date": "2026-10-27",
-   "views": 3703
+   "views": 128
   },
   {
    "date": "2026-10-28",
-   "views": 4733
+   "views": 140
   },
   {
    "date": "2026-10-29",
-   "views": 5459
+   "views": 144
   },
   {
    "date": "2026-10-30",
-   "views": 5054
+   "views": 174
   },
   {
    "date": "2026-10-31",
-   "views": 5593
+   "views": 121
   },
   {
    "date": "2026-11-01",
-   "views": 8870
+   "views": 112
   },
   {
    "date": "2026-11-02",
-   "views": 15256
+   "views": 93
   },
   {
    "date": "2026-11-03",
-   "views": 14609
+   "views": 88
   },
   {
    "date": "2026-11-04",
-   "views": 10698
+   "views": 75
   },
   {
    "date": "2026-11-05",
-   "views": 12203
+   "views": 89
   },
   {
    "date": "2026-11-06",
-   "views": 13251
+   "views": 98
   },
   {
    "date": "2026-11-07",
-   "views": 13485
+   "views": 140
   },
   {
    "date": "2026-11-08",
-   "views": 13632
+   "views": 509
   },
   {
    "date": "2026-11-09",
-   "views": 24535
+   "views": 4196
   },
   {
    "date": "2026-11-10",
-   "views": 163598
+   "views": 3726
   },
   {
    "date": "2026-11-11",
-   "views": 147962
+   "views": 4402
+  },
+  {
+   "date": "2026-11-12",
+   "views": 463931
   }
  ],
- "wikipedia_title": "SS_Edmund_Fitzgerald",
+ "wikipedia_title": "Colette_Kress",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

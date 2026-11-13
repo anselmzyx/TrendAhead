@@ -1,197 +1,197 @@
 {
- "title": "Children's Games (Bruegel)",
- "slug": "children-s-games-bruegel",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 24352,
- "growth_ratio": 245.62,
- "recent_avg": 25430,
- "baseline_avg": 104,
- "explanation": "Attention is 246\u00d7 its 30-day baseline.",
+ "title": "Nvidia",
+ "slug": "nvidia",
+ "score": 59,
+ "status": "Elevated",
+ "change_percent": 1786,
+ "growth_ratio": 18.86,
+ "recent_avg": 192624,
+ "baseline_avg": 10216,
+ "explanation": "Attention is 19\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 25326,
- "latest": 75596,
+ "abs_change": 182408,
+ "latest": 366417,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.867,
-  "volume": 0.703,
-  "spike_quality": 0.508
+  "acceleration": 0.751,
+  "anomaly": 0.74,
+  "persistence": 0.84,
+  "momentum": 0.8,
+  "volume": 1.0,
+  "spike_quality": 0.798
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,430 views/day over the last 3 days (30-day baseline: 104)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 192,624 views/day over the last 3 days (30-day baseline: 10,216)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 92
-  },
-  {
    "date": "2026-10-04",
-   "views": 70
+   "views": 4094
   },
   {
    "date": "2026-10-05",
-   "views": 142
+   "views": 4837
   },
   {
    "date": "2026-10-06",
-   "views": 176
+   "views": 5246
   },
   {
    "date": "2026-10-07",
-   "views": 147
+   "views": 5673
   },
   {
    "date": "2026-10-08",
-   "views": 122
+   "views": 6972
   },
   {
    "date": "2026-10-09",
-   "views": 186
+   "views": 5529
   },
   {
    "date": "2026-10-10",
-   "views": 86
+   "views": 4169
   },
   {
    "date": "2026-10-11",
-   "views": 84
+   "views": 4412
   },
   {
    "date": "2026-10-12",
-   "views": 125
+   "views": 4968
   },
   {
    "date": "2026-10-13",
-   "views": 116
+   "views": 5153
   },
   {
    "date": "2026-10-14",
-   "views": 111
+   "views": 5297
   },
   {
    "date": "2026-10-15",
-   "views": 119
+   "views": 6295
   },
   {
    "date": "2026-10-16",
-   "views": 105
+   "views": 6885
   },
   {
    "date": "2026-10-17",
-   "views": 101
+   "views": 4554
   },
   {
    "date": "2026-10-18",
-   "views": 85
+   "views": 4985
   },
   {
    "date": "2026-10-19",
-   "views": 108
+   "views": 6137
   },
   {
    "date": "2026-10-20",
-   "views": 127
+   "views": 6351
   },
   {
    "date": "2026-10-21",
-   "views": 139
+   "views": 5736
   },
   {
    "date": "2026-10-22",
-   "views": 115
+   "views": 6412
   },
   {
    "date": "2026-10-23",
-   "views": 111
+   "views": 6012
   },
   {
    "date": "2026-10-24",
-   "views": 96
+   "views": 5532
   },
   {
    "date": "2026-10-25",
-   "views": 79
+   "views": 4918
   },
   {
    "date": "2026-10-26",
-   "views": 107
+   "views": 5353
   },
   {
    "date": "2026-10-27",
-   "views": 100
+   "views": 4431
   },
   {
    "date": "2026-10-28",
-   "views": 118
+   "views": 4367
   },
   {
    "date": "2026-10-29",
-   "views": 97
+   "views": 6090
   },
   {
    "date": "2026-10-30",
-   "views": 105
+   "views": 6889
   },
   {
    "date": "2026-10-31",
-   "views": 82
+   "views": 4177
   },
   {
    "date": "2026-11-01",
-   "views": 70
+   "views": 3510
   },
   {
    "date": "2026-11-02",
-   "views": 103
+   "views": 4035
   },
   {
    "date": "2026-11-03",
-   "views": 111
+   "views": 4743
   },
   {
    "date": "2026-11-04",
-   "views": 92
+   "views": 4112
   },
   {
    "date": "2026-11-05",
-   "views": 117
+   "views": 4743
   },
   {
    "date": "2026-11-06",
-   "views": 113
+   "views": 4626
   },
   {
    "date": "2026-11-07",
-   "views": 94
+   "views": 5535
   },
   {
    "date": "2026-11-08",
-   "views": 90
+   "views": 17886
   },
   {
    "date": "2026-11-09",
-   "views": 457
+   "views": 142333
   },
   {
    "date": "2026-11-10",
-   "views": 237
+   "views": 123851
   },
   {
    "date": "2026-11-11",
-   "views": 75596
+   "views": 87604
+  },
+  {
+   "date": "2026-11-12",
+   "views": 366417
   }
  ],
- "wikipedia_title": "Children's_Games_(Bruegel)",
+ "wikipedia_title": "Nvidia",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

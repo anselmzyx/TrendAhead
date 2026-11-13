@@ -1,37 +1,33 @@
 {
  "title": "Pete Hegseth",
  "slug": "pete-hegseth",
- "score": 32,
+ "score": 44,
  "status": "Elevated",
- "change_percent": 432,
- "growth_ratio": 5.32,
- "recent_avg": 92540,
- "baseline_avg": 17400,
- "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
+ "change_percent": 458,
+ "growth_ratio": 5.58,
+ "recent_avg": 105244,
+ "baseline_avg": 18851,
+ "explanation": "Attention is 5.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 75140,
- "latest": 80358,
+ "abs_change": 86393,
+ "latest": 107688,
  "components": {
-  "acceleration": 0.427,
-  "anomaly": 0.511,
-  "persistence": 0.64,
-  "momentum": 0.578,
-  "volume": 0.983,
-  "spike_quality": 0.739
+  "acceleration": 0.44,
+  "anomaly": 0.497,
+  "persistence": 0.72,
+  "momentum": 0.773,
+  "volume": 1.0,
+  "spike_quality": 0.858
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 92,540 views/day over the last 3 days (30-day baseline: 17,400)."
+  "Averaging 105,244 views/day over the last 3 days (30-day baseline: 18,851)."
  ],
  "history": [
-  {
-   "date": "2026-10-03",
-   "views": 14797
-  },
   {
    "date": "2026-10-04",
    "views": 20519
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-11",
    "views": 80358
+  },
+  {
+   "date": "2026-11-12",
+   "views": 107688
   }
  ],
  "wikipedia_title": "Pete_Hegseth",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

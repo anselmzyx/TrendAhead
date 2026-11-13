@@ -1,198 +1,198 @@
 {
- "title": "The End of Everything (Harrison novel)",
- "slug": "the-end-of-everything-harrison-novel",
- "score": 31,
- "status": "Peaked / fading",
- "change_percent": 15294,
- "growth_ratio": 154.09,
- "recent_avg": 43412,
- "baseline_avg": 282,
- "explanation": "Attention surged to 154\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Blanche Bruce",
+ "slug": "blanche-bruce",
+ "score": 54,
+ "status": "Breaking out",
+ "change_percent": 2032,
+ "growth_ratio": 21.32,
+ "recent_avg": 27274,
+ "baseline_avg": 1279,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 43130,
- "latest": 29732,
+ "abs_change": 25995,
+ "latest": 60237,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.782,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.421,
-  "volume": 0.819,
-  "spike_quality": 0.412
+  "persistence": 0.76,
+  "momentum": 0.933,
+  "volume": 0.718,
+  "spike_quality": 0.744
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 43,412 views/day over the last 3 days (30-day baseline: 282)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 27,274 views/day over the last 3 days (30-day baseline: 1,279)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 173
-  },
-  {
    "date": "2026-10-04",
-   "views": 232
+   "views": 88
   },
   {
    "date": "2026-10-05",
-   "views": 193
+   "views": 114
   },
   {
    "date": "2026-10-06",
-   "views": 167
+   "views": 102
   },
   {
    "date": "2026-10-07",
-   "views": 191
+   "views": 99
   },
   {
    "date": "2026-10-08",
-   "views": 181
+   "views": 89
   },
   {
    "date": "2026-10-09",
-   "views": 172
+   "views": 106
   },
   {
    "date": "2026-10-10",
-   "views": 195
+   "views": 73
   },
   {
    "date": "2026-10-11",
-   "views": 498
+   "views": 88
   },
   {
    "date": "2026-10-12",
-   "views": 296
+   "views": 101
   },
   {
    "date": "2026-10-13",
-   "views": 377
+   "views": 115
   },
   {
    "date": "2026-10-14",
-   "views": 390
+   "views": 102
   },
   {
    "date": "2026-10-15",
-   "views": 252
+   "views": 125
   },
   {
    "date": "2026-10-16",
-   "views": 248
+   "views": 81
   },
   {
    "date": "2026-10-17",
-   "views": 162
+   "views": 100
   },
   {
    "date": "2026-10-18",
-   "views": 242
+   "views": 90
   },
   {
    "date": "2026-10-19",
-   "views": 243
+   "views": 91
   },
   {
    "date": "2026-10-20",
-   "views": 185
+   "views": 116
   },
   {
    "date": "2026-10-21",
-   "views": 159
+   "views": 112
   },
   {
    "date": "2026-10-22",
-   "views": 183
+   "views": 142
   },
   {
    "date": "2026-10-23",
-   "views": 257
+   "views": 105
   },
   {
    "date": "2026-10-24",
-   "views": 233
+   "views": 107
   },
   {
    "date": "2026-10-25",
-   "views": 253
+   "views": 122
   },
   {
    "date": "2026-10-26",
-   "views": 264
+   "views": 122
   },
   {
    "date": "2026-10-27",
-   "views": 226
+   "views": 139
   },
   {
    "date": "2026-10-28",
-   "views": 229
+   "views": 137
   },
   {
    "date": "2026-10-29",
-   "views": 217
+   "views": 109
   },
   {
    "date": "2026-10-30",
-   "views": 187
+   "views": 113
   },
   {
    "date": "2026-10-31",
-   "views": 189
+   "views": 116
   },
   {
    "date": "2026-11-01",
-   "views": 252
+   "views": 138
   },
   {
    "date": "2026-11-02",
-   "views": 262
+   "views": 143
   },
   {
    "date": "2026-11-03",
-   "views": 216
+   "views": 167
   },
   {
    "date": "2026-11-04",
-   "views": 190
+   "views": 5776
   },
   {
    "date": "2026-11-05",
-   "views": 261
+   "views": 7993
   },
   {
    "date": "2026-11-06",
-   "views": 631
+   "views": 5481
   },
   {
    "date": "2026-11-07",
-   "views": 546
+   "views": 6872
   },
   {
    "date": "2026-11-08",
-   "views": 609
+   "views": 5124
   },
   {
    "date": "2026-11-09",
-   "views": 19813
+   "views": 4343
   },
   {
    "date": "2026-11-10",
-   "views": 80691
+   "views": 3479
   },
   {
    "date": "2026-11-11",
-   "views": 29732
+   "views": 18106
+  },
+  {
+   "date": "2026-11-12",
+   "views": 60237
   }
  ],
- "wikipedia_title": "The_End_of_Everything_(Harrison_novel)",
+ "wikipedia_title": "Blanche_Bruce",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

@@ -1,196 +1,198 @@
 {
- "title": "Lara Stone",
- "slug": "lara-stone",
- "score": 38,
- "status": "Elevated",
- "change_percent": 2261,
- "growth_ratio": 23.61,
- "recent_avg": 78602,
- "baseline_avg": 3329,
- "explanation": "Attention is 24\u00d7 its 30-day baseline.",
+ "title": "The Body (TV series)",
+ "slug": "the-body-tv-series",
+ "score": 67,
+ "status": "Breaking out",
+ "change_percent": 2430,
+ "growth_ratio": 25.3,
+ "recent_avg": 44323,
+ "baseline_avg": 1752,
+ "explanation": "Attention is 25\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 75273,
- "latest": 91545,
+ "abs_change": 42571,
+ "latest": 82122,
  "components": {
-  "acceleration": 0.808,
+  "acceleration": 0.826,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.595,
-  "volume": 0.948,
-  "spike_quality": 0.6
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.823,
+  "spike_quality": 0.757
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 78,602 views/day over the last 3 days (30-day baseline: 3,329)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 44,323 views/day over the last 3 days (30-day baseline: 1,752)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 325
-  },
-  {
    "date": "2026-10-04",
-   "views": 315
+   "views": 171
   },
   {
    "date": "2026-10-05",
-   "views": 282
+   "views": 193
   },
   {
    "date": "2026-10-06",
-   "views": 248
+   "views": 203
   },
   {
    "date": "2026-10-07",
-   "views": 247
+   "views": 193
   },
   {
    "date": "2026-10-08",
-   "views": 270
+   "views": 274
   },
   {
    "date": "2026-10-09",
-   "views": 268
+   "views": 229
   },
   {
    "date": "2026-10-10",
-   "views": 269
+   "views": 246
   },
   {
    "date": "2026-10-11",
-   "views": 308
+   "views": 269
   },
   {
    "date": "2026-10-12",
-   "views": 282
+   "views": 2622
   },
   {
    "date": "2026-10-13",
-   "views": 207
+   "views": 2589
   },
   {
    "date": "2026-10-14",
-   "views": 606
+   "views": 1506
   },
   {
    "date": "2026-10-15",
-   "views": 373
+   "views": 1394
   },
   {
    "date": "2026-10-16",
-   "views": 542
+   "views": 1436
   },
   {
    "date": "2026-10-17",
-   "views": 1609
+   "views": 987
   },
   {
    "date": "2026-10-18",
-   "views": 1019
+   "views": 1151
   },
   {
    "date": "2026-10-19",
-   "views": 642
+   "views": 1045
   },
   {
    "date": "2026-10-20",
-   "views": 986
+   "views": 706
   },
   {
    "date": "2026-10-21",
-   "views": 678
+   "views": 641
   },
   {
    "date": "2026-10-22",
-   "views": 649
+   "views": 1959
   },
   {
    "date": "2026-10-23",
-   "views": 405
+   "views": 3553
   },
   {
    "date": "2026-10-24",
-   "views": 519
+   "views": 1503
   },
   {
    "date": "2026-10-25",
-   "views": 453
+   "views": 1464
   },
   {
    "date": "2026-10-26",
-   "views": 475
+   "views": 1049
   },
   {
    "date": "2026-10-27",
-   "views": 3608
+   "views": 831
   },
   {
    "date": "2026-10-28",
-   "views": 9556
+   "views": 1186
   },
   {
    "date": "2026-10-29",
-   "views": 6068
+   "views": 1187
   },
   {
    "date": "2026-10-30",
-   "views": 4037
+   "views": 1134
   },
   {
    "date": "2026-10-31",
-   "views": 3344
+   "views": 1303
   },
   {
    "date": "2026-11-01",
-   "views": 3005
+   "views": 1356
   },
   {
    "date": "2026-11-02",
-   "views": 2037
+   "views": 1730
   },
   {
    "date": "2026-11-03",
-   "views": 20578
+   "views": 2408
   },
   {
    "date": "2026-11-04",
-   "views": 13868
+   "views": 1414
   },
   {
    "date": "2026-11-05",
-   "views": 9973
+   "views": 2331
   },
   {
    "date": "2026-11-06",
-   "views": 6819
+   "views": 3172
   },
   {
    "date": "2026-11-07",
-   "views": 4084
+   "views": 3623
   },
   {
    "date": "2026-11-08",
-   "views": 2883
+   "views": 3453
   },
   {
    "date": "2026-11-09",
-   "views": 5144
+   "views": 3563
   },
   {
    "date": "2026-11-10",
-   "views": 139117
+   "views": 4697
   },
   {
    "date": "2026-11-11",
-   "views": 91545
+   "views": 46149
+  },
+  {
+   "date": "2026-11-12",
+   "views": 82122
   }
  ],
- "wikipedia_title": "Lara_Stone",
+ "wikipedia_title": "The_Body_(TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

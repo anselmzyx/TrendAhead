@@ -1,196 +1,197 @@
 {
- "title": "Stacy Keach",
- "slug": "stacy-keach",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 9416,
- "growth_ratio": 95.16,
- "recent_avg": 188706,
- "baseline_avg": 1983,
- "explanation": "Attention is 95\u00d7 its 30-day baseline.",
+ "title": "Lisa Su",
+ "slug": "lisa-su",
+ "score": 53,
+ "status": "Elevated",
+ "change_percent": 1397,
+ "growth_ratio": 14.97,
+ "recent_avg": 79646,
+ "baseline_avg": 5320,
+ "explanation": "Attention is 15\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 186723,
- "latest": 562990,
+ "abs_change": 74326,
+ "latest": 136248,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 0.2,
+  "acceleration": 0.692,
+  "anomaly": 0.471,
+  "persistence": 0.84,
   "momentum": 0.8,
-  "volume": 1.0,
-  "spike_quality": 0.511
+  "volume": 0.951,
+  "spike_quality": 0.856
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 188,706 views/day over the last 3 days (30-day baseline: 1,983)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 79,646 views/day over the last 3 days (30-day baseline: 5,320)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 1765
-  },
-  {
    "date": "2026-10-04",
-   "views": 1912
+   "views": 2140
   },
   {
    "date": "2026-10-05",
-   "views": 1691
+   "views": 2150
   },
   {
    "date": "2026-10-06",
-   "views": 1442
+   "views": 2363
   },
   {
    "date": "2026-10-07",
-   "views": 1663
+   "views": 2576
   },
   {
    "date": "2026-10-08",
-   "views": 1446
+   "views": 4135
   },
   {
    "date": "2026-10-09",
-   "views": 1469
+   "views": 4774
   },
   {
    "date": "2026-10-10",
-   "views": 1848
+   "views": 2868
   },
   {
    "date": "2026-10-11",
-   "views": 1981
+   "views": 2156
   },
   {
    "date": "2026-10-12",
-   "views": 1930
+   "views": 1920
   },
   {
    "date": "2026-10-13",
-   "views": 1679
+   "views": 1700
   },
   {
    "date": "2026-10-14",
-   "views": 1510
+   "views": 1682
   },
   {
    "date": "2026-10-15",
-   "views": 1799
+   "views": 1795
   },
   {
    "date": "2026-10-16",
-   "views": 1610
+   "views": 3539
   },
   {
    "date": "2026-10-17",
-   "views": 1988
+   "views": 2015
   },
   {
    "date": "2026-10-18",
-   "views": 3305
+   "views": 1881
   },
   {
    "date": "2026-10-19",
-   "views": 2108
+   "views": 1752
   },
   {
    "date": "2026-10-20",
-   "views": 1624
+   "views": 2190
   },
   {
    "date": "2026-10-21",
-   "views": 1552
+   "views": 1681
   },
   {
    "date": "2026-10-22",
-   "views": 1674
+   "views": 1822
   },
   {
    "date": "2026-10-23",
-   "views": 1800
-  },
-  {
-   "date": "2026-10-24",
-   "views": 2636
-  },
-  {
-   "date": "2026-10-25",
-   "views": 1946
-  },
-  {
-   "date": "2026-10-26",
    "views": 1914
   },
   {
+   "date": "2026-10-24",
+   "views": 1811
+  },
+  {
+   "date": "2026-10-25",
+   "views": 1498
+  },
+  {
+   "date": "2026-10-26",
+   "views": 1440
+  },
+  {
    "date": "2026-10-27",
-   "views": 1537
+   "views": 1397
   },
   {
    "date": "2026-10-28",
-   "views": 1803
+   "views": 1339
   },
   {
    "date": "2026-10-29",
-   "views": 2673
+   "views": 2206
   },
   {
    "date": "2026-10-30",
-   "views": 2455
+   "views": 2240
   },
   {
    "date": "2026-10-31",
-   "views": 2456
+   "views": 1568
   },
   {
    "date": "2026-11-01",
-   "views": 2310
+   "views": 1168
   },
   {
    "date": "2026-11-02",
-   "views": 1864
+   "views": 1377
   },
   {
    "date": "2026-11-03",
-   "views": 1703
+   "views": 2265
   },
   {
    "date": "2026-11-04",
-   "views": 1627
+   "views": 2652
   },
   {
    "date": "2026-11-05",
-   "views": 1856
+   "views": 2007
   },
   {
    "date": "2026-11-06",
-   "views": 1655
+   "views": 2035
   },
   {
    "date": "2026-11-07",
-   "views": 2360
+   "views": 5179
   },
   {
    "date": "2026-11-08",
-   "views": 2290
+   "views": 13941
   },
   {
    "date": "2026-11-09",
-   "views": 1699
+   "views": 89426
   },
   {
    "date": "2026-11-10",
-   "views": 1430
+   "views": 62648
   },
   {
    "date": "2026-11-11",
-   "views": 562990
+   "views": 40043
+  },
+  {
+   "date": "2026-11-12",
+   "views": 136248
   }
  ],
- "wikipedia_title": "Stacy_Keach",
+ "wikipedia_title": "Lisa_Su",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "XNXX",
- "slug": "xnxx",
- "score": 33,
- "status": "Building",
- "change_percent": 76,
- "growth_ratio": 1.76,
- "recent_avg": 76427,
- "baseline_avg": 43533,
- "explanation": "Recent attention is +76% vs its 30-day baseline.",
+ "title": "Anthony Clark (actor)",
+ "slug": "anthony-clark-actor",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 64351,
+ "growth_ratio": 643.63,
+ "recent_avg": 125680,
+ "baseline_avg": 195,
+ "explanation": "Attention is 644\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 32894,
- "latest": 84434,
+ "abs_change": 125485,
+ "latest": 374893,
  "components": {
-  "acceleration": 0.144,
-  "anomaly": 0.142,
-  "persistence": 0.72,
-  "momentum": 0.867,
-  "volume": 0.942,
-  "spike_quality": 0.977
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.504
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 76,427 views/day over the last 3 days (30-day baseline: 43,533)."
+  "Averaging 125,680 views/day over the last 3 days (30-day baseline: 195)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 20245
-  },
-  {
    "date": "2026-10-04",
-   "views": 22393
+   "views": 190
   },
   {
    "date": "2026-10-05",
-   "views": 17227
+   "views": 173
   },
   {
    "date": "2026-10-06",
-   "views": 18122
+   "views": 137
   },
   {
    "date": "2026-10-07",
-   "views": 19040
+   "views": 134
   },
   {
    "date": "2026-10-08",
-   "views": 21057
+   "views": 157
   },
   {
    "date": "2026-10-09",
-   "views": 23581
+   "views": 131
   },
   {
    "date": "2026-10-10",
-   "views": 24209
+   "views": 115
   },
   {
    "date": "2026-10-11",
-   "views": 18538
+   "views": 142
   },
   {
    "date": "2026-10-12",
-   "views": 20402
+   "views": 133
   },
   {
    "date": "2026-10-13",
-   "views": 20283
+   "views": 144
   },
   {
    "date": "2026-10-14",
-   "views": 20993
+   "views": 154
   },
   {
    "date": "2026-10-15",
-   "views": 21905
+   "views": 132
   },
   {
    "date": "2026-10-16",
-   "views": 28642
+   "views": 133
   },
   {
    "date": "2026-10-17",
-   "views": 31766
+   "views": 194
   },
   {
    "date": "2026-10-18",
-   "views": 40766
+   "views": 190
   },
   {
    "date": "2026-10-19",
-   "views": 29283
+   "views": 171
   },
   {
    "date": "2026-10-20",
-   "views": 17720
+   "views": 153
   },
   {
    "date": "2026-10-21",
-   "views": 34431
+   "views": 812
   },
   {
    "date": "2026-10-22",
-   "views": 37061
+   "views": 311
   },
   {
    "date": "2026-10-23",
-   "views": 33298
+   "views": 234
   },
   {
    "date": "2026-10-24",
-   "views": 30302
+   "views": 188
   },
   {
    "date": "2026-10-25",
-   "views": 26037
+   "views": 224
   },
   {
    "date": "2026-10-26",
-   "views": 36184
+   "views": 187
   },
   {
    "date": "2026-10-27",
-   "views": 36771
+   "views": 210
   },
   {
    "date": "2026-10-28",
-   "views": 43205
+   "views": 194
   },
   {
    "date": "2026-10-29",
-   "views": 48215
+   "views": 195
   },
   {
    "date": "2026-10-30",
-   "views": 62792
+   "views": 155
   },
   {
    "date": "2026-10-31",
-   "views": 55581
+   "views": 188
   },
   {
    "date": "2026-11-01",
-   "views": 69132
+   "views": 148
   },
   {
    "date": "2026-11-02",
-   "views": 97222
+   "views": 204
   },
   {
    "date": "2026-11-03",
-   "views": 92646
+   "views": 133
   },
   {
    "date": "2026-11-04",
-   "views": 94621
+   "views": 119
   },
   {
    "date": "2026-11-05",
-   "views": 78587
+   "views": 153
   },
   {
    "date": "2026-11-06",
-   "views": 44469
+   "views": 131
   },
   {
    "date": "2026-11-07",
-   "views": 39700
+   "views": 165
   },
   {
    "date": "2026-11-08",
-   "views": 71216
+   "views": 218
   },
   {
    "date": "2026-11-09",
-   "views": 77454
+   "views": 143
   },
   {
    "date": "2026-11-10",
-   "views": 67393
+   "views": 157
   },
   {
    "date": "2026-11-11",
-   "views": 84434
+   "views": 1991
+  },
+  {
+   "date": "2026-11-12",
+   "views": 374893
   }
  ],
- "wikipedia_title": "XNXX",
+ "wikipedia_title": "Anthony_Clark_(actor)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "Chris Van Hollen",
- "slug": "chris-van-hollen",
- "score": 54,
- "status": "Building",
- "change_percent": 746,
- "growth_ratio": 8.46,
- "recent_avg": 47713,
- "baseline_avg": 5639,
- "explanation": "Attention is 8.5\u00d7 its 30-day baseline.",
+ "title": "Dan Hicks (sportscaster)",
+ "slug": "dan-hicks-sportscaster",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 62280,
+ "growth_ratio": 523.99,
+ "recent_avg": 52399,
+ "baseline_avg": 84,
+ "explanation": "Attention is 524\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 42074,
- "latest": 59326,
+ "abs_change": 52315,
+ "latest": 157094,
  "components": {
-  "acceleration": 0.546,
-  "anomaly": 0.338,
-  "persistence": 0.84,
-  "momentum": 1.0,
-  "volume": 0.839,
-  "spike_quality": 0.962
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.86,
+  "spike_quality": 0.502
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,713 views/day over the last 3 days (30-day baseline: 5,639)."
+  "Averaging 52,399 views/day over the last 3 days (30-day baseline: 84)."
  ],
  "history": [
   {
-   "date": "2026-10-03",
-   "views": 1593
-  },
-  {
    "date": "2026-10-04",
-   "views": 943
+   "views": 165
   },
   {
    "date": "2026-10-05",
-   "views": 853
+   "views": 38
   },
   {
    "date": "2026-10-06",
-   "views": 934
+   "views": 67
   },
   {
    "date": "2026-10-07",
-   "views": 695
+   "views": 52
   },
   {
    "date": "2026-10-08",
-   "views": 787
+   "views": 44
   },
   {
    "date": "2026-10-09",
-   "views": 740
+   "views": 136
   },
   {
    "date": "2026-10-10",
-   "views": 622
+   "views": 306
   },
   {
    "date": "2026-10-11",
-   "views": 698
+   "views": 306
   },
   {
    "date": "2026-10-12",
-   "views": 774
+   "views": 176
   },
   {
    "date": "2026-10-13",
-   "views": 755
+   "views": 84
   },
   {
    "date": "2026-10-14",
-   "views": 671
+   "views": 71
   },
   {
    "date": "2026-10-15",
-   "views": 748
+   "views": 53
   },
   {
    "date": "2026-10-16",
-   "views": 582
+   "views": 48
   },
   {
    "date": "2026-10-17",
-   "views": 576
+   "views": 71
   },
   {
    "date": "2026-10-18",
-   "views": 591
+   "views": 160
   },
   {
    "date": "2026-10-19",
-   "views": 617
+   "views": 48
   },
   {
    "date": "2026-10-20",
-   "views": 725
+   "views": 52
   },
   {
    "date": "2026-10-21",
-   "views": 703
+   "views": 54
   },
   {
    "date": "2026-10-22",
-   "views": 700
+   "views": 39
   },
   {
    "date": "2026-10-23",
-   "views": 628
+   "views": 48
   },
   {
    "date": "2026-10-24",
-   "views": 560
+   "views": 24
   },
   {
    "date": "2026-10-25",
-   "views": 1173
+   "views": 28
   },
   {
    "date": "2026-10-26",
-   "views": 1013
+   "views": 33
   },
   {
    "date": "2026-10-27",
-   "views": 794
+   "views": 38
   },
   {
    "date": "2026-10-28",
-   "views": 742
+   "views": 92
   },
   {
    "date": "2026-10-29",
-   "views": 699
+   "views": 297
   },
   {
    "date": "2026-10-30",
-   "views": 709
+   "views": 85
   },
   {
    "date": "2026-10-31",
-   "views": 674
+   "views": 72
   },
   {
    "date": "2026-11-01",
-   "views": 1127
+   "views": 84
   },
   {
    "date": "2026-11-02",
-   "views": 1624
+   "views": 97
   },
   {
    "date": "2026-11-03",
-   "views": 1741
+   "views": 52
   },
   {
    "date": "2026-11-04",
-   "views": 7557
+   "views": 44
   },
   {
    "date": "2026-11-05",
-   "views": 40433
+   "views": 31
   },
   {
    "date": "2026-11-06",
-   "views": 50005
+   "views": 29
   },
   {
    "date": "2026-11-07",
-   "views": 32483
+   "views": 43
   },
   {
    "date": "2026-11-08",
-   "views": 18448
+   "views": 134
   },
   {
    "date": "2026-11-09",
-   "views": 33681
+   "views": 115
   },
   {
    "date": "2026-11-10",
-   "views": 50131
+   "views": 44
   },
   {
    "date": "2026-11-11",
-   "views": 59326
+   "views": 58
+  },
+  {
+   "date": "2026-11-12",
+   "views": 157094
   }
  ],
- "wikipedia_title": "Chris_Van_Hollen",
+ "wikipedia_title": "Dan_Hicks_(sportscaster)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-11",
- "generated_at_utc": "2026-11-12T13:57:39+00:00"
+ "data_through": "2026-11-12",
+ "generated_at_utc": "2026-11-13T13:23:43+00:00"
 }
