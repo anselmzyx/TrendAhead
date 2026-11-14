@@ -1,197 +1,196 @@
 {
- "title": "Pete Hegseth",
- "slug": "pete-hegseth",
- "score": 44,
- "status": "Elevated",
- "change_percent": 458,
- "growth_ratio": 5.58,
- "recent_avg": 105244,
- "baseline_avg": 18851,
- "explanation": "Attention is 5.6\u00d7 its 30-day baseline.",
+ "title": "Avril Lavigne",
+ "slug": "avril-lavigne",
+ "score": 30,
+ "status": "Breaking out",
+ "change_percent": 796,
+ "growth_ratio": 8.96,
+ "recent_avg": 44005,
+ "baseline_avg": 4909,
+ "explanation": "Attention is 9.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 86393,
- "latest": 107688,
+ "abs_change": 39096,
+ "latest": 120937,
  "components": {
-  "acceleration": 0.44,
-  "anomaly": 0.497,
-  "persistence": 0.72,
-  "momentum": 0.773,
-  "volume": 1.0,
-  "spike_quality": 0.858
+  "acceleration": 0.561,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.822,
+  "spike_quality": 0.622
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 105,244 views/day over the last 3 days (30-day baseline: 18,851)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 44,005 views/day over the last 3 days (30-day baseline: 4,909)."
  ],
  "history": [
   {
-   "date": "2026-10-04",
-   "views": 20519
-  },
-  {
    "date": "2026-10-05",
-   "views": 14137
+   "views": 4827
   },
   {
    "date": "2026-10-06",
-   "views": 11640
+   "views": 4842
   },
   {
    "date": "2026-10-07",
-   "views": 11414
+   "views": 4954
   },
   {
    "date": "2026-10-08",
-   "views": 16387
+   "views": 4856
   },
   {
    "date": "2026-10-09",
-   "views": 45588
+   "views": 5797
   },
   {
    "date": "2026-10-10",
-   "views": 26029
+   "views": 6436
   },
   {
    "date": "2026-10-11",
-   "views": 19686
+   "views": 5712
   },
   {
    "date": "2026-10-12",
-   "views": 14050
+   "views": 5124
   },
   {
    "date": "2026-10-13",
-   "views": 11303
+   "views": 5067
   },
   {
    "date": "2026-10-14",
-   "views": 11178
+   "views": 6493
   },
   {
    "date": "2026-10-15",
-   "views": 14759
+   "views": 5326
   },
   {
    "date": "2026-10-16",
-   "views": 12231
+   "views": 5227
   },
   {
    "date": "2026-10-17",
-   "views": 12740
+   "views": 5535
   },
   {
    "date": "2026-10-18",
-   "views": 12932
+   "views": 5132
   },
   {
    "date": "2026-10-19",
-   "views": 11423
+   "views": 4416
   },
   {
    "date": "2026-10-20",
-   "views": 10266
+   "views": 4558
   },
   {
    "date": "2026-10-21",
-   "views": 8322
+   "views": 4708
   },
   {
    "date": "2026-10-22",
-   "views": 9689
+   "views": 4744
   },
   {
    "date": "2026-10-23",
-   "views": 9329
+   "views": 4535
   },
   {
    "date": "2026-10-24",
-   "views": 6849
+   "views": 5210
   },
   {
    "date": "2026-10-25",
-   "views": 9271
+   "views": 4768
   },
   {
    "date": "2026-10-26",
-   "views": 11387
+   "views": 4361
   },
   {
    "date": "2026-10-27",
-   "views": 10547
+   "views": 4418
   },
   {
    "date": "2026-10-28",
-   "views": 10356
+   "views": 4624
   },
   {
    "date": "2026-10-29",
-   "views": 14621
+   "views": 4638
   },
   {
    "date": "2026-10-30",
-   "views": 12684
+   "views": 4955
   },
   {
    "date": "2026-10-31",
-   "views": 10281
+   "views": 5042
   },
   {
    "date": "2026-11-01",
-   "views": 9248
+   "views": 5007
   },
   {
    "date": "2026-11-02",
-   "views": 9957
+   "views": 4280
   },
   {
    "date": "2026-11-03",
-   "views": 9324
+   "views": 4373
   },
   {
    "date": "2026-11-04",
-   "views": 33839
+   "views": 4286
   },
   {
    "date": "2026-11-05",
-   "views": 69597
+   "views": 4556
   },
   {
    "date": "2026-11-06",
-   "views": 63696
+   "views": 5027
   },
   {
    "date": "2026-11-07",
-   "views": 30445
+   "views": 5340
   },
   {
    "date": "2026-11-08",
-   "views": 25957
+   "views": 4617
   },
   {
    "date": "2026-11-09",
-   "views": 69574
+   "views": 4394
   },
   {
    "date": "2026-11-10",
-   "views": 127687
+   "views": 6519
   },
   {
    "date": "2026-11-11",
-   "views": 80358
+   "views": 6021
   },
   {
    "date": "2026-11-12",
-   "views": 107688
+   "views": 5057
+  },
+  {
+   "date": "2026-11-13",
+   "views": 120937
   }
  ],
- "wikipedia_title": "Pete_Hegseth",
+ "wikipedia_title": "Avril_Lavigne",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

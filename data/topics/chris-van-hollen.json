@@ -1,197 +1,198 @@
 {
- "title": "Yes, Dear",
- "slug": "yes-dear",
- "score": 33,
- "status": "Breaking out",
- "change_percent": 4424,
- "growth_ratio": 45.22,
- "recent_avg": 20676,
- "baseline_avg": 457,
- "explanation": "Attention is 45\u00d7 its 30-day baseline.",
+ "title": "Chris Van Hollen",
+ "slug": "chris-van-hollen",
+ "score": 57,
+ "status": "Building",
+ "change_percent": 1038,
+ "growth_ratio": 11.38,
+ "recent_avg": 95503,
+ "baseline_avg": 8389,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 20219,
- "latest": 61246,
+ "abs_change": 87114,
+ "latest": 204913,
  "components": {
-  "acceleration": 0.974,
-  "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.658,
-  "spike_quality": 0.519
+  "acceleration": 0.622,
+  "anomaly": 0.565,
+  "persistence": 0.92,
+  "momentum": 0.867,
+  "volume": 0.99,
+  "spike_quality": 0.8
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 20,676 views/day over the last 3 days (30-day baseline: 457)."
+  "Averaging 95,503 views/day over the last 3 days (30-day baseline: 8,389)."
  ],
  "history": [
   {
-   "date": "2026-10-04",
-   "views": 405
-  },
-  {
    "date": "2026-10-05",
-   "views": 301
+   "views": 853
   },
   {
    "date": "2026-10-06",
-   "views": 250
+   "views": 934
   },
   {
    "date": "2026-10-07",
-   "views": 244
+   "views": 695
   },
   {
    "date": "2026-10-08",
-   "views": 295
+   "views": 787
   },
   {
    "date": "2026-10-09",
-   "views": 241
+   "views": 740
   },
   {
    "date": "2026-10-10",
-   "views": 296
+   "views": 622
   },
   {
    "date": "2026-10-11",
-   "views": 289
+   "views": 698
   },
   {
    "date": "2026-10-12",
-   "views": 257
+   "views": 774
   },
   {
    "date": "2026-10-13",
-   "views": 277
+   "views": 755
   },
   {
    "date": "2026-10-14",
-   "views": 277
+   "views": 671
   },
   {
    "date": "2026-10-15",
-   "views": 273
+   "views": 748
   },
   {
    "date": "2026-10-16",
-   "views": 258
+   "views": 582
   },
   {
    "date": "2026-10-17",
-   "views": 371
+   "views": 576
   },
   {
    "date": "2026-10-18",
-   "views": 347
+   "views": 591
   },
   {
    "date": "2026-10-19",
-   "views": 336
+   "views": 617
   },
   {
    "date": "2026-10-20",
-   "views": 283
+   "views": 725
   },
   {
    "date": "2026-10-21",
-   "views": 2951
+   "views": 703
   },
   {
    "date": "2026-10-22",
-   "views": 1025
+   "views": 700
   },
   {
    "date": "2026-10-23",
-   "views": 586
+   "views": 628
   },
   {
    "date": "2026-10-24",
-   "views": 479
+   "views": 560
   },
   {
    "date": "2026-10-25",
-   "views": 578
+   "views": 1173
   },
   {
    "date": "2026-10-26",
-   "views": 427
+   "views": 1013
   },
   {
    "date": "2026-10-27",
-   "views": 416
+   "views": 794
   },
   {
    "date": "2026-10-28",
-   "views": 336
+   "views": 742
   },
   {
    "date": "2026-10-29",
-   "views": 453
+   "views": 699
   },
   {
    "date": "2026-10-30",
-   "views": 378
+   "views": 709
   },
   {
    "date": "2026-10-31",
-   "views": 377
+   "views": 674
   },
   {
    "date": "2026-11-01",
-   "views": 349
+   "views": 1127
   },
   {
    "date": "2026-11-02",
-   "views": 319
+   "views": 1624
   },
   {
    "date": "2026-11-03",
-   "views": 270
+   "views": 1741
   },
   {
    "date": "2026-11-04",
-   "views": 254
+   "views": 7557
   },
   {
    "date": "2026-11-05",
-   "views": 283
+   "views": 40433
   },
   {
    "date": "2026-11-06",
-   "views": 252
+   "views": 50005
   },
   {
    "date": "2026-11-07",
-   "views": 346
+   "views": 32483
   },
   {
    "date": "2026-11-08",
-   "views": 348
+   "views": 18448
   },
   {
    "date": "2026-11-09",
-   "views": 322
+   "views": 33681
   },
   {
    "date": "2026-11-10",
-   "views": 291
+   "views": 50131
   },
   {
    "date": "2026-11-11",
-   "views": 492
+   "views": 59326
   },
   {
    "date": "2026-11-12",
-   "views": 61246
+   "views": 22271
+  },
+  {
+   "date": "2026-11-13",
+   "views": 204913
   }
  ],
- "wikipedia_title": "Yes,_Dear",
+ "wikipedia_title": "Chris_Van_Hollen",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

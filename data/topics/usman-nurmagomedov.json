@@ -1,38 +1,33 @@
 {
  "title": "Usman Nurmagomedov",
  "slug": "usman-nurmagomedov",
- "score": 63,
- "status": "Breaking out",
- "change_percent": 8050,
- "growth_ratio": 81.5,
- "recent_avg": 49226,
- "baseline_avg": 604,
- "explanation": "Attention is 82\u00d7 its 30-day baseline.",
+ "score": 42,
+ "status": "Peaked / fading",
+ "change_percent": 9834,
+ "growth_ratio": 99.36,
+ "recent_avg": 63680,
+ "baseline_avg": 641,
+ "explanation": "Attention surged to 99\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 48622,
- "latest": 83175,
+ "abs_change": 63039,
+ "latest": 45017,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.846,
-  "spike_quality": 0.759
+  "persistence": 0.72,
+  "momentum": 0.525,
+  "volume": 0.902,
+  "spike_quality": 0.604
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 49,226 views/day over the last 3 days (30-day baseline: 604)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 63,680 views/day over the last 3 days (30-day baseline: 641)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 933
-  },
   {
    "date": "2026-10-05",
    "views": 826
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-12",
    "views": 83175
+  },
+  {
+   "date": "2026-11-13",
+   "views": 45017
   }
  ],
  "wikipedia_title": "Usman_Nurmagomedov",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

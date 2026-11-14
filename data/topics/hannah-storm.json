@@ -1,37 +1,32 @@
 {
  "title": "Hannah Storm",
  "slug": "hannah-storm",
- "score": 35,
- "status": "Breaking out",
- "change_percent": 15425,
- "growth_ratio": 155.03,
- "recent_avg": 42694,
- "baseline_avg": 275,
- "explanation": "Attention is 155\u00d7 its 30-day baseline.",
+ "score": 38,
+ "status": "Elevated",
+ "change_percent": 30545,
+ "growth_ratio": 306.49,
+ "recent_avg": 74774,
+ "baseline_avg": 244,
+ "explanation": "Attention is 306\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 42419,
- "latest": 127755,
+ "abs_change": 74530,
+ "latest": 96412,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.867,
-  "volume": 0.815,
-  "spike_quality": 0.505
+  "persistence": 0.32,
+  "momentum": 0.586,
+  "volume": 0.937,
+  "spike_quality": 0.63
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 42,694 views/day over the last 3 days (30-day baseline: 275)."
+  "Averaging 74,774 views/day over the last 3 days (30-day baseline: 244)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 539
-  },
   {
    "date": "2026-10-05",
    "views": 140
@@ -187,11 +182,15 @@
   {
    "date": "2026-11-12",
    "views": 127755
+  },
+  {
+   "date": "2026-11-13",
+   "views": 96412
   }
  ],
  "wikipedia_title": "Hannah_Storm",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

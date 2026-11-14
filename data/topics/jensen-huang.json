@@ -1,37 +1,33 @@
 {
  "title": "Jensen Huang",
  "slug": "jensen-huang",
- "score": 56,
+ "score": 37,
  "status": "Elevated",
- "change_percent": 1708,
- "growth_ratio": 18.08,
- "recent_avg": 652115,
- "baseline_avg": 36061,
- "explanation": "Attention is 18\u00d7 its 30-day baseline.",
+ "change_percent": 1223,
+ "growth_ratio": 13.23,
+ "recent_avg": 713774,
+ "baseline_avg": 53963,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 616054,
- "latest": 1072168,
+ "abs_change": 659811,
+ "latest": 727529,
  "components": {
-  "acceleration": 0.74,
-  "anomaly": 0.47,
-  "persistence": 0.84,
-  "momentum": 0.8,
+  "acceleration": 0.66,
+  "anomaly": 0.414,
+  "persistence": 0.76,
+  "momentum": 0.54,
   "volume": 1.0,
-  "spike_quality": 0.864
+  "spike_quality": 0.748
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 652,115 views/day over the last 3 days (30-day baseline: 36,061)."
+  "Averaging 713,774 views/day over the last 3 days (30-day baseline: 53,963)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 5251
-  },
   {
    "date": "2026-10-05",
    "views": 6210
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-12",
    "views": 1072168
+  },
+  {
+   "date": "2026-11-13",
+   "views": 727529
   }
  ],
  "wikipedia_title": "Jensen_Huang",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

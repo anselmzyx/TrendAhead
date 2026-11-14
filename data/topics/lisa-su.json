@@ -1,37 +1,33 @@
 {
  "title": "Lisa Su",
  "slug": "lisa-su",
- "score": 53,
+ "score": 38,
  "status": "Elevated",
- "change_percent": 1397,
- "growth_ratio": 14.97,
- "recent_avg": 79646,
- "baseline_avg": 5320,
- "explanation": "Attention is 15\u00d7 its 30-day baseline.",
+ "change_percent": 1143,
+ "growth_ratio": 12.43,
+ "recent_avg": 91182,
+ "baseline_avg": 7336,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 74326,
- "latest": 136248,
+ "abs_change": 83846,
+ "latest": 97254,
  "components": {
-  "acceleration": 0.692,
-  "anomaly": 0.471,
-  "persistence": 0.84,
-  "momentum": 0.8,
-  "volume": 0.951,
-  "spike_quality": 0.856
+  "acceleration": 0.644,
+  "anomaly": 0.446,
+  "persistence": 0.76,
+  "momentum": 0.562,
+  "volume": 0.98,
+  "spike_quality": 0.762
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 79,646 views/day over the last 3 days (30-day baseline: 5,320)."
+  "Averaging 91,182 views/day over the last 3 days (30-day baseline: 7,336)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 2140
-  },
   {
    "date": "2026-10-05",
    "views": 2150
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-12",
    "views": 136248
+  },
+  {
+   "date": "2026-11-13",
+   "views": 97254
   }
  ],
  "wikipedia_title": "Lisa_Su",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

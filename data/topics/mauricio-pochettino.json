@@ -1,198 +1,197 @@
 {
- "title": "Jensen Huang spying scandal",
- "slug": "jensen-huang-spying-scandal",
- "score": 61,
- "status": "Breaking out",
- "change_percent": null,
- "growth_ratio": 514.78,
- "recent_avg": 51478,
- "baseline_avg": 0,
- "explanation": "Attention is 515\u00d7 its 30-day baseline.",
+ "title": "Mauricio Pochettino",
+ "slug": "mauricio-pochettino",
+ "score": 77,
+ "status": "Building",
+ "change_percent": 4339,
+ "growth_ratio": 44.39,
+ "recent_avg": 175707,
+ "baseline_avg": 3958,
+ "explanation": "Attention is 44\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 51478,
- "latest": 97209,
+ "abs_change": 171749,
+ "latest": 172224,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.97,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.856,
-  "spike_quality": 0.716
+  "persistence": 0.92,
+  "momentum": 0.82,
+  "volume": 1.0,
+  "spike_quality": 0.87
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 51,478 views/day over the last 3 days (30-day baseline: 0)."
+  "Averaging 175,707 views/day over the last 3 days (30-day baseline: 3,958)."
  ],
  "history": [
   {
-   "date": "2026-10-04",
-   "views": 0
-  },
-  {
    "date": "2026-10-05",
-   "views": 0
+   "views": 1242
   },
   {
    "date": "2026-10-06",
-   "views": 0
+   "views": 1038
   },
   {
    "date": "2026-10-07",
-   "views": 0
+   "views": 3682
   },
   {
    "date": "2026-10-08",
-   "views": 0
+   "views": 840
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 939
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 919
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 894
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 600
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 578
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 577
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 1349
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 924
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 1096
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 651
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 802
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 835
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 907
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 1144
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 732
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 757
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 964
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 1046
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 1692
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 978
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 791
   },
   {
    "date": "2026-10-30",
-   "views": 0
+   "views": 995
   },
   {
    "date": "2026-10-31",
-   "views": 0
+   "views": 1276
   },
   {
    "date": "2026-11-01",
-   "views": 0
+   "views": 802
   },
   {
    "date": "2026-11-02",
-   "views": 0
+   "views": 718
   },
   {
    "date": "2026-11-03",
-   "views": 0
+   "views": 781
   },
   {
    "date": "2026-11-04",
-   "views": 0
+   "views": 662
   },
   {
    "date": "2026-11-05",
-   "views": 0
+   "views": 899
   },
   {
    "date": "2026-11-06",
-   "views": 0
+   "views": 582
   },
   {
    "date": "2026-11-07",
-   "views": 0
+   "views": 694
   },
   {
    "date": "2026-11-08",
-   "views": 0
+   "views": 1384
   },
   {
    "date": "2026-11-09",
-   "views": 0
+   "views": 20220
   },
   {
    "date": "2026-11-10",
-   "views": 28205
+   "views": 73306
   },
   {
    "date": "2026-11-11",
-   "views": 29020
+   "views": 186714
   },
   {
    "date": "2026-11-12",
-   "views": 97209
+   "views": 168183
+  },
+  {
+   "date": "2026-11-13",
+   "views": 172224
   }
  ],
- "wikipedia_title": "Jensen_Huang_spying_scandal",
+ "wikipedia_title": "Mauricio_Pochettino",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

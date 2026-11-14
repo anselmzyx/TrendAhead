@@ -1,37 +1,32 @@
 {
  "title": "Yella Beezy",
  "slug": "yella-beezy",
- "score": 50,
- "status": "Breaking out",
- "change_percent": 6275,
- "growth_ratio": 63.8,
- "recent_avg": 40865,
- "baseline_avg": 641,
- "explanation": "Attention is 64\u00d7 its 30-day baseline.",
+ "score": 41,
+ "status": "Elevated",
+ "change_percent": 9159,
+ "growth_ratio": 92.6,
+ "recent_avg": 61662,
+ "baseline_avg": 666,
+ "explanation": "Attention is 93\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 40224,
- "latest": 96701,
+ "abs_change": 60996,
+ "latest": 63318,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.806,
-  "spike_quality": 0.635
+  "persistence": 0.52,
+  "momentum": 0.593,
+  "volume": 0.895,
+  "spike_quality": 0.61
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 40,865 views/day over the last 3 days (30-day baseline: 641)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 61,662 views/day over the last 3 days (30-day baseline: 666)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 163
-  },
   {
    "date": "2026-10-05",
    "views": 147
@@ -187,11 +182,15 @@
   {
    "date": "2026-11-12",
    "views": 96701
+  },
+  {
+   "date": "2026-11-13",
+   "views": 63318
   }
  ],
  "wikipedia_title": "Yella_Beezy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

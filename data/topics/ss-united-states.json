@@ -1,38 +1,33 @@
 {
  "title": "SS United States",
  "slug": "ss-united-states",
- "score": 78,
- "status": "Breaking out",
- "change_percent": 3059,
- "growth_ratio": 31.59,
- "recent_avg": 126965,
- "baseline_avg": 4019,
- "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "score": 38,
+ "status": "Peaked / fading",
+ "change_percent": 3145,
+ "growth_ratio": 32.45,
+ "recent_avg": 150912,
+ "baseline_avg": 4651,
+ "explanation": "Attention surged to 32\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 122946,
- "latest": 241627,
+ "abs_change": 146261,
+ "latest": 93568,
  "components": {
-  "acceleration": 0.883,
+  "acceleration": 0.889,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "persistence": 0.92,
+  "momentum": 0.432,
   "volume": 1.0,
-  "spike_quality": 0.747
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 126,965 views/day over the last 3 days (30-day baseline: 4,019)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 150,912 views/day over the last 3 days (30-day baseline: 4,651)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 523
-  },
   {
    "date": "2026-10-05",
    "views": 604
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-12",
    "views": 241627
+  },
+  {
+   "date": "2026-11-13",
+   "views": 93568
   }
  ],
  "wikipedia_title": "SS_United_States",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

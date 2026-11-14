@@ -1,38 +1,34 @@
 {
  "title": "Grand Theft Auto VI",
  "slug": "grand-theft-auto-vi",
- "score": 48,
+ "score": 53,
  "status": "Building",
- "change_percent": 217,
- "growth_ratio": 3.17,
- "recent_avg": 67025,
- "baseline_avg": 21145,
- "explanation": "Attention is 3.2\u00d7 its 30-day baseline.",
+ "change_percent": 208,
+ "growth_ratio": 3.08,
+ "recent_avg": 70558,
+ "baseline_avg": 22896,
+ "explanation": "Attention is 3.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 45880,
- "latest": 73739,
+ "abs_change": 47662,
+ "latest": 74974,
  "components": {
-  "acceleration": 0.295,
-  "anomaly": 0.694,
-  "persistence": 0.72,
-  "momentum": 0.867,
-  "volume": 0.913,
-  "spike_quality": 0.954
+  "acceleration": 0.288,
+  "anomaly": 0.476,
+  "persistence": 0.92,
+  "momentum": 0.933,
+  "volume": 0.924,
+  "spike_quality": 0.968
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 67,025 views/day over the last 3 days (30-day baseline: 21,145)."
+  "Averaging 70,558 views/day over the last 3 days (30-day baseline: 22,896)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 11260
-  },
   {
    "date": "2026-10-05",
    "views": 11710
@@ -188,11 +184,15 @@
   {
    "date": "2026-11-12",
    "views": 73739
+  },
+  {
+   "date": "2026-11-13",
+   "views": 74974
   }
  ],
  "wikipedia_title": "Grand_Theft_Auto_VI",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

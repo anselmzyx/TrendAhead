@@ -1,37 +1,34 @@
 {
  "title": "Anthony Clark (actor)",
  "slug": "anthony-clark-actor",
- "score": 48,
- "status": "Breaking out",
- "change_percent": 64351,
- "growth_ratio": 643.63,
- "recent_avg": 125680,
- "baseline_avg": 195,
- "explanation": "Attention is 644\u00d7 its 30-day baseline.",
+ "score": 23,
+ "status": "Peaked / fading",
+ "change_percent": 81986,
+ "growth_ratio": 821.84,
+ "recent_avg": 160889,
+ "baseline_avg": 196,
+ "explanation": "Attention surged to 822\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 125485,
- "latest": 374893,
+ "abs_change": 160693,
+ "latest": 105784,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.369,
   "volume": 1.0,
-  "spike_quality": 0.504
+  "spike_quality": 0.272
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 125,680 views/day over the last 3 days (30-day baseline: 195)."
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 160,889 views/day over the last 3 days (30-day baseline: 196)."
  ],
  "history": [
-  {
-   "date": "2026-10-04",
-   "views": 190
-  },
   {
    "date": "2026-10-05",
    "views": 173
@@ -187,11 +184,15 @@
   {
    "date": "2026-11-12",
    "views": 374893
+  },
+  {
+   "date": "2026-11-13",
+   "views": 105784
   }
  ],
  "wikipedia_title": "Anthony_Clark_(actor)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }

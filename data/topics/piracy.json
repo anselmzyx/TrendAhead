@@ -1,198 +1,197 @@
 {
- "title": "Blanche Bruce",
- "slug": "blanche-bruce",
- "score": 54,
+ "title": "Piracy",
+ "slug": "piracy",
+ "score": 40,
  "status": "Breaking out",
- "change_percent": 2032,
- "growth_ratio": 21.32,
- "recent_avg": 27274,
- "baseline_avg": 1279,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "change_percent": 10470,
+ "growth_ratio": 105.73,
+ "recent_avg": 67751,
+ "baseline_avg": 641,
+ "explanation": "Attention is 106\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25995,
- "latest": 60237,
+ "abs_change": 67110,
+ "latest": 201972,
  "components": {
-  "acceleration": 0.782,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.76,
+  "persistence": 0.2,
   "momentum": 0.933,
-  "volume": 0.718,
-  "spike_quality": 0.744
+  "volume": 0.915,
+  "spike_quality": 0.512
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,274 views/day over the last 3 days (30-day baseline: 1,279)."
+  "Averaging 67,751 views/day over the last 3 days (30-day baseline: 641)."
  ],
  "history": [
   {
-   "date": "2026-10-04",
-   "views": 88
-  },
-  {
    "date": "2026-10-05",
-   "views": 114
+   "views": 707
   },
   {
    "date": "2026-10-06",
-   "views": 102
+   "views": 611
   },
   {
    "date": "2026-10-07",
-   "views": 99
+   "views": 601
   },
   {
    "date": "2026-10-08",
-   "views": 89
+   "views": 599
   },
   {
    "date": "2026-10-09",
-   "views": 106
+   "views": 636
   },
   {
    "date": "2026-10-10",
-   "views": 73
+   "views": 675
   },
   {
    "date": "2026-10-11",
-   "views": 88
+   "views": 607
   },
   {
    "date": "2026-10-12",
-   "views": 101
+   "views": 647
   },
   {
    "date": "2026-10-13",
-   "views": 115
+   "views": 645
   },
   {
    "date": "2026-10-14",
-   "views": 102
+   "views": 645
   },
   {
    "date": "2026-10-15",
-   "views": 125
+   "views": 534
   },
   {
    "date": "2026-10-16",
-   "views": 81
+   "views": 624
   },
   {
    "date": "2026-10-17",
-   "views": 100
+   "views": 579
   },
   {
    "date": "2026-10-18",
-   "views": 90
+   "views": 616
   },
   {
    "date": "2026-10-19",
-   "views": 91
+   "views": 608
   },
   {
    "date": "2026-10-20",
-   "views": 116
+   "views": 675
   },
   {
    "date": "2026-10-21",
-   "views": 112
+   "views": 591
   },
   {
    "date": "2026-10-22",
-   "views": 142
+   "views": 584
   },
   {
    "date": "2026-10-23",
-   "views": 105
+   "views": 746
   },
   {
    "date": "2026-10-24",
-   "views": 107
+   "views": 587
   },
   {
    "date": "2026-10-25",
-   "views": 122
+   "views": 661
   },
   {
    "date": "2026-10-26",
-   "views": 122
+   "views": 632
   },
   {
    "date": "2026-10-27",
-   "views": 139
+   "views": 568
   },
   {
    "date": "2026-10-28",
-   "views": 137
+   "views": 687
   },
   {
    "date": "2026-10-29",
-   "views": 109
+   "views": 663
   },
   {
    "date": "2026-10-30",
-   "views": 113
+   "views": 624
   },
   {
    "date": "2026-10-31",
-   "views": 116
+   "views": 612
   },
   {
    "date": "2026-11-01",
-   "views": 138
+   "views": 653
   },
   {
    "date": "2026-11-02",
-   "views": 143
+   "views": 669
   },
   {
    "date": "2026-11-03",
-   "views": 167
+   "views": 634
   },
   {
    "date": "2026-11-04",
-   "views": 5776
+   "views": 634
   },
   {
    "date": "2026-11-05",
-   "views": 7993
+   "views": 651
   },
   {
    "date": "2026-11-06",
-   "views": 5481
+   "views": 669
   },
   {
    "date": "2026-11-07",
-   "views": 6872
+   "views": 712
   },
   {
    "date": "2026-11-08",
-   "views": 5124
+   "views": 688
   },
   {
    "date": "2026-11-09",
-   "views": 4343
+   "views": 703
   },
   {
    "date": "2026-11-10",
-   "views": 3479
+   "views": 682
   },
   {
    "date": "2026-11-11",
-   "views": 18106
+   "views": 607
   },
   {
    "date": "2026-11-12",
-   "views": 60237
+   "views": 674
+  },
+  {
+   "date": "2026-11-13",
+   "views": 201972
   }
  ],
- "wikipedia_title": "Blanche_Bruce",
+ "wikipedia_title": "Piracy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-12",
- "generated_at_utc": "2026-11-13T13:23:43+00:00"
+ "data_through": "2026-11-13",
+ "generated_at_utc": "2026-11-14T12:27:43+00:00"
 }
