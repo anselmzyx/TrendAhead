@@ -1,0 +1,197 @@
+{
+ "title": "69th Annual Grammy Awards",
+ "slug": "69th-annual-grammy-awards",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 3113,
+ "growth_ratio": 32.12,
+ "recent_avg": 32482,
+ "baseline_avg": 1011,
+ "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 31471,
+ "latest": 92752,
+ "components": {
+  "acceleration": 0.887,
+  "anomaly": 1.0,
+  "persistence": 0.72,
+  "momentum": 0.933,
+  "volume": 0.756,
+  "spike_quality": 0.562
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 32,482 views/day over the last 3 days (30-day baseline: 1,011)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-08",
+   "views": 1414
+  },
+  {
+   "date": "2026-10-09",
+   "views": 1341
+  },
+  {
+   "date": "2026-10-10",
+   "views": 1270
+  },
+  {
+   "date": "2026-10-11",
+   "views": 1372
+  },
+  {
+   "date": "2026-10-12",
+   "views": 2017
+  },
+  {
+   "date": "2026-10-13",
+   "views": 2515
+  },
+  {
+   "date": "2026-10-14",
+   "views": 1904
+  },
+  {
+   "date": "2026-10-15",
+   "views": 1568
+  },
+  {
+   "date": "2026-10-16",
+   "views": 1626
+  },
+  {
+   "date": "2026-10-17",
+   "views": 1205
+  },
+  {
+   "date": "2026-10-18",
+   "views": 1084
+  },
+  {
+   "date": "2026-10-19",
+   "views": 1002
+  },
+  {
+   "date": "2026-10-20",
+   "views": 983
+  },
+  {
+   "date": "2026-10-21",
+   "views": 913
+  },
+  {
+   "date": "2026-10-22",
+   "views": 950
+  },
+  {
+   "date": "2026-10-23",
+   "views": 886
+  },
+  {
+   "date": "2026-10-24",
+   "views": 816
+  },
+  {
+   "date": "2026-10-25",
+   "views": 770
+  },
+  {
+   "date": "2026-10-26",
+   "views": 873
+  },
+  {
+   "date": "2026-10-27",
+   "views": 762
+  },
+  {
+   "date": "2026-10-28",
+   "views": 728
+  },
+  {
+   "date": "2026-10-29",
+   "views": 672
+  },
+  {
+   "date": "2026-10-30",
+   "views": 640
+  },
+  {
+   "date": "2026-10-31",
+   "views": 586
+  },
+  {
+   "date": "2026-11-01",
+   "views": 723
+  },
+  {
+   "date": "2026-11-02",
+   "views": 842
+  },
+  {
+   "date": "2026-11-03",
+   "views": 918
+  },
+  {
+   "date": "2026-11-04",
+   "views": 872
+  },
+  {
+   "date": "2026-11-05",
+   "views": 786
+  },
+  {
+   "date": "2026-11-06",
+   "views": 970
+  },
+  {
+   "date": "2026-11-07",
+   "views": 960
+  },
+  {
+   "date": "2026-11-08",
+   "views": 919
+  },
+  {
+   "date": "2026-11-09",
+   "views": 980
+  },
+  {
+   "date": "2026-11-10",
+   "views": 1141
+  },
+  {
+   "date": "2026-11-11",
+   "views": 1696
+  },
+  {
+   "date": "2026-11-12",
+   "views": 1401
+  },
+  {
+   "date": "2026-11-13",
+   "views": 2065
+  },
+  {
+   "date": "2026-11-14",
+   "views": 2044
+  },
+  {
+   "date": "2026-11-15",
+   "views": 2649
+  },
+  {
+   "date": "2026-11-16",
+   "views": 92752
+  }
+ ],
+ "wikipedia_title": "69th_Annual_Grammy_Awards",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
+}

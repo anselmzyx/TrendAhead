@@ -1,197 +1,198 @@
 {
- "title": "Sam Hartman",
- "slug": "sam-hartman",
- "score": 42,
+ "title": "Kristen Stewart",
+ "slug": "kristen-stewart",
+ "score": 29,
  "status": "Breaking out",
- "change_percent": 11021,
- "growth_ratio": 111.3,
- "recent_avg": 64501,
- "baseline_avg": 580,
- "explanation": "Attention is 111\u00d7 its 30-day baseline.",
+ "change_percent": 249,
+ "growth_ratio": 3.49,
+ "recent_avg": 22479,
+ "baseline_avg": 6446,
+ "explanation": "Attention is 3.5\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 63921,
- "latest": 191577,
+ "abs_change": 16033,
+ "latest": 53125,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.319,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.867,
-  "volume": 0.905,
-  "spike_quality": 0.514
+  "persistence": 0.2,
+  "momentum": 1.0,
+  "volume": 0.676,
+  "spike_quality": 0.735
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 64,501 views/day over the last 3 days (30-day baseline: 580)."
+  "Averaging 22,479 views/day over the last 3 days (30-day baseline: 6,446)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 2040
-  },
-  {
-   "date": "2026-10-06",
-   "views": 821
-  },
-  {
-   "date": "2026-10-07",
-   "views": 545
-  },
-  {
    "date": "2026-10-08",
-   "views": 464
+   "views": 5931
   },
   {
    "date": "2026-10-09",
-   "views": 429
+   "views": 5947
   },
   {
    "date": "2026-10-10",
-   "views": 623
+   "views": 6780
   },
   {
    "date": "2026-10-11",
-   "views": 809
+   "views": 7817
   },
   {
    "date": "2026-10-12",
-   "views": 412
+   "views": 7266
   },
   {
    "date": "2026-10-13",
-   "views": 421
+   "views": 6010
   },
   {
    "date": "2026-10-14",
-   "views": 373
+   "views": 5844
   },
   {
    "date": "2026-10-15",
-   "views": 360
+   "views": 7651
   },
   {
    "date": "2026-10-16",
-   "views": 385
+   "views": 6511
   },
   {
    "date": "2026-10-17",
-   "views": 623
+   "views": 7637
   },
   {
    "date": "2026-10-18",
-   "views": 1661
+   "views": 8263
   },
   {
    "date": "2026-10-19",
-   "views": 976
+   "views": 6590
   },
   {
    "date": "2026-10-20",
-   "views": 1811
+   "views": 6059
   },
   {
    "date": "2026-10-21",
-   "views": 490
+   "views": 5952
   },
   {
    "date": "2026-10-22",
-   "views": 444
+   "views": 5729
   },
   {
    "date": "2026-10-23",
-   "views": 456
+   "views": 6231
   },
   {
    "date": "2026-10-24",
-   "views": 497
+   "views": 7336
   },
   {
    "date": "2026-10-25",
-   "views": 601
+   "views": 7888
   },
   {
    "date": "2026-10-26",
-   "views": 356
+   "views": 6640
   },
   {
    "date": "2026-10-27",
-   "views": 332
+   "views": 6065
   },
   {
    "date": "2026-10-28",
-   "views": 270
+   "views": 5569
   },
   {
    "date": "2026-10-29",
-   "views": 297
+   "views": 6114
   },
   {
    "date": "2026-10-30",
-   "views": 316
+   "views": 6106
   },
   {
    "date": "2026-10-31",
-   "views": 531
+   "views": 7871
   },
   {
    "date": "2026-11-01",
-   "views": 618
+   "views": 8536
   },
   {
    "date": "2026-11-02",
-   "views": 726
+   "views": 6708
   },
   {
    "date": "2026-11-03",
-   "views": 479
+   "views": 5689
   },
   {
    "date": "2026-11-04",
-   "views": 389
+   "views": 4787
   },
   {
    "date": "2026-11-05",
-   "views": 400
+   "views": 5269
   },
   {
    "date": "2026-11-06",
-   "views": 449
+   "views": 6303
   },
   {
    "date": "2026-11-07",
-   "views": 441
+   "views": 7328
   },
   {
    "date": "2026-11-08",
-   "views": 1303
+   "views": 7108
   },
   {
    "date": "2026-11-09",
-   "views": 521
+   "views": 5884
   },
   {
    "date": "2026-11-10",
-   "views": 448
+   "views": 5614
   },
   {
    "date": "2026-11-11",
-   "views": 1346
+   "views": 5261
   },
   {
    "date": "2026-11-12",
-   "views": 581
+   "views": 5085
   },
   {
    "date": "2026-11-13",
-   "views": 191577
+   "views": 5581
+  },
+  {
+   "date": "2026-11-14",
+   "views": 6582
+  },
+  {
+   "date": "2026-11-15",
+   "views": 7729
+  },
+  {
+   "date": "2026-11-16",
+   "views": 53125
   }
  ],
- "wikipedia_title": "Sam_Hartman",
+ "wikipedia_title": "Kristen_Stewart",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

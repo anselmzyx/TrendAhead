@@ -1,198 +1,197 @@
 {
- "title": "Chris Van Hollen",
- "slug": "chris-van-hollen",
- "score": 57,
- "status": "Building",
- "change_percent": 1038,
- "growth_ratio": 11.38,
- "recent_avg": 95503,
- "baseline_avg": 8389,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "title": "Ebenezer (2026 film)",
+ "slug": "ebenezer-2026-film",
+ "score": 44,
+ "status": "Elevated",
+ "change_percent": 408,
+ "growth_ratio": 5.08,
+ "recent_avg": 87871,
+ "baseline_avg": 17309,
+ "explanation": "Attention is 5.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 87114,
- "latest": 204913,
+ "abs_change": 70562,
+ "latest": 87439,
  "components": {
-  "acceleration": 0.622,
-  "anomaly": 0.565,
-  "persistence": 0.92,
-  "momentum": 0.867,
-  "volume": 0.99,
-  "spike_quality": 0.8
+  "acceleration": 0.415,
+  "anomaly": 0.454,
+  "persistence": 0.84,
+  "momentum": 0.668,
+  "volume": 0.972,
+  "spike_quality": 0.907
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 95,503 views/day over the last 3 days (30-day baseline: 8,389)."
+  "Averaging 87,871 views/day over the last 3 days (30-day baseline: 17,309)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 853
-  },
-  {
-   "date": "2026-10-06",
-   "views": 934
-  },
-  {
-   "date": "2026-10-07",
-   "views": 695
-  },
-  {
    "date": "2026-10-08",
-   "views": 787
+   "views": 4640
   },
   {
    "date": "2026-10-09",
-   "views": 740
+   "views": 4784
   },
   {
    "date": "2026-10-10",
-   "views": 622
+   "views": 5647
   },
   {
    "date": "2026-10-11",
-   "views": 698
+   "views": 5544
   },
   {
    "date": "2026-10-12",
-   "views": 774
+   "views": 5336
   },
   {
    "date": "2026-10-13",
-   "views": 755
+   "views": 4417
   },
   {
    "date": "2026-10-14",
-   "views": 671
+   "views": 4745
   },
   {
    "date": "2026-10-15",
-   "views": 748
+   "views": 5762
   },
   {
    "date": "2026-10-16",
-   "views": 582
+   "views": 6935
   },
   {
    "date": "2026-10-17",
-   "views": 576
+   "views": 6984
   },
   {
    "date": "2026-10-18",
-   "views": 591
+   "views": 6849
   },
   {
    "date": "2026-10-19",
-   "views": 617
+   "views": 9484
   },
   {
    "date": "2026-10-20",
-   "views": 725
+   "views": 7582
   },
   {
    "date": "2026-10-21",
-   "views": 703
+   "views": 7828
   },
   {
    "date": "2026-10-22",
-   "views": 700
+   "views": 8039
   },
   {
    "date": "2026-10-23",
-   "views": 628
+   "views": 8497
   },
   {
    "date": "2026-10-24",
-   "views": 560
+   "views": 10034
   },
   {
    "date": "2026-10-25",
-   "views": 1173
+   "views": 8921
   },
   {
    "date": "2026-10-26",
-   "views": 1013
+   "views": 11716
   },
   {
    "date": "2026-10-27",
-   "views": 794
+   "views": 10305
   },
   {
    "date": "2026-10-28",
-   "views": 742
+   "views": 12620
   },
   {
    "date": "2026-10-29",
-   "views": 699
+   "views": 11358
   },
   {
    "date": "2026-10-30",
-   "views": 709
+   "views": 11723
   },
   {
    "date": "2026-10-31",
-   "views": 674
+   "views": 11325
   },
   {
    "date": "2026-11-01",
-   "views": 1127
+   "views": 18176
   },
   {
    "date": "2026-11-02",
-   "views": 1624
+   "views": 13719
   },
   {
    "date": "2026-11-03",
-   "views": 1741
+   "views": 16452
   },
   {
    "date": "2026-11-04",
-   "views": 7557
+   "views": 13007
   },
   {
    "date": "2026-11-05",
-   "views": 40433
+   "views": 12789
   },
   {
    "date": "2026-11-06",
-   "views": 50005
+   "views": 15911
   },
   {
    "date": "2026-11-07",
-   "views": 32483
+   "views": 18544
   },
   {
    "date": "2026-11-08",
-   "views": 18448
+   "views": 23650
   },
   {
    "date": "2026-11-09",
-   "views": 33681
+   "views": 22799
   },
   {
    "date": "2026-11-10",
-   "views": 50131
+   "views": 38363
   },
   {
    "date": "2026-11-11",
-   "views": 59326
+   "views": 38102
   },
   {
    "date": "2026-11-12",
-   "views": 22271
+   "views": 53175
   },
   {
    "date": "2026-11-13",
-   "views": 204913
+   "views": 78621
+  },
+  {
+   "date": "2026-11-14",
+   "views": 78001
+  },
+  {
+   "date": "2026-11-15",
+   "views": 98174
+  },
+  {
+   "date": "2026-11-16",
+   "views": 87439
   }
  ],
- "wikipedia_title": "Chris_Van_Hollen",
+ "wikipedia_title": "Ebenezer_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

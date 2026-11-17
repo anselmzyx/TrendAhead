@@ -1,197 +1,198 @@
 {
- "title": "SS United States",
- "slug": "ss-united-states",
- "score": 38,
- "status": "Peaked / fading",
- "change_percent": 3145,
- "growth_ratio": 32.45,
- "recent_avg": 150912,
- "baseline_avg": 4651,
- "explanation": "Attention surged to 32\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "UEFA Nations League",
+ "slug": "uefa-nations-league",
+ "score": 76,
+ "status": "Building",
+ "change_percent": 1555,
+ "growth_ratio": 16.55,
+ "recent_avg": 54548,
+ "baseline_avg": 3295,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 146261,
- "latest": 93568,
+ "abs_change": 51253,
+ "latest": 70723,
  "components": {
-  "acceleration": 0.889,
-  "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.432,
-  "volume": 1.0,
-  "spike_quality": 0.5
+  "acceleration": 0.717,
+  "anomaly": 0.922,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.868,
+  "spike_quality": 0.896
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 150,912 views/day over the last 3 days (30-day baseline: 4,651)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 54,548 views/day over the last 3 days (30-day baseline: 3,295)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 604
-  },
-  {
-   "date": "2026-10-06",
-   "views": 694
-  },
-  {
-   "date": "2026-10-07",
-   "views": 603
-  },
-  {
    "date": "2026-10-08",
-   "views": 584
+   "views": 8313
   },
   {
    "date": "2026-10-09",
-   "views": 587
+   "views": 5447
   },
   {
    "date": "2026-10-10",
-   "views": 1139
+   "views": 4425
   },
   {
    "date": "2026-10-11",
-   "views": 2778
+   "views": 3102
   },
   {
    "date": "2026-10-12",
-   "views": 2894
+   "views": 2471
   },
   {
    "date": "2026-10-13",
-   "views": 4706
+   "views": 2282
   },
   {
    "date": "2026-10-14",
-   "views": 2130
+   "views": 2005
   },
   {
    "date": "2026-10-15",
-   "views": 1416
+   "views": 1774
   },
   {
    "date": "2026-10-16",
-   "views": 955
+   "views": 1455
   },
   {
    "date": "2026-10-17",
-   "views": 1034
+   "views": 1538
   },
   {
    "date": "2026-10-18",
-   "views": 1436
+   "views": 1507
   },
   {
    "date": "2026-10-19",
-   "views": 2012
+   "views": 1457
   },
   {
    "date": "2026-10-20",
-   "views": 1423
+   "views": 1412
   },
   {
    "date": "2026-10-21",
-   "views": 979
+   "views": 1368
   },
   {
    "date": "2026-10-22",
-   "views": 2728
+   "views": 1691
   },
   {
    "date": "2026-10-23",
-   "views": 2207
+   "views": 1494
   },
   {
    "date": "2026-10-24",
-   "views": 1741
+   "views": 1245
   },
   {
    "date": "2026-10-25",
-   "views": 2075
+   "views": 1249
   },
   {
    "date": "2026-10-26",
-   "views": 6772
+   "views": 1500
   },
   {
    "date": "2026-10-27",
-   "views": 12267
+   "views": 1564
   },
   {
    "date": "2026-10-28",
-   "views": 10690
+   "views": 1285
   },
   {
    "date": "2026-10-29",
-   "views": 4299
+   "views": 1181
   },
   {
    "date": "2026-10-30",
-   "views": 2298
+   "views": 1203
   },
   {
    "date": "2026-10-31",
-   "views": 1426
+   "views": 1127
   },
   {
    "date": "2026-11-01",
-   "views": 2749
+   "views": 1141
   },
   {
    "date": "2026-11-02",
-   "views": 3974
+   "views": 1109
   },
   {
    "date": "2026-11-03",
-   "views": 3101
+   "views": 1430
   },
   {
    "date": "2026-11-04",
-   "views": 2179
+   "views": 1280
   },
   {
    "date": "2026-11-05",
-   "views": 2156
+   "views": 2597
   },
   {
    "date": "2026-11-06",
-   "views": 4348
+   "views": 2785
   },
   {
    "date": "2026-11-07",
-   "views": 3325
+   "views": 2034
   },
   {
    "date": "2026-11-08",
-   "views": 14961
+   "views": 2250
   },
   {
    "date": "2026-11-09",
-   "views": 15517
+   "views": 3682
   },
   {
    "date": "2026-11-10",
-   "views": 21728
+   "views": 4189
   },
   {
    "date": "2026-11-11",
-   "views": 117540
+   "views": 4852
   },
   {
    "date": "2026-11-12",
-   "views": 241627
+   "views": 21758
   },
   {
    "date": "2026-11-13",
-   "views": 93568
+   "views": 25698
+  },
+  {
+   "date": "2026-11-14",
+   "views": 28181
+  },
+  {
+   "date": "2026-11-15",
+   "views": 64739
+  },
+  {
+   "date": "2026-11-16",
+   "views": 70723
   }
  ],
- "wikipedia_title": "SS_United_States",
+ "wikipedia_title": "UEFA_Nations_League",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

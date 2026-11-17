@@ -1,196 +1,196 @@
 {
- "title": "Colette Kress",
- "slug": "colette-kress",
- "score": 44,
+ "title": "Ronaldinho",
+ "slug": "ronaldinho",
+ "score": 40,
  "status": "Elevated",
- "change_percent": 64625,
- "growth_ratio": 647.31,
- "recent_avg": 249191,
- "baseline_avg": 385,
- "explanation": "Attention is 647\u00d7 its 30-day baseline.",
+ "change_percent": 841,
+ "growth_ratio": 9.41,
+ "recent_avg": 43487,
+ "baseline_avg": 4620,
+ "explanation": "Attention is 9.4\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 248806,
- "latest": 279241,
+ "abs_change": 38867,
+ "latest": 47745,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.573,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.561,
-  "volume": 1.0,
-  "spike_quality": 0.526
+  "persistence": 0.72,
+  "momentum": 0.636,
+  "volume": 0.819,
+  "spike_quality": 0.695
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 249,191 views/day over the last 3 days (30-day baseline: 385)."
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 43,487 views/day over the last 3 days (30-day baseline: 4,620)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 112
-  },
-  {
-   "date": "2026-10-06",
-   "views": 106
-  },
-  {
-   "date": "2026-10-07",
-   "views": 116
-  },
-  {
    "date": "2026-10-08",
-   "views": 95
+   "views": 4091
   },
   {
    "date": "2026-10-09",
-   "views": 101
+   "views": 3858
   },
   {
    "date": "2026-10-10",
-   "views": 78
+   "views": 4008
   },
   {
    "date": "2026-10-11",
-   "views": 98
+   "views": 3672
   },
   {
    "date": "2026-10-12",
-   "views": 85
+   "views": 3319
   },
   {
    "date": "2026-10-13",
-   "views": 103
+   "views": 3527
   },
   {
    "date": "2026-10-14",
-   "views": 128
+   "views": 3580
   },
   {
    "date": "2026-10-15",
-   "views": 110
+   "views": 3527
   },
   {
    "date": "2026-10-16",
-   "views": 133
+   "views": 3527
   },
   {
    "date": "2026-10-17",
-   "views": 99
+   "views": 3727
   },
   {
    "date": "2026-10-18",
-   "views": 96
+   "views": 3713
   },
   {
    "date": "2026-10-19",
-   "views": 123
+   "views": 3384
   },
   {
    "date": "2026-10-20",
-   "views": 139
+   "views": 3819
   },
   {
    "date": "2026-10-21",
-   "views": 133
+   "views": 3477
   },
   {
    "date": "2026-10-22",
-   "views": 118
+   "views": 3431
   },
   {
    "date": "2026-10-23",
-   "views": 147
+   "views": 4251
   },
   {
    "date": "2026-10-24",
-   "views": 117
+   "views": 5094
   },
   {
    "date": "2026-10-25",
-   "views": 91
+   "views": 4876
   },
   {
    "date": "2026-10-26",
-   "views": 94
+   "views": 5651
   },
   {
    "date": "2026-10-27",
-   "views": 128
+   "views": 6278
   },
   {
    "date": "2026-10-28",
-   "views": 140
+   "views": 5011
   },
   {
    "date": "2026-10-29",
-   "views": 144
+   "views": 6458
   },
   {
    "date": "2026-10-30",
-   "views": 174
+   "views": 5325
   },
   {
    "date": "2026-10-31",
-   "views": 121
+   "views": 5038
   },
   {
    "date": "2026-11-01",
-   "views": 112
+   "views": 4899
   },
   {
    "date": "2026-11-02",
-   "views": 93
+   "views": 4161
   },
   {
    "date": "2026-11-03",
-   "views": 88
+   "views": 4279
   },
   {
    "date": "2026-11-04",
-   "views": 75
+   "views": 4309
   },
   {
    "date": "2026-11-05",
-   "views": 89
+   "views": 4902
   },
   {
    "date": "2026-11-06",
-   "views": 98
+   "views": 4380
   },
   {
    "date": "2026-11-07",
-   "views": 140
+   "views": 4500
   },
   {
    "date": "2026-11-08",
-   "views": 509
+   "views": 4358
   },
   {
    "date": "2026-11-09",
-   "views": 4196
+   "views": 4080
   },
   {
    "date": "2026-11-10",
-   "views": 3726
+   "views": 3785
   },
   {
    "date": "2026-11-11",
-   "views": 4402
+   "views": 5224
   },
   {
    "date": "2026-11-12",
-   "views": 463931
+   "views": 5816
   },
   {
    "date": "2026-11-13",
-   "views": 279241
+   "views": 7314
+  },
+  {
+   "date": "2026-11-14",
+   "views": 16982
+  },
+  {
+   "date": "2026-11-15",
+   "views": 65734
+  },
+  {
+   "date": "2026-11-16",
+   "views": 47745
   }
  ],
- "wikipedia_title": "Colette_Kress",
+ "wikipedia_title": "Ronaldinho",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

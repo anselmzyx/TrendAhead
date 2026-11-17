@@ -1,198 +1,197 @@
 {
- "title": "Alice Huang (executive)",
- "slug": "alice-huang-executive",
- "score": 83,
+ "title": "Miguel \u00c1ngel F\u00e9lix Gallardo",
+ "slug": "miguel-angel-felix-gallardo",
+ "score": 45,
  "status": "Breaking out",
- "change_percent": 67490,
- "growth_ratio": 675.77,
- "recent_avg": 121662,
- "baseline_avg": 180,
- "explanation": "Attention is 676\u00d7 its 30-day baseline.",
+ "change_percent": 1284,
+ "growth_ratio": 13.85,
+ "recent_avg": 27934,
+ "baseline_avg": 2018,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 121482,
- "latest": 200012,
+ "abs_change": 25916,
+ "latest": 70590,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.672,
   "anomaly": 1.0,
-  "persistence": 1.0,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.768
+  "volume": 0.723,
+  "spike_quality": 0.634
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 121,662 views/day over the last 3 days (30-day baseline: 180)."
+  "Averaging 27,934 views/day over the last 3 days (30-day baseline: 2,018)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 0
-  },
-  {
-   "date": "2026-10-06",
-   "views": 0
-  },
-  {
-   "date": "2026-10-07",
-   "views": 0
-  },
-  {
    "date": "2026-10-08",
-   "views": 0
+   "views": 1429
   },
   {
    "date": "2026-10-09",
-   "views": 0
+   "views": 1300
   },
   {
    "date": "2026-10-10",
-   "views": 0
+   "views": 1473
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 1591
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 1512
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 1369
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 1463
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 1556
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 1660
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 1677
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 1672
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 1675
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 1494
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 1383
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 1435
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 1325
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 1356
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 1434
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 1556
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 1366
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 1510
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 2495
   },
   {
    "date": "2026-10-30",
-   "views": 0
+   "views": 3006
   },
   {
    "date": "2026-10-31",
-   "views": 0
+   "views": 3352
   },
   {
    "date": "2026-11-01",
-   "views": 0
+   "views": 3223
   },
   {
    "date": "2026-11-02",
-   "views": 0
+   "views": 3213
   },
   {
    "date": "2026-11-03",
-   "views": 0
+   "views": 2732
   },
   {
    "date": "2026-11-04",
-   "views": 0
+   "views": 2244
   },
   {
    "date": "2026-11-05",
-   "views": 0
+   "views": 2324
   },
   {
    "date": "2026-11-06",
-   "views": 0
+   "views": 2373
   },
   {
    "date": "2026-11-07",
-   "views": 0
+   "views": 2305
   },
   {
    "date": "2026-11-08",
-   "views": 0
+   "views": 2134
   },
   {
    "date": "2026-11-09",
-   "views": 1442
+   "views": 2089
   },
   {
    "date": "2026-11-10",
-   "views": 3959
+   "views": 2009
   },
   {
    "date": "2026-11-11",
-   "views": 4853
+   "views": 2188
   },
   {
    "date": "2026-11-12",
-   "views": 160121
+   "views": 1956
   },
   {
    "date": "2026-11-13",
-   "views": 200012
+   "views": 1783
+  },
+  {
+   "date": "2026-11-14",
+   "views": 3029
+  },
+  {
+   "date": "2026-11-15",
+   "views": 10184
+  },
+  {
+   "date": "2026-11-16",
+   "views": 70590
   }
  ],
- "wikipedia_title": "Alice_Huang_(executive)",
+ "wikipedia_title": "Miguel_\u00c1ngel_F\u00e9lix_Gallardo",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Mauricio Pochettino",
- "slug": "mauricio-pochettino",
- "score": 77,
+ "title": "2026\u201327 UEFA Nations League",
+ "slug": "2026-27-uefa-nations-league",
+ "score": 79,
  "status": "Building",
- "change_percent": 4339,
- "growth_ratio": 44.39,
- "recent_avg": 175707,
- "baseline_avg": 3958,
- "explanation": "Attention is 44\u00d7 its 30-day baseline.",
+ "change_percent": 1577,
+ "growth_ratio": 16.77,
+ "recent_avg": 74478,
+ "baseline_avg": 4442,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 171749,
- "latest": 172224,
+ "abs_change": 70036,
+ "latest": 100581,
  "components": {
-  "acceleration": 0.97,
-  "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.82,
-  "volume": 1.0,
-  "spike_quality": 0.87
+  "acceleration": 0.721,
+  "anomaly": 0.942,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.936,
+  "spike_quality": 0.887
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 175,707 views/day over the last 3 days (30-day baseline: 3,958)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 74,478 views/day over the last 3 days (30-day baseline: 4,442)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 1242
-  },
-  {
-   "date": "2026-10-06",
-   "views": 1038
-  },
-  {
-   "date": "2026-10-07",
-   "views": 3682
-  },
-  {
    "date": "2026-10-08",
-   "views": 840
+   "views": 9802
   },
   {
    "date": "2026-10-09",
-   "views": 939
+   "views": 6416
   },
   {
    "date": "2026-10-10",
-   "views": 919
+   "views": 4591
   },
   {
    "date": "2026-10-11",
-   "views": 894
+   "views": 3569
   },
   {
    "date": "2026-10-12",
-   "views": 600
+   "views": 3260
   },
   {
    "date": "2026-10-13",
-   "views": 578
+   "views": 2979
   },
   {
    "date": "2026-10-14",
-   "views": 577
+   "views": 2746
   },
   {
    "date": "2026-10-15",
-   "views": 1349
+   "views": 2536
   },
   {
    "date": "2026-10-16",
-   "views": 924
+   "views": 2253
   },
   {
    "date": "2026-10-17",
-   "views": 1096
+   "views": 1951
   },
   {
    "date": "2026-10-18",
-   "views": 651
+   "views": 2030
   },
   {
    "date": "2026-10-19",
-   "views": 802
+   "views": 2009
   },
   {
    "date": "2026-10-20",
-   "views": 835
+   "views": 2033
   },
   {
    "date": "2026-10-21",
-   "views": 907
+   "views": 1971
   },
   {
    "date": "2026-10-22",
-   "views": 1144
+   "views": 1831
   },
   {
    "date": "2026-10-23",
-   "views": 732
+   "views": 1640
   },
   {
    "date": "2026-10-24",
-   "views": 757
+   "views": 1519
   },
   {
    "date": "2026-10-25",
-   "views": 964
+   "views": 1656
   },
   {
    "date": "2026-10-26",
-   "views": 1046
+   "views": 1815
   },
   {
    "date": "2026-10-27",
-   "views": 1692
+   "views": 1997
   },
   {
    "date": "2026-10-28",
-   "views": 978
+   "views": 1892
   },
   {
    "date": "2026-10-29",
-   "views": 791
+   "views": 1672
   },
   {
    "date": "2026-10-30",
-   "views": 995
+   "views": 1744
   },
   {
    "date": "2026-10-31",
-   "views": 1276
+   "views": 1483
   },
   {
    "date": "2026-11-01",
-   "views": 802
+   "views": 1645
   },
   {
    "date": "2026-11-02",
-   "views": 718
+   "views": 1963
   },
   {
    "date": "2026-11-03",
-   "views": 781
+   "views": 2161
   },
   {
    "date": "2026-11-04",
-   "views": 662
+   "views": 2179
   },
   {
    "date": "2026-11-05",
-   "views": 899
+   "views": 2844
   },
   {
    "date": "2026-11-06",
-   "views": 582
+   "views": 3858
   },
   {
    "date": "2026-11-07",
-   "views": 694
+   "views": 2885
   },
   {
    "date": "2026-11-08",
-   "views": 1384
+   "views": 3203
   },
   {
    "date": "2026-11-09",
-   "views": 20220
+   "views": 5503
   },
   {
    "date": "2026-11-10",
-   "views": 73306
+   "views": 5945
   },
   {
    "date": "2026-11-11",
-   "views": 186714
+   "views": 6581
   },
   {
    "date": "2026-11-12",
-   "views": 168183
+   "views": 25140
   },
   {
    "date": "2026-11-13",
-   "views": 172224
+   "views": 37306
+  },
+  {
+   "date": "2026-11-14",
+   "views": 43185
+  },
+  {
+   "date": "2026-11-15",
+   "views": 79669
+  },
+  {
+   "date": "2026-11-16",
+   "views": 100581
   }
  ],
- "wikipedia_title": "Mauricio_Pochettino",
+ "wikipedia_title": "2026\u201327_UEFA_Nations_League",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

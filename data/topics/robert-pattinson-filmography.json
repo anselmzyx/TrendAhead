@@ -1,196 +1,197 @@
 {
- "title": "Yella Beezy",
- "slug": "yella-beezy",
- "score": 41,
- "status": "Elevated",
- "change_percent": 9159,
- "growth_ratio": 92.6,
- "recent_avg": 61662,
- "baseline_avg": 666,
- "explanation": "Attention is 93\u00d7 its 30-day baseline.",
+ "title": "Robert Pattinson filmography",
+ "slug": "robert-pattinson-filmography",
+ "score": 49,
+ "status": "Breaking out",
+ "change_percent": 2767,
+ "growth_ratio": 28.67,
+ "recent_avg": 66625,
+ "baseline_avg": 2324,
+ "explanation": "Attention is 29\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 60996,
- "latest": 63318,
+ "abs_change": 64301,
+ "latest": 191139,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.858,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.593,
-  "volume": 0.895,
-  "spike_quality": 0.61
+  "persistence": 0.72,
+  "momentum": 0.867,
+  "volume": 0.912,
+  "spike_quality": 0.563
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 61,662 views/day over the last 3 days (30-day baseline: 666)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 66,625 views/day over the last 3 days (30-day baseline: 2,324)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 147
-  },
-  {
-   "date": "2026-10-06",
-   "views": 254
-  },
-  {
-   "date": "2026-10-07",
-   "views": 277
-  },
-  {
    "date": "2026-10-08",
-   "views": 240
+   "views": 1871
   },
   {
    "date": "2026-10-09",
-   "views": 220
+   "views": 1832
   },
   {
    "date": "2026-10-10",
-   "views": 162
+   "views": 2097
   },
   {
    "date": "2026-10-11",
-   "views": 168
+   "views": 2153
   },
   {
    "date": "2026-10-12",
-   "views": 154
+   "views": 2416
   },
   {
    "date": "2026-10-13",
-   "views": 182
+   "views": 1902
   },
   {
    "date": "2026-10-14",
-   "views": 176
+   "views": 1822
   },
   {
    "date": "2026-10-15",
-   "views": 161
+   "views": 1652
   },
   {
    "date": "2026-10-16",
-   "views": 181
+   "views": 2147
   },
   {
    "date": "2026-10-17",
-   "views": 220
+   "views": 2013
   },
   {
    "date": "2026-10-18",
-   "views": 172
+   "views": 1796
   },
   {
    "date": "2026-10-19",
-   "views": 164
+   "views": 1581
   },
   {
    "date": "2026-10-20",
-   "views": 257
+   "views": 1610
   },
   {
    "date": "2026-10-21",
-   "views": 240
+   "views": 1508
   },
   {
    "date": "2026-10-22",
-   "views": 186
+   "views": 1371
   },
   {
    "date": "2026-10-23",
-   "views": 216
+   "views": 1465
   },
   {
    "date": "2026-10-24",
-   "views": 214
+   "views": 1644
   },
   {
    "date": "2026-10-25",
-   "views": 242
+   "views": 1771
   },
   {
    "date": "2026-10-26",
-   "views": 540
+   "views": 1620
   },
   {
    "date": "2026-10-27",
-   "views": 1791
+   "views": 1785
   },
   {
    "date": "2026-10-28",
-   "views": 2151
+   "views": 1747
   },
   {
    "date": "2026-10-29",
-   "views": 2376
+   "views": 1902
   },
   {
    "date": "2026-10-30",
-   "views": 1329
+   "views": 1998
   },
   {
    "date": "2026-10-31",
-   "views": 563
+   "views": 2091
   },
   {
    "date": "2026-11-01",
-   "views": 458
+   "views": 2067
   },
   {
    "date": "2026-11-02",
-   "views": 1150
+   "views": 1814
   },
   {
    "date": "2026-11-03",
-   "views": 960
+   "views": 1824
   },
   {
    "date": "2026-11-04",
-   "views": 858
+   "views": 1876
   },
   {
    "date": "2026-11-05",
-   "views": 957
+   "views": 1837
   },
   {
    "date": "2026-11-06",
-   "views": 1197
+   "views": 1907
   },
   {
    "date": "2026-11-07",
-   "views": 679
+   "views": 5348
   },
   {
    "date": "2026-11-08",
-   "views": 420
+   "views": 4011
   },
   {
    "date": "2026-11-09",
-   "views": 855
+   "views": 5127
   },
   {
    "date": "2026-11-10",
-   "views": 927
+   "views": 4345
   },
   {
    "date": "2026-11-11",
-   "views": 24967
+   "views": 2831
   },
   {
    "date": "2026-11-12",
-   "views": 96701
+   "views": 2471
   },
   {
    "date": "2026-11-13",
-   "views": 63318
+   "views": 4561
+  },
+  {
+   "date": "2026-11-14",
+   "views": 4646
+  },
+  {
+   "date": "2026-11-15",
+   "views": 4091
+  },
+  {
+   "date": "2026-11-16",
+   "views": 191139
   }
  ],
- "wikipedia_title": "Yella_Beezy",
+ "wikipedia_title": "Robert_Pattinson_filmography",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

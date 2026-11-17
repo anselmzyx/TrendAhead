@@ -1,197 +1,196 @@
 {
- "title": "Usman Nurmagomedov",
- "slug": "usman-nurmagomedov",
- "score": 42,
- "status": "Peaked / fading",
- "change_percent": 9834,
- "growth_ratio": 99.36,
- "recent_avg": 63680,
- "baseline_avg": 641,
- "explanation": "Attention surged to 99\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Mordechai Vanunu",
+ "slug": "mordechai-vanunu",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 8284,
+ "growth_ratio": 83.8,
+ "recent_avg": 44601,
+ "baseline_avg": 532,
+ "explanation": "Attention is 84\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 63039,
- "latest": 45017,
+ "abs_change": 44069,
+ "latest": 132656,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.525,
-  "volume": 0.902,
-  "spike_quality": 0.604
+  "persistence": 0.4,
+  "momentum": 0.8,
+  "volume": 0.825,
+  "spike_quality": 0.519
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 63,680 views/day over the last 3 days (30-day baseline: 641)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 44,601 views/day over the last 3 days (30-day baseline: 532)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 826
-  },
-  {
-   "date": "2026-10-06",
-   "views": 673
-  },
-  {
-   "date": "2026-10-07",
-   "views": 577
-  },
-  {
    "date": "2026-10-08",
-   "views": 535
-  },
-  {
-   "date": "2026-10-09",
-   "views": 556
-  },
-  {
-   "date": "2026-10-10",
-   "views": 599
-  },
-  {
-   "date": "2026-10-11",
-   "views": 552
-  },
-  {
-   "date": "2026-10-12",
-   "views": 481
-  },
-  {
-   "date": "2026-10-13",
-   "views": 428
-  },
-  {
-   "date": "2026-10-14",
-   "views": 436
-  },
-  {
-   "date": "2026-10-15",
-   "views": 412
-  },
-  {
-   "date": "2026-10-16",
-   "views": 491
-  },
-  {
-   "date": "2026-10-17",
-   "views": 613
-  },
-  {
-   "date": "2026-10-18",
-   "views": 720
-  },
-  {
-   "date": "2026-10-19",
-   "views": 615
-  },
-  {
-   "date": "2026-10-20",
-   "views": 445
-  },
-  {
-   "date": "2026-10-21",
-   "views": 501
-  },
-  {
-   "date": "2026-10-22",
-   "views": 499
-  },
-  {
-   "date": "2026-10-23",
-   "views": 535
-  },
-  {
-   "date": "2026-10-24",
-   "views": 1131
-  },
-  {
-   "date": "2026-10-25",
-   "views": 972
-  },
-  {
-   "date": "2026-10-26",
-   "views": 730
-  },
-  {
-   "date": "2026-10-27",
-   "views": 628
-  },
-  {
-   "date": "2026-10-28",
-   "views": 702
-  },
-  {
-   "date": "2026-10-29",
-   "views": 987
-  },
-  {
-   "date": "2026-10-30",
-   "views": 1015
-  },
-  {
-   "date": "2026-10-31",
-   "views": 832
-  },
-  {
-   "date": "2026-11-01",
-   "views": 610
-  },
-  {
-   "date": "2026-11-02",
-   "views": 533
-  },
-  {
-   "date": "2026-11-03",
-   "views": 528
-  },
-  {
-   "date": "2026-11-04",
-   "views": 422
-  },
-  {
-   "date": "2026-11-05",
    "views": 439
   },
   {
+   "date": "2026-10-09",
+   "views": 399
+  },
+  {
+   "date": "2026-10-10",
+   "views": 341
+  },
+  {
+   "date": "2026-10-11",
+   "views": 521
+  },
+  {
+   "date": "2026-10-12",
+   "views": 349
+  },
+  {
+   "date": "2026-10-13",
+   "views": 310
+  },
+  {
+   "date": "2026-10-14",
+   "views": 449
+  },
+  {
+   "date": "2026-10-15",
+   "views": 394
+  },
+  {
+   "date": "2026-10-16",
+   "views": 312
+  },
+  {
+   "date": "2026-10-17",
+   "views": 326
+  },
+  {
+   "date": "2026-10-18",
+   "views": 332
+  },
+  {
+   "date": "2026-10-19",
+   "views": 312
+  },
+  {
+   "date": "2026-10-20",
+   "views": 450
+  },
+  {
+   "date": "2026-10-21",
+   "views": 385
+  },
+  {
+   "date": "2026-10-22",
+   "views": 340
+  },
+  {
+   "date": "2026-10-23",
+   "views": 349
+  },
+  {
+   "date": "2026-10-24",
+   "views": 299
+  },
+  {
+   "date": "2026-10-25",
+   "views": 289
+  },
+  {
+   "date": "2026-10-26",
+   "views": 1064
+  },
+  {
+   "date": "2026-10-27",
+   "views": 557
+  },
+  {
+   "date": "2026-10-28",
+   "views": 403
+  },
+  {
+   "date": "2026-10-29",
+   "views": 320
+  },
+  {
+   "date": "2026-10-30",
+   "views": 316
+  },
+  {
+   "date": "2026-10-31",
+   "views": 350
+  },
+  {
+   "date": "2026-11-01",
+   "views": 312
+  },
+  {
+   "date": "2026-11-02",
+   "views": 416
+  },
+  {
+   "date": "2026-11-03",
+   "views": 486
+  },
+  {
+   "date": "2026-11-04",
+   "views": 377
+  },
+  {
+   "date": "2026-11-05",
+   "views": 363
+  },
+  {
    "date": "2026-11-06",
-   "views": 376
+   "views": 1022
   },
   {
    "date": "2026-11-07",
-   "views": 413
+   "views": 1264
   },
   {
    "date": "2026-11-08",
-   "views": 571
+   "views": 891
   },
   {
    "date": "2026-11-09",
-   "views": 504
+   "views": 827
   },
   {
    "date": "2026-11-10",
-   "views": 1657
+   "views": 724
   },
   {
    "date": "2026-11-11",
-   "views": 62847
+   "views": 569
   },
   {
    "date": "2026-11-12",
-   "views": 83175
+   "views": 534
   },
   {
    "date": "2026-11-13",
-   "views": 45017
+   "views": 1385
+  },
+  {
+   "date": "2026-11-14",
+   "views": 658
+  },
+  {
+   "date": "2026-11-15",
+   "views": 490
+  },
+  {
+   "date": "2026-11-16",
+   "views": 132656
   }
  ],
- "wikipedia_title": "Usman_Nurmagomedov",
+ "wikipedia_title": "Mordechai_Vanunu",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

@@ -3,43 +3,32 @@
  "slug": "the-body-tv-series",
  "score": 70,
  "status": "Building",
- "change_percent": 3542,
- "growth_ratio": 36.43,
- "recent_avg": 69205,
- "baseline_avg": 1900,
- "explanation": "Attention is 36\u00d7 its 30-day baseline.",
+ "change_percent": 1247,
+ "growth_ratio": 13.47,
+ "recent_avg": 115783,
+ "baseline_avg": 8596,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 67305,
- "latest": 79343,
+ "abs_change": 107187,
+ "latest": 136145,
  "components": {
-  "acceleration": 0.919,
-  "anomaly": 1.0,
+  "acceleration": 0.665,
+  "anomaly": 0.513,
   "persistence": 0.92,
-  "momentum": 0.78,
-  "volume": 0.92,
-  "spike_quality": 0.852
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.941
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 69,205 views/day over the last 3 days (30-day baseline: 1,900)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 115,783 views/day over the last 3 days (30-day baseline: 8,596)."
  ],
  "history": [
-  {
-   "date": "2026-10-05",
-   "views": 193
-  },
-  {
-   "date": "2026-10-06",
-   "views": 203
-  },
-  {
-   "date": "2026-10-07",
-   "views": 193
-  },
   {
    "date": "2026-10-08",
    "views": 274
@@ -187,11 +176,23 @@
   {
    "date": "2026-11-13",
    "views": 79343
+  },
+  {
+   "date": "2026-11-14",
+   "views": 90665
+  },
+  {
+   "date": "2026-11-15",
+   "views": 120538
+  },
+  {
+   "date": "2026-11-16",
+   "views": 136145
   }
  ],
  "wikipedia_title": "The_Body_(TV_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

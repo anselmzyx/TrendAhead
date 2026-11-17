@@ -1,197 +1,197 @@
 {
- "title": "Lisa Su",
- "slug": "lisa-su",
- "score": 38,
+ "title": "Empress Elisabeth of Austria",
+ "slug": "empress-elisabeth-of-austria",
+ "score": 50,
  "status": "Elevated",
- "change_percent": 1143,
- "growth_ratio": 12.43,
- "recent_avg": 91182,
- "baseline_avg": 7336,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 709,
+ "growth_ratio": 8.09,
+ "recent_avg": 58988,
+ "baseline_avg": 7295,
+ "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 83846,
- "latest": 97254,
+ "abs_change": 51693,
+ "latest": 54295,
  "components": {
-  "acceleration": 0.644,
-  "anomaly": 0.446,
-  "persistence": 0.76,
-  "momentum": 0.562,
-  "volume": 0.98,
-  "spike_quality": 0.762
+  "acceleration": 0.534,
+  "anomaly": 0.706,
+  "persistence": 0.92,
+  "momentum": 0.693,
+  "volume": 0.885,
+  "spike_quality": 0.844
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 91,182 views/day over the last 3 days (30-day baseline: 7,336)."
+  "Averaging 58,988 views/day over the last 3 days (30-day baseline: 7,295)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 2150
-  },
-  {
-   "date": "2026-10-06",
-   "views": 2363
-  },
-  {
-   "date": "2026-10-07",
-   "views": 2576
-  },
-  {
    "date": "2026-10-08",
-   "views": 4135
+   "views": 5149
   },
   {
    "date": "2026-10-09",
-   "views": 4774
+   "views": 4618
   },
   {
    "date": "2026-10-10",
-   "views": 2868
+   "views": 4783
   },
   {
    "date": "2026-10-11",
-   "views": 2156
+   "views": 5184
   },
   {
    "date": "2026-10-12",
-   "views": 1920
+   "views": 4914
   },
   {
    "date": "2026-10-13",
-   "views": 1700
+   "views": 4548
   },
   {
    "date": "2026-10-14",
-   "views": 1682
+   "views": 4375
   },
   {
    "date": "2026-10-15",
-   "views": 1795
+   "views": 4285
   },
   {
    "date": "2026-10-16",
-   "views": 3539
+   "views": 4448
   },
   {
    "date": "2026-10-17",
-   "views": 2015
+   "views": 5053
   },
   {
    "date": "2026-10-18",
-   "views": 1881
+   "views": 5316
   },
   {
    "date": "2026-10-19",
-   "views": 1752
+   "views": 4559
   },
   {
    "date": "2026-10-20",
-   "views": 2190
+   "views": 4852
   },
   {
    "date": "2026-10-21",
-   "views": 1681
+   "views": 4640
   },
   {
    "date": "2026-10-22",
-   "views": 1822
+   "views": 4496
   },
   {
    "date": "2026-10-23",
-   "views": 1914
+   "views": 4455
   },
   {
    "date": "2026-10-24",
-   "views": 1811
+   "views": 4924
   },
   {
    "date": "2026-10-25",
-   "views": 1498
+   "views": 5630
   },
   {
    "date": "2026-10-26",
-   "views": 1440
+   "views": 5613
   },
   {
    "date": "2026-10-27",
-   "views": 1397
+   "views": 5839
   },
   {
    "date": "2026-10-28",
-   "views": 1339
+   "views": 5154
   },
   {
    "date": "2026-10-29",
-   "views": 2206
+   "views": 4803
   },
   {
    "date": "2026-10-30",
-   "views": 2240
+   "views": 5616
   },
   {
    "date": "2026-10-31",
-   "views": 1568
+   "views": 5645
   },
   {
    "date": "2026-11-01",
-   "views": 1168
+   "views": 6084
   },
   {
    "date": "2026-11-02",
-   "views": 1377
+   "views": 5557
   },
   {
    "date": "2026-11-03",
-   "views": 2265
+   "views": 5283
   },
   {
    "date": "2026-11-04",
-   "views": 2652
+   "views": 4505
   },
   {
    "date": "2026-11-05",
-   "views": 2007
+   "views": 5228
   },
   {
    "date": "2026-11-06",
-   "views": 2035
+   "views": 5869
   },
   {
    "date": "2026-11-07",
-   "views": 5179
+   "views": 6941
   },
   {
    "date": "2026-11-08",
-   "views": 13941
+   "views": 7985
   },
   {
    "date": "2026-11-09",
-   "views": 89426
+   "views": 7072
   },
   {
    "date": "2026-11-10",
-   "views": 62648
+   "views": 7054
   },
   {
    "date": "2026-11-11",
-   "views": 40043
+   "views": 7615
   },
   {
    "date": "2026-11-12",
-   "views": 136248
+   "views": 20847
   },
   {
    "date": "2026-11-13",
-   "views": 97254
+   "views": 43488
+  },
+  {
+   "date": "2026-11-14",
+   "views": 56618
+  },
+  {
+   "date": "2026-11-15",
+   "views": 66052
+  },
+  {
+   "date": "2026-11-16",
+   "views": 54295
   }
  ],
- "wikipedia_title": "Lisa_Su",
+ "wikipedia_title": "Empress_Elisabeth_of_Austria",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

@@ -1,0 +1,197 @@
+{
+ "title": "Saturn Devouring His Son",
+ "slug": "saturn-devouring-his-son",
+ "score": 37,
+ "status": "Breaking out",
+ "change_percent": 2549,
+ "growth_ratio": 26.5,
+ "recent_avg": 60064,
+ "baseline_avg": 2267,
+ "explanation": "Attention is 26\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 57797,
+ "latest": 176155,
+ "components": {
+  "acceleration": 0.838,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.889,
+  "spike_quality": 0.537
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 60,064 views/day over the last 3 days (30-day baseline: 2,267)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-08",
+   "views": 2551
+  },
+  {
+   "date": "2026-10-09",
+   "views": 2598
+  },
+  {
+   "date": "2026-10-10",
+   "views": 2242
+  },
+  {
+   "date": "2026-10-11",
+   "views": 2799
+  },
+  {
+   "date": "2026-10-12",
+   "views": 3414
+  },
+  {
+   "date": "2026-10-13",
+   "views": 3268
+  },
+  {
+   "date": "2026-10-14",
+   "views": 2727
+  },
+  {
+   "date": "2026-10-15",
+   "views": 2495
+  },
+  {
+   "date": "2026-10-16",
+   "views": 2650
+  },
+  {
+   "date": "2026-10-17",
+   "views": 2278
+  },
+  {
+   "date": "2026-10-18",
+   "views": 3406
+  },
+  {
+   "date": "2026-10-19",
+   "views": 2838
+  },
+  {
+   "date": "2026-10-20",
+   "views": 2516
+  },
+  {
+   "date": "2026-10-21",
+   "views": 2246
+  },
+  {
+   "date": "2026-10-22",
+   "views": 2331
+  },
+  {
+   "date": "2026-10-23",
+   "views": 2389
+  },
+  {
+   "date": "2026-10-24",
+   "views": 2168
+  },
+  {
+   "date": "2026-10-25",
+   "views": 2320
+  },
+  {
+   "date": "2026-10-26",
+   "views": 2528
+  },
+  {
+   "date": "2026-10-27",
+   "views": 2386
+  },
+  {
+   "date": "2026-10-28",
+   "views": 2370
+  },
+  {
+   "date": "2026-10-29",
+   "views": 2405
+  },
+  {
+   "date": "2026-10-30",
+   "views": 2428
+  },
+  {
+   "date": "2026-10-31",
+   "views": 2039
+  },
+  {
+   "date": "2026-11-01",
+   "views": 2396
+  },
+  {
+   "date": "2026-11-02",
+   "views": 2149
+  },
+  {
+   "date": "2026-11-03",
+   "views": 2046
+  },
+  {
+   "date": "2026-11-04",
+   "views": 1917
+  },
+  {
+   "date": "2026-11-05",
+   "views": 2008
+  },
+  {
+   "date": "2026-11-06",
+   "views": 1780
+  },
+  {
+   "date": "2026-11-07",
+   "views": 1762
+  },
+  {
+   "date": "2026-11-08",
+   "views": 2054
+  },
+  {
+   "date": "2026-11-09",
+   "views": 2155
+  },
+  {
+   "date": "2026-11-10",
+   "views": 1925
+  },
+  {
+   "date": "2026-11-11",
+   "views": 2022
+  },
+  {
+   "date": "2026-11-12",
+   "views": 1984
+  },
+  {
+   "date": "2026-11-13",
+   "views": 2017
+  },
+  {
+   "date": "2026-11-14",
+   "views": 1972
+  },
+  {
+   "date": "2026-11-15",
+   "views": 2066
+  },
+  {
+   "date": "2026-11-16",
+   "views": 176155
+  }
+ ],
+ "wikipedia_title": "Saturn_Devouring_His_Son",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
+}

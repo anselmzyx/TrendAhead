@@ -1,198 +1,198 @@
 {
- "title": "List of highest-grossing Indian films",
- "slug": "list-of-highest-grossing-indian-films",
- "score": 67,
+ "title": "John Malkovich",
+ "slug": "john-malkovich",
+ "score": 47,
  "status": "Building",
- "change_percent": 480,
- "growth_ratio": 5.8,
- "recent_avg": 151349,
- "baseline_avg": 26088,
- "explanation": "Attention is 5.8\u00d7 its 30-day baseline.",
+ "change_percent": 393,
+ "growth_ratio": 4.93,
+ "recent_avg": 47966,
+ "baseline_avg": 9729,
+ "explanation": "Attention is 4.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 125261,
- "latest": 171338,
+ "abs_change": 38237,
+ "latest": 93805,
  "components": {
-  "acceleration": 0.449,
-  "anomaly": 0.576,
-  "persistence": 1.0,
+  "acceleration": 0.408,
+  "anomaly": 0.871,
+  "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.945
+  "volume": 0.84,
+  "spike_quality": 0.813
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 151,349 views/day over the last 3 days (30-day baseline: 26,088)."
+  "Averaging 47,966 views/day over the last 3 days (30-day baseline: 9,729)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 11263
-  },
-  {
-   "date": "2026-10-06",
-   "views": 10039
-  },
-  {
-   "date": "2026-10-07",
-   "views": 9272
-  },
-  {
    "date": "2026-10-08",
-   "views": 8955
+   "views": 3251
   },
   {
    "date": "2026-10-09",
-   "views": 8883
+   "views": 27915
   },
   {
    "date": "2026-10-10",
-   "views": 11000
+   "views": 18487
   },
   {
    "date": "2026-10-11",
-   "views": 11824
+   "views": 10715
   },
   {
    "date": "2026-10-12",
-   "views": 10989
+   "views": 8614
   },
   {
    "date": "2026-10-13",
-   "views": 10282
+   "views": 8019
   },
   {
    "date": "2026-10-14",
-   "views": 10362
+   "views": 5024
   },
   {
    "date": "2026-10-15",
-   "views": 11486
+   "views": 5868
   },
   {
    "date": "2026-10-16",
-   "views": 13284
+   "views": 8307
   },
   {
    "date": "2026-10-17",
-   "views": 14313
+   "views": 8027
   },
   {
    "date": "2026-10-18",
-   "views": 18332
+   "views": 10407
   },
   {
    "date": "2026-10-19",
-   "views": 23305
+   "views": 6908
   },
   {
    "date": "2026-10-20",
-   "views": 24118
+   "views": 6892
   },
   {
    "date": "2026-10-21",
-   "views": 24900
+   "views": 6313
   },
   {
    "date": "2026-10-22",
-   "views": 25478
+   "views": 7001
   },
   {
    "date": "2026-10-23",
-   "views": 25034
+   "views": 6212
   },
   {
    "date": "2026-10-24",
-   "views": 25612
+   "views": 7708
   },
   {
    "date": "2026-10-25",
-   "views": 24682
+   "views": 6987
   },
   {
    "date": "2026-10-26",
-   "views": 29231
+   "views": 5471
   },
   {
    "date": "2026-10-27",
-   "views": 24178
+   "views": 6249
   },
   {
    "date": "2026-10-28",
-   "views": 20941
+   "views": 5642
   },
   {
    "date": "2026-10-29",
-   "views": 18933
+   "views": 4978
   },
   {
    "date": "2026-10-30",
-   "views": 16566
+   "views": 5839
   },
   {
    "date": "2026-10-31",
-   "views": 16447
+   "views": 8015
   },
   {
    "date": "2026-11-01",
-   "views": 18313
+   "views": 8208
   },
   {
    "date": "2026-11-02",
-   "views": 20835
+   "views": 7152
   },
   {
    "date": "2026-11-03",
-   "views": 18379
+   "views": 8500
   },
   {
    "date": "2026-11-04",
-   "views": 15910
+   "views": 7097
   },
   {
    "date": "2026-11-05",
-   "views": 22410
+   "views": 16430
   },
   {
    "date": "2026-11-06",
-   "views": 27440
+   "views": 17176
   },
   {
    "date": "2026-11-07",
-   "views": 28024
+   "views": 18357
   },
   {
    "date": "2026-11-08",
-   "views": 41553
+   "views": 19396
   },
   {
    "date": "2026-11-09",
-   "views": 78704
+   "views": 14209
   },
   {
    "date": "2026-11-10",
-   "views": 122614
+   "views": 14331
   },
   {
    "date": "2026-11-11",
-   "views": 136020
+   "views": 17244
   },
   {
    "date": "2026-11-12",
-   "views": 146689
+   "views": 13598
   },
   {
    "date": "2026-11-13",
-   "views": 171338
+   "views": 13360
+  },
+  {
+   "date": "2026-11-14",
+   "views": 22218
+  },
+  {
+   "date": "2026-11-15",
+   "views": 27876
+  },
+  {
+   "date": "2026-11-16",
+   "views": 93805
   }
  ],
- "wikipedia_title": "List_of_highest-grossing_Indian_films",
+ "wikipedia_title": "John_Malkovich",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }

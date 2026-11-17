@@ -1,196 +1,197 @@
 {
- "title": "Avril Lavigne",
- "slug": "avril-lavigne",
+ "title": "James Bond",
+ "slug": "james-bond",
  "score": 30,
  "status": "Breaking out",
- "change_percent": 796,
- "growth_ratio": 8.96,
- "recent_avg": 44005,
- "baseline_avg": 4909,
- "explanation": "Attention is 9.0\u00d7 its 30-day baseline.",
+ "change_percent": 648,
+ "growth_ratio": 7.48,
+ "recent_avg": 28516,
+ "baseline_avg": 3813,
+ "explanation": "Attention is 7.5\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 39096,
- "latest": 120937,
+ "abs_change": 24703,
+ "latest": 76019,
  "components": {
-  "acceleration": 0.561,
+  "acceleration": 0.514,
   "anomaly": 1.0,
   "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.822,
-  "spike_quality": 0.622
+  "momentum": 0.867,
+  "volume": 0.728,
+  "spike_quality": 0.653
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 44,005 views/day over the last 3 days (30-day baseline: 4,909)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 28,516 views/day over the last 3 days (30-day baseline: 3,813)."
  ],
  "history": [
   {
-   "date": "2026-10-05",
-   "views": 4827
-  },
-  {
-   "date": "2026-10-06",
-   "views": 4842
-  },
-  {
-   "date": "2026-10-07",
-   "views": 4954
-  },
-  {
    "date": "2026-10-08",
-   "views": 4856
+   "views": 2928
   },
   {
    "date": "2026-10-09",
-   "views": 5797
+   "views": 5530
   },
   {
    "date": "2026-10-10",
-   "views": 6436
+   "views": 3353
   },
   {
    "date": "2026-10-11",
-   "views": 5712
+   "views": 3213
   },
   {
    "date": "2026-10-12",
-   "views": 5124
+   "views": 2915
   },
   {
    "date": "2026-10-13",
-   "views": 5067
+   "views": 2667
   },
   {
    "date": "2026-10-14",
-   "views": 6493
+   "views": 2833
   },
   {
    "date": "2026-10-15",
-   "views": 5326
+   "views": 3080
   },
   {
    "date": "2026-10-16",
-   "views": 5227
+   "views": 2872
   },
   {
    "date": "2026-10-17",
-   "views": 5535
+   "views": 3165
   },
   {
    "date": "2026-10-18",
-   "views": 5132
+   "views": 3244
   },
   {
    "date": "2026-10-19",
-   "views": 4416
+   "views": 2806
   },
   {
    "date": "2026-10-20",
-   "views": 4558
+   "views": 2632
   },
   {
    "date": "2026-10-21",
-   "views": 4708
+   "views": 2673
   },
   {
    "date": "2026-10-22",
-   "views": 4744
+   "views": 3094
   },
   {
    "date": "2026-10-23",
-   "views": 4535
+   "views": 4536
   },
   {
    "date": "2026-10-24",
-   "views": 5210
+   "views": 4424
   },
   {
    "date": "2026-10-25",
-   "views": 4768
+   "views": 3920
   },
   {
    "date": "2026-10-26",
-   "views": 4361
+   "views": 3285
   },
   {
    "date": "2026-10-27",
-   "views": 4418
+   "views": 3121
   },
   {
    "date": "2026-10-28",
-   "views": 4624
+   "views": 3098
   },
   {
    "date": "2026-10-29",
-   "views": 4638
+   "views": 3433
   },
   {
    "date": "2026-10-30",
-   "views": 4955
+   "views": 3741
   },
   {
    "date": "2026-10-31",
-   "views": 5042
+   "views": 3348
   },
   {
    "date": "2026-11-01",
-   "views": 5007
+   "views": 3791
   },
   {
    "date": "2026-11-02",
-   "views": 4280
+   "views": 3689
   },
   {
    "date": "2026-11-03",
-   "views": 4373
+   "views": 4422
   },
   {
    "date": "2026-11-04",
-   "views": 4286
+   "views": 3910
   },
   {
    "date": "2026-11-05",
-   "views": 4556
+   "views": 3337
   },
   {
    "date": "2026-11-06",
-   "views": 5027
+   "views": 3529
   },
   {
    "date": "2026-11-07",
-   "views": 5340
+   "views": 5567
   },
   {
    "date": "2026-11-08",
-   "views": 4617
+   "views": 6065
   },
   {
    "date": "2026-11-09",
-   "views": 4394
+   "views": 6086
   },
   {
    "date": "2026-11-10",
-   "views": 6519
+   "views": 4911
   },
   {
    "date": "2026-11-11",
-   "views": 6021
+   "views": 4091
   },
   {
    "date": "2026-11-12",
-   "views": 5057
+   "views": 3958
   },
   {
    "date": "2026-11-13",
-   "views": 120937
+   "views": 4573
+  },
+  {
+   "date": "2026-11-14",
+   "views": 4915
+  },
+  {
+   "date": "2026-11-15",
+   "views": 4614
+  },
+  {
+   "date": "2026-11-16",
+   "views": 76019
   }
  ],
- "wikipedia_title": "Avril_Lavigne",
+ "wikipedia_title": "James_Bond",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-13",
- "generated_at_utc": "2026-11-14T12:27:43+00:00"
+ "data_through": "2026-11-16",
+ "generated_at_utc": "2026-11-17T14:50:32+00:00"
 }
