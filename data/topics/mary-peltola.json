@@ -1,197 +1,198 @@
 {
- "title": "Phil Collins",
- "slug": "phil-collins",
- "score": 43,
- "status": "Elevated",
- "change_percent": 483,
- "growth_ratio": 5.83,
- "recent_avg": 55731,
- "baseline_avg": 9553,
- "explanation": "Attention is 5.8\u00d7 its 30-day baseline.",
+ "title": "Mary Peltola",
+ "slug": "mary-peltola",
+ "score": 29,
+ "status": "Building",
+ "change_percent": 232,
+ "growth_ratio": 3.32,
+ "recent_avg": 57932,
+ "baseline_avg": 17436,
+ "explanation": "Attention is 3.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 46178,
- "latest": 64816,
+ "abs_change": 40496,
+ "latest": 133395,
  "components": {
-  "acceleration": 0.451,
-  "anomaly": 0.699,
-  "persistence": 0.84,
-  "momentum": 0.648,
-  "volume": 0.873,
-  "spike_quality": 0.844
+  "acceleration": 0.307,
+  "anomaly": 0.213,
+  "persistence": 0.52,
+  "momentum": 0.933,
+  "volume": 0.881,
+  "spike_quality": 0.817
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 55,731 views/day over the last 3 days (30-day baseline: 9,553)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 57,932 views/day over the last 3 days (30-day baseline: 17,436)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 6705
-  },
-  {
-   "date": "2026-10-09",
-   "views": 7639
-  },
-  {
    "date": "2026-10-10",
-   "views": 7576
+   "views": 1866
   },
   {
    "date": "2026-10-11",
-   "views": 8387
+   "views": 2025
   },
   {
    "date": "2026-10-12",
-   "views": 6353
+   "views": 2188
   },
   {
    "date": "2026-10-13",
-   "views": 6380
+   "views": 3100
   },
   {
    "date": "2026-10-14",
-   "views": 6489
+   "views": 3375
   },
   {
    "date": "2026-10-15",
-   "views": 5990
+   "views": 6061
   },
   {
    "date": "2026-10-16",
-   "views": 6557
+   "views": 8342
   },
   {
    "date": "2026-10-17",
-   "views": 7533
+   "views": 3983
   },
   {
    "date": "2026-10-18",
-   "views": 7677
+   "views": 2539
   },
   {
    "date": "2026-10-19",
-   "views": 5959
+   "views": 2335
   },
   {
    "date": "2026-10-20",
-   "views": 10027
+   "views": 2270
   },
   {
    "date": "2026-10-21",
-   "views": 10208
+   "views": 4021
   },
   {
    "date": "2026-10-22",
-   "views": 9497
+   "views": 2537
   },
   {
    "date": "2026-10-23",
-   "views": 8084
+   "views": 8635
   },
   {
    "date": "2026-10-24",
-   "views": 7992
+   "views": 6514
   },
   {
    "date": "2026-10-25",
-   "views": 7238
+   "views": 6088
   },
   {
    "date": "2026-10-26",
-   "views": 6745
+   "views": 6716
   },
   {
    "date": "2026-10-27",
-   "views": 6916
+   "views": 5676
   },
   {
    "date": "2026-10-28",
-   "views": 6315
+   "views": 11265
   },
   {
    "date": "2026-10-29",
-   "views": 6721
+   "views": 33911
   },
   {
    "date": "2026-10-30",
-   "views": 7197
+   "views": 22667
   },
   {
    "date": "2026-10-31",
-   "views": 7088
+   "views": 13109
   },
   {
    "date": "2026-11-01",
-   "views": 6624
+   "views": 10625
   },
   {
    "date": "2026-11-02",
-   "views": 6014
+   "views": 11566
   },
   {
    "date": "2026-11-03",
-   "views": 6369
+   "views": 14605
   },
   {
    "date": "2026-11-04",
-   "views": 5807
+   "views": 98275
   },
   {
    "date": "2026-11-05",
-   "views": 6515
+   "views": 47006
   },
   {
    "date": "2026-11-06",
-   "views": 6946
+   "views": 25465
   },
   {
    "date": "2026-11-07",
-   "views": 7561
+   "views": 15218
   },
   {
    "date": "2026-11-08",
-   "views": 8486
+   "views": 11675
   },
   {
    "date": "2026-11-09",
-   "views": 9667
+   "views": 9641
   },
   {
    "date": "2026-11-10",
-   "views": 22244
+   "views": 11914
   },
   {
    "date": "2026-11-11",
-   "views": 13052
+   "views": 16195
   },
   {
    "date": "2026-11-12",
-   "views": 21028
+   "views": 24211
   },
   {
    "date": "2026-11-13",
-   "views": 38519
+   "views": 17027
   },
   {
    "date": "2026-11-14",
-   "views": 26783
+   "views": 43567
   },
   {
    "date": "2026-11-15",
-   "views": 75595
+   "views": 33825
   },
   {
    "date": "2026-11-16",
-   "views": 64816
+   "views": 19863
+  },
+  {
+   "date": "2026-11-17",
+   "views": 20539
+  },
+  {
+   "date": "2026-11-18",
+   "views": 133395
   }
  ],
- "wikipedia_title": "Phil_Collins",
+ "wikipedia_title": "Mary_Peltola",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

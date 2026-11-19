@@ -1,197 +1,197 @@
 {
- "title": "69th Annual Grammy Awards",
- "slug": "69th-annual-grammy-awards",
- "score": 48,
+ "title": "Manni L. Perez",
+ "slug": "manni-l-perez",
+ "score": 49,
  "status": "Breaking out",
- "change_percent": 3113,
- "growth_ratio": 32.12,
- "recent_avg": 32482,
- "baseline_avg": 1011,
- "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "change_percent": 551250,
+ "growth_ratio": 330.81,
+ "recent_avg": 33081,
+ "baseline_avg": 6,
+ "explanation": "Attention is 331\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 31471,
- "latest": 92752,
+ "abs_change": 33075,
+ "latest": 67267,
  "components": {
-  "acceleration": 0.887,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.72,
+  "persistence": 0.4,
   "momentum": 0.933,
-  "volume": 0.756,
-  "spike_quality": 0.562
+  "volume": 0.76,
+  "spike_quality": 0.688
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,482 views/day over the last 3 days (30-day baseline: 1,011)."
+  "Averaging 33,081 views/day over the last 3 days (30-day baseline: 6)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 1414
-  },
-  {
-   "date": "2026-10-09",
-   "views": 1341
-  },
-  {
    "date": "2026-10-10",
-   "views": 1270
+   "views": 6
   },
   {
    "date": "2026-10-11",
-   "views": 1372
+   "views": 4
   },
   {
    "date": "2026-10-12",
-   "views": 2017
+   "views": 3
   },
   {
    "date": "2026-10-13",
-   "views": 2515
+   "views": 1
   },
   {
    "date": "2026-10-14",
-   "views": 1904
+   "views": 5
   },
   {
    "date": "2026-10-15",
-   "views": 1568
+   "views": 7
   },
   {
    "date": "2026-10-16",
-   "views": 1626
+   "views": 5
   },
   {
    "date": "2026-10-17",
-   "views": 1205
+   "views": 8
   },
   {
    "date": "2026-10-18",
-   "views": 1084
+   "views": 2
   },
   {
    "date": "2026-10-19",
-   "views": 1002
+   "views": 3
   },
   {
    "date": "2026-10-20",
-   "views": 983
+   "views": 4
   },
   {
    "date": "2026-10-21",
-   "views": 913
+   "views": 10
   },
   {
    "date": "2026-10-22",
-   "views": 950
+   "views": 6
   },
   {
    "date": "2026-10-23",
-   "views": 886
+   "views": 6
   },
   {
    "date": "2026-10-24",
-   "views": 816
+   "views": 2
   },
   {
    "date": "2026-10-25",
-   "views": 770
+   "views": 17
   },
   {
    "date": "2026-10-26",
-   "views": 873
+   "views": 12
   },
   {
    "date": "2026-10-27",
-   "views": 762
+   "views": 3
   },
   {
    "date": "2026-10-28",
-   "views": 728
+   "views": 3
   },
   {
    "date": "2026-10-29",
-   "views": 672
+   "views": 4
   },
   {
    "date": "2026-10-30",
-   "views": 640
+   "views": 9
   },
   {
    "date": "2026-10-31",
-   "views": 586
+   "views": 4
   },
   {
    "date": "2026-11-01",
-   "views": 723
+   "views": 5
   },
   {
    "date": "2026-11-02",
-   "views": 842
+   "views": 6
   },
   {
    "date": "2026-11-03",
-   "views": 918
+   "views": 3
   },
   {
    "date": "2026-11-04",
-   "views": 872
+   "views": 5
   },
   {
    "date": "2026-11-05",
-   "views": 786
+   "views": 5
   },
   {
    "date": "2026-11-06",
-   "views": 970
+   "views": 1
   },
   {
    "date": "2026-11-07",
-   "views": 960
+   "views": 3
   },
   {
    "date": "2026-11-08",
-   "views": 919
+   "views": 8
   },
   {
    "date": "2026-11-09",
-   "views": 980
+   "views": 3
   },
   {
    "date": "2026-11-10",
-   "views": 1141
+   "views": 4
   },
   {
    "date": "2026-11-11",
-   "views": 1696
+   "views": 14
   },
   {
    "date": "2026-11-12",
-   "views": 1401
+   "views": 17
   },
   {
    "date": "2026-11-13",
-   "views": 2065
+   "views": 4
   },
   {
    "date": "2026-11-14",
-   "views": 2044
+   "views": 9
   },
   {
    "date": "2026-11-15",
-   "views": 2649
+   "views": 8
   },
   {
    "date": "2026-11-16",
-   "views": 92752
+   "views": 6
+  },
+  {
+   "date": "2026-11-17",
+   "views": 31969
+  },
+  {
+   "date": "2026-11-18",
+   "views": 67267
   }
  ],
- "wikipedia_title": "69th_Annual_Grammy_Awards",
+ "wikipedia_title": "Manni_L._Perez",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

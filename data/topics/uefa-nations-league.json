@@ -1,42 +1,34 @@
 {
  "title": "UEFA Nations League",
  "slug": "uefa-nations-league",
- "score": 76,
- "status": "Building",
- "change_percent": 1555,
- "growth_ratio": 16.55,
- "recent_avg": 54548,
- "baseline_avg": 3295,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "score": 30,
+ "status": "Peaked / fading",
+ "change_percent": 799,
+ "growth_ratio": 8.99,
+ "recent_avg": 56516,
+ "baseline_avg": 6285,
+ "explanation": "Attention surged to 9.0\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 51253,
- "latest": 70723,
+ "abs_change": 50231,
+ "latest": 38740,
  "components": {
-  "acceleration": 0.717,
-  "anomaly": 0.922,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.868,
-  "spike_quality": 0.896
+  "acceleration": 0.561,
+  "anomaly": 0.387,
+  "persistence": 0.84,
+  "momentum": 0.395,
+  "volume": 0.876,
+  "spike_quality": 0.724
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 54,548 views/day over the last 3 days (30-day baseline: 3,295)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 56,516 views/day over the last 3 days (30-day baseline: 6,285)."
  ],
  "history": [
-  {
-   "date": "2026-10-08",
-   "views": 8313
-  },
-  {
-   "date": "2026-10-09",
-   "views": 5447
-  },
   {
    "date": "2026-10-10",
    "views": 4425
@@ -188,11 +180,19 @@
   {
    "date": "2026-11-16",
    "views": 70723
+  },
+  {
+   "date": "2026-11-17",
+   "views": 60085
+  },
+  {
+   "date": "2026-11-18",
+   "views": 38740
   }
  ],
  "wikipedia_title": "UEFA_Nations_League",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

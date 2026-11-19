@@ -1,197 +1,198 @@
 {
- "title": "Empress Elisabeth of Austria",
- "slug": "empress-elisabeth-of-austria",
- "score": 50,
- "status": "Elevated",
- "change_percent": 709,
- "growth_ratio": 8.09,
- "recent_avg": 58988,
- "baseline_avg": 7295,
- "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
+ "title": "The Odyssey (2026 film)",
+ "slug": "the-odyssey-2026-film",
+ "score": 53,
+ "status": "Building",
+ "change_percent": 134,
+ "growth_ratio": 2.34,
+ "recent_avg": 70410,
+ "baseline_avg": 30085,
+ "explanation": "Attention is 2.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 51693,
- "latest": 54295,
+ "abs_change": 40325,
+ "latest": 72718,
  "components": {
-  "acceleration": 0.534,
-  "anomaly": 0.706,
-  "persistence": 0.92,
-  "momentum": 0.693,
-  "volume": 0.885,
-  "spike_quality": 0.844
+  "acceleration": 0.217,
+  "anomaly": 0.318,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.924,
+  "spike_quality": 0.978
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 58,988 views/day over the last 3 days (30-day baseline: 7,295)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 70,410 views/day over the last 3 days (30-day baseline: 30,085)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 5149
-  },
-  {
-   "date": "2026-10-09",
-   "views": 4618
-  },
-  {
    "date": "2026-10-10",
-   "views": 4783
+   "views": 32669
   },
   {
    "date": "2026-10-11",
-   "views": 5184
+   "views": 34702
   },
   {
    "date": "2026-10-12",
-   "views": 4914
+   "views": 31111
   },
   {
    "date": "2026-10-13",
-   "views": 4548
+   "views": 27061
   },
   {
    "date": "2026-10-14",
-   "views": 4375
+   "views": 27490
   },
   {
    "date": "2026-10-15",
-   "views": 4285
+   "views": 23762
   },
   {
    "date": "2026-10-16",
-   "views": 4448
+   "views": 23196
   },
   {
    "date": "2026-10-17",
-   "views": 5053
+   "views": 25836
   },
   {
    "date": "2026-10-18",
-   "views": 5316
+   "views": 27162
   },
   {
    "date": "2026-10-19",
-   "views": 4559
+   "views": 25391
   },
   {
    "date": "2026-10-20",
-   "views": 4852
+   "views": 22470
   },
   {
    "date": "2026-10-21",
-   "views": 4640
+   "views": 20946
   },
   {
    "date": "2026-10-22",
-   "views": 4496
+   "views": 20044
   },
   {
    "date": "2026-10-23",
-   "views": 4455
+   "views": 20737
   },
   {
    "date": "2026-10-24",
-   "views": 4924
+   "views": 23033
   },
   {
    "date": "2026-10-25",
-   "views": 5630
+   "views": 24866
   },
   {
    "date": "2026-10-26",
-   "views": 5613
+   "views": 24204
   },
   {
    "date": "2026-10-27",
-   "views": 5839
+   "views": 23447
   },
   {
    "date": "2026-10-28",
-   "views": 5154
+   "views": 21674
   },
   {
    "date": "2026-10-29",
-   "views": 4803
+   "views": 20685
   },
   {
    "date": "2026-10-30",
-   "views": 5616
+   "views": 19876
   },
   {
    "date": "2026-10-31",
-   "views": 5645
+   "views": 21943
   },
   {
    "date": "2026-11-01",
-   "views": 6084
+   "views": 23889
   },
   {
    "date": "2026-11-02",
-   "views": 5557
+   "views": 21578
   },
   {
    "date": "2026-11-03",
-   "views": 5283
+   "views": 19563
   },
   {
    "date": "2026-11-04",
-   "views": 4505
+   "views": 17389
   },
   {
    "date": "2026-11-05",
-   "views": 5228
+   "views": 19721
   },
   {
    "date": "2026-11-06",
-   "views": 5869
+   "views": 22476
   },
   {
    "date": "2026-11-07",
-   "views": 6941
+   "views": 41150
   },
   {
    "date": "2026-11-08",
-   "views": 7985
+   "views": 61624
   },
   {
    "date": "2026-11-09",
-   "views": 7072
+   "views": 54384
   },
   {
    "date": "2026-11-10",
-   "views": 7054
+   "views": 45389
   },
   {
    "date": "2026-11-11",
-   "views": 7615
+   "views": 42392
   },
   {
    "date": "2026-11-12",
-   "views": 20847
+   "views": 42184
   },
   {
    "date": "2026-11-13",
-   "views": 43488
+   "views": 43660
   },
   {
    "date": "2026-11-14",
-   "views": 56618
+   "views": 51825
   },
   {
    "date": "2026-11-15",
-   "views": 66052
+   "views": 53018
   },
   {
    "date": "2026-11-16",
-   "views": 54295
+   "views": 66870
+  },
+  {
+   "date": "2026-11-17",
+   "views": 71643
+  },
+  {
+   "date": "2026-11-18",
+   "views": 72718
   }
  ],
- "wikipedia_title": "Empress_Elisabeth_of_Austria",
+ "wikipedia_title": "The_Odyssey_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

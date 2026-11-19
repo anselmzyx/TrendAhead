@@ -1,197 +1,198 @@
 {
- "title": "Ebenezer (2026 film)",
- "slug": "ebenezer-2026-film",
- "score": 44,
- "status": "Elevated",
- "change_percent": 408,
- "growth_ratio": 5.08,
- "recent_avg": 87871,
- "baseline_avg": 17309,
- "explanation": "Attention is 5.1\u00d7 its 30-day baseline.",
+ "title": "Grand Theft Auto VI",
+ "slug": "grand-theft-auto-vi",
+ "score": 69,
+ "status": "Building",
+ "change_percent": 709,
+ "growth_ratio": 8.09,
+ "recent_avg": 259786,
+ "baseline_avg": 32094,
+ "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 70562,
- "latest": 87439,
+ "abs_change": 227692,
+ "latest": 519632,
  "components": {
-  "acceleration": 0.415,
-  "anomaly": 0.454,
-  "persistence": 0.84,
-  "momentum": 0.668,
-  "volume": 0.972,
-  "spike_quality": 0.907
+  "acceleration": 0.535,
+  "anomaly": 1.0,
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.803
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 87,871 views/day over the last 3 days (30-day baseline: 17,309)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 259,786 views/day over the last 3 days (30-day baseline: 32,094)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 4640
-  },
-  {
-   "date": "2026-10-09",
-   "views": 4784
-  },
-  {
    "date": "2026-10-10",
-   "views": 5647
+   "views": 11323
   },
   {
    "date": "2026-10-11",
-   "views": 5544
+   "views": 11832
   },
   {
    "date": "2026-10-12",
-   "views": 5336
+   "views": 12257
   },
   {
    "date": "2026-10-13",
-   "views": 4417
+   "views": 12997
   },
   {
    "date": "2026-10-14",
-   "views": 4745
+   "views": 14840
   },
   {
    "date": "2026-10-15",
-   "views": 5762
+   "views": 26444
   },
   {
    "date": "2026-10-16",
-   "views": 6935
+   "views": 24167
   },
   {
    "date": "2026-10-17",
-   "views": 6984
+   "views": 18934
   },
   {
    "date": "2026-10-18",
-   "views": 6849
+   "views": 17809
   },
   {
    "date": "2026-10-19",
-   "views": 9484
+   "views": 20011
   },
   {
    "date": "2026-10-20",
-   "views": 7582
+   "views": 19236
   },
   {
    "date": "2026-10-21",
-   "views": 7828
+   "views": 18073
   },
   {
    "date": "2026-10-22",
-   "views": 8039
+   "views": 18007
   },
   {
    "date": "2026-10-23",
-   "views": 8497
+   "views": 16054
   },
   {
    "date": "2026-10-24",
-   "views": 10034
+   "views": 15460
   },
   {
    "date": "2026-10-25",
-   "views": 8921
+   "views": 16864
   },
   {
    "date": "2026-10-26",
-   "views": 11716
+   "views": 17068
   },
   {
    "date": "2026-10-27",
-   "views": 10305
+   "views": 18261
   },
   {
    "date": "2026-10-28",
-   "views": 12620
+   "views": 17894
   },
   {
    "date": "2026-10-29",
-   "views": 11358
+   "views": 21871
   },
   {
    "date": "2026-10-30",
-   "views": 11723
+   "views": 19387
   },
   {
    "date": "2026-10-31",
-   "views": 11325
+   "views": 17007
   },
   {
    "date": "2026-11-01",
-   "views": 18176
+   "views": 21786
   },
   {
    "date": "2026-11-02",
-   "views": 13719
+   "views": 25348
   },
   {
    "date": "2026-11-03",
-   "views": 16452
+   "views": 26490
   },
   {
    "date": "2026-11-04",
-   "views": 13007
+   "views": 25664
   },
   {
    "date": "2026-11-05",
-   "views": 12789
+   "views": 28655
   },
   {
    "date": "2026-11-06",
-   "views": 15911
+   "views": 29530
   },
   {
    "date": "2026-11-07",
-   "views": 18544
+   "views": 28079
   },
   {
    "date": "2026-11-08",
-   "views": 23650
+   "views": 31048
   },
   {
    "date": "2026-11-09",
-   "views": 22799
+   "views": 43270
   },
   {
    "date": "2026-11-10",
-   "views": 38363
+   "views": 64375
   },
   {
    "date": "2026-11-11",
-   "views": 38102
+   "views": 62961
   },
   {
    "date": "2026-11-12",
-   "views": 53175
+   "views": 73739
   },
   {
    "date": "2026-11-13",
-   "views": 78621
+   "views": 74974
   },
   {
    "date": "2026-11-14",
-   "views": 78001
+   "views": 72813
   },
   {
    "date": "2026-11-15",
-   "views": 98174
+   "views": 82149
   },
   {
    "date": "2026-11-16",
-   "views": 87439
+   "views": 106689
+  },
+  {
+   "date": "2026-11-17",
+   "views": 153037
+  },
+  {
+   "date": "2026-11-18",
+   "views": 519632
   }
  ],
- "wikipedia_title": "Ebenezer_(2026_film)",
+ "wikipedia_title": "Grand_Theft_Auto_VI",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

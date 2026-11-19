@@ -1,42 +1,32 @@
 {
  "title": "Kristen Stewart",
  "slug": "kristen-stewart",
- "score": 29,
- "status": "Breaking out",
- "change_percent": 249,
- "growth_ratio": 3.49,
- "recent_avg": 22479,
- "baseline_avg": 6446,
- "explanation": "Attention is 3.5\u00d7 its 30-day baseline.",
+ "score": 33,
+ "status": "Elevated",
+ "change_percent": 690,
+ "growth_ratio": 7.9,
+ "recent_avg": 50974,
+ "baseline_avg": 6450,
+ "explanation": "Attention is 7.9\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 16033,
- "latest": 53125,
+ "abs_change": 44524,
+ "latest": 37587,
  "components": {
-  "acceleration": 0.319,
+  "acceleration": 0.528,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 1.0,
-  "volume": 0.676,
-  "spike_quality": 0.735
+  "persistence": 0.52,
+  "momentum": 0.563,
+  "volume": 0.854,
+  "spike_quality": 0.681
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 22,479 views/day over the last 3 days (30-day baseline: 6,446)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 50,974 views/day over the last 3 days (30-day baseline: 6,450)."
  ],
  "history": [
-  {
-   "date": "2026-10-08",
-   "views": 5931
-  },
-  {
-   "date": "2026-10-09",
-   "views": 5947
-  },
   {
    "date": "2026-10-10",
    "views": 6780
@@ -188,11 +178,19 @@
   {
    "date": "2026-11-16",
    "views": 53125
+  },
+  {
+   "date": "2026-11-17",
+   "views": 62210
+  },
+  {
+   "date": "2026-11-18",
+   "views": 37587
   }
  ],
  "wikipedia_title": "Kristen_Stewart",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

@@ -1,198 +1,196 @@
 {
- "title": "John Malkovich",
- "slug": "john-malkovich",
- "score": 47,
- "status": "Building",
- "change_percent": 393,
- "growth_ratio": 4.93,
- "recent_avg": 47966,
- "baseline_avg": 9729,
- "explanation": "Attention is 4.9\u00d7 its 30-day baseline.",
+ "title": "List of James Bond films",
+ "slug": "list-of-james-bond-films",
+ "score": 37,
+ "status": "Elevated",
+ "change_percent": 732,
+ "growth_ratio": 8.32,
+ "recent_avg": 100299,
+ "baseline_avg": 12061,
+ "explanation": "Attention is 8.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 38237,
- "latest": 93805,
+ "abs_change": 88238,
+ "latest": 73650,
  "components": {
-  "acceleration": 0.408,
-  "anomaly": 0.871,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.84,
-  "spike_quality": 0.813
+  "acceleration": 0.541,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.567,
+  "volume": 1.0,
+  "spike_quality": 0.691
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,966 views/day over the last 3 days (30-day baseline: 9,729)."
+  "Averaging 100,299 views/day over the last 3 days (30-day baseline: 12,061)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 3251
-  },
-  {
-   "date": "2026-10-09",
-   "views": 27915
-  },
-  {
    "date": "2026-10-10",
-   "views": 18487
+   "views": 12799
   },
   {
    "date": "2026-10-11",
-   "views": 10715
+   "views": 12289
   },
   {
    "date": "2026-10-12",
-   "views": 8614
+   "views": 11117
   },
   {
    "date": "2026-10-13",
-   "views": 8019
+   "views": 9929
   },
   {
    "date": "2026-10-14",
-   "views": 5024
+   "views": 9790
   },
   {
    "date": "2026-10-15",
-   "views": 5868
+   "views": 10237
   },
   {
    "date": "2026-10-16",
-   "views": 8307
+   "views": 10100
   },
   {
    "date": "2026-10-17",
-   "views": 8027
+   "views": 12149
   },
   {
    "date": "2026-10-18",
-   "views": 10407
+   "views": 12974
   },
   {
    "date": "2026-10-19",
-   "views": 6908
+   "views": 10187
   },
   {
    "date": "2026-10-20",
-   "views": 6892
+   "views": 9273
   },
   {
    "date": "2026-10-21",
-   "views": 6313
+   "views": 9149
   },
   {
    "date": "2026-10-22",
-   "views": 7001
+   "views": 10584
   },
   {
    "date": "2026-10-23",
-   "views": 6212
+   "views": 13409
   },
   {
    "date": "2026-10-24",
-   "views": 7708
+   "views": 14471
   },
   {
    "date": "2026-10-25",
-   "views": 6987
+   "views": 14166
   },
   {
    "date": "2026-10-26",
-   "views": 5471
+   "views": 11381
   },
   {
    "date": "2026-10-27",
-   "views": 6249
+   "views": 10077
   },
   {
    "date": "2026-10-28",
-   "views": 5642
+   "views": 9936
   },
   {
    "date": "2026-10-29",
-   "views": 4978
+   "views": 9897
   },
   {
    "date": "2026-10-30",
-   "views": 5839
+   "views": 10721
   },
   {
    "date": "2026-10-31",
-   "views": 8015
+   "views": 11261
   },
   {
    "date": "2026-11-01",
-   "views": 8208
+   "views": 13702
   },
   {
    "date": "2026-11-02",
-   "views": 7152
+   "views": 10452
   },
   {
    "date": "2026-11-03",
-   "views": 8500
+   "views": 10565
   },
   {
    "date": "2026-11-04",
-   "views": 7097
+   "views": 10240
   },
   {
    "date": "2026-11-05",
-   "views": 16430
+   "views": 10230
   },
   {
    "date": "2026-11-06",
-   "views": 17176
+   "views": 10812
   },
   {
    "date": "2026-11-07",
-   "views": 18357
+   "views": 15274
   },
   {
    "date": "2026-11-08",
-   "views": 19396
+   "views": 15794
   },
   {
    "date": "2026-11-09",
-   "views": 14209
+   "views": 16008
   },
   {
    "date": "2026-11-10",
-   "views": 14331
+   "views": 13016
   },
   {
    "date": "2026-11-11",
-   "views": 17244
+   "views": 12103
   },
   {
    "date": "2026-11-12",
-   "views": 13598
+   "views": 11319
   },
   {
    "date": "2026-11-13",
-   "views": 13360
+   "views": 12628
   },
   {
    "date": "2026-11-14",
-   "views": 22218
+   "views": 14781
   },
   {
    "date": "2026-11-15",
-   "views": 27876
+   "views": 15271
   },
   {
    "date": "2026-11-16",
-   "views": 93805
+   "views": 106736
+  },
+  {
+   "date": "2026-11-17",
+   "views": 120511
+  },
+  {
+   "date": "2026-11-18",
+   "views": 73650
   }
  ],
- "wikipedia_title": "John_Malkovich",
+ "wikipedia_title": "List_of_James_Bond_films",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

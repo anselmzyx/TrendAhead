@@ -1,197 +1,197 @@
 {
- "title": "Archive of Our Own",
- "slug": "archive-of-our-own",
- "score": 33,
+ "title": "Suki Waterhouse",
+ "slug": "suki-waterhouse",
+ "score": 30,
  "status": "Peaked / fading",
- "change_percent": 1325,
- "growth_ratio": 14.25,
- "recent_avg": 455871,
- "baseline_avg": 31997,
- "explanation": "Attention surged to 14\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "change_percent": 3940,
+ "growth_ratio": 40.4,
+ "recent_avg": 274260,
+ "baseline_avg": 6789,
+ "explanation": "Attention surged to 40\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 423874,
- "latest": 463687,
+ "abs_change": 267471,
+ "latest": 146794,
  "components": {
-  "acceleration": 0.679,
+  "acceleration": 0.945,
   "anomaly": 1.0,
-  "persistence": 0.64,
-  "momentum": 0.457,
+  "persistence": 0.56,
+  "momentum": 0.299,
   "volume": 1.0,
-  "spike_quality": 0.548
+  "spike_quality": 0.52
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 455,871 views/day over the last 3 days (30-day baseline: 31,997)."
+  "Averaging 274,260 views/day over the last 3 days (30-day baseline: 6,789)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 1364
-  },
-  {
-   "date": "2026-10-09",
-   "views": 1306
-  },
-  {
    "date": "2026-10-10",
-   "views": 1306
+   "views": 8091
   },
   {
    "date": "2026-10-11",
-   "views": 1371
+   "views": 7279
   },
   {
    "date": "2026-10-12",
-   "views": 1415
+   "views": 11951
   },
   {
    "date": "2026-10-13",
-   "views": 1441
+   "views": 6208
   },
   {
    "date": "2026-10-14",
-   "views": 1455
+   "views": 5864
   },
   {
    "date": "2026-10-15",
-   "views": 1531
+   "views": 5332
   },
   {
    "date": "2026-10-16",
-   "views": 1913
+   "views": 5733
   },
   {
    "date": "2026-10-17",
-   "views": 1955
+   "views": 6823
   },
   {
    "date": "2026-10-18",
-   "views": 2111
+   "views": 6946
   },
   {
    "date": "2026-10-19",
-   "views": 2070
+   "views": 5181
   },
   {
    "date": "2026-10-20",
-   "views": 1760
+   "views": 4681
   },
   {
    "date": "2026-10-21",
-   "views": 1763
+   "views": 5909
   },
   {
    "date": "2026-10-22",
-   "views": 1631
+   "views": 5311
   },
   {
    "date": "2026-10-23",
-   "views": 1539
+   "views": 5114
   },
   {
    "date": "2026-10-24",
-   "views": 1731
+   "views": 5043
   },
   {
    "date": "2026-10-25",
-   "views": 1795
+   "views": 5271
   },
   {
    "date": "2026-10-26",
-   "views": 1791
+   "views": 4628
   },
   {
    "date": "2026-10-27",
-   "views": 1818
+   "views": 5341
   },
   {
    "date": "2026-10-28",
-   "views": 1691
+   "views": 5701
   },
   {
    "date": "2026-10-29",
-   "views": 27230
+   "views": 4912
   },
   {
    "date": "2026-10-30",
-   "views": 55142
+   "views": 5082
   },
   {
    "date": "2026-10-31",
-   "views": 45549
+   "views": 5658
   },
   {
    "date": "2026-11-01",
-   "views": 43286
+   "views": 7815
   },
   {
    "date": "2026-11-02",
-   "views": 78713
+   "views": 9460
   },
   {
    "date": "2026-11-03",
-   "views": 85012
+   "views": 9057
   },
   {
    "date": "2026-11-04",
-   "views": 78683
+   "views": 6074
   },
   {
    "date": "2026-11-05",
-   "views": 62148
+   "views": 5259
   },
   {
    "date": "2026-11-06",
-   "views": 46593
+   "views": 4875
   },
   {
    "date": "2026-11-07",
-   "views": 37233
+   "views": 12041
   },
   {
    "date": "2026-11-08",
-   "views": 43788
+   "views": 9502
   },
   {
    "date": "2026-11-09",
-   "views": 52047
+   "views": 8583
   },
   {
    "date": "2026-11-10",
-   "views": 36360
+   "views": 7635
   },
   {
    "date": "2026-11-11",
-   "views": 55989
+   "views": 5603
   },
   {
    "date": "2026-11-12",
-   "views": 99746
+   "views": 4986
   },
   {
    "date": "2026-11-13",
-   "views": 87286
+   "views": 11025
   },
   {
    "date": "2026-11-14",
-   "views": 43198
+   "views": 10728
   },
   {
    "date": "2026-11-15",
-   "views": 860729
+   "views": 9432
   },
   {
    "date": "2026-11-16",
-   "views": 463687
+   "views": 378948
+  },
+  {
+   "date": "2026-11-17",
+   "views": 297037
+  },
+  {
+   "date": "2026-11-18",
+   "views": 146794
   }
  ],
- "wikipedia_title": "Archive_of_Our_Own",
+ "wikipedia_title": "Suki_Waterhouse",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

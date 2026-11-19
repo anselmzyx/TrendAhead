@@ -1,198 +1,196 @@
 {
- "title": "The Body (TV series)",
- "slug": "the-body-tv-series",
- "score": 70,
- "status": "Building",
- "change_percent": 1247,
- "growth_ratio": 13.47,
- "recent_avg": 115783,
- "baseline_avg": 8596,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "title": "Mariella Frostrup",
+ "slug": "mariella-frostrup",
+ "score": 50,
+ "status": "Elevated",
+ "change_percent": 6233,
+ "growth_ratio": 63.32,
+ "recent_avg": 58458,
+ "baseline_avg": 923,
+ "explanation": "Attention is 63\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 107187,
- "latest": 136145,
+ "abs_change": 57535,
+ "latest": 59061,
  "components": {
-  "acceleration": 0.665,
-  "anomaly": 0.513,
-  "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 1.0,
-  "spike_quality": 0.941
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.84,
+  "momentum": 0.616,
+  "volume": 0.883,
+  "spike_quality": 0.66
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 115,783 views/day over the last 3 days (30-day baseline: 8,596)."
+  "Averaging 58,458 views/day over the last 3 days (30-day baseline: 923)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 274
-  },
-  {
-   "date": "2026-10-09",
-   "views": 229
-  },
-  {
    "date": "2026-10-10",
-   "views": 246
+   "views": 266
   },
   {
    "date": "2026-10-11",
-   "views": 269
+   "views": 179
   },
   {
    "date": "2026-10-12",
-   "views": 2622
+   "views": 129
   },
   {
    "date": "2026-10-13",
-   "views": 2589
+   "views": 167
   },
   {
    "date": "2026-10-14",
-   "views": 1506
+   "views": 223
   },
   {
    "date": "2026-10-15",
-   "views": 1394
+   "views": 214
   },
   {
    "date": "2026-10-16",
-   "views": 1436
+   "views": 334
   },
   {
    "date": "2026-10-17",
-   "views": 987
+   "views": 215
   },
   {
    "date": "2026-10-18",
-   "views": 1151
+   "views": 139
   },
   {
    "date": "2026-10-19",
-   "views": 1045
+   "views": 166
   },
   {
    "date": "2026-10-20",
-   "views": 706
+   "views": 125
   },
   {
    "date": "2026-10-21",
-   "views": 641
+   "views": 1738
   },
   {
    "date": "2026-10-22",
-   "views": 1959
+   "views": 201
   },
   {
    "date": "2026-10-23",
-   "views": 3553
+   "views": 187
   },
   {
    "date": "2026-10-24",
-   "views": 1503
+   "views": 128
   },
   {
    "date": "2026-10-25",
-   "views": 1464
+   "views": 149
   },
   {
    "date": "2026-10-26",
-   "views": 1049
+   "views": 189
   },
   {
    "date": "2026-10-27",
-   "views": 831
+   "views": 152
   },
   {
    "date": "2026-10-28",
-   "views": 1186
+   "views": 375
   },
   {
    "date": "2026-10-29",
-   "views": 1187
+   "views": 173
   },
   {
    "date": "2026-10-30",
-   "views": 1134
+   "views": 172
   },
   {
    "date": "2026-10-31",
-   "views": 1303
+   "views": 200
   },
   {
    "date": "2026-11-01",
-   "views": 1356
+   "views": 215
   },
   {
    "date": "2026-11-02",
-   "views": 1730
-  },
-  {
-   "date": "2026-11-03",
-   "views": 2408
-  },
-  {
-   "date": "2026-11-04",
-   "views": 1414
-  },
-  {
-   "date": "2026-11-05",
-   "views": 2331
-  },
-  {
-   "date": "2026-11-06",
    "views": 3172
   },
   {
+   "date": "2026-11-03",
+   "views": 1309
+  },
+  {
+   "date": "2026-11-04",
+   "views": 513
+  },
+  {
+   "date": "2026-11-05",
+   "views": 390
+  },
+  {
+   "date": "2026-11-06",
+   "views": 419
+  },
+  {
    "date": "2026-11-07",
-   "views": 3623
+   "views": 378
   },
   {
    "date": "2026-11-08",
-   "views": 3453
+   "views": 396
   },
   {
    "date": "2026-11-09",
-   "views": 3563
+   "views": 461
   },
   {
    "date": "2026-11-10",
-   "views": 4697
+   "views": 1666
   },
   {
    "date": "2026-11-11",
-   "views": 46149
+   "views": 5997
   },
   {
    "date": "2026-11-12",
-   "views": 82122
+   "views": 2821
   },
   {
    "date": "2026-11-13",
-   "views": 79343
+   "views": 1580
   },
   {
    "date": "2026-11-14",
-   "views": 90665
+   "views": 1465
   },
   {
    "date": "2026-11-15",
-   "views": 120538
+   "views": 2606
   },
   {
    "date": "2026-11-16",
-   "views": 136145
+   "views": 31135
+  },
+  {
+   "date": "2026-11-17",
+   "views": 85178
+  },
+  {
+   "date": "2026-11-18",
+   "views": 59061
   }
  ],
- "wikipedia_title": "The_Body_(TV_series)",
+ "wikipedia_title": "Mariella_Frostrup",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

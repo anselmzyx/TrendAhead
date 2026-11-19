@@ -1,197 +1,196 @@
 {
- "title": "Miguel \u00c1ngel F\u00e9lix Gallardo",
- "slug": "miguel-angel-felix-gallardo",
- "score": 45,
+ "title": "Quentin Grimes",
+ "slug": "quentin-grimes",
+ "score": 36,
  "status": "Breaking out",
- "change_percent": 1284,
- "growth_ratio": 13.85,
- "recent_avg": 27934,
- "baseline_avg": 2018,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "change_percent": 2265,
+ "growth_ratio": 23.66,
+ "recent_avg": 23506,
+ "baseline_avg": 994,
+ "explanation": "Attention is 24\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25916,
- "latest": 70590,
+ "abs_change": 22512,
+ "latest": 67780,
  "components": {
-  "acceleration": 0.672,
+  "acceleration": 0.809,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.723,
-  "spike_quality": 0.634
+  "persistence": 0.52,
+  "momentum": 0.8,
+  "volume": 0.686,
+  "spike_quality": 0.55
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,934 views/day over the last 3 days (30-day baseline: 2,018)."
+  "Averaging 23,506 views/day over the last 3 days (30-day baseline: 994)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 1429
-  },
-  {
-   "date": "2026-10-09",
-   "views": 1300
-  },
-  {
    "date": "2026-10-10",
-   "views": 1473
+   "views": 476
   },
   {
    "date": "2026-10-11",
-   "views": 1591
+   "views": 343
   },
   {
    "date": "2026-10-12",
-   "views": 1512
+   "views": 294
   },
   {
    "date": "2026-10-13",
-   "views": 1369
+   "views": 294
   },
   {
    "date": "2026-10-14",
-   "views": 1463
+   "views": 816
   },
   {
    "date": "2026-10-15",
-   "views": 1556
+   "views": 307
   },
   {
    "date": "2026-10-16",
-   "views": 1660
+   "views": 337
   },
   {
    "date": "2026-10-17",
-   "views": 1677
+   "views": 806
   },
   {
    "date": "2026-10-18",
-   "views": 1672
+   "views": 285
   },
   {
    "date": "2026-10-19",
-   "views": 1675
+   "views": 339
   },
   {
    "date": "2026-10-20",
-   "views": 1494
+   "views": 590
   },
   {
    "date": "2026-10-21",
-   "views": 1383
+   "views": 849
   },
   {
    "date": "2026-10-22",
-   "views": 1435
+   "views": 3695
   },
   {
    "date": "2026-10-23",
-   "views": 1325
+   "views": 821
   },
   {
    "date": "2026-10-24",
-   "views": 1356
+   "views": 2496
   },
   {
    "date": "2026-10-25",
-   "views": 1434
+   "views": 823
   },
   {
    "date": "2026-10-26",
-   "views": 1556
+   "views": 750
   },
   {
    "date": "2026-10-27",
-   "views": 1366
+   "views": 397
   },
   {
    "date": "2026-10-28",
-   "views": 1510
+   "views": 1132
   },
   {
    "date": "2026-10-29",
-   "views": 2495
+   "views": 3239
   },
   {
    "date": "2026-10-30",
-   "views": 3006
+   "views": 741
   },
   {
    "date": "2026-10-31",
-   "views": 3352
+   "views": 1171
   },
   {
    "date": "2026-11-01",
-   "views": 3223
+   "views": 377
   },
   {
    "date": "2026-11-02",
-   "views": 3213
+   "views": 856
   },
   {
    "date": "2026-11-03",
-   "views": 2732
+   "views": 842
   },
   {
    "date": "2026-11-04",
-   "views": 2244
+   "views": 535
   },
   {
    "date": "2026-11-05",
-   "views": 2324
+   "views": 720
   },
   {
    "date": "2026-11-06",
-   "views": 2373
+   "views": 325
   },
   {
    "date": "2026-11-07",
-   "views": 2305
+   "views": 858
   },
   {
    "date": "2026-11-08",
-   "views": 2134
+   "views": 824
   },
   {
    "date": "2026-11-09",
-   "views": 2089
+   "views": 1641
   },
   {
    "date": "2026-11-10",
-   "views": 2009
+   "views": 689
   },
   {
    "date": "2026-11-11",
-   "views": 2188
+   "views": 436
   },
   {
    "date": "2026-11-12",
-   "views": 1956
+   "views": 435
   },
   {
    "date": "2026-11-13",
-   "views": 1783
+   "views": 435
   },
   {
    "date": "2026-11-14",
-   "views": 3029
+   "views": 383
   },
   {
    "date": "2026-11-15",
-   "views": 10184
+   "views": 2315
   },
   {
    "date": "2026-11-16",
-   "views": 70590
+   "views": 2050
+  },
+  {
+   "date": "2026-11-17",
+   "views": 689
+  },
+  {
+   "date": "2026-11-18",
+   "views": 67780
   }
  ],
- "wikipedia_title": "Miguel_\u00c1ngel_F\u00e9lix_Gallardo",
+ "wikipedia_title": "Quentin_Grimes",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

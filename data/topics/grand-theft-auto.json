@@ -1,0 +1,198 @@
+{
+ "title": "Grand Theft Auto",
+ "slug": "grand-theft-auto",
+ "score": 67,
+ "status": "Building",
+ "change_percent": 588,
+ "growth_ratio": 6.88,
+ "recent_avg": 61583,
+ "baseline_avg": 8955,
+ "explanation": "Attention is 6.9\u00d7 its 30-day baseline.",
+ "discovery": [
+  "improver"
+ ],
+ "abs_change": 52628,
+ "latest": 110668,
+ "components": {
+  "acceleration": 0.493,
+  "anomaly": 0.911,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.895,
+  "spike_quality": 0.847
+ },
+ "why": [
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 61,583 views/day over the last 3 days (30-day baseline: 8,955)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-10",
+   "views": 4058
+  },
+  {
+   "date": "2026-10-11",
+   "views": 4340
+  },
+  {
+   "date": "2026-10-12",
+   "views": 4202
+  },
+  {
+   "date": "2026-10-13",
+   "views": 4462
+  },
+  {
+   "date": "2026-10-14",
+   "views": 4915
+  },
+  {
+   "date": "2026-10-15",
+   "views": 6305
+  },
+  {
+   "date": "2026-10-16",
+   "views": 7092
+  },
+  {
+   "date": "2026-10-17",
+   "views": 5961
+  },
+  {
+   "date": "2026-10-18",
+   "views": 5587
+  },
+  {
+   "date": "2026-10-19",
+   "views": 5611
+  },
+  {
+   "date": "2026-10-20",
+   "views": 5521
+  },
+  {
+   "date": "2026-10-21",
+   "views": 5828
+  },
+  {
+   "date": "2026-10-22",
+   "views": 6171
+  },
+  {
+   "date": "2026-10-23",
+   "views": 5262
+  },
+  {
+   "date": "2026-10-24",
+   "views": 5276
+  },
+  {
+   "date": "2026-10-25",
+   "views": 5755
+  },
+  {
+   "date": "2026-10-26",
+   "views": 5250
+  },
+  {
+   "date": "2026-10-27",
+   "views": 5263
+  },
+  {
+   "date": "2026-10-28",
+   "views": 5307
+  },
+  {
+   "date": "2026-10-29",
+   "views": 6198
+  },
+  {
+   "date": "2026-10-30",
+   "views": 5306
+  },
+  {
+   "date": "2026-10-31",
+   "views": 4948
+  },
+  {
+   "date": "2026-11-01",
+   "views": 5580
+  },
+  {
+   "date": "2026-11-02",
+   "views": 5965
+  },
+  {
+   "date": "2026-11-03",
+   "views": 6761
+  },
+  {
+   "date": "2026-11-04",
+   "views": 6311
+  },
+  {
+   "date": "2026-11-05",
+   "views": 7652
+  },
+  {
+   "date": "2026-11-06",
+   "views": 8910
+  },
+  {
+   "date": "2026-11-07",
+   "views": 8136
+  },
+  {
+   "date": "2026-11-08",
+   "views": 9180
+  },
+  {
+   "date": "2026-11-09",
+   "views": 10440
+  },
+  {
+   "date": "2026-11-10",
+   "views": 13243
+  },
+  {
+   "date": "2026-11-11",
+   "views": 14681
+  },
+  {
+   "date": "2026-11-12",
+   "views": 18464
+  },
+  {
+   "date": "2026-11-13",
+   "views": 20235
+  },
+  {
+   "date": "2026-11-14",
+   "views": 22605
+  },
+  {
+   "date": "2026-11-15",
+   "views": 27244
+  },
+  {
+   "date": "2026-11-16",
+   "views": 33200
+  },
+  {
+   "date": "2026-11-17",
+   "views": 40881
+  },
+  {
+   "date": "2026-11-18",
+   "views": 110668
+  }
+ ],
+ "wikipedia_title": "Grand_Theft_Auto",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
+}

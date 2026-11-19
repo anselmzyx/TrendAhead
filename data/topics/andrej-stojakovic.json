@@ -1,197 +1,197 @@
 {
- "title": "Palestine national football team",
- "slug": "palestine-national-football-team",
- "score": 45,
+ "title": "Andrej Stojakovi\u0107",
+ "slug": "andrej-stojakovic",
+ "score": 40,
  "status": "Breaking out",
- "change_percent": 9350,
- "growth_ratio": 94.43,
- "recent_avg": 28255,
- "baseline_avg": 299,
- "explanation": "Attention is 94\u00d7 its 30-day baseline.",
+ "change_percent": 12911,
+ "growth_ratio": 130.18,
+ "recent_avg": 32658,
+ "baseline_avg": 251,
+ "explanation": "Attention is 130\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 27956,
- "latest": 83074,
+ "abs_change": 32407,
+ "latest": 97435,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.867,
-  "volume": 0.726,
-  "spike_quality": 0.523
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.757,
+  "spike_quality": 0.509
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 28,255 views/day over the last 3 days (30-day baseline: 299)."
+  "Averaging 32,658 views/day over the last 3 days (30-day baseline: 251)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 611
-  },
-  {
-   "date": "2026-10-09",
-   "views": 471
-  },
-  {
    "date": "2026-10-10",
-   "views": 449
+   "views": 116
   },
   {
    "date": "2026-10-11",
-   "views": 402
+   "views": 175
   },
   {
    "date": "2026-10-12",
-   "views": 344
+   "views": 109
   },
   {
    "date": "2026-10-13",
-   "views": 338
+   "views": 93
   },
   {
    "date": "2026-10-14",
-   "views": 335
+   "views": 114
   },
   {
    "date": "2026-10-15",
-   "views": 352
+   "views": 132
   },
   {
    "date": "2026-10-16",
-   "views": 332
+   "views": 121
   },
   {
    "date": "2026-10-17",
-   "views": 295
+   "views": 115
   },
   {
    "date": "2026-10-18",
-   "views": 283
+   "views": 140
   },
   {
    "date": "2026-10-19",
-   "views": 265
+   "views": 169
   },
   {
    "date": "2026-10-20",
-   "views": 287
+   "views": 144
   },
   {
    "date": "2026-10-21",
-   "views": 283
+   "views": 145
   },
   {
    "date": "2026-10-22",
-   "views": 290
+   "views": 148
   },
   {
    "date": "2026-10-23",
-   "views": 269
+   "views": 108
   },
   {
    "date": "2026-10-24",
-   "views": 269
+   "views": 168
   },
   {
    "date": "2026-10-25",
-   "views": 218
+   "views": 79
   },
   {
    "date": "2026-10-26",
-   "views": 234
+   "views": 109
   },
   {
    "date": "2026-10-27",
-   "views": 246
+   "views": 101
   },
   {
    "date": "2026-10-28",
-   "views": 307
+   "views": 130
   },
   {
    "date": "2026-10-29",
-   "views": 232
+   "views": 112
   },
   {
    "date": "2026-10-30",
-   "views": 223
+   "views": 119
   },
   {
    "date": "2026-10-31",
-   "views": 198
+   "views": 108
   },
   {
    "date": "2026-11-01",
-   "views": 224
+   "views": 121
   },
   {
    "date": "2026-11-02",
-   "views": 228
+   "views": 348
   },
   {
    "date": "2026-11-03",
-   "views": 355
+   "views": 677
   },
   {
    "date": "2026-11-04",
-   "views": 287
+   "views": 217
   },
   {
    "date": "2026-11-05",
-   "views": 335
+   "views": 189
   },
   {
    "date": "2026-11-06",
-   "views": 336
+   "views": 1102
   },
   {
    "date": "2026-11-07",
-   "views": 305
+   "views": 404
   },
   {
    "date": "2026-11-08",
-   "views": 294
+   "views": 240
   },
   {
    "date": "2026-11-09",
-   "views": 314
+   "views": 225
   },
   {
    "date": "2026-11-10",
-   "views": 360
+   "views": 276
   },
   {
    "date": "2026-11-11",
-   "views": 408
+   "views": 809
   },
   {
    "date": "2026-11-12",
-   "views": 439
+   "views": 193
   },
   {
    "date": "2026-11-13",
-   "views": 508
+   "views": 133
   },
   {
    "date": "2026-11-14",
-   "views": 1084
+   "views": 433
   },
   {
    "date": "2026-11-15",
-   "views": 606
+   "views": 264
   },
   {
    "date": "2026-11-16",
-   "views": 83074
+   "views": 213
+  },
+  {
+   "date": "2026-11-17",
+   "views": 326
+  },
+  {
+   "date": "2026-11-18",
+   "views": 97435
   }
  ],
- "wikipedia_title": "Palestine_national_football_team",
+ "wikipedia_title": "Andrej_Stojakovi\u0107",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

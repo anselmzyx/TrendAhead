@@ -1,196 +1,198 @@
 {
- "title": "John Mulaney",
- "slug": "john-mulaney",
- "score": 33,
- "status": "Elevated",
- "change_percent": 1233,
- "growth_ratio": 13.33,
- "recent_avg": 51503,
- "baseline_avg": 3864,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "title": "Crimean Bridge",
+ "slug": "crimean-bridge",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 23645,
+ "growth_ratio": 238.05,
+ "recent_avg": 31343,
+ "baseline_avg": 132,
+ "explanation": "Attention surged to 238\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 47639,
- "latest": 56515,
+ "abs_change": 31211,
+ "latest": 24361,
  "components": {
-  "acceleration": 0.662,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.579,
-  "volume": 0.856,
-  "spike_quality": 0.599
+  "momentum": 0.429,
+  "volume": 0.748,
+  "spike_quality": 0.381
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 51,503 views/day over the last 3 days (30-day baseline: 3,864)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 31,343 views/day over the last 3 days (30-day baseline: 132)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 2400
-  },
-  {
-   "date": "2026-10-09",
-   "views": 2518
-  },
-  {
    "date": "2026-10-10",
-   "views": 2715
+   "views": 137
   },
   {
    "date": "2026-10-11",
-   "views": 3065
+   "views": 157
   },
   {
    "date": "2026-10-12",
-   "views": 2674
+   "views": 169
   },
   {
    "date": "2026-10-13",
-   "views": 2765
+   "views": 167
   },
   {
    "date": "2026-10-14",
-   "views": 2971
+   "views": 147
   },
   {
    "date": "2026-10-15",
-   "views": 2793
+   "views": 152
   },
   {
    "date": "2026-10-16",
-   "views": 2801
+   "views": 140
   },
   {
    "date": "2026-10-17",
-   "views": 3225
+   "views": 115
   },
   {
    "date": "2026-10-18",
-   "views": 3410
+   "views": 110
   },
   {
    "date": "2026-10-19",
-   "views": 3031
+   "views": 170
   },
   {
    "date": "2026-10-20",
-   "views": 2600
+   "views": 133
   },
   {
    "date": "2026-10-21",
-   "views": 5737
+   "views": 185
   },
   {
    "date": "2026-10-22",
-   "views": 6555
+   "views": 143
   },
   {
    "date": "2026-10-23",
-   "views": 4790
+   "views": 140
   },
   {
    "date": "2026-10-24",
-   "views": 4786
+   "views": 158
   },
   {
    "date": "2026-10-25",
-   "views": 4573
+   "views": 138
   },
   {
    "date": "2026-10-26",
-   "views": 3314
+   "views": 129
   },
   {
    "date": "2026-10-27",
-   "views": 3361
+   "views": 178
   },
   {
    "date": "2026-10-28",
-   "views": 3028
+   "views": 117
   },
   {
    "date": "2026-10-29",
-   "views": 2986
+   "views": 134
   },
   {
    "date": "2026-10-30",
-   "views": 2602
+   "views": 116
   },
   {
    "date": "2026-10-31",
-   "views": 2408
+   "views": 126
   },
   {
    "date": "2026-11-01",
-   "views": 3125
+   "views": 110
   },
   {
    "date": "2026-11-02",
-   "views": 2894
+   "views": 132
   },
   {
    "date": "2026-11-03",
-   "views": 5108
+   "views": 110
   },
   {
    "date": "2026-11-04",
-   "views": 3030
+   "views": 102
   },
   {
    "date": "2026-11-05",
-   "views": 2929
+   "views": 134
   },
   {
    "date": "2026-11-06",
-   "views": 3010
+   "views": 126
   },
   {
    "date": "2026-11-07",
-   "views": 3455
+   "views": 93
   },
   {
    "date": "2026-11-08",
-   "views": 6088
+   "views": 111
   },
   {
    "date": "2026-11-09",
-   "views": 4712
+   "views": 145
   },
   {
    "date": "2026-11-10",
-   "views": 3329
+   "views": 135
   },
   {
    "date": "2026-11-11",
-   "views": 4817
+   "views": 123
   },
   {
    "date": "2026-11-12",
-   "views": 5693
+   "views": 126
   },
   {
    "date": "2026-11-13",
-   "views": 5734
+   "views": 131
   },
   {
    "date": "2026-11-14",
-   "views": 8527
+   "views": 126
   },
   {
    "date": "2026-11-15",
-   "views": 89468
+   "views": 154
   },
   {
    "date": "2026-11-16",
-   "views": 56515
+   "views": 5913
+  },
+  {
+   "date": "2026-11-17",
+   "views": 63755
+  },
+  {
+   "date": "2026-11-18",
+   "views": 24361
   }
  ],
- "wikipedia_title": "John_Mulaney",
+ "wikipedia_title": "Crimean_Bridge",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

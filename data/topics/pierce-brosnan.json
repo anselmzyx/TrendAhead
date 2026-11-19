@@ -1,196 +1,197 @@
 {
- "title": "Ronaldinho",
- "slug": "ronaldinho",
- "score": 40,
- "status": "Elevated",
- "change_percent": 841,
- "growth_ratio": 9.41,
- "recent_avg": 43487,
- "baseline_avg": 4620,
- "explanation": "Attention is 9.4\u00d7 its 30-day baseline.",
+ "title": "Pierce Brosnan",
+ "slug": "pierce-brosnan",
+ "score": 30,
+ "status": "Peaked / fading",
+ "change_percent": 347,
+ "growth_ratio": 4.47,
+ "recent_avg": 53850,
+ "baseline_avg": 12058,
+ "explanation": "Attention surged to 4.5\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 38867,
- "latest": 47745,
+ "abs_change": 41792,
+ "latest": 35870,
  "components": {
-  "acceleration": 0.573,
+  "acceleration": 0.383,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.636,
-  "volume": 0.819,
-  "spike_quality": 0.695
+  "persistence": 0.52,
+  "momentum": 0.527,
+  "volume": 0.866,
+  "spike_quality": 0.675
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 43,487 views/day over the last 3 days (30-day baseline: 4,620)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 53,850 views/day over the last 3 days (30-day baseline: 12,058)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 4091
-  },
-  {
-   "date": "2026-10-09",
-   "views": 3858
-  },
-  {
    "date": "2026-10-10",
-   "views": 4008
+   "views": 13157
   },
   {
    "date": "2026-10-11",
-   "views": 3672
+   "views": 13398
   },
   {
    "date": "2026-10-12",
-   "views": 3319
+   "views": 12587
   },
   {
    "date": "2026-10-13",
-   "views": 3527
+   "views": 11564
   },
   {
    "date": "2026-10-14",
-   "views": 3580
+   "views": 8571
   },
   {
    "date": "2026-10-15",
-   "views": 3527
+   "views": 8405
   },
   {
    "date": "2026-10-16",
-   "views": 3527
+   "views": 10243
   },
   {
    "date": "2026-10-17",
-   "views": 3727
+   "views": 11840
   },
   {
    "date": "2026-10-18",
-   "views": 3713
+   "views": 13813
   },
   {
    "date": "2026-10-19",
-   "views": 3384
+   "views": 10073
   },
   {
    "date": "2026-10-20",
-   "views": 3819
+   "views": 8782
   },
   {
    "date": "2026-10-21",
-   "views": 3477
+   "views": 9200
   },
   {
    "date": "2026-10-22",
-   "views": 3431
+   "views": 9916
   },
   {
    "date": "2026-10-23",
-   "views": 4251
+   "views": 11869
   },
   {
    "date": "2026-10-24",
-   "views": 5094
+   "views": 14114
   },
   {
    "date": "2026-10-25",
-   "views": 4876
+   "views": 12413
   },
   {
    "date": "2026-10-26",
-   "views": 5651
+   "views": 15852
   },
   {
    "date": "2026-10-27",
-   "views": 6278
+   "views": 11817
   },
   {
    "date": "2026-10-28",
-   "views": 5011
+   "views": 9266
   },
   {
    "date": "2026-10-29",
-   "views": 6458
+   "views": 9893
   },
   {
    "date": "2026-10-30",
-   "views": 5325
+   "views": 11741
   },
   {
    "date": "2026-10-31",
-   "views": 5038
+   "views": 12142
   },
   {
    "date": "2026-11-01",
-   "views": 4899
+   "views": 13594
   },
   {
    "date": "2026-11-02",
-   "views": 4161
+   "views": 11215
   },
   {
    "date": "2026-11-03",
-   "views": 4279
+   "views": 9806
   },
   {
    "date": "2026-11-04",
-   "views": 4309
+   "views": 12863
   },
   {
    "date": "2026-11-05",
-   "views": 4902
+   "views": 13197
   },
   {
    "date": "2026-11-06",
-   "views": 4380
+   "views": 12182
   },
   {
    "date": "2026-11-07",
-   "views": 4500
+   "views": 15320
   },
   {
    "date": "2026-11-08",
-   "views": 4358
+   "views": 14652
   },
   {
    "date": "2026-11-09",
-   "views": 4080
+   "views": 13763
   },
   {
    "date": "2026-11-10",
-   "views": 3785
+   "views": 11449
   },
   {
    "date": "2026-11-11",
-   "views": 5224
+   "views": 10747
   },
   {
    "date": "2026-11-12",
-   "views": 5816
+   "views": 10320
   },
   {
    "date": "2026-11-13",
-   "views": 7314
+   "views": 11814
   },
   {
    "date": "2026-11-14",
-   "views": 16982
+   "views": 13826
   },
   {
    "date": "2026-11-15",
-   "views": 65734
+   "views": 14254
   },
   {
    "date": "2026-11-16",
-   "views": 47745
+   "views": 59946
+  },
+  {
+   "date": "2026-11-17",
+   "views": 65735
+  },
+  {
+   "date": "2026-11-18",
+   "views": 35870
   }
  ],
- "wikipedia_title": "Ronaldinho",
+ "wikipedia_title": "Pierce_Brosnan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

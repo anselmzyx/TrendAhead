@@ -1,197 +1,197 @@
 {
- "title": "James Trafford",
- "slug": "james-trafford",
- "score": 43,
- "status": "Elevated",
- "change_percent": 2854,
- "growth_ratio": 29.53,
- "recent_avg": 45366,
- "baseline_avg": 1536,
- "explanation": "Attention is 30\u00d7 its 30-day baseline.",
+ "title": "Daniel Craig",
+ "slug": "daniel-craig",
+ "score": 27,
+ "status": "Peaked / fading",
+ "change_percent": 974,
+ "growth_ratio": 10.74,
+ "recent_avg": 86482,
+ "baseline_avg": 8049,
+ "explanation": "Attention surged to 11\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 43830,
- "latest": 66321,
+ "abs_change": 78433,
+ "latest": 50126,
  "components": {
-  "acceleration": 0.865,
+  "acceleration": 0.607,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.712,
-  "volume": 0.828,
-  "spike_quality": 0.783
+  "persistence": 0.44,
+  "momentum": 0.346,
+  "volume": 0.968,
+  "spike_quality": 0.602
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 45,366 views/day over the last 3 days (30-day baseline: 1,536)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 86,482 views/day over the last 3 days (30-day baseline: 8,049)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 645
-  },
-  {
-   "date": "2026-10-09",
-   "views": 550
-  },
-  {
    "date": "2026-10-10",
-   "views": 4804
+   "views": 7786
   },
   {
    "date": "2026-10-11",
-   "views": 1240
+   "views": 7144
   },
   {
    "date": "2026-10-12",
-   "views": 854
+   "views": 6288
   },
   {
    "date": "2026-10-13",
-   "views": 1679
+   "views": 7233
   },
   {
    "date": "2026-10-14",
-   "views": 1040
+   "views": 9875
   },
   {
    "date": "2026-10-15",
-   "views": 685
+   "views": 8641
   },
   {
    "date": "2026-10-16",
-   "views": 592
+   "views": 7317
   },
   {
    "date": "2026-10-17",
-   "views": 794
+   "views": 8054
   },
   {
    "date": "2026-10-18",
-   "views": 4797
+   "views": 7746
   },
   {
    "date": "2026-10-19",
-   "views": 881
+   "views": 6150
   },
   {
    "date": "2026-10-20",
-   "views": 568
+   "views": 5807
   },
   {
    "date": "2026-10-21",
-   "views": 470
+   "views": 5277
   },
   {
    "date": "2026-10-22",
-   "views": 342
+   "views": 6560
   },
   {
    "date": "2026-10-23",
-   "views": 370
+   "views": 9816
   },
   {
    "date": "2026-10-24",
-   "views": 858
+   "views": 10132
   },
   {
    "date": "2026-10-25",
-   "views": 5165
+   "views": 11423
   },
   {
    "date": "2026-10-26",
-   "views": 1666
+   "views": 10412
   },
   {
    "date": "2026-10-27",
-   "views": 929
+   "views": 9616
   },
   {
    "date": "2026-10-28",
-   "views": 834
+   "views": 6399
   },
   {
    "date": "2026-10-29",
-   "views": 815
+   "views": 6789
   },
   {
    "date": "2026-10-30",
-   "views": 688
+   "views": 6567
   },
   {
    "date": "2026-10-31",
-   "views": 1135
+   "views": 6974
   },
   {
    "date": "2026-11-01",
-   "views": 777
+   "views": 7975
   },
   {
    "date": "2026-11-02",
-   "views": 537
+   "views": 6671
   },
   {
    "date": "2026-11-03",
-   "views": 371
+   "views": 7227
   },
   {
    "date": "2026-11-04",
-   "views": 450
+   "views": 6862
   },
   {
    "date": "2026-11-05",
-   "views": 603
+   "views": 6898
   },
   {
    "date": "2026-11-06",
-   "views": 1407
+   "views": 6633
   },
   {
    "date": "2026-11-07",
-   "views": 10141
+   "views": 10437
   },
   {
    "date": "2026-11-08",
-   "views": 2519
+   "views": 9726
   },
   {
    "date": "2026-11-09",
-   "views": 1445
+   "views": 10369
   },
   {
    "date": "2026-11-10",
-   "views": 1074
+   "views": 8602
   },
   {
    "date": "2026-11-11",
-   "views": 2469
+   "views": 7028
   },
   {
    "date": "2026-11-12",
-   "views": 1726
+   "views": 6796
   },
   {
    "date": "2026-11-13",
-   "views": 980
+   "views": 8856
   },
   {
    "date": "2026-11-14",
-   "views": 956
+   "views": 10031
   },
   {
    "date": "2026-11-15",
-   "views": 68822
+   "views": 9629
   },
   {
    "date": "2026-11-16",
-   "views": 66321
+   "views": 107838
+  },
+  {
+   "date": "2026-11-17",
+   "views": 101483
+  },
+  {
+   "date": "2026-11-18",
+   "views": 50126
   }
  ],
- "wikipedia_title": "James_Trafford",
+ "wikipedia_title": "Daniel_Craig",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

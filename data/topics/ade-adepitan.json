@@ -1,198 +1,197 @@
 {
- "title": "Sara Boustany",
- "slug": "sara-boustany",
- "score": 78,
+ "title": "Ade Adepitan",
+ "slug": "ade-adepitan",
+ "score": 62,
  "status": "Building",
- "change_percent": 2387,
- "growth_ratio": 24.87,
- "recent_avg": 61904,
- "baseline_avg": 2489,
- "explanation": "Attention is 25\u00d7 its 30-day baseline.",
+ "change_percent": 3442,
+ "growth_ratio": 35.42,
+ "recent_avg": 57879,
+ "baseline_avg": 1634,
+ "explanation": "Attention is 35\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 59415,
- "latest": 70797,
+ "abs_change": 56245,
+ "latest": 62084,
  "components": {
-  "acceleration": 0.822,
-  "anomaly": 0.745,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.896,
-  "spike_quality": 0.925
+  "acceleration": 0.912,
+  "anomaly": 1.0,
+  "persistence": 0.84,
+  "momentum": 0.731,
+  "volume": 0.881,
+  "spike_quality": 0.82
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,904 views/day over the last 3 days (30-day baseline: 2,489)."
+  "Averaging 57,879 views/day over the last 3 days (30-day baseline: 1,634)."
  ],
  "history": [
   {
-   "date": "2026-10-08",
-   "views": 0
-  },
-  {
-   "date": "2026-10-09",
-   "views": 0
-  },
-  {
    "date": "2026-10-10",
-   "views": 0
+   "views": 126
   },
   {
    "date": "2026-10-11",
-   "views": 0
+   "views": 88
   },
   {
    "date": "2026-10-12",
-   "views": 0
+   "views": 98
   },
   {
    "date": "2026-10-13",
-   "views": 0
+   "views": 93
   },
   {
    "date": "2026-10-14",
-   "views": 0
+   "views": 118
   },
   {
    "date": "2026-10-15",
-   "views": 0
+   "views": 99
   },
   {
    "date": "2026-10-16",
-   "views": 0
+   "views": 132
   },
   {
    "date": "2026-10-17",
-   "views": 0
+   "views": 155
   },
   {
    "date": "2026-10-18",
-   "views": 0
+   "views": 349
   },
   {
    "date": "2026-10-19",
-   "views": 0
+   "views": 394
   },
   {
    "date": "2026-10-20",
-   "views": 0
+   "views": 271
   },
   {
    "date": "2026-10-21",
-   "views": 0
+   "views": 201
   },
   {
    "date": "2026-10-22",
-   "views": 0
+   "views": 459
   },
   {
    "date": "2026-10-23",
-   "views": 0
+   "views": 251
   },
   {
    "date": "2026-10-24",
-   "views": 0
+   "views": 204
   },
   {
    "date": "2026-10-25",
-   "views": 0
+   "views": 186
   },
   {
    "date": "2026-10-26",
-   "views": 0
+   "views": 164
   },
   {
    "date": "2026-10-27",
-   "views": 0
+   "views": 283
   },
   {
    "date": "2026-10-28",
-   "views": 0
+   "views": 190
   },
   {
    "date": "2026-10-29",
-   "views": 0
+   "views": 144
   },
   {
    "date": "2026-10-30",
-   "views": 0
+   "views": 254
   },
   {
    "date": "2026-10-31",
-   "views": 0
+   "views": 219
   },
   {
    "date": "2026-11-01",
-   "views": 0
+   "views": 217
   },
   {
    "date": "2026-11-02",
-   "views": 0
+   "views": 3227
   },
   {
    "date": "2026-11-03",
-   "views": 0
+   "views": 1670
   },
   {
    "date": "2026-11-04",
-   "views": 0
+   "views": 800
   },
   {
    "date": "2026-11-05",
-   "views": 0
+   "views": 575
   },
   {
    "date": "2026-11-06",
-   "views": 0
+   "views": 467
   },
   {
    "date": "2026-11-07",
-   "views": 0
+   "views": 436
   },
   {
    "date": "2026-11-08",
-   "views": 0
+   "views": 426
   },
   {
    "date": "2026-11-09",
-   "views": 0
+   "views": 1103
   },
   {
    "date": "2026-11-10",
-   "views": 0
+   "views": 3090
   },
   {
    "date": "2026-11-11",
-   "views": 12437
+   "views": 8813
   },
   {
    "date": "2026-11-12",
-   "views": 30186
+   "views": 5330
   },
   {
    "date": "2026-11-13",
-   "views": 32045
+   "views": 7716
   },
   {
    "date": "2026-11-14",
-   "views": 45151
+   "views": 4965
   },
   {
    "date": "2026-11-15",
-   "views": 69765
+   "views": 6463
   },
   {
    "date": "2026-11-16",
-   "views": 70797
+   "views": 41464
+  },
+  {
+   "date": "2026-11-17",
+   "views": 70088
+  },
+  {
+   "date": "2026-11-18",
+   "views": 62084
   }
  ],
- "wikipedia_title": "Sara_Boustany",
+ "wikipedia_title": "Ade_Adepitan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }

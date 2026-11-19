@@ -1,40 +1,33 @@
 {
  "title": "Lizzy Pattinson",
  "slug": "lizzy-pattinson",
- "score": 41,
- "status": "Breaking out",
- "change_percent": 3142,
- "growth_ratio": 32.42,
- "recent_avg": 26716,
- "baseline_avg": 824,
- "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "score": 27,
+ "status": "Peaked / fading",
+ "change_percent": 5720,
+ "growth_ratio": 58.23,
+ "recent_avg": 52673,
+ "baseline_avg": 905,
+ "explanation": "Attention surged to 58\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25892,
- "latest": 76545,
+ "abs_change": 51768,
+ "latest": 24394,
  "components": {
-  "acceleration": 0.889,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.64,
-  "momentum": 0.8,
-  "volume": 0.713,
-  "spike_quality": 0.558
+  "persistence": 0.68,
+  "momentum": 0.258,
+  "volume": 0.861,
+  "spike_quality": 0.471
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 26,716 views/day over the last 3 days (30-day baseline: 824)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 52,673 views/day over the last 3 days (30-day baseline: 905)."
  ],
  "history": [
-  {
-   "date": "2026-10-08",
-   "views": 662
-  },
-  {
-   "date": "2026-10-09",
-   "views": 584
-  },
   {
    "date": "2026-10-10",
    "views": 698
@@ -186,11 +179,19 @@
   {
    "date": "2026-11-16",
    "views": 76545
+  },
+  {
+   "date": "2026-11-17",
+   "views": 57081
+  },
+  {
+   "date": "2026-11-18",
+   "views": 24394
   }
  ],
  "wikipedia_title": "Lizzy_Pattinson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-16",
- "generated_at_utc": "2026-11-17T14:50:32+00:00"
+ "data_through": "2026-11-18",
+ "generated_at_utc": "2026-11-19T14:39:37+00:00"
 }
