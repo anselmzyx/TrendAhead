@@ -1,197 +1,198 @@
 {
- "title": "Suki Waterhouse",
- "slug": "suki-waterhouse",
- "score": 30,
- "status": "Peaked / fading",
- "change_percent": 3940,
- "growth_ratio": 40.4,
- "recent_avg": 274260,
- "baseline_avg": 6789,
- "explanation": "Attention surged to 40\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Anthropic",
+ "slug": "anthropic",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 437,
+ "growth_ratio": 5.37,
+ "recent_avg": 50122,
+ "baseline_avg": 9327,
+ "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 267471,
- "latest": 146794,
+ "abs_change": 40795,
+ "latest": 112202,
  "components": {
-  "acceleration": 0.945,
+  "acceleration": 0.43,
   "anomaly": 1.0,
-  "persistence": 0.56,
-  "momentum": 0.299,
-  "volume": 1.0,
-  "spike_quality": 0.52
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.85,
+  "spike_quality": 0.747
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 274,260 views/day over the last 3 days (30-day baseline: 6,789)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 50,122 views/day over the last 3 days (30-day baseline: 9,327)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 8091
-  },
-  {
    "date": "2026-10-11",
-   "views": 7279
+   "views": 5320
   },
   {
    "date": "2026-10-12",
-   "views": 11951
+   "views": 6408
   },
   {
    "date": "2026-10-13",
-   "views": 6208
+   "views": 7212
   },
   {
    "date": "2026-10-14",
-   "views": 5864
+   "views": 7738
   },
   {
    "date": "2026-10-15",
-   "views": 5332
+   "views": 7993
   },
   {
    "date": "2026-10-16",
-   "views": 5733
+   "views": 6516
   },
   {
    "date": "2026-10-17",
-   "views": 6823
+   "views": 5549
   },
   {
    "date": "2026-10-18",
-   "views": 6946
+   "views": 5389
   },
   {
    "date": "2026-10-19",
-   "views": 5181
+   "views": 7583
   },
   {
    "date": "2026-10-20",
-   "views": 4681
+   "views": 7906
   },
   {
    "date": "2026-10-21",
-   "views": 5909
+   "views": 9647
   },
   {
    "date": "2026-10-22",
-   "views": 5311
+   "views": 7553
   },
   {
    "date": "2026-10-23",
-   "views": 5114
+   "views": 6267
   },
   {
    "date": "2026-10-24",
-   "views": 5043
+   "views": 5226
   },
   {
    "date": "2026-10-25",
-   "views": 5271
+   "views": 5080
   },
   {
    "date": "2026-10-26",
-   "views": 4628
+   "views": 19228
   },
   {
    "date": "2026-10-27",
-   "views": 5341
+   "views": 20329
   },
   {
    "date": "2026-10-28",
-   "views": 5701
+   "views": 12319
   },
   {
    "date": "2026-10-29",
-   "views": 4912
+   "views": 10278
   },
   {
    "date": "2026-10-30",
-   "views": 5082
+   "views": 9360
   },
   {
    "date": "2026-10-31",
-   "views": 5658
+   "views": 7776
   },
   {
    "date": "2026-11-01",
-   "views": 7815
+   "views": 6587
   },
   {
    "date": "2026-11-02",
-   "views": 9460
+   "views": 8845
   },
   {
    "date": "2026-11-03",
-   "views": 9057
+   "views": 8931
   },
   {
    "date": "2026-11-04",
-   "views": 6074
+   "views": 7188
   },
   {
    "date": "2026-11-05",
-   "views": 5259
+   "views": 6818
   },
   {
    "date": "2026-11-06",
-   "views": 4875
+   "views": 6690
   },
   {
    "date": "2026-11-07",
-   "views": 12041
+   "views": 5029
   },
   {
    "date": "2026-11-08",
-   "views": 9502
+   "views": 4759
   },
   {
    "date": "2026-11-09",
-   "views": 8583
+   "views": 6523
   },
   {
    "date": "2026-11-10",
-   "views": 7635
+   "views": 13867
   },
   {
    "date": "2026-11-11",
-   "views": 5603
+   "views": 13634
   },
   {
    "date": "2026-11-12",
-   "views": 4986
+   "views": 12690
   },
   {
    "date": "2026-11-13",
-   "views": 11025
+   "views": 12116
   },
   {
    "date": "2026-11-14",
-   "views": 10728
+   "views": 8867
   },
   {
    "date": "2026-11-15",
-   "views": 9432
+   "views": 10312
   },
   {
    "date": "2026-11-16",
-   "views": 378948
+   "views": 13018
   },
   {
    "date": "2026-11-17",
-   "views": 297037
+   "views": 14484
   },
   {
    "date": "2026-11-18",
-   "views": 146794
+   "views": 23680
+  },
+  {
+   "date": "2026-11-19",
+   "views": 112202
   }
  ],
- "wikipedia_title": "Suki_Waterhouse",
+ "wikipedia_title": "Anthropic",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

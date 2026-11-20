@@ -1,198 +1,198 @@
 {
- "title": "Mary Peltola",
- "slug": "mary-peltola",
- "score": 29,
- "status": "Building",
- "change_percent": 232,
- "growth_ratio": 3.32,
- "recent_avg": 57932,
- "baseline_avg": 17436,
- "explanation": "Attention is 3.3\u00d7 its 30-day baseline.",
+ "title": "Dario Amodei",
+ "slug": "dario-amodei",
+ "score": 54,
+ "status": "Breaking out",
+ "change_percent": 485,
+ "growth_ratio": 5.85,
+ "recent_avg": 72913,
+ "baseline_avg": 12456,
+ "explanation": "Attention is 5.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 40496,
- "latest": 133395,
+ "abs_change": 60457,
+ "latest": 167998,
  "components": {
-  "acceleration": 0.307,
-  "anomaly": 0.213,
-  "persistence": 0.52,
+  "acceleration": 0.452,
+  "anomaly": 0.862,
+  "persistence": 0.84,
   "momentum": 0.933,
-  "volume": 0.881,
-  "spike_quality": 0.817
+  "volume": 0.931,
+  "spike_quality": 0.756
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 57,932 views/day over the last 3 days (30-day baseline: 17,436)."
+  "Averaging 72,913 views/day over the last 3 days (30-day baseline: 12,456)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 1866
-  },
-  {
    "date": "2026-10-11",
-   "views": 2025
+   "views": 6341
   },
   {
    "date": "2026-10-12",
-   "views": 2188
+   "views": 7150
   },
   {
    "date": "2026-10-13",
-   "views": 3100
+   "views": 7812
   },
   {
    "date": "2026-10-14",
-   "views": 3375
+   "views": 7951
   },
   {
    "date": "2026-10-15",
-   "views": 6061
+   "views": 8757
   },
   {
    "date": "2026-10-16",
-   "views": 8342
+   "views": 7385
   },
   {
    "date": "2026-10-17",
-   "views": 3983
+   "views": 6334
   },
   {
    "date": "2026-10-18",
-   "views": 2539
+   "views": 6883
   },
   {
    "date": "2026-10-19",
-   "views": 2335
+   "views": 8260
   },
   {
    "date": "2026-10-20",
-   "views": 2270
+   "views": 8996
   },
   {
    "date": "2026-10-21",
-   "views": 4021
+   "views": 9214
   },
   {
    "date": "2026-10-22",
-   "views": 2537
+   "views": 7384
   },
   {
    "date": "2026-10-23",
-   "views": 8635
+   "views": 6244
   },
   {
    "date": "2026-10-24",
-   "views": 6514
+   "views": 6620
   },
   {
    "date": "2026-10-25",
-   "views": 6088
+   "views": 10551
   },
   {
    "date": "2026-10-26",
-   "views": 6716
+   "views": 34224
   },
   {
    "date": "2026-10-27",
-   "views": 5676
+   "views": 29257
   },
   {
    "date": "2026-10-28",
-   "views": 11265
+   "views": 16192
   },
   {
    "date": "2026-10-29",
-   "views": 33911
+   "views": 12045
   },
   {
    "date": "2026-10-30",
-   "views": 22667
+   "views": 10528
   },
   {
    "date": "2026-10-31",
-   "views": 13109
+   "views": 8830
   },
   {
    "date": "2026-11-01",
-   "views": 10625
+   "views": 7682
   },
   {
    "date": "2026-11-02",
-   "views": 11566
+   "views": 9513
   },
   {
    "date": "2026-11-03",
-   "views": 14605
+   "views": 8613
   },
   {
    "date": "2026-11-04",
-   "views": 98275
+   "views": 6774
   },
   {
    "date": "2026-11-05",
-   "views": 47006
+   "views": 7613
   },
   {
    "date": "2026-11-06",
-   "views": 25465
+   "views": 7256
   },
   {
    "date": "2026-11-07",
-   "views": 15218
+   "views": 6120
   },
   {
    "date": "2026-11-08",
-   "views": 11675
+   "views": 6135
   },
   {
    "date": "2026-11-09",
-   "views": 9641
+   "views": 10323
   },
   {
    "date": "2026-11-10",
-   "views": 11914
+   "views": 15321
   },
   {
    "date": "2026-11-11",
-   "views": 16195
+   "views": 15865
   },
   {
    "date": "2026-11-12",
-   "views": 24211
+   "views": 16874
   },
   {
    "date": "2026-11-13",
-   "views": 17027
+   "views": 19393
   },
   {
    "date": "2026-11-14",
-   "views": 43567
+   "views": 16058
   },
   {
    "date": "2026-11-15",
-   "views": 33825
+   "views": 22680
   },
   {
    "date": "2026-11-16",
-   "views": 19863
+   "views": 22228
   },
   {
    "date": "2026-11-17",
-   "views": 20539
+   "views": 19807
   },
   {
    "date": "2026-11-18",
-   "views": 133395
+   "views": 30934
+  },
+  {
+   "date": "2026-11-19",
+   "views": 167998
   }
  ],
- "wikipedia_title": "Mary_Peltola",
+ "wikipedia_title": "Dario_Amodei",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

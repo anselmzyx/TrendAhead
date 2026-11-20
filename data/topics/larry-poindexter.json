@@ -1,196 +1,197 @@
 {
- "title": "Mariella Frostrup",
- "slug": "mariella-frostrup",
- "score": 50,
- "status": "Elevated",
- "change_percent": 6233,
- "growth_ratio": 63.32,
- "recent_avg": 58458,
- "baseline_avg": 923,
- "explanation": "Attention is 63\u00d7 its 30-day baseline.",
+ "title": "Larry Poindexter",
+ "slug": "larry-poindexter",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 81339,
+ "growth_ratio": 415.34,
+ "recent_avg": 41534,
+ "baseline_avg": 51,
+ "explanation": "Attention is 415\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 57535,
- "latest": 59061,
+ "abs_change": 41483,
+ "latest": 124373,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.616,
-  "volume": 0.883,
-  "spike_quality": 0.66
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.809,
+  "spike_quality": 0.502
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Averaging 58,458 views/day over the last 3 days (30-day baseline: 923)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 41,534 views/day over the last 3 days (30-day baseline: 51)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 266
-  },
-  {
    "date": "2026-10-11",
-   "views": 179
+   "views": 36
   },
   {
    "date": "2026-10-12",
-   "views": 129
+   "views": 55
   },
   {
    "date": "2026-10-13",
-   "views": 167
+   "views": 57
   },
   {
    "date": "2026-10-14",
-   "views": 223
+   "views": 62
   },
   {
    "date": "2026-10-15",
-   "views": 214
+   "views": 54
   },
   {
    "date": "2026-10-16",
-   "views": 334
+   "views": 67
   },
   {
    "date": "2026-10-17",
-   "views": 215
+   "views": 53
   },
   {
    "date": "2026-10-18",
-   "views": 139
+   "views": 79
   },
   {
    "date": "2026-10-19",
-   "views": 166
+   "views": 56
   },
   {
    "date": "2026-10-20",
-   "views": 125
+   "views": 65
   },
   {
    "date": "2026-10-21",
-   "views": 1738
+   "views": 46
   },
   {
    "date": "2026-10-22",
-   "views": 201
+   "views": 55
   },
   {
    "date": "2026-10-23",
-   "views": 187
+   "views": 53
   },
   {
    "date": "2026-10-24",
-   "views": 128
+   "views": 55
   },
   {
    "date": "2026-10-25",
-   "views": 149
+   "views": 54
   },
   {
    "date": "2026-10-26",
-   "views": 189
+   "views": 51
   },
   {
    "date": "2026-10-27",
-   "views": 152
+   "views": 52
   },
   {
    "date": "2026-10-28",
-   "views": 375
+   "views": 41
   },
   {
    "date": "2026-10-29",
-   "views": 173
+   "views": 52
   },
   {
    "date": "2026-10-30",
-   "views": 172
+   "views": 41
   },
   {
    "date": "2026-10-31",
-   "views": 200
+   "views": 47
   },
   {
    "date": "2026-11-01",
-   "views": 215
+   "views": 71
   },
   {
    "date": "2026-11-02",
-   "views": 3172
+   "views": 39
   },
   {
    "date": "2026-11-03",
-   "views": 1309
+   "views": 46
   },
   {
    "date": "2026-11-04",
-   "views": 513
+   "views": 43
   },
   {
    "date": "2026-11-05",
-   "views": 390
+   "views": 48
   },
   {
    "date": "2026-11-06",
-   "views": 419
+   "views": 29
   },
   {
    "date": "2026-11-07",
-   "views": 378
+   "views": 51
   },
   {
    "date": "2026-11-08",
-   "views": 396
+   "views": 40
   },
   {
    "date": "2026-11-09",
-   "views": 461
+   "views": 54
   },
   {
    "date": "2026-11-10",
-   "views": 1666
+   "views": 52
   },
   {
    "date": "2026-11-11",
-   "views": 5997
+   "views": 53
   },
   {
    "date": "2026-11-12",
-   "views": 2821
+   "views": 38
   },
   {
    "date": "2026-11-13",
-   "views": 1580
+   "views": 49
   },
   {
    "date": "2026-11-14",
-   "views": 1465
+   "views": 58
   },
   {
    "date": "2026-11-15",
-   "views": 2606
+   "views": 60
   },
   {
    "date": "2026-11-16",
-   "views": 31135
+   "views": 58
   },
   {
    "date": "2026-11-17",
-   "views": 85178
+   "views": 52
   },
   {
    "date": "2026-11-18",
-   "views": 59061
+   "views": 178
+  },
+  {
+   "date": "2026-11-19",
+   "views": 124373
   }
  ],
- "wikipedia_title": "Mariella_Frostrup",
+ "wikipedia_title": "Larry_Poindexter",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

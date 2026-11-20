@@ -1,197 +1,197 @@
 {
- "title": "Denis Villeneuve",
- "slug": "denis-villeneuve",
- "score": 26,
- "status": "Peaked / fading",
- "change_percent": 1060,
- "growth_ratio": 11.6,
- "recent_avg": 51210,
- "baseline_avg": 4413,
- "explanation": "Attention surged to 12\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Leigh Nash",
+ "slug": "leigh-nash",
+ "score": 40,
+ "status": "Breaking out",
+ "change_percent": 2032,
+ "growth_ratio": 21.32,
+ "recent_avg": 33496,
+ "baseline_avg": 1571,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 46797,
- "latest": 32032,
+ "abs_change": 31925,
+ "latest": 95384,
  "components": {
-  "acceleration": 0.627,
+  "acceleration": 0.782,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.361,
-  "volume": 0.855,
-  "spike_quality": 0.611
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.762,
+  "spike_quality": 0.57
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 51,210 views/day over the last 3 days (30-day baseline: 4,413)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 33,496 views/day over the last 3 days (30-day baseline: 1,571)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 3348
-  },
-  {
    "date": "2026-10-11",
-   "views": 3690
+   "views": 1241
   },
   {
    "date": "2026-10-12",
-   "views": 3199
+   "views": 887
   },
   {
    "date": "2026-10-13",
-   "views": 2981
+   "views": 755
   },
   {
    "date": "2026-10-14",
-   "views": 3138
+   "views": 770
   },
   {
    "date": "2026-10-15",
-   "views": 3807
+   "views": 925
   },
   {
    "date": "2026-10-16",
-   "views": 3642
+   "views": 939
   },
   {
    "date": "2026-10-17",
-   "views": 3503
+   "views": 1024
   },
   {
    "date": "2026-10-18",
-   "views": 3367
+   "views": 869
   },
   {
    "date": "2026-10-19",
-   "views": 3188
+   "views": 885
   },
   {
    "date": "2026-10-20",
-   "views": 3084
+   "views": 869
   },
   {
    "date": "2026-10-21",
-   "views": 2999
+   "views": 933
   },
   {
    "date": "2026-10-22",
-   "views": 3657
+   "views": 1152
   },
   {
    "date": "2026-10-23",
-   "views": 4460
+   "views": 1790
   },
   {
    "date": "2026-10-24",
-   "views": 3980
+   "views": 1783
   },
   {
    "date": "2026-10-25",
-   "views": 3836
+   "views": 1682
   },
   {
    "date": "2026-10-26",
-   "views": 3439
+   "views": 1472
   },
   {
    "date": "2026-10-27",
-   "views": 4678
+   "views": 1493
   },
   {
    "date": "2026-10-28",
-   "views": 4876
+   "views": 1594
   },
   {
    "date": "2026-10-29",
-   "views": 4139
+   "views": 1991
   },
   {
    "date": "2026-10-30",
-   "views": 3720
+   "views": 1639
   },
   {
    "date": "2026-10-31",
-   "views": 3693
+   "views": 1471
   },
   {
    "date": "2026-11-01",
-   "views": 4124
+   "views": 1245
   },
   {
    "date": "2026-11-02",
-   "views": 4360
+   "views": 1219
   },
   {
    "date": "2026-11-03",
-   "views": 4895
+   "views": 1420
   },
   {
    "date": "2026-11-04",
-   "views": 4218
+   "views": 1070
   },
   {
    "date": "2026-11-05",
-   "views": 4179
+   "views": 1224
   },
   {
    "date": "2026-11-06",
-   "views": 3837
+   "views": 1236
   },
   {
    "date": "2026-11-07",
-   "views": 6054
+   "views": 1433
   },
   {
    "date": "2026-11-08",
-   "views": 6655
+   "views": 1543
   },
   {
    "date": "2026-11-09",
-   "views": 6804
+   "views": 2453
   },
   {
    "date": "2026-11-10",
-   "views": 5021
+   "views": 2688
   },
   {
    "date": "2026-11-11",
-   "views": 4682
+   "views": 2202
   },
   {
    "date": "2026-11-12",
-   "views": 4494
+   "views": 1953
   },
   {
    "date": "2026-11-13",
-   "views": 5303
+   "views": 1735
   },
   {
    "date": "2026-11-14",
-   "views": 5544
+   "views": 1920
   },
   {
    "date": "2026-11-15",
-   "views": 5607
+   "views": 2297
   },
   {
    "date": "2026-11-16",
-   "views": 65188
+   "views": 1875
   },
   {
    "date": "2026-11-17",
-   "views": 56409
+   "views": 1953
   },
   {
    "date": "2026-11-18",
-   "views": 32032
+   "views": 3150
+  },
+  {
+   "date": "2026-11-19",
+   "views": 95384
   }
  ],
- "wikipedia_title": "Denis_Villeneuve",
+ "wikipedia_title": "Leigh_Nash",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

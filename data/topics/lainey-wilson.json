@@ -1,197 +1,197 @@
 {
- "title": "James Bond",
- "slug": "james-bond",
- "score": 28,
- "status": "Peaked / fading",
- "change_percent": 1504,
- "growth_ratio": 16.04,
- "recent_avg": 63087,
- "baseline_avg": 3933,
- "explanation": "Attention surged to 16\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Lainey Wilson",
+ "slug": "lainey-wilson",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 827,
+ "growth_ratio": 9.27,
+ "recent_avg": 33186,
+ "baseline_avg": 3580,
+ "explanation": "Attention is 9.3\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 59154,
- "latest": 37281,
+ "abs_change": 29606,
+ "latest": 86763,
  "components": {
-  "acceleration": 0.709,
+  "acceleration": 0.569,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.361,
-  "volume": 0.9,
-  "spike_quality": 0.615
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.76,
+  "spike_quality": 0.644
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 63,087 views/day over the last 3 days (30-day baseline: 3,933)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 33,186 views/day over the last 3 days (30-day baseline: 3,580)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 3353
-  },
-  {
    "date": "2026-10-11",
-   "views": 3213
+   "views": 3950
   },
   {
    "date": "2026-10-12",
-   "views": 2915
+   "views": 2505
   },
   {
    "date": "2026-10-13",
-   "views": 2667
+   "views": 2318
   },
   {
    "date": "2026-10-14",
-   "views": 2833
+   "views": 2234
   },
   {
    "date": "2026-10-15",
-   "views": 3080
+   "views": 2129
   },
   {
    "date": "2026-10-16",
-   "views": 2872
+   "views": 9543
   },
   {
    "date": "2026-10-17",
-   "views": 3165
+   "views": 4169
   },
   {
    "date": "2026-10-18",
-   "views": 3244
+   "views": 3160
   },
   {
    "date": "2026-10-19",
-   "views": 2806
+   "views": 2577
   },
   {
    "date": "2026-10-20",
-   "views": 2632
+   "views": 2329
   },
   {
    "date": "2026-10-21",
-   "views": 2673
+   "views": 2333
   },
   {
    "date": "2026-10-22",
-   "views": 3094
+   "views": 18186
   },
   {
    "date": "2026-10-23",
-   "views": 4536
+   "views": 5562
   },
   {
    "date": "2026-10-24",
-   "views": 4424
+   "views": 4142
   },
   {
    "date": "2026-10-25",
-   "views": 3920
+   "views": 3413
   },
   {
    "date": "2026-10-26",
-   "views": 3285
+   "views": 2545
   },
   {
    "date": "2026-10-27",
-   "views": 3121
+   "views": 2812
   },
   {
    "date": "2026-10-28",
-   "views": 3098
+   "views": 2946
   },
   {
    "date": "2026-10-29",
-   "views": 3433
+   "views": 2480
   },
   {
    "date": "2026-10-30",
-   "views": 3741
+   "views": 2801
   },
   {
    "date": "2026-10-31",
-   "views": 3348
+   "views": 3041
   },
   {
    "date": "2026-11-01",
-   "views": 3791
+   "views": 2631
   },
   {
    "date": "2026-11-02",
-   "views": 3689
+   "views": 2238
   },
   {
    "date": "2026-11-03",
-   "views": 4422
+   "views": 2242
   },
   {
    "date": "2026-11-04",
-   "views": 3910
+   "views": 2418
   },
   {
    "date": "2026-11-05",
-   "views": 3337
+   "views": 3010
   },
   {
    "date": "2026-11-06",
-   "views": 3529
+   "views": 2565
   },
   {
    "date": "2026-11-07",
-   "views": 5567
+   "views": 3152
   },
   {
    "date": "2026-11-08",
-   "views": 6065
+   "views": 3192
   },
   {
    "date": "2026-11-09",
-   "views": 6086
+   "views": 2742
   },
   {
    "date": "2026-11-10",
-   "views": 4911
+   "views": 2604
   },
   {
    "date": "2026-11-11",
-   "views": 4091
+   "views": 3385
   },
   {
    "date": "2026-11-12",
-   "views": 3958
+   "views": 3219
   },
   {
    "date": "2026-11-13",
-   "views": 4573
+   "views": 2987
   },
   {
    "date": "2026-11-14",
-   "views": 4915
+   "views": 4424
   },
   {
    "date": "2026-11-15",
-   "views": 4614
+   "views": 4438
   },
   {
    "date": "2026-11-16",
-   "views": 76019
+   "views": 3816
   },
   {
    "date": "2026-11-17",
-   "views": 75962
+   "views": 4306
   },
   {
    "date": "2026-11-18",
-   "views": 37281
+   "views": 8489
+  },
+  {
+   "date": "2026-11-19",
+   "views": 86763
   }
  ],
- "wikipedia_title": "James_Bond",
+ "wikipedia_title": "Lainey_Wilson",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

@@ -1,105 +1,101 @@
 {
  "title": "The Hunger Games: Sunrise on the Reaping",
  "slug": "the-hunger-games-sunrise-on-the-reaping",
- "score": 59,
+ "score": 72,
  "status": "Building",
- "change_percent": 311,
- "growth_ratio": 4.11,
- "recent_avg": 77475,
- "baseline_avg": 18855,
- "explanation": "Attention is 4.1\u00d7 its 30-day baseline.",
+ "change_percent": 430,
+ "growth_ratio": 5.3,
+ "recent_avg": 105335,
+ "baseline_avg": 19864,
+ "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 58620,
- "latest": 101703,
+ "abs_change": 85471,
+ "latest": 121672,
  "components": {
-  "acceleration": 0.361,
-  "anomaly": 0.709,
+  "acceleration": 0.426,
+  "anomaly": 0.982,
   "persistence": 0.92,
-  "momentum": 0.933,
-  "volume": 0.945,
-  "spike_quality": 0.916
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.927
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 77,475 views/day over the last 3 days (30-day baseline: 18,855)."
+  "Averaging 105,335 views/day over the last 3 days (30-day baseline: 19,864)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 8904
-  },
-  {
    "date": "2026-10-11",
-   "views": 8264
+   "views": 8377
   },
   {
    "date": "2026-10-12",
-   "views": 8386
+   "views": 8566
   },
   {
    "date": "2026-10-13",
-   "views": 7086
+   "views": 7245
   },
   {
    "date": "2026-10-14",
-   "views": 7492
+   "views": 7680
   },
   {
    "date": "2026-10-15",
-   "views": 8980
+   "views": 9066
   },
   {
    "date": "2026-10-16",
-   "views": 9308
+   "views": 9455
   },
   {
    "date": "2026-10-17",
-   "views": 9505
+   "views": 9773
   },
   {
    "date": "2026-10-18",
-   "views": 9620
+   "views": 9904
   },
   {
    "date": "2026-10-19",
-   "views": 8797
+   "views": 8970
   },
   {
    "date": "2026-10-20",
-   "views": 8194
+   "views": 8398
   },
   {
    "date": "2026-10-21",
-   "views": 9229
+   "views": 9450
   },
   {
    "date": "2026-10-22",
-   "views": 8767
+   "views": 8909
   },
   {
    "date": "2026-10-23",
-   "views": 8427
+   "views": 8632
   },
   {
    "date": "2026-10-24",
-   "views": 10157
+   "views": 10371
   },
   {
    "date": "2026-10-25",
-   "views": 13557
+   "views": 13739
   },
   {
    "date": "2026-10-26",
-   "views": 13501
+   "views": 13572
   },
   {
    "date": "2026-10-27",
-   "views": 12200
+   "views": 12195
   },
   {
    "date": "2026-10-28",
@@ -188,11 +184,15 @@
   {
    "date": "2026-11-18",
    "views": 101703
+  },
+  {
+   "date": "2026-11-19",
+   "views": 121672
   }
  ],
  "wikipedia_title": "The_Hunger_Games:_Sunrise_on_the_Reaping",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

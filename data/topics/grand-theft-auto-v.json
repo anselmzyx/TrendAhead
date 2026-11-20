@@ -1,198 +1,198 @@
 {
- "title": "UEFA Nations League",
- "slug": "uefa-nations-league",
- "score": 30,
- "status": "Peaked / fading",
- "change_percent": 799,
- "growth_ratio": 8.99,
- "recent_avg": 56516,
- "baseline_avg": 6285,
- "explanation": "Attention surged to 9.0\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Grand Theft Auto V",
+ "slug": "grand-theft-auto-v",
+ "score": 73,
+ "status": "Building",
+ "change_percent": 562,
+ "growth_ratio": 6.62,
+ "recent_avg": 75344,
+ "baseline_avg": 11376,
+ "explanation": "Attention is 6.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 50231,
- "latest": 38740,
+ "abs_change": 63968,
+ "latest": 108371,
  "components": {
-  "acceleration": 0.561,
-  "anomaly": 0.387,
-  "persistence": 0.84,
-  "momentum": 0.395,
-  "volume": 0.876,
-  "spike_quality": 0.724
+  "acceleration": 0.483,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.939,
+  "spike_quality": 0.887
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 56,516 views/day over the last 3 days (30-day baseline: 6,285)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 75,344 views/day over the last 3 days (30-day baseline: 11,376)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 4425
-  },
-  {
    "date": "2026-10-11",
-   "views": 3102
+   "views": 7726
   },
   {
    "date": "2026-10-12",
-   "views": 2471
+   "views": 7024
   },
   {
    "date": "2026-10-13",
-   "views": 2282
+   "views": 7654
   },
   {
    "date": "2026-10-14",
-   "views": 2005
+   "views": 7707
   },
   {
    "date": "2026-10-15",
-   "views": 1774
+   "views": 9483
   },
   {
    "date": "2026-10-16",
-   "views": 1455
+   "views": 9630
   },
   {
    "date": "2026-10-17",
-   "views": 1538
+   "views": 9434
   },
   {
    "date": "2026-10-18",
-   "views": 1507
+   "views": 9382
   },
   {
    "date": "2026-10-19",
-   "views": 1457
+   "views": 8927
   },
   {
    "date": "2026-10-20",
-   "views": 1412
+   "views": 8734
   },
   {
    "date": "2026-10-21",
-   "views": 1368
+   "views": 8429
   },
   {
    "date": "2026-10-22",
-   "views": 1691
+   "views": 8215
   },
   {
    "date": "2026-10-23",
-   "views": 1494
+   "views": 7823
   },
   {
    "date": "2026-10-24",
-   "views": 1245
+   "views": 7887
   },
   {
    "date": "2026-10-25",
-   "views": 1249
+   "views": 8514
   },
   {
    "date": "2026-10-26",
-   "views": 1500
+   "views": 7439
   },
   {
    "date": "2026-10-27",
-   "views": 1564
+   "views": 7217
   },
   {
    "date": "2026-10-28",
-   "views": 1285
+   "views": 7052
   },
   {
    "date": "2026-10-29",
-   "views": 1181
+   "views": 7809
   },
   {
    "date": "2026-10-30",
-   "views": 1203
+   "views": 7228
   },
   {
    "date": "2026-10-31",
-   "views": 1127
+   "views": 7029
   },
   {
    "date": "2026-11-01",
-   "views": 1141
+   "views": 7577
   },
   {
    "date": "2026-11-02",
-   "views": 1109
+   "views": 7671
   },
   {
    "date": "2026-11-03",
-   "views": 1430
+   "views": 8373
   },
   {
    "date": "2026-11-04",
-   "views": 1280
+   "views": 8217
   },
   {
    "date": "2026-11-05",
-   "views": 2597
+   "views": 9005
   },
   {
    "date": "2026-11-06",
-   "views": 2785
+   "views": 9773
   },
   {
    "date": "2026-11-07",
-   "views": 2034
+   "views": 9249
   },
   {
    "date": "2026-11-08",
-   "views": 2250
+   "views": 10158
   },
   {
    "date": "2026-11-09",
-   "views": 3682
+   "views": 11836
   },
   {
    "date": "2026-11-10",
-   "views": 4189
+   "views": 15479
   },
   {
    "date": "2026-11-11",
-   "views": 4852
+   "views": 16673
   },
   {
    "date": "2026-11-12",
-   "views": 21758
+   "views": 19200
   },
   {
    "date": "2026-11-13",
-   "views": 25698
+   "views": 20845
   },
   {
    "date": "2026-11-14",
-   "views": 28181
+   "views": 21835
   },
   {
    "date": "2026-11-15",
-   "views": 64739
+   "views": 24605
   },
   {
    "date": "2026-11-16",
-   "views": 70723
+   "views": 29091
   },
   {
    "date": "2026-11-17",
-   "views": 60085
+   "views": 36313
   },
   {
    "date": "2026-11-18",
-   "views": 38740
+   "views": 81349
+  },
+  {
+   "date": "2026-11-19",
+   "views": 108371
   }
  ],
- "wikipedia_title": "UEFA_Nations_League",
+ "wikipedia_title": "Grand_Theft_Auto_V",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "2026\u201327 UEFA Nations League",
- "slug": "2026-27-uefa-nations-league",
- "score": 35,
- "status": "Elevated",
- "change_percent": 919,
- "growth_ratio": 10.19,
- "recent_avg": 85345,
- "baseline_avg": 8377,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "title": "Daniela Amodei",
+ "slug": "daniela-amodei",
+ "score": 40,
+ "status": "Breaking out",
+ "change_percent": 646,
+ "growth_ratio": 7.46,
+ "recent_avg": 37724,
+ "baseline_avg": 5058,
+ "explanation": "Attention is 7.5\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 76968,
- "latest": 61581,
+ "abs_change": 32666,
+ "latest": 92187,
  "components": {
-  "acceleration": 0.593,
-  "anomaly": 0.461,
-  "persistence": 0.84,
-  "momentum": 0.434,
-  "volume": 0.966,
-  "spike_quality": 0.757
+  "acceleration": 0.514,
+  "anomaly": 0.957,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.788,
+  "spike_quality": 0.697
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 85,345 views/day over the last 3 days (30-day baseline: 8,377)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 37,724 views/day over the last 3 days (30-day baseline: 5,058)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 4591
-  },
-  {
    "date": "2026-10-11",
-   "views": 3569
+   "views": 2479
   },
   {
    "date": "2026-10-12",
-   "views": 3260
+   "views": 2546
   },
   {
    "date": "2026-10-13",
-   "views": 2979
+   "views": 2890
   },
   {
    "date": "2026-10-14",
-   "views": 2746
+   "views": 3316
   },
   {
    "date": "2026-10-15",
-   "views": 2536
+   "views": 3393
   },
   {
    "date": "2026-10-16",
-   "views": 2253
-  },
-  {
-   "date": "2026-10-17",
-   "views": 1951
-  },
-  {
-   "date": "2026-10-18",
-   "views": 2030
-  },
-  {
-   "date": "2026-10-19",
-   "views": 2009
-  },
-  {
-   "date": "2026-10-20",
-   "views": 2033
-  },
-  {
-   "date": "2026-10-21",
-   "views": 1971
-  },
-  {
-   "date": "2026-10-22",
-   "views": 1831
-  },
-  {
-   "date": "2026-10-23",
-   "views": 1640
-  },
-  {
-   "date": "2026-10-24",
-   "views": 1519
-  },
-  {
-   "date": "2026-10-25",
-   "views": 1656
-  },
-  {
-   "date": "2026-10-26",
-   "views": 1815
-  },
-  {
-   "date": "2026-10-27",
-   "views": 1997
-  },
-  {
-   "date": "2026-10-28",
-   "views": 1892
-  },
-  {
-   "date": "2026-10-29",
-   "views": 1672
-  },
-  {
-   "date": "2026-10-30",
-   "views": 1744
-  },
-  {
-   "date": "2026-10-31",
-   "views": 1483
-  },
-  {
-   "date": "2026-11-01",
-   "views": 1645
-  },
-  {
-   "date": "2026-11-02",
-   "views": 1963
-  },
-  {
-   "date": "2026-11-03",
-   "views": 2161
-  },
-  {
-   "date": "2026-11-04",
-   "views": 2179
-  },
-  {
-   "date": "2026-11-05",
    "views": 2844
   },
   {
+   "date": "2026-10-17",
+   "views": 2569
+  },
+  {
+   "date": "2026-10-18",
+   "views": 2482
+  },
+  {
+   "date": "2026-10-19",
+   "views": 3635
+  },
+  {
+   "date": "2026-10-20",
+   "views": 3759
+  },
+  {
+   "date": "2026-10-21",
+   "views": 3894
+  },
+  {
+   "date": "2026-10-22",
+   "views": 3012
+  },
+  {
+   "date": "2026-10-23",
+   "views": 2556
+  },
+  {
+   "date": "2026-10-24",
+   "views": 2489
+  },
+  {
+   "date": "2026-10-25",
+   "views": 3282
+  },
+  {
+   "date": "2026-10-26",
+   "views": 17271
+  },
+  {
+   "date": "2026-10-27",
+   "views": 14790
+  },
+  {
+   "date": "2026-10-28",
+   "views": 8272
+  },
+  {
+   "date": "2026-10-29",
+   "views": 5676
+  },
+  {
+   "date": "2026-10-30",
+   "views": 4441
+  },
+  {
+   "date": "2026-10-31",
+   "views": 3606
+  },
+  {
+   "date": "2026-11-01",
+   "views": 3150
+  },
+  {
+   "date": "2026-11-02",
+   "views": 3909
+  },
+  {
+   "date": "2026-11-03",
+   "views": 3518
+  },
+  {
+   "date": "2026-11-04",
+   "views": 2535
+  },
+  {
+   "date": "2026-11-05",
+   "views": 2941
+  },
+  {
    "date": "2026-11-06",
-   "views": 3858
+   "views": 2974
   },
   {
    "date": "2026-11-07",
-   "views": 2885
+   "views": 2282
   },
   {
    "date": "2026-11-08",
-   "views": 3203
+   "views": 2161
   },
   {
    "date": "2026-11-09",
-   "views": 5503
+   "views": 3333
   },
   {
    "date": "2026-11-10",
-   "views": 5945
+   "views": 7029
   },
   {
    "date": "2026-11-11",
-   "views": 6581
+   "views": 7057
   },
   {
    "date": "2026-11-12",
-   "views": 25140
+   "views": 5810
   },
   {
    "date": "2026-11-13",
-   "views": 37306
+   "views": 5847
   },
   {
    "date": "2026-11-14",
-   "views": 43185
+   "views": 5493
   },
   {
    "date": "2026-11-15",
-   "views": 79669
+   "views": 7124
   },
   {
    "date": "2026-11-16",
-   "views": 100581
+   "views": 7408
   },
   {
    "date": "2026-11-17",
-   "views": 93874
+   "views": 7503
   },
   {
    "date": "2026-11-18",
-   "views": 61581
+   "views": 13483
+  },
+  {
+   "date": "2026-11-19",
+   "views": 92187
   }
  ],
- "wikipedia_title": "2026\u201327_UEFA_Nations_League",
+ "wikipedia_title": "Daniela_Amodei",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

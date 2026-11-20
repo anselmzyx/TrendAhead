@@ -1,196 +1,197 @@
 {
- "title": "Kristen Stewart",
- "slug": "kristen-stewart",
- "score": 33,
- "status": "Elevated",
- "change_percent": 690,
- "growth_ratio": 7.9,
- "recent_avg": 50974,
- "baseline_avg": 6450,
- "explanation": "Attention is 7.9\u00d7 its 30-day baseline.",
+ "title": "Iron Gate (Antioch)",
+ "slug": "iron-gate-antioch",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 116835,
+ "growth_ratio": 233.87,
+ "recent_avg": 23387,
+ "baseline_avg": 20,
+ "explanation": "Attention is 234\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 44524,
- "latest": 37587,
+ "abs_change": 23367,
+ "latest": 69354,
  "components": {
-  "acceleration": 0.528,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.563,
-  "volume": 0.854,
-  "spike_quality": 0.681
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.684,
+  "spike_quality": 0.507
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 50,974 views/day over the last 3 days (30-day baseline: 6,450)."
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 23,387 views/day over the last 3 days (30-day baseline: 20)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 6780
-  },
-  {
    "date": "2026-10-11",
-   "views": 7817
+   "views": 17
   },
   {
    "date": "2026-10-12",
-   "views": 7266
+   "views": 23
   },
   {
    "date": "2026-10-13",
-   "views": 6010
+   "views": 8
   },
   {
    "date": "2026-10-14",
-   "views": 5844
+   "views": 19
   },
   {
    "date": "2026-10-15",
-   "views": 7651
+   "views": 15
   },
   {
    "date": "2026-10-16",
-   "views": 6511
+   "views": 17
   },
   {
    "date": "2026-10-17",
-   "views": 7637
+   "views": 8
   },
   {
    "date": "2026-10-18",
-   "views": 8263
+   "views": 18
   },
   {
    "date": "2026-10-19",
-   "views": 6590
+   "views": 13
   },
   {
    "date": "2026-10-20",
-   "views": 6059
+   "views": 12
   },
   {
    "date": "2026-10-21",
-   "views": 5952
+   "views": 11
   },
   {
    "date": "2026-10-22",
-   "views": 5729
+   "views": 15
   },
   {
    "date": "2026-10-23",
-   "views": 6231
+   "views": 6
   },
   {
    "date": "2026-10-24",
-   "views": 7336
+   "views": 11
   },
   {
    "date": "2026-10-25",
-   "views": 7888
+   "views": 13
   },
   {
    "date": "2026-10-26",
-   "views": 6640
+   "views": 26
   },
   {
    "date": "2026-10-27",
-   "views": 6065
+   "views": 33
   },
   {
    "date": "2026-10-28",
-   "views": 5569
+   "views": 54
   },
   {
    "date": "2026-10-29",
-   "views": 6114
+   "views": 24
   },
   {
    "date": "2026-10-30",
-   "views": 6106
+   "views": 15
   },
   {
    "date": "2026-10-31",
-   "views": 7871
+   "views": 11
   },
   {
    "date": "2026-11-01",
-   "views": 8536
+   "views": 17
   },
   {
    "date": "2026-11-02",
-   "views": 6708
+   "views": 29
   },
   {
    "date": "2026-11-03",
-   "views": 5689
+   "views": 33
   },
   {
    "date": "2026-11-04",
-   "views": 4787
+   "views": 13
   },
   {
    "date": "2026-11-05",
-   "views": 5269
+   "views": 19
   },
   {
    "date": "2026-11-06",
-   "views": 6303
+   "views": 18
   },
   {
    "date": "2026-11-07",
-   "views": 7328
+   "views": 25
   },
   {
    "date": "2026-11-08",
-   "views": 7108
+   "views": 23
   },
   {
    "date": "2026-11-09",
-   "views": 5884
+   "views": 23
   },
   {
    "date": "2026-11-10",
-   "views": 5614
+   "views": 15
   },
   {
    "date": "2026-11-11",
-   "views": 5261
+   "views": 28
   },
   {
    "date": "2026-11-12",
-   "views": 5085
+   "views": 17
   },
   {
    "date": "2026-11-13",
-   "views": 5581
+   "views": 18
   },
   {
    "date": "2026-11-14",
-   "views": 6582
+   "views": 17
   },
   {
    "date": "2026-11-15",
-   "views": 7729
+   "views": 21
   },
   {
    "date": "2026-11-16",
-   "views": 53125
+   "views": 33
   },
   {
    "date": "2026-11-17",
-   "views": 62210
+   "views": 24
   },
   {
    "date": "2026-11-18",
-   "views": 37587
+   "views": 782
+  },
+  {
+   "date": "2026-11-19",
+   "views": 69354
   }
  ],
- "wikipedia_title": "Kristen_Stewart",
+ "wikipedia_title": "Iron_Gate_(Antioch)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

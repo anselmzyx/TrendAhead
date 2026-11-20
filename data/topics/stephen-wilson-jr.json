@@ -1,197 +1,197 @@
 {
- "title": "Andrej Stojakovi\u0107",
- "slug": "andrej-stojakovic",
- "score": 40,
+ "title": "Stephen Wilson Jr.",
+ "slug": "stephen-wilson-jr",
+ "score": 51,
  "status": "Breaking out",
- "change_percent": 12911,
- "growth_ratio": 130.18,
- "recent_avg": 32658,
- "baseline_avg": 251,
- "explanation": "Attention is 130\u00d7 its 30-day baseline.",
+ "change_percent": 3534,
+ "growth_ratio": 36.33,
+ "recent_avg": 112323,
+ "baseline_avg": 3091,
+ "explanation": "Attention is 36\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32407,
- "latest": 97435,
+ "abs_change": 109232,
+ "latest": 327962,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.918,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.6,
   "momentum": 0.933,
-  "volume": 0.757,
-  "spike_quality": 0.509
+  "volume": 1.0,
+  "spike_quality": 0.543
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 32,658 views/day over the last 3 days (30-day baseline: 251)."
+  "Averaging 112,323 views/day over the last 3 days (30-day baseline: 3,091)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 116
-  },
-  {
    "date": "2026-10-11",
-   "views": 175
+   "views": 2660
   },
   {
    "date": "2026-10-12",
-   "views": 109
+   "views": 1756
   },
   {
    "date": "2026-10-13",
-   "views": 93
+   "views": 1485
   },
   {
    "date": "2026-10-14",
-   "views": 114
+   "views": 1460
   },
   {
    "date": "2026-10-15",
-   "views": 132
+   "views": 1879
   },
   {
    "date": "2026-10-16",
-   "views": 121
+   "views": 1998
   },
   {
    "date": "2026-10-17",
-   "views": 115
+   "views": 2023
   },
   {
    "date": "2026-10-18",
-   "views": 140
+   "views": 1770
   },
   {
    "date": "2026-10-19",
-   "views": 169
+   "views": 1750
   },
   {
    "date": "2026-10-20",
-   "views": 144
+   "views": 1828
   },
   {
    "date": "2026-10-21",
-   "views": 145
+   "views": 1838
   },
   {
    "date": "2026-10-22",
-   "views": 148
+   "views": 2161
   },
   {
    "date": "2026-10-23",
-   "views": 108
+   "views": 2309
   },
   {
    "date": "2026-10-24",
-   "views": 168
+   "views": 2255
   },
   {
    "date": "2026-10-25",
-   "views": 79
+   "views": 2042
   },
   {
    "date": "2026-10-26",
-   "views": 109
+   "views": 2040
   },
   {
    "date": "2026-10-27",
-   "views": 101
+   "views": 3084
   },
   {
    "date": "2026-10-28",
-   "views": 130
+   "views": 3089
   },
   {
    "date": "2026-10-29",
-   "views": 112
+   "views": 4655
   },
   {
    "date": "2026-10-30",
-   "views": 119
+   "views": 3455
   },
   {
    "date": "2026-10-31",
-   "views": 108
+   "views": 3132
   },
   {
    "date": "2026-11-01",
-   "views": 121
+   "views": 2301
   },
   {
    "date": "2026-11-02",
-   "views": 348
+   "views": 2160
   },
   {
    "date": "2026-11-03",
-   "views": 677
+   "views": 2887
   },
   {
    "date": "2026-11-04",
-   "views": 217
+   "views": 2122
   },
   {
    "date": "2026-11-05",
-   "views": 189
+   "views": 2149
   },
   {
    "date": "2026-11-06",
-   "views": 1102
+   "views": 2306
   },
   {
    "date": "2026-11-07",
-   "views": 404
+   "views": 3874
   },
   {
    "date": "2026-11-08",
-   "views": 240
+   "views": 2814
   },
   {
    "date": "2026-11-09",
-   "views": 225
+   "views": 5250
   },
   {
    "date": "2026-11-10",
-   "views": 276
+   "views": 5644
   },
   {
    "date": "2026-11-11",
-   "views": 809
+   "views": 4751
   },
   {
    "date": "2026-11-12",
-   "views": 193
+   "views": 4228
   },
   {
    "date": "2026-11-13",
-   "views": 133
+   "views": 3820
   },
   {
    "date": "2026-11-14",
-   "views": 433
+   "views": 3882
   },
   {
    "date": "2026-11-15",
-   "views": 264
+   "views": 5055
   },
   {
    "date": "2026-11-16",
-   "views": 213
+   "views": 4093
   },
   {
    "date": "2026-11-17",
-   "views": 326
+   "views": 4076
   },
   {
    "date": "2026-11-18",
-   "views": 97435
+   "views": 4930
+  },
+  {
+   "date": "2026-11-19",
+   "views": 327962
   }
  ],
- "wikipedia_title": "Andrej_Stojakovi\u0107",
+ "wikipedia_title": "Stephen_Wilson_Jr.",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

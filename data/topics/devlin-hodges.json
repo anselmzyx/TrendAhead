@@ -1,197 +1,197 @@
 {
- "title": "Ade Adepitan",
- "slug": "ade-adepitan",
- "score": 62,
- "status": "Building",
- "change_percent": 3442,
- "growth_ratio": 35.42,
- "recent_avg": 57879,
- "baseline_avg": 1634,
- "explanation": "Attention is 35\u00d7 its 30-day baseline.",
+ "title": "Devlin Hodges",
+ "slug": "devlin-hodges",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": 1312,
+ "growth_ratio": 14.12,
+ "recent_avg": 19965,
+ "baseline_avg": 1414,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 56245,
- "latest": 62084,
+ "abs_change": 18551,
+ "latest": 55407,
  "components": {
-  "acceleration": 0.912,
+  "acceleration": 0.677,
   "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.731,
-  "volume": 0.881,
-  "spike_quality": 0.82
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.65,
+  "spike_quality": 0.58
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 57,879 views/day over the last 3 days (30-day baseline: 1,634)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 19,965 views/day over the last 3 days (30-day baseline: 1,414)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 126
-  },
-  {
    "date": "2026-10-11",
-   "views": 88
+   "views": 1455
   },
   {
    "date": "2026-10-12",
-   "views": 98
+   "views": 900
   },
   {
    "date": "2026-10-13",
-   "views": 93
+   "views": 813
   },
   {
    "date": "2026-10-14",
-   "views": 118
+   "views": 750
   },
   {
    "date": "2026-10-15",
-   "views": 99
+   "views": 721
   },
   {
    "date": "2026-10-16",
-   "views": 132
+   "views": 4468
   },
   {
    "date": "2026-10-17",
-   "views": 155
+   "views": 1679
   },
   {
    "date": "2026-10-18",
-   "views": 349
+   "views": 1179
   },
   {
    "date": "2026-10-19",
-   "views": 394
+   "views": 1009
   },
   {
    "date": "2026-10-20",
-   "views": 271
+   "views": 756
   },
   {
    "date": "2026-10-21",
-   "views": 201
+   "views": 837
   },
   {
    "date": "2026-10-22",
-   "views": 459
+   "views": 6399
   },
   {
    "date": "2026-10-23",
-   "views": 251
+   "views": 1827
   },
   {
    "date": "2026-10-24",
-   "views": 204
+   "views": 1274
   },
   {
    "date": "2026-10-25",
-   "views": 186
+   "views": 1142
   },
   {
    "date": "2026-10-26",
-   "views": 164
+   "views": 840
   },
   {
    "date": "2026-10-27",
-   "views": 283
+   "views": 1494
   },
   {
    "date": "2026-10-28",
-   "views": 190
+   "views": 2240
   },
   {
    "date": "2026-10-29",
-   "views": 144
+   "views": 1133
   },
   {
    "date": "2026-10-30",
-   "views": 254
+   "views": 1260
   },
   {
    "date": "2026-10-31",
-   "views": 219
+   "views": 1076
   },
   {
    "date": "2026-11-01",
-   "views": 217
+   "views": 1041
   },
   {
    "date": "2026-11-02",
-   "views": 3227
+   "views": 892
   },
   {
    "date": "2026-11-03",
-   "views": 1670
+   "views": 804
   },
   {
    "date": "2026-11-04",
-   "views": 800
+   "views": 1534
   },
   {
    "date": "2026-11-05",
-   "views": 575
+   "views": 3254
   },
   {
    "date": "2026-11-06",
-   "views": 467
+   "views": 1593
   },
   {
    "date": "2026-11-07",
-   "views": 436
+   "views": 1277
   },
   {
    "date": "2026-11-08",
-   "views": 426
+   "views": 1136
   },
   {
    "date": "2026-11-09",
-   "views": 1103
+   "views": 1013
   },
   {
    "date": "2026-11-10",
-   "views": 3090
+   "views": 952
   },
   {
    "date": "2026-11-11",
-   "views": 8813
+   "views": 1109
   },
   {
    "date": "2026-11-12",
-   "views": 5330
+   "views": 987
   },
   {
    "date": "2026-11-13",
-   "views": 7716
+   "views": 1011
   },
   {
    "date": "2026-11-14",
-   "views": 4965
+   "views": 1148
   },
   {
    "date": "2026-11-15",
-   "views": 6463
+   "views": 1111
   },
   {
    "date": "2026-11-16",
-   "views": 41464
+   "views": 1082
   },
   {
    "date": "2026-11-17",
-   "views": 70088
+   "views": 1217
   },
   {
    "date": "2026-11-18",
-   "views": 62084
+   "views": 3272
+  },
+  {
+   "date": "2026-11-19",
+   "views": 55407
   }
  ],
- "wikipedia_title": "Ade_Adepitan",
+ "wikipedia_title": "Devlin_Hodges",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

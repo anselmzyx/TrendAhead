@@ -1,197 +1,197 @@
 {
- "title": "Lizzy Pattinson",
- "slug": "lizzy-pattinson",
- "score": 27,
- "status": "Peaked / fading",
- "change_percent": 5720,
- "growth_ratio": 58.23,
- "recent_avg": 52673,
- "baseline_avg": 905,
- "explanation": "Attention surged to 58\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Brooks & Dunn",
+ "slug": "brooks-dunn",
+ "score": 33,
+ "status": "Breaking out",
+ "change_percent": 3131,
+ "growth_ratio": 32.3,
+ "recent_avg": 21647,
+ "baseline_avg": 670,
+ "explanation": "Attention is 32\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 51768,
- "latest": 24394,
+ "abs_change": 20977,
+ "latest": 63225,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.888,
   "anomaly": 1.0,
-  "persistence": 0.68,
-  "momentum": 0.258,
-  "volume": 0.861,
-  "spike_quality": 0.471
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.668,
+  "spike_quality": 0.541
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 52,673 views/day over the last 3 days (30-day baseline: 905)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 21,647 views/day over the last 3 days (30-day baseline: 670)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 698
-  },
-  {
    "date": "2026-10-11",
-   "views": 789
+   "views": 1480
   },
   {
    "date": "2026-10-12",
-   "views": 1273
+   "views": 703
   },
   {
    "date": "2026-10-13",
-   "views": 630
-  },
-  {
-   "date": "2026-10-14",
-   "views": 625
-  },
-  {
-   "date": "2026-10-15",
-   "views": 550
-  },
-  {
-   "date": "2026-10-16",
-   "views": 638
-  },
-  {
-   "date": "2026-10-17",
-   "views": 697
-  },
-  {
-   "date": "2026-10-18",
-   "views": 725
-  },
-  {
-   "date": "2026-10-19",
-   "views": 560
-  },
-  {
-   "date": "2026-10-20",
-   "views": 543
-  },
-  {
-   "date": "2026-10-21",
    "views": 567
   },
   {
+   "date": "2026-10-14",
+   "views": 590
+  },
+  {
+   "date": "2026-10-15",
+   "views": 634
+  },
+  {
+   "date": "2026-10-16",
+   "views": 632
+  },
+  {
+   "date": "2026-10-17",
+   "views": 761
+  },
+  {
+   "date": "2026-10-18",
+   "views": 691
+  },
+  {
+   "date": "2026-10-19",
+   "views": 1508
+  },
+  {
+   "date": "2026-10-20",
+   "views": 781
+  },
+  {
+   "date": "2026-10-21",
+   "views": 702
+  },
+  {
    "date": "2026-10-22",
-   "views": 521
+   "views": 730
   },
   {
    "date": "2026-10-23",
-   "views": 521
-  },
-  {
-   "date": "2026-10-24",
-   "views": 624
-  },
-  {
-   "date": "2026-10-25",
-   "views": 613
-  },
-  {
-   "date": "2026-10-26",
-   "views": 578
-  },
-  {
-   "date": "2026-10-27",
-   "views": 553
-  },
-  {
-   "date": "2026-10-28",
-   "views": 577
-  },
-  {
-   "date": "2026-10-29",
-   "views": 572
-  },
-  {
-   "date": "2026-10-30",
-   "views": 640
-  },
-  {
-   "date": "2026-10-31",
    "views": 746
   },
   {
-   "date": "2026-11-01",
-   "views": 858
+   "date": "2026-10-24",
+   "views": 822
   },
   {
-   "date": "2026-11-02",
-   "views": 750
-  },
-  {
-   "date": "2026-11-03",
-   "views": 794
-  },
-  {
-   "date": "2026-11-04",
-   "views": 633
-  },
-  {
-   "date": "2026-11-05",
-   "views": 636
-  },
-  {
-   "date": "2026-11-06",
+   "date": "2026-10-25",
    "views": 656
   },
   {
+   "date": "2026-10-26",
+   "views": 554
+  },
+  {
+   "date": "2026-10-27",
+   "views": 563
+  },
+  {
+   "date": "2026-10-28",
+   "views": 556
+  },
+  {
+   "date": "2026-10-29",
+   "views": 565
+  },
+  {
+   "date": "2026-10-30",
+   "views": 623
+  },
+  {
+   "date": "2026-10-31",
+   "views": 644
+  },
+  {
+   "date": "2026-11-01",
+   "views": 568
+  },
+  {
+   "date": "2026-11-02",
+   "views": 472
+  },
+  {
+   "date": "2026-11-03",
+   "views": 398
+  },
+  {
+   "date": "2026-11-04",
+   "views": 425
+  },
+  {
+   "date": "2026-11-05",
+   "views": 542
+  },
+  {
+   "date": "2026-11-06",
+   "views": 527
+  },
+  {
    "date": "2026-11-07",
-   "views": 2163
+   "views": 690
   },
   {
    "date": "2026-11-08",
-   "views": 1600
+   "views": 697
   },
   {
    "date": "2026-11-09",
-   "views": 1575
+   "views": 539
   },
   {
    "date": "2026-11-10",
-   "views": 1168
+   "views": 598
   },
   {
    "date": "2026-11-11",
-   "views": 872
+   "views": 649
   },
   {
    "date": "2026-11-12",
-   "views": 759
+   "views": 733
   },
   {
    "date": "2026-11-13",
-   "views": 2033
+   "views": 839
   },
   {
    "date": "2026-11-14",
-   "views": 1975
+   "views": 791
   },
   {
    "date": "2026-11-15",
-   "views": 1629
+   "views": 719
   },
   {
    "date": "2026-11-16",
-   "views": 76545
+   "views": 776
   },
   {
    "date": "2026-11-17",
-   "views": 57081
+   "views": 754
   },
   {
    "date": "2026-11-18",
-   "views": 24394
+   "views": 961
+  },
+  {
+   "date": "2026-11-19",
+   "views": 63225
   }
  ],
- "wikipedia_title": "Lizzy_Pattinson",
+ "wikipedia_title": "Brooks_&_Dunn",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

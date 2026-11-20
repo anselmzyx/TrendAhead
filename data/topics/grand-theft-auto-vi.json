@@ -1,105 +1,101 @@
 {
  "title": "Grand Theft Auto VI",
  "slug": "grand-theft-auto-vi",
- "score": 69,
+ "score": 77,
  "status": "Building",
- "change_percent": 709,
- "growth_ratio": 8.09,
- "recent_avg": 259786,
- "baseline_avg": 32094,
- "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
+ "change_percent": 1249,
+ "growth_ratio": 13.49,
+ "recent_avg": 474299,
+ "baseline_avg": 35160,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 227692,
- "latest": 519632,
+ "abs_change": 439139,
+ "latest": 750227,
  "components": {
-  "acceleration": 0.535,
+  "acceleration": 0.665,
   "anomaly": 1.0,
-  "persistence": 0.92,
+  "persistence": 1.0,
   "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.803
+  "spike_quality": 0.835
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 259,786 views/day over the last 3 days (30-day baseline: 32,094)."
+  "Averaging 474,299 views/day over the last 3 days (30-day baseline: 35,160)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 11323
-  },
-  {
    "date": "2026-10-11",
-   "views": 11832
+   "views": 12232
   },
   {
    "date": "2026-10-12",
-   "views": 12257
+   "views": 12549
   },
   {
    "date": "2026-10-13",
-   "views": 12997
+   "views": 13454
   },
   {
    "date": "2026-10-14",
-   "views": 14840
+   "views": 15303
   },
   {
    "date": "2026-10-15",
-   "views": 26444
+   "views": 27318
   },
   {
    "date": "2026-10-16",
-   "views": 24167
+   "views": 25027
   },
   {
    "date": "2026-10-17",
-   "views": 18934
+   "views": 19827
   },
   {
    "date": "2026-10-18",
-   "views": 17809
+   "views": 18446
   },
   {
    "date": "2026-10-19",
-   "views": 20011
+   "views": 20724
   },
   {
    "date": "2026-10-20",
-   "views": 19236
+   "views": 19982
   },
   {
    "date": "2026-10-21",
-   "views": 18073
+   "views": 18509
   },
   {
    "date": "2026-10-22",
-   "views": 18007
+   "views": 18334
   },
   {
    "date": "2026-10-23",
-   "views": 16054
+   "views": 16532
   },
   {
    "date": "2026-10-24",
-   "views": 15460
+   "views": 15855
   },
   {
    "date": "2026-10-25",
-   "views": 16864
+   "views": 17315
   },
   {
    "date": "2026-10-26",
-   "views": 17068
+   "views": 17132
   },
   {
    "date": "2026-10-27",
-   "views": 18261
+   "views": 18227
   },
   {
    "date": "2026-10-28",
@@ -188,11 +184,15 @@
   {
    "date": "2026-11-18",
    "views": 519632
+  },
+  {
+   "date": "2026-11-19",
+   "views": 750227
   }
  ],
  "wikipedia_title": "Grand_Theft_Auto_VI",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

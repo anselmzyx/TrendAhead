@@ -1,196 +1,198 @@
 {
- "title": "Peja Stojakovi\u0107",
- "slug": "peja-stojakovic",
- "score": 38,
- "status": "Breaking out",
- "change_percent": 3985,
- "growth_ratio": 40.86,
- "recent_avg": 20383,
- "baseline_avg": 499,
- "explanation": "Attention is 41\u00d7 its 30-day baseline.",
+ "title": "Jeff Bezos",
+ "slug": "jeff-bezos",
+ "score": 32,
+ "status": "Building",
+ "change_percent": 81,
+ "growth_ratio": 1.81,
+ "recent_avg": 82317,
+ "baseline_avg": 45442,
+ "explanation": "Recent attention is +81% vs its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 19884,
- "latest": 59924,
+ "abs_change": 36875,
+ "latest": 93836,
  "components": {
-  "acceleration": 0.948,
-  "anomaly": 1.0,
+  "acceleration": 0.152,
+  "anomaly": 0.218,
   "persistence": 0.6,
-  "momentum": 0.8,
-  "volume": 0.655,
-  "spike_quality": 0.539
+  "momentum": 0.933,
+  "volume": 0.958,
+  "spike_quality": 0.967
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 20,383 views/day over the last 3 days (30-day baseline: 499)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 82,317 views/day over the last 3 days (30-day baseline: 45,442)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 262
-  },
-  {
    "date": "2026-10-11",
-   "views": 326
+   "views": 25134
   },
   {
    "date": "2026-10-12",
-   "views": 386
+   "views": 33799
   },
   {
    "date": "2026-10-13",
-   "views": 337
+   "views": 47857
   },
   {
    "date": "2026-10-14",
-   "views": 333
+   "views": 50296
   },
   {
    "date": "2026-10-15",
-   "views": 312
+   "views": 107369
   },
   {
    "date": "2026-10-16",
-   "views": 428
+   "views": 57457
   },
   {
    "date": "2026-10-17",
-   "views": 359
+   "views": 29704
   },
   {
    "date": "2026-10-18",
-   "views": 331
+   "views": 25941
   },
   {
    "date": "2026-10-19",
-   "views": 369
+   "views": 67353
   },
   {
    "date": "2026-10-20",
-   "views": 321
+   "views": 50181
   },
   {
    "date": "2026-10-21",
-   "views": 336
+   "views": 42087
   },
   {
    "date": "2026-10-22",
-   "views": 388
+   "views": 60512
   },
   {
    "date": "2026-10-23",
-   "views": 332
+   "views": 35373
   },
   {
    "date": "2026-10-24",
-   "views": 359
+   "views": 29234
   },
   {
    "date": "2026-10-25",
-   "views": 286
+   "views": 25076
   },
   {
    "date": "2026-10-26",
-   "views": 341
+   "views": 37488
   },
   {
    "date": "2026-10-27",
-   "views": 350
+   "views": 38391
   },
   {
    "date": "2026-10-28",
-   "views": 379
+   "views": 27837
   },
   {
    "date": "2026-10-29",
-   "views": 427
+   "views": 26479
   },
   {
    "date": "2026-10-30",
-   "views": 422
+   "views": 32463
   },
   {
    "date": "2026-10-31",
-   "views": 373
+   "views": 35348
   },
   {
    "date": "2026-11-01",
-   "views": 341
+   "views": 27983
   },
   {
    "date": "2026-11-02",
-   "views": 433
+   "views": 58621
   },
   {
    "date": "2026-11-03",
-   "views": 654
+   "views": 53845
   },
   {
    "date": "2026-11-04",
-   "views": 389
+   "views": 48817
   },
   {
    "date": "2026-11-05",
-   "views": 387
+   "views": 64860
   },
   {
    "date": "2026-11-06",
-   "views": 1368
+   "views": 52828
   },
   {
    "date": "2026-11-07",
-   "views": 646
+   "views": 44990
   },
   {
    "date": "2026-11-08",
-   "views": 444
+   "views": 17245
   },
   {
    "date": "2026-11-09",
-   "views": 454
+   "views": 45269
   },
   {
    "date": "2026-11-10",
-   "views": 447
+   "views": 50307
   },
   {
    "date": "2026-11-11",
-   "views": 969
+   "views": 65330
   },
   {
    "date": "2026-11-12",
-   "views": 442
+   "views": 74462
   },
   {
    "date": "2026-11-13",
-   "views": 383
+   "views": 59177
   },
   {
    "date": "2026-11-14",
-   "views": 1024
+   "views": 32906
   },
   {
    "date": "2026-11-15",
-   "views": 1212
+   "views": 40086
   },
   {
    "date": "2026-11-16",
-   "views": 655
+   "views": 92773
   },
   {
    "date": "2026-11-17",
-   "views": 571
+   "views": 61162
   },
   {
    "date": "2026-11-18",
-   "views": 59924
+   "views": 91953
+  },
+  {
+   "date": "2026-11-19",
+   "views": 93836
   }
  ],
- "wikipedia_title": "Peja_Stojakovi\u0107",
+ "wikipedia_title": "Jeff_Bezos",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Pierce Brosnan",
- "slug": "pierce-brosnan",
- "score": 30,
- "status": "Peaked / fading",
- "change_percent": 347,
- "growth_ratio": 4.47,
- "recent_avg": 53850,
- "baseline_avg": 12058,
- "explanation": "Attention surged to 4.5\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Rockstar Games",
+ "slug": "rockstar-games",
+ "score": 74,
+ "status": "Building",
+ "change_percent": 904,
+ "growth_ratio": 10.04,
+ "recent_avg": 73908,
+ "baseline_avg": 7360,
+ "explanation": "Attention is 10\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 41792,
- "latest": 35870,
+ "abs_change": 66548,
+ "latest": 112864,
  "components": {
-  "acceleration": 0.383,
+  "acceleration": 0.59,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.527,
-  "volume": 0.866,
-  "spike_quality": 0.675
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.934,
+  "spike_quality": 0.86
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 53,850 views/day over the last 3 days (30-day baseline: 12,058)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 73,908 views/day over the last 3 days (30-day baseline: 7,360)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 13157
-  },
-  {
    "date": "2026-10-11",
-   "views": 13398
+   "views": 3140
   },
   {
    "date": "2026-10-12",
-   "views": 12587
+   "views": 3232
   },
   {
    "date": "2026-10-13",
-   "views": 11564
+   "views": 3654
   },
   {
    "date": "2026-10-14",
-   "views": 8571
+   "views": 5236
   },
   {
    "date": "2026-10-15",
-   "views": 8405
+   "views": 6130
   },
   {
    "date": "2026-10-16",
-   "views": 10243
+   "views": 6282
   },
   {
    "date": "2026-10-17",
-   "views": 11840
+   "views": 5062
   },
   {
    "date": "2026-10-18",
-   "views": 13813
+   "views": 4602
   },
   {
    "date": "2026-10-19",
-   "views": 10073
+   "views": 4540
   },
   {
    "date": "2026-10-20",
-   "views": 8782
+   "views": 4614
   },
   {
    "date": "2026-10-21",
-   "views": 9200
+   "views": 4494
   },
   {
    "date": "2026-10-22",
-   "views": 9916
+   "views": 4413
   },
   {
    "date": "2026-10-23",
-   "views": 11869
+   "views": 3921
   },
   {
    "date": "2026-10-24",
-   "views": 14114
+   "views": 3937
   },
   {
    "date": "2026-10-25",
-   "views": 12413
+   "views": 4116
   },
   {
    "date": "2026-10-26",
-   "views": 15852
+   "views": 4533
   },
   {
    "date": "2026-10-27",
-   "views": 11817
+   "views": 3973
   },
   {
    "date": "2026-10-28",
-   "views": 9266
+   "views": 3802
   },
   {
    "date": "2026-10-29",
-   "views": 9893
+   "views": 4595
   },
   {
    "date": "2026-10-30",
-   "views": 11741
+   "views": 3868
   },
   {
    "date": "2026-10-31",
-   "views": 12142
+   "views": 3538
   },
   {
    "date": "2026-11-01",
-   "views": 13594
+   "views": 3978
   },
   {
    "date": "2026-11-02",
-   "views": 11215
+   "views": 4516
   },
   {
    "date": "2026-11-03",
-   "views": 9806
+   "views": 5291
   },
   {
    "date": "2026-11-04",
-   "views": 12863
+   "views": 4729
   },
   {
    "date": "2026-11-05",
-   "views": 13197
+   "views": 7706
   },
   {
    "date": "2026-11-06",
-   "views": 12182
+   "views": 8005
   },
   {
    "date": "2026-11-07",
-   "views": 15320
+   "views": 6192
   },
   {
    "date": "2026-11-08",
-   "views": 14652
+   "views": 6036
   },
   {
    "date": "2026-11-09",
-   "views": 13763
+   "views": 7582
   },
   {
    "date": "2026-11-10",
-   "views": 11449
+   "views": 10386
   },
   {
    "date": "2026-11-11",
-   "views": 10747
+   "views": 11039
   },
   {
    "date": "2026-11-12",
-   "views": 10320
+   "views": 13766
   },
   {
    "date": "2026-11-13",
-   "views": 11814
+   "views": 14335
   },
   {
    "date": "2026-11-14",
-   "views": 13826
+   "views": 15767
   },
   {
    "date": "2026-11-15",
-   "views": 14254
+   "views": 18590
   },
   {
    "date": "2026-11-16",
-   "views": 59946
+   "views": 23946
   },
   {
    "date": "2026-11-17",
-   "views": 65735
+   "views": 29538
   },
   {
    "date": "2026-11-18",
-   "views": 35870
+   "views": 79323
+  },
+  {
+   "date": "2026-11-19",
+   "views": 112864
   }
  ],
- "wikipedia_title": "Pierce_Brosnan",
+ "wikipedia_title": "Rockstar_Games",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

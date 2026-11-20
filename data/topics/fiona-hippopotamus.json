@@ -1,0 +1,197 @@
+{
+ "title": "Fiona (hippopotamus)",
+ "slug": "fiona-hippopotamus",
+ "score": 53,
+ "status": "Breaking out",
+ "change_percent": 36637,
+ "growth_ratio": 304.92,
+ "recent_avg": 30492,
+ "baseline_avg": 83,
+ "explanation": "Attention is 305\u00d7 its 30-day baseline.",
+ "discovery": [
+  "new entrant"
+ ],
+ "abs_change": 30409,
+ "latest": 83965,
+ "components": {
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.742,
+  "spike_quality": 0.551
+ },
+ "why": [
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 30,492 views/day over the last 3 days (30-day baseline: 83)."
+ ],
+ "history": [
+  {
+   "date": "2026-10-11",
+   "views": 81
+  },
+  {
+   "date": "2026-10-12",
+   "views": 79
+  },
+  {
+   "date": "2026-10-13",
+   "views": 66
+  },
+  {
+   "date": "2026-10-14",
+   "views": 54
+  },
+  {
+   "date": "2026-10-15",
+   "views": 78
+  },
+  {
+   "date": "2026-10-16",
+   "views": 77
+  },
+  {
+   "date": "2026-10-17",
+   "views": 97
+  },
+  {
+   "date": "2026-10-18",
+   "views": 72
+  },
+  {
+   "date": "2026-10-19",
+   "views": 74
+  },
+  {
+   "date": "2026-10-20",
+   "views": 70
+  },
+  {
+   "date": "2026-10-21",
+   "views": 40
+  },
+  {
+   "date": "2026-10-22",
+   "views": 46
+  },
+  {
+   "date": "2026-10-23",
+   "views": 78
+  },
+  {
+   "date": "2026-10-24",
+   "views": 51
+  },
+  {
+   "date": "2026-10-25",
+   "views": 78
+  },
+  {
+   "date": "2026-10-26",
+   "views": 73
+  },
+  {
+   "date": "2026-10-27",
+   "views": 97
+  },
+  {
+   "date": "2026-10-28",
+   "views": 63
+  },
+  {
+   "date": "2026-10-29",
+   "views": 54
+  },
+  {
+   "date": "2026-10-30",
+   "views": 60
+  },
+  {
+   "date": "2026-10-31",
+   "views": 65
+  },
+  {
+   "date": "2026-11-01",
+   "views": 71
+  },
+  {
+   "date": "2026-11-02",
+   "views": 55
+  },
+  {
+   "date": "2026-11-03",
+   "views": 81
+  },
+  {
+   "date": "2026-11-04",
+   "views": 49
+  },
+  {
+   "date": "2026-11-05",
+   "views": 72
+  },
+  {
+   "date": "2026-11-06",
+   "views": 223
+  },
+  {
+   "date": "2026-11-07",
+   "views": 125
+  },
+  {
+   "date": "2026-11-08",
+   "views": 118
+  },
+  {
+   "date": "2026-11-09",
+   "views": 112
+  },
+  {
+   "date": "2026-11-10",
+   "views": 88
+  },
+  {
+   "date": "2026-11-11",
+   "views": 49
+  },
+  {
+   "date": "2026-11-12",
+   "views": 66
+  },
+  {
+   "date": "2026-11-13",
+   "views": 79
+  },
+  {
+   "date": "2026-11-14",
+   "views": 76
+  },
+  {
+   "date": "2026-11-15",
+   "views": 60
+  },
+  {
+   "date": "2026-11-16",
+   "views": 253
+  },
+  {
+   "date": "2026-11-17",
+   "views": 895
+  },
+  {
+   "date": "2026-11-18",
+   "views": 6615
+  },
+  {
+   "date": "2026-11-19",
+   "views": 83965
+  }
+ ],
+ "wikipedia_title": "Fiona_(hippopotamus)",
+ "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
+ "score_version": "v1.1",
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
+}

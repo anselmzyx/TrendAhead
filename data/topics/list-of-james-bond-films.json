@@ -1,103 +1,100 @@
 {
  "title": "List of James Bond films",
  "slug": "list-of-james-bond-films",
- "score": 37,
- "status": "Elevated",
- "change_percent": 732,
- "growth_ratio": 8.32,
- "recent_avg": 100299,
- "baseline_avg": 12061,
- "explanation": "Attention is 8.3\u00d7 its 30-day baseline.",
+ "score": 21,
+ "status": "Peaked / fading",
+ "change_percent": 439,
+ "growth_ratio": 5.39,
+ "recent_avg": 82485,
+ "baseline_avg": 15298,
+ "explanation": "Attention surged to 5.4\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 88238,
- "latest": 73650,
+ "abs_change": 67187,
+ "latest": 53294,
  "components": {
-  "acceleration": 0.541,
-  "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.567,
-  "volume": 1.0,
-  "spike_quality": 0.691
+  "acceleration": 0.431,
+  "anomaly": 0.393,
+  "persistence": 0.64,
+  "momentum": 0.332,
+  "volume": 0.958,
+  "spike_quality": 0.627
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 100,299 views/day over the last 3 days (30-day baseline: 12,061)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 82,485 views/day over the last 3 days (30-day baseline: 15,298)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 12799
-  },
-  {
    "date": "2026-10-11",
-   "views": 12289
+   "views": 12543
   },
   {
    "date": "2026-10-12",
-   "views": 11117
+   "views": 11308
   },
   {
    "date": "2026-10-13",
-   "views": 9929
+   "views": 10223
   },
   {
    "date": "2026-10-14",
-   "views": 9790
+   "views": 10112
   },
   {
    "date": "2026-10-15",
-   "views": 10237
+   "views": 10467
   },
   {
    "date": "2026-10-16",
-   "views": 10100
+   "views": 10403
   },
   {
    "date": "2026-10-17",
-   "views": 12149
+   "views": 12554
   },
   {
    "date": "2026-10-18",
-   "views": 12974
+   "views": 13343
   },
   {
    "date": "2026-10-19",
-   "views": 10187
+   "views": 10467
   },
   {
    "date": "2026-10-20",
-   "views": 9273
+   "views": 9636
   },
   {
    "date": "2026-10-21",
-   "views": 9149
+   "views": 9445
   },
   {
    "date": "2026-10-22",
-   "views": 10584
+   "views": 10863
   },
   {
    "date": "2026-10-23",
-   "views": 13409
+   "views": 13760
   },
   {
    "date": "2026-10-24",
-   "views": 14471
+   "views": 14753
   },
   {
    "date": "2026-10-25",
-   "views": 14166
+   "views": 14405
   },
   {
    "date": "2026-10-26",
-   "views": 11381
+   "views": 11453
   },
   {
    "date": "2026-10-27",
-   "views": 10077
+   "views": 10074
   },
   {
    "date": "2026-10-28",
@@ -186,11 +183,15 @@
   {
    "date": "2026-11-18",
    "views": 73650
+  },
+  {
+   "date": "2026-11-19",
+   "views": 53294
   }
  ],
  "wikipedia_title": "List_of_James_Bond_films",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }

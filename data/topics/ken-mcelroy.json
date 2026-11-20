@@ -1,197 +1,196 @@
 {
- "title": "Daniel Craig",
- "slug": "daniel-craig",
- "score": 27,
- "status": "Peaked / fading",
- "change_percent": 974,
- "growth_ratio": 10.74,
- "recent_avg": 86482,
- "baseline_avg": 8049,
- "explanation": "Attention surged to 11\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Ken McElroy",
+ "slug": "ken-mcelroy",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": 8193,
+ "growth_ratio": 82.92,
+ "recent_avg": 57967,
+ "baseline_avg": 699,
+ "explanation": "Attention is 83\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 78433,
- "latest": 50126,
+ "abs_change": 57268,
+ "latest": 172820,
  "components": {
-  "acceleration": 0.607,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.44,
-  "momentum": 0.346,
-  "volume": 0.968,
-  "spike_quality": 0.602
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.882,
+  "spike_quality": 0.513
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 86,482 views/day over the last 3 days (30-day baseline: 8,049)."
+  "Averaging 57,967 views/day over the last 3 days (30-day baseline: 699)."
  ],
  "history": [
   {
-   "date": "2026-10-10",
-   "views": 7786
-  },
-  {
    "date": "2026-10-11",
-   "views": 7144
+   "views": 841
   },
   {
    "date": "2026-10-12",
-   "views": 6288
+   "views": 1046
   },
   {
    "date": "2026-10-13",
-   "views": 7233
+   "views": 1390
   },
   {
    "date": "2026-10-14",
-   "views": 9875
+   "views": 959
   },
   {
    "date": "2026-10-15",
-   "views": 8641
+   "views": 772
   },
   {
    "date": "2026-10-16",
-   "views": 7317
+   "views": 742
   },
   {
    "date": "2026-10-17",
-   "views": 8054
+   "views": 2738
   },
   {
    "date": "2026-10-18",
-   "views": 7746
+   "views": 1081
   },
   {
    "date": "2026-10-19",
-   "views": 6150
+   "views": 940
   },
   {
    "date": "2026-10-20",
-   "views": 5807
+   "views": 858
   },
   {
    "date": "2026-10-21",
-   "views": 5277
+   "views": 751
   },
   {
    "date": "2026-10-22",
-   "views": 6560
+   "views": 674
   },
   {
    "date": "2026-10-23",
-   "views": 9816
+   "views": 625
   },
   {
    "date": "2026-10-24",
-   "views": 10132
+   "views": 619
   },
   {
    "date": "2026-10-25",
-   "views": 11423
+   "views": 541
   },
   {
    "date": "2026-10-26",
-   "views": 10412
+   "views": 955
   },
   {
    "date": "2026-10-27",
-   "views": 9616
+   "views": 1009
   },
   {
    "date": "2026-10-28",
-   "views": 6399
+   "views": 711
   },
   {
    "date": "2026-10-29",
-   "views": 6789
+   "views": 604
   },
   {
    "date": "2026-10-30",
-   "views": 6567
+   "views": 557
   },
   {
    "date": "2026-10-31",
-   "views": 6974
+   "views": 511
   },
   {
    "date": "2026-11-01",
-   "views": 7975
+   "views": 579
   },
   {
    "date": "2026-11-02",
-   "views": 6671
+   "views": 667
   },
   {
    "date": "2026-11-03",
-   "views": 7227
+   "views": 513
   },
   {
    "date": "2026-11-04",
-   "views": 6862
+   "views": 590
   },
   {
    "date": "2026-11-05",
-   "views": 6898
+   "views": 621
   },
   {
    "date": "2026-11-06",
-   "views": 6633
+   "views": 526
   },
   {
    "date": "2026-11-07",
-   "views": 10437
+   "views": 503
   },
   {
    "date": "2026-11-08",
-   "views": 9726
+   "views": 490
   },
   {
    "date": "2026-11-09",
-   "views": 10369
+   "views": 687
   },
   {
    "date": "2026-11-10",
-   "views": 8602
+   "views": 864
   },
   {
    "date": "2026-11-11",
-   "views": 7028
+   "views": 882
   },
   {
    "date": "2026-11-12",
-   "views": 6796
+   "views": 864
   },
   {
    "date": "2026-11-13",
-   "views": 8856
+   "views": 692
   },
   {
    "date": "2026-11-14",
-   "views": 10031
+   "views": 833
   },
   {
    "date": "2026-11-15",
-   "views": 9629
+   "views": 644
   },
   {
    "date": "2026-11-16",
-   "views": 107838
+   "views": 580
   },
   {
    "date": "2026-11-17",
-   "views": 101483
+   "views": 572
   },
   {
    "date": "2026-11-18",
-   "views": 50126
+   "views": 510
+  },
+  {
+   "date": "2026-11-19",
+   "views": 172820
   }
  ],
- "wikipedia_title": "Daniel_Craig",
+ "wikipedia_title": "Ken_McElroy",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-18",
- "generated_at_utc": "2026-11-19T14:39:37+00:00"
+ "data_through": "2026-11-19",
+ "generated_at_utc": "2026-11-20T14:19:22+00:00"
 }
