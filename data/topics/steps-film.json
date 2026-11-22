@@ -1,197 +1,198 @@
 {
- "title": "Larry Poindexter",
- "slug": "larry-poindexter",
- "score": 41,
- "status": "Breaking out",
- "change_percent": 81339,
- "growth_ratio": 415.34,
- "recent_avg": 41534,
- "baseline_avg": 51,
- "explanation": "Attention is 415\u00d7 its 30-day baseline.",
+ "title": "Steps (film)",
+ "slug": "steps-film",
+ "score": 66,
+ "status": "Building",
+ "change_percent": 1137,
+ "growth_ratio": 12.37,
+ "recent_avg": 38595,
+ "baseline_avg": 3120,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41483,
- "latest": 124373,
+ "abs_change": 35475,
+ "latest": 67976,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.643,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.809,
-  "spike_quality": 0.502
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.793,
+  "spike_quality": 0.793
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 41,534 views/day over the last 3 days (30-day baseline: 51)."
+  "Averaging 38,595 views/day over the last 3 days (30-day baseline: 3,120)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 36
-  },
-  {
-   "date": "2026-10-12",
-   "views": 55
-  },
-  {
    "date": "2026-10-13",
-   "views": 57
+   "views": 1111
   },
   {
    "date": "2026-10-14",
-   "views": 62
+   "views": 1020
   },
   {
    "date": "2026-10-15",
-   "views": 54
+   "views": 6909
   },
   {
    "date": "2026-10-16",
-   "views": 67
+   "views": 6219
   },
   {
    "date": "2026-10-17",
-   "views": 53
+   "views": 3725
   },
   {
    "date": "2026-10-18",
-   "views": 79
+   "views": 3212
   },
   {
    "date": "2026-10-19",
-   "views": 56
+   "views": 2873
   },
   {
    "date": "2026-10-20",
-   "views": 65
+   "views": 2480
   },
   {
    "date": "2026-10-21",
-   "views": 46
+   "views": 2089
   },
   {
    "date": "2026-10-22",
-   "views": 55
+   "views": 1796
   },
   {
    "date": "2026-10-23",
-   "views": 53
+   "views": 1636
   },
   {
    "date": "2026-10-24",
-   "views": 55
+   "views": 1676
   },
   {
    "date": "2026-10-25",
-   "views": 54
+   "views": 1940
   },
   {
    "date": "2026-10-26",
-   "views": 51
+   "views": 2000
   },
   {
    "date": "2026-10-27",
-   "views": 52
+   "views": 1716
   },
   {
    "date": "2026-10-28",
-   "views": 41
+   "views": 1558
   },
   {
    "date": "2026-10-29",
-   "views": 52
+   "views": 1549
   },
   {
    "date": "2026-10-30",
-   "views": 41
+   "views": 1448
   },
   {
    "date": "2026-10-31",
-   "views": 47
+   "views": 1529
   },
   {
    "date": "2026-11-01",
-   "views": 71
+   "views": 1700
   },
   {
    "date": "2026-11-02",
-   "views": 39
+   "views": 1788
   },
   {
    "date": "2026-11-03",
-   "views": 46
+   "views": 1840
   },
   {
    "date": "2026-11-04",
-   "views": 43
+   "views": 1555
   },
   {
    "date": "2026-11-05",
-   "views": 48
+   "views": 1637
   },
   {
    "date": "2026-11-06",
-   "views": 29
+   "views": 3433
   },
   {
    "date": "2026-11-07",
-   "views": 51
+   "views": 4294
   },
   {
    "date": "2026-11-08",
-   "views": 40
+   "views": 3795
   },
   {
    "date": "2026-11-09",
-   "views": 54
+   "views": 8847
   },
   {
    "date": "2026-11-10",
-   "views": 52
+   "views": 5565
   },
   {
    "date": "2026-11-11",
-   "views": 53
+   "views": 4671
   },
   {
    "date": "2026-11-12",
-   "views": 38
+   "views": 4176
   },
   {
    "date": "2026-11-13",
-   "views": 49
+   "views": 4052
   },
   {
    "date": "2026-11-14",
-   "views": 58
+   "views": 4086
   },
   {
    "date": "2026-11-15",
-   "views": 60
+   "views": 4781
   },
   {
    "date": "2026-11-16",
-   "views": 58
+   "views": 4402
   },
   {
    "date": "2026-11-17",
-   "views": 52
+   "views": 5212
   },
   {
    "date": "2026-11-18",
-   "views": 178
+   "views": 6341
   },
   {
    "date": "2026-11-19",
-   "views": 124373
+   "views": 7068
+  },
+  {
+   "date": "2026-11-20",
+   "views": 40742
+  },
+  {
+   "date": "2026-11-21",
+   "views": 67976
   }
  ],
- "wikipedia_title": "Larry_Poindexter",
+ "wikipedia_title": "Steps_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

@@ -1,42 +1,33 @@
 {
  "title": "Grand Theft Auto VI",
  "slug": "grand-theft-auto-vi",
- "score": 77,
- "status": "Building",
- "change_percent": 1249,
- "growth_ratio": 13.49,
- "recent_avg": 474299,
- "baseline_avg": 35160,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "score": 32,
+ "status": "Peaked / fading",
+ "change_percent": 898,
+ "growth_ratio": 9.98,
+ "recent_avg": 561453,
+ "baseline_avg": 56276,
+ "explanation": "Attention surged to 10.0\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 439139,
- "latest": 750227,
+ "abs_change": 505177,
+ "latest": 393338,
  "components": {
-  "acceleration": 0.665,
-  "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
+  "acceleration": 0.588,
+  "anomaly": 0.55,
+  "persistence": 0.84,
+  "momentum": 0.381,
   "volume": 1.0,
-  "spike_quality": 0.835
+  "spike_quality": 0.674
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 474,299 views/day over the last 3 days (30-day baseline: 35,160)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 561,453 views/day over the last 3 days (30-day baseline: 56,276)."
  ],
  "history": [
-  {
-   "date": "2026-10-11",
-   "views": 12232
-  },
-  {
-   "date": "2026-10-12",
-   "views": 12549
-  },
   {
    "date": "2026-10-13",
    "views": 13454
@@ -188,11 +179,19 @@
   {
    "date": "2026-11-19",
    "views": 750227
+  },
+  {
+   "date": "2026-11-20",
+   "views": 540793
+  },
+  {
+   "date": "2026-11-21",
+   "views": 393338
   }
  ],
  "wikipedia_title": "Grand_Theft_Auto_VI",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

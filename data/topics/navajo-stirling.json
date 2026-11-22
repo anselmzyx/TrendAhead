@@ -1,198 +1,198 @@
 {
- "title": "Jeff Bezos",
- "slug": "jeff-bezos",
- "score": 32,
- "status": "Building",
- "change_percent": 81,
- "growth_ratio": 1.81,
- "recent_avg": 82317,
- "baseline_avg": 45442,
- "explanation": "Recent attention is +81% vs its 30-day baseline.",
+ "title": "Navajo Stirling",
+ "slug": "navajo-stirling",
+ "score": 59,
+ "status": "Breaking out",
+ "change_percent": 2005,
+ "growth_ratio": 21.06,
+ "recent_avg": 22185,
+ "baseline_avg": 1054,
+ "explanation": "Attention is 21\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 36875,
- "latest": 93836,
+ "abs_change": 21131,
+ "latest": 52558,
  "components": {
-  "acceleration": 0.152,
-  "anomaly": 0.218,
-  "persistence": 0.6,
-  "momentum": 0.933,
-  "volume": 0.958,
-  "spike_quality": 0.967
+  "acceleration": 0.779,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.673,
+  "spike_quality": 0.707
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 82,317 views/day over the last 3 days (30-day baseline: 45,442)."
+  "Averaging 22,185 views/day over the last 3 days (30-day baseline: 1,054)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 25134
-  },
-  {
-   "date": "2026-10-12",
-   "views": 33799
-  },
-  {
    "date": "2026-10-13",
-   "views": 47857
+   "views": 368
   },
   {
    "date": "2026-10-14",
-   "views": 50296
+   "views": 342
   },
   {
    "date": "2026-10-15",
-   "views": 107369
+   "views": 333
   },
   {
    "date": "2026-10-16",
-   "views": 57457
+   "views": 324
   },
   {
    "date": "2026-10-17",
-   "views": 29704
+   "views": 391
   },
   {
    "date": "2026-10-18",
-   "views": 25941
+   "views": 589
   },
   {
    "date": "2026-10-19",
-   "views": 67353
+   "views": 373
   },
   {
    "date": "2026-10-20",
-   "views": 50181
+   "views": 387
   },
   {
    "date": "2026-10-21",
-   "views": 42087
+   "views": 482
   },
   {
    "date": "2026-10-22",
-   "views": 60512
+   "views": 374
   },
   {
    "date": "2026-10-23",
-   "views": 35373
+   "views": 365
   },
   {
    "date": "2026-10-24",
-   "views": 29234
+   "views": 1064
   },
   {
    "date": "2026-10-25",
-   "views": 25076
+   "views": 915
   },
   {
    "date": "2026-10-26",
-   "views": 37488
+   "views": 657
   },
   {
    "date": "2026-10-27",
-   "views": 38391
+   "views": 542
   },
   {
    "date": "2026-10-28",
-   "views": 27837
+   "views": 447
   },
   {
    "date": "2026-10-29",
-   "views": 26479
+   "views": 458
   },
   {
    "date": "2026-10-30",
-   "views": 32463
+   "views": 477
   },
   {
    "date": "2026-10-31",
-   "views": 35348
+   "views": 487
   },
   {
    "date": "2026-11-01",
-   "views": 27983
+   "views": 664
   },
   {
    "date": "2026-11-02",
-   "views": 58621
+   "views": 563
   },
   {
    "date": "2026-11-03",
-   "views": 53845
+   "views": 471
   },
   {
    "date": "2026-11-04",
-   "views": 48817
+   "views": 460
   },
   {
    "date": "2026-11-05",
-   "views": 64860
+   "views": 663
   },
   {
    "date": "2026-11-06",
-   "views": 52828
+   "views": 679
   },
   {
    "date": "2026-11-07",
-   "views": 44990
+   "views": 741
   },
   {
    "date": "2026-11-08",
-   "views": 17245
+   "views": 1213
   },
   {
    "date": "2026-11-09",
-   "views": 45269
+   "views": 694
   },
   {
    "date": "2026-11-10",
-   "views": 50307
+   "views": 629
   },
   {
    "date": "2026-11-11",
-   "views": 65330
+   "views": 604
   },
   {
    "date": "2026-11-12",
-   "views": 74462
+   "views": 757
   },
   {
    "date": "2026-11-13",
-   "views": 59177
+   "views": 712
   },
   {
    "date": "2026-11-14",
-   "views": 32906
+   "views": 1156
   },
   {
    "date": "2026-11-15",
-   "views": 40086
+   "views": 2885
   },
   {
    "date": "2026-11-16",
-   "views": 92773
+   "views": 2389
   },
   {
    "date": "2026-11-17",
-   "views": 61162
+   "views": 3978
   },
   {
    "date": "2026-11-18",
-   "views": 91953
+   "views": 5693
   },
   {
    "date": "2026-11-19",
-   "views": 93836
+   "views": 5816
+  },
+  {
+   "date": "2026-11-20",
+   "views": 8182
+  },
+  {
+   "date": "2026-11-21",
+   "views": 52558
   }
  ],
- "wikipedia_title": "Jeff_Bezos",
+ "wikipedia_title": "Navajo_Stirling",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

@@ -1,198 +1,198 @@
 {
- "title": "Manni L. Perez",
- "slug": "manni-l-perez",
- "score": 69,
+ "title": "XXX: Return of Xander Cage",
+ "slug": "xxx-return-of-xander-cage",
+ "score": 36,
  "status": "Building",
- "change_percent": 939833,
- "growth_ratio": 563.96,
- "recent_avg": 56396,
- "baseline_avg": 6,
- "explanation": "Attention is 564\u00d7 its 30-day baseline.",
+ "change_percent": 302,
+ "growth_ratio": 4.02,
+ "recent_avg": 52667,
+ "baseline_avg": 13094,
+ "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 56390,
- "latest": 69951,
+ "abs_change": 39573,
+ "latest": 62709,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
+  "acceleration": 0.356,
+  "anomaly": 0.223,
   "persistence": 0.6,
   "momentum": 1.0,
-  "volume": 0.876,
-  "spike_quality": 0.842
+  "volume": 0.861,
+  "spike_quality": 0.886
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 56,396 views/day over the last 3 days (30-day baseline: 6)."
+  "Averaging 52,667 views/day over the last 3 days (30-day baseline: 13,094)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 4
-  },
-  {
-   "date": "2026-10-12",
-   "views": 4
-  },
-  {
    "date": "2026-10-13",
-   "views": 1
+   "views": 7782
   },
   {
    "date": "2026-10-14",
-   "views": 5
+   "views": 7887
   },
   {
    "date": "2026-10-15",
-   "views": 6
+   "views": 7685
   },
   {
    "date": "2026-10-16",
-   "views": 7
+   "views": 7802
   },
   {
    "date": "2026-10-17",
-   "views": 8
+   "views": 8360
   },
   {
    "date": "2026-10-18",
-   "views": 2
+   "views": 7341
   },
   {
    "date": "2026-10-19",
-   "views": 4
+   "views": 6830
   },
   {
    "date": "2026-10-20",
-   "views": 4
+   "views": 5406
   },
   {
    "date": "2026-10-21",
-   "views": 11
+   "views": 46876
   },
   {
    "date": "2026-10-22",
-   "views": 6
+   "views": 46262
   },
   {
    "date": "2026-10-23",
-   "views": 6
+   "views": 89095
   },
   {
    "date": "2026-10-24",
-   "views": 2
+   "views": 31385
   },
   {
    "date": "2026-10-25",
-   "views": 17
+   "views": 12244
   },
   {
    "date": "2026-10-26",
-   "views": 13
+   "views": 9810
   },
   {
    "date": "2026-10-27",
-   "views": 3
+   "views": 7648
   },
   {
    "date": "2026-10-28",
-   "views": 3
+   "views": 5745
   },
   {
    "date": "2026-10-29",
-   "views": 4
+   "views": 6158
   },
   {
    "date": "2026-10-30",
-   "views": 9
+   "views": 5472
   },
   {
    "date": "2026-10-31",
-   "views": 4
+   "views": 5748
   },
   {
    "date": "2026-11-01",
-   "views": 5
+   "views": 7065
   },
   {
    "date": "2026-11-02",
-   "views": 6
+   "views": 7629
   },
   {
    "date": "2026-11-03",
-   "views": 3
+   "views": 7318
   },
   {
    "date": "2026-11-04",
-   "views": 5
+   "views": 6629
   },
   {
    "date": "2026-11-05",
-   "views": 5
+   "views": 7986
   },
   {
    "date": "2026-11-06",
-   "views": 1
+   "views": 6856
   },
   {
    "date": "2026-11-07",
-   "views": 3
+   "views": 6082
   },
   {
    "date": "2026-11-08",
-   "views": 8
+   "views": 6851
   },
   {
    "date": "2026-11-09",
-   "views": 3
+   "views": 6109
   },
   {
    "date": "2026-11-10",
-   "views": 4
+   "views": 5359
   },
   {
    "date": "2026-11-11",
-   "views": 14
+   "views": 6540
   },
   {
    "date": "2026-11-12",
-   "views": 17
+   "views": 6012
   },
   {
    "date": "2026-11-13",
-   "views": 4
+   "views": 6144
   },
   {
    "date": "2026-11-14",
-   "views": 9
+   "views": 7442
   },
   {
    "date": "2026-11-15",
-   "views": 8
+   "views": 6659
   },
   {
    "date": "2026-11-16",
-   "views": 6
+   "views": 7028
   },
   {
    "date": "2026-11-17",
-   "views": 31969
+   "views": 6286
   },
   {
    "date": "2026-11-18",
-   "views": 67267
+   "views": 6981
   },
   {
    "date": "2026-11-19",
-   "views": 69951
+   "views": 40344
+  },
+  {
+   "date": "2026-11-20",
+   "views": 54947
+  },
+  {
+   "date": "2026-11-21",
+   "views": 62709
   }
  ],
- "wikipedia_title": "Manni_L._Perez",
+ "wikipedia_title": "XXX:_Return_of_Xander_Cage",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

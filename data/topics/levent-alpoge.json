@@ -1,197 +1,196 @@
 {
- "title": "Brooks & Dunn",
- "slug": "brooks-dunn",
- "score": 33,
- "status": "Breaking out",
- "change_percent": 3131,
- "growth_ratio": 32.3,
- "recent_avg": 21647,
- "baseline_avg": 670,
- "explanation": "Attention is 32\u00d7 its 30-day baseline.",
+ "title": "Levent Alp\u00f6ge",
+ "slug": "levent-alpoge",
+ "score": 49,
+ "status": "Elevated",
+ "change_percent": 19632,
+ "growth_ratio": 197.52,
+ "recent_avg": 76164,
+ "baseline_avg": 386,
+ "explanation": "Attention is 198\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 20977,
- "latest": 63225,
+ "abs_change": 75778,
+ "latest": 102891,
  "components": {
-  "acceleration": 0.888,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.668,
-  "spike_quality": 0.541
+  "persistence": 0.52,
+  "momentum": 0.695,
+  "volume": 0.941,
+  "spike_quality": 0.68
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 21,647 views/day over the last 3 days (30-day baseline: 670)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 76,164 views/day over the last 3 days (30-day baseline: 386)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 1480
-  },
-  {
-   "date": "2026-10-12",
-   "views": 703
-  },
-  {
    "date": "2026-10-13",
-   "views": 567
+   "views": 643
   },
   {
    "date": "2026-10-14",
-   "views": 590
+   "views": 562
   },
   {
    "date": "2026-10-15",
-   "views": 634
+   "views": 579
   },
   {
    "date": "2026-10-16",
-   "views": 632
+   "views": 668
   },
   {
    "date": "2026-10-17",
-   "views": 761
+   "views": 477
   },
   {
    "date": "2026-10-18",
-   "views": 691
+   "views": 379
   },
   {
    "date": "2026-10-19",
-   "views": 1508
+   "views": 475
   },
   {
    "date": "2026-10-20",
-   "views": 781
+   "views": 487
   },
   {
    "date": "2026-10-21",
-   "views": 702
+   "views": 445
   },
   {
    "date": "2026-10-22",
-   "views": 730
+   "views": 385
   },
   {
    "date": "2026-10-23",
-   "views": 746
+   "views": 325
   },
   {
    "date": "2026-10-24",
-   "views": 822
+   "views": 260
   },
   {
    "date": "2026-10-25",
-   "views": 656
+   "views": 260
   },
   {
    "date": "2026-10-26",
-   "views": 554
+   "views": 435
   },
   {
    "date": "2026-10-27",
-   "views": 563
+   "views": 815
   },
   {
    "date": "2026-10-28",
-   "views": 556
+   "views": 732
   },
   {
    "date": "2026-10-29",
-   "views": 565
+   "views": 710
   },
   {
    "date": "2026-10-30",
-   "views": 623
+   "views": 637
   },
   {
    "date": "2026-10-31",
-   "views": 644
+   "views": 350
   },
   {
    "date": "2026-11-01",
-   "views": 568
+   "views": 341
   },
   {
    "date": "2026-11-02",
-   "views": 472
+   "views": 370
   },
   {
    "date": "2026-11-03",
-   "views": 398
+   "views": 367
   },
   {
    "date": "2026-11-04",
-   "views": 425
+   "views": 241
   },
   {
    "date": "2026-11-05",
-   "views": 542
+   "views": 260
   },
   {
    "date": "2026-11-06",
-   "views": 527
+   "views": 279
   },
   {
    "date": "2026-11-07",
-   "views": 690
+   "views": 254
   },
   {
    "date": "2026-11-08",
-   "views": 697
+   "views": 284
   },
   {
    "date": "2026-11-09",
-   "views": 539
+   "views": 317
   },
   {
    "date": "2026-11-10",
-   "views": 598
+   "views": 378
   },
   {
    "date": "2026-11-11",
-   "views": 649
+   "views": 428
   },
   {
    "date": "2026-11-12",
-   "views": 733
+   "views": 357
   },
   {
    "date": "2026-11-13",
-   "views": 839
+   "views": 274
   },
   {
    "date": "2026-11-14",
-   "views": 791
+   "views": 219
   },
   {
    "date": "2026-11-15",
-   "views": 719
+   "views": 317
   },
   {
    "date": "2026-11-16",
-   "views": 776
+   "views": 318
   },
   {
    "date": "2026-11-17",
-   "views": 754
+   "views": 345
   },
   {
    "date": "2026-11-18",
-   "views": 961
+   "views": 378
   },
   {
    "date": "2026-11-19",
-   "views": 63225
+   "views": 969
+  },
+  {
+   "date": "2026-11-20",
+   "views": 124632
+  },
+  {
+   "date": "2026-11-21",
+   "views": 102891
   }
  ],
- "wikipedia_title": "Brooks_&_Dunn",
+ "wikipedia_title": "Levent_Alp\u00f6ge",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

@@ -1,198 +1,198 @@
 {
- "title": "Dario Amodei",
- "slug": "dario-amodei",
- "score": 54,
- "status": "Breaking out",
- "change_percent": 485,
- "growth_ratio": 5.85,
- "recent_avg": 72913,
- "baseline_avg": 12456,
- "explanation": "Attention is 5.8\u00d7 its 30-day baseline.",
+ "title": "XXX: State of the Union",
+ "slug": "xxx-state-of-the-union",
+ "score": 49,
+ "status": "Building",
+ "change_percent": 742,
+ "growth_ratio": 8.42,
+ "recent_avg": 47987,
+ "baseline_avg": 5700,
+ "explanation": "Attention is 8.4\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 60457,
- "latest": 167998,
+ "abs_change": 42287,
+ "latest": 76640,
  "components": {
-  "acceleration": 0.452,
-  "anomaly": 0.862,
-  "persistence": 0.84,
-  "momentum": 0.933,
-  "volume": 0.931,
-  "spike_quality": 0.756
+  "acceleration": 0.545,
+  "anomaly": 0.771,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.841,
+  "spike_quality": 0.799
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 72,913 views/day over the last 3 days (30-day baseline: 12,456)."
+  "Averaging 47,987 views/day over the last 3 days (30-day baseline: 5,700)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 6341
-  },
-  {
-   "date": "2026-10-12",
-   "views": 7150
-  },
-  {
    "date": "2026-10-13",
-   "views": 7812
+   "views": 2746
   },
   {
    "date": "2026-10-14",
-   "views": 7951
+   "views": 2714
   },
   {
    "date": "2026-10-15",
-   "views": 8757
+   "views": 2725
   },
   {
    "date": "2026-10-16",
-   "views": 7385
+   "views": 2895
   },
   {
    "date": "2026-10-17",
-   "views": 6334
+   "views": 2836
   },
   {
    "date": "2026-10-18",
-   "views": 6883
+   "views": 2804
   },
   {
    "date": "2026-10-19",
-   "views": 8260
+   "views": 2556
   },
   {
    "date": "2026-10-20",
-   "views": 8996
+   "views": 2281
   },
   {
    "date": "2026-10-21",
-   "views": 9214
+   "views": 16930
   },
   {
    "date": "2026-10-22",
-   "views": 7384
+   "views": 24392
   },
   {
    "date": "2026-10-23",
-   "views": 6244
+   "views": 13069
   },
   {
    "date": "2026-10-24",
-   "views": 6620
+   "views": 18646
   },
   {
    "date": "2026-10-25",
-   "views": 10551
+   "views": 7773
   },
   {
    "date": "2026-10-26",
-   "views": 34224
+   "views": 9627
   },
   {
    "date": "2026-10-27",
-   "views": 29257
+   "views": 10212
   },
   {
    "date": "2026-10-28",
-   "views": 16192
+   "views": 3007
   },
   {
    "date": "2026-10-29",
-   "views": 12045
+   "views": 3196
   },
   {
    "date": "2026-10-30",
-   "views": 10528
+   "views": 2567
   },
   {
    "date": "2026-10-31",
-   "views": 8830
+   "views": 2545
   },
   {
    "date": "2026-11-01",
-   "views": 7682
+   "views": 2795
   },
   {
    "date": "2026-11-02",
-   "views": 9513
+   "views": 2645
   },
   {
    "date": "2026-11-03",
-   "views": 8613
+   "views": 2513
   },
   {
    "date": "2026-11-04",
-   "views": 6774
+   "views": 2798
   },
   {
    "date": "2026-11-05",
-   "views": 7613
+   "views": 3337
   },
   {
    "date": "2026-11-06",
-   "views": 7256
+   "views": 2760
   },
   {
    "date": "2026-11-07",
-   "views": 6120
+   "views": 2861
   },
   {
    "date": "2026-11-08",
-   "views": 6135
+   "views": 3109
   },
   {
    "date": "2026-11-09",
-   "views": 10323
+   "views": 3074
   },
   {
    "date": "2026-11-10",
-   "views": 15321
+   "views": 2890
   },
   {
    "date": "2026-11-11",
-   "views": 15865
+   "views": 3435
   },
   {
    "date": "2026-11-12",
-   "views": 16874
+   "views": 3746
   },
   {
    "date": "2026-11-13",
-   "views": 19393
+   "views": 3482
   },
   {
    "date": "2026-11-14",
-   "views": 16058
+   "views": 3798
   },
   {
    "date": "2026-11-15",
-   "views": 22680
+   "views": 3718
   },
   {
    "date": "2026-11-16",
-   "views": 22228
+   "views": 3439
   },
   {
    "date": "2026-11-17",
-   "views": 19807
+   "views": 3181
   },
   {
    "date": "2026-11-18",
-   "views": 30934
+   "views": 3174
   },
   {
    "date": "2026-11-19",
-   "views": 167998
+   "views": 26468
+  },
+  {
+   "date": "2026-11-20",
+   "views": 40853
+  },
+  {
+   "date": "2026-11-21",
+   "views": 76640
   }
  ],
- "wikipedia_title": "Dario_Amodei",
+ "wikipedia_title": "XXX:_State_of_the_Union",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

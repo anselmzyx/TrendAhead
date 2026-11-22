@@ -1,197 +1,198 @@
 {
- "title": "International Men's Day",
- "slug": "international-men-s-day",
- "score": 65,
- "status": "Breaking out",
- "change_percent": 8451,
- "growth_ratio": 85.59,
- "recent_avg": 46947,
- "baseline_avg": 549,
- "explanation": "Attention is 86\u00d7 its 30-day baseline.",
+ "title": "Mckenna Grace",
+ "slug": "mckenna-grace",
+ "score": 48,
+ "status": "Building",
+ "change_percent": 136,
+ "growth_ratio": 2.36,
+ "recent_avg": 53945,
+ "baseline_avg": 22861,
+ "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 46398,
- "latest": 118074,
+ "abs_change": 31084,
+ "latest": 69610,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
-  "persistence": 1.0,
+  "acceleration": 0.219,
+  "anomaly": 0.354,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.836,
-  "spike_quality": 0.611
+  "volume": 0.866,
+  "spike_quality": 0.95
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is close to this topic's usual level.",
   "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 46,947 views/day over the last 3 days (30-day baseline: 549)."
+  "Averaging 53,945 views/day over the last 3 days (30-day baseline: 22,861)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 209
-  },
-  {
-   "date": "2026-10-12",
-   "views": 188
-  },
-  {
    "date": "2026-10-13",
-   "views": 222
+   "views": 8211
   },
   {
    "date": "2026-10-14",
-   "views": 202
+   "views": 12370
   },
   {
    "date": "2026-10-15",
-   "views": 252
+   "views": 11664
   },
   {
    "date": "2026-10-16",
-   "views": 196
+   "views": 10067
   },
   {
    "date": "2026-10-17",
-   "views": 198
+   "views": 10631
   },
   {
    "date": "2026-10-18",
-   "views": 164
+   "views": 16826
   },
   {
    "date": "2026-10-19",
-   "views": 351
+   "views": 13965
   },
   {
    "date": "2026-10-20",
-   "views": 304
+   "views": 12565
   },
   {
    "date": "2026-10-21",
-   "views": 323
+   "views": 12160
   },
   {
    "date": "2026-10-22",
-   "views": 388
+   "views": 9991
   },
   {
    "date": "2026-10-23",
-   "views": 258
+   "views": 9977
   },
   {
    "date": "2026-10-24",
-   "views": 203
+   "views": 13222
   },
   {
    "date": "2026-10-25",
-   "views": 187
+   "views": 13583
   },
   {
    "date": "2026-10-26",
-   "views": 255
+   "views": 14097
   },
   {
    "date": "2026-10-27",
-   "views": 242
+   "views": 19963
   },
   {
    "date": "2026-10-28",
-   "views": 259
+   "views": 23141
   },
   {
    "date": "2026-10-29",
-   "views": 316
+   "views": 32605
   },
   {
    "date": "2026-10-30",
-   "views": 429
+   "views": 23266
   },
   {
    "date": "2026-10-31",
-   "views": 296
+   "views": 19218
   },
   {
    "date": "2026-11-01",
-   "views": 361
+   "views": 19457
   },
   {
    "date": "2026-11-02",
-   "views": 553
+   "views": 21623
   },
   {
    "date": "2026-11-03",
-   "views": 604
+   "views": 38738
   },
   {
    "date": "2026-11-04",
-   "views": 570
+   "views": 26463
   },
   {
    "date": "2026-11-05",
-   "views": 617
+   "views": 27936
   },
   {
    "date": "2026-11-06",
-   "views": 483
+   "views": 29754
   },
   {
    "date": "2026-11-07",
-   "views": 413
+   "views": 26903
   },
   {
    "date": "2026-11-08",
-   "views": 389
+   "views": 20525
   },
   {
    "date": "2026-11-09",
-   "views": 589
+   "views": 18063
   },
   {
    "date": "2026-11-10",
-   "views": 849
+   "views": 18371
   },
   {
    "date": "2026-11-11",
-   "views": 1027
+   "views": 17256
   },
   {
    "date": "2026-11-12",
-   "views": 1059
+   "views": 15622
   },
   {
    "date": "2026-11-13",
-   "views": 1001
+   "views": 26188
   },
   {
    "date": "2026-11-14",
-   "views": 790
+   "views": 31407
   },
   {
    "date": "2026-11-15",
-   "views": 1162
+   "views": 38792
   },
   {
    "date": "2026-11-16",
-   "views": 2014
+   "views": 26244
   },
   {
    "date": "2026-11-17",
-   "views": 3762
+   "views": 39637
   },
   {
    "date": "2026-11-18",
-   "views": 19004
+   "views": 39052
   },
   {
    "date": "2026-11-19",
-   "views": 118074
+   "views": 40678
+  },
+  {
+   "date": "2026-11-20",
+   "views": 51548
+  },
+  {
+   "date": "2026-11-21",
+   "views": 69610
   }
  ],
- "wikipedia_title": "International_Men's_Day",
+ "wikipedia_title": "Mckenna_Grace",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

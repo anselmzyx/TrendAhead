@@ -1,41 +1,33 @@
 {
  "title": "Fiona (hippopotamus)",
  "slug": "fiona-hippopotamus",
- "score": 53,
- "status": "Breaking out",
- "change_percent": 36637,
- "growth_ratio": 304.92,
- "recent_avg": 30492,
- "baseline_avg": 83,
- "explanation": "Attention is 305\u00d7 its 30-day baseline.",
+ "score": 42,
+ "status": "Peaked / fading",
+ "change_percent": 26450,
+ "growth_ratio": 265.72,
+ "recent_avg": 87350,
+ "baseline_avg": 329,
+ "explanation": "Attention surged to 266\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 30409,
- "latest": 83965,
+ "abs_change": 87021,
+ "latest": 53636,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.8,
-  "momentum": 1.0,
-  "volume": 0.742,
-  "spike_quality": 0.551
+  "persistence": 0.92,
+  "momentum": 0.459,
+  "volume": 0.971,
+  "spike_quality": 0.53
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 30,492 views/day over the last 3 days (30-day baseline: 83)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 87,350 views/day over the last 3 days (30-day baseline: 329)."
  ],
  "history": [
-  {
-   "date": "2026-10-11",
-   "views": 81
-  },
-  {
-   "date": "2026-10-12",
-   "views": 79
-  },
   {
    "date": "2026-10-13",
    "views": 66
@@ -187,11 +179,19 @@
   {
    "date": "2026-11-19",
    "views": 83965
+  },
+  {
+   "date": "2026-11-20",
+   "views": 124449
+  },
+  {
+   "date": "2026-11-21",
+   "views": 53636
   }
  ],
  "wikipedia_title": "Fiona_(hippopotamus)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

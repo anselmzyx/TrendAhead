@@ -1,42 +1,33 @@
 {
  "title": "Rockstar Games",
  "slug": "rockstar-games",
- "score": 74,
- "status": "Building",
- "change_percent": 904,
- "growth_ratio": 10.04,
- "recent_avg": 73908,
- "baseline_avg": 7360,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "score": 39,
+ "status": "Elevated",
+ "change_percent": 781,
+ "growth_ratio": 8.81,
+ "recent_avg": 94167,
+ "baseline_avg": 10684,
+ "explanation": "Attention is 8.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 66548,
- "latest": 112864,
+ "abs_change": 83483,
+ "latest": 77791,
  "components": {
-  "acceleration": 0.59,
-  "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.934,
-  "spike_quality": 0.86
+  "acceleration": 0.556,
+  "anomaly": 0.586,
+  "persistence": 0.84,
+  "momentum": 0.48,
+  "volume": 0.987,
+  "spike_quality": 0.776
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 73,908 views/day over the last 3 days (30-day baseline: 7,360)."
+  "Averaging 94,167 views/day over the last 3 days (30-day baseline: 10,684)."
  ],
  "history": [
-  {
-   "date": "2026-10-11",
-   "views": 3140
-  },
-  {
-   "date": "2026-10-12",
-   "views": 3232
-  },
   {
    "date": "2026-10-13",
    "views": 3654
@@ -188,11 +179,19 @@
   {
    "date": "2026-11-19",
    "views": 112864
+  },
+  {
+   "date": "2026-11-20",
+   "views": 91847
+  },
+  {
+   "date": "2026-11-21",
+   "views": 77791
   }
  ],
  "wikipedia_title": "Rockstar_Games",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

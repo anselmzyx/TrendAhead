@@ -1,42 +1,34 @@
 {
  "title": "The Hunger Games: Sunrise on the Reaping",
  "slug": "the-hunger-games-sunrise-on-the-reaping",
- "score": 72,
+ "score": 70,
  "status": "Building",
- "change_percent": 430,
- "growth_ratio": 5.3,
- "recent_avg": 105335,
- "baseline_avg": 19864,
- "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
+ "change_percent": 548,
+ "growth_ratio": 6.48,
+ "recent_avg": 166611,
+ "baseline_avg": 25712,
+ "explanation": "Attention is 6.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 85471,
- "latest": 121672,
+ "abs_change": 140899,
+ "latest": 204097,
  "components": {
-  "acceleration": 0.426,
-  "anomaly": 0.982,
-  "persistence": 0.92,
+  "acceleration": 0.478,
+  "anomaly": 0.676,
+  "persistence": 1.0,
   "momentum": 1.0,
   "volume": 1.0,
-  "spike_quality": 0.927
+  "spike_quality": 0.929
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 105,335 views/day over the last 3 days (30-day baseline: 19,864)."
+  "Averaging 166,611 views/day over the last 3 days (30-day baseline: 25,712)."
  ],
  "history": [
-  {
-   "date": "2026-10-11",
-   "views": 8377
-  },
-  {
-   "date": "2026-10-12",
-   "views": 8566
-  },
   {
    "date": "2026-10-13",
    "views": 7245
@@ -188,11 +180,19 @@
   {
    "date": "2026-11-19",
    "views": 121672
+  },
+  {
+   "date": "2026-11-20",
+   "views": 174063
+  },
+  {
+   "date": "2026-11-21",
+   "views": 204097
   }
  ],
  "wikipedia_title": "The_Hunger_Games:_Sunrise_on_the_Reaping",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

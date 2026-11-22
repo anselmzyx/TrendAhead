@@ -1,196 +1,197 @@
 {
- "title": "Ken McElroy",
- "slug": "ken-mcelroy",
- "score": 36,
+ "title": "Nikhil Chaudhary (cricketer)",
+ "slug": "nikhil-chaudhary-cricketer",
+ "score": 51,
  "status": "Breaking out",
- "change_percent": 8193,
- "growth_ratio": 82.92,
- "recent_avg": 57967,
- "baseline_avg": 699,
- "explanation": "Attention is 83\u00d7 its 30-day baseline.",
+ "change_percent": 31128,
+ "growth_ratio": 310.84,
+ "recent_avg": 33726,
+ "baseline_avg": 108,
+ "explanation": "Attention is 311\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 57268,
- "latest": 172820,
+ "abs_change": 33618,
+ "latest": 100364,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.882,
-  "spike_quality": 0.513
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.764,
+  "spike_quality": 0.507
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 57,967 views/day over the last 3 days (30-day baseline: 699)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 33,726 views/day over the last 3 days (30-day baseline: 108)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 841
-  },
-  {
-   "date": "2026-10-12",
-   "views": 1046
-  },
-  {
    "date": "2026-10-13",
-   "views": 1390
+   "views": 142
   },
   {
    "date": "2026-10-14",
-   "views": 959
+   "views": 66
   },
   {
    "date": "2026-10-15",
-   "views": 772
+   "views": 46
   },
   {
    "date": "2026-10-16",
-   "views": 742
+   "views": 40
   },
   {
    "date": "2026-10-17",
-   "views": 2738
+   "views": 40
   },
   {
    "date": "2026-10-18",
-   "views": 1081
+   "views": 34
   },
   {
    "date": "2026-10-19",
-   "views": 940
+   "views": 58
   },
   {
    "date": "2026-10-20",
-   "views": 858
+   "views": 54
   },
   {
    "date": "2026-10-21",
-   "views": 751
+   "views": 103
   },
   {
    "date": "2026-10-22",
-   "views": 674
+   "views": 70
   },
   {
    "date": "2026-10-23",
-   "views": 625
+   "views": 42
   },
   {
    "date": "2026-10-24",
-   "views": 619
+   "views": 125
   },
   {
    "date": "2026-10-25",
-   "views": 541
+   "views": 46
   },
   {
    "date": "2026-10-26",
-   "views": 955
+   "views": 27
   },
   {
    "date": "2026-10-27",
-   "views": 1009
+   "views": 46
   },
   {
    "date": "2026-10-28",
-   "views": 711
+   "views": 39
   },
   {
    "date": "2026-10-29",
-   "views": 604
+   "views": 57
   },
   {
    "date": "2026-10-30",
-   "views": 557
+   "views": 50
   },
   {
    "date": "2026-10-31",
-   "views": 511
+   "views": 79
   },
   {
    "date": "2026-11-01",
-   "views": 579
+   "views": 63
   },
   {
    "date": "2026-11-02",
-   "views": 667
+   "views": 738
   },
   {
    "date": "2026-11-03",
-   "views": 513
+   "views": 291
   },
   {
    "date": "2026-11-04",
-   "views": 590
+   "views": 100
   },
   {
    "date": "2026-11-05",
-   "views": 621
+   "views": 67
   },
   {
    "date": "2026-11-06",
-   "views": 526
+   "views": 55
   },
   {
    "date": "2026-11-07",
-   "views": 503
+   "views": 72
   },
   {
    "date": "2026-11-08",
-   "views": 490
+   "views": 48
   },
   {
    "date": "2026-11-09",
-   "views": 687
+   "views": 81
   },
   {
    "date": "2026-11-10",
-   "views": 864
+   "views": 93
   },
   {
    "date": "2026-11-11",
-   "views": 882
+   "views": 77
   },
   {
    "date": "2026-11-12",
-   "views": 864
+   "views": 102
   },
   {
    "date": "2026-11-13",
-   "views": 692
+   "views": 181
   },
   {
    "date": "2026-11-14",
-   "views": 833
+   "views": 91
   },
   {
    "date": "2026-11-15",
-   "views": 644
+   "views": 113
   },
   {
    "date": "2026-11-16",
-   "views": 580
+   "views": 93
   },
   {
    "date": "2026-11-17",
-   "views": 572
+   "views": 81
   },
   {
    "date": "2026-11-18",
-   "views": 510
+   "views": 171
   },
   {
    "date": "2026-11-19",
-   "views": 172820
+   "views": 311
+  },
+  {
+   "date": "2026-11-20",
+   "views": 502
+  },
+  {
+   "date": "2026-11-21",
+   "views": 100364
   }
  ],
- "wikipedia_title": "Ken_McElroy",
+ "wikipedia_title": "Nikhil_Chaudhary_(cricketer)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

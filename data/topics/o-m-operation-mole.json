@@ -1,197 +1,198 @@
 {
- "title": "Daniela Amodei",
- "slug": "daniela-amodei",
- "score": 40,
- "status": "Breaking out",
- "change_percent": 646,
- "growth_ratio": 7.46,
- "recent_avg": 37724,
- "baseline_avg": 5058,
- "explanation": "Attention is 7.5\u00d7 its 30-day baseline.",
+ "title": "O.M: Operation Mole",
+ "slug": "o-m-operation-mole",
+ "score": 83,
+ "status": "Building",
+ "change_percent": 3245,
+ "growth_ratio": 33.44,
+ "recent_avg": 88766,
+ "baseline_avg": 2654,
+ "explanation": "Attention is 33\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 32666,
- "latest": 92187,
+ "abs_change": 86112,
+ "latest": 123978,
  "components": {
-  "acceleration": 0.514,
-  "anomaly": 0.957,
-  "persistence": 0.4,
+  "acceleration": 0.897,
+  "anomaly": 1.0,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.788,
-  "spike_quality": 0.697
+  "volume": 0.974,
+  "spike_quality": 0.869
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,724 views/day over the last 3 days (30-day baseline: 5,058)."
+  "Averaging 88,766 views/day over the last 3 days (30-day baseline: 2,654)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 2479
-  },
-  {
-   "date": "2026-10-12",
-   "views": 2546
-  },
-  {
    "date": "2026-10-13",
-   "views": 2890
+   "views": 0
   },
   {
    "date": "2026-10-14",
-   "views": 3316
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 3393
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 2844
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 2569
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 2482
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 3635
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 3759
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 3894
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 3012
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 2556
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 2489
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 3282
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 17271
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 14790
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 8272
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 5676
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 4441
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 3606
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 3150
+   "views": 0
   },
   {
    "date": "2026-11-02",
-   "views": 3909
+   "views": 0
   },
   {
    "date": "2026-11-03",
-   "views": 3518
+   "views": 0
   },
   {
    "date": "2026-11-04",
-   "views": 2535
+   "views": 0
   },
   {
    "date": "2026-11-05",
-   "views": 2941
+   "views": 0
   },
   {
    "date": "2026-11-06",
-   "views": 2974
+   "views": 0
   },
   {
    "date": "2026-11-07",
-   "views": 2282
+   "views": 0
   },
   {
    "date": "2026-11-08",
-   "views": 2161
+   "views": 0
   },
   {
    "date": "2026-11-09",
-   "views": 3333
+   "views": 0
   },
   {
    "date": "2026-11-10",
-   "views": 7029
+   "views": 0
   },
   {
    "date": "2026-11-11",
-   "views": 7057
+   "views": 0
   },
   {
    "date": "2026-11-12",
-   "views": 5810
+   "views": 0
   },
   {
    "date": "2026-11-13",
-   "views": 5847
+   "views": 0
   },
   {
    "date": "2026-11-14",
-   "views": 5493
+   "views": 9028
   },
   {
    "date": "2026-11-15",
-   "views": 7124
+   "views": 10328
   },
   {
    "date": "2026-11-16",
-   "views": 7408
+   "views": 20501
   },
   {
    "date": "2026-11-17",
-   "views": 7503
+   "views": 22027
   },
   {
    "date": "2026-11-18",
-   "views": 13483
+   "views": 17742
   },
   {
    "date": "2026-11-19",
-   "views": 92187
+   "views": 22628
+  },
+  {
+   "date": "2026-11-20",
+   "views": 119692
+  },
+  {
+   "date": "2026-11-21",
+   "views": 123978
   }
  ],
- "wikipedia_title": "Daniela_Amodei",
+ "wikipedia_title": "O.M:_Operation_Mole",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

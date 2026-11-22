@@ -1,197 +1,198 @@
 {
- "title": "Lainey Wilson",
- "slug": "lainey-wilson",
- "score": 39,
- "status": "Breaking out",
- "change_percent": 827,
- "growth_ratio": 9.27,
- "recent_avg": 33186,
- "baseline_avg": 3580,
- "explanation": "Attention is 9.3\u00d7 its 30-day baseline.",
+ "title": "Joseph Zada",
+ "slug": "joseph-zada",
+ "score": 66,
+ "status": "Building",
+ "change_percent": 520,
+ "growth_ratio": 6.2,
+ "recent_avg": 59148,
+ "baseline_avg": 9543,
+ "explanation": "Attention is 6.2\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 29606,
- "latest": 86763,
+ "abs_change": 49605,
+ "latest": 82604,
  "components": {
-  "acceleration": 0.569,
-  "anomaly": 1.0,
-  "persistence": 0.4,
+  "acceleration": 0.466,
+  "anomaly": 0.791,
+  "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.76,
-  "spike_quality": 0.644
+  "volume": 0.886,
+  "spike_quality": 0.901
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 33,186 views/day over the last 3 days (30-day baseline: 3,580)."
+  "Averaging 59,148 views/day over the last 3 days (30-day baseline: 9,543)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 3950
-  },
-  {
-   "date": "2026-10-12",
-   "views": 2505
-  },
-  {
    "date": "2026-10-13",
-   "views": 2318
+   "views": 10846
   },
   {
    "date": "2026-10-14",
-   "views": 2234
+   "views": 9993
   },
   {
    "date": "2026-10-15",
-   "views": 2129
+   "views": 9563
   },
   {
    "date": "2026-10-16",
-   "views": 9543
+   "views": 8847
   },
   {
    "date": "2026-10-17",
-   "views": 4169
+   "views": 8609
   },
   {
    "date": "2026-10-18",
-   "views": 3160
+   "views": 9273
   },
   {
    "date": "2026-10-19",
-   "views": 2577
+   "views": 7660
   },
   {
    "date": "2026-10-20",
-   "views": 2329
+   "views": 6837
   },
   {
    "date": "2026-10-21",
-   "views": 2333
+   "views": 6513
   },
   {
    "date": "2026-10-22",
-   "views": 18186
+   "views": 5799
   },
   {
    "date": "2026-10-23",
-   "views": 5562
+   "views": 5666
   },
   {
    "date": "2026-10-24",
-   "views": 4142
+   "views": 6715
   },
   {
    "date": "2026-10-25",
-   "views": 3413
+   "views": 7079
   },
   {
    "date": "2026-10-26",
-   "views": 2545
+   "views": 7021
   },
   {
    "date": "2026-10-27",
-   "views": 2812
+   "views": 6008
   },
   {
    "date": "2026-10-28",
-   "views": 2946
+   "views": 7973
   },
   {
    "date": "2026-10-29",
-   "views": 2480
+   "views": 12837
   },
   {
    "date": "2026-10-30",
-   "views": 2801
+   "views": 8094
   },
   {
    "date": "2026-10-31",
-   "views": 3041
+   "views": 6763
   },
   {
    "date": "2026-11-01",
-   "views": 2631
+   "views": 6738
   },
   {
    "date": "2026-11-02",
-   "views": 2238
+   "views": 6504
   },
   {
    "date": "2026-11-03",
-   "views": 2242
+   "views": 8833
   },
   {
    "date": "2026-11-04",
-   "views": 2418
+   "views": 7081
   },
   {
    "date": "2026-11-05",
-   "views": 3010
+   "views": 6562
   },
   {
    "date": "2026-11-06",
-   "views": 2565
+   "views": 6942
   },
   {
    "date": "2026-11-07",
-   "views": 3152
+   "views": 7484
   },
   {
    "date": "2026-11-08",
-   "views": 3192
+   "views": 7656
   },
   {
    "date": "2026-11-09",
-   "views": 2742
+   "views": 7711
   },
   {
    "date": "2026-11-10",
-   "views": 2604
+   "views": 6925
   },
   {
    "date": "2026-11-11",
-   "views": 3385
+   "views": 7198
   },
   {
    "date": "2026-11-12",
-   "views": 3219
+   "views": 11793
   },
   {
    "date": "2026-11-13",
-   "views": 2987
+   "views": 9549
   },
   {
    "date": "2026-11-14",
-   "views": 4424
+   "views": 11134
   },
   {
    "date": "2026-11-15",
-   "views": 4438
+   "views": 12430
   },
   {
    "date": "2026-11-16",
-   "views": 3816
+   "views": 10803
   },
   {
    "date": "2026-11-17",
-   "views": 4306
+   "views": 30292
   },
   {
    "date": "2026-11-18",
-   "views": 8489
+   "views": 33342
   },
   {
    "date": "2026-11-19",
-   "views": 86763
+   "views": 36994
+  },
+  {
+   "date": "2026-11-20",
+   "views": 57846
+  },
+  {
+   "date": "2026-11-21",
+   "views": 82604
   }
  ],
- "wikipedia_title": "Lainey_Wilson",
+ "wikipedia_title": "Joseph_Zada",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }

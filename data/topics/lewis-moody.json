@@ -1,197 +1,196 @@
 {
- "title": "Lucia Caminos",
- "slug": "lucia-caminos",
- "score": 46,
+ "title": "Lewis Moody",
+ "slug": "lewis-moody",
+ "score": 33,
  "status": "Breaking out",
- "change_percent": 301744,
- "growth_ratio": 271.66,
- "recent_avg": 27166,
- "baseline_avg": 9,
- "explanation": "Attention is 272\u00d7 its 30-day baseline.",
+ "change_percent": 2379,
+ "growth_ratio": 24.78,
+ "recent_avg": 23405,
+ "baseline_avg": 944,
+ "explanation": "Attention is 25\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 27157,
- "latest": 65359,
+ "abs_change": 22461,
+ "latest": 69243,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.821,
   "anomaly": 1.0,
   "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.717,
-  "spike_quality": 0.616
+  "momentum": 0.8,
+  "volume": 0.685,
+  "spike_quality": 0.544
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,166 views/day over the last 3 days (30-day baseline: 9)."
+  "Averaging 23,405 views/day over the last 3 days (30-day baseline: 944)."
  ],
  "history": [
   {
-   "date": "2026-10-11",
-   "views": 4
-  },
-  {
-   "date": "2026-10-12",
-   "views": 4
-  },
-  {
    "date": "2026-10-13",
-   "views": 2
+   "views": 736
   },
   {
    "date": "2026-10-14",
-   "views": 3
+   "views": 393
   },
   {
    "date": "2026-10-15",
-   "views": 1
+   "views": 318
   },
   {
    "date": "2026-10-16",
-   "views": 3
+   "views": 372
   },
   {
    "date": "2026-10-17",
-   "views": 4
+   "views": 377
   },
   {
    "date": "2026-10-18",
-   "views": 5
+   "views": 359
   },
   {
    "date": "2026-10-19",
-   "views": 3
+   "views": 401
   },
   {
    "date": "2026-10-20",
-   "views": 3
+   "views": 367
   },
   {
    "date": "2026-10-21",
-   "views": 11
+   "views": 272
   },
   {
    "date": "2026-10-22",
-   "views": 5
+   "views": 389
   },
   {
    "date": "2026-10-23",
-   "views": 2
+   "views": 343
   },
   {
    "date": "2026-10-24",
-   "views": 3
+   "views": 334
   },
   {
    "date": "2026-10-25",
-   "views": 10
+   "views": 305
   },
   {
    "date": "2026-10-26",
-   "views": 2
+   "views": 4832
   },
   {
    "date": "2026-10-27",
-   "views": 8
+   "views": 1458
   },
   {
    "date": "2026-10-28",
-   "views": 4
+   "views": 730
   },
   {
    "date": "2026-10-29",
-   "views": 9
+   "views": 571
   },
   {
    "date": "2026-10-30",
-   "views": 2
+   "views": 452
   },
   {
    "date": "2026-10-31",
-   "views": 5
+   "views": 454
   },
   {
    "date": "2026-11-01",
-   "views": 3
+   "views": 1004
   },
   {
    "date": "2026-11-02",
-   "views": 6
+   "views": 930
   },
   {
    "date": "2026-11-03",
-   "views": 2
+   "views": 587
   },
   {
    "date": "2026-11-04",
-   "views": 5
+   "views": 2500
   },
   {
    "date": "2026-11-05",
-   "views": 7
+   "views": 2032
   },
   {
    "date": "2026-11-06",
-   "views": 10
+   "views": 2408
   },
   {
    "date": "2026-11-07",
-   "views": 10
+   "views": 689
   },
   {
    "date": "2026-11-08",
-   "views": 11
+   "views": 601
   },
   {
    "date": "2026-11-09",
-   "views": 7
+   "views": 534
   },
   {
    "date": "2026-11-10",
-   "views": 11
+   "views": 394
   },
   {
    "date": "2026-11-11",
-   "views": 14
+   "views": 322
   },
   {
    "date": "2026-11-12",
-   "views": 22
+   "views": 391
   },
   {
    "date": "2026-11-13",
-   "views": 15
+   "views": 370
   },
   {
    "date": "2026-11-14",
-   "views": 28
+   "views": 384
   },
   {
    "date": "2026-11-15",
-   "views": 22
+   "views": 256
   },
   {
    "date": "2026-11-16",
-   "views": 18
+   "views": 330
   },
   {
    "date": "2026-11-17",
-   "views": 33
+   "views": 3528
   },
   {
    "date": "2026-11-18",
-   "views": 16105
+   "views": 564
   },
   {
    "date": "2026-11-19",
-   "views": 65359
+   "views": 518
+  },
+  {
+   "date": "2026-11-20",
+   "views": 453
+  },
+  {
+   "date": "2026-11-21",
+   "views": 69243
   }
  ],
- "wikipedia_title": "Lucia_Caminos",
+ "wikipedia_title": "Lewis_Moody",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-19",
- "generated_at_utc": "2026-11-20T14:19:22+00:00"
+ "data_through": "2026-11-21",
+ "generated_at_utc": "2026-11-22T13:33:58+00:00"
 }
