@@ -1,197 +1,198 @@
 {
- "title": "Rockstar Games",
- "slug": "rockstar-games",
- "score": 39,
- "status": "Elevated",
- "change_percent": 781,
- "growth_ratio": 8.81,
- "recent_avg": 94167,
- "baseline_avg": 10684,
- "explanation": "Attention is 8.8\u00d7 its 30-day baseline.",
+ "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+ "slug": "the-hunger-games-the-ballad-of-songbirds-snakes",
+ "score": 58,
+ "status": "Building",
+ "change_percent": 384,
+ "growth_ratio": 4.84,
+ "recent_avg": 61854,
+ "baseline_avg": 12771,
+ "explanation": "Attention is 4.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 83483,
- "latest": 77791,
+ "abs_change": 49083,
+ "latest": 74573,
  "components": {
-  "acceleration": 0.556,
-  "anomaly": 0.586,
-  "persistence": 0.84,
-  "momentum": 0.48,
-  "volume": 0.987,
-  "spike_quality": 0.776
+  "acceleration": 0.403,
+  "anomaly": 0.506,
+  "persistence": 0.92,
+  "momentum": 1.0,
+  "volume": 0.896,
+  "spike_quality": 0.948
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 94,167 views/day over the last 3 days (30-day baseline: 10,684)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 61,854 views/day over the last 3 days (30-day baseline: 12,771)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 3654
-  },
-  {
    "date": "2026-10-14",
-   "views": 5236
+   "views": 4088
   },
   {
    "date": "2026-10-15",
-   "views": 6130
+   "views": 3893
   },
   {
    "date": "2026-10-16",
-   "views": 6282
+   "views": 4301
   },
   {
    "date": "2026-10-17",
-   "views": 5062
+   "views": 5279
   },
   {
    "date": "2026-10-18",
-   "views": 4602
+   "views": 5261
   },
   {
    "date": "2026-10-19",
-   "views": 4540
+   "views": 4611
   },
   {
    "date": "2026-10-20",
-   "views": 4614
+   "views": 5206
   },
   {
    "date": "2026-10-21",
-   "views": 4494
+   "views": 4804
   },
   {
    "date": "2026-10-22",
-   "views": 4413
+   "views": 3962
   },
   {
    "date": "2026-10-23",
-   "views": 3921
+   "views": 4269
   },
   {
    "date": "2026-10-24",
-   "views": 3937
+   "views": 5056
   },
   {
    "date": "2026-10-25",
-   "views": 4116
+   "views": 6426
   },
   {
    "date": "2026-10-26",
-   "views": 4533
+   "views": 6010
   },
   {
    "date": "2026-10-27",
-   "views": 3973
+   "views": 4929
   },
   {
    "date": "2026-10-28",
-   "views": 3802
+   "views": 8140
   },
   {
    "date": "2026-10-29",
-   "views": 4595
+   "views": 10325
   },
   {
    "date": "2026-10-30",
-   "views": 3868
+   "views": 8028
   },
   {
    "date": "2026-10-31",
-   "views": 3538
+   "views": 7818
   },
   {
    "date": "2026-11-01",
-   "views": 3978
+   "views": 9178
   },
   {
    "date": "2026-11-02",
-   "views": 4516
+   "views": 8687
   },
   {
    "date": "2026-11-03",
-   "views": 5291
+   "views": 9082
   },
   {
    "date": "2026-11-04",
-   "views": 4729
+   "views": 7848
   },
   {
    "date": "2026-11-05",
-   "views": 7706
+   "views": 8180
   },
   {
    "date": "2026-11-06",
-   "views": 8005
+   "views": 9048
   },
   {
    "date": "2026-11-07",
-   "views": 6192
+   "views": 11248
   },
   {
    "date": "2026-11-08",
-   "views": 6036
+   "views": 13764
   },
   {
    "date": "2026-11-09",
-   "views": 7582
+   "views": 11382
   },
   {
    "date": "2026-11-10",
-   "views": 10386
+   "views": 10187
   },
   {
    "date": "2026-11-11",
-   "views": 11039
+   "views": 11269
   },
   {
    "date": "2026-11-12",
-   "views": 13766
+   "views": 11063
   },
   {
    "date": "2026-11-13",
-   "views": 14335
+   "views": 13417
   },
   {
    "date": "2026-11-14",
-   "views": 15767
+   "views": 21620
   },
   {
    "date": "2026-11-15",
-   "views": 18590
+   "views": 22454
   },
   {
    "date": "2026-11-16",
-   "views": 23946
+   "views": 19436
   },
   {
    "date": "2026-11-17",
-   "views": 29538
+   "views": 38771
   },
   {
    "date": "2026-11-18",
-   "views": 79323
+   "views": 37734
   },
   {
    "date": "2026-11-19",
-   "views": 112864
+   "views": 38998
   },
   {
    "date": "2026-11-20",
-   "views": 91847
+   "views": 49808
   },
   {
    "date": "2026-11-21",
-   "views": 77791
+   "views": 61181
+  },
+  {
+   "date": "2026-11-22",
+   "views": 74573
   }
  ],
- "wikipedia_title": "Rockstar_Games",
+ "wikipedia_title": "The_Hunger_Games:_The_Ballad_of_Songbirds_&_Snakes",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

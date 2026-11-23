@@ -1,197 +1,198 @@
 {
- "title": "The Nightingale (Hannah novel)",
- "slug": "the-nightingale-hannah-novel",
- "score": 31,
- "status": "Peaked / fading",
- "change_percent": 2567,
- "growth_ratio": 26.68,
- "recent_avg": 36542,
- "baseline_avg": 1370,
- "explanation": "Attention surged to 27\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "Josh Johnson (quarterback)",
+ "slug": "josh-johnson-quarterback",
+ "score": 41,
+ "status": "Breaking out",
+ "change_percent": 1326,
+ "growth_ratio": 14.27,
+ "recent_avg": 25676,
+ "baseline_avg": 1800,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35172,
- "latest": 18777,
+ "abs_change": 23876,
+ "latest": 53745,
  "components": {
-  "acceleration": 0.839,
-  "anomaly": 1.0,
-  "persistence": 0.84,
-  "momentum": 0.307,
-  "volume": 0.781,
-  "spike_quality": 0.563
+  "acceleration": 0.679,
+  "anomaly": 0.604,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.705,
+  "spike_quality": 0.701
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 36,542 views/day over the last 3 days (30-day baseline: 1,370)."
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,676 views/day over the last 3 days (30-day baseline: 1,800)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 1167
-  },
-  {
    "date": "2026-10-14",
-   "views": 1089
+   "views": 431
   },
   {
    "date": "2026-10-15",
-   "views": 983
+   "views": 517
   },
   {
    "date": "2026-10-16",
-   "views": 1122
+   "views": 547
   },
   {
    "date": "2026-10-17",
-   "views": 1187
+   "views": 693
   },
   {
    "date": "2026-10-18",
-   "views": 1157
+   "views": 617
   },
   {
    "date": "2026-10-19",
-   "views": 1270
+   "views": 727
   },
   {
    "date": "2026-10-20",
-   "views": 1321
+   "views": 721
   },
   {
    "date": "2026-10-21",
-   "views": 951
+   "views": 454
   },
   {
    "date": "2026-10-22",
-   "views": 939
+   "views": 484
   },
   {
    "date": "2026-10-23",
-   "views": 938
+   "views": 540
   },
   {
    "date": "2026-10-24",
-   "views": 1050
+   "views": 424
   },
   {
    "date": "2026-10-25",
-   "views": 1114
+   "views": 634
   },
   {
    "date": "2026-10-26",
-   "views": 1084
+   "views": 565
   },
   {
    "date": "2026-10-27",
-   "views": 1145
+   "views": 491
   },
   {
    "date": "2026-10-28",
-   "views": 1123
+   "views": 415
   },
   {
    "date": "2026-10-29",
-   "views": 1149
+   "views": 381
   },
   {
    "date": "2026-10-30",
-   "views": 979
+   "views": 406
   },
   {
    "date": "2026-10-31",
-   "views": 926
+   "views": 314
   },
   {
    "date": "2026-11-01",
-   "views": 1003
+   "views": 593
   },
   {
    "date": "2026-11-02",
-   "views": 1008
+   "views": 936
   },
   {
    "date": "2026-11-03",
-   "views": 1002
+   "views": 635
   },
   {
    "date": "2026-11-04",
-   "views": 894
+   "views": 614
   },
   {
    "date": "2026-11-05",
-   "views": 923
+   "views": 597
   },
   {
    "date": "2026-11-06",
-   "views": 948
+   "views": 990
   },
   {
    "date": "2026-11-07",
-   "views": 995
+   "views": 654
   },
   {
    "date": "2026-11-08",
-   "views": 1102
+   "views": 753
   },
   {
    "date": "2026-11-09",
-   "views": 1078
+   "views": 1733
   },
   {
    "date": "2026-11-10",
-   "views": 1128
+   "views": 22203
   },
   {
    "date": "2026-11-11",
-   "views": 1119
+   "views": 6313
   },
   {
    "date": "2026-11-12",
-   "views": 951
+   "views": 2783
   },
   {
    "date": "2026-11-13",
-   "views": 949
+   "views": 1812
   },
   {
    "date": "2026-11-14",
-   "views": 969
+   "views": 1248
   },
   {
    "date": "2026-11-15",
-   "views": 1587
+   "views": 1958
   },
   {
    "date": "2026-11-16",
-   "views": 2388
+   "views": 1451
   },
   {
    "date": "2026-11-17",
-   "views": 4852
+   "views": 1963
   },
   {
    "date": "2026-11-18",
-   "views": 5482
+   "views": 943
   },
   {
    "date": "2026-11-19",
-   "views": 46898
+   "views": 706
   },
   {
    "date": "2026-11-20",
-   "views": 43952
+   "views": 8476
   },
   {
    "date": "2026-11-21",
-   "views": 18777
+   "views": 14808
+  },
+  {
+   "date": "2026-11-22",
+   "views": 53745
   }
  ],
- "wikipedia_title": "The_Nightingale_(Hannah_novel)",
+ "wikipedia_title": "Josh_Johnson_(quarterback)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

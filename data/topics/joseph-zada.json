@@ -1,38 +1,34 @@
 {
  "title": "Joseph Zada",
  "slug": "joseph-zada",
- "score": 66,
+ "score": 73,
  "status": "Building",
- "change_percent": 520,
- "growth_ratio": 6.2,
- "recent_avg": 59148,
- "baseline_avg": 9543,
- "explanation": "Attention is 6.2\u00d7 its 30-day baseline.",
+ "change_percent": 656,
+ "growth_ratio": 7.56,
+ "recent_avg": 79771,
+ "baseline_avg": 10548,
+ "explanation": "Attention is 7.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 49605,
- "latest": 82604,
+ "abs_change": 69223,
+ "latest": 98864,
  "components": {
-  "acceleration": 0.466,
-  "anomaly": 0.791,
+  "acceleration": 0.517,
+  "anomaly": 0.871,
   "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.886,
-  "spike_quality": 0.901
+  "volume": 0.951,
+  "spike_quality": 0.919
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 59,148 views/day over the last 3 days (30-day baseline: 9,543)."
+  "Averaging 79,771 views/day over the last 3 days (30-day baseline: 10,548)."
  ],
  "history": [
-  {
-   "date": "2026-10-13",
-   "views": 10846
-  },
   {
    "date": "2026-10-14",
    "views": 9993
@@ -188,11 +184,15 @@
   {
    "date": "2026-11-21",
    "views": 82604
+  },
+  {
+   "date": "2026-11-22",
+   "views": 98864
   }
  ],
  "wikipedia_title": "Joseph_Zada",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

@@ -1,38 +1,33 @@
 {
  "title": "Steps (film)",
  "slug": "steps-film",
- "score": 66,
+ "score": 61,
  "status": "Building",
- "change_percent": 1137,
- "growth_ratio": 12.37,
- "recent_avg": 38595,
- "baseline_avg": 3120,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 1640,
+ "growth_ratio": 17.4,
+ "recent_avg": 56953,
+ "baseline_avg": 3273,
+ "explanation": "Attention is 17\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35475,
- "latest": 67976,
+ "abs_change": 53680,
+ "latest": 62141,
  "components": {
-  "acceleration": 0.643,
+  "acceleration": 0.73,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.793,
-  "spike_quality": 0.793
+  "persistence": 0.92,
+  "momentum": 0.748,
+  "volume": 0.878,
+  "spike_quality": 0.836
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 38,595 views/day over the last 3 days (30-day baseline: 3,120)."
+  "Averaging 56,953 views/day over the last 3 days (30-day baseline: 3,273)."
  ],
  "history": [
-  {
-   "date": "2026-10-13",
-   "views": 1111
-  },
   {
    "date": "2026-10-14",
    "views": 1020
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-21",
    "views": 67976
+  },
+  {
+   "date": "2026-11-22",
+   "views": 62141
   }
  ],
  "wikipedia_title": "Steps_(film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

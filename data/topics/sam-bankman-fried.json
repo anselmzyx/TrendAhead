@@ -1,197 +1,198 @@
 {
- "title": "Grand Theft Auto",
- "slug": "grand-theft-auto",
- "score": 36,
- "status": "Elevated",
- "change_percent": 823,
- "growth_ratio": 9.23,
- "recent_avg": 134640,
- "baseline_avg": 14588,
- "explanation": "Attention is 9.2\u00d7 its 30-day baseline.",
+ "title": "Sam Bankman-Fried",
+ "slug": "sam-bankman-fried",
+ "score": 76,
+ "status": "Building",
+ "change_percent": 1133,
+ "growth_ratio": 12.33,
+ "recent_avg": 59102,
+ "baseline_avg": 4793,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 120052,
- "latest": 103318,
+ "abs_change": 54309,
+ "latest": 74746,
  "components": {
-  "acceleration": 0.568,
-  "anomaly": 0.601,
-  "persistence": 0.84,
-  "momentum": 0.429,
-  "volume": 1.0,
-  "spike_quality": 0.723
+  "acceleration": 0.642,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.886,
+  "spike_quality": 0.89
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 134,640 views/day over the last 3 days (30-day baseline: 14,588)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 59,102 views/day over the last 3 days (30-day baseline: 4,793)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 4690
-  },
-  {
    "date": "2026-10-14",
-   "views": 5224
+   "views": 2314
   },
   {
    "date": "2026-10-15",
-   "views": 6687
+   "views": 2205
   },
   {
    "date": "2026-10-16",
-   "views": 7500
+   "views": 2320
   },
   {
    "date": "2026-10-17",
-   "views": 6384
+   "views": 2256
   },
   {
    "date": "2026-10-18",
-   "views": 5927
+   "views": 2635
   },
   {
    "date": "2026-10-19",
-   "views": 5876
+   "views": 2784
   },
   {
    "date": "2026-10-20",
-   "views": 5820
+   "views": 2528
   },
   {
    "date": "2026-10-21",
-   "views": 6040
+   "views": 2511
   },
   {
    "date": "2026-10-22",
-   "views": 6388
+   "views": 3039
   },
   {
    "date": "2026-10-23",
-   "views": 5451
+   "views": 3426
   },
   {
    "date": "2026-10-24",
-   "views": 5497
+   "views": 3064
   },
   {
    "date": "2026-10-25",
-   "views": 5987
+   "views": 2918
   },
   {
    "date": "2026-10-26",
-   "views": 5292
+   "views": 3039
   },
   {
    "date": "2026-10-27",
-   "views": 5248
+   "views": 3323
   },
   {
    "date": "2026-10-28",
-   "views": 5307
+   "views": 3900
   },
   {
    "date": "2026-10-29",
-   "views": 6198
+   "views": 3459
   },
   {
    "date": "2026-10-30",
-   "views": 5306
+   "views": 5198
   },
   {
    "date": "2026-10-31",
-   "views": 4948
+   "views": 4001
   },
   {
    "date": "2026-11-01",
-   "views": 5580
+   "views": 4112
   },
   {
    "date": "2026-11-02",
-   "views": 5965
+   "views": 3825
   },
   {
    "date": "2026-11-03",
-   "views": 6761
+   "views": 3178
   },
   {
    "date": "2026-11-04",
-   "views": 6311
+   "views": 2459
   },
   {
    "date": "2026-11-05",
-   "views": 7652
+   "views": 2907
   },
   {
    "date": "2026-11-06",
-   "views": 8910
+   "views": 3515
   },
   {
    "date": "2026-11-07",
-   "views": 8136
+   "views": 2955
   },
   {
    "date": "2026-11-08",
-   "views": 9180
+   "views": 3774
   },
   {
    "date": "2026-11-09",
-   "views": 10440
+   "views": 3791
   },
   {
    "date": "2026-11-10",
-   "views": 13243
+   "views": 3407
   },
   {
    "date": "2026-11-11",
-   "views": 14681
+   "views": 3079
   },
   {
    "date": "2026-11-12",
-   "views": 18464
+   "views": 3249
   },
   {
    "date": "2026-11-13",
-   "views": 20235
+   "views": 3131
   },
   {
    "date": "2026-11-14",
-   "views": 22605
+   "views": 7435
   },
   {
    "date": "2026-11-15",
-   "views": 27244
+   "views": 6650
   },
   {
    "date": "2026-11-16",
-   "views": 33200
+   "views": 6657
   },
   {
    "date": "2026-11-17",
-   "views": 40881
+   "views": 6076
   },
   {
    "date": "2026-11-18",
-   "views": 110668
+   "views": 9394
   },
   {
    "date": "2026-11-19",
-   "views": 171292
+   "views": 26328
   },
   {
    "date": "2026-11-20",
-   "views": 129311
+   "views": 47165
   },
   {
    "date": "2026-11-21",
-   "views": 103318
+   "views": 55395
+  },
+  {
+   "date": "2026-11-22",
+   "views": 74746
   }
  ],
- "wikipedia_title": "Grand_Theft_Auto",
+ "wikipedia_title": "Sam_Bankman-Fried",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

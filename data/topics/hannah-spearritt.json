@@ -1,197 +1,197 @@
 {
- "title": "Nikhil Chaudhary (cricketer)",
- "slug": "nikhil-chaudhary-cricketer",
- "score": 51,
+ "title": "Hannah Spearritt",
+ "slug": "hannah-spearritt",
+ "score": 35,
  "status": "Breaking out",
- "change_percent": 31128,
- "growth_ratio": 310.84,
- "recent_avg": 33726,
- "baseline_avg": 108,
- "explanation": "Attention is 311\u00d7 its 30-day baseline.",
+ "change_percent": 1162,
+ "growth_ratio": 12.62,
+ "recent_avg": 18138,
+ "baseline_avg": 1437,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 33618,
- "latest": 100364,
+ "abs_change": 16701,
+ "latest": 49641,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.648,
   "anomaly": 1.0,
-  "persistence": 0.8,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.764,
-  "spike_quality": 0.507
+  "volume": 0.629,
+  "spike_quality": 0.592
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 33,726 views/day over the last 3 days (30-day baseline: 108)."
+  "Averaging 18,138 views/day over the last 3 days (30-day baseline: 1,437)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 142
-  },
-  {
    "date": "2026-10-14",
-   "views": 66
+   "views": 473
   },
   {
    "date": "2026-10-15",
-   "views": 46
+   "views": 581
   },
   {
    "date": "2026-10-16",
-   "views": 40
+   "views": 1132
   },
   {
    "date": "2026-10-17",
-   "views": 40
+   "views": 615
   },
   {
    "date": "2026-10-18",
-   "views": 34
+   "views": 541
   },
   {
    "date": "2026-10-19",
-   "views": 58
+   "views": 439
   },
   {
    "date": "2026-10-20",
-   "views": 54
+   "views": 433
   },
   {
    "date": "2026-10-21",
-   "views": 103
+   "views": 415
   },
   {
    "date": "2026-10-22",
-   "views": 70
+   "views": 432
   },
   {
    "date": "2026-10-23",
-   "views": 42
+   "views": 599
   },
   {
    "date": "2026-10-24",
-   "views": 125
+   "views": 504
   },
   {
    "date": "2026-10-25",
-   "views": 46
+   "views": 563
   },
   {
    "date": "2026-10-26",
-   "views": 27
+   "views": 482
   },
   {
    "date": "2026-10-27",
-   "views": 46
+   "views": 511
   },
   {
    "date": "2026-10-28",
-   "views": 39
+   "views": 432
   },
   {
    "date": "2026-10-29",
-   "views": 57
+   "views": 881
   },
   {
    "date": "2026-10-30",
-   "views": 50
+   "views": 5632
   },
   {
    "date": "2026-10-31",
-   "views": 79
+   "views": 2696
   },
   {
    "date": "2026-11-01",
-   "views": 63
+   "views": 1432
   },
   {
    "date": "2026-11-02",
-   "views": 738
+   "views": 1486
   },
   {
    "date": "2026-11-03",
-   "views": 291
+   "views": 2177
   },
   {
    "date": "2026-11-04",
-   "views": 100
+   "views": 969
   },
   {
    "date": "2026-11-05",
-   "views": 67
+   "views": 1011
   },
   {
    "date": "2026-11-06",
-   "views": 55
+   "views": 1648
   },
   {
    "date": "2026-11-07",
-   "views": 72
+   "views": 5336
   },
   {
    "date": "2026-11-08",
-   "views": 48
+   "views": 2273
   },
   {
    "date": "2026-11-09",
-   "views": 81
+   "views": 1961
   },
   {
    "date": "2026-11-10",
-   "views": 93
+   "views": 1562
   },
   {
    "date": "2026-11-11",
-   "views": 77
+   "views": 1334
   },
   {
    "date": "2026-11-12",
-   "views": 102
+   "views": 1035
   },
   {
    "date": "2026-11-13",
-   "views": 181
+   "views": 842
   },
   {
    "date": "2026-11-14",
-   "views": 91
+   "views": 980
   },
   {
    "date": "2026-11-15",
-   "views": 113
+   "views": 1408
   },
   {
    "date": "2026-11-16",
-   "views": 93
+   "views": 1433
   },
   {
    "date": "2026-11-17",
-   "views": 81
+   "views": 864
   },
   {
    "date": "2026-11-18",
-   "views": 171
+   "views": 936
   },
   {
    "date": "2026-11-19",
-   "views": 311
+   "views": 1268
   },
   {
    "date": "2026-11-20",
-   "views": 502
+   "views": 1456
   },
   {
    "date": "2026-11-21",
-   "views": 100364
+   "views": 3318
+  },
+  {
+   "date": "2026-11-22",
+   "views": 49641
   }
  ],
- "wikipedia_title": "Nikhil_Chaudhary_(cricketer)",
+ "wikipedia_title": "Hannah_Spearritt",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

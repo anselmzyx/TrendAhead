@@ -1,197 +1,198 @@
 {
- "title": "List of best-selling video games",
- "slug": "list-of-best-selling-video-games",
- "score": 54,
+ "title": "XXX (film series)",
+ "slug": "xxx-film-series",
+ "score": 36,
  "status": "Building",
- "change_percent": 586,
- "growth_ratio": 6.86,
- "recent_avg": 56585,
- "baseline_avg": 8248,
- "explanation": "Attention is 6.9\u00d7 its 30-day baseline.",
+ "change_percent": 116,
+ "growth_ratio": 2.16,
+ "recent_avg": 63702,
+ "baseline_avg": 29498,
+ "explanation": "Attention is 2.2\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 48337,
- "latest": 61237,
+ "abs_change": 34204,
+ "latest": 70514,
  "components": {
-  "acceleration": 0.492,
-  "anomaly": 0.949,
-  "persistence": 0.92,
-  "momentum": 0.729,
-  "volume": 0.876,
-  "spike_quality": 0.856
+  "acceleration": 0.197,
+  "anomaly": 0.349,
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.902,
+  "spike_quality": 0.956
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent attention is close to this topic's usual level.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 56,585 views/day over the last 3 days (30-day baseline: 8,248)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 63,702 views/day over the last 3 days (30-day baseline: 29,498)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 4431
-  },
-  {
    "date": "2026-10-14",
-   "views": 4735
+   "views": 19580
   },
   {
    "date": "2026-10-15",
-   "views": 5777
+   "views": 20570
   },
   {
    "date": "2026-10-16",
-   "views": 5800
+   "views": 23616
   },
   {
    "date": "2026-10-17",
-   "views": 5210
+   "views": 26817
   },
   {
    "date": "2026-10-18",
-   "views": 5140
+   "views": 26433
   },
   {
    "date": "2026-10-19",
-   "views": 4946
+   "views": 23447
   },
   {
    "date": "2026-10-20",
-   "views": 5001
+   "views": 22593
   },
   {
    "date": "2026-10-21",
-   "views": 5443
+   "views": 47276
   },
   {
    "date": "2026-10-22",
-   "views": 5922
+   "views": 44394
   },
   {
    "date": "2026-10-23",
-   "views": 5347
+   "views": 57259
   },
   {
    "date": "2026-10-24",
-   "views": 4858
+   "views": 38914
   },
   {
    "date": "2026-10-25",
-   "views": 4874
+   "views": 32051
   },
   {
    "date": "2026-10-26",
-   "views": 5293
+   "views": 29451
   },
   {
    "date": "2026-10-27",
-   "views": 4922
+   "views": 45271
   },
   {
    "date": "2026-10-28",
-   "views": 4741
+   "views": 22408
   },
   {
    "date": "2026-10-29",
-   "views": 4648
+   "views": 24922
   },
   {
    "date": "2026-10-30",
-   "views": 4680
+   "views": 23153
   },
   {
    "date": "2026-10-31",
-   "views": 4396
+   "views": 21616
   },
   {
    "date": "2026-11-01",
-   "views": 4628
+   "views": 23200
   },
   {
    "date": "2026-11-02",
-   "views": 5290
+   "views": 23540
   },
   {
    "date": "2026-11-03",
-   "views": 6214
+   "views": 24090
   },
   {
    "date": "2026-11-04",
-   "views": 5863
+   "views": 24900
   },
   {
    "date": "2026-11-05",
-   "views": 9051
+   "views": 24974
   },
   {
    "date": "2026-11-06",
-   "views": 8393
+   "views": 20492
   },
   {
    "date": "2026-11-07",
-   "views": 6568
+   "views": 21093
   },
   {
    "date": "2026-11-08",
-   "views": 6646
+   "views": 21286
   },
   {
    "date": "2026-11-09",
-   "views": 8730
+   "views": 20651
   },
   {
    "date": "2026-11-10",
-   "views": 10941
+   "views": 20591
   },
   {
    "date": "2026-11-11",
-   "views": 11655
+   "views": 21064
   },
   {
    "date": "2026-11-12",
-   "views": 11388
+   "views": 22454
   },
   {
    "date": "2026-11-13",
-   "views": 10842
+   "views": 20065
   },
   {
    "date": "2026-11-14",
-   "views": 10026
+   "views": 41898
   },
   {
    "date": "2026-11-15",
-   "views": 11189
+   "views": 35361
   },
   {
    "date": "2026-11-16",
-   "views": 13264
+   "views": 33379
   },
   {
    "date": "2026-11-17",
-   "views": 16749
+   "views": 29688
   },
   {
    "date": "2026-11-18",
-   "views": 29885
+   "views": 40124
   },
   {
    "date": "2026-11-19",
-   "views": 39051
+   "views": 29389
   },
   {
    "date": "2026-11-20",
-   "views": 69466
+   "views": 58700
   },
   {
    "date": "2026-11-21",
-   "views": 61237
+   "views": 61892
+  },
+  {
+   "date": "2026-11-22",
+   "views": 70514
   }
  ],
- "wikipedia_title": "List_of_best-selling_video_games",
+ "wikipedia_title": "XXX_(film_series)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

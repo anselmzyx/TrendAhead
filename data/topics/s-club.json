@@ -1,198 +1,197 @@
 {
- "title": "XXX: State of the Union",
- "slug": "xxx-state-of-the-union",
- "score": 49,
- "status": "Building",
- "change_percent": 742,
- "growth_ratio": 8.42,
- "recent_avg": 47987,
- "baseline_avg": 5700,
- "explanation": "Attention is 8.4\u00d7 its 30-day baseline.",
+ "title": "S Club",
+ "slug": "s-club",
+ "score": 40,
+ "status": "Breaking out",
+ "change_percent": 1896,
+ "growth_ratio": 19.96,
+ "recent_avg": 37141,
+ "baseline_avg": 1861,
+ "explanation": "Attention is 20\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 42287,
- "latest": 76640,
+ "abs_change": 35280,
+ "latest": 104957,
  "components": {
-  "acceleration": 0.545,
-  "anomaly": 0.771,
-  "persistence": 0.6,
+  "acceleration": 0.765,
+  "anomaly": 1.0,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.841,
-  "spike_quality": 0.799
+  "volume": 0.785,
+  "spike_quality": 0.563
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 47,987 views/day over the last 3 days (30-day baseline: 5,700)."
+  "Averaging 37,141 views/day over the last 3 days (30-day baseline: 1,861)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 2746
-  },
-  {
    "date": "2026-10-14",
-   "views": 2714
+   "views": 683
   },
   {
    "date": "2026-10-15",
-   "views": 2725
+   "views": 853
   },
   {
    "date": "2026-10-16",
-   "views": 2895
+   "views": 1808
   },
   {
    "date": "2026-10-17",
-   "views": 2836
+   "views": 941
   },
   {
    "date": "2026-10-18",
-   "views": 2804
+   "views": 747
   },
   {
    "date": "2026-10-19",
-   "views": 2556
+   "views": 611
   },
   {
    "date": "2026-10-20",
-   "views": 2281
+   "views": 633
   },
   {
    "date": "2026-10-21",
-   "views": 16930
+   "views": 625
   },
   {
    "date": "2026-10-22",
-   "views": 24392
+   "views": 702
   },
   {
    "date": "2026-10-23",
-   "views": 13069
+   "views": 768
   },
   {
    "date": "2026-10-24",
-   "views": 18646
+   "views": 765
   },
   {
    "date": "2026-10-25",
-   "views": 7773
+   "views": 781
   },
   {
    "date": "2026-10-26",
-   "views": 9627
+   "views": 655
   },
   {
    "date": "2026-10-27",
-   "views": 10212
+   "views": 667
   },
   {
    "date": "2026-10-28",
-   "views": 3007
+   "views": 695
   },
   {
    "date": "2026-10-29",
-   "views": 3196
+   "views": 1111
   },
   {
    "date": "2026-10-30",
-   "views": 2567
+   "views": 6269
   },
   {
    "date": "2026-10-31",
-   "views": 2545
+   "views": 3248
   },
   {
    "date": "2026-11-01",
-   "views": 2795
+   "views": 1705
   },
   {
    "date": "2026-11-02",
-   "views": 2645
+   "views": 1841
   },
   {
    "date": "2026-11-03",
-   "views": 2513
+   "views": 1977
   },
   {
    "date": "2026-11-04",
-   "views": 2798
+   "views": 1475
   },
   {
    "date": "2026-11-05",
-   "views": 3337
+   "views": 1471
   },
   {
    "date": "2026-11-06",
-   "views": 2760
+   "views": 2350
   },
   {
    "date": "2026-11-07",
-   "views": 2861
+   "views": 8304
   },
   {
    "date": "2026-11-08",
-   "views": 3109
+   "views": 2835
   },
   {
    "date": "2026-11-09",
-   "views": 3074
+   "views": 2244
   },
   {
    "date": "2026-11-10",
-   "views": 2890
+   "views": 1960
   },
   {
    "date": "2026-11-11",
-   "views": 3435
+   "views": 1772
   },
   {
    "date": "2026-11-12",
-   "views": 3746
+   "views": 1386
   },
   {
    "date": "2026-11-13",
-   "views": 3482
+   "views": 1298
   },
   {
    "date": "2026-11-14",
-   "views": 3798
+   "views": 1299
   },
   {
    "date": "2026-11-15",
-   "views": 3718
+   "views": 1452
   },
   {
    "date": "2026-11-16",
-   "views": 3439
+   "views": 1965
   },
   {
    "date": "2026-11-17",
-   "views": 3181
+   "views": 1282
   },
   {
    "date": "2026-11-18",
-   "views": 3174
+   "views": 1274
   },
   {
    "date": "2026-11-19",
-   "views": 26468
+   "views": 1643
   },
   {
    "date": "2026-11-20",
-   "views": 40853
+   "views": 1822
   },
   {
    "date": "2026-11-21",
-   "views": 76640
+   "views": 4643
+  },
+  {
+   "date": "2026-11-22",
+   "views": 104957
   }
  ],
- "wikipedia_title": "XXX:_State_of_the_Union",
+ "wikipedia_title": "S_Club",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

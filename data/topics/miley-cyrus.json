@@ -1,196 +1,197 @@
 {
- "title": "Lewis Moody",
- "slug": "lewis-moody",
- "score": 33,
+ "title": "Miley Cyrus",
+ "slug": "miley-cyrus",
+ "score": 48,
  "status": "Breaking out",
- "change_percent": 2379,
- "growth_ratio": 24.78,
- "recent_avg": 23405,
- "baseline_avg": 944,
- "explanation": "Attention is 25\u00d7 its 30-day baseline.",
+ "change_percent": 827,
+ "growth_ratio": 9.27,
+ "recent_avg": 65431,
+ "baseline_avg": 7059,
+ "explanation": "Attention is 9.3\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 22461,
- "latest": 69243,
+ "abs_change": 58372,
+ "latest": 170642,
  "components": {
-  "acceleration": 0.821,
+  "acceleration": 0.569,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.8,
-  "volume": 0.685,
-  "spike_quality": 0.544
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.908,
+  "spike_quality": 0.637
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 23,405 views/day over the last 3 days (30-day baseline: 944)."
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 65,431 views/day over the last 3 days (30-day baseline: 7,059)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 736
-  },
-  {
    "date": "2026-10-14",
-   "views": 393
+   "views": 8187
   },
   {
    "date": "2026-10-15",
-   "views": 318
+   "views": 8562
   },
   {
    "date": "2026-10-16",
-   "views": 372
+   "views": 10548
   },
   {
    "date": "2026-10-17",
-   "views": 377
+   "views": 18268
   },
   {
    "date": "2026-10-18",
-   "views": 359
+   "views": 18541
   },
   {
    "date": "2026-10-19",
-   "views": 401
+   "views": 13426
   },
   {
    "date": "2026-10-20",
-   "views": 367
+   "views": 10840
   },
   {
    "date": "2026-10-21",
-   "views": 272
+   "views": 7992
   },
   {
    "date": "2026-10-22",
-   "views": 389
+   "views": 8978
   },
   {
    "date": "2026-10-23",
-   "views": 343
+   "views": 7887
   },
   {
    "date": "2026-10-24",
-   "views": 334
+   "views": 8008
   },
   {
    "date": "2026-10-25",
-   "views": 305
+   "views": 7594
   },
   {
    "date": "2026-10-26",
-   "views": 4832
+   "views": 7518
   },
   {
    "date": "2026-10-27",
-   "views": 1458
+   "views": 8475
   },
   {
    "date": "2026-10-28",
-   "views": 730
+   "views": 7152
   },
   {
    "date": "2026-10-29",
-   "views": 571
+   "views": 5759
   },
   {
    "date": "2026-10-30",
-   "views": 452
+   "views": 5530
   },
   {
    "date": "2026-10-31",
-   "views": 454
+   "views": 6967
   },
   {
    "date": "2026-11-01",
-   "views": 1004
+   "views": 6973
   },
   {
    "date": "2026-11-02",
-   "views": 930
+   "views": 5901
   },
   {
    "date": "2026-11-03",
-   "views": 587
+   "views": 7785
   },
   {
    "date": "2026-11-04",
-   "views": 2500
+   "views": 5616
   },
   {
    "date": "2026-11-05",
-   "views": 2032
+   "views": 5770
   },
   {
    "date": "2026-11-06",
-   "views": 2408
+   "views": 5646
   },
   {
    "date": "2026-11-07",
-   "views": 689
+   "views": 7076
   },
   {
    "date": "2026-11-08",
-   "views": 601
+   "views": 7137
   },
   {
    "date": "2026-11-09",
-   "views": 534
+   "views": 6391
   },
   {
    "date": "2026-11-10",
-   "views": 394
+   "views": 9864
   },
   {
    "date": "2026-11-11",
-   "views": 322
+   "views": 6237
   },
   {
    "date": "2026-11-12",
-   "views": 391
+   "views": 6614
   },
   {
    "date": "2026-11-13",
-   "views": 370
+   "views": 6807
   },
   {
    "date": "2026-11-14",
-   "views": 384
+   "views": 7531
   },
   {
    "date": "2026-11-15",
-   "views": 256
+   "views": 7870
   },
   {
    "date": "2026-11-16",
-   "views": 330
+   "views": 7386
   },
   {
    "date": "2026-11-17",
-   "views": 3528
+   "views": 6578
   },
   {
    "date": "2026-11-18",
-   "views": 564
+   "views": 6233
   },
   {
    "date": "2026-11-19",
-   "views": 518
+   "views": 6490
   },
   {
    "date": "2026-11-20",
-   "views": 453
+   "views": 10633
   },
   {
    "date": "2026-11-21",
-   "views": 69243
+   "views": 15018
+  },
+  {
+   "date": "2026-11-22",
+   "views": 170642
   }
  ],
- "wikipedia_title": "Lewis_Moody",
+ "wikipedia_title": "Miley_Cyrus",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

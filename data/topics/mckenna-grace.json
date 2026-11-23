@@ -1,38 +1,34 @@
 {
  "title": "Mckenna Grace",
  "slug": "mckenna-grace",
- "score": 48,
+ "score": 53,
  "status": "Building",
- "change_percent": 136,
- "growth_ratio": 2.36,
- "recent_avg": 53945,
- "baseline_avg": 22861,
- "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
+ "change_percent": 181,
+ "growth_ratio": 2.81,
+ "recent_avg": 66979,
+ "baseline_avg": 23798,
+ "explanation": "Attention is 2.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 31084,
- "latest": 69610,
+ "abs_change": 43181,
+ "latest": 79779,
  "components": {
-  "acceleration": 0.219,
-  "anomaly": 0.354,
+  "acceleration": 0.265,
+  "anomaly": 0.473,
   "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.866,
-  "spike_quality": 0.95
+  "volume": 0.913,
+  "spike_quality": 0.949
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 53,945 views/day over the last 3 days (30-day baseline: 22,861)."
+  "Averaging 66,979 views/day over the last 3 days (30-day baseline: 23,798)."
  ],
  "history": [
-  {
-   "date": "2026-10-13",
-   "views": 8211
-  },
   {
    "date": "2026-10-14",
    "views": 12370
@@ -188,11 +184,15 @@
   {
    "date": "2026-11-21",
    "views": 69610
+  },
+  {
+   "date": "2026-11-22",
+   "views": 79779
   }
  ],
  "wikipedia_title": "Mckenna_Grace",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

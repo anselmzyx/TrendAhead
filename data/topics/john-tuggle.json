@@ -1,197 +1,198 @@
 {
- "title": "Grand Theft Auto V",
- "slug": "grand-theft-auto-v",
- "score": 33,
- "status": "Elevated",
- "change_percent": 489,
- "growth_ratio": 5.89,
- "recent_avg": 86449,
- "baseline_avg": 14688,
- "explanation": "Attention is 5.9\u00d7 its 30-day baseline.",
+ "title": "John Tuggle",
+ "slug": "john-tuggle",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 505,
+ "growth_ratio": 6.05,
+ "recent_avg": 28568,
+ "baseline_avg": 4723,
+ "explanation": "Attention is 6.0\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 71761,
- "latest": 67990,
+ "abs_change": 23845,
+ "latest": 71317,
  "components": {
-  "acceleration": 0.453,
-  "anomaly": 0.499,
-  "persistence": 0.84,
-  "momentum": 0.443,
-  "volume": 0.968,
-  "spike_quality": 0.75
+  "acceleration": 0.46,
+  "anomaly": 0.724,
+  "persistence": 0.6,
+  "momentum": 0.933,
+  "volume": 0.728,
+  "spike_quality": 0.73
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 86,449 views/day over the last 3 days (30-day baseline: 14,688)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 28,568 views/day over the last 3 days (30-day baseline: 4,723)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 7654
-  },
-  {
    "date": "2026-10-14",
-   "views": 7707
+   "views": 4263
   },
   {
    "date": "2026-10-15",
-   "views": 9483
+   "views": 4058
   },
   {
    "date": "2026-10-16",
-   "views": 9630
+   "views": 4120
   },
   {
    "date": "2026-10-17",
-   "views": 9434
+   "views": 5276
   },
   {
    "date": "2026-10-18",
-   "views": 9382
+   "views": 5546
   },
   {
    "date": "2026-10-19",
-   "views": 8927
+   "views": 3484
   },
   {
    "date": "2026-10-20",
-   "views": 8734
+   "views": 3602
   },
   {
    "date": "2026-10-21",
-   "views": 8429
+   "views": 3822
   },
   {
    "date": "2026-10-22",
-   "views": 8215
+   "views": 3309
   },
   {
    "date": "2026-10-23",
-   "views": 7823
+   "views": 3299
   },
   {
    "date": "2026-10-24",
-   "views": 7887
+   "views": 3652
   },
   {
    "date": "2026-10-25",
-   "views": 8514
+   "views": 6207
   },
   {
    "date": "2026-10-26",
-   "views": 7439
+   "views": 3057
   },
   {
    "date": "2026-10-27",
-   "views": 7217
+   "views": 3123
   },
   {
    "date": "2026-10-28",
-   "views": 7052
+   "views": 3197
   },
   {
    "date": "2026-10-29",
-   "views": 7809
+   "views": 2704
   },
   {
    "date": "2026-10-30",
-   "views": 7228
+   "views": 2663
   },
   {
    "date": "2026-10-31",
-   "views": 7029
+   "views": 3048
   },
   {
    "date": "2026-11-01",
-   "views": 7577
+   "views": 3378
   },
   {
    "date": "2026-11-02",
-   "views": 7671
+   "views": 2450
   },
   {
    "date": "2026-11-03",
-   "views": 8373
+   "views": 2368
   },
   {
    "date": "2026-11-04",
-   "views": 8217
+   "views": 2243
   },
   {
    "date": "2026-11-05",
-   "views": 9005
+   "views": 2310
   },
   {
    "date": "2026-11-06",
-   "views": 9773
+   "views": 2401
   },
   {
    "date": "2026-11-07",
-   "views": 9249
+   "views": 2940
   },
   {
    "date": "2026-11-08",
-   "views": 10158
+   "views": 3267
   },
   {
    "date": "2026-11-09",
-   "views": 11836
+   "views": 2692
   },
   {
    "date": "2026-11-10",
-   "views": 15479
+   "views": 2659
   },
   {
    "date": "2026-11-11",
-   "views": 16673
+   "views": 4948
   },
   {
    "date": "2026-11-12",
-   "views": 19200
+   "views": 4976
   },
   {
    "date": "2026-11-13",
-   "views": 20845
+   "views": 6084
   },
   {
    "date": "2026-11-14",
-   "views": 21835
+   "views": 12638
   },
   {
    "date": "2026-11-15",
-   "views": 24605
+   "views": 16207
   },
   {
    "date": "2026-11-16",
-   "views": 29091
+   "views": 11312
   },
   {
    "date": "2026-11-17",
-   "views": 36313
+   "views": 6738
   },
   {
    "date": "2026-11-18",
-   "views": 81349
+   "views": 7273
   },
   {
    "date": "2026-11-19",
-   "views": 108371
+   "views": 6720
   },
   {
    "date": "2026-11-20",
-   "views": 82987
+   "views": 5518
   },
   {
    "date": "2026-11-21",
-   "views": 67990
+   "views": 8869
+  },
+  {
+   "date": "2026-11-22",
+   "views": 71317
   }
  ],
- "wikipedia_title": "Grand_Theft_Auto_V",
+ "wikipedia_title": "John_Tuggle",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

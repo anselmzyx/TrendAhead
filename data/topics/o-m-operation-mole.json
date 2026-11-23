@@ -1,38 +1,33 @@
 {
  "title": "O.M: Operation Mole",
  "slug": "o-m-operation-mole",
- "score": 83,
+ "score": 68,
  "status": "Building",
- "change_percent": 3245,
- "growth_ratio": 33.44,
- "recent_avg": 88766,
- "baseline_avg": 2654,
- "explanation": "Attention is 33\u00d7 its 30-day baseline.",
+ "change_percent": 3358,
+ "growth_ratio": 34.58,
+ "recent_avg": 117862,
+ "baseline_avg": 3408,
+ "explanation": "Attention is 35\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 86112,
- "latest": 123978,
+ "abs_change": 114454,
+ "latest": 109915,
  "components": {
-  "acceleration": 0.897,
+  "acceleration": 0.906,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.974,
-  "spike_quality": 0.869
+  "persistence": 0.84,
+  "momentum": 0.732,
+  "volume": 1.0,
+  "spike_quality": 0.861
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 88,766 views/day over the last 3 days (30-day baseline: 2,654)."
+  "Averaging 117,862 views/day over the last 3 days (30-day baseline: 3,408)."
  ],
  "history": [
-  {
-   "date": "2026-10-13",
-   "views": 0
-  },
   {
    "date": "2026-10-14",
    "views": 0
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-21",
    "views": 123978
+  },
+  {
+   "date": "2026-11-22",
+   "views": 109915
   }
  ],
  "wikipedia_title": "O.M:_Operation_Mole",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "2026 MAMA Awards",
- "slug": "2026-mama-awards",
- "score": 71,
- "status": "Building",
- "change_percent": 2918,
- "growth_ratio": 30.17,
- "recent_avg": 37150,
- "baseline_avg": 1231,
- "explanation": "Attention is 30\u00d7 its 30-day baseline.",
+ "title": "Paul Cattermole",
+ "slug": "paul-cattermole",
+ "score": 36,
+ "status": "Breaking out",
+ "change_percent": 1174,
+ "growth_ratio": 12.74,
+ "recent_avg": 18211,
+ "baseline_avg": 1429,
+ "explanation": "Attention is 13\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35919,
- "latest": 54813,
+ "abs_change": 16782,
+ "latest": 48372,
  "components": {
-  "acceleration": 0.871,
+  "acceleration": 0.651,
   "anomaly": 1.0,
-  "persistence": 0.92,
+  "persistence": 0.4,
   "momentum": 1.0,
-  "volume": 0.785,
-  "spike_quality": 0.828
+  "volume": 0.63,
+  "spike_quality": 0.608
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,150 views/day over the last 3 days (30-day baseline: 1,231)."
+  "Averaging 18,211 views/day over the last 3 days (30-day baseline: 1,429)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 2247
-  },
-  {
    "date": "2026-10-14",
-   "views": 1758
+   "views": 413
   },
   {
    "date": "2026-10-15",
-   "views": 1520
+   "views": 502
   },
   {
    "date": "2026-10-16",
-   "views": 1270
+   "views": 1544
   },
   {
    "date": "2026-10-17",
-   "views": 791
+   "views": 624
   },
   {
    "date": "2026-10-18",
-   "views": 819
+   "views": 455
   },
   {
    "date": "2026-10-19",
-   "views": 940
+   "views": 377
   },
   {
    "date": "2026-10-20",
-   "views": 856
+   "views": 369
   },
   {
    "date": "2026-10-21",
-   "views": 725
+   "views": 362
   },
   {
    "date": "2026-10-22",
-   "views": 833
+   "views": 507
   },
   {
    "date": "2026-10-23",
-   "views": 715
+   "views": 553
   },
   {
    "date": "2026-10-24",
-   "views": 684
+   "views": 506
   },
   {
    "date": "2026-10-25",
-   "views": 626
+   "views": 444
   },
   {
    "date": "2026-10-26",
-   "views": 516
+   "views": 382
   },
   {
    "date": "2026-10-27",
-   "views": 522
+   "views": 391
   },
   {
    "date": "2026-10-28",
-   "views": 675
+   "views": 406
   },
   {
    "date": "2026-10-29",
-   "views": 904
+   "views": 805
   },
   {
    "date": "2026-10-30",
-   "views": 930
+   "views": 5863
   },
   {
    "date": "2026-10-31",
-   "views": 809
+   "views": 2531
   },
   {
    "date": "2026-11-01",
-   "views": 780
+   "views": 1249
   },
   {
    "date": "2026-11-02",
-   "views": 766
+   "views": 1489
   },
   {
    "date": "2026-11-03",
-   "views": 707
+   "views": 1957
   },
   {
    "date": "2026-11-04",
-   "views": 849
+   "views": 986
   },
   {
    "date": "2026-11-05",
-   "views": 918
+   "views": 947
   },
   {
    "date": "2026-11-06",
-   "views": 838
+   "views": 1629
   },
   {
    "date": "2026-11-07",
-   "views": 1052
+   "views": 6351
   },
   {
    "date": "2026-11-08",
-   "views": 1234
+   "views": 2316
   },
   {
    "date": "2026-11-09",
-   "views": 998
+   "views": 1752
   },
   {
    "date": "2026-11-10",
-   "views": 833
+   "views": 1511
   },
   {
    "date": "2026-11-11",
-   "views": 744
+   "views": 1299
   },
   {
    "date": "2026-11-12",
-   "views": 999
+   "views": 1009
   },
   {
    "date": "2026-11-13",
-   "views": 972
+   "views": 870
   },
   {
    "date": "2026-11-14",
-   "views": 2806
+   "views": 935
   },
   {
    "date": "2026-11-15",
-   "views": 4979
+   "views": 1101
   },
   {
    "date": "2026-11-16",
-   "views": 3397
+   "views": 1542
   },
   {
    "date": "2026-11-17",
-   "views": 2628
+   "views": 906
   },
   {
    "date": "2026-11-18",
-   "views": 2640
+   "views": 918
   },
   {
    "date": "2026-11-19",
-   "views": 4007
+   "views": 1364
   },
   {
    "date": "2026-11-20",
-   "views": 52630
+   "views": 1970
   },
   {
    "date": "2026-11-21",
-   "views": 54813
+   "views": 4292
+  },
+  {
+   "date": "2026-11-22",
+   "views": 48372
   }
  ],
- "wikipedia_title": "2026_MAMA_Awards",
+ "wikipedia_title": "Paul_Cattermole",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }

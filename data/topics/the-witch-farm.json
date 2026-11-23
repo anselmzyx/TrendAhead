@@ -1,92 +1,88 @@
 {
- "title": "Fiona (hippopotamus)",
- "slug": "fiona-hippopotamus",
- "score": 42,
- "status": "Peaked / fading",
- "change_percent": 26450,
- "growth_ratio": 265.72,
- "recent_avg": 87350,
- "baseline_avg": 329,
- "explanation": "Attention surged to 266\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "The Witch Farm",
+ "slug": "the-witch-farm",
+ "score": 48,
+ "status": "Breaking out",
+ "change_percent": 3748,
+ "growth_ratio": 38.49,
+ "recent_avg": 18854,
+ "baseline_avg": 490,
+ "explanation": "Attention is 38\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 87021,
- "latest": 53636,
+ "abs_change": 18364,
+ "latest": 50583,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.933,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.459,
-  "volume": 0.971,
-  "spike_quality": 0.53
+  "persistence": 0.84,
+  "momentum": 0.867,
+  "volume": 0.638,
+  "spike_quality": 0.623
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 87,350 views/day over the last 3 days (30-day baseline: 329)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 18,854 views/day over the last 3 days (30-day baseline: 490)."
  ],
  "history": [
   {
-   "date": "2026-10-13",
-   "views": 66
-  },
-  {
    "date": "2026-10-14",
-   "views": 54
+   "views": 0
   },
   {
    "date": "2026-10-15",
-   "views": 78
+   "views": 0
   },
   {
    "date": "2026-10-16",
-   "views": 77
+   "views": 0
   },
   {
    "date": "2026-10-17",
-   "views": 97
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 72
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 74
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 70
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 40
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 46
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 78
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 51
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 78
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 73
+   "views": 39
   },
   {
    "date": "2026-10-27",
-   "views": 97
+   "views": 95
   },
   {
    "date": "2026-10-28",
@@ -94,104 +90,108 @@
   },
   {
    "date": "2026-10-29",
-   "views": 54
+   "views": 97
   },
   {
    "date": "2026-10-30",
-   "views": 60
+   "views": 109
   },
   {
    "date": "2026-10-31",
-   "views": 65
+   "views": 243
   },
   {
    "date": "2026-11-01",
-   "views": 71
+   "views": 230
   },
   {
    "date": "2026-11-02",
-   "views": 55
+   "views": 157
   },
   {
    "date": "2026-11-03",
-   "views": 81
+   "views": 143
   },
   {
    "date": "2026-11-04",
-   "views": 49
+   "views": 179
   },
   {
    "date": "2026-11-05",
-   "views": 72
+   "views": 189
   },
   {
    "date": "2026-11-06",
-   "views": 223
+   "views": 530
   },
   {
    "date": "2026-11-07",
-   "views": 125
+   "views": 378
   },
   {
    "date": "2026-11-08",
-   "views": 118
+   "views": 307
   },
   {
    "date": "2026-11-09",
-   "views": 112
+   "views": 387
   },
   {
    "date": "2026-11-10",
-   "views": 88
+   "views": 360
   },
   {
    "date": "2026-11-11",
-   "views": 49
+   "views": 322
   },
   {
    "date": "2026-11-12",
-   "views": 66
+   "views": 252
   },
   {
    "date": "2026-11-13",
-   "views": 79
+   "views": 520
   },
   {
    "date": "2026-11-14",
-   "views": 76
+   "views": 1267
   },
   {
    "date": "2026-11-15",
-   "views": 60
+   "views": 1233
   },
   {
    "date": "2026-11-16",
-   "views": 253
+   "views": 1560
   },
   {
    "date": "2026-11-17",
-   "views": 895
+   "views": 2101
   },
   {
    "date": "2026-11-18",
-   "views": 6615
+   "views": 2195
   },
   {
    "date": "2026-11-19",
-   "views": 83965
+   "views": 1738
   },
   {
    "date": "2026-11-20",
-   "views": 124449
+   "views": 3066
   },
   {
    "date": "2026-11-21",
-   "views": 53636
+   "views": 2914
+  },
+  {
+   "date": "2026-11-22",
+   "views": 50583
   }
  ],
- "wikipedia_title": "Fiona_(hippopotamus)",
+ "wikipedia_title": "The_Witch_Farm",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-21",
- "generated_at_utc": "2026-11-22T13:33:58+00:00"
+ "data_through": "2026-11-22",
+ "generated_at_utc": "2026-11-23T16:25:06+00:00"
 }
