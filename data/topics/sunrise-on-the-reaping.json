@@ -1,38 +1,33 @@
 {
  "title": "Sunrise on the Reaping",
  "slug": "sunrise-on-the-reaping",
- "score": 64,
- "status": "Building",
- "change_percent": 436,
- "growth_ratio": 5.36,
- "recent_avg": 70187,
- "baseline_avg": 13104,
- "explanation": "Attention is 5.4\u00d7 its 30-day baseline.",
+ "score": 45,
+ "status": "Elevated",
+ "change_percent": 382,
+ "growth_ratio": 4.82,
+ "recent_avg": 72073,
+ "baseline_avg": 14949,
+ "explanation": "Attention is 4.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 57083,
- "latest": 78767,
+ "abs_change": 57124,
+ "latest": 65992,
  "components": {
-  "acceleration": 0.429,
-  "anomaly": 0.579,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.923,
-  "spike_quality": 0.952
+  "acceleration": 0.402,
+  "anomaly": 0.444,
+  "persistence": 0.92,
+  "momentum": 0.703,
+  "volume": 0.929,
+  "spike_quality": 0.887
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 70,187 views/day over the last 3 days (30-day baseline: 13,104)."
+  "Averaging 72,073 views/day over the last 3 days (30-day baseline: 14,949)."
  ],
  "history": [
-  {
-   "date": "2026-10-14",
-   "views": 4019
-  },
   {
    "date": "2026-10-15",
    "views": 4581
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-22",
    "views": 78767
+  },
+  {
+   "date": "2026-11-23",
+   "views": 65992
   }
  ],
  "wikipedia_title": "Sunrise_on_the_Reaping",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

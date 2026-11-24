@@ -1,197 +1,197 @@
 {
- "title": "Mr. Irrelevant (film)",
- "slug": "mr-irrelevant-film",
- "score": 35,
+ "title": "Fred Warner (American football)",
+ "slug": "fred-warner-american-football",
+ "score": 46,
  "status": "Breaking out",
- "change_percent": 872,
- "growth_ratio": 9.72,
- "recent_avg": 19423,
- "baseline_avg": 1998,
- "explanation": "Attention is 9.7\u00d7 its 30-day baseline.",
+ "change_percent": 2656,
+ "growth_ratio": 27.57,
+ "recent_avg": 37425,
+ "baseline_avg": 1358,
+ "explanation": "Attention is 28\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 17425,
- "latest": 50830,
+ "abs_change": 36067,
+ "latest": 107625,
  "components": {
-  "acceleration": 0.581,
+  "acceleration": 0.848,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.644,
-  "spike_quality": 0.663
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.787,
+  "spike_quality": 0.551
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 19,423 views/day over the last 3 days (30-day baseline: 1,998)."
+  "Averaging 37,425 views/day over the last 3 days (30-day baseline: 1,358)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 1507
-  },
-  {
    "date": "2026-10-15",
-   "views": 1503
+   "views": 1545
   },
   {
    "date": "2026-10-16",
-   "views": 1595
+   "views": 1277
   },
   {
    "date": "2026-10-17",
-   "views": 1666
+   "views": 2382
   },
   {
    "date": "2026-10-18",
-   "views": 2108
+   "views": 2159
   },
   {
    "date": "2026-10-19",
-   "views": 1548
+   "views": 4116
   },
   {
    "date": "2026-10-20",
-   "views": 1572
+   "views": 13319
   },
   {
    "date": "2026-10-21",
-   "views": 1527
+   "views": 2446
   },
   {
    "date": "2026-10-22",
-   "views": 1511
+   "views": 1474
   },
   {
    "date": "2026-10-23",
-   "views": 1432
+   "views": 1214
   },
   {
    "date": "2026-10-24",
-   "views": 1453
+   "views": 1051
   },
   {
    "date": "2026-10-25",
-   "views": 3496
+   "views": 3126
   },
   {
    "date": "2026-10-26",
-   "views": 1516
+   "views": 1110
   },
   {
    "date": "2026-10-27",
-   "views": 1510
+   "views": 943
   },
   {
    "date": "2026-10-28",
-   "views": 1380
+   "views": 801
   },
   {
    "date": "2026-10-29",
-   "views": 1250
+   "views": 563
   },
   {
    "date": "2026-10-30",
-   "views": 1271
+   "views": 590
   },
   {
    "date": "2026-10-31",
-   "views": 1257
+   "views": 446
   },
   {
    "date": "2026-11-01",
-   "views": 1466
+   "views": 553
   },
   {
    "date": "2026-11-02",
-   "views": 1329
+   "views": 668
   },
   {
    "date": "2026-11-03",
-   "views": 1181
+   "views": 516
   },
   {
    "date": "2026-11-04",
-   "views": 1158
+   "views": 496
   },
   {
    "date": "2026-11-05",
-   "views": 1389
+   "views": 586
   },
   {
    "date": "2026-11-06",
-   "views": 1455
+   "views": 587
   },
   {
    "date": "2026-11-07",
-   "views": 1354
+   "views": 661
   },
   {
    "date": "2026-11-08",
-   "views": 1602
+   "views": 3263
   },
   {
    "date": "2026-11-09",
-   "views": 1546
+   "views": 4304
   },
   {
    "date": "2026-11-10",
-   "views": 1958
+   "views": 1978
   },
   {
    "date": "2026-11-11",
-   "views": 2233
+   "views": 1128
   },
   {
    "date": "2026-11-12",
-   "views": 2167
+   "views": 929
   },
   {
    "date": "2026-11-13",
-   "views": 2325
+   "views": 873
   },
   {
    "date": "2026-11-14",
-   "views": 2729
+   "views": 799
   },
   {
    "date": "2026-11-15",
-   "views": 6186
+   "views": 3851
   },
   {
    "date": "2026-11-16",
-   "views": 4883
+   "views": 2644
   },
   {
    "date": "2026-11-17",
-   "views": 2305
+   "views": 1338
   },
   {
    "date": "2026-11-18",
-   "views": 2617
+   "views": 1031
   },
   {
    "date": "2026-11-19",
-   "views": 2444
+   "views": 1671
   },
   {
    "date": "2026-11-20",
-   "views": 2190
+   "views": 1532
   },
   {
    "date": "2026-11-21",
-   "views": 5250
+   "views": 2103
   },
   {
    "date": "2026-11-22",
-   "views": 50830
+   "views": 2548
+  },
+  {
+   "date": "2026-11-23",
+   "views": 107625
   }
  ],
- "wikipedia_title": "Mr._Irrelevant_(film)",
+ "wikipedia_title": "Fred_Warner_(American_football)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

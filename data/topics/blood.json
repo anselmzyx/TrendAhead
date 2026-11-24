@@ -1,105 +1,100 @@
 {
- "title": "XXX (Kendrick Lamar song)",
- "slug": "xxx-kendrick-lamar-song",
- "score": 67,
- "status": "Building",
- "change_percent": 929,
- "growth_ratio": 10.29,
- "recent_avg": 63300,
- "baseline_avg": 6154,
- "explanation": "Attention is 10\u00d7 its 30-day baseline.",
+ "title": "Blood",
+ "slug": "blood",
+ "score": 39,
+ "status": "Breaking out",
+ "change_percent": 8406,
+ "growth_ratio": 85.03,
+ "recent_avg": 58778,
+ "baseline_avg": 691,
+ "explanation": "Attention is 85\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 57146,
- "latest": 63961,
+ "abs_change": 58087,
+ "latest": 174912,
  "components": {
-  "acceleration": 0.596,
-  "anomaly": 0.487,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.901,
-  "spike_quality": 0.948
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.885,
+  "spike_quality": 0.513
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 63,300 views/day over the last 3 days (30-day baseline: 6,154)."
+  "Averaging 58,778 views/day over the last 3 days (30-day baseline: 691)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 23024
-  },
-  {
    "date": "2026-10-15",
-   "views": 22286
+   "views": 804
   },
   {
    "date": "2026-10-16",
-   "views": 23704
+   "views": 821
   },
   {
    "date": "2026-10-17",
-   "views": 37669
+   "views": 644
   },
   {
    "date": "2026-10-18",
-   "views": 37687
+   "views": 634
   },
   {
    "date": "2026-10-19",
-   "views": 33950
+   "views": 778
   },
   {
    "date": "2026-10-20",
-   "views": 37204
+   "views": 734
   },
   {
    "date": "2026-10-21",
-   "views": 32116
+   "views": 793
   },
   {
    "date": "2026-10-22",
-   "views": 24164
+   "views": 715
   },
   {
    "date": "2026-10-23",
-   "views": 21268
+   "views": 757
   },
   {
    "date": "2026-10-24",
-   "views": 1446
+   "views": 712
   },
   {
    "date": "2026-10-25",
-   "views": 1003
+   "views": 685
   },
   {
    "date": "2026-10-26",
-   "views": 945
+   "views": 679
   },
   {
    "date": "2026-10-27",
-   "views": 867
+   "views": 831
   },
   {
    "date": "2026-10-28",
-   "views": 812
+   "views": 767
   },
   {
    "date": "2026-10-29",
-   "views": 837
+   "views": 795
   },
   {
    "date": "2026-10-30",
-   "views": 813
+   "views": 798
   },
   {
    "date": "2026-10-31",
-   "views": 772
+   "views": 601
   },
   {
    "date": "2026-11-01",
@@ -107,92 +102,96 @@
   },
   {
    "date": "2026-11-02",
-   "views": 800
+   "views": 675
   },
   {
    "date": "2026-11-03",
-   "views": 977
+   "views": 731
   },
   {
    "date": "2026-11-04",
-   "views": 927
+   "views": 762
   },
   {
    "date": "2026-11-05",
-   "views": 992
+   "views": 650
   },
   {
    "date": "2026-11-06",
-   "views": 874
+   "views": 773
   },
   {
    "date": "2026-11-07",
-   "views": 794
+   "views": 559
   },
   {
    "date": "2026-11-08",
-   "views": 904
+   "views": 606
   },
   {
    "date": "2026-11-09",
-   "views": 889
+   "views": 719
   },
   {
    "date": "2026-11-10",
-   "views": 804
+   "views": 688
   },
   {
    "date": "2026-11-11",
-   "views": 981
+   "views": 764
   },
   {
    "date": "2026-11-12",
-   "views": 987
+   "views": 695
   },
   {
    "date": "2026-11-13",
-   "views": 929
+   "views": 628
   },
   {
    "date": "2026-11-14",
-   "views": 886
+   "views": 558
   },
   {
    "date": "2026-11-15",
-   "views": 926
+   "views": 593
   },
   {
    "date": "2026-11-16",
-   "views": 1330
+   "views": 671
   },
   {
    "date": "2026-11-17",
-   "views": 6787
+   "views": 669
   },
   {
    "date": "2026-11-18",
-   "views": 33104
+   "views": 668
   },
   {
    "date": "2026-11-19",
-   "views": 45060
+   "views": 732
   },
   {
    "date": "2026-11-20",
-   "views": 62233
+   "views": 637
   },
   {
    "date": "2026-11-21",
-   "views": 63707
+   "views": 495
   },
   {
    "date": "2026-11-22",
-   "views": 63961
+   "views": 928
+  },
+  {
+   "date": "2026-11-23",
+   "views": 174912
   }
  ],
- "wikipedia_title": "XXX_(Kendrick_Lamar_song)",
+ "wikipedia_title": "Blood",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

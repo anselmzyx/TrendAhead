@@ -1,196 +1,196 @@
 {
- "title": "Murder of Steven Cozzi",
- "slug": "murder-of-steven-cozzi",
- "score": 35,
+ "title": "Maxx Morando",
+ "slug": "maxx-morando",
+ "score": 36,
  "status": "Elevated",
- "change_percent": 5995,
- "growth_ratio": 61.02,
- "recent_avg": 28647,
- "baseline_avg": 470,
- "explanation": "Attention is 61\u00d7 its 30-day baseline.",
+ "change_percent": 188555,
+ "growth_ratio": 415.04,
+ "recent_avg": 41504,
+ "baseline_avg": 22,
+ "explanation": "Attention is 415\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 28177,
- "latest": 30068,
+ "abs_change": 41482,
+ "latest": 53792,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.57,
-  "volume": 0.729,
-  "spike_quality": 0.569
+  "persistence": 0.32,
+  "momentum": 0.59,
+  "volume": 0.809,
+  "spike_quality": 0.633
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Averaging 28,647 views/day over the last 3 days (30-day baseline: 470)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "Averaging 41,504 views/day over the last 3 days (30-day baseline: 22)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 813
-  },
-  {
    "date": "2026-10-15",
-   "views": 604
+   "views": 27
   },
   {
    "date": "2026-10-16",
-   "views": 518
+   "views": 28
   },
   {
    "date": "2026-10-17",
-   "views": 440
+   "views": 51
   },
   {
    "date": "2026-10-18",
-   "views": 381
+   "views": 29
   },
   {
    "date": "2026-10-19",
-   "views": 512
+   "views": 54
   },
   {
    "date": "2026-10-20",
-   "views": 415
+   "views": 50
   },
   {
    "date": "2026-10-21",
-   "views": 426
+   "views": 31
   },
   {
    "date": "2026-10-22",
-   "views": 431
+   "views": 27
   },
   {
    "date": "2026-10-23",
-   "views": 558
+   "views": 14
   },
   {
    "date": "2026-10-24",
-   "views": 469
+   "views": 13
   },
   {
    "date": "2026-10-25",
-   "views": 371
+   "views": 22
   },
   {
    "date": "2026-10-26",
-   "views": 357
+   "views": 20
   },
   {
    "date": "2026-10-27",
-   "views": 451
+   "views": 19
   },
   {
    "date": "2026-10-28",
-   "views": 555
+   "views": 20
   },
   {
    "date": "2026-10-29",
-   "views": 648
+   "views": 28
   },
   {
    "date": "2026-10-30",
-   "views": 461
+   "views": 14
   },
   {
    "date": "2026-10-31",
-   "views": 264
+   "views": 13
   },
   {
    "date": "2026-11-01",
-   "views": 212
+   "views": 20
   },
   {
    "date": "2026-11-02",
-   "views": 307
+   "views": 27
   },
   {
    "date": "2026-11-03",
-   "views": 260
+   "views": 23
   },
   {
    "date": "2026-11-04",
-   "views": 241
+   "views": 13
   },
   {
    "date": "2026-11-05",
-   "views": 286
+   "views": 20
   },
   {
    "date": "2026-11-06",
-   "views": 201
+   "views": 29
   },
   {
    "date": "2026-11-07",
-   "views": 326
+   "views": 25
   },
   {
    "date": "2026-11-08",
-   "views": 435
+   "views": 16
   },
   {
    "date": "2026-11-09",
-   "views": 507
+   "views": 17
   },
   {
    "date": "2026-11-10",
-   "views": 816
+   "views": 20
   },
   {
    "date": "2026-11-11",
-   "views": 733
+   "views": 21
   },
   {
    "date": "2026-11-12",
-   "views": 759
+   "views": 12
   },
   {
    "date": "2026-11-13",
-   "views": 771
+   "views": 10
   },
   {
    "date": "2026-11-14",
-   "views": 574
+   "views": 15
   },
   {
    "date": "2026-11-15",
-   "views": 431
+   "views": 25
   },
   {
    "date": "2026-11-16",
-   "views": 579
+   "views": 22
   },
   {
    "date": "2026-11-17",
-   "views": 830
+   "views": 14
   },
   {
    "date": "2026-11-18",
-   "views": 396
+   "views": 20
   },
   {
    "date": "2026-11-19",
-   "views": 430
+   "views": 26
   },
   {
    "date": "2026-11-20",
-   "views": 7139
+   "views": 85
   },
   {
    "date": "2026-11-21",
-   "views": 48734
+   "views": 68
   },
   {
    "date": "2026-11-22",
-   "views": 30068
+   "views": 70652
+  },
+  {
+   "date": "2026-11-23",
+   "views": 53792
   }
  ],
- "wikipedia_title": "Murder_of_Steven_Cozzi",
+ "wikipedia_title": "Maxx_Morando",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

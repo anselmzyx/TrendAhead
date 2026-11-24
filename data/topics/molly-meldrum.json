@@ -1,197 +1,197 @@
 {
- "title": "Steps (film)",
- "slug": "steps-film",
- "score": 61,
- "status": "Building",
- "change_percent": 1640,
- "growth_ratio": 17.4,
- "recent_avg": 56953,
- "baseline_avg": 3273,
- "explanation": "Attention is 17\u00d7 its 30-day baseline.",
+ "title": "Molly Meldrum",
+ "slug": "molly-meldrum",
+ "score": 49,
+ "status": "Breaking out",
+ "change_percent": 40081,
+ "growth_ratio": 400.74,
+ "recent_avg": 49825,
+ "baseline_avg": 124,
+ "explanation": "Attention is 401\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 53680,
- "latest": 62141,
+ "abs_change": 49701,
+ "latest": 112186,
  "components": {
-  "acceleration": 0.73,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.748,
-  "volume": 0.878,
-  "spike_quality": 0.836
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.849,
+  "spike_quality": 0.647
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 56,953 views/day over the last 3 days (30-day baseline: 3,273)."
+  "The elevated interest has not yet persisted across multiple days.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 49,825 views/day over the last 3 days (30-day baseline: 124)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 1020
-  },
-  {
    "date": "2026-10-15",
-   "views": 6909
+   "views": 120
   },
   {
    "date": "2026-10-16",
-   "views": 6219
+   "views": 282
   },
   {
    "date": "2026-10-17",
-   "views": 3725
+   "views": 222
   },
   {
    "date": "2026-10-18",
-   "views": 3212
+   "views": 168
   },
   {
    "date": "2026-10-19",
-   "views": 2873
+   "views": 173
   },
   {
    "date": "2026-10-20",
-   "views": 2480
+   "views": 128
   },
   {
    "date": "2026-10-21",
-   "views": 2089
+   "views": 165
   },
   {
    "date": "2026-10-22",
-   "views": 1796
+   "views": 100
   },
   {
    "date": "2026-10-23",
-   "views": 1636
+   "views": 143
   },
   {
    "date": "2026-10-24",
-   "views": 1676
+   "views": 166
   },
   {
    "date": "2026-10-25",
-   "views": 1940
+   "views": 141
   },
   {
    "date": "2026-10-26",
-   "views": 2000
+   "views": 120
   },
   {
    "date": "2026-10-27",
-   "views": 1716
+   "views": 90
   },
   {
    "date": "2026-10-28",
-   "views": 1558
+   "views": 92
   },
   {
    "date": "2026-10-29",
-   "views": 1549
+   "views": 122
   },
   {
    "date": "2026-10-30",
-   "views": 1448
+   "views": 101
   },
   {
    "date": "2026-10-31",
-   "views": 1529
+   "views": 107
   },
   {
    "date": "2026-11-01",
-   "views": 1700
+   "views": 146
   },
   {
    "date": "2026-11-02",
-   "views": 1788
+   "views": 101
   },
   {
    "date": "2026-11-03",
-   "views": 1840
+   "views": 124
   },
   {
    "date": "2026-11-04",
-   "views": 1555
+   "views": 125
   },
   {
    "date": "2026-11-05",
-   "views": 1637
+   "views": 96
   },
   {
    "date": "2026-11-06",
-   "views": 3433
+   "views": 115
   },
   {
    "date": "2026-11-07",
-   "views": 4294
+   "views": 124
   },
   {
    "date": "2026-11-08",
-   "views": 3795
+   "views": 135
   },
   {
    "date": "2026-11-09",
-   "views": 8847
+   "views": 117
   },
   {
    "date": "2026-11-10",
-   "views": 5565
+   "views": 121
   },
   {
    "date": "2026-11-11",
-   "views": 4671
+   "views": 118
   },
   {
    "date": "2026-11-12",
-   "views": 4176
+   "views": 150
   },
   {
    "date": "2026-11-13",
-   "views": 4052
+   "views": 127
   },
   {
    "date": "2026-11-14",
-   "views": 4086
+   "views": 179
   },
   {
    "date": "2026-11-15",
-   "views": 4781
+   "views": 153
   },
   {
    "date": "2026-11-16",
-   "views": 4402
+   "views": 107
   },
   {
    "date": "2026-11-17",
-   "views": 5212
+   "views": 102
   },
   {
    "date": "2026-11-18",
-   "views": 6341
+   "views": 165
   },
   {
    "date": "2026-11-19",
-   "views": 7068
+   "views": 130
   },
   {
    "date": "2026-11-20",
-   "views": 40742
+   "views": 113
   },
   {
    "date": "2026-11-21",
-   "views": 67976
+   "views": 107
   },
   {
    "date": "2026-11-22",
-   "views": 62141
+   "views": 37182
+  },
+  {
+   "date": "2026-11-23",
+   "views": 112186
   }
  ],
- "wikipedia_title": "Steps_(film)",
+ "wikipedia_title": "Molly_Meldrum",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

@@ -1,197 +1,197 @@
 {
- "title": "Miley Cyrus",
- "slug": "miley-cyrus",
- "score": 48,
- "status": "Breaking out",
- "change_percent": 827,
- "growth_ratio": 9.27,
- "recent_avg": 65431,
- "baseline_avg": 7059,
- "explanation": "Attention is 9.3\u00d7 its 30-day baseline.",
+ "title": "XXX: State of the Union",
+ "slug": "xxx-state-of-the-union",
+ "score": 36,
+ "status": "Elevated",
+ "change_percent": 793,
+ "growth_ratio": 8.93,
+ "recent_avg": 65198,
+ "baseline_avg": 7304,
+ "explanation": "Attention is 8.9\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 58372,
- "latest": 170642,
+ "abs_change": 57894,
+ "latest": 50036,
  "components": {
-  "acceleration": 0.569,
-  "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.908,
-  "spike_quality": 0.637
+  "acceleration": 0.56,
+  "anomaly": 0.654,
+  "persistence": 0.84,
+  "momentum": 0.458,
+  "volume": 0.907,
+  "spike_quality": 0.744
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 65,431 views/day over the last 3 days (30-day baseline: 7,059)."
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
+  "Averaging 65,198 views/day over the last 3 days (30-day baseline: 7,304)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 8187
-  },
-  {
    "date": "2026-10-15",
-   "views": 8562
+   "views": 2725
   },
   {
    "date": "2026-10-16",
-   "views": 10548
+   "views": 2895
   },
   {
    "date": "2026-10-17",
-   "views": 18268
+   "views": 2836
   },
   {
    "date": "2026-10-18",
-   "views": 18541
+   "views": 2804
   },
   {
    "date": "2026-10-19",
-   "views": 13426
+   "views": 2556
   },
   {
    "date": "2026-10-20",
-   "views": 10840
+   "views": 2281
   },
   {
    "date": "2026-10-21",
-   "views": 7992
+   "views": 16930
   },
   {
    "date": "2026-10-22",
-   "views": 8978
+   "views": 24392
   },
   {
    "date": "2026-10-23",
-   "views": 7887
+   "views": 13069
   },
   {
    "date": "2026-10-24",
-   "views": 8008
+   "views": 18646
   },
   {
    "date": "2026-10-25",
-   "views": 7594
+   "views": 7773
   },
   {
    "date": "2026-10-26",
-   "views": 7518
+   "views": 9627
   },
   {
    "date": "2026-10-27",
-   "views": 8475
+   "views": 10212
   },
   {
    "date": "2026-10-28",
-   "views": 7152
+   "views": 3007
   },
   {
    "date": "2026-10-29",
-   "views": 5759
+   "views": 3196
   },
   {
    "date": "2026-10-30",
-   "views": 5530
+   "views": 2567
   },
   {
    "date": "2026-10-31",
-   "views": 6967
+   "views": 2545
   },
   {
    "date": "2026-11-01",
-   "views": 6973
+   "views": 2795
   },
   {
    "date": "2026-11-02",
-   "views": 5901
+   "views": 2645
   },
   {
    "date": "2026-11-03",
-   "views": 7785
+   "views": 2513
   },
   {
    "date": "2026-11-04",
-   "views": 5616
+   "views": 2798
   },
   {
    "date": "2026-11-05",
-   "views": 5770
+   "views": 3337
   },
   {
    "date": "2026-11-06",
-   "views": 5646
+   "views": 2760
   },
   {
    "date": "2026-11-07",
-   "views": 7076
+   "views": 2861
   },
   {
    "date": "2026-11-08",
-   "views": 7137
+   "views": 3109
   },
   {
    "date": "2026-11-09",
-   "views": 6391
+   "views": 3074
   },
   {
    "date": "2026-11-10",
-   "views": 9864
+   "views": 2890
   },
   {
    "date": "2026-11-11",
-   "views": 6237
+   "views": 3435
   },
   {
    "date": "2026-11-12",
-   "views": 6614
+   "views": 3746
   },
   {
    "date": "2026-11-13",
-   "views": 6807
+   "views": 3482
   },
   {
    "date": "2026-11-14",
-   "views": 7531
+   "views": 3798
   },
   {
    "date": "2026-11-15",
-   "views": 7870
+   "views": 3718
   },
   {
    "date": "2026-11-16",
-   "views": 7386
+   "views": 3439
   },
   {
    "date": "2026-11-17",
-   "views": 6578
+   "views": 3181
   },
   {
    "date": "2026-11-18",
-   "views": 6233
+   "views": 3174
   },
   {
    "date": "2026-11-19",
-   "views": 6490
+   "views": 26468
   },
   {
    "date": "2026-11-20",
-   "views": 10633
+   "views": 40853
   },
   {
    "date": "2026-11-21",
-   "views": 15018
+   "views": 76640
   },
   {
    "date": "2026-11-22",
-   "views": 170642
+   "views": 68918
+  },
+  {
+   "date": "2026-11-23",
+   "views": 50036
   }
  ],
- "wikipedia_title": "Miley_Cyrus",
+ "wikipedia_title": "XXX:_State_of_the_Union",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

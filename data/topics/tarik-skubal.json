@@ -1,197 +1,198 @@
 {
- "title": "S Club",
- "slug": "s-club",
- "score": 40,
+ "title": "Tarik Skubal",
+ "slug": "tarik-skubal",
+ "score": 62,
  "status": "Breaking out",
- "change_percent": 1896,
- "growth_ratio": 19.96,
- "recent_avg": 37141,
- "baseline_avg": 1861,
- "explanation": "Attention is 20\u00d7 its 30-day baseline.",
+ "change_percent": 2472,
+ "growth_ratio": 25.71,
+ "recent_avg": 26233,
+ "baseline_avg": 1020,
+ "explanation": "Attention is 26\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 35280,
- "latest": 104957,
+ "abs_change": 25213,
+ "latest": 49530,
  "components": {
-  "acceleration": 0.765,
+  "acceleration": 0.83,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.92,
   "momentum": 1.0,
-  "volume": 0.785,
-  "spike_quality": 0.563
+  "volume": 0.709,
+  "spike_quality": 0.749
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,141 views/day over the last 3 days (30-day baseline: 1,861)."
+  "Averaging 26,233 views/day over the last 3 days (30-day baseline: 1,020)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 683
-  },
-  {
    "date": "2026-10-15",
-   "views": 853
+   "views": 2149
   },
   {
    "date": "2026-10-16",
-   "views": 1808
+   "views": 6198
   },
   {
    "date": "2026-10-17",
-   "views": 941
+   "views": 3150
   },
   {
    "date": "2026-10-18",
-   "views": 747
+   "views": 1760
   },
   {
    "date": "2026-10-19",
-   "views": 611
+   "views": 1394
   },
   {
    "date": "2026-10-20",
-   "views": 633
+   "views": 1025
   },
   {
    "date": "2026-10-21",
-   "views": 625
+   "views": 638
   },
   {
    "date": "2026-10-22",
-   "views": 702
+   "views": 639
   },
   {
    "date": "2026-10-23",
-   "views": 768
+   "views": 639
   },
   {
    "date": "2026-10-24",
-   "views": 765
+   "views": 879
   },
   {
    "date": "2026-10-25",
-   "views": 781
+   "views": 652
   },
   {
    "date": "2026-10-26",
-   "views": 655
+   "views": 460
   },
   {
    "date": "2026-10-27",
-   "views": 667
+   "views": 659
   },
   {
    "date": "2026-10-28",
-   "views": 695
+   "views": 620
   },
   {
    "date": "2026-10-29",
-   "views": 1111
+   "views": 1834
   },
   {
    "date": "2026-10-30",
-   "views": 6269
+   "views": 973
   },
   {
    "date": "2026-10-31",
-   "views": 3248
+   "views": 645
   },
   {
    "date": "2026-11-01",
-   "views": 1705
+   "views": 558
   },
   {
    "date": "2026-11-02",
-   "views": 1841
+   "views": 993
   },
   {
    "date": "2026-11-03",
-   "views": 1977
+   "views": 989
   },
   {
    "date": "2026-11-04",
-   "views": 1475
+   "views": 735
   },
   {
    "date": "2026-11-05",
-   "views": 1471
+   "views": 616
   },
   {
    "date": "2026-11-06",
-   "views": 2350
+   "views": 558
   },
   {
    "date": "2026-11-07",
-   "views": 8304
+   "views": 524
   },
   {
    "date": "2026-11-08",
-   "views": 2835
+   "views": 519
   },
   {
    "date": "2026-11-09",
-   "views": 2244
+   "views": 638
   },
   {
    "date": "2026-11-10",
-   "views": 1960
+   "views": 1210
   },
   {
    "date": "2026-11-11",
-   "views": 1772
+   "views": 2413
   },
   {
    "date": "2026-11-12",
-   "views": 1386
+   "views": 1601
   },
   {
    "date": "2026-11-13",
-   "views": 1298
+   "views": 1170
   },
   {
    "date": "2026-11-14",
-   "views": 1299
+   "views": 879
   },
   {
    "date": "2026-11-15",
-   "views": 1452
+   "views": 642
   },
   {
    "date": "2026-11-16",
-   "views": 1965
+   "views": 825
   },
   {
    "date": "2026-11-17",
-   "views": 1282
+   "views": 1398
   },
   {
    "date": "2026-11-18",
-   "views": 1274
+   "views": 2610
   },
   {
    "date": "2026-11-19",
-   "views": 1643
+   "views": 1754
   },
   {
    "date": "2026-11-20",
-   "views": 1822
+   "views": 1978
   },
   {
    "date": "2026-11-21",
-   "views": 4643
+   "views": 4231
   },
   {
    "date": "2026-11-22",
-   "views": 104957
+   "views": 24939
+  },
+  {
+   "date": "2026-11-23",
+   "views": 49530
   }
  ],
- "wikipedia_title": "S_Club",
+ "wikipedia_title": "Tarik_Skubal",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

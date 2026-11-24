@@ -1,198 +1,197 @@
 {
- "title": "Josh Johnson (quarterback)",
- "slug": "josh-johnson-quarterback",
- "score": 41,
- "status": "Breaking out",
- "change_percent": 1326,
- "growth_ratio": 14.27,
- "recent_avg": 25676,
- "baseline_avg": 1800,
- "explanation": "Attention is 14\u00d7 its 30-day baseline.",
+ "title": "XXX: Return of Xander Cage",
+ "slug": "xxx-return-of-xander-cage",
+ "score": 42,
+ "status": "Elevated",
+ "change_percent": 429,
+ "growth_ratio": 5.29,
+ "recent_avg": 76916,
+ "baseline_avg": 14528,
+ "explanation": "Attention is 5.3\u00d7 its 30-day baseline.",
  "discovery": [
-  "new entrant"
+  "improver"
  ],
- "abs_change": 23876,
- "latest": 53745,
+ "abs_change": 62388,
+ "latest": 76359,
  "components": {
-  "acceleration": 0.679,
-  "anomaly": 0.604,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.705,
-  "spike_quality": 0.701
+  "acceleration": 0.426,
+  "anomaly": 0.331,
+  "persistence": 0.92,
+  "momentum": 0.7,
+  "volume": 0.943,
+  "spike_quality": 0.842
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,676 views/day over the last 3 days (30-day baseline: 1,800)."
+  "Averaging 76,916 views/day over the last 3 days (30-day baseline: 14,528)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 431
-  },
-  {
    "date": "2026-10-15",
-   "views": 517
+   "views": 7685
   },
   {
    "date": "2026-10-16",
-   "views": 547
+   "views": 7802
   },
   {
    "date": "2026-10-17",
-   "views": 693
+   "views": 8360
   },
   {
    "date": "2026-10-18",
-   "views": 617
+   "views": 7341
   },
   {
    "date": "2026-10-19",
-   "views": 727
+   "views": 6830
   },
   {
    "date": "2026-10-20",
-   "views": 721
+   "views": 5406
   },
   {
    "date": "2026-10-21",
-   "views": 454
+   "views": 46876
   },
   {
    "date": "2026-10-22",
-   "views": 484
+   "views": 46262
   },
   {
    "date": "2026-10-23",
-   "views": 540
+   "views": 89095
   },
   {
    "date": "2026-10-24",
-   "views": 424
+   "views": 31385
   },
   {
    "date": "2026-10-25",
-   "views": 634
+   "views": 12244
   },
   {
    "date": "2026-10-26",
-   "views": 565
+   "views": 9810
   },
   {
    "date": "2026-10-27",
-   "views": 491
+   "views": 7648
   },
   {
    "date": "2026-10-28",
-   "views": 415
+   "views": 5745
   },
   {
    "date": "2026-10-29",
-   "views": 381
+   "views": 6158
   },
   {
    "date": "2026-10-30",
-   "views": 406
+   "views": 5472
   },
   {
    "date": "2026-10-31",
-   "views": 314
+   "views": 5748
   },
   {
    "date": "2026-11-01",
-   "views": 593
+   "views": 7065
   },
   {
    "date": "2026-11-02",
-   "views": 936
+   "views": 7629
   },
   {
    "date": "2026-11-03",
-   "views": 635
+   "views": 7318
   },
   {
    "date": "2026-11-04",
-   "views": 614
+   "views": 6629
   },
   {
    "date": "2026-11-05",
-   "views": 597
+   "views": 7986
   },
   {
    "date": "2026-11-06",
-   "views": 990
+   "views": 6856
   },
   {
    "date": "2026-11-07",
-   "views": 654
+   "views": 6082
   },
   {
    "date": "2026-11-08",
-   "views": 753
+   "views": 6851
   },
   {
    "date": "2026-11-09",
-   "views": 1733
+   "views": 6109
   },
   {
    "date": "2026-11-10",
-   "views": 22203
+   "views": 5359
   },
   {
    "date": "2026-11-11",
-   "views": 6313
+   "views": 6540
   },
   {
    "date": "2026-11-12",
-   "views": 2783
+   "views": 6012
   },
   {
    "date": "2026-11-13",
-   "views": 1812
+   "views": 6144
   },
   {
    "date": "2026-11-14",
-   "views": 1248
+   "views": 7442
   },
   {
    "date": "2026-11-15",
-   "views": 1958
+   "views": 6659
   },
   {
    "date": "2026-11-16",
-   "views": 1451
+   "views": 7028
   },
   {
    "date": "2026-11-17",
-   "views": 1963
+   "views": 6286
   },
   {
    "date": "2026-11-18",
-   "views": 943
+   "views": 6981
   },
   {
    "date": "2026-11-19",
-   "views": 706
+   "views": 40344
   },
   {
    "date": "2026-11-20",
-   "views": 8476
+   "views": 54947
   },
   {
    "date": "2026-11-21",
-   "views": 14808
+   "views": 62709
   },
   {
    "date": "2026-11-22",
-   "views": 53745
+   "views": 91679
+  },
+  {
+   "date": "2026-11-23",
+   "views": 76359
   }
  ],
- "wikipedia_title": "Josh_Johnson_(quarterback)",
+ "wikipedia_title": "XXX:_Return_of_Xander_Cage",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

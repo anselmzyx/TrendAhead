@@ -1,37 +1,34 @@
 {
  "title": "Tom Jackson (American football, born 1951)",
  "slug": "tom-jackson-american-football-born-1951",
- "score": 45,
- "status": "Breaking out",
- "change_percent": 47292,
- "growth_ratio": 474.43,
- "recent_avg": 88149,
+ "score": 32,
+ "status": "Peaked / fading",
+ "change_percent": 70241,
+ "growth_ratio": 702.15,
+ "recent_avg": 130834,
  "baseline_avg": 186,
- "explanation": "Attention is 474\u00d7 its 30-day baseline.",
+ "explanation": "Attention surged to 702\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 87963,
- "latest": 263973,
+ "abs_change": 130648,
+ "latest": 128174,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.973,
-  "spike_quality": 0.503
+  "persistence": 0.52,
+  "momentum": 0.491,
+  "volume": 1.0,
+  "spike_quality": 0.435
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 88,149 views/day over the last 3 days (30-day baseline: 186)."
+  "Interest has stayed elevated for more than one day.",
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 130,834 views/day over the last 3 days (30-day baseline: 186)."
  ],
  "history": [
-  {
-   "date": "2026-10-14",
-   "views": 168
-  },
   {
    "date": "2026-10-15",
    "views": 169
@@ -187,11 +184,15 @@
   {
    "date": "2026-11-22",
    "views": 263973
+  },
+  {
+   "date": "2026-11-23",
+   "views": 128174
   }
  ],
  "wikipedia_title": "Tom_Jackson_(American_football,_born_1951)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

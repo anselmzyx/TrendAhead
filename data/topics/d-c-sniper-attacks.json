@@ -1,197 +1,197 @@
 {
- "title": "Riemann hypothesis",
- "slug": "riemann-hypothesis",
- "score": 40,
- "status": "Peaked / fading",
- "change_percent": 20023,
- "growth_ratio": 201.21,
- "recent_avg": 296413,
- "baseline_avg": 1473,
- "explanation": "Attention surged to 201\u00d7 its 30-day baseline but has fallen back from its peak.",
+ "title": "D.C. sniper attacks",
+ "slug": "d-c-sniper-attacks",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 1908,
+ "growth_ratio": 20.08,
+ "recent_avg": 22977,
+ "baseline_avg": 1144,
+ "explanation": "Attention is 20\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 294940,
- "latest": 205793,
+ "abs_change": 21833,
+ "latest": 64143,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.767,
   "anomaly": 1.0,
   "persistence": 0.52,
-  "momentum": 0.518,
-  "volume": 1.0,
-  "spike_quality": 0.595
+  "momentum": 0.867,
+  "volume": 0.681,
+  "spike_quality": 0.587
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "The latest day is well below the recent peak \u2014 attention is receding.",
-  "Averaging 296,413 views/day over the last 3 days (30-day baseline: 1,473)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 22,977 views/day over the last 3 days (30-day baseline: 1,144)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 2015
-  },
-  {
    "date": "2026-10-15",
-   "views": 2476
+   "views": 1322
   },
   {
    "date": "2026-10-16",
-   "views": 2238
+   "views": 1210
   },
   {
    "date": "2026-10-17",
-   "views": 1892
+   "views": 1027
   },
   {
    "date": "2026-10-18",
-   "views": 1796
+   "views": 979
   },
   {
    "date": "2026-10-19",
-   "views": 2064
+   "views": 1037
   },
   {
    "date": "2026-10-20",
-   "views": 2493
+   "views": 1049
   },
   {
    "date": "2026-10-21",
-   "views": 3450
+   "views": 958
   },
   {
    "date": "2026-10-22",
-   "views": 2258
+   "views": 1064
   },
   {
    "date": "2026-10-23",
-   "views": 1954
+   "views": 1016
   },
   {
    "date": "2026-10-24",
-   "views": 1579
+   "views": 1628
   },
   {
    "date": "2026-10-25",
-   "views": 1432
+   "views": 990
   },
   {
    "date": "2026-10-26",
-   "views": 1592
+   "views": 1038
   },
   {
    "date": "2026-10-27",
-   "views": 2419
+   "views": 966
   },
   {
    "date": "2026-10-28",
-   "views": 2435
+   "views": 1108
   },
   {
    "date": "2026-10-29",
-   "views": 2001
+   "views": 1850
   },
   {
    "date": "2026-10-30",
-   "views": 1563
+   "views": 1021
   },
   {
    "date": "2026-10-31",
-   "views": 1320
+   "views": 840
   },
   {
    "date": "2026-11-01",
-   "views": 1162
+   "views": 799
   },
   {
    "date": "2026-11-02",
-   "views": 1349
+   "views": 865
   },
   {
    "date": "2026-11-03",
-   "views": 1229
+   "views": 871
   },
   {
    "date": "2026-11-04",
-   "views": 1061
+   "views": 777
   },
   {
    "date": "2026-11-05",
-   "views": 1406
+   "views": 888
   },
   {
    "date": "2026-11-06",
-   "views": 1141
+   "views": 871
   },
   {
    "date": "2026-11-07",
-   "views": 1101
+   "views": 798
   },
   {
    "date": "2026-11-08",
-   "views": 1061
+   "views": 843
   },
   {
    "date": "2026-11-09",
-   "views": 1113
+   "views": 925
   },
   {
    "date": "2026-11-10",
-   "views": 1176
+   "views": 908
   },
   {
    "date": "2026-11-11",
-   "views": 1111
+   "views": 973
   },
   {
    "date": "2026-11-12",
-   "views": 1082
+   "views": 2317
   },
   {
    "date": "2026-11-13",
-   "views": 1059
+   "views": 1405
   },
   {
    "date": "2026-11-14",
-   "views": 1265
+   "views": 1143
   },
   {
    "date": "2026-11-15",
-   "views": 1168
+   "views": 1072
   },
   {
    "date": "2026-11-16",
-   "views": 1517
+   "views": 963
   },
   {
    "date": "2026-11-17",
-   "views": 1173
+   "views": 1890
   },
   {
    "date": "2026-11-18",
-   "views": 1054
+   "views": 2073
   },
   {
    "date": "2026-11-19",
-   "views": 964
+   "views": 1271
   },
   {
    "date": "2026-11-20",
-   "views": 295157
+   "views": 1153
   },
   {
    "date": "2026-11-21",
-   "views": 388288
+   "views": 2437
   },
   {
    "date": "2026-11-22",
-   "views": 205793
+   "views": 2351
+  },
+  {
+   "date": "2026-11-23",
+   "views": 64143
   }
  ],
- "wikipedia_title": "Riemann_hypothesis",
+ "wikipedia_title": "D.C._sniper_attacks",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

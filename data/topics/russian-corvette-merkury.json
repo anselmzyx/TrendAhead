@@ -1,197 +1,197 @@
 {
- "title": "Hannah Spearritt",
- "slug": "hannah-spearritt",
- "score": 35,
+ "title": "Russian corvette Merkury",
+ "slug": "russian-corvette-merkury",
+ "score": 53,
  "status": "Breaking out",
- "change_percent": 1162,
- "growth_ratio": 12.62,
- "recent_avg": 18138,
- "baseline_avg": 1437,
- "explanation": "Attention is 13\u00d7 its 30-day baseline.",
+ "change_percent": 281850,
+ "growth_ratio": 620.29,
+ "recent_avg": 62029,
+ "baseline_avg": 22,
+ "explanation": "Attention is 620\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 16701,
- "latest": 49641,
+ "abs_change": 62007,
+ "latest": 124318,
  "components": {
-  "acceleration": 0.648,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.4,
-  "momentum": 1.0,
-  "volume": 0.629,
-  "spike_quality": 0.592
+  "momentum": 0.933,
+  "volume": 0.896,
+  "spike_quality": 0.694
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 18,138 views/day over the last 3 days (30-day baseline: 1,437)."
+  "Averaging 62,029 views/day over the last 3 days (30-day baseline: 22)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 473
-  },
-  {
    "date": "2026-10-15",
-   "views": 581
+   "views": 14
   },
   {
    "date": "2026-10-16",
-   "views": 1132
+   "views": 39
   },
   {
    "date": "2026-10-17",
-   "views": 615
+   "views": 25
   },
   {
    "date": "2026-10-18",
-   "views": 541
+   "views": 20
   },
   {
    "date": "2026-10-19",
-   "views": 439
+   "views": 19
   },
   {
    "date": "2026-10-20",
-   "views": 433
+   "views": 12
   },
   {
    "date": "2026-10-21",
-   "views": 415
+   "views": 20
   },
   {
    "date": "2026-10-22",
-   "views": 432
+   "views": 21
   },
   {
    "date": "2026-10-23",
-   "views": 599
+   "views": 19
   },
   {
    "date": "2026-10-24",
-   "views": 504
+   "views": 31
   },
   {
    "date": "2026-10-25",
-   "views": 563
+   "views": 14
   },
   {
    "date": "2026-10-26",
-   "views": 482
+   "views": 18
   },
   {
    "date": "2026-10-27",
-   "views": 511
+   "views": 33
   },
   {
    "date": "2026-10-28",
-   "views": 432
+   "views": 17
   },
   {
    "date": "2026-10-29",
-   "views": 881
+   "views": 29
   },
   {
    "date": "2026-10-30",
-   "views": 5632
+   "views": 22
   },
   {
    "date": "2026-10-31",
-   "views": 2696
+   "views": 22
   },
   {
    "date": "2026-11-01",
-   "views": 1432
+   "views": 20
   },
   {
    "date": "2026-11-02",
-   "views": 1486
+   "views": 34
   },
   {
    "date": "2026-11-03",
-   "views": 2177
+   "views": 28
   },
   {
    "date": "2026-11-04",
-   "views": 969
+   "views": 24
   },
   {
    "date": "2026-11-05",
-   "views": 1011
+   "views": 32
   },
   {
    "date": "2026-11-06",
-   "views": 1648
+   "views": 18
   },
   {
    "date": "2026-11-07",
-   "views": 5336
+   "views": 17
   },
   {
    "date": "2026-11-08",
-   "views": 2273
+   "views": 18
   },
   {
    "date": "2026-11-09",
-   "views": 1961
+   "views": 23
   },
   {
    "date": "2026-11-10",
-   "views": 1562
+   "views": 12
   },
   {
    "date": "2026-11-11",
-   "views": 1334
+   "views": 16
   },
   {
    "date": "2026-11-12",
-   "views": 1035
+   "views": 29
   },
   {
    "date": "2026-11-13",
-   "views": 842
+   "views": 25
   },
   {
    "date": "2026-11-14",
-   "views": 980
+   "views": 14
   },
   {
    "date": "2026-11-15",
-   "views": 1408
+   "views": 22
   },
   {
    "date": "2026-11-16",
-   "views": 1433
+   "views": 23
   },
   {
    "date": "2026-11-17",
-   "views": 864
+   "views": 24
   },
   {
    "date": "2026-11-18",
-   "views": 936
+   "views": 24
   },
   {
    "date": "2026-11-19",
-   "views": 1268
+   "views": 14
   },
   {
    "date": "2026-11-20",
-   "views": 1456
+   "views": 22
   },
   {
    "date": "2026-11-21",
-   "views": 3318
+   "views": 16
   },
   {
    "date": "2026-11-22",
-   "views": 49641
+   "views": 61753
+  },
+  {
+   "date": "2026-11-23",
+   "views": 124318
   }
  ],
- "wikipedia_title": "Hannah_Spearritt",
+ "wikipedia_title": "Russian_corvette_Merkury",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

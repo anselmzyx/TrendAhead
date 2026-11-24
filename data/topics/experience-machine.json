@@ -1,198 +1,197 @@
 {
- "title": "Liam Hemsworth",
- "slug": "liam-hemsworth",
- "score": 44,
+ "title": "Experience machine",
+ "slug": "experience-machine",
+ "score": 37,
  "status": "Breaking out",
- "change_percent": 449,
- "growth_ratio": 5.49,
- "recent_avg": 25870,
- "baseline_avg": 4716,
- "explanation": "Attention is 5.5\u00d7 its 30-day baseline.",
+ "change_percent": 25758,
+ "growth_ratio": 257.9,
+ "recent_avg": 45252,
+ "baseline_avg": 175,
+ "explanation": "Attention is 258\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 21154,
- "latest": 58115,
+ "abs_change": 45077,
+ "latest": 135474,
  "components": {
-  "acceleration": 0.435,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.706,
-  "spike_quality": 0.749
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.828,
+  "spike_quality": 0.505
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Recent attention is far above this topic's own 30-day normal.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,870 views/day over the last 3 days (30-day baseline: 4,716)."
+  "Averaging 45,252 views/day over the last 3 days (30-day baseline: 175)."
  ],
  "history": [
   {
-   "date": "2026-10-14",
-   "views": 3162
-  },
-  {
    "date": "2026-10-15",
-   "views": 3188
+   "views": 141
   },
   {
    "date": "2026-10-16",
-   "views": 3992
+   "views": 150
   },
   {
    "date": "2026-10-17",
-   "views": 5311
+   "views": 154
   },
   {
    "date": "2026-10-18",
-   "views": 5190
+   "views": 125
   },
   {
    "date": "2026-10-19",
-   "views": 3891
+   "views": 194
   },
   {
    "date": "2026-10-20",
-   "views": 3494
+   "views": 216
   },
   {
    "date": "2026-10-21",
-   "views": 3366
+   "views": 174
   },
   {
    "date": "2026-10-22",
-   "views": 3961
+   "views": 198
   },
   {
    "date": "2026-10-23",
-   "views": 4069
+   "views": 180
   },
   {
    "date": "2026-10-24",
-   "views": 4753
+   "views": 135
   },
   {
    "date": "2026-10-25",
-   "views": 4947
+   "views": 165
   },
   {
    "date": "2026-10-26",
-   "views": 4102
+   "views": 216
   },
   {
    "date": "2026-10-27",
-   "views": 3878
+   "views": 197
   },
   {
    "date": "2026-10-28",
-   "views": 4174
+   "views": 171
   },
   {
    "date": "2026-10-29",
-   "views": 3942
+   "views": 195
   },
   {
    "date": "2026-10-30",
-   "views": 3925
+   "views": 237
   },
   {
    "date": "2026-10-31",
-   "views": 4837
+   "views": 201
   },
   {
    "date": "2026-11-01",
-   "views": 4765
+   "views": 172
   },
   {
    "date": "2026-11-02",
-   "views": 4062
+   "views": 168
   },
   {
    "date": "2026-11-03",
-   "views": 4276
+   "views": 204
   },
   {
    "date": "2026-11-04",
-   "views": 3962
+   "views": 175
   },
   {
    "date": "2026-11-05",
-   "views": 3664
+   "views": 192
   },
   {
    "date": "2026-11-06",
-   "views": 3671
+   "views": 174
   },
   {
    "date": "2026-11-07",
-   "views": 4796
+   "views": 145
   },
   {
    "date": "2026-11-08",
-   "views": 5189
+   "views": 115
   },
   {
    "date": "2026-11-09",
-   "views": 3891
+   "views": 162
   },
   {
    "date": "2026-11-10",
-   "views": 4377
+   "views": 159
   },
   {
    "date": "2026-11-11",
-   "views": 4387
+   "views": 169
   },
   {
    "date": "2026-11-12",
-   "views": 4780
+   "views": 179
   },
   {
    "date": "2026-11-13",
-   "views": 5252
+   "views": 165
   },
   {
    "date": "2026-11-14",
-   "views": 6808
+   "views": 136
   },
   {
    "date": "2026-11-15",
-   "views": 7709
+   "views": 131
   },
   {
    "date": "2026-11-16",
-   "views": 5750
+   "views": 145
   },
   {
    "date": "2026-11-17",
-   "views": 6757
+   "views": 173
   },
   {
    "date": "2026-11-18",
-   "views": 5956
+   "views": 203
   },
   {
    "date": "2026-11-19",
-   "views": 5472
+   "views": 219
   },
   {
    "date": "2026-11-20",
-   "views": 8183
+   "views": 183
   },
   {
    "date": "2026-11-21",
-   "views": 11311
+   "views": 114
   },
   {
    "date": "2026-11-22",
-   "views": 58115
+   "views": 168
+  },
+  {
+   "date": "2026-11-23",
+   "views": 135474
   }
  ],
- "wikipedia_title": "Liam_Hemsworth",
+ "wikipedia_title": "Experience_machine",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }

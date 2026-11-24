@@ -1,38 +1,33 @@
 {
  "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
  "slug": "the-hunger-games-the-ballad-of-songbirds-snakes",
- "score": 58,
- "status": "Building",
- "change_percent": 384,
- "growth_ratio": 4.84,
- "recent_avg": 61854,
- "baseline_avg": 12771,
- "explanation": "Attention is 4.8\u00d7 its 30-day baseline.",
+ "score": 44,
+ "status": "Elevated",
+ "change_percent": 363,
+ "growth_ratio": 4.63,
+ "recent_avg": 66044,
+ "baseline_avg": 14271,
+ "explanation": "Attention is 4.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 49083,
- "latest": 74573,
+ "abs_change": 51773,
+ "latest": 62379,
  "components": {
-  "acceleration": 0.403,
-  "anomaly": 0.506,
+  "acceleration": 0.392,
+  "anomaly": 0.445,
   "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.896,
-  "spike_quality": 0.948
+  "momentum": 0.702,
+  "volume": 0.91,
+  "spike_quality": 0.882
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 61,854 views/day over the last 3 days (30-day baseline: 12,771)."
+  "Averaging 66,044 views/day over the last 3 days (30-day baseline: 14,271)."
  ],
  "history": [
-  {
-   "date": "2026-10-14",
-   "views": 4088
-  },
   {
    "date": "2026-10-15",
    "views": 3893
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-22",
    "views": 74573
+  },
+  {
+   "date": "2026-11-23",
+   "views": 62379
   }
  ],
  "wikipedia_title": "The_Hunger_Games:_The_Ballad_of_Songbirds_&_Snakes",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-22",
- "generated_at_utc": "2026-11-23T16:25:06+00:00"
+ "data_through": "2026-11-23",
+ "generated_at_utc": "2026-11-24T16:18:54+00:00"
 }
