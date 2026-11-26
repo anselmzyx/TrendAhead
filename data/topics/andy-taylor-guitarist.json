@@ -1,197 +1,197 @@
 {
- "title": "Molly Meldrum",
- "slug": "molly-meldrum",
- "score": 49,
+ "title": "Andy Taylor (guitarist)",
+ "slug": "andy-taylor-guitarist",
+ "score": 37,
  "status": "Breaking out",
- "change_percent": 40081,
- "growth_ratio": 400.74,
- "recent_avg": 49825,
- "baseline_avg": 124,
- "explanation": "Attention is 401\u00d7 its 30-day baseline.",
+ "change_percent": 4547,
+ "growth_ratio": 46.45,
+ "recent_avg": 45536,
+ "baseline_avg": 980,
+ "explanation": "Attention is 46\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 49701,
- "latest": 112186,
+ "abs_change": 44556,
+ "latest": 135665,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.981,
   "anomaly": 1.0,
-  "persistence": 0.4,
+  "persistence": 0.2,
   "momentum": 0.933,
-  "volume": 0.849,
-  "spike_quality": 0.647
+  "volume": 0.829,
+  "spike_quality": 0.514
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 49,825 views/day over the last 3 days (30-day baseline: 124)."
+  "Averaging 45,536 views/day over the last 3 days (30-day baseline: 980)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 120
-  },
-  {
-   "date": "2026-10-16",
-   "views": 282
-  },
-  {
    "date": "2026-10-17",
-   "views": 222
+   "views": 699
   },
   {
    "date": "2026-10-18",
-   "views": 168
+   "views": 629
   },
   {
    "date": "2026-10-19",
-   "views": 173
+   "views": 712
   },
   {
    "date": "2026-10-20",
-   "views": 128
+   "views": 1020
   },
   {
    "date": "2026-10-21",
-   "views": 165
+   "views": 1191
   },
   {
    "date": "2026-10-22",
-   "views": 100
+   "views": 839
   },
   {
    "date": "2026-10-23",
-   "views": 143
+   "views": 811
   },
   {
    "date": "2026-10-24",
-   "views": 166
+   "views": 973
   },
   {
    "date": "2026-10-25",
-   "views": 141
+   "views": 773
   },
   {
    "date": "2026-10-26",
-   "views": 120
+   "views": 710
   },
   {
    "date": "2026-10-27",
-   "views": 90
+   "views": 642
   },
   {
    "date": "2026-10-28",
-   "views": 92
+   "views": 679
   },
   {
    "date": "2026-10-29",
-   "views": 122
+   "views": 563
   },
   {
    "date": "2026-10-30",
-   "views": 101
+   "views": 671
   },
   {
    "date": "2026-10-31",
-   "views": 107
+   "views": 799
   },
   {
    "date": "2026-11-01",
-   "views": 146
+   "views": 831
   },
   {
    "date": "2026-11-02",
-   "views": 101
+   "views": 601
   },
   {
    "date": "2026-11-03",
-   "views": 124
+   "views": 805
   },
   {
    "date": "2026-11-04",
-   "views": 125
+   "views": 595
   },
   {
    "date": "2026-11-05",
-   "views": 96
+   "views": 496
   },
   {
    "date": "2026-11-06",
-   "views": 115
+   "views": 559
   },
   {
    "date": "2026-11-07",
-   "views": 124
+   "views": 534
   },
   {
    "date": "2026-11-08",
-   "views": 135
+   "views": 558
   },
   {
    "date": "2026-11-09",
-   "views": 117
+   "views": 549
   },
   {
    "date": "2026-11-10",
-   "views": 121
+   "views": 545
   },
   {
    "date": "2026-11-11",
-   "views": 118
+   "views": 460
   },
   {
    "date": "2026-11-12",
-   "views": 150
+   "views": 5364
   },
   {
    "date": "2026-11-13",
-   "views": 127
+   "views": 4602
   },
   {
    "date": "2026-11-14",
-   "views": 179
+   "views": 1948
   },
   {
    "date": "2026-11-15",
-   "views": 153
+   "views": 1082
   },
   {
    "date": "2026-11-16",
-   "views": 107
+   "views": 784
   },
   {
    "date": "2026-11-17",
-   "views": 102
+   "views": 513
   },
   {
    "date": "2026-11-18",
-   "views": 165
+   "views": 502
   },
   {
    "date": "2026-11-19",
-   "views": 130
+   "views": 571
   },
   {
    "date": "2026-11-20",
-   "views": 113
+   "views": 592
   },
   {
    "date": "2026-11-21",
-   "views": 107
+   "views": 623
   },
   {
    "date": "2026-11-22",
-   "views": 37182
+   "views": 487
   },
   {
    "date": "2026-11-23",
-   "views": 112186
+   "views": 456
+  },
+  {
+   "date": "2026-11-24",
+   "views": 486
+  },
+  {
+   "date": "2026-11-25",
+   "views": 135665
   }
  ],
- "wikipedia_title": "Molly_Meldrum",
+ "wikipedia_title": "Andy_Taylor_(guitarist)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

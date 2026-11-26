@@ -1,197 +1,196 @@
 {
- "title": "Experience machine",
- "slug": "experience-machine",
- "score": 37,
- "status": "Breaking out",
- "change_percent": 25758,
- "growth_ratio": 257.9,
- "recent_avg": 45252,
- "baseline_avg": 175,
- "explanation": "Attention is 258\u00d7 its 30-day baseline.",
+ "title": "Soham murders",
+ "slug": "soham-murders",
+ "score": 39,
+ "status": "Elevated",
+ "change_percent": 4473,
+ "growth_ratio": 45.73,
+ "recent_avg": 52868,
+ "baseline_avg": 1156,
+ "explanation": "Attention is 46\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 45077,
- "latest": 135474,
+ "abs_change": 51712,
+ "latest": 56184,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.977,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.828,
-  "spike_quality": 0.505
+  "persistence": 0.52,
+  "momentum": 0.587,
+  "volume": 0.862,
+  "spike_quality": 0.593
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,252 views/day over the last 3 days (30-day baseline: 175)."
+  "Interest has stayed elevated for more than one day.",
+  "Averaging 52,868 views/day over the last 3 days (30-day baseline: 1,156)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 141
-  },
-  {
-   "date": "2026-10-16",
-   "views": 150
-  },
-  {
    "date": "2026-10-17",
-   "views": 154
+   "views": 676
   },
   {
    "date": "2026-10-18",
-   "views": 125
+   "views": 2628
   },
   {
    "date": "2026-10-19",
-   "views": 194
+   "views": 1179
   },
   {
    "date": "2026-10-20",
-   "views": 216
+   "views": 1378
   },
   {
    "date": "2026-10-21",
-   "views": 174
+   "views": 990
   },
   {
    "date": "2026-10-22",
-   "views": 198
+   "views": 752
   },
   {
    "date": "2026-10-23",
-   "views": 180
+   "views": 660
   },
   {
    "date": "2026-10-24",
-   "views": 135
+   "views": 727
   },
   {
    "date": "2026-10-25",
-   "views": 165
+   "views": 907
   },
   {
    "date": "2026-10-26",
-   "views": 216
+   "views": 772
   },
   {
    "date": "2026-10-27",
-   "views": 197
+   "views": 677
   },
   {
    "date": "2026-10-28",
-   "views": 171
+   "views": 754
   },
   {
    "date": "2026-10-29",
-   "views": 195
+   "views": 640
   },
   {
    "date": "2026-10-30",
-   "views": 237
+   "views": 613
   },
   {
    "date": "2026-10-31",
-   "views": 201
+   "views": 513
   },
   {
    "date": "2026-11-01",
-   "views": 172
+   "views": 560
   },
   {
    "date": "2026-11-02",
-   "views": 168
+   "views": 682
   },
   {
    "date": "2026-11-03",
-   "views": 204
+   "views": 687
   },
   {
    "date": "2026-11-04",
-   "views": 175
+   "views": 753
   },
   {
    "date": "2026-11-05",
-   "views": 192
+   "views": 895
   },
   {
    "date": "2026-11-06",
-   "views": 174
+   "views": 935
   },
   {
    "date": "2026-11-07",
-   "views": 145
+   "views": 744
   },
   {
    "date": "2026-11-08",
-   "views": 115
+   "views": 1072
   },
   {
    "date": "2026-11-09",
-   "views": 162
+   "views": 1853
   },
   {
    "date": "2026-11-10",
-   "views": 159
+   "views": 2623
   },
   {
    "date": "2026-11-11",
-   "views": 169
+   "views": 2429
   },
   {
    "date": "2026-11-12",
-   "views": 179
+   "views": 2175
   },
   {
    "date": "2026-11-13",
-   "views": 165
+   "views": 1920
   },
   {
    "date": "2026-11-14",
-   "views": 136
+   "views": 1531
   },
   {
    "date": "2026-11-15",
-   "views": 131
+   "views": 2871
   },
   {
    "date": "2026-11-16",
-   "views": 145
+   "views": 1704
   },
   {
    "date": "2026-11-17",
-   "views": 173
+   "views": 1033
   },
   {
    "date": "2026-11-18",
-   "views": 203
+   "views": 1053
   },
   {
    "date": "2026-11-19",
-   "views": 219
+   "views": 976
   },
   {
    "date": "2026-11-20",
-   "views": 183
+   "views": 838
   },
   {
    "date": "2026-11-21",
-   "views": 114
+   "views": 859
   },
   {
    "date": "2026-11-22",
-   "views": 168
+   "views": 887
   },
   {
    "date": "2026-11-23",
-   "views": 135474
+   "views": 15399
+  },
+  {
+   "date": "2026-11-24",
+   "views": 87021
+  },
+  {
+   "date": "2026-11-25",
+   "views": 56184
   }
  ],
- "wikipedia_title": "Experience_machine",
+ "wikipedia_title": "Soham_murders",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

@@ -1,198 +1,197 @@
 {
- "title": "Tarik Skubal",
- "slug": "tarik-skubal",
- "score": 62,
+ "title": "Bea Millan-Windorski",
+ "slug": "bea-millan-windorski",
+ "score": 49,
  "status": "Breaking out",
- "change_percent": 2472,
- "growth_ratio": 25.71,
- "recent_avg": 26233,
- "baseline_avg": 1020,
- "explanation": "Attention is 26\u00d7 its 30-day baseline.",
+ "change_percent": 2273,
+ "growth_ratio": 23.73,
+ "recent_avg": 27265,
+ "baseline_avg": 1149,
+ "explanation": "Attention is 24\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 25213,
- "latest": 49530,
+ "abs_change": 26116,
+ "latest": 61208,
  "components": {
-  "acceleration": 0.83,
+  "acceleration": 0.809,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.709,
-  "spike_quality": 0.749
+  "persistence": 0.72,
+  "momentum": 0.867,
+  "volume": 0.718,
+  "spike_quality": 0.697
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "Interest has stayed elevated for more than one day.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 26,233 views/day over the last 3 days (30-day baseline: 1,020)."
+  "Averaging 27,265 views/day over the last 3 days (30-day baseline: 1,149)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 2149
-  },
-  {
-   "date": "2026-10-16",
-   "views": 6198
-  },
-  {
    "date": "2026-10-17",
-   "views": 3150
+   "views": 849
   },
   {
    "date": "2026-10-18",
-   "views": 1760
+   "views": 741
   },
   {
    "date": "2026-10-19",
-   "views": 1394
+   "views": 555
   },
   {
    "date": "2026-10-20",
-   "views": 1025
+   "views": 472
   },
   {
    "date": "2026-10-21",
-   "views": 638
+   "views": 607
   },
   {
    "date": "2026-10-22",
-   "views": 639
+   "views": 604
   },
   {
    "date": "2026-10-23",
-   "views": 639
+   "views": 479
   },
   {
    "date": "2026-10-24",
-   "views": 879
+   "views": 427
   },
   {
    "date": "2026-10-25",
-   "views": 652
+   "views": 350
   },
   {
    "date": "2026-10-26",
-   "views": 460
+   "views": 354
   },
   {
    "date": "2026-10-27",
-   "views": 659
+   "views": 369
   },
   {
    "date": "2026-10-28",
-   "views": 620
+   "views": 392
   },
   {
    "date": "2026-10-29",
-   "views": 1834
+   "views": 366
   },
   {
    "date": "2026-10-30",
-   "views": 973
+   "views": 342
   },
   {
    "date": "2026-10-31",
-   "views": 645
+   "views": 351
   },
   {
    "date": "2026-11-01",
-   "views": 558
+   "views": 382
   },
   {
    "date": "2026-11-02",
-   "views": 993
+   "views": 393
   },
   {
    "date": "2026-11-03",
-   "views": 989
+   "views": 574
   },
   {
    "date": "2026-11-04",
-   "views": 735
+   "views": 592
   },
   {
    "date": "2026-11-05",
-   "views": 616
+   "views": 836
   },
   {
    "date": "2026-11-06",
-   "views": 558
+   "views": 764
   },
   {
    "date": "2026-11-07",
-   "views": 524
+   "views": 749
   },
   {
    "date": "2026-11-08",
-   "views": 519
+   "views": 1141
   },
   {
    "date": "2026-11-09",
-   "views": 638
+   "views": 1579
   },
   {
    "date": "2026-11-10",
-   "views": 1210
+   "views": 1102
   },
   {
    "date": "2026-11-11",
-   "views": 2413
+   "views": 1524
   },
   {
    "date": "2026-11-12",
-   "views": 1601
+   "views": 1752
   },
   {
    "date": "2026-11-13",
-   "views": 1170
+   "views": 1475
   },
   {
    "date": "2026-11-14",
-   "views": 879
+   "views": 2318
   },
   {
    "date": "2026-11-15",
-   "views": 642
+   "views": 1927
   },
   {
    "date": "2026-11-16",
-   "views": 825
+   "views": 1367
   },
   {
    "date": "2026-11-17",
-   "views": 1398
+   "views": 1100
   },
   {
    "date": "2026-11-18",
-   "views": 2610
+   "views": 1330
   },
   {
    "date": "2026-11-19",
-   "views": 1754
+   "views": 1234
   },
   {
    "date": "2026-11-20",
-   "views": 1978
+   "views": 1279
   },
   {
    "date": "2026-11-21",
-   "views": 4231
+   "views": 1354
   },
   {
    "date": "2026-11-22",
-   "views": 24939
+   "views": 6748
   },
   {
    "date": "2026-11-23",
-   "views": 49530
+   "views": 11350
+  },
+  {
+   "date": "2026-11-24",
+   "views": 9237
+  },
+  {
+   "date": "2026-11-25",
+   "views": 61208
   }
  ],
- "wikipedia_title": "Tarik_Skubal",
+ "wikipedia_title": "Bea_Millan-Windorski",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

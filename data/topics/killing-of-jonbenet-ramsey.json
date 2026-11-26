@@ -1,197 +1,197 @@
 {
- "title": "Mckenna Grace",
- "slug": "mckenna-grace",
- "score": 42,
+ "title": "Killing of JonBen\u00e9t Ramsey",
+ "slug": "killing-of-jonbenet-ramsey",
+ "score": 18,
  "status": "Elevated",
- "change_percent": 187,
- "growth_ratio": 2.87,
- "recent_avg": 72167,
- "baseline_avg": 25111,
- "explanation": "Attention is 2.9\u00d7 its 30-day baseline.",
+ "change_percent": 264,
+ "growth_ratio": 3.64,
+ "recent_avg": 41585,
+ "baseline_avg": 11418,
+ "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 47056,
- "latest": 67113,
+ "abs_change": 30167,
+ "latest": 50556,
  "components": {
-  "acceleration": 0.27,
-  "anomaly": 0.464,
-  "persistence": 0.92,
-  "momentum": 0.705,
-  "volume": 0.929,
-  "spike_quality": 0.884
+  "acceleration": 0.33,
+  "anomaly": 0.308,
+  "persistence": 0.32,
+  "momentum": 0.669,
+  "volume": 0.809,
+  "spike_quality": 0.732
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 72,167 views/day over the last 3 days (30-day baseline: 25,111)."
+  "Averaging 41,585 views/day over the last 3 days (30-day baseline: 11,418)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 11664
-  },
-  {
-   "date": "2026-10-16",
-   "views": 10067
-  },
-  {
    "date": "2026-10-17",
-   "views": 10631
+   "views": 4063
   },
   {
    "date": "2026-10-18",
-   "views": 16826
+   "views": 3320
   },
   {
    "date": "2026-10-19",
-   "views": 13965
+   "views": 3634
   },
   {
    "date": "2026-10-20",
-   "views": 12565
+   "views": 3416
   },
   {
    "date": "2026-10-21",
-   "views": 12160
+   "views": 3397
   },
   {
    "date": "2026-10-22",
-   "views": 9991
+   "views": 3560
   },
   {
    "date": "2026-10-23",
-   "views": 9977
+   "views": 3191
   },
   {
    "date": "2026-10-24",
-   "views": 13222
+   "views": 2839
   },
   {
    "date": "2026-10-25",
-   "views": 13583
+   "views": 3800
   },
   {
    "date": "2026-10-26",
-   "views": 14097
+   "views": 3802
   },
   {
    "date": "2026-10-27",
-   "views": 19963
+   "views": 3725
   },
   {
    "date": "2026-10-28",
-   "views": 23141
+   "views": 3808
   },
   {
    "date": "2026-10-29",
-   "views": 32605
+   "views": 3485
   },
   {
    "date": "2026-10-30",
-   "views": 23266
+   "views": 3730
   },
   {
    "date": "2026-10-31",
-   "views": 19218
+   "views": 3446
   },
   {
    "date": "2026-11-01",
-   "views": 19457
+   "views": 3170
   },
   {
    "date": "2026-11-02",
-   "views": 21623
+   "views": 3209
   },
   {
    "date": "2026-11-03",
-   "views": 38738
+   "views": 11589
   },
   {
    "date": "2026-11-04",
-   "views": 26463
+   "views": 8023
   },
   {
    "date": "2026-11-05",
-   "views": 27936
+   "views": 8447
   },
   {
    "date": "2026-11-06",
-   "views": 29754
+   "views": 22691
   },
   {
    "date": "2026-11-07",
-   "views": 26903
+   "views": 46363
   },
   {
    "date": "2026-11-08",
-   "views": 20525
+   "views": 22686
   },
   {
    "date": "2026-11-09",
-   "views": 18063
+   "views": 18723
   },
   {
    "date": "2026-11-10",
-   "views": 18371
+   "views": 14213
   },
   {
    "date": "2026-11-11",
-   "views": 17256
+   "views": 34695
   },
   {
    "date": "2026-11-12",
-   "views": 15622
+   "views": 20140
   },
   {
    "date": "2026-11-13",
-   "views": 26188
+   "views": 14416
   },
   {
    "date": "2026-11-14",
-   "views": 31407
+   "views": 11318
   },
   {
    "date": "2026-11-15",
-   "views": 38792
+   "views": 12817
   },
   {
    "date": "2026-11-16",
-   "views": 26244
+   "views": 11779
   },
   {
    "date": "2026-11-17",
-   "views": 39637
+   "views": 9933
   },
   {
    "date": "2026-11-18",
-   "views": 39052
+   "views": 8368
   },
   {
    "date": "2026-11-19",
-   "views": 40678
+   "views": 6233
   },
   {
    "date": "2026-11-20",
-   "views": 51548
+   "views": 7518
   },
   {
    "date": "2026-11-21",
-   "views": 69610
+   "views": 8352
   },
   {
    "date": "2026-11-22",
-   "views": 79779
+   "views": 9220
   },
   {
    "date": "2026-11-23",
-   "views": 67113
+   "views": 9468
+  },
+  {
+   "date": "2026-11-24",
+   "views": 64731
+  },
+  {
+   "date": "2026-11-25",
+   "views": 50556
   }
  ],
- "wikipedia_title": "Mckenna_Grace",
+ "wikipedia_title": "Killing_of_JonBen\u00e9t_Ramsey",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

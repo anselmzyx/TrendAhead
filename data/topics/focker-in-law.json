@@ -1,197 +1,198 @@
 {
- "title": "Sam Bankman-Fried",
- "slug": "sam-bankman-fried",
- "score": 59,
+ "title": "Focker-in-Law",
+ "slug": "focker-in-law",
+ "score": 50,
  "status": "Building",
- "change_percent": 977,
- "growth_ratio": 10.77,
- "recent_avg": 67631,
- "baseline_avg": 6282,
- "explanation": "Attention is 11\u00d7 its 30-day baseline.",
+ "change_percent": 240,
+ "growth_ratio": 3.4,
+ "recent_avg": 46151,
+ "baseline_avg": 13563,
+ "explanation": "Attention is 3.4\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 61349,
- "latest": 72751,
+ "abs_change": 32588,
+ "latest": 56221,
  "components": {
-  "acceleration": 0.607,
-  "anomaly": 0.704,
-  "persistence": 0.92,
-  "momentum": 0.784,
-  "volume": 0.915,
-  "spike_quality": 0.921
+  "acceleration": 0.313,
+  "anomaly": 0.575,
+  "persistence": 0.8,
+  "momentum": 1.0,
+  "volume": 0.832,
+  "spike_quality": 0.934
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 67,631 views/day over the last 3 days (30-day baseline: 6,282)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 46,151 views/day over the last 3 days (30-day baseline: 13,563)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 2205
-  },
-  {
-   "date": "2026-10-16",
-   "views": 2320
-  },
-  {
    "date": "2026-10-17",
-   "views": 2256
+   "views": 3058
   },
   {
    "date": "2026-10-18",
-   "views": 2635
+   "views": 3353
   },
   {
    "date": "2026-10-19",
-   "views": 2784
+   "views": 3295
   },
   {
    "date": "2026-10-20",
-   "views": 2528
+   "views": 4457
   },
   {
    "date": "2026-10-21",
-   "views": 2511
+   "views": 6237
   },
   {
    "date": "2026-10-22",
-   "views": 3039
+   "views": 4990
   },
   {
    "date": "2026-10-23",
-   "views": 3426
+   "views": 5823
   },
   {
    "date": "2026-10-24",
-   "views": 3064
+   "views": 8834
   },
   {
    "date": "2026-10-25",
-   "views": 2918
+   "views": 7119
   },
   {
    "date": "2026-10-26",
-   "views": 3039
+   "views": 5764
   },
   {
    "date": "2026-10-27",
-   "views": 3323
+   "views": 6361
   },
   {
    "date": "2026-10-28",
-   "views": 3900
+   "views": 7626
   },
   {
    "date": "2026-10-29",
-   "views": 3459
+   "views": 8530
   },
   {
    "date": "2026-10-30",
-   "views": 5198
+   "views": 4831
   },
   {
    "date": "2026-10-31",
-   "views": 4001
+   "views": 5324
   },
   {
    "date": "2026-11-01",
-   "views": 4112
+   "views": 7656
   },
   {
    "date": "2026-11-02",
-   "views": 3825
+   "views": 8939
   },
   {
    "date": "2026-11-03",
-   "views": 3178
+   "views": 12385
   },
   {
    "date": "2026-11-04",
-   "views": 2459
+   "views": 6911
   },
   {
    "date": "2026-11-05",
-   "views": 2907
+   "views": 11227
   },
   {
    "date": "2026-11-06",
-   "views": 3515
+   "views": 13962
   },
   {
    "date": "2026-11-07",
-   "views": 2955
+   "views": 13836
   },
   {
    "date": "2026-11-08",
-   "views": 3774
+   "views": 17064
   },
   {
    "date": "2026-11-09",
-   "views": 3791
+   "views": 18056
   },
   {
    "date": "2026-11-10",
-   "views": 3407
+   "views": 14795
   },
   {
    "date": "2026-11-11",
-   "views": 3079
+   "views": 14610
   },
   {
    "date": "2026-11-12",
-   "views": 3249
+   "views": 21691
   },
   {
    "date": "2026-11-13",
-   "views": 3131
+   "views": 19551
   },
   {
    "date": "2026-11-14",
-   "views": 7435
+   "views": 17873
   },
   {
    "date": "2026-11-15",
-   "views": 6650
+   "views": 19812
   },
   {
    "date": "2026-11-16",
-   "views": 6657
+   "views": 18579
   },
   {
    "date": "2026-11-17",
-   "views": 6076
+   "views": 17714
   },
   {
    "date": "2026-11-18",
-   "views": 9394
+   "views": 16344
   },
   {
    "date": "2026-11-19",
-   "views": 26328
+   "views": 16212
   },
   {
    "date": "2026-11-20",
-   "views": 47165
+   "views": 19773
   },
   {
    "date": "2026-11-21",
-   "views": 55395
+   "views": 19913
   },
   {
    "date": "2026-11-22",
-   "views": 74746
+   "views": 25611
   },
   {
    "date": "2026-11-23",
-   "views": 72751
+   "views": 36079
+  },
+  {
+   "date": "2026-11-24",
+   "views": 46153
+  },
+  {
+   "date": "2026-11-25",
+   "views": 56221
   }
  ],
- "wikipedia_title": "Sam_Bankman-Fried",
+ "wikipedia_title": "Focker-in-Law",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

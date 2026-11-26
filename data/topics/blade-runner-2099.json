@@ -1,197 +1,198 @@
 {
- "title": "XXX: State of the Union",
- "slug": "xxx-state-of-the-union",
- "score": 36,
- "status": "Elevated",
- "change_percent": 793,
- "growth_ratio": 8.93,
- "recent_avg": 65198,
- "baseline_avg": 7304,
- "explanation": "Attention is 8.9\u00d7 its 30-day baseline.",
+ "title": "Blade Runner 2099",
+ "slug": "blade-runner-2099",
+ "score": 65,
+ "status": "Building",
+ "change_percent": 708,
+ "growth_ratio": 8.08,
+ "recent_avg": 43320,
+ "baseline_avg": 5363,
+ "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 57894,
- "latest": 50036,
+ "abs_change": 37957,
+ "latest": 86001,
  "components": {
-  "acceleration": 0.56,
-  "anomaly": 0.654,
-  "persistence": 0.84,
-  "momentum": 0.458,
-  "volume": 0.907,
-  "spike_quality": 0.744
+  "acceleration": 0.534,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.818,
+  "spike_quality": 0.803
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 65,198 views/day over the last 3 days (30-day baseline: 7,304)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 43,320 views/day over the last 3 days (30-day baseline: 5,363)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 2725
-  },
-  {
-   "date": "2026-10-16",
-   "views": 2895
-  },
-  {
    "date": "2026-10-17",
-   "views": 2836
+   "views": 2404
   },
   {
    "date": "2026-10-18",
-   "views": 2804
+   "views": 2699
   },
   {
    "date": "2026-10-19",
-   "views": 2556
+   "views": 3070
   },
   {
    "date": "2026-10-20",
-   "views": 2281
+   "views": 3929
   },
   {
    "date": "2026-10-21",
-   "views": 16930
+   "views": 2705
   },
   {
    "date": "2026-10-22",
-   "views": 24392
+   "views": 2237
   },
   {
    "date": "2026-10-23",
-   "views": 13069
+   "views": 2115
   },
   {
    "date": "2026-10-24",
-   "views": 18646
+   "views": 2009
   },
   {
    "date": "2026-10-25",
-   "views": 7773
+   "views": 2272
   },
   {
    "date": "2026-10-26",
-   "views": 9627
+   "views": 3952
   },
   {
    "date": "2026-10-27",
-   "views": 10212
+   "views": 4456
   },
   {
    "date": "2026-10-28",
-   "views": 3007
+   "views": 2920
   },
   {
    "date": "2026-10-29",
-   "views": 3196
+   "views": 2415
   },
   {
    "date": "2026-10-30",
-   "views": 2567
+   "views": 2599
   },
   {
    "date": "2026-10-31",
-   "views": 2545
+   "views": 2293
   },
   {
    "date": "2026-11-01",
-   "views": 2795
+   "views": 2921
   },
   {
    "date": "2026-11-02",
-   "views": 2645
+   "views": 3115
   },
   {
    "date": "2026-11-03",
-   "views": 2513
+   "views": 2689
   },
   {
    "date": "2026-11-04",
-   "views": 2798
+   "views": 2197
   },
   {
    "date": "2026-11-05",
-   "views": 3337
+   "views": 2440
   },
   {
    "date": "2026-11-06",
-   "views": 2760
+   "views": 2346
   },
   {
    "date": "2026-11-07",
-   "views": 2861
+   "views": 6424
   },
   {
    "date": "2026-11-08",
-   "views": 3109
+   "views": 4610
   },
   {
    "date": "2026-11-09",
-   "views": 3074
+   "views": 5855
   },
   {
    "date": "2026-11-10",
-   "views": 2890
+   "views": 6757
   },
   {
    "date": "2026-11-11",
-   "views": 3435
+   "views": 4956
   },
   {
    "date": "2026-11-12",
-   "views": 3746
+   "views": 4303
   },
   {
    "date": "2026-11-13",
-   "views": 3482
+   "views": 6438
   },
   {
    "date": "2026-11-14",
-   "views": 3798
+   "views": 5754
   },
   {
    "date": "2026-11-15",
-   "views": 3718
+   "views": 6400
   },
   {
    "date": "2026-11-16",
-   "views": 3439
+   "views": 6082
   },
   {
    "date": "2026-11-17",
-   "views": 3181
+   "views": 7053
   },
   {
    "date": "2026-11-18",
-   "views": 3174
+   "views": 8851
   },
   {
    "date": "2026-11-19",
-   "views": 26468
+   "views": 8258
   },
   {
    "date": "2026-11-20",
-   "views": 40853
+   "views": 11561
   },
   {
    "date": "2026-11-21",
-   "views": 76640
+   "views": 13580
   },
   {
    "date": "2026-11-22",
-   "views": 68918
+   "views": 15390
   },
   {
    "date": "2026-11-23",
-   "views": 50036
+   "views": 19547
+  },
+  {
+   "date": "2026-11-24",
+   "views": 24411
+  },
+  {
+   "date": "2026-11-25",
+   "views": 86001
   }
  ],
- "wikipedia_title": "XXX:_State_of_the_Union",
+ "wikipedia_title": "Blade_Runner_2099",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

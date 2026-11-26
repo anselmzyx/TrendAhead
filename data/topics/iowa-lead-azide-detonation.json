@@ -1,197 +1,197 @@
 {
- "title": "Fred Warner (American football)",
- "slug": "fred-warner-american-football",
- "score": 46,
+ "title": "Iowa lead azide detonation",
+ "slug": "iowa-lead-azide-detonation",
+ "score": 39,
  "status": "Breaking out",
- "change_percent": 2656,
- "growth_ratio": 27.57,
- "recent_avg": 37425,
- "baseline_avg": 1358,
- "explanation": "Attention is 28\u00d7 its 30-day baseline.",
+ "change_percent": null,
+ "growth_ratio": 267.7,
+ "recent_avg": 26770,
+ "baseline_avg": 0,
+ "explanation": "Attention is 268\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 36067,
- "latest": 107625,
+ "abs_change": 26770,
+ "latest": 78852,
  "components": {
-  "acceleration": 0.848,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.6,
-  "momentum": 1.0,
-  "volume": 0.787,
-  "spike_quality": 0.551
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.714,
+  "spike_quality": 0.511
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,425 views/day over the last 3 days (30-day baseline: 1,358)."
+  "Averaging 26,770 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 1545
-  },
-  {
-   "date": "2026-10-16",
-   "views": 1277
-  },
-  {
    "date": "2026-10-17",
-   "views": 2382
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 2159
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 4116
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 13319
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 2446
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 1474
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 1214
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 1051
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 3126
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 1110
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 943
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 801
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 563
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 590
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 446
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 553
+   "views": 0
   },
   {
    "date": "2026-11-02",
-   "views": 668
+   "views": 0
   },
   {
    "date": "2026-11-03",
-   "views": 516
+   "views": 0
   },
   {
    "date": "2026-11-04",
-   "views": 496
+   "views": 0
   },
   {
    "date": "2026-11-05",
-   "views": 586
+   "views": 0
   },
   {
    "date": "2026-11-06",
-   "views": 587
+   "views": 0
   },
   {
    "date": "2026-11-07",
-   "views": 661
+   "views": 0
   },
   {
    "date": "2026-11-08",
-   "views": 3263
+   "views": 0
   },
   {
    "date": "2026-11-09",
-   "views": 4304
+   "views": 0
   },
   {
    "date": "2026-11-10",
-   "views": 1978
+   "views": 0
   },
   {
    "date": "2026-11-11",
-   "views": 1128
+   "views": 0
   },
   {
    "date": "2026-11-12",
-   "views": 929
+   "views": 0
   },
   {
    "date": "2026-11-13",
-   "views": 873
+   "views": 0
   },
   {
    "date": "2026-11-14",
-   "views": 799
+   "views": 0
   },
   {
    "date": "2026-11-15",
-   "views": 3851
+   "views": 0
   },
   {
    "date": "2026-11-16",
-   "views": 2644
+   "views": 0
   },
   {
    "date": "2026-11-17",
-   "views": 1338
+   "views": 0
   },
   {
    "date": "2026-11-18",
-   "views": 1031
+   "views": 0
   },
   {
    "date": "2026-11-19",
-   "views": 1671
+   "views": 0
   },
   {
    "date": "2026-11-20",
-   "views": 1532
+   "views": 0
   },
   {
    "date": "2026-11-21",
-   "views": 2103
+   "views": 0
   },
   {
    "date": "2026-11-22",
-   "views": 2548
+   "views": 0
   },
   {
    "date": "2026-11-23",
-   "views": 107625
+   "views": 0
+  },
+  {
+   "date": "2026-11-24",
+   "views": 1457
+  },
+  {
+   "date": "2026-11-25",
+   "views": 78852
   }
  ],
- "wikipedia_title": "Fred_Warner_(American_football)",
+ "wikipedia_title": "Iowa_lead_azide_detonation",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "The Hunger Games: Sunrise on the Reaping",
- "slug": "the-hunger-games-sunrise-on-the-reaping",
- "score": 47,
- "status": "Elevated",
- "change_percent": 478,
- "growth_ratio": 5.78,
- "recent_avg": 202227,
- "baseline_avg": 34975,
- "explanation": "Attention is 5.8\u00d7 its 30-day baseline.",
+ "title": "Ade Adepitan",
+ "slug": "ade-adepitan",
+ "score": 26,
+ "status": "Building",
+ "change_percent": 282,
+ "growth_ratio": 3.82,
+ "recent_avg": 36416,
+ "baseline_avg": 9544,
+ "explanation": "Attention is 3.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 167252,
- "latest": 180185,
+ "abs_change": 26872,
+ "latest": 72731,
  "components": {
-  "acceleration": 0.449,
-  "anomaly": 0.452,
-  "persistence": 0.92,
-  "momentum": 0.686,
-  "volume": 1.0,
-  "spike_quality": 0.87
+  "acceleration": 0.342,
+  "anomaly": 0.153,
+  "persistence": 0.52,
+  "momentum": 0.867,
+  "volume": 0.781,
+  "spike_quality": 0.841
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 202,227 views/day over the last 3 days (30-day baseline: 34,975)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 36,416 views/day over the last 3 days (30-day baseline: 9,544)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 9066
-  },
-  {
-   "date": "2026-10-16",
-   "views": 9455
-  },
-  {
    "date": "2026-10-17",
-   "views": 9773
+   "views": 160
   },
   {
    "date": "2026-10-18",
-   "views": 9904
+   "views": 353
   },
   {
    "date": "2026-10-19",
-   "views": 8970
+   "views": 397
   },
   {
    "date": "2026-10-20",
-   "views": 8398
+   "views": 282
   },
   {
    "date": "2026-10-21",
-   "views": 9450
+   "views": 205
   },
   {
    "date": "2026-10-22",
-   "views": 8909
+   "views": 456
   },
   {
    "date": "2026-10-23",
-   "views": 8632
+   "views": 253
   },
   {
    "date": "2026-10-24",
-   "views": 10371
+   "views": 210
   },
   {
    "date": "2026-10-25",
-   "views": 13739
+   "views": 190
   },
   {
    "date": "2026-10-26",
-   "views": 13572
+   "views": 163
   },
   {
    "date": "2026-10-27",
-   "views": 12195
+   "views": 283
   },
   {
    "date": "2026-10-28",
-   "views": 26669
+   "views": 190
   },
   {
    "date": "2026-10-29",
-   "views": 36122
+   "views": 144
   },
   {
    "date": "2026-10-30",
-   "views": 23843
+   "views": 254
   },
   {
    "date": "2026-10-31",
-   "views": 18629
+   "views": 219
   },
   {
    "date": "2026-11-01",
-   "views": 20184
+   "views": 217
   },
   {
    "date": "2026-11-02",
-   "views": 19947
+   "views": 3227
   },
   {
    "date": "2026-11-03",
-   "views": 24182
+   "views": 1670
   },
   {
    "date": "2026-11-04",
-   "views": 18372
+   "views": 800
   },
   {
    "date": "2026-11-05",
-   "views": 18448
+   "views": 575
   },
   {
    "date": "2026-11-06",
-   "views": 19780
+   "views": 467
   },
   {
    "date": "2026-11-07",
-   "views": 20615
+   "views": 436
   },
   {
    "date": "2026-11-08",
-   "views": 21982
+   "views": 426
   },
   {
    "date": "2026-11-09",
-   "views": 21370
+   "views": 1103
   },
   {
    "date": "2026-11-10",
-   "views": 20483
+   "views": 3090
   },
   {
    "date": "2026-11-11",
-   "views": 21672
+   "views": 8813
   },
   {
    "date": "2026-11-12",
-   "views": 21090
+   "views": 5330
   },
   {
    "date": "2026-11-13",
-   "views": 25498
+   "views": 7716
   },
   {
    "date": "2026-11-14",
-   "views": 36239
+   "views": 4965
   },
   {
    "date": "2026-11-15",
-   "views": 38557
+   "views": 6463
   },
   {
    "date": "2026-11-16",
-   "views": 38091
+   "views": 41464
   },
   {
    "date": "2026-11-17",
-   "views": 92631
+   "views": 70088
   },
   {
    "date": "2026-11-18",
-   "views": 101703
+   "views": 62084
   },
   {
    "date": "2026-11-19",
-   "views": 121672
+   "views": 26608
   },
   {
    "date": "2026-11-20",
-   "views": 174063
+   "views": 13595
   },
   {
    "date": "2026-11-21",
-   "views": 204097
+   "views": 11999
   },
   {
    "date": "2026-11-22",
-   "views": 222399
+   "views": 13530
   },
   {
    "date": "2026-11-23",
-   "views": 180185
+   "views": 21813
+  },
+  {
+   "date": "2026-11-24",
+   "views": 14704
+  },
+  {
+   "date": "2026-11-25",
+   "views": 72731
   }
  ],
- "wikipedia_title": "The_Hunger_Games:_Sunrise_on_the_Reaping",
+ "wikipedia_title": "Ade_Adepitan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

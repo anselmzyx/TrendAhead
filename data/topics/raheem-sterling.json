@@ -1,196 +1,197 @@
 {
- "title": "Maxx Morando",
- "slug": "maxx-morando",
- "score": 36,
- "status": "Elevated",
- "change_percent": 188555,
- "growth_ratio": 415.04,
- "recent_avg": 41504,
- "baseline_avg": 22,
- "explanation": "Attention is 415\u00d7 its 30-day baseline.",
+ "title": "Raheem Sterling",
+ "slug": "raheem-sterling",
+ "score": 31,
+ "status": "Breaking out",
+ "change_percent": 1146,
+ "growth_ratio": 12.46,
+ "recent_avg": 25515,
+ "baseline_avg": 2047,
+ "explanation": "Attention is 12\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 41482,
- "latest": 53792,
+ "abs_change": 23468,
+ "latest": 71889,
  "components": {
-  "acceleration": 1.0,
+  "acceleration": 0.645,
   "anomaly": 1.0,
-  "persistence": 0.32,
-  "momentum": 0.59,
-  "volume": 0.809,
-  "spike_quality": 0.633
+  "persistence": 0.2,
+  "momentum": 0.933,
+  "volume": 0.703,
+  "spike_quality": 0.589
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 41,504 views/day over the last 3 days (30-day baseline: 22)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 25,515 views/day over the last 3 days (30-day baseline: 2,047)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 27
-  },
-  {
-   "date": "2026-10-16",
-   "views": 28
-  },
-  {
    "date": "2026-10-17",
-   "views": 51
+   "views": 2366
   },
   {
    "date": "2026-10-18",
-   "views": 29
+   "views": 2080
   },
   {
    "date": "2026-10-19",
-   "views": 54
+   "views": 2183
   },
   {
    "date": "2026-10-20",
-   "views": 50
+   "views": 2561
   },
   {
    "date": "2026-10-21",
-   "views": 31
+   "views": 2551
   },
   {
    "date": "2026-10-22",
-   "views": 27
+   "views": 1783
   },
   {
    "date": "2026-10-23",
-   "views": 14
+   "views": 1670
   },
   {
    "date": "2026-10-24",
-   "views": 13
+   "views": 2033
   },
   {
    "date": "2026-10-25",
-   "views": 22
+   "views": 1868
   },
   {
    "date": "2026-10-26",
-   "views": 20
+   "views": 1645
   },
   {
    "date": "2026-10-27",
-   "views": 19
+   "views": 1954
   },
   {
    "date": "2026-10-28",
-   "views": 20
+   "views": 2411
   },
   {
    "date": "2026-10-29",
-   "views": 28
+   "views": 1866
   },
   {
    "date": "2026-10-30",
-   "views": 14
+   "views": 1696
   },
   {
    "date": "2026-10-31",
-   "views": 13
+   "views": 2371
   },
   {
    "date": "2026-11-01",
-   "views": 20
+   "views": 2549
   },
   {
    "date": "2026-11-02",
-   "views": 27
+   "views": 1880
   },
   {
    "date": "2026-11-03",
-   "views": 23
+   "views": 1738
   },
   {
    "date": "2026-11-04",
-   "views": 13
+   "views": 1705
   },
   {
    "date": "2026-11-05",
-   "views": 20
+   "views": 1472
   },
   {
    "date": "2026-11-06",
-   "views": 29
+   "views": 1579
   },
   {
    "date": "2026-11-07",
-   "views": 25
+   "views": 1906
   },
   {
    "date": "2026-11-08",
-   "views": 16
+   "views": 2220
   },
   {
    "date": "2026-11-09",
-   "views": 17
+   "views": 2515
   },
   {
    "date": "2026-11-10",
-   "views": 20
+   "views": 2109
   },
   {
    "date": "2026-11-11",
-   "views": 21
+   "views": 2461
   },
   {
    "date": "2026-11-12",
-   "views": 12
+   "views": 2584
   },
   {
    "date": "2026-11-13",
-   "views": 10
+   "views": 2042
   },
   {
    "date": "2026-11-14",
-   "views": 15
+   "views": 2123
   },
   {
    "date": "2026-11-15",
-   "views": 25
+   "views": 2807
   },
   {
    "date": "2026-11-16",
-   "views": 22
+   "views": 2264
   },
   {
    "date": "2026-11-17",
-   "views": 14
+   "views": 1791
   },
   {
    "date": "2026-11-18",
-   "views": 20
+   "views": 1549
   },
   {
    "date": "2026-11-19",
-   "views": 26
+   "views": 1917
   },
   {
    "date": "2026-11-20",
-   "views": 85
+   "views": 1526
   },
   {
    "date": "2026-11-21",
-   "views": 68
+   "views": 1953
   },
   {
    "date": "2026-11-22",
-   "views": 70652
+   "views": 2882
   },
   {
    "date": "2026-11-23",
-   "views": 53792
+   "views": 2301
+  },
+  {
+   "date": "2026-11-24",
+   "views": 2354
+  },
+  {
+   "date": "2026-11-25",
+   "views": 71889
   }
  ],
- "wikipedia_title": "Maxx_Morando",
+ "wikipedia_title": "Raheem_Sterling",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

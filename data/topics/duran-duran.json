@@ -1,197 +1,197 @@
 {
- "title": "Blood",
- "slug": "blood",
- "score": 39,
+ "title": "Duran Duran",
+ "slug": "duran-duran",
+ "score": 24,
  "status": "Breaking out",
- "change_percent": 8406,
- "growth_ratio": 85.03,
- "recent_avg": 58778,
- "baseline_avg": 691,
- "explanation": "Attention is 85\u00d7 its 30-day baseline.",
+ "change_percent": 523,
+ "growth_ratio": 6.23,
+ "recent_avg": 22658,
+ "baseline_avg": 3636,
+ "explanation": "Attention is 6.2\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 58087,
- "latest": 174912,
+ "abs_change": 19022,
+ "latest": 63746,
  "components": {
-  "acceleration": 1.0,
-  "anomaly": 1.0,
+  "acceleration": 0.468,
+  "anomaly": 0.769,
   "persistence": 0.2,
   "momentum": 0.933,
-  "volume": 0.885,
-  "spike_quality": 0.513
+  "volume": 0.678,
+  "spike_quality": 0.609
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 58,778 views/day over the last 3 days (30-day baseline: 691)."
+  "Averaging 22,658 views/day over the last 3 days (30-day baseline: 3,636)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 804
-  },
-  {
-   "date": "2026-10-16",
-   "views": 821
-  },
-  {
    "date": "2026-10-17",
-   "views": 644
+   "views": 3217
   },
   {
    "date": "2026-10-18",
-   "views": 634
+   "views": 3212
   },
   {
    "date": "2026-10-19",
-   "views": 778
+   "views": 3114
   },
   {
    "date": "2026-10-20",
-   "views": 734
+   "views": 3578
   },
   {
    "date": "2026-10-21",
-   "views": 793
+   "views": 3395
   },
   {
    "date": "2026-10-22",
-   "views": 715
+   "views": 2832
   },
   {
    "date": "2026-10-23",
-   "views": 757
+   "views": 3243
   },
   {
    "date": "2026-10-24",
-   "views": 712
+   "views": 3714
   },
   {
    "date": "2026-10-25",
-   "views": 685
+   "views": 3049
   },
   {
    "date": "2026-10-26",
-   "views": 679
+   "views": 2865
   },
   {
    "date": "2026-10-27",
-   "views": 831
+   "views": 3207
   },
   {
    "date": "2026-10-28",
-   "views": 767
+   "views": 3065
   },
   {
    "date": "2026-10-29",
-   "views": 795
+   "views": 2976
   },
   {
    "date": "2026-10-30",
-   "views": 798
+   "views": 2884
   },
   {
    "date": "2026-10-31",
-   "views": 601
+   "views": 3821
   },
   {
    "date": "2026-11-01",
-   "views": 619
+   "views": 3671
   },
   {
    "date": "2026-11-02",
-   "views": 675
+   "views": 2683
   },
   {
    "date": "2026-11-03",
-   "views": 731
+   "views": 3139
   },
   {
    "date": "2026-11-04",
-   "views": 762
+   "views": 2925
   },
   {
    "date": "2026-11-05",
-   "views": 650
+   "views": 2454
   },
   {
    "date": "2026-11-06",
-   "views": 773
+   "views": 2763
   },
   {
    "date": "2026-11-07",
-   "views": 559
+   "views": 2652
   },
   {
    "date": "2026-11-08",
-   "views": 606
+   "views": 2577
   },
   {
    "date": "2026-11-09",
-   "views": 719
+   "views": 2422
   },
   {
    "date": "2026-11-10",
-   "views": 688
+   "views": 2330
   },
   {
    "date": "2026-11-11",
-   "views": 764
+   "views": 2078
   },
   {
    "date": "2026-11-12",
-   "views": 695
+   "views": 13095
   },
   {
    "date": "2026-11-13",
-   "views": 628
+   "views": 11808
   },
   {
    "date": "2026-11-14",
-   "views": 558
+   "views": 6160
   },
   {
    "date": "2026-11-15",
-   "views": 593
+   "views": 4073
   },
   {
    "date": "2026-11-16",
-   "views": 671
+   "views": 2906
   },
   {
    "date": "2026-11-17",
-   "views": 669
+   "views": 2576
   },
   {
    "date": "2026-11-18",
-   "views": 668
+   "views": 2764
   },
   {
    "date": "2026-11-19",
-   "views": 732
+   "views": 2733
   },
   {
    "date": "2026-11-20",
-   "views": 637
+   "views": 2510
   },
   {
    "date": "2026-11-21",
-   "views": 495
+   "views": 2830
   },
   {
    "date": "2026-11-22",
-   "views": 928
+   "views": 2355
   },
   {
    "date": "2026-11-23",
-   "views": 174912
+   "views": 2061
+  },
+  {
+   "date": "2026-11-24",
+   "views": 2166
+  },
+  {
+   "date": "2026-11-25",
+   "views": 63746
   }
  ],
- "wikipedia_title": "Blood",
+ "wikipedia_title": "Duran_Duran",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

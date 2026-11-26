@@ -1,197 +1,196 @@
 {
- "title": "Linux",
- "slug": "linux",
- "score": 36,
+ "title": "Zyri",
+ "slug": "zyri",
+ "score": 31,
  "status": "Breaking out",
- "change_percent": 1507,
- "growth_ratio": 16.07,
- "recent_avg": 60872,
- "baseline_avg": 3788,
- "explanation": "Attention is 16\u00d7 its 30-day baseline.",
+ "change_percent": null,
+ "growth_ratio": 241.61,
+ "recent_avg": 24161,
+ "baseline_avg": 0,
+ "explanation": "Attention is 242\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 57084,
- "latest": 177023,
+ "abs_change": 24161,
+ "latest": 72484,
  "components": {
-  "acceleration": 0.71,
+  "acceleration": 1.0,
   "anomaly": 1.0,
   "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.892,
-  "spike_quality": 0.574
+  "momentum": 0.8,
+  "volume": 0.692,
+  "spike_quality": 0.5
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 60,872 views/day over the last 3 days (30-day baseline: 3,788)."
+  "Averaging 24,161 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 3325
-  },
-  {
-   "date": "2026-10-16",
-   "views": 3216
-  },
-  {
    "date": "2026-10-17",
-   "views": 2698
+   "views": 0
   },
   {
    "date": "2026-10-18",
-   "views": 2770
+   "views": 0
   },
   {
    "date": "2026-10-19",
-   "views": 3469
+   "views": 0
   },
   {
    "date": "2026-10-20",
-   "views": 3313
+   "views": 0
   },
   {
    "date": "2026-10-21",
-   "views": 2982
+   "views": 0
   },
   {
    "date": "2026-10-22",
-   "views": 3529
+   "views": 0
   },
   {
    "date": "2026-10-23",
-   "views": 4798
+   "views": 0
   },
   {
    "date": "2026-10-24",
-   "views": 4779
+   "views": 0
   },
   {
    "date": "2026-10-25",
-   "views": 3393
+   "views": 0
   },
   {
    "date": "2026-10-26",
-   "views": 3626
+   "views": 0
   },
   {
    "date": "2026-10-27",
-   "views": 3925
+   "views": 0
   },
   {
    "date": "2026-10-28",
-   "views": 4984
+   "views": 0
   },
   {
    "date": "2026-10-29",
-   "views": 4403
+   "views": 0
   },
   {
    "date": "2026-10-30",
-   "views": 2830
+   "views": 0
   },
   {
    "date": "2026-10-31",
-   "views": 2537
+   "views": 0
   },
   {
    "date": "2026-11-01",
-   "views": 2996
+   "views": 0
   },
   {
    "date": "2026-11-02",
-   "views": 3432
+   "views": 0
   },
   {
    "date": "2026-11-03",
-   "views": 2973
+   "views": 0
   },
   {
    "date": "2026-11-04",
-   "views": 2905
+   "views": 0
   },
   {
    "date": "2026-11-05",
-   "views": 3326
+   "views": 0
   },
   {
    "date": "2026-11-06",
-   "views": 2619
+   "views": 0
   },
   {
    "date": "2026-11-07",
-   "views": 3160
+   "views": 0
   },
   {
    "date": "2026-11-08",
-   "views": 2829
+   "views": 0
   },
   {
    "date": "2026-11-09",
-   "views": 2795
+   "views": 0
   },
   {
    "date": "2026-11-10",
-   "views": 3262
+   "views": 0
   },
   {
    "date": "2026-11-11",
-   "views": 2867
+   "views": 0
   },
   {
    "date": "2026-11-12",
-   "views": 2961
+   "views": 0
   },
   {
    "date": "2026-11-13",
-   "views": 3980
+   "views": 0
   },
   {
    "date": "2026-11-14",
-   "views": 3610
+   "views": 0
   },
   {
    "date": "2026-11-15",
-   "views": 3532
+   "views": 0
   },
   {
    "date": "2026-11-16",
-   "views": 7263
+   "views": 0
   },
   {
    "date": "2026-11-17",
-   "views": 8825
+   "views": 0
   },
   {
    "date": "2026-11-18",
-   "views": 5682
+   "views": 0
   },
   {
    "date": "2026-11-19",
-   "views": 3049
+   "views": 0
   },
   {
    "date": "2026-11-20",
-   "views": 2758
+   "views": 0
   },
   {
    "date": "2026-11-21",
-   "views": 2641
+   "views": 0
   },
   {
    "date": "2026-11-22",
-   "views": 2951
+   "views": 0
   },
   {
    "date": "2026-11-23",
-   "views": 177023
+   "views": 0
+  },
+  {
+   "date": "2026-11-24",
+   "views": 0
+  },
+  {
+   "date": "2026-11-25",
+   "views": 72484
   }
  ],
- "wikipedia_title": "Linux",
+ "wikipedia_title": "Zyri",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

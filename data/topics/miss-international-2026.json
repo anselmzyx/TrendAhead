@@ -1,198 +1,197 @@
 {
- "title": "XXX (film series)",
- "slug": "xxx-film-series",
- "score": 46,
- "status": "Building",
- "change_percent": 135,
- "growth_ratio": 2.35,
- "recent_avg": 70207,
- "baseline_avg": 29879,
- "explanation": "Attention is 2.4\u00d7 its 30-day baseline.",
+ "title": "Miss International 2026",
+ "slug": "miss-international-2026",
+ "score": 58,
+ "status": "Breaking out",
+ "change_percent": 3859,
+ "growth_ratio": 39.59,
+ "recent_avg": 33418,
+ "baseline_avg": 844,
+ "explanation": "Attention is 40\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 40328,
- "latest": 78216,
+ "abs_change": 32574,
+ "latest": 93312,
  "components": {
-  "acceleration": 0.218,
-  "anomaly": 0.378,
-  "persistence": 0.8,
+  "acceleration": 0.94,
+  "anomaly": 1.0,
+  "persistence": 1.0,
   "momentum": 1.0,
-  "volume": 0.923,
-  "spike_quality": 0.96
+  "volume": 0.762,
+  "spike_quality": 0.568
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 70,207 views/day over the last 3 days (30-day baseline: 29,879)."
+  "Averaging 33,418 views/day over the last 3 days (30-day baseline: 844)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 20570
-  },
-  {
-   "date": "2026-10-16",
-   "views": 23616
-  },
-  {
    "date": "2026-10-17",
-   "views": 26817
+   "views": 559
   },
   {
    "date": "2026-10-18",
-   "views": 26433
+   "views": 493
   },
   {
    "date": "2026-10-19",
-   "views": 23447
+   "views": 413
   },
   {
    "date": "2026-10-20",
-   "views": 22593
+   "views": 369
   },
   {
    "date": "2026-10-21",
-   "views": 47276
+   "views": 457
   },
   {
    "date": "2026-10-22",
-   "views": 44394
+   "views": 458
   },
   {
    "date": "2026-10-23",
-   "views": 57259
+   "views": 537
   },
   {
    "date": "2026-10-24",
-   "views": 38914
+   "views": 469
   },
   {
    "date": "2026-10-25",
-   "views": 32051
+   "views": 530
   },
   {
    "date": "2026-10-26",
-   "views": 29451
+   "views": 438
   },
   {
    "date": "2026-10-27",
-   "views": 45271
+   "views": 498
   },
   {
    "date": "2026-10-28",
-   "views": 22408
+   "views": 535
   },
   {
    "date": "2026-10-29",
-   "views": 24922
+   "views": 551
   },
   {
    "date": "2026-10-30",
-   "views": 23153
+   "views": 558
   },
   {
    "date": "2026-10-31",
-   "views": 21616
+   "views": 508
   },
   {
    "date": "2026-11-01",
-   "views": 23200
+   "views": 472
   },
   {
    "date": "2026-11-02",
-   "views": 23540
+   "views": 526
   },
   {
    "date": "2026-11-03",
-   "views": 24090
+   "views": 425
   },
   {
    "date": "2026-11-04",
-   "views": 24900
+   "views": 470
   },
   {
    "date": "2026-11-05",
-   "views": 24974
+   "views": 566
   },
   {
    "date": "2026-11-06",
-   "views": 20492
+   "views": 532
   },
   {
    "date": "2026-11-07",
-   "views": 21093
+   "views": 795
   },
   {
    "date": "2026-11-08",
-   "views": 21286
+   "views": 747
   },
   {
    "date": "2026-11-09",
-   "views": 20651
+   "views": 618
   },
   {
    "date": "2026-11-10",
-   "views": 20591
+   "views": 670
   },
   {
    "date": "2026-11-11",
-   "views": 21064
+   "views": 796
   },
   {
    "date": "2026-11-12",
-   "views": 22454
+   "views": 848
   },
   {
    "date": "2026-11-13",
-   "views": 20065
+   "views": 1438
   },
   {
    "date": "2026-11-14",
-   "views": 41898
+   "views": 1301
   },
   {
    "date": "2026-11-15",
-   "views": 35361
+   "views": 1703
   },
   {
    "date": "2026-11-16",
-   "views": 33379
+   "views": 1394
   },
   {
    "date": "2026-11-17",
-   "views": 29688
+   "views": 1336
   },
   {
    "date": "2026-11-18",
-   "views": 40124
+   "views": 1136
   },
   {
    "date": "2026-11-19",
-   "views": 29389
+   "views": 1150
   },
   {
    "date": "2026-11-20",
-   "views": 58700
+   "views": 1269
   },
   {
    "date": "2026-11-21",
-   "views": 61892
+   "views": 1302
   },
   {
    "date": "2026-11-22",
-   "views": 70514
+   "views": 1744
   },
   {
    "date": "2026-11-23",
-   "views": 78216
+   "views": 2709
+  },
+  {
+   "date": "2026-11-24",
+   "views": 4232
+  },
+  {
+   "date": "2026-11-25",
+   "views": 93312
   }
  ],
- "wikipedia_title": "XXX_(film_series)",
+ "wikipedia_title": "Miss_International_2026",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

@@ -1,197 +1,196 @@
 {
- "title": "Russian corvette Merkury",
- "slug": "russian-corvette-merkury",
- "score": 53,
+ "title": "Martha Firestone Ford",
+ "slug": "martha-firestone-ford",
+ "score": 33,
  "status": "Breaking out",
- "change_percent": 281850,
- "growth_ratio": 620.29,
- "recent_avg": 62029,
- "baseline_avg": 22,
- "explanation": "Attention is 620\u00d7 its 30-day baseline.",
+ "change_percent": 12990,
+ "growth_ratio": 130.87,
+ "recent_avg": 37436,
+ "baseline_avg": 286,
+ "explanation": "Attention is 131\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 62007,
- "latest": 124318,
+ "abs_change": 37150,
+ "latest": 111793,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.896,
-  "spike_quality": 0.694
+  "persistence": 0.2,
+  "momentum": 0.8,
+  "volume": 0.787,
+  "spike_quality": 0.507
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 62,029 views/day over the last 3 days (30-day baseline: 22)."
+  "Averaging 37,436 views/day over the last 3 days (30-day baseline: 286)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 14
-  },
-  {
-   "date": "2026-10-16",
-   "views": 39
-  },
-  {
    "date": "2026-10-17",
-   "views": 25
+   "views": 254
   },
   {
    "date": "2026-10-18",
-   "views": 20
+   "views": 204
   },
   {
    "date": "2026-10-19",
-   "views": 19
+   "views": 232
   },
   {
    "date": "2026-10-20",
-   "views": 12
+   "views": 200
   },
   {
    "date": "2026-10-21",
-   "views": 20
+   "views": 173
   },
   {
    "date": "2026-10-22",
-   "views": 21
+   "views": 195
   },
   {
    "date": "2026-10-23",
-   "views": 19
+   "views": 215
   },
   {
    "date": "2026-10-24",
-   "views": 31
+   "views": 168
   },
   {
    "date": "2026-10-25",
-   "views": 14
+   "views": 540
   },
   {
    "date": "2026-10-26",
-   "views": 18
+   "views": 313
   },
   {
    "date": "2026-10-27",
-   "views": 33
+   "views": 272
   },
   {
    "date": "2026-10-28",
-   "views": 17
+   "views": 193
   },
   {
    "date": "2026-10-29",
-   "views": 29
+   "views": 217
   },
   {
    "date": "2026-10-30",
-   "views": 22
+   "views": 159
   },
   {
    "date": "2026-10-31",
-   "views": 22
+   "views": 172
   },
   {
    "date": "2026-11-01",
-   "views": 20
+   "views": 308
   },
   {
    "date": "2026-11-02",
-   "views": 34
+   "views": 274
   },
   {
    "date": "2026-11-03",
-   "views": 28
+   "views": 212
   },
   {
    "date": "2026-11-04",
-   "views": 24
+   "views": 166
   },
   {
    "date": "2026-11-05",
-   "views": 32
+   "views": 166
   },
   {
    "date": "2026-11-06",
-   "views": 18
+   "views": 170
   },
   {
    "date": "2026-11-07",
-   "views": 17
+   "views": 178
   },
   {
    "date": "2026-11-08",
-   "views": 18
+   "views": 444
   },
   {
    "date": "2026-11-09",
-   "views": 23
+   "views": 480
   },
   {
    "date": "2026-11-10",
-   "views": 12
+   "views": 393
   },
   {
    "date": "2026-11-11",
-   "views": 16
+   "views": 233
   },
   {
    "date": "2026-11-12",
-   "views": 29
+   "views": 208
   },
   {
    "date": "2026-11-13",
-   "views": 25
+   "views": 202
   },
   {
    "date": "2026-11-14",
-   "views": 14
+   "views": 506
   },
   {
    "date": "2026-11-15",
-   "views": 22
+   "views": 909
   },
   {
    "date": "2026-11-16",
-   "views": 23
+   "views": 307
   },
   {
    "date": "2026-11-17",
-   "views": 24
+   "views": 256
   },
   {
    "date": "2026-11-18",
-   "views": 24
+   "views": 202
   },
   {
    "date": "2026-11-19",
-   "views": 14
+   "views": 196
   },
   {
    "date": "2026-11-20",
-   "views": 22
+   "views": 226
   },
   {
    "date": "2026-11-21",
-   "views": 16
+   "views": 217
   },
   {
    "date": "2026-11-22",
-   "views": 61753
+   "views": 295
   },
   {
    "date": "2026-11-23",
-   "views": 124318
+   "views": 276
+  },
+  {
+   "date": "2026-11-24",
+   "views": 240
+  },
+  {
+   "date": "2026-11-25",
+   "views": 111793
   }
  ],
- "wikipedia_title": "Russian_corvette_Merkury",
+ "wikipedia_title": "Martha_Firestone_Ford",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

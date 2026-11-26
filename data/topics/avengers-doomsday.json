@@ -1,197 +1,197 @@
 {
- "title": "Joseph Zada",
- "slug": "joseph-zada",
- "score": 50,
+ "title": "Avengers: Doomsday",
+ "slug": "avengers-doomsday",
+ "score": 26,
  "status": "Elevated",
- "change_percent": 609,
- "growth_ratio": 7.09,
- "recent_avg": 86911,
- "baseline_avg": 12259,
- "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
+ "change_percent": 182,
+ "growth_ratio": 2.82,
+ "recent_avg": 105912,
+ "baseline_avg": 37561,
+ "explanation": "Attention is 2.8\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 74652,
- "latest": 79266,
+ "abs_change": 68351,
+ "latest": 81398,
  "components": {
-  "acceleration": 0.501,
-  "anomaly": 0.644,
-  "persistence": 0.92,
-  "momentum": 0.681,
-  "volume": 0.97,
-  "spike_quality": 0.847
+  "acceleration": 0.265,
+  "anomaly": 0.423,
+  "persistence": 0.52,
+  "momentum": 0.606,
+  "volume": 1.0,
+  "spike_quality": 0.775
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 86,911 views/day over the last 3 days (30-day baseline: 12,259)."
+  "Averaging 105,912 views/day over the last 3 days (30-day baseline: 37,561)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 9563
-  },
-  {
-   "date": "2026-10-16",
-   "views": 8847
-  },
-  {
    "date": "2026-10-17",
-   "views": 8609
+   "views": 20170
   },
   {
    "date": "2026-10-18",
-   "views": 9273
+   "views": 20669
   },
   {
    "date": "2026-10-19",
-   "views": 7660
+   "views": 19354
   },
   {
    "date": "2026-10-20",
-   "views": 6837
+   "views": 18200
   },
   {
    "date": "2026-10-21",
-   "views": 6513
+   "views": 17885
   },
   {
    "date": "2026-10-22",
-   "views": 5799
+   "views": 17660
   },
   {
    "date": "2026-10-23",
-   "views": 5666
+   "views": 20962
   },
   {
    "date": "2026-10-24",
-   "views": 6715
+   "views": 27470
   },
   {
    "date": "2026-10-25",
-   "views": 7079
+   "views": 28474
   },
   {
    "date": "2026-10-26",
-   "views": 7021
+   "views": 23757
   },
   {
    "date": "2026-10-27",
-   "views": 6008
+   "views": 20900
   },
   {
    "date": "2026-10-28",
-   "views": 7973
+   "views": 22381
   },
   {
    "date": "2026-10-29",
-   "views": 12837
+   "views": 83193
   },
   {
    "date": "2026-10-30",
-   "views": 8094
+   "views": 78283
   },
   {
    "date": "2026-10-31",
-   "views": 6763
+   "views": 32943
   },
   {
    "date": "2026-11-01",
-   "views": 6738
+   "views": 29450
   },
   {
    "date": "2026-11-02",
-   "views": 6504
+   "views": 27196
   },
   {
    "date": "2026-11-03",
-   "views": 8833
+   "views": 23914
   },
   {
    "date": "2026-11-04",
-   "views": 7081
+   "views": 22459
   },
   {
    "date": "2026-11-05",
-   "views": 6562
+   "views": 22805
   },
   {
    "date": "2026-11-06",
-   "views": 6942
+   "views": 23622
   },
   {
    "date": "2026-11-07",
-   "views": 7484
+   "views": 23631
   },
   {
    "date": "2026-11-08",
-   "views": 7656
+   "views": 24482
   },
   {
    "date": "2026-11-09",
-   "views": 7711
+   "views": 24834
   },
   {
    "date": "2026-11-10",
-   "views": 6925
+   "views": 23643
   },
   {
    "date": "2026-11-11",
-   "views": 7198
+   "views": 57477
   },
   {
    "date": "2026-11-12",
-   "views": 11793
+   "views": 50281
   },
   {
    "date": "2026-11-13",
-   "views": 9549
+   "views": 49416
   },
   {
    "date": "2026-11-14",
-   "views": 11134
+   "views": 49288
   },
   {
    "date": "2026-11-15",
-   "views": 12430
+   "views": 48794
   },
   {
    "date": "2026-11-16",
-   "views": 10803
+   "views": 49525
   },
   {
    "date": "2026-11-17",
-   "views": 30292
+   "views": 49748
   },
   {
    "date": "2026-11-18",
-   "views": 33342
+   "views": 50378
   },
   {
    "date": "2026-11-19",
-   "views": 36994
+   "views": 44516
   },
   {
    "date": "2026-11-20",
-   "views": 57846
+   "views": 38820
   },
   {
    "date": "2026-11-21",
-   "views": 82604
+   "views": 36675
   },
   {
    "date": "2026-11-22",
-   "views": 98864
+   "views": 38467
   },
   {
    "date": "2026-11-23",
-   "views": 79266
+   "views": 116097
+  },
+  {
+   "date": "2026-11-24",
+   "views": 120242
+  },
+  {
+   "date": "2026-11-25",
+   "views": 81398
   }
  ],
- "wikipedia_title": "Joseph_Zada",
+ "wikipedia_title": "Avengers:_Doomsday",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

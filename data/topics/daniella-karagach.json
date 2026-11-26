@@ -1,198 +1,197 @@
 {
- "title": "Mariella Frostrup",
- "slug": "mariella-frostrup",
- "score": 61,
- "status": "Building",
- "change_percent": 765,
- "growth_ratio": 8.65,
- "recent_avg": 81520,
- "baseline_avg": 9422,
- "explanation": "Attention is 8.7\u00d7 its 30-day baseline.",
+ "title": "Daniella Karagach",
+ "slug": "daniella-karagach",
+ "score": 25,
+ "status": "Breaking out",
+ "change_percent": 609,
+ "growth_ratio": 7.09,
+ "recent_avg": 30572,
+ "baseline_avg": 4311,
+ "explanation": "Attention is 7.1\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 72098,
- "latest": 110614,
+ "abs_change": 26261,
+ "latest": 86573,
  "components": {
-  "acceleration": 0.552,
-  "anomaly": 0.353,
-  "persistence": 0.92,
+  "acceleration": 0.501,
+  "anomaly": 0.626,
+  "persistence": 0.2,
   "momentum": 1.0,
-  "volume": 0.956,
-  "spike_quality": 0.946
+  "volume": 0.743,
+  "spike_quality": 0.618
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 81,520 views/day over the last 3 days (30-day baseline: 9,422)."
+  "Averaging 30,572 views/day over the last 3 days (30-day baseline: 4,311)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 217
-  },
-  {
-   "date": "2026-10-16",
-   "views": 342
-  },
-  {
    "date": "2026-10-17",
-   "views": 219
+   "views": 4269
   },
   {
    "date": "2026-10-18",
-   "views": 139
+   "views": 3924
   },
   {
    "date": "2026-10-19",
-   "views": 172
+   "views": 2844
   },
   {
    "date": "2026-10-20",
-   "views": 131
+   "views": 2400
   },
   {
    "date": "2026-10-21",
-   "views": 1763
+   "views": 25940
   },
   {
    "date": "2026-10-22",
-   "views": 205
+   "views": 9940
   },
   {
    "date": "2026-10-23",
-   "views": 190
+   "views": 6950
   },
   {
    "date": "2026-10-24",
-   "views": 131
+   "views": 5080
   },
   {
    "date": "2026-10-25",
-   "views": 153
+   "views": 3196
   },
   {
    "date": "2026-10-26",
-   "views": 190
+   "views": 2550
   },
   {
    "date": "2026-10-27",
-   "views": 152
+   "views": 2216
   },
   {
    "date": "2026-10-28",
-   "views": 375
+   "views": 8171
   },
   {
    "date": "2026-10-29",
-   "views": 173
+   "views": 5005
   },
   {
    "date": "2026-10-30",
-   "views": 172
+   "views": 3041
   },
   {
    "date": "2026-10-31",
-   "views": 200
+   "views": 2428
   },
   {
    "date": "2026-11-01",
-   "views": 215
+   "views": 2204
   },
   {
    "date": "2026-11-02",
-   "views": 3172
+   "views": 1845
   },
   {
    "date": "2026-11-03",
-   "views": 1309
+   "views": 6843
   },
   {
    "date": "2026-11-04",
-   "views": 513
+   "views": 3312
   },
   {
    "date": "2026-11-05",
-   "views": 390
+   "views": 2693
   },
   {
    "date": "2026-11-06",
-   "views": 419
+   "views": 2052
   },
   {
    "date": "2026-11-07",
-   "views": 378
+   "views": 2340
   },
   {
    "date": "2026-11-08",
-   "views": 396
+   "views": 1776
   },
   {
    "date": "2026-11-09",
-   "views": 461
+   "views": 1497
   },
   {
    "date": "2026-11-10",
-   "views": 1666
+   "views": 1363
   },
   {
    "date": "2026-11-11",
-   "views": 5997
+   "views": 20767
   },
   {
    "date": "2026-11-12",
-   "views": 2821
+   "views": 6745
   },
   {
    "date": "2026-11-13",
-   "views": 1580
+   "views": 3690
   },
   {
    "date": "2026-11-14",
-   "views": 1465
+   "views": 2604
   },
   {
    "date": "2026-11-15",
-   "views": 2606
+   "views": 2077
   },
   {
    "date": "2026-11-16",
-   "views": 31135
+   "views": 1744
   },
   {
    "date": "2026-11-17",
-   "views": 85178
+   "views": 1557
   },
   {
    "date": "2026-11-18",
-   "views": 59061
+   "views": 15625
   },
   {
    "date": "2026-11-19",
-   "views": 38994
+   "views": 7808
   },
   {
    "date": "2026-11-20",
-   "views": 42972
+   "views": 3914
   },
   {
    "date": "2026-11-21",
-   "views": 63411
+   "views": 2818
   },
   {
    "date": "2026-11-22",
-   "views": 70535
+   "views": 2383
   },
   {
    "date": "2026-11-23",
-   "views": 110614
+   "views": 2506
+  },
+  {
+   "date": "2026-11-24",
+   "views": 2637
+  },
+  {
+   "date": "2026-11-25",
+   "views": 86573
   }
  ],
- "wikipedia_title": "Mariella_Frostrup",
+ "wikipedia_title": "Daniella_Karagach",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }

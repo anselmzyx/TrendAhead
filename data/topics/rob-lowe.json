@@ -1,197 +1,198 @@
 {
- "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
- "slug": "the-hunger-games-the-ballad-of-songbirds-snakes",
- "score": 44,
- "status": "Elevated",
- "change_percent": 363,
- "growth_ratio": 4.63,
- "recent_avg": 66044,
- "baseline_avg": 14271,
- "explanation": "Attention is 4.6\u00d7 its 30-day baseline.",
+ "title": "Rob Lowe",
+ "slug": "rob-lowe",
+ "score": 36,
+ "status": "Building",
+ "change_percent": 402,
+ "growth_ratio": 5.02,
+ "recent_avg": 37043,
+ "baseline_avg": 7373,
+ "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 51773,
- "latest": 62379,
+ "abs_change": 29670,
+ "latest": 70671,
  "components": {
-  "acceleration": 0.392,
-  "anomaly": 0.445,
-  "persistence": 0.92,
-  "momentum": 0.702,
-  "volume": 0.91,
-  "spike_quality": 0.882
+  "acceleration": 0.413,
+  "anomaly": 0.742,
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.784,
+  "spike_quality": 0.813
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 66,044 views/day over the last 3 days (30-day baseline: 14,271)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 37,043 views/day over the last 3 days (30-day baseline: 7,373)."
  ],
  "history": [
   {
-   "date": "2026-10-15",
-   "views": 3893
-  },
-  {
-   "date": "2026-10-16",
-   "views": 4301
-  },
-  {
    "date": "2026-10-17",
-   "views": 5279
+   "views": 6714
   },
   {
    "date": "2026-10-18",
-   "views": 5261
+   "views": 6444
   },
   {
    "date": "2026-10-19",
-   "views": 4611
+   "views": 5564
   },
   {
    "date": "2026-10-20",
-   "views": 5206
+   "views": 4614
   },
   {
    "date": "2026-10-21",
-   "views": 4804
+   "views": 4473
   },
   {
    "date": "2026-10-22",
-   "views": 3962
+   "views": 6179
   },
   {
    "date": "2026-10-23",
-   "views": 4269
+   "views": 5091
   },
   {
    "date": "2026-10-24",
-   "views": 5056
+   "views": 4764
   },
   {
    "date": "2026-10-25",
-   "views": 6426
+   "views": 5174
   },
   {
    "date": "2026-10-26",
-   "views": 6010
+   "views": 4485
   },
   {
    "date": "2026-10-27",
-   "views": 4929
+   "views": 4135
   },
   {
    "date": "2026-10-28",
-   "views": 8140
+   "views": 4207
   },
   {
    "date": "2026-10-29",
-   "views": 10325
+   "views": 4122
   },
   {
    "date": "2026-10-30",
-   "views": 8028
+   "views": 4120
   },
   {
    "date": "2026-10-31",
-   "views": 7818
+   "views": 4517
   },
   {
    "date": "2026-11-01",
-   "views": 9178
+   "views": 5774
   },
   {
    "date": "2026-11-02",
-   "views": 8687
+   "views": 5609
   },
   {
    "date": "2026-11-03",
-   "views": 9082
+   "views": 5330
   },
   {
    "date": "2026-11-04",
-   "views": 7848
+   "views": 6001
   },
   {
    "date": "2026-11-05",
-   "views": 8180
+   "views": 6688
   },
   {
    "date": "2026-11-06",
-   "views": 9048
+   "views": 4946
   },
   {
    "date": "2026-11-07",
-   "views": 11248
+   "views": 5415
   },
   {
    "date": "2026-11-08",
-   "views": 13764
+   "views": 5425
   },
   {
    "date": "2026-11-09",
-   "views": 11382
+   "views": 4828
   },
   {
    "date": "2026-11-10",
-   "views": 10187
+   "views": 4920
   },
   {
    "date": "2026-11-11",
-   "views": 11269
+   "views": 5713
   },
   {
    "date": "2026-11-12",
-   "views": 11063
+   "views": 9017
   },
   {
    "date": "2026-11-13",
-   "views": 13417
+   "views": 9495
   },
   {
    "date": "2026-11-14",
-   "views": 21620
+   "views": 8786
   },
   {
    "date": "2026-11-15",
-   "views": 22454
+   "views": 9227
   },
   {
    "date": "2026-11-16",
-   "views": 19436
+   "views": 7851
   },
   {
    "date": "2026-11-17",
-   "views": 38771
+   "views": 22602
   },
   {
    "date": "2026-11-18",
-   "views": 37734
+   "views": 16662
   },
   {
    "date": "2026-11-19",
-   "views": 38998
+   "views": 11346
   },
   {
    "date": "2026-11-20",
-   "views": 49808
+   "views": 10849
   },
   {
    "date": "2026-11-21",
-   "views": 61181
+   "views": 10059
   },
   {
    "date": "2026-11-22",
-   "views": 74573
+   "views": 9135
   },
   {
    "date": "2026-11-23",
-   "views": 62379
+   "views": 7788
+  },
+  {
+   "date": "2026-11-24",
+   "views": 32671
+  },
+  {
+   "date": "2026-11-25",
+   "views": 70671
   }
  ],
- "wikipedia_title": "The_Hunger_Games:_The_Ballad_of_Songbirds_&_Snakes",
+ "wikipedia_title": "Rob_Lowe",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-23",
- "generated_at_utc": "2026-11-24T16:18:54+00:00"
+ "data_through": "2026-11-25",
+ "generated_at_utc": "2026-11-26T15:42:11+00:00"
 }
