@@ -1,37 +1,34 @@
 {
  "title": "Jennifer Barreto",
  "slug": "jennifer-barreto",
- "score": 54,
- "status": "Breaking out",
- "change_percent": 10830,
- "growth_ratio": 109.22,
- "recent_avg": 52685,
- "baseline_avg": 482,
- "explanation": "Attention is 109\u00d7 its 30-day baseline.",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 10539,
+ "growth_ratio": 106.36,
+ "recent_avg": 66069,
+ "baseline_avg": 621,
+ "explanation": "Attention surged to 106\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 52203,
- "latest": 149785,
+ "abs_change": 65448,
+ "latest": 44527,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.92,
-  "momentum": 0.867,
-  "volume": 0.861,
-  "spike_quality": 0.545
+  "persistence": 0.84,
+  "momentum": 0.312,
+  "volume": 0.91,
+  "spike_quality": 0.308
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 52,685 views/day over the last 3 days (30-day baseline: 482)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 66,069 views/day over the last 3 days (30-day baseline: 621)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 226
-  },
   {
    "date": "2026-10-18",
    "views": 208
@@ -187,11 +184,15 @@
   {
    "date": "2026-11-25",
    "views": 149785
+  },
+  {
+   "date": "2026-11-26",
+   "views": 44527
   }
  ],
  "wikipedia_title": "Jennifer_Barreto",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

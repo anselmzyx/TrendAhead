@@ -1,37 +1,34 @@
 {
  "title": "Iowa lead azide detonation",
  "slug": "iowa-lead-azide-detonation",
- "score": 39,
+ "score": 65,
  "status": "Breaking out",
  "change_percent": null,
- "growth_ratio": 267.7,
- "recent_avg": 26770,
+ "growth_ratio": 562.84,
+ "recent_avg": 56284,
  "baseline_avg": 0,
- "explanation": "Attention is 268\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 563\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26770,
- "latest": 78852,
+ "abs_change": 56284,
+ "latest": 88544,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.714,
-  "spike_quality": 0.511
+  "persistence": 0.6,
+  "momentum": 1.0,
+  "volume": 0.875,
+  "spike_quality": 0.777
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 26,770 views/day over the last 3 days (30-day baseline: 0)."
+  "Averaging 56,284 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 0
-  },
   {
    "date": "2026-10-18",
    "views": 0
@@ -187,11 +184,15 @@
   {
    "date": "2026-11-25",
    "views": 78852
+  },
+  {
+   "date": "2026-11-26",
+   "views": 88544
   }
  ],
  "wikipedia_title": "Iowa_lead_azide_detonation",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

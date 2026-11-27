@@ -1,197 +1,197 @@
 {
- "title": "Avengers: Doomsday",
- "slug": "avengers-doomsday",
- "score": 26,
- "status": "Elevated",
- "change_percent": 182,
- "growth_ratio": 2.82,
- "recent_avg": 105912,
- "baseline_avg": 37561,
- "explanation": "Attention is 2.8\u00d7 its 30-day baseline.",
+ "title": "Veruschka",
+ "slug": "veruschka",
+ "score": 54,
+ "status": "Breaking out",
+ "change_percent": 17231,
+ "growth_ratio": 173.6,
+ "recent_avg": 37955,
+ "baseline_avg": 219,
+ "explanation": "Attention is 174\u00d7 its 30-day baseline.",
  "discovery": [
-  "improver"
+  "new entrant"
  ],
- "abs_change": 68351,
- "latest": 81398,
+ "abs_change": 37736,
+ "latest": 81230,
  "components": {
-  "acceleration": 0.265,
-  "anomaly": 0.423,
-  "persistence": 0.52,
-  "momentum": 0.606,
-  "volume": 1.0,
-  "spike_quality": 0.775
+  "acceleration": 1.0,
+  "anomaly": 1.0,
+  "persistence": 0.6,
+  "momentum": 0.933,
+  "volume": 0.79,
+  "spike_quality": 0.671
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 105,912 views/day over the last 3 days (30-day baseline: 37,561)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 37,955 views/day over the last 3 days (30-day baseline: 219)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 20170
-  },
-  {
    "date": "2026-10-18",
-   "views": 20669
+   "views": 126
   },
   {
    "date": "2026-10-19",
-   "views": 19354
+   "views": 144
   },
   {
    "date": "2026-10-20",
-   "views": 18200
+   "views": 123
   },
   {
    "date": "2026-10-21",
-   "views": 17885
+   "views": 130
   },
   {
    "date": "2026-10-22",
-   "views": 17660
+   "views": 135
   },
   {
    "date": "2026-10-23",
-   "views": 20962
+   "views": 191
   },
   {
    "date": "2026-10-24",
-   "views": 27470
+   "views": 207
   },
   {
    "date": "2026-10-25",
-   "views": 28474
+   "views": 230
   },
   {
    "date": "2026-10-26",
-   "views": 23757
+   "views": 187
   },
   {
    "date": "2026-10-27",
-   "views": 20900
+   "views": 163
   },
   {
    "date": "2026-10-28",
-   "views": 22381
+   "views": 215
   },
   {
    "date": "2026-10-29",
-   "views": 83193
+   "views": 184
   },
   {
    "date": "2026-10-30",
-   "views": 78283
+   "views": 185
   },
   {
    "date": "2026-10-31",
-   "views": 32943
+   "views": 179
   },
   {
    "date": "2026-11-01",
-   "views": 29450
+   "views": 160
   },
   {
    "date": "2026-11-02",
-   "views": 27196
+   "views": 167
   },
   {
    "date": "2026-11-03",
-   "views": 23914
+   "views": 147
   },
   {
    "date": "2026-11-04",
-   "views": 22459
+   "views": 146
   },
   {
    "date": "2026-11-05",
-   "views": 22805
+   "views": 188
   },
   {
    "date": "2026-11-06",
-   "views": 23622
+   "views": 170
   },
   {
    "date": "2026-11-07",
-   "views": 23631
+   "views": 172
   },
   {
    "date": "2026-11-08",
-   "views": 24482
+   "views": 193
   },
   {
    "date": "2026-11-09",
-   "views": 24834
+   "views": 160
   },
   {
    "date": "2026-11-10",
-   "views": 23643
+   "views": 250
   },
   {
    "date": "2026-11-11",
-   "views": 57477
+   "views": 430
   },
   {
    "date": "2026-11-12",
-   "views": 50281
+   "views": 244
   },
   {
    "date": "2026-11-13",
-   "views": 49416
+   "views": 267
   },
   {
    "date": "2026-11-14",
-   "views": 49288
+   "views": 220
   },
   {
    "date": "2026-11-15",
-   "views": 48794
+   "views": 263
   },
   {
    "date": "2026-11-16",
-   "views": 49525
+   "views": 277
   },
   {
    "date": "2026-11-17",
-   "views": 49748
+   "views": 285
   },
   {
    "date": "2026-11-18",
-   "views": 50378
+   "views": 234
   },
   {
    "date": "2026-11-19",
-   "views": 44516
+   "views": 218
   },
   {
    "date": "2026-11-20",
-   "views": 38820
+   "views": 225
   },
   {
    "date": "2026-11-21",
-   "views": 36675
+   "views": 239
   },
   {
    "date": "2026-11-22",
-   "views": 38467
+   "views": 336
   },
   {
    "date": "2026-11-23",
-   "views": 116097
+   "views": 225
   },
   {
    "date": "2026-11-24",
-   "views": 120242
+   "views": 213
   },
   {
    "date": "2026-11-25",
-   "views": 81398
+   "views": 32422
+  },
+  {
+   "date": "2026-11-26",
+   "views": 81230
   }
  ],
- "wikipedia_title": "Avengers:_Doomsday",
+ "wikipedia_title": "Veruschka",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

@@ -1,197 +1,198 @@
 {
- "title": "Killing of JonBen\u00e9t Ramsey",
- "slug": "killing-of-jonbenet-ramsey",
- "score": 18,
- "status": "Elevated",
- "change_percent": 264,
- "growth_ratio": 3.64,
- "recent_avg": 41585,
- "baseline_avg": 11418,
- "explanation": "Attention is 3.6\u00d7 its 30-day baseline.",
+ "title": "Thanksgiving",
+ "slug": "thanksgiving",
+ "score": 67,
+ "status": "Building",
+ "change_percent": 748,
+ "growth_ratio": 8.48,
+ "recent_avg": 54558,
+ "baseline_avg": 6437,
+ "explanation": "Attention is 8.5\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 30167,
- "latest": 50556,
+ "abs_change": 48121,
+ "latest": 101703,
  "components": {
-  "acceleration": 0.33,
-  "anomaly": 0.308,
-  "persistence": 0.32,
-  "momentum": 0.669,
-  "volume": 0.809,
-  "spike_quality": 0.732
+  "acceleration": 0.546,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.868,
+  "spike_quality": 0.81
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "Averaging 41,585 views/day over the last 3 days (30-day baseline: 11,418)."
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 54,558 views/day over the last 3 days (30-day baseline: 6,437)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 4063
-  },
-  {
    "date": "2026-10-18",
-   "views": 3320
+   "views": 1818
   },
   {
    "date": "2026-10-19",
-   "views": 3634
+   "views": 1990
   },
   {
    "date": "2026-10-20",
-   "views": 3416
+   "views": 1986
   },
   {
    "date": "2026-10-21",
-   "views": 3397
+   "views": 1975
   },
   {
    "date": "2026-10-22",
-   "views": 3560
+   "views": 2078
   },
   {
    "date": "2026-10-23",
-   "views": 3191
+   "views": 2021
   },
   {
    "date": "2026-10-24",
-   "views": 2839
+   "views": 1875
   },
   {
    "date": "2026-10-25",
-   "views": 3800
+   "views": 2181
   },
   {
    "date": "2026-10-26",
-   "views": 3802
+   "views": 2696
   },
   {
    "date": "2026-10-27",
-   "views": 3725
+   "views": 2564
   },
   {
    "date": "2026-10-28",
-   "views": 3808
+   "views": 2631
   },
   {
    "date": "2026-10-29",
-   "views": 3485
+   "views": 2837
   },
   {
    "date": "2026-10-30",
-   "views": 3730
+   "views": 2944
   },
   {
    "date": "2026-10-31",
-   "views": 3446
+   "views": 3417
   },
   {
    "date": "2026-11-01",
-   "views": 3170
+   "views": 5129
   },
   {
    "date": "2026-11-02",
-   "views": 3209
+   "views": 5568
   },
   {
    "date": "2026-11-03",
-   "views": 11589
+   "views": 4744
   },
   {
    "date": "2026-11-04",
-   "views": 8023
+   "views": 4529
   },
   {
    "date": "2026-11-05",
-   "views": 8447
+   "views": 5078
   },
   {
    "date": "2026-11-06",
-   "views": 22691
+   "views": 4973
   },
   {
    "date": "2026-11-07",
-   "views": 46363
+   "views": 4334
   },
   {
    "date": "2026-11-08",
-   "views": 22686
+   "views": 4732
   },
   {
    "date": "2026-11-09",
-   "views": 18723
+   "views": 5972
   },
   {
    "date": "2026-11-10",
-   "views": 14213
+   "views": 5723
   },
   {
    "date": "2026-11-11",
-   "views": 34695
+   "views": 5899
   },
   {
    "date": "2026-11-12",
-   "views": 20140
+   "views": 6155
   },
   {
    "date": "2026-11-13",
-   "views": 14416
+   "views": 6434
   },
   {
    "date": "2026-11-14",
-   "views": 11318
+   "views": 5906
   },
   {
    "date": "2026-11-15",
-   "views": 12817
+   "views": 6713
   },
   {
    "date": "2026-11-16",
-   "views": 11779
+   "views": 9080
   },
   {
    "date": "2026-11-17",
-   "views": 9933
+   "views": 8914
   },
   {
    "date": "2026-11-18",
-   "views": 8368
+   "views": 9347
   },
   {
    "date": "2026-11-19",
-   "views": 6233
+   "views": 11132
   },
   {
    "date": "2026-11-20",
-   "views": 7518
+   "views": 11714
   },
   {
    "date": "2026-11-21",
-   "views": 8352
+   "views": 9830
   },
   {
    "date": "2026-11-22",
-   "views": 9220
+   "views": 13242
   },
   {
    "date": "2026-11-23",
-   "views": 9468
+   "views": 18682
   },
   {
    "date": "2026-11-24",
-   "views": 64731
+   "views": 24079
   },
   {
    "date": "2026-11-25",
-   "views": 50556
+   "views": 37893
+  },
+  {
+   "date": "2026-11-26",
+   "views": 101703
   }
  ],
- "wikipedia_title": "Killing_of_JonBen\u00e9t_Ramsey",
+ "wikipedia_title": "Thanksgiving",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

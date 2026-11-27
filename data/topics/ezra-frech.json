@@ -1,37 +1,34 @@
 {
  "title": "Ezra Frech",
  "slug": "ezra-frech",
- "score": 34,
- "status": "Breaking out",
- "change_percent": 1071,
- "growth_ratio": 11.71,
- "recent_avg": 89305,
- "baseline_avg": 7625,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "score": 25,
+ "status": "Peaked / fading",
+ "change_percent": 1620,
+ "growth_ratio": 17.2,
+ "recent_avg": 128279,
+ "baseline_avg": 7459,
+ "explanation": "Attention surged to 17\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 81680,
- "latest": 260732,
+ "abs_change": 120820,
+ "latest": 119420,
  "components": {
-  "acceleration": 0.629,
-  "anomaly": 0.963,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.975,
-  "spike_quality": 0.555
+  "acceleration": 0.727,
+  "anomaly": 1.0,
+  "persistence": 0.32,
+  "momentum": 0.475,
+  "volume": 1.0,
+  "spike_quality": 0.431
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 89,305 views/day over the last 3 days (30-day baseline: 7,625)."
+  "Much of the recent traffic arrived in a short burst \u2014 a spike pattern rather than steady growth.",
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 128,279 views/day over the last 3 days (30-day baseline: 7,459)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 6402
-  },
   {
    "date": "2026-10-18",
    "views": 5543
@@ -187,11 +184,15 @@
   {
    "date": "2026-11-25",
    "views": 260732
+  },
+  {
+   "date": "2026-11-26",
+   "views": 119420
   }
  ],
  "wikipedia_title": "Ezra_Frech",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

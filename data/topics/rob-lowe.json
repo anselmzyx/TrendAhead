@@ -1,38 +1,33 @@
 {
  "title": "Rob Lowe",
  "slug": "rob-lowe",
- "score": 36,
- "status": "Building",
- "change_percent": 402,
- "growth_ratio": 5.02,
- "recent_avg": 37043,
- "baseline_avg": 7373,
- "explanation": "Attention is 5.0\u00d7 its 30-day baseline.",
+ "score": 41,
+ "status": "Elevated",
+ "change_percent": 625,
+ "growth_ratio": 7.25,
+ "recent_avg": 54155,
+ "baseline_avg": 7474,
+ "explanation": "Attention is 7.2\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 29670,
- "latest": 70671,
+ "abs_change": 46681,
+ "latest": 59123,
  "components": {
-  "acceleration": 0.413,
-  "anomaly": 0.742,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.784,
-  "spike_quality": 0.813
+  "acceleration": 0.506,
+  "anomaly": 1.0,
+  "persistence": 0.52,
+  "momentum": 0.702,
+  "volume": 0.867,
+  "spike_quality": 0.796
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Interest has stayed elevated for more than one day.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 37,043 views/day over the last 3 days (30-day baseline: 7,373)."
+  "Averaging 54,155 views/day over the last 3 days (30-day baseline: 7,474)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 6714
-  },
   {
    "date": "2026-10-18",
    "views": 6444
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-25",
    "views": 70671
+  },
+  {
+   "date": "2026-11-26",
+   "views": 59123
   }
  ],
  "wikipedia_title": "Rob_Lowe",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

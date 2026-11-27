@@ -1,197 +1,198 @@
 {
- "title": "Raheem Sterling",
- "slug": "raheem-sterling",
- "score": 31,
+ "title": "The Mosquito Bowl",
+ "slug": "the-mosquito-bowl",
+ "score": 28,
  "status": "Breaking out",
- "change_percent": 1146,
- "growth_ratio": 12.46,
- "recent_avg": 25515,
- "baseline_avg": 2047,
- "explanation": "Attention is 12\u00d7 its 30-day baseline.",
+ "change_percent": 315,
+ "growth_ratio": 4.15,
+ "recent_avg": 36204,
+ "baseline_avg": 8722,
+ "explanation": "Attention is 4.2\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 23468,
- "latest": 71889,
+ "abs_change": 27482,
+ "latest": 65116,
  "components": {
-  "acceleration": 0.645,
-  "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.703,
-  "spike_quality": 0.589
+  "acceleration": 0.364,
+  "anomaly": 0.372,
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 0.779,
+  "spike_quality": 0.776
  },
  "why": [
-  "Recent attention is far above this topic's own 30-day normal.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
+  "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 25,515 views/day over the last 3 days (30-day baseline: 2,047)."
+  "Averaging 36,204 views/day over the last 3 days (30-day baseline: 8,722)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 2366
-  },
-  {
    "date": "2026-10-18",
-   "views": 2080
+   "views": 5913
   },
   {
    "date": "2026-10-19",
-   "views": 2183
+   "views": 5338
   },
   {
    "date": "2026-10-20",
-   "views": 2561
+   "views": 4918
   },
   {
    "date": "2026-10-21",
-   "views": 2551
+   "views": 6402
   },
   {
    "date": "2026-10-22",
-   "views": 1783
+   "views": 7123
   },
   {
    "date": "2026-10-23",
-   "views": 1670
+   "views": 8343
   },
   {
    "date": "2026-10-24",
-   "views": 2033
+   "views": 10065
   },
   {
    "date": "2026-10-25",
-   "views": 1868
+   "views": 35708
   },
   {
    "date": "2026-10-26",
-   "views": 1645
+   "views": 22654
   },
   {
    "date": "2026-10-27",
-   "views": 1954
+   "views": 17539
   },
   {
    "date": "2026-10-28",
-   "views": 2411
+   "views": 14411
   },
   {
    "date": "2026-10-29",
-   "views": 1866
+   "views": 14422
   },
   {
    "date": "2026-10-30",
-   "views": 1696
+   "views": 17557
   },
   {
    "date": "2026-10-31",
-   "views": 2371
+   "views": 17665
   },
   {
    "date": "2026-11-01",
-   "views": 2549
+   "views": 10868
   },
   {
    "date": "2026-11-02",
-   "views": 1880
+   "views": 8552
   },
   {
    "date": "2026-11-03",
-   "views": 1738
+   "views": 5928
   },
   {
    "date": "2026-11-04",
-   "views": 1705
+   "views": 4427
   },
   {
    "date": "2026-11-05",
-   "views": 1472
+   "views": 5019
   },
   {
    "date": "2026-11-06",
-   "views": 1579
+   "views": 5010
   },
   {
    "date": "2026-11-07",
-   "views": 1906
+   "views": 11900
   },
   {
    "date": "2026-11-08",
-   "views": 2220
+   "views": 8742
   },
   {
    "date": "2026-11-09",
-   "views": 2515
+   "views": 5724
   },
   {
    "date": "2026-11-10",
-   "views": 2109
+   "views": 4087
   },
   {
    "date": "2026-11-11",
-   "views": 2461
+   "views": 6293
   },
   {
    "date": "2026-11-12",
-   "views": 2584
+   "views": 6219
   },
   {
    "date": "2026-11-13",
-   "views": 2042
+   "views": 4711
   },
   {
    "date": "2026-11-14",
-   "views": 2123
+   "views": 4316
   },
   {
    "date": "2026-11-15",
-   "views": 2807
+   "views": 3880
   },
   {
    "date": "2026-11-16",
-   "views": 2264
+   "views": 2987
   },
   {
    "date": "2026-11-17",
-   "views": 1791
+   "views": 2743
   },
   {
    "date": "2026-11-18",
-   "views": 1549
+   "views": 2823
   },
   {
    "date": "2026-11-19",
-   "views": 1917
+   "views": 2554
   },
   {
    "date": "2026-11-20",
-   "views": 1526
+   "views": 3289
   },
   {
    "date": "2026-11-21",
-   "views": 1953
+   "views": 4395
   },
   {
    "date": "2026-11-22",
-   "views": 2882
+   "views": 3312
   },
   {
    "date": "2026-11-23",
-   "views": 2301
+   "views": 3919
   },
   {
    "date": "2026-11-24",
-   "views": 2354
+   "views": 5294
   },
   {
    "date": "2026-11-25",
-   "views": 71889
+   "views": 38202
+  },
+  {
+   "date": "2026-11-26",
+   "views": 65116
   }
  ],
- "wikipedia_title": "Raheem_Sterling",
+ "wikipedia_title": "The_Mosquito_Bowl",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

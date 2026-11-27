@@ -1,197 +1,197 @@
 {
- "title": "Miss International 2026",
- "slug": "miss-international-2026",
- "score": 58,
+ "title": "Wu-Tang Clan",
+ "slug": "wu-tang-clan",
+ "score": 35,
  "status": "Breaking out",
- "change_percent": 3859,
- "growth_ratio": 39.59,
- "recent_avg": 33418,
- "baseline_avg": 844,
- "explanation": "Attention is 40\u00d7 its 30-day baseline.",
+ "change_percent": 1260,
+ "growth_ratio": 13.6,
+ "recent_avg": 51618,
+ "baseline_avg": 3796,
+ "explanation": "Attention is 14\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 32574,
- "latest": 93312,
+ "abs_change": 47822,
+ "latest": 147607,
  "components": {
-  "acceleration": 0.94,
+  "acceleration": 0.667,
   "anomaly": 1.0,
-  "persistence": 1.0,
+  "persistence": 0.2,
   "momentum": 1.0,
-  "volume": 0.762,
-  "spike_quality": 0.568
+  "volume": 0.856,
+  "spike_quality": 0.571
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated and kept climbing across recent days.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 33,418 views/day over the last 3 days (30-day baseline: 844)."
+  "Averaging 51,618 views/day over the last 3 days (30-day baseline: 3,796)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 559
-  },
-  {
    "date": "2026-10-18",
-   "views": 493
+   "views": 4787
   },
   {
    "date": "2026-10-19",
-   "views": 413
+   "views": 4345
   },
   {
    "date": "2026-10-20",
-   "views": 369
+   "views": 4419
   },
   {
    "date": "2026-10-21",
-   "views": 457
+   "views": 4776
   },
   {
    "date": "2026-10-22",
-   "views": 458
+   "views": 4222
   },
   {
    "date": "2026-10-23",
-   "views": 537
+   "views": 4034
   },
   {
    "date": "2026-10-24",
-   "views": 469
+   "views": 3895
   },
   {
    "date": "2026-10-25",
-   "views": 530
+   "views": 3557
   },
   {
    "date": "2026-10-26",
-   "views": 438
+   "views": 3480
   },
   {
    "date": "2026-10-27",
-   "views": 498
+   "views": 3391
   },
   {
    "date": "2026-10-28",
-   "views": 535
+   "views": 3312
   },
   {
    "date": "2026-10-29",
-   "views": 551
+   "views": 3333
   },
   {
    "date": "2026-10-30",
-   "views": 558
+   "views": 3419
   },
   {
    "date": "2026-10-31",
-   "views": 508
+   "views": 3254
   },
   {
    "date": "2026-11-01",
-   "views": 472
+   "views": 6334
   },
   {
    "date": "2026-11-02",
-   "views": 526
+   "views": 4578
   },
   {
    "date": "2026-11-03",
-   "views": 425
+   "views": 3378
   },
   {
    "date": "2026-11-04",
-   "views": 470
+   "views": 3297
   },
   {
    "date": "2026-11-05",
-   "views": 566
+   "views": 3233
   },
   {
    "date": "2026-11-06",
-   "views": 532
+   "views": 3198
   },
   {
    "date": "2026-11-07",
-   "views": 795
+   "views": 3290
   },
   {
    "date": "2026-11-08",
-   "views": 747
+   "views": 3970
   },
   {
    "date": "2026-11-09",
-   "views": 618
+   "views": 3200
   },
   {
    "date": "2026-11-10",
-   "views": 670
+   "views": 3464
   },
   {
    "date": "2026-11-11",
-   "views": 796
+   "views": 3297
   },
   {
    "date": "2026-11-12",
-   "views": 848
+   "views": 2833
   },
   {
    "date": "2026-11-13",
-   "views": 1438
+   "views": 3259
   },
   {
    "date": "2026-11-14",
-   "views": 1301
+   "views": 3926
   },
   {
    "date": "2026-11-15",
-   "views": 1703
+   "views": 5760
   },
   {
    "date": "2026-11-16",
-   "views": 1394
+   "views": 4330
   },
   {
    "date": "2026-11-17",
-   "views": 1336
+   "views": 7437
   },
   {
    "date": "2026-11-18",
-   "views": 1136
+   "views": 4845
   },
   {
    "date": "2026-11-19",
-   "views": 1150
+   "views": 3396
   },
   {
    "date": "2026-11-20",
-   "views": 1269
+   "views": 3081
   },
   {
    "date": "2026-11-21",
-   "views": 1302
+   "views": 3077
   },
   {
    "date": "2026-11-22",
-   "views": 1744
+   "views": 3846
   },
   {
    "date": "2026-11-23",
-   "views": 2709
+   "views": 3111
   },
   {
    "date": "2026-11-24",
-   "views": 4232
+   "views": 3484
   },
   {
    "date": "2026-11-25",
-   "views": 93312
+   "views": 3764
+  },
+  {
+   "date": "2026-11-26",
+   "views": 147607
   }
  ],
- "wikipedia_title": "Miss_International_2026",
+ "wikipedia_title": "Wu-Tang_Clan",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

@@ -1,37 +1,33 @@
 {
  "title": "Andy Taylor (guitarist)",
  "slug": "andy-taylor-guitarist",
- "score": 37,
+ "score": 58,
  "status": "Breaking out",
- "change_percent": 4547,
- "growth_ratio": 46.45,
- "recent_avg": 45536,
- "baseline_avg": 980,
- "explanation": "Attention is 46\u00d7 its 30-day baseline.",
+ "change_percent": 15634,
+ "growth_ratio": 157.32,
+ "recent_avg": 151517,
+ "baseline_avg": 963,
+ "explanation": "Attention is 157\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 44556,
- "latest": 135665,
+ "abs_change": 150554,
+ "latest": 318400,
  "components": {
-  "acceleration": 0.981,
+  "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.933,
-  "volume": 0.829,
-  "spike_quality": 0.514
+  "persistence": 0.4,
+  "momentum": 1.0,
+  "volume": 1.0,
+  "spike_quality": 0.677
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 45,536 views/day over the last 3 days (30-day baseline: 980)."
+  "Averaging 151,517 views/day over the last 3 days (30-day baseline: 963)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 699
-  },
   {
    "date": "2026-10-18",
    "views": 629
@@ -187,11 +183,15 @@
   {
    "date": "2026-11-25",
    "views": 135665
+  },
+  {
+   "date": "2026-11-26",
+   "views": 318400
   }
  ],
  "wikipedia_title": "Andy_Taylor_(guitarist)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

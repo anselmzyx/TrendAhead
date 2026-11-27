@@ -1,198 +1,198 @@
 {
- "title": "The Lord of the Rings: The Rings of Power season 3",
- "slug": "the-lord-of-the-rings-the-rings-of-power-season-3",
- "score": 21,
+ "title": "Thanksgiving (United States)",
+ "slug": "thanksgiving-united-states",
+ "score": 67,
  "status": "Building",
- "change_percent": 108,
- "growth_ratio": 2.08,
- "recent_avg": 39484,
- "baseline_avg": 19026,
- "explanation": "Attention is 2.1\u00d7 its 30-day baseline.",
+ "change_percent": 658,
+ "growth_ratio": 7.58,
+ "recent_avg": 45851,
+ "baseline_avg": 6050,
+ "explanation": "Attention is 7.6\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 20458,
- "latest": 58918,
+ "abs_change": 39801,
+ "latest": 79016,
  "components": {
-  "acceleration": 0.187,
-  "anomaly": 0.1,
-  "persistence": 0.4,
-  "momentum": 0.933,
-  "volume": 0.798,
-  "spike_quality": 0.941
+  "acceleration": 0.518,
+  "anomaly": 1.0,
+  "persistence": 1.0,
+  "momentum": 1.0,
+  "volume": 0.831,
+  "spike_quality": 0.84
  },
  "why": [
-  "Recent attention is close to this topic's usual level.",
-  "The elevated interest has not yet persisted across multiple days.",
+  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 39,484 views/day over the last 3 days (30-day baseline: 19,026)."
+  "Averaging 45,851 views/day over the last 3 days (30-day baseline: 6,050)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 893
-  },
-  {
    "date": "2026-10-18",
-   "views": 1044
+   "views": 1416
   },
   {
    "date": "2026-10-19",
-   "views": 1162
+   "views": 1772
   },
   {
    "date": "2026-10-20",
-   "views": 1496
+   "views": 1687
   },
   {
    "date": "2026-10-21",
-   "views": 2592
+   "views": 1681
   },
   {
    "date": "2026-10-22",
-   "views": 3616
+   "views": 1739
   },
   {
    "date": "2026-10-23",
-   "views": 3034
+   "views": 1638
   },
   {
    "date": "2026-10-24",
-   "views": 2240
+   "views": 1529
   },
   {
    "date": "2026-10-25",
-   "views": 2228
+   "views": 1623
   },
   {
    "date": "2026-10-26",
-   "views": 2207
+   "views": 2276
   },
   {
    "date": "2026-10-27",
-   "views": 2025
+   "views": 2101
   },
   {
    "date": "2026-10-28",
-   "views": 2239
+   "views": 2116
   },
   {
    "date": "2026-10-29",
-   "views": 2416
+   "views": 2413
   },
   {
    "date": "2026-10-30",
-   "views": 2165
+   "views": 2548
   },
   {
    "date": "2026-10-31",
-   "views": 1868
+   "views": 2595
   },
   {
    "date": "2026-11-01",
-   "views": 2257
+   "views": 4097
   },
   {
    "date": "2026-11-02",
-   "views": 2799
+   "views": 5156
   },
   {
    "date": "2026-11-03",
-   "views": 3072
+   "views": 4333
   },
   {
    "date": "2026-11-04",
-   "views": 2880
+   "views": 4643
   },
   {
    "date": "2026-11-05",
-   "views": 3529
+   "views": 4498
   },
   {
    "date": "2026-11-06",
-   "views": 3889
+   "views": 4391
   },
   {
    "date": "2026-11-07",
-   "views": 3855
+   "views": 3546
   },
   {
    "date": "2026-11-08",
-   "views": 4910
+   "views": 4144
   },
   {
    "date": "2026-11-09",
-   "views": 5679
+   "views": 5521
   },
   {
    "date": "2026-11-10",
-   "views": 8592
+   "views": 5405
   },
   {
    "date": "2026-11-11",
-   "views": 53372
+   "views": 5310
   },
   {
    "date": "2026-11-12",
-   "views": 61322
+   "views": 6043
   },
   {
    "date": "2026-11-13",
-   "views": 52032
+   "views": 6296
   },
   {
    "date": "2026-11-14",
-   "views": 47772
+   "views": 5761
   },
   {
    "date": "2026-11-15",
-   "views": 49876
+   "views": 6569
   },
   {
    "date": "2026-11-16",
-   "views": 42367
+   "views": 8980
   },
   {
    "date": "2026-11-17",
-   "views": 35757
+   "views": 8859
   },
   {
    "date": "2026-11-18",
-   "views": 46835
+   "views": 9303
   },
   {
    "date": "2026-11-19",
-   "views": 39163
+   "views": 10884
   },
   {
    "date": "2026-11-20",
-   "views": 28619
+   "views": 12137
   },
   {
    "date": "2026-11-21",
-   "views": 26885
+   "views": 9102
   },
   {
    "date": "2026-11-22",
-   "views": 27925
+   "views": 12456
   },
   {
    "date": "2026-11-23",
-   "views": 26110
+   "views": 18399
   },
   {
    "date": "2026-11-24",
-   "views": 33425
+   "views": 21680
   },
   {
    "date": "2026-11-25",
-   "views": 58918
+   "views": 36857
+  },
+  {
+   "date": "2026-11-26",
+   "views": 79016
   }
  ],
- "wikipedia_title": "The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+ "wikipedia_title": "Thanksgiving_(United_States)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

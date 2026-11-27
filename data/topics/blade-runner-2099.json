@@ -1,38 +1,33 @@
 {
  "title": "Blade Runner 2099",
  "slug": "blade-runner-2099",
- "score": 65,
+ "score": 61,
  "status": "Building",
- "change_percent": 708,
- "growth_ratio": 8.08,
- "recent_avg": 43320,
- "baseline_avg": 5363,
- "explanation": "Attention is 8.1\u00d7 its 30-day baseline.",
+ "change_percent": 981,
+ "growth_ratio": 10.81,
+ "recent_avg": 64311,
+ "baseline_avg": 5948,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 37957,
- "latest": 86001,
+ "abs_change": 58363,
+ "latest": 82520,
  "components": {
-  "acceleration": 0.534,
+  "acceleration": 0.609,
   "anomaly": 1.0,
-  "persistence": 1.0,
-  "momentum": 1.0,
-  "volume": 0.818,
-  "spike_quality": 0.803
+  "persistence": 0.92,
+  "momentum": 0.776,
+  "volume": 0.904,
+  "spike_quality": 0.865
  },
  "why": [
-  "Recent attention is meaningfully above this topic's 30-day normal.",
+  "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 43,320 views/day over the last 3 days (30-day baseline: 5,363)."
+  "Averaging 64,311 views/day over the last 3 days (30-day baseline: 5,948)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 2404
-  },
   {
    "date": "2026-10-18",
    "views": 2699
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-25",
    "views": 86001
+  },
+  {
+   "date": "2026-11-26",
+   "views": 82520
   }
  ],
  "wikipedia_title": "Blade_Runner_2099",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

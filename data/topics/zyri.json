@@ -1,36 +1,34 @@
 {
  "title": "Zyri",
  "slug": "zyri",
- "score": 31,
+ "score": 56,
  "status": "Breaking out",
  "change_percent": null,
- "growth_ratio": 241.61,
- "recent_avg": 24161,
+ "growth_ratio": 536.74,
+ "recent_avg": 53674,
  "baseline_avg": 0,
- "explanation": "Attention is 242\u00d7 its 30-day baseline.",
+ "explanation": "Attention is 537\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 24161,
- "latest": 72484,
+ "abs_change": 53674,
+ "latest": 88538,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.692,
-  "spike_quality": 0.5
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.865,
+  "spike_quality": 0.763
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 24,161 views/day over the last 3 days (30-day baseline: 0)."
+  "Recent traffic is spread across several days rather than one spike.",
+  "The latest day is at or near the recent peak and still rising.",
+  "Averaging 53,674 views/day over the last 3 days (30-day baseline: 0)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 0
-  },
   {
    "date": "2026-10-18",
    "views": 0
@@ -186,11 +184,15 @@
   {
    "date": "2026-11-25",
    "views": 72484
+  },
+  {
+   "date": "2026-11-26",
+   "views": 88538
   }
  ],
  "wikipedia_title": "Zyri",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

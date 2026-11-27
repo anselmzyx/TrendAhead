@@ -1,36 +1,32 @@
 {
  "title": "Martha Firestone Ford",
  "slug": "martha-firestone-ford",
- "score": 33,
- "status": "Breaking out",
- "change_percent": 12990,
- "growth_ratio": 130.87,
- "recent_avg": 37436,
- "baseline_avg": 286,
- "explanation": "Attention is 131\u00d7 its 30-day baseline.",
+ "score": 40,
+ "status": "Elevated",
+ "change_percent": 23035,
+ "growth_ratio": 231.61,
+ "recent_avg": 67091,
+ "baseline_avg": 290,
+ "explanation": "Attention is 232\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 37150,
- "latest": 111793,
+ "abs_change": 66801,
+ "latest": 89240,
  "components": {
   "acceleration": 1.0,
   "anomaly": 1.0,
-  "persistence": 0.2,
-  "momentum": 0.8,
-  "volume": 0.787,
-  "spike_quality": 0.507
+  "persistence": 0.32,
+  "momentum": 0.612,
+  "volume": 0.913,
+  "spike_quality": 0.66
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "The elevated interest has not yet persisted across multiple days.",
-  "Averaging 37,436 views/day over the last 3 days (30-day baseline: 286)."
+  "Averaging 67,091 views/day over the last 3 days (30-day baseline: 290)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 254
-  },
   {
    "date": "2026-10-18",
    "views": 204
@@ -186,11 +182,15 @@
   {
    "date": "2026-11-25",
    "views": 111793
+  },
+  {
+   "date": "2026-11-26",
+   "views": 89240
   }
  ],
  "wikipedia_title": "Martha_Firestone_Ford",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

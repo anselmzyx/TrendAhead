@@ -1,196 +1,196 @@
 {
- "title": "Soham murders",
- "slug": "soham-murders",
- "score": 39,
- "status": "Elevated",
- "change_percent": 4473,
- "growth_ratio": 45.73,
- "recent_avg": 52868,
- "baseline_avg": 1156,
- "explanation": "Attention is 46\u00d7 its 30-day baseline.",
+ "title": "Chad Smith",
+ "slug": "chad-smith",
+ "score": 38,
+ "status": "Breaking out",
+ "change_percent": 1045,
+ "growth_ratio": 11.44,
+ "recent_avg": 25122,
+ "baseline_avg": 2195,
+ "explanation": "Attention is 11\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 51712,
- "latest": 56184,
+ "abs_change": 22927,
+ "latest": 69113,
  "components": {
-  "acceleration": 0.977,
+  "acceleration": 0.623,
   "anomaly": 1.0,
-  "persistence": 0.52,
-  "momentum": 0.587,
-  "volume": 0.862,
-  "spike_quality": 0.593
+  "persistence": 0.56,
+  "momentum": 0.8,
+  "volume": 0.7,
+  "spike_quality": 0.655
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated for more than one day.",
-  "Averaging 52,868 views/day over the last 3 days (30-day baseline: 1,156)."
+  "Averaging 25,122 views/day over the last 3 days (30-day baseline: 2,195)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 676
-  },
-  {
    "date": "2026-10-18",
-   "views": 2628
+   "views": 1672
   },
   {
    "date": "2026-10-19",
-   "views": 1179
+   "views": 1589
   },
   {
    "date": "2026-10-20",
-   "views": 1378
+   "views": 1447
   },
   {
    "date": "2026-10-21",
-   "views": 990
+   "views": 1483
   },
   {
    "date": "2026-10-22",
-   "views": 752
+   "views": 1503
   },
   {
    "date": "2026-10-23",
-   "views": 660
+   "views": 1548
   },
   {
    "date": "2026-10-24",
-   "views": 727
+   "views": 1620
   },
   {
    "date": "2026-10-25",
-   "views": 907
+   "views": 2237
   },
   {
    "date": "2026-10-26",
-   "views": 772
+   "views": 1706
   },
   {
    "date": "2026-10-27",
-   "views": 677
+   "views": 1430
   },
   {
    "date": "2026-10-28",
-   "views": 754
+   "views": 1436
   },
   {
    "date": "2026-10-29",
-   "views": 640
+   "views": 2123
   },
   {
    "date": "2026-10-30",
-   "views": 613
+   "views": 2780
   },
   {
    "date": "2026-10-31",
-   "views": 513
+   "views": 2436
   },
   {
    "date": "2026-11-01",
-   "views": 560
+   "views": 1833
   },
   {
    "date": "2026-11-02",
-   "views": 682
+   "views": 1465
   },
   {
    "date": "2026-11-03",
-   "views": 687
+   "views": 1348
   },
   {
    "date": "2026-11-04",
-   "views": 753
+   "views": 1258
   },
   {
    "date": "2026-11-05",
-   "views": 895
+   "views": 1494
   },
   {
    "date": "2026-11-06",
-   "views": 935
+   "views": 1634
   },
   {
    "date": "2026-11-07",
-   "views": 744
+   "views": 1746
   },
   {
    "date": "2026-11-08",
-   "views": 1072
+   "views": 1692
   },
   {
    "date": "2026-11-09",
-   "views": 1853
+   "views": 1485
   },
   {
    "date": "2026-11-10",
-   "views": 2623
+   "views": 1670
   },
   {
    "date": "2026-11-11",
-   "views": 2429
+   "views": 1764
   },
   {
    "date": "2026-11-12",
-   "views": 2175
+   "views": 1672
   },
   {
    "date": "2026-11-13",
-   "views": 1920
+   "views": 1720
   },
   {
    "date": "2026-11-14",
-   "views": 1531
+   "views": 1760
   },
   {
    "date": "2026-11-15",
-   "views": 2871
+   "views": 2376
   },
   {
    "date": "2026-11-16",
-   "views": 1704
+   "views": 2606
   },
   {
    "date": "2026-11-17",
-   "views": 1033
+   "views": 1986
   },
   {
    "date": "2026-11-18",
-   "views": 1053
+   "views": 1715
   },
   {
    "date": "2026-11-19",
-   "views": 976
+   "views": 1669
   },
   {
    "date": "2026-11-20",
-   "views": 838
+   "views": 5205
   },
   {
    "date": "2026-11-21",
-   "views": 859
+   "views": 5807
   },
   {
    "date": "2026-11-22",
-   "views": 887
+   "views": 4449
   },
   {
    "date": "2026-11-23",
-   "views": 15399
+   "views": 3356
   },
   {
    "date": "2026-11-24",
-   "views": 87021
+   "views": 3327
   },
   {
    "date": "2026-11-25",
-   "views": 56184
+   "views": 2926
+  },
+  {
+   "date": "2026-11-26",
+   "views": 69113
   }
  ],
- "wikipedia_title": "Soham_murders",
+ "wikipedia_title": "Chad_Smith",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

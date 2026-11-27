@@ -1,38 +1,33 @@
 {
  "title": "Hexed (2026 film)",
  "slug": "hexed-2026-film",
- "score": 58,
+ "score": 54,
  "status": "Building",
- "change_percent": 301,
- "growth_ratio": 4.01,
- "recent_avg": 36416,
- "baseline_avg": 9081,
- "explanation": "Attention is 4.0\u00d7 its 30-day baseline.",
+ "change_percent": 393,
+ "growth_ratio": 4.93,
+ "recent_avg": 46868,
+ "baseline_avg": 9501,
+ "explanation": "Attention is 4.9\u00d7 its 30-day baseline.",
  "discovery": [
   "improver"
  ],
- "abs_change": 27335,
- "latest": 55545,
+ "abs_change": 37367,
+ "latest": 50949,
  "components": {
-  "acceleration": 0.355,
-  "anomaly": 0.91,
+  "acceleration": 0.408,
+  "anomaly": 1.0,
   "persistence": 0.92,
-  "momentum": 1.0,
-  "volume": 0.781,
-  "spike_quality": 0.887
+  "momentum": 0.75,
+  "volume": 0.835,
+  "spike_quality": 0.884
  },
  "why": [
   "Recent attention is meaningfully above this topic's 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
   "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 36,416 views/day over the last 3 days (30-day baseline: 9,081)."
+  "Averaging 46,868 views/day over the last 3 days (30-day baseline: 9,501)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 6630
-  },
   {
    "date": "2026-10-18",
    "views": 6201
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-25",
    "views": 55545
+  },
+  {
+   "date": "2026-11-26",
+   "views": 50949
   }
  ],
  "wikipedia_title": "Hexed_(2026_film)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

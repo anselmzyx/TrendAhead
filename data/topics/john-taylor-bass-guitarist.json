@@ -1,197 +1,197 @@
 {
- "title": "Bea Millan-Windorski",
- "slug": "bea-millan-windorski",
- "score": 49,
+ "title": "John Taylor (bass guitarist)",
+ "slug": "john-taylor-bass-guitarist",
+ "score": 45,
  "status": "Breaking out",
- "change_percent": 2273,
- "growth_ratio": 23.73,
- "recent_avg": 27265,
- "baseline_avg": 1149,
- "explanation": "Attention is 24\u00d7 its 30-day baseline.",
+ "change_percent": 2553,
+ "growth_ratio": 26.53,
+ "recent_avg": 33717,
+ "baseline_avg": 1271,
+ "explanation": "Attention is 27\u00d7 its 30-day baseline.",
  "discovery": [
   "new entrant"
  ],
- "abs_change": 26116,
- "latest": 61208,
+ "abs_change": 32446,
+ "latest": 72841,
  "components": {
-  "acceleration": 0.809,
+  "acceleration": 0.838,
   "anomaly": 1.0,
-  "persistence": 0.72,
-  "momentum": 0.867,
-  "volume": 0.718,
-  "spike_quality": 0.697
+  "persistence": 0.4,
+  "momentum": 0.933,
+  "volume": 0.764,
+  "spike_quality": 0.675
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
-  "Interest has stayed elevated for more than one day.",
+  "The elevated interest has not yet persisted across multiple days.",
   "The latest day is at or near the recent peak and still rising.",
-  "Averaging 27,265 views/day over the last 3 days (30-day baseline: 1,149)."
+  "Averaging 33,717 views/day over the last 3 days (30-day baseline: 1,271)."
  ],
  "history": [
   {
-   "date": "2026-10-17",
-   "views": 849
-  },
-  {
    "date": "2026-10-18",
-   "views": 741
+   "views": 973
   },
   {
    "date": "2026-10-19",
-   "views": 555
+   "views": 955
   },
   {
    "date": "2026-10-20",
-   "views": 472
+   "views": 1632
   },
   {
    "date": "2026-10-21",
-   "views": 607
+   "views": 1815
   },
   {
    "date": "2026-10-22",
-   "views": 604
+   "views": 1056
   },
   {
    "date": "2026-10-23",
-   "views": 479
+   "views": 1217
   },
   {
    "date": "2026-10-24",
-   "views": 427
+   "views": 1499
   },
   {
    "date": "2026-10-25",
-   "views": 350
+   "views": 1188
   },
   {
    "date": "2026-10-26",
-   "views": 354
+   "views": 1107
   },
   {
    "date": "2026-10-27",
-   "views": 369
+   "views": 1164
   },
   {
    "date": "2026-10-28",
-   "views": 392
+   "views": 1203
   },
   {
    "date": "2026-10-29",
-   "views": 366
+   "views": 1603
   },
   {
    "date": "2026-10-30",
-   "views": 342
+   "views": 1432
   },
   {
    "date": "2026-10-31",
-   "views": 351
+   "views": 1280
   },
   {
    "date": "2026-11-01",
-   "views": 382
+   "views": 1440
   },
   {
    "date": "2026-11-02",
-   "views": 393
+   "views": 1057
   },
   {
    "date": "2026-11-03",
-   "views": 574
+   "views": 2053
   },
   {
    "date": "2026-11-04",
-   "views": 592
+   "views": 1004
   },
   {
    "date": "2026-11-05",
-   "views": 836
+   "views": 783
   },
   {
    "date": "2026-11-06",
-   "views": 764
+   "views": 893
   },
   {
    "date": "2026-11-07",
-   "views": 749
+   "views": 881
   },
   {
    "date": "2026-11-08",
-   "views": 1141
+   "views": 1062
   },
   {
    "date": "2026-11-09",
-   "views": 1579
+   "views": 1117
   },
   {
    "date": "2026-11-10",
-   "views": 1102
+   "views": 892
   },
   {
    "date": "2026-11-11",
-   "views": 1524
+   "views": 779
   },
   {
    "date": "2026-11-12",
-   "views": 1752
+   "views": 4216
   },
   {
    "date": "2026-11-13",
-   "views": 1475
+   "views": 3637
   },
   {
    "date": "2026-11-14",
-   "views": 2318
+   "views": 1907
   },
   {
    "date": "2026-11-15",
-   "views": 1927
-  },
-  {
-   "date": "2026-11-16",
-   "views": 1367
-  },
-  {
-   "date": "2026-11-17",
-   "views": 1100
-  },
-  {
-   "date": "2026-11-18",
-   "views": 1330
-  },
-  {
-   "date": "2026-11-19",
-   "views": 1234
-  },
-  {
-   "date": "2026-11-20",
-   "views": 1279
-  },
-  {
-   "date": "2026-11-21",
    "views": 1354
   },
   {
+   "date": "2026-11-16",
+   "views": 1024
+  },
+  {
+   "date": "2026-11-17",
+   "views": 774
+  },
+  {
+   "date": "2026-11-18",
+   "views": 702
+  },
+  {
+   "date": "2026-11-19",
+   "views": 676
+  },
+  {
+   "date": "2026-11-20",
+   "views": 735
+  },
+  {
+   "date": "2026-11-21",
+   "views": 768
+  },
+  {
    "date": "2026-11-22",
-   "views": 6748
+   "views": 717
   },
   {
    "date": "2026-11-23",
-   "views": 11350
+   "views": 672
   },
   {
    "date": "2026-11-24",
-   "views": 9237
+   "views": 631
   },
   {
    "date": "2026-11-25",
-   "views": 61208
+   "views": 27678
+  },
+  {
+   "date": "2026-11-26",
+   "views": 72841
   }
  ],
- "wikipedia_title": "Bea_Millan-Windorski",
+ "wikipedia_title": "John_Taylor_(bass_guitarist)",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }

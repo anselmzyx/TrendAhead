@@ -1,38 +1,33 @@
 {
  "title": "Lead(II) azide",
  "slug": "lead-ii-azide",
- "score": 69,
- "status": "Building",
- "change_percent": 2043,
- "growth_ratio": 21.43,
- "recent_avg": 68365,
- "baseline_avg": 3190,
- "explanation": "Attention is 21\u00d7 its 30-day baseline.",
+ "score": 28,
+ "status": "Peaked / fading",
+ "change_percent": 1491,
+ "growth_ratio": 15.92,
+ "recent_avg": 68716,
+ "baseline_avg": 4318,
+ "explanation": "Attention surged to 16\u00d7 its 30-day baseline but has fallen back from its peak.",
  "discovery": [
   "improver"
  ],
- "abs_change": 65175,
- "latest": 119831,
+ "abs_change": 64398,
+ "latest": 34919,
  "components": {
-  "acceleration": 0.783,
-  "anomaly": 0.843,
+  "acceleration": 0.707,
+  "anomaly": 0.68,
   "persistence": 0.84,
-  "momentum": 1.0,
-  "volume": 0.917,
-  "spike_quality": 0.842
+  "momentum": 0.375,
+  "volume": 0.919,
+  "spike_quality": 0.502
  },
  "why": [
   "Recent attention is far above this topic's own 30-day normal.",
   "Interest has stayed elevated and kept climbing across recent days.",
-  "Recent traffic is spread across several days rather than one spike.",
-  "The latest day is at or near the recent peak and still rising.",
-  "Averaging 68,365 views/day over the last 3 days (30-day baseline: 3,190)."
+  "The latest day is well below the recent peak \u2014 attention is receding.",
+  "Averaging 68,716 views/day over the last 3 days (30-day baseline: 4,318)."
  ],
  "history": [
-  {
-   "date": "2026-10-17",
-   "views": 70
-  },
   {
    "date": "2026-10-18",
    "views": 62
@@ -188,11 +183,15 @@
   {
    "date": "2026-11-25",
    "views": 119831
+  },
+  {
+   "date": "2026-11-26",
+   "views": 34919
   }
  ],
  "wikipedia_title": "Lead(II)_azide",
  "source": "Wikipedia pageviews (Wikimedia Analytics API, CC0)",
  "score_version": "v1.1",
- "data_through": "2026-11-25",
- "generated_at_utc": "2026-11-26T15:42:11+00:00"
+ "data_through": "2026-11-26",
+ "generated_at_utc": "2026-11-27T15:30:50+00:00"
 }
